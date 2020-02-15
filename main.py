@@ -48,7 +48,7 @@ def results(prof_name, search_term):
     search = QueryForm(request.form)
     if request.method == 'POST':
         search_string = request.form['query']
-        return redirect('/'+search_string)
+        return redirect('/'+prof_name+'/'+search_string)
     return render_template('index.html', form=search, 
         name=search_term, urls=urls, leftContexts=leftContexts, 
         rightContexts=rightContexts, titleContexts=titleContexts, showViewer=len(urls)>0)

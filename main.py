@@ -31,7 +31,7 @@ def home():
 
 @app.route('/<search_term>', methods=('GET', 'POST'))
 def results(search_term):
-    urls, raw_phrases = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
+    titles, urls, raw_phrases = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
     leftContexts = []
     rightContexts = []
     for phrase in raw_phrases:

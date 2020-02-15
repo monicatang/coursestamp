@@ -9,7 +9,7 @@ and out puts the youtube timestamped link.
 
 Returns previous phrase to allow for prepadding and post padding of phrase.
 """
-def find_occurances(phrase, filename):
+def find_occurrences(phrase, filename):
   ret = []
   with open(filename) as file:
     data = json.load(file)
@@ -25,4 +25,4 @@ def find_occurances(phrase, filename):
 if __name__ == '__main__':
   args = sys.argv
   assert len(args) == 3, "Must provide string and file"
-  find_occurances(args[1], args[2])
+  find_occurrences(args[1], args[2])

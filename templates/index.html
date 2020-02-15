@@ -17,7 +17,12 @@
           <button type="submit" class="btn btn-success">Submit</button>
         </form>
         <br>
+        <form action="/listen" method="post">
+          {{ form.hidden_tag() }}
+          <button type="submit" class="btn btn-success">Voice Query</button>
+        </form>
         <h3 style="padding:32px" class="title">{{ name }}</h3>
+
       </center>
     </div>
   </body>

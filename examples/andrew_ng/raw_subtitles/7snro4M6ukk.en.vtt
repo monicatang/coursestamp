@@ -1,0 +1,1936 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.149 align:start position:0%
+ 
+in<00:00:00.420><c> this</c><00:00:00.599><c> video</c><00:00:00.930><c> we'll</c><00:00:01.380><c> tell</c><00:00:01.620><c> you</c><00:00:01.650><c> about</c><00:00:01.829><c> a</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+in this video we'll tell you about a
+ 
+
+00:00:02.159 --> 00:00:04.039 align:start position:0%
+in this video we'll tell you about a
+couple<00:00:02.370><c> of</c><00:00:02.550><c> special</c><00:00:02.760><c> matrix</c><00:00:03.330><c> operations</c>
+
+00:00:04.039 --> 00:00:04.049 align:start position:0%
+couple of special matrix operations
+ 
+
+00:00:04.049 --> 00:00:06.740 align:start position:0%
+couple of special matrix operations
+called<00:00:04.529><c> the</c><00:00:04.859><c> matrix</c><00:00:05.069><c> inverse</c><00:00:05.790><c> and</c><00:00:06.089><c> the</c><00:00:06.390><c> matrix</c>
+
+00:00:06.740 --> 00:00:06.750 align:start position:0%
+called the matrix inverse and the matrix
+ 
+
+00:00:06.750 --> 00:00:09.230 align:start position:0%
+called the matrix inverse and the matrix
+transpose<00:00:07.379><c> operation</c><00:00:07.910><c> that's</c><00:00:08.910><c> not</c><00:00:09.120><c> by</c>
+
+00:00:09.230 --> 00:00:09.240 align:start position:0%
+transpose operation that's not by
+ 
+
+00:00:09.240 --> 00:00:12.799 align:start position:0%
+transpose operation that's not by
+talking<00:00:09.630><c> about</c><00:00:09.660><c> matrix</c><00:00:10.230><c> inverse</c><00:00:10.759><c> and</c><00:00:11.809><c> as</c>
+
+00:00:12.799 --> 00:00:12.809 align:start position:0%
+talking about matrix inverse and as
+ 
+
+00:00:12.809 --> 00:00:14.480 align:start position:0%
+talking about matrix inverse and as
+usual<00:00:13.259><c> we'll</c><00:00:13.380><c> start</c><00:00:13.590><c> by</c><00:00:13.769><c> thinking</c><00:00:14.099><c> about</c><00:00:14.309><c> how</c>
+
+00:00:14.480 --> 00:00:14.490 align:start position:0%
+usual we'll start by thinking about how
+ 
+
+00:00:14.490 --> 00:00:17.779 align:start position:0%
+usual we'll start by thinking about how
+relates<00:00:15.150><c> to</c><00:00:15.540><c> real</c><00:00:15.960><c> numbers</c><00:00:16.279><c> in</c><00:00:17.279><c> the</c><00:00:17.580><c> last</c>
+
+00:00:17.779 --> 00:00:17.789 align:start position:0%
+relates to real numbers in the last
+ 
+
+00:00:17.789 --> 00:00:20.359 align:start position:0%
+relates to real numbers in the last
+video<00:00:18.090><c> I</c><00:00:18.330><c> said</c><00:00:18.690><c> that</c><00:00:18.720><c> the</c><00:00:19.140><c> number</c><00:00:19.289><c> one</c><00:00:19.740><c> plays</c><00:00:20.340><c> a</c>
+
+00:00:20.359 --> 00:00:20.369 align:start position:0%
+video I said that the number one plays a
+ 
+
+00:00:20.369 --> 00:00:24.740 align:start position:0%
+video I said that the number one plays a
+row<00:00:20.730><c> of</c><00:00:21.060><c> sort</c><00:00:21.510><c> of</c><00:00:21.539><c> the</c><00:00:21.689><c> identity</c><00:00:22.970><c> right</c><00:00:23.970><c> in</c><00:00:24.420><c> the</c>
+
+00:00:24.740 --> 00:00:24.750 align:start position:0%
+row of sort of the identity right in the
+ 
+
+00:00:24.750 --> 00:00:26.540 align:start position:0%
+row of sort of the identity right in the
+space<00:00:24.960><c> of</c><00:00:25.109><c> real</c><00:00:25.289><c> numbers</c><00:00:25.350><c> because</c><00:00:25.830><c> one</c><00:00:26.279><c> times</c>
+
+00:00:26.540 --> 00:00:26.550 align:start position:0%
+space of real numbers because one times
+ 
+
+00:00:26.550 --> 00:00:29.330 align:start position:0%
+space of real numbers because one times
+anything<00:00:26.880><c> is</c><00:00:27.330><c> equal</c><00:00:27.539><c> to</c><00:00:27.750><c> itself</c><00:00:27.949><c> it</c><00:00:28.949><c> turns</c><00:00:29.189><c> out</c>
+
+00:00:29.330 --> 00:00:29.340 align:start position:0%
+anything is equal to itself it turns out
+ 
+
+00:00:29.340 --> 00:00:31.130 align:start position:0%
+anything is equal to itself it turns out
+the<00:00:29.519><c> row</c><00:00:29.670><c> numbers</c><00:00:30.060><c> have</c><00:00:30.420><c> this</c><00:00:30.599><c> property</c><00:00:31.050><c> that</c>
+
+00:00:31.130 --> 00:00:31.140 align:start position:0%
+the row numbers have this property that
+ 
+
+00:00:31.140 --> 00:00:34.040 align:start position:0%
+the row numbers have this property that
+every<00:00:31.529><c> number</c><00:00:31.859><c> have</c><00:00:32.369><c> and</c><00:00:32.790><c> each</c><00:00:33.300><c> number</c><00:00:33.660><c> has</c><00:00:33.899><c> an</c>
+
+00:00:34.040 --> 00:00:34.050 align:start position:0%
+every number have and each number has an
+ 
+
+00:00:34.050 --> 00:00:36.530 align:start position:0%
+every number have and each number has an
+inverse<00:00:34.440><c> for</c><00:00:34.710><c> example</c><00:00:35.219><c> given</c><00:00:36.120><c> the</c><00:00:36.210><c> number</c>
+
+00:00:36.530 --> 00:00:36.540 align:start position:0%
+inverse for example given the number
+ 
+
+00:00:36.540 --> 00:00:39.590 align:start position:0%
+inverse for example given the number
+three<00:00:36.899><c> there</c><00:00:37.739><c> exists</c><00:00:38.219><c> some</c><00:00:38.489><c> number</c><00:00:38.940><c> which</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+three there exists some number which
+ 
+
+00:00:39.600 --> 00:00:41.869 align:start position:0%
+three there exists some number which
+happens<00:00:39.809><c> to</c><00:00:40.110><c> be</c><00:00:40.200><c> three</c><00:00:40.500><c> inverse</c><00:00:40.980><c> so</c><00:00:41.399><c> that</c><00:00:41.579><c> that</c>
+
+00:00:41.869 --> 00:00:41.879 align:start position:0%
+happens to be three inverse so that that
+ 
+
+00:00:41.879 --> 00:00:44.299 align:start position:0%
+happens to be three inverse so that that
+number<00:00:42.120><c> of</c><00:00:42.329><c> times</c><00:00:42.510><c> to</c><00:00:42.809><c> me</c><00:00:42.899><c> gives</c><00:00:43.620><c> you</c><00:00:43.739><c> back</c><00:00:44.010><c> the</c>
+
+00:00:44.299 --> 00:00:44.309 align:start position:0%
+number of times to me gives you back the
+ 
+
+00:00:44.309 --> 00:00:46.970 align:start position:0%
+number of times to me gives you back the
+identity<00:00:45.030><c> element</c><00:00:45.059><c> one</c><00:00:45.719><c> right</c><00:00:46.620><c> and</c><00:00:46.770><c> so</c><00:00:46.920><c> you</c>
+
+00:00:46.970 --> 00:00:46.980 align:start position:0%
+identity element one right and so you
+ 
+
+00:00:46.980 --> 00:00:48.889 align:start position:0%
+identity element one right and so you
+know<00:00:47.129><c> three</c><00:00:47.370><c> inverse</c><00:00:47.789><c> of</c><00:00:48.000><c> course</c><00:00:48.239><c> this</c><00:00:48.750><c> is</c>
+
+00:00:48.889 --> 00:00:48.899 align:start position:0%
+know three inverse of course this is
+ 
+
+00:00:48.899 --> 00:00:51.470 align:start position:0%
+know three inverse of course this is
+just<00:00:48.930><c> one</c><00:00:49.200><c> third</c><00:00:49.620><c> right</c><00:00:50.129><c> and</c><00:00:50.460><c> given</c><00:00:51.149><c> some</c>
+
+00:00:51.470 --> 00:00:51.480 align:start position:0%
+just one third right and given some
+ 
+
+00:00:51.480 --> 00:00:55.430 align:start position:0%
+just one third right and given some
+other<00:00:51.660><c> number</c><00:00:52.370><c> maybe</c><00:00:53.370><c> 12</c><00:00:54.199><c> there's</c><00:00:55.199><c> some</c>
+
+00:00:55.430 --> 00:00:55.440 align:start position:0%
+other number maybe 12 there's some
+ 
+
+00:00:55.440 --> 00:00:58.279 align:start position:0%
+other number maybe 12 there's some
+number<00:00:56.039><c> which</c><00:00:56.520><c> is</c><00:00:56.699><c> the</c><00:00:57.360><c> inverse</c><00:00:57.750><c> of</c><00:00:57.960><c> 12</c>
+
+00:00:58.279 --> 00:00:58.289 align:start position:0%
+number which is the inverse of 12
+ 
+
+00:00:58.289 --> 00:01:01.700 align:start position:0%
+number which is the inverse of 12
+written<00:00:58.829><c> as</c><00:00:59.070><c> 12</c><00:00:59.699><c> to</c><00:00:59.940><c> the</c><00:01:00.000><c> minus</c><00:01:00.390><c> 1</c><00:01:00.660><c> or</c><00:01:00.930><c> really</c>
+
+00:01:01.700 --> 00:01:01.710 align:start position:0%
+written as 12 to the minus 1 or really
+ 
+
+00:01:01.710 --> 00:01:04.579 align:start position:0%
+written as 12 to the minus 1 or really
+this<00:01:01.920><c> is</c><00:01:02.100><c> just</c><00:01:02.370><c> 1</c><00:01:02.730><c> 12</c><00:01:03.229><c> so</c><00:01:04.229><c> that</c><00:01:04.260><c> when</c><00:01:04.500><c> you</c>
+
+00:01:04.579 --> 00:01:04.589 align:start position:0%
+this is just 1 12 so that when you
+ 
+
+00:01:04.589 --> 00:01:07.010 align:start position:0%
+this is just 1 12 so that when you
+multiply<00:01:05.010><c> these</c><00:01:05.070><c> two</c><00:01:05.400><c> things</c><00:01:05.640><c> together</c><00:01:06.020><c> right</c>
+
+00:01:07.010 --> 00:01:07.020 align:start position:0%
+multiply these two things together right
+ 
+
+00:01:07.020 --> 00:01:09.350 align:start position:0%
+multiply these two things together right
+the<00:01:07.200><c> product</c><00:01:07.710><c> is</c><00:01:07.979><c> equal</c><00:01:08.220><c> to</c><00:01:08.460><c> the</c><00:01:08.970><c> identity</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+the product is equal to the identity
+ 
+
+00:01:09.360 --> 00:01:13.820 align:start position:0%
+the product is equal to the identity
+element<00:01:10.020><c> 1</c><00:01:10.830><c> again</c><00:01:11.510><c> now</c><00:01:12.510><c> it</c><00:01:12.780><c> turns</c><00:01:13.020><c> out</c><00:01:13.200><c> that</c><00:01:13.560><c> in</c>
+
+00:01:13.820 --> 00:01:13.830 align:start position:0%
+element 1 again now it turns out that in
+ 
+
+00:01:13.830 --> 00:01:16.010 align:start position:0%
+element 1 again now it turns out that in
+the<00:01:13.979><c> space</c><00:01:14.189><c> of</c><00:01:14.250><c> real</c><00:01:14.490><c> numbers</c><00:01:14.549><c> not</c><00:01:15.540><c> everything</c>
+
+00:01:16.010 --> 00:01:16.020 align:start position:0%
+the space of real numbers not everything
+ 
+
+00:01:16.020 --> 00:01:18.859 align:start position:0%
+the space of real numbers not everything
+has<00:01:16.259><c> an</c><00:01:16.439><c> inverse</c><00:01:16.799><c> for</c><00:01:17.159><c> example</c><00:01:17.640><c> the</c><00:01:18.150><c> number</c><00:01:18.479><c> 0</c>
+
+00:01:18.859 --> 00:01:18.869 align:start position:0%
+has an inverse for example the number 0
+ 
+
+00:01:18.869 --> 00:01:20.690 align:start position:0%
+has an inverse for example the number 0
+does<00:01:19.350><c> not</c><00:01:19.530><c> have</c><00:01:19.740><c> an</c><00:01:19.860><c> inverse</c><00:01:20.009><c> right</c><00:01:20.490><c> because</c>
+
+00:01:20.690 --> 00:01:20.700 align:start position:0%
+does not have an inverse right because
+ 
+
+00:01:20.700 --> 00:01:24.080 align:start position:0%
+does not have an inverse right because
+years<00:01:20.939><c> so</c><00:01:21.210><c> 0</c><00:01:21.659><c> inverse</c><00:01:22.200><c> is</c><00:01:22.650><c> 1</c><00:01:22.799><c> over</c><00:01:23.400><c> 0</c><00:01:23.700><c> that's</c>
+
+00:01:24.080 --> 00:01:24.090 align:start position:0%
+years so 0 inverse is 1 over 0 that's
+ 
+
+00:01:24.090 --> 00:01:26.960 align:start position:0%
+years so 0 inverse is 1 over 0 that's
+that's<00:01:24.390><c> undefined</c><00:01:24.750><c> right</c><00:01:25.710><c> this</c><00:01:25.950><c> 1</c><00:01:26.220><c> over</c><00:01:26.369><c> 0</c><00:01:26.790><c> is</c>
+
+00:01:26.960 --> 00:01:26.970 align:start position:0%
+that's undefined right this 1 over 0 is
+ 
+
+00:01:26.970 --> 00:01:30.740 align:start position:0%
+that's undefined right this 1 over 0 is
+it's<00:01:27.360><c> not</c><00:01:27.540><c> it's</c><00:01:28.080><c> not</c><00:01:28.200><c> well-defined</c><00:01:28.610><c> and</c><00:01:29.750><c> what</c>
+
+00:01:30.740 --> 00:01:30.750 align:start position:0%
+it's not it's not well-defined and what
+ 
+
+00:01:30.750 --> 00:01:32.450 align:start position:0%
+it's not it's not well-defined and what
+we<00:01:30.869><c> want</c><00:01:31.049><c> to</c><00:01:31.079><c> do</c><00:01:31.290><c> in</c><00:01:31.650><c> the</c><00:01:31.890><c> rest</c><00:01:32.070><c> of</c><00:01:32.159><c> the</c><00:01:32.250><c> slide</c>
+
+00:01:32.450 --> 00:01:32.460 align:start position:0%
+we want to do in the rest of the slide
+ 
+
+00:01:32.460 --> 00:01:34.910 align:start position:0%
+we want to do in the rest of the slide
+is<00:01:32.640><c> figure</c><00:01:32.939><c> out</c><00:01:33.060><c> what</c><00:01:33.659><c> does</c><00:01:33.780><c> it</c><00:01:33.930><c> mean</c><00:01:34.140><c> to</c><00:01:34.530><c> you</c>
+
+00:01:34.910 --> 00:01:34.920 align:start position:0%
+is figure out what does it mean to you
+ 
+
+00:01:34.920 --> 00:01:38.530 align:start position:0%
+is figure out what does it mean to you
+know<00:01:34.979><c> compute</c><00:01:35.460><c> the</c><00:01:35.549><c> inverse</c><00:01:36.030><c> of</c><00:01:36.360><c> a</c><00:01:36.720><c> matrix</c>
+
+00:01:38.530 --> 00:01:38.540 align:start position:0%
+know compute the inverse of a matrix
+ 
+
+00:01:38.540 --> 00:01:43.310 align:start position:0%
+know compute the inverse of a matrix
+here's<00:01:39.540><c> the</c><00:01:39.630><c> idea</c><00:01:39.930><c> um</c><00:01:40.650><c> if</c><00:01:41.340><c> a</c><00:01:41.790><c> is</c><00:01:42.210><c> an</c><00:01:42.509><c> M</c><00:01:42.540><c> by</c><00:01:43.049><c> M</c>
+
+00:01:43.310 --> 00:01:43.320 align:start position:0%
+here's the idea um if a is an M by M
+ 
+
+00:01:43.320 --> 00:01:46.219 align:start position:0%
+here's the idea um if a is an M by M
+matrix<00:01:43.350><c> and</c><00:01:44.340><c> if</c><00:01:45.090><c> has</c><00:01:45.240><c> an</c><00:01:45.420><c> inverse</c><00:01:45.780><c> I'll</c><00:01:46.049><c> say</c><00:01:46.200><c> a</c>
+
+00:01:46.219 --> 00:01:46.229 align:start position:0%
+matrix and if has an inverse I'll say a
+ 
+
+00:01:46.229 --> 00:01:47.899 align:start position:0%
+matrix and if has an inverse I'll say a
+little<00:01:46.259><c> bit</c><00:01:46.439><c> more</c><00:01:46.619><c> about</c><00:01:46.740><c> that</c><00:01:46.799><c> later</c><00:01:46.950><c> then</c>
+
+00:01:47.899 --> 00:01:47.909 align:start position:0%
+little bit more about that later then
+ 
+
+00:01:47.909 --> 00:01:51.590 align:start position:0%
+little bit more about that later then
+the<00:01:48.210><c> inverse</c><00:01:49.049><c> is</c><00:01:49.409><c> going</c><00:01:49.619><c> to</c><00:01:49.799><c> be</c><00:01:49.890><c> written</c><00:01:50.100><c> a</c><00:01:50.600><c> to</c>
+
+00:01:51.590 --> 00:01:51.600 align:start position:0%
+the inverse is going to be written a to
+ 
+
+00:01:51.600 --> 00:01:55.609 align:start position:0%
+the inverse is going to be written a to
+the<00:01:51.720><c> minus</c><00:01:52.079><c> 1</c><00:01:52.170><c> and</c><00:01:52.740><c> a</c><00:01:53.509><c> time</c><00:01:54.509><c> since</c><00:01:54.810><c> inverse</c><00:01:55.320><c> a</c>
+
+00:01:55.609 --> 00:01:55.619 align:start position:0%
+the minus 1 and a time since inverse a
+ 
+
+00:01:55.619 --> 00:01:57.499 align:start position:0%
+the minus 1 and a time since inverse a
+to<00:01:55.710><c> the</c><00:01:55.890><c> minus</c><00:01:56.219><c> 1</c><00:01:56.250><c> is</c><00:01:56.610><c> going</c><00:01:56.820><c> to</c><00:01:56.909><c> equal</c><00:01:57.030><c> to</c><00:01:57.479><c> a</c>
+
+00:01:57.499 --> 00:01:57.509 align:start position:0%
+to the minus 1 is going to equal to a
+ 
+
+00:01:57.509 --> 00:02:01.190 align:start position:0%
+to the minus 1 is going to equal to a
+inverse<00:01:58.110><c> times</c><00:01:58.680><c> a</c><00:01:59.490><c> is</c><00:01:59.729><c> going</c><00:02:00.570><c> to</c><00:02:00.600><c> give</c><00:02:00.869><c> us</c><00:02:00.899><c> back</c>
+
+00:02:01.190 --> 00:02:01.200 align:start position:0%
+inverse times a is going to give us back
+ 
+
+00:02:01.200 --> 00:02:06.440 align:start position:0%
+inverse times a is going to give us back
+the<00:02:01.439><c> identity</c><00:02:02.130><c> matrix</c><00:02:02.340><c> okay</c><00:02:04.310><c> only</c><00:02:05.450><c> matrices</c>
+
+00:02:06.440 --> 00:02:06.450 align:start position:0%
+the identity matrix okay only matrices
+ 
+
+00:02:06.450 --> 00:02:09.930 align:start position:0%
+the identity matrix okay only matrices
+that<00:02:06.719><c> are</c><00:02:06.869><c> M</c><00:02:07.110><c> by</c><00:02:07.320><c> M</c><00:02:07.590><c> for</c><00:02:07.979><c> some</c><00:02:08.190><c> value</c><00:02:08.550><c> of</c><00:02:08.640><c> M</c><00:02:08.879><c> have</c>
+
+00:02:09.930 --> 00:02:09.940 align:start position:0%
+that are M by M for some value of M have
+ 
+
+00:02:09.940 --> 00:02:12.810 align:start position:0%
+that are M by M for some value of M have
+so<00:02:10.120><c> it</c><00:02:10.930><c> matrixes</c><00:02:11.560><c> M</c><00:02:11.800><c> by</c><00:02:11.950><c> M</c><00:02:12.190><c> this</c><00:02:12.430><c> is</c><00:02:12.580><c> also</c>
+
+00:02:12.810 --> 00:02:12.820 align:start position:0%
+so it matrixes M by M this is also
+ 
+
+00:02:12.820 --> 00:02:17.280 align:start position:0%
+so it matrixes M by M this is also
+called<00:02:13.420><c> a</c><00:02:13.630><c> square</c><00:02:14.970><c> matrix</c><00:02:15.970><c> and</c><00:02:16.600><c> it's</c><00:02:17.080><c> called</c>
+
+00:02:17.280 --> 00:02:17.290 align:start position:0%
+called a square matrix and it's called
+ 
+
+00:02:17.290 --> 00:02:21.900 align:start position:0%
+called a square matrix and it's called
+square<00:02:17.560><c> because</c><00:02:18.070><c> the</c><00:02:18.310><c> number</c><00:02:18.670><c> of</c><00:02:18.960><c> rows</c><00:02:20.910><c> is</c>
+
+00:02:21.900 --> 00:02:21.910 align:start position:0%
+square because the number of rows is
+ 
+
+00:02:21.910 --> 00:02:25.800 align:start position:0%
+square because the number of rows is
+equal<00:02:22.090><c> to</c><00:02:22.420><c> the</c><00:02:22.660><c> number</c><00:02:22.810><c> of</c><00:02:23.050><c> columns</c><00:02:24.540><c> right</c><00:02:25.540><c> and</c>
+
+00:02:25.800 --> 00:02:25.810 align:start position:0%
+equal to the number of columns right and
+ 
+
+00:02:25.810 --> 00:02:28.440 align:start position:0%
+equal to the number of columns right and
+it<00:02:26.050><c> turns</c><00:02:26.230><c> out</c><00:02:26.380><c> only</c><00:02:26.860><c> square</c><00:02:27.250><c> matrices</c><00:02:27.670><c> have</c>
+
+00:02:28.440 --> 00:02:28.450 align:start position:0%
+it turns out only square matrices have
+ 
+
+00:02:28.450 --> 00:02:32.040 align:start position:0%
+it turns out only square matrices have
+inverses<00:02:28.770><c> so</c><00:02:29.770><c> a</c><00:02:30.010><c> is</c><00:02:30.550><c> a</c><00:02:30.610><c> square</c><00:02:30.970><c> matrix</c><00:02:31.000><c> is</c><00:02:31.660><c> n</c><00:02:31.930><c> by</c>
+
+00:02:32.040 --> 00:02:32.050 align:start position:0%
+inverses so a is a square matrix is n by
+ 
+
+00:02:32.050 --> 00:02:34.980 align:start position:0%
+inverses so a is a square matrix is n by
+M<00:02:32.200><c> and</c><00:02:32.470><c> if</c><00:02:33.280><c> it</c><00:02:33.400><c> is</c><00:02:33.520><c> inverse</c><00:02:33.820><c> then</c><00:02:34.240><c> it</c><00:02:34.420><c> satisfies</c>
+
+00:02:34.980 --> 00:02:34.990 align:start position:0%
+M and if it is inverse then it satisfies
+ 
+
+00:02:34.990 --> 00:02:37.860 align:start position:0%
+M and if it is inverse then it satisfies
+this<00:02:35.800><c> equation</c><00:02:36.130><c> over</c><00:02:36.400><c> here</c><00:02:36.570><c> let's</c><00:02:37.570><c> look</c><00:02:37.780><c> at</c>
+
+00:02:37.860 --> 00:02:37.870 align:start position:0%
+this equation over here let's look at
+ 
+
+00:02:37.870 --> 00:02:41.790 align:start position:0%
+this equation over here let's look at
+the<00:02:37.930><c> concrete</c><00:02:38.290><c> example</c><00:02:38.820><c> so</c><00:02:40.320><c> let's</c><00:02:41.320><c> say</c><00:02:41.530><c> I</c><00:02:41.560><c> have</c>
+
+00:02:41.790 --> 00:02:41.800 align:start position:0%
+the concrete example so let's say I have
+ 
+
+00:02:41.800 --> 00:02:49.560 align:start position:0%
+the concrete example so let's say I have
+a<00:02:41.830><c> matrix</c><00:02:42.810><c> 3</c><00:02:43.860><c> 4</c><00:02:45.000><c> 2</c><00:02:46.590><c> 16</c><00:02:47.590><c> so</c><00:02:48.490><c> this</c><00:02:48.700><c> is</c><00:02:48.880><c> a</c><00:02:49.060><c> 2</c><00:02:49.120><c> by</c><00:02:49.540><c> 2</c>
+
+00:02:49.560 --> 00:02:49.570 align:start position:0%
+a matrix 3 4 2 16 so this is a 2 by 2
+ 
+
+00:02:49.570 --> 00:02:52.860 align:start position:0%
+a matrix 3 4 2 16 so this is a 2 by 2
+matrix<00:02:50.670><c> so</c><00:02:51.670><c> it's</c><00:02:51.790><c> a</c><00:02:51.850><c> square</c><00:02:51.880><c> matrix</c><00:02:52.150><c> and</c><00:02:52.720><c> so</c>
+
+00:02:52.860 --> 00:02:52.870 align:start position:0%
+matrix so it's a square matrix and so
+ 
+
+00:02:52.870 --> 00:02:55.650 align:start position:0%
+matrix so it's a square matrix and so
+this<00:02:53.170><c> matrix</c><00:02:53.350><c> could</c><00:02:53.830><c> have</c><00:02:53.950><c> an</c><00:02:54.070><c> inverse</c><00:02:54.430><c> and</c><00:02:54.660><c> it</c>
+
+00:02:55.650 --> 00:02:55.660 align:start position:0%
+this matrix could have an inverse and it
+ 
+
+00:02:55.660 --> 00:02:58.770 align:start position:0%
+this matrix could have an inverse and it
+turns<00:02:55.960><c> out</c><00:02:56.200><c> that</c><00:02:56.620><c> I</c><00:02:57.120><c> happen</c><00:02:58.120><c> to</c><00:02:58.150><c> know</c><00:02:58.450><c> the</c>
+
+00:02:58.770 --> 00:02:58.780 align:start position:0%
+turns out that I happen to know the
+ 
+
+00:02:58.780 --> 00:03:03.080 align:start position:0%
+turns out that I happen to know the
+inverse<00:02:59.200><c> of</c><00:02:59.410><c> this</c><00:02:59.560><c> matrix</c><00:02:59.620><c> is</c><00:03:00.220><c> 0.4</c><00:03:01.230><c> minus</c><00:03:02.230><c> 0.1</c>
+
+00:03:03.080 --> 00:03:03.090 align:start position:0%
+inverse of this matrix is 0.4 minus 0.1
+ 
+
+00:03:03.090 --> 00:03:09.540 align:start position:0%
+inverse of this matrix is 0.4 minus 0.1
+minus<00:03:04.140><c> 0.05</c><00:03:06.630><c> 0.075</c><00:03:07.630><c> and</c><00:03:08.130><c> if</c><00:03:09.130><c> I</c><00:03:09.220><c> take</c><00:03:09.430><c> this</c>
+
+00:03:09.540 --> 00:03:09.550 align:start position:0%
+minus 0.05 0.075 and if I take this
+ 
+
+00:03:09.550 --> 00:03:12.240 align:start position:0%
+minus 0.05 0.075 and if I take this
+matrix<00:03:09.760><c> and</c><00:03:10.330><c> multiply</c><00:03:10.780><c> these</c><00:03:10.840><c> together</c><00:03:11.250><c> it</c>
+
+00:03:12.240 --> 00:03:12.250 align:start position:0%
+matrix and multiply these together it
+ 
+
+00:03:12.250 --> 00:03:15.860 align:start position:0%
+matrix and multiply these together it
+turns<00:03:12.460><c> out</c><00:03:12.730><c> what</c><00:03:13.000><c> I</c><00:03:13.030><c> get</c><00:03:13.300><c> is</c><00:03:13.660><c> the</c><00:03:14.340><c> 2</c><00:03:15.340><c> by</c><00:03:15.550><c> 2</c>
+
+00:03:15.860 --> 00:03:15.870 align:start position:0%
+turns out what I get is the 2 by 2
+ 
+
+00:03:15.870 --> 00:03:19.650 align:start position:0%
+turns out what I get is the 2 by 2
+identity<00:03:16.870><c> matrix</c><00:03:17.650><c> I</c><00:03:17.860><c> can</c><00:03:18.190><c> write</c><00:03:18.520><c> this</c><00:03:18.640><c> as</c><00:03:18.820><c> 5</c><00:03:19.030><c> 2</c>
+
+00:03:19.650 --> 00:03:19.660 align:start position:0%
+identity matrix I can write this as 5 2
+ 
+
+00:03:19.660 --> 00:03:23.190 align:start position:0%
+identity matrix I can write this as 5 2
+by<00:03:19.810><c> 2</c><00:03:19.870><c> okay</c><00:03:20.560><c> and</c><00:03:21.040><c> so</c><00:03:21.340><c> on</c><00:03:21.760><c> the</c><00:03:22.240><c> slide</c><00:03:22.360><c> you</c><00:03:23.080><c> know</c>
+
+00:03:23.190 --> 00:03:23.200 align:start position:0%
+by 2 okay and so on the slide you know
+ 
+
+00:03:23.200 --> 00:03:25.950 align:start position:0%
+by 2 okay and so on the slide you know
+this<00:03:23.470><c> matrix</c><00:03:23.890><c> is</c><00:03:24.250><c> the</c><00:03:24.310><c> matrix</c><00:03:24.460><c> a</c><00:03:25.000><c> and</c><00:03:25.240><c> this</c>
+
+00:03:25.950 --> 00:03:25.960 align:start position:0%
+this matrix is the matrix a and this
+ 
+
+00:03:25.960 --> 00:03:28.320 align:start position:0%
+this matrix is the matrix a and this
+matrix<00:03:26.170><c> the</c><00:03:26.560><c> matrix</c><00:03:26.800><c> a</c><00:03:27.160><c> inverse</c><00:03:27.370><c> and</c><00:03:28.000><c> it</c><00:03:28.120><c> turns</c>
+
+00:03:28.320 --> 00:03:28.330 align:start position:0%
+matrix the matrix a inverse and it turns
+ 
+
+00:03:28.330 --> 00:03:30.240 align:start position:0%
+matrix the matrix a inverse and it turns
+out<00:03:28.510><c> that</c><00:03:28.780><c> here</c><00:03:29.050><c> I've</c><00:03:29.140><c> computed</c><00:03:29.440><c> a</c><00:03:29.770><c> times</c><00:03:30.040><c> a</c>
+
+00:03:30.240 --> 00:03:30.250 align:start position:0%
+out that here I've computed a times a
+ 
+
+00:03:30.250 --> 00:03:32.070 align:start position:0%
+out that here I've computed a times a
+inverse<00:03:30.490><c> it</c><00:03:30.910><c> turns</c><00:03:31.090><c> out</c><00:03:31.330><c> if</c><00:03:31.510><c> you</c><00:03:31.570><c> compute</c><00:03:31.870><c> 8</c>
+
+00:03:32.070 --> 00:03:32.080 align:start position:0%
+inverse it turns out if you compute 8
+ 
+
+00:03:32.080 --> 00:03:34.920 align:start position:0%
+inverse it turns out if you compute 8
+inverse<00:03:32.470><c> times</c><00:03:32.800><c> a</c><00:03:33.070><c> you</c><00:03:33.730><c> also</c><00:03:33.940><c> get</c><00:03:34.600><c> back</c><00:03:34.750><c> the</c>
+
+00:03:34.920 --> 00:03:34.930 align:start position:0%
+inverse times a you also get back the
+ 
+
+00:03:34.930 --> 00:03:39.000 align:start position:0%
+inverse times a you also get back the
+identity<00:03:35.410><c> matrix</c><00:03:36.150><c> so</c><00:03:37.260><c> how</c><00:03:38.260><c> did</c><00:03:38.500><c> I</c><00:03:38.590><c> find</c><00:03:38.800><c> this</c>
+
+00:03:39.000 --> 00:03:39.010 align:start position:0%
+identity matrix so how did I find this
+ 
+
+00:03:39.010 --> 00:03:41.070 align:start position:0%
+identity matrix so how did I find this
+inverse<00:03:39.370><c> so</c><00:03:39.640><c> how</c><00:03:39.880><c> did</c><00:03:40.090><c> I</c><00:03:40.210><c> come</c><00:03:40.240><c> up</c><00:03:40.570><c> with</c><00:03:40.930><c> this</c>
+
+00:03:41.070 --> 00:03:41.080 align:start position:0%
+inverse so how did I come up with this
+ 
+
+00:03:41.080 --> 00:03:43.740 align:start position:0%
+inverse so how did I come up with this
+inverse<00:03:41.500><c> over</c><00:03:41.830><c> here</c><00:03:42.070><c> it</c><00:03:42.790><c> turns</c><00:03:42.970><c> out</c><00:03:43.390><c> that</c>
+
+00:03:43.740 --> 00:03:43.750 align:start position:0%
+inverse over here it turns out that
+ 
+
+00:03:43.750 --> 00:03:46.290 align:start position:0%
+inverse over here it turns out that
+sometimes<00:03:44.740><c> you</c><00:03:45.160><c> can</c><00:03:45.310><c> compute</c><00:03:45.700><c> inverses</c><00:03:46.030><c> by</c>
+
+00:03:46.290 --> 00:03:46.300 align:start position:0%
+sometimes you can compute inverses by
+ 
+
+00:03:46.300 --> 00:03:48.030 align:start position:0%
+sometimes you can compute inverses by
+hand<00:03:46.630><c> but</c><00:03:46.900><c> almost</c><00:03:47.230><c> no</c><00:03:47.470><c> one</c><00:03:47.620><c> does</c><00:03:47.680><c> that</c><00:03:47.860><c> these</c>
+
+00:03:48.030 --> 00:03:48.040 align:start position:0%
+hand but almost no one does that these
+ 
+
+00:03:48.040 --> 00:03:50.100 align:start position:0%
+hand but almost no one does that these
+days<00:03:48.250><c> and</c><00:03:48.850><c> it</c><00:03:49.120><c> turns</c><00:03:49.330><c> out</c><00:03:49.570><c> there's</c><00:03:49.810><c> very</c><00:03:50.020><c> good</c>
+
+00:03:50.100 --> 00:03:50.110 align:start position:0%
+days and it turns out there's very good
+ 
+
+00:03:50.110 --> 00:03:53.190 align:start position:0%
+days and it turns out there's very good
+numerical<00:03:50.500><c> software</c><00:03:51.300><c> for</c><00:03:52.300><c> taking</c><00:03:52.630><c> a</c><00:03:52.720><c> matrix</c>
+
+00:03:53.190 --> 00:03:53.200 align:start position:0%
+numerical software for taking a matrix
+ 
+
+00:03:53.200 --> 00:03:55.950 align:start position:0%
+numerical software for taking a matrix
+and<00:03:53.850><c> computing</c><00:03:54.850><c> is</c><00:03:54.970><c> inference</c><00:03:55.360><c> so</c><00:03:55.540><c> again</c><00:03:55.750><c> this</c>
+
+00:03:55.950 --> 00:03:55.960 align:start position:0%
+and computing is inference so again this
+ 
+
+00:03:55.960 --> 00:03:57.180 align:start position:0%
+and computing is inference so again this
+is<00:03:56.110><c> one</c><00:03:56.230><c> of</c><00:03:56.260><c> those</c><00:03:56.350><c> things</c><00:03:56.620><c> where</c><00:03:56.830><c> their</c><00:03:56.980><c> loss</c>
+
+00:03:57.180 --> 00:03:57.190 align:start position:0%
+is one of those things where their loss
+ 
+
+00:03:57.190 --> 00:03:59.670 align:start position:0%
+is one of those things where their loss
+of<00:03:57.370><c> open</c><00:03:58.030><c> source</c><00:03:58.300><c> libraries</c><00:03:59.080><c> that</c><00:03:59.380><c> you</c><00:03:59.500><c> can</c>
+
+00:03:59.670 --> 00:03:59.680 align:start position:0%
+of open source libraries that you can
+ 
+
+00:03:59.680 --> 00:04:01.470 align:start position:0%
+of open source libraries that you can
+link<00:03:59.860><c> to</c><00:03:59.980><c> from</c><00:04:00.340><c> any</c><00:04:00.580><c> of</c><00:04:00.850><c> the</c><00:04:01.000><c> popular</c>
+
+00:04:01.470 --> 00:04:01.480 align:start position:0%
+link to from any of the popular
+ 
+
+00:04:01.480 --> 00:04:03.270 align:start position:0%
+link to from any of the popular
+programming<00:04:01.780><c> languages</c><00:04:02.140><c> to</c><00:04:02.860><c> compute</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+programming languages to compute
+ 
+
+00:04:03.280 --> 00:04:05.820 align:start position:0%
+programming languages to compute
+inverses<00:04:03.670><c> of</c><00:04:03.910><c> matrices</c><00:04:04.500><c> let</c><00:04:05.500><c> me</c><00:04:05.590><c> show</c><00:04:05.710><c> you</c><00:04:05.770><c> a</c>
+
+00:04:05.820 --> 00:04:05.830 align:start position:0%
+inverses of matrices let me show you a
+ 
+
+00:04:05.830 --> 00:04:08.160 align:start position:0%
+inverses of matrices let me show you a
+quick<00:04:05.950><c> example</c><00:04:06.070><c> how</c><00:04:07.030><c> I</c><00:04:07.060><c> actually</c><00:04:07.390><c> computed</c>
+
+00:04:08.160 --> 00:04:08.170 align:start position:0%
+quick example how I actually computed
+ 
+
+00:04:08.170 --> 00:04:09.900 align:start position:0%
+quick example how I actually computed
+this<00:04:08.290><c> inverse</c><00:04:08.350><c> and</c><00:04:09.100><c> what</c><00:04:09.310><c> I</c><00:04:09.340><c> did</c><00:04:09.580><c> was</c><00:04:09.730><c> I</c><00:04:09.790><c> used</c>
+
+00:04:09.900 --> 00:04:09.910 align:start position:0%
+this inverse and what I did was I used
+ 
+
+00:04:09.910 --> 00:04:13.620 align:start position:0%
+this inverse and what I did was I used
+software<00:04:10.600><c> called</c><00:04:10.930><c> octave</c><00:04:12.300><c> so</c><00:04:13.300><c> let</c><00:04:13.450><c> me</c><00:04:13.510><c> bring</c>
+
+00:04:13.620 --> 00:04:13.630 align:start position:0%
+software called octave so let me bring
+ 
+
+00:04:13.630 --> 00:04:15.900 align:start position:0%
+software called octave so let me bring
+that<00:04:13.780><c> up</c><00:04:13.930><c> we'll</c><00:04:14.650><c> see</c><00:04:15.400><c> a</c><00:04:15.430><c> lot</c><00:04:15.610><c> more</c><00:04:15.790><c> about</c>
+
+00:04:15.900 --> 00:04:15.910 align:start position:0%
+that up we'll see a lot more about
+ 
+
+00:04:15.910 --> 00:04:17.729 align:start position:0%
+that up we'll see a lot more about
+octave<00:04:16.420><c> later</c><00:04:16.600><c> so</c><00:04:17.020><c> but</c><00:04:17.260><c> let</c><00:04:17.350><c> me</c><00:04:17.440><c> just</c><00:04:17.470><c> quickly</c>
+
+00:04:17.729 --> 00:04:17.739 align:start position:0%
+octave later so but let me just quickly
+ 
+
+00:04:17.739 --> 00:04:19.590 align:start position:0%
+octave later so but let me just quickly
+show<00:04:17.919><c> you</c><00:04:18.160><c> an</c><00:04:18.250><c> example</c><00:04:18.340><c> and</c><00:04:18.760><c> I</c><00:04:18.970><c> set</c><00:04:19.210><c> my</c><00:04:19.330><c> eight</c>
+
+00:04:19.590 --> 00:04:19.600 align:start position:0%
+show you an example and I set my eight
+ 
+
+00:04:19.600 --> 00:04:20.759 align:start position:0%
+show you an example and I set my eight
+matrix<00:04:19.840><c> a</c>
+
+00:04:20.759 --> 00:04:20.769 align:start position:0%
+matrix a
+ 
+
+00:04:20.769 --> 00:04:22.740 align:start position:0%
+matrix a
+to<00:04:21.099><c> be</c><00:04:21.190><c> equal</c><00:04:21.549><c> that</c><00:04:21.579><c> matrix</c><00:04:22.150><c> on</c><00:04:22.270><c> the</c><00:04:22.300><c> Left</c><00:04:22.599><c> Type</c>
+
+00:04:22.740 --> 00:04:22.750 align:start position:0%
+to be equal that matrix on the Left Type
+ 
+
+00:04:22.750 --> 00:04:27.900 align:start position:0%
+to be equal that matrix on the Left Type
+3<00:04:23.349><c> 4</c><00:04:23.650><c> to</c><00:04:24.520><c> 16</c><00:04:25.349><c> so</c><00:04:26.349><c> that's</c><00:04:26.800><c> my</c><00:04:26.919><c> matrix</c><00:04:27.129><c> a</c><00:04:27.520><c> right</c><00:04:27.819><c> as</c>
+
+00:04:27.900 --> 00:04:27.910 align:start position:0%
+3 4 to 16 so that's my matrix a right as
+ 
+
+00:04:27.910 --> 00:04:31.050 align:start position:0%
+3 4 to 16 so that's my matrix a right as
+this<00:04:28.060><c> matrix</c><00:04:28.389><c> 3</c><00:04:28.720><c> 4</c><00:04:28.990><c> to</c><00:04:29.319><c> 16</c><00:04:29.680><c> that</c><00:04:30.430><c> I</c><00:04:30.460><c> have</c><00:04:30.789><c> down</c>
+
+00:04:31.050 --> 00:04:31.060 align:start position:0%
+this matrix 3 4 to 16 that I have down
+ 
+
+00:04:31.060 --> 00:04:33.719 align:start position:0%
+this matrix 3 4 to 16 that I have down
+here<00:04:31.330><c> on</c><00:04:31.449><c> the</c><00:04:31.569><c> left</c><00:04:31.720><c> and</c><00:04:32.080><c> the</c><00:04:32.979><c> software</c><00:04:33.460><c> lets</c>
+
+00:04:33.719 --> 00:04:33.729 align:start position:0%
+here on the left and the software lets
+ 
+
+00:04:33.729 --> 00:04:36.059 align:start position:0%
+here on the left and the software lets
+me<00:04:33.849><c> computes</c><00:04:34.389><c> the</c><00:04:34.629><c> inverse</c><00:04:34.659><c> of</c><00:04:35.289><c> a</c><00:04:35.530><c> very</c><00:04:35.800><c> easily</c>
+
+00:04:36.059 --> 00:04:36.069 align:start position:0%
+me computes the inverse of a very easily
+ 
+
+00:04:36.069 --> 00:04:38.659 align:start position:0%
+me computes the inverse of a very easily
+and<00:04:36.490><c> it's</c><00:04:36.580><c> like</c><00:04:36.699><c> P</c><00:04:36.909><c> inva</c><00:04:37.300><c> a</c><00:04:37.509><c> equals</c><00:04:38.080><c> this</c><00:04:38.319><c> and</c>
+
+00:04:38.659 --> 00:04:38.669 align:start position:0%
+and it's like P inva a equals this and
+ 
+
+00:04:38.669 --> 00:04:42.119 align:start position:0%
+and it's like P inva a equals this and
+so<00:04:39.669><c> this</c><00:04:40.120><c> is</c><00:04:40.180><c> right</c><00:04:40.720><c> this</c><00:04:40.900><c> matrix</c><00:04:41.289><c> here</c><00:04:41.500><c> 0.4</c>
+
+00:04:42.119 --> 00:04:42.129 align:start position:0%
+so this is right this matrix here 0.4
+ 
+
+00:04:42.129 --> 00:04:44.790 align:start position:0%
+so this is right this matrix here 0.4
+minus<00:04:42.520><c> 0.1</c><00:04:43.000><c> and</c><00:04:43.210><c> so</c><00:04:43.330><c> on</c><00:04:43.479><c> this</c><00:04:43.840><c> has</c><00:04:43.990><c> given</c><00:04:44.500><c> me</c><00:04:44.680><c> a</c>
+
+00:04:44.790 --> 00:04:44.800 align:start position:0%
+minus 0.1 and so on this has given me a
+ 
+
+00:04:44.800 --> 00:04:46.830 align:start position:0%
+minus 0.1 and so on this has given me a
+numerical<00:04:45.370><c> solution</c><00:04:45.550><c> towards</c><00:04:46.270><c> the</c><00:04:46.449><c> inverse</c>
+
+00:04:46.830 --> 00:04:46.840 align:start position:0%
+numerical solution towards the inverse
+ 
+
+00:04:46.840 --> 00:04:49.619 align:start position:0%
+numerical solution towards the inverse
+of<00:04:46.870><c> a</c><00:04:47.199><c> second</c><00:04:48.190><c> let</c><00:04:48.280><c> me</c><00:04:48.340><c> just</c><00:04:48.490><c> write</c><00:04:48.639><c> inverse</c><00:04:49.180><c> of</c>
+
+00:04:49.619 --> 00:04:49.629 align:start position:0%
+of a second let me just write inverse of
+ 
+
+00:04:49.629 --> 00:04:54.570 align:start position:0%
+of a second let me just write inverse of
+a<00:04:50.139><c> equals</c><00:04:50.979><c> P</c><00:04:51.430><c> of</c><00:04:52.210><c> a</c><00:04:52.479><c> so</c><00:04:53.470><c> inverse</c><00:04:54.009><c> available</c>
+
+00:04:54.570 --> 00:04:54.580 align:start position:0%
+a equals P of a so inverse available
+ 
+
+00:04:54.580 --> 00:04:57.390 align:start position:0%
+a equals P of a so inverse available
+that<00:04:54.729><c> I</c><00:04:54.940><c> can</c><00:04:55.479><c> now</c><00:04:55.599><c> just</c><00:04:55.930><c> verify</c><00:04:56.409><c> that</c><00:04:56.860><c> a</c><00:04:57.130><c> times</c>
+
+00:04:57.390 --> 00:04:57.400 align:start position:0%
+that I can now just verify that a times
+ 
+
+00:04:57.400 --> 00:04:59.820 align:start position:0%
+that I can now just verify that a times
+a<00:04:57.610><c> inverse</c><00:04:57.789><c> the</c><00:04:58.150><c> identity</c><00:04:58.630><c> is</c><00:04:58.690><c> inside</c><00:04:59.020><c> a</c><00:04:59.199><c> times</c>
+
+00:04:59.820 --> 00:04:59.830 align:start position:0%
+a inverse the identity is inside a times
+ 
+
+00:04:59.830 --> 00:05:04.710 align:start position:0%
+a inverse the identity is inside a times
+inverse<00:05:00.840><c> of</c><00:05:01.840><c> a</c><00:05:02.080><c> and</c><00:05:02.590><c> the</c><00:05:03.580><c> result</c><00:05:03.789><c> of</c><00:05:04.180><c> that</c><00:05:04.330><c> is</c>
+
+00:05:04.710 --> 00:05:04.720 align:start position:0%
+inverse of a and the result of that is
+ 
+
+00:05:04.720 --> 00:05:07.290 align:start position:0%
+inverse of a and the result of that is
+this<00:05:04.930><c> matrix</c><00:05:05.199><c> and</c><00:05:05.770><c> this</c><00:05:06.250><c> is</c><00:05:06.430><c> one</c><00:05:06.699><c> one</c><00:05:06.970><c> on</c><00:05:07.240><c> the</c>
+
+00:05:07.290 --> 00:05:07.300 align:start position:0%
+this matrix and this is one one on the
+ 
+
+00:05:07.300 --> 00:05:09.960 align:start position:0%
+this matrix and this is one one on the
+diagonal<00:05:07.840><c> and</c><00:05:08.250><c> you</c><00:05:09.250><c> know</c><00:05:09.370><c> essentially</c><00:05:09.759><c> what</c>
+
+00:05:09.960 --> 00:05:09.970 align:start position:0%
+diagonal and you know essentially what
+ 
+
+00:05:09.970 --> 00:05:12.510 align:start position:0%
+diagonal and you know essentially what
+10<00:05:10.360><c> to</c><00:05:10.449><c> the</c><00:05:10.539><c> minus</c><00:05:10.840><c> 17</c><00:05:11.199><c> 10</c><00:05:11.470><c> to</c><00:05:11.560><c> the</c><00:05:11.650><c> minus</c><00:05:11.889><c> 16</c><00:05:12.280><c> so</c>
+
+00:05:12.510 --> 00:05:12.520 align:start position:0%
+10 to the minus 17 10 to the minus 16 so
+ 
+
+00:05:12.520 --> 00:05:15.180 align:start position:0%
+10 to the minus 17 10 to the minus 16 so
+up<00:05:12.969><c> to</c><00:05:13.330><c> numerical</c><00:05:13.960><c> precision</c><00:05:14.319><c> up</c><00:05:14.680><c> to</c><00:05:14.889><c> a</c><00:05:14.919><c> load</c>
+
+00:05:15.180 --> 00:05:15.190 align:start position:0%
+up to numerical precision up to a load
+ 
+
+00:05:15.190 --> 00:05:17.610 align:start position:0%
+up to numerical precision up to a load
+of<00:05:15.400><c> the</c><00:05:15.460><c> round</c><00:05:15.699><c> off</c><00:05:15.909><c> error</c><00:05:15.940><c> that</c><00:05:16.930><c> my</c><00:05:17.110><c> computer</c>
+
+00:05:17.610 --> 00:05:17.620 align:start position:0%
+of the round off error that my computer
+ 
+
+00:05:17.620 --> 00:05:19.290 align:start position:0%
+of the round off error that my computer
+had<00:05:17.800><c> in</c><00:05:17.949><c> multiplying</c><00:05:18.340><c> these</c><00:05:18.460><c> two</c><00:05:18.610><c> matrices</c><00:05:18.789><c> so</c>
+
+00:05:19.290 --> 00:05:19.300 align:start position:0%
+had in multiplying these two matrices so
+ 
+
+00:05:19.300 --> 00:05:21.480 align:start position:0%
+had in multiplying these two matrices so
+absolutely<00:05:20.259><c> right</c><00:05:20.560><c> around</c><00:05:20.770><c> are</c><00:05:21.009><c> these</c><00:05:21.280><c> are</c>
+
+00:05:21.480 --> 00:05:21.490 align:start position:0%
+absolutely right around are these are
+ 
+
+00:05:21.490 --> 00:05:23.369 align:start position:0%
+absolutely right around are these are
+these<00:05:21.699><c> numbers</c><00:05:21.909><c> after</c><00:05:22.389><c> diagonals</c><00:05:23.169><c> are</c>
+
+00:05:23.369 --> 00:05:23.379 align:start position:0%
+these numbers after diagonals are
+ 
+
+00:05:23.379 --> 00:05:25.770 align:start position:0%
+these numbers after diagonals are
+essentially<00:05:23.830><c> zero</c><00:05:23.949><c> and</c><00:05:24.580><c> so</c><00:05:25.090><c> eight</c><00:05:25.330><c> times</c><00:05:25.599><c> the</c>
+
+00:05:25.770 --> 00:05:25.780 align:start position:0%
+essentially zero and so eight times the
+ 
+
+00:05:25.780 --> 00:05:27.719 align:start position:0%
+essentially zero and so eight times the
+inverse<00:05:26.139><c> is</c><00:05:26.409><c> essentially</c><00:05:26.830><c> the</c><00:05:27.250><c> identity</c>
+
+00:05:27.719 --> 00:05:27.729 align:start position:0%
+inverse is essentially the identity
+ 
+
+00:05:27.729 --> 00:05:30.959 align:start position:0%
+inverse is essentially the identity
+matrix<00:05:28.150><c> and</c><00:05:28.419><c> also</c><00:05:29.409><c> verify</c><00:05:29.889><c> inverse</c><00:05:30.460><c> of</c><00:05:30.789><c> a</c>
+
+00:05:30.959 --> 00:05:30.969 align:start position:0%
+matrix and also verify inverse of a
+ 
+
+00:05:30.969 --> 00:05:34.409 align:start position:0%
+matrix and also verify inverse of a
+times<00:05:31.569><c> a</c><00:05:31.930><c> there's</c><00:05:32.650><c> also</c><00:05:33.009><c> is</c><00:05:33.580><c> also</c><00:05:33.969><c> equal</c><00:05:34.389><c> to</c>
+
+00:05:34.409 --> 00:05:34.419 align:start position:0%
+times a there's also is also equal to
+ 
+
+00:05:34.419 --> 00:05:37.140 align:start position:0%
+times a there's also is also equal to
+the<00:05:34.659><c> identity</c><00:05:34.710><c> with</c><00:05:35.710><c> ones</c><00:05:36.009><c> of</c><00:05:36.190><c> diagonals</c><00:05:36.789><c> and</c>
+
+00:05:37.140 --> 00:05:37.150 align:start position:0%
+the identity with ones of diagonals and
+ 
+
+00:05:37.150 --> 00:05:39.870 align:start position:0%
+the identity with ones of diagonals and
+you<00:05:37.569><c> know</c><00:05:37.659><c> values</c><00:05:38.080><c> essentially</c><00:05:38.860><c> zero</c><00:05:39.370><c> except</c>
+
+00:05:39.870 --> 00:05:39.880 align:start position:0%
+you know values essentially zero except
+ 
+
+00:05:39.880 --> 00:05:41.610 align:start position:0%
+you know values essentially zero except
+for<00:05:40.090><c> a</c><00:05:40.120><c> little</c><00:05:40.270><c> bit</c><00:05:40.539><c> of</c><00:05:40.630><c> round</c><00:05:40.810><c> off</c><00:05:40.990><c> ever</c><00:05:41.229><c> on</c>
+
+00:05:41.610 --> 00:05:41.620 align:start position:0%
+for a little bit of round off ever on
+ 
+
+00:05:41.620 --> 00:05:46.800 align:start position:0%
+for a little bit of round off ever on
+the<00:05:42.219><c> off</c><00:05:42.460><c> diagonals</c><00:05:44.909><c> in</c><00:05:45.909><c> my</c><00:05:46.060><c> definition</c><00:05:46.690><c> of</c>
+
+00:05:46.800 --> 00:05:46.810 align:start position:0%
+the off diagonals in my definition of
+ 
+
+00:05:46.810 --> 00:05:48.360 align:start position:0%
+the off diagonals in my definition of
+the<00:05:46.930><c> inverse</c><00:05:47.289><c> of</c><00:05:47.469><c> a</c><00:05:47.560><c> matrix</c><00:05:47.590><c> I</c><00:05:48.069><c> had</c><00:05:48.250><c> this</c>
+
+00:05:48.360 --> 00:05:48.370 align:start position:0%
+the inverse of a matrix I had this
+ 
+
+00:05:48.370 --> 00:05:50.820 align:start position:0%
+the inverse of a matrix I had this
+caveat<00:05:48.669><c> right</c><00:05:49.180><c> first</c><00:05:49.419><c> it</c><00:05:49.690><c> must</c><00:05:50.199><c> always</c><00:05:50.500><c> be</c><00:05:50.800><c> a</c>
+
+00:05:50.820 --> 00:05:50.830 align:start position:0%
+caveat right first it must always be a
+ 
+
+00:05:50.830 --> 00:05:53.279 align:start position:0%
+caveat right first it must always be a
+square<00:05:51.159><c> matrix</c><00:05:51.190><c> and</c><00:05:51.969><c> I</c><00:05:52.060><c> had</c><00:05:52.180><c> this</c><00:05:52.300><c> caveat</c><00:05:52.659><c> so</c>
+
+00:05:53.279 --> 00:05:53.289 align:start position:0%
+square matrix and I had this caveat so
+ 
+
+00:05:53.289 --> 00:05:57.029 align:start position:0%
+square matrix and I had this caveat so
+if<00:05:53.349><c> a</c><00:05:53.889><c> has</c><00:05:54.639><c> an</c><00:05:54.849><c> inverse</c><00:05:55.740><c> exactly</c><00:05:56.740><c> what</c>
+
+00:05:57.029 --> 00:05:57.039 align:start position:0%
+if a has an inverse exactly what
+ 
+
+00:05:57.039 --> 00:05:59.490 align:start position:0%
+if a has an inverse exactly what
+matrices<00:05:57.729><c> have</c><00:05:58.090><c> an</c><00:05:58.270><c> inverse</c><00:05:58.659><c> is</c><00:05:58.900><c> beyond</c><00:05:59.349><c> the</c>
+
+00:05:59.490 --> 00:05:59.500 align:start position:0%
+matrices have an inverse is beyond the
+ 
+
+00:05:59.500 --> 00:06:01.740 align:start position:0%
+matrices have an inverse is beyond the
+scope<00:05:59.620><c> of</c><00:05:59.949><c> this</c><00:06:00.069><c> linear</c><00:06:00.430><c> algebra</c><00:06:00.789><c> review</c><00:06:00.819><c> but</c>
+
+00:06:01.740 --> 00:06:01.750 align:start position:0%
+scope of this linear algebra review but
+ 
+
+00:06:01.750 --> 00:06:03.779 align:start position:0%
+scope of this linear algebra review but
+one<00:06:02.050><c> intuition</c><00:06:02.650><c> you</c><00:06:02.830><c> might</c><00:06:03.009><c> take</c><00:06:03.219><c> away</c><00:06:03.460><c> is</c>
+
+00:06:03.779 --> 00:06:03.789 align:start position:0%
+one intuition you might take away is
+ 
+
+00:06:03.789 --> 00:06:06.480 align:start position:0%
+one intuition you might take away is
+that<00:06:04.090><c> just</c><00:06:04.659><c> as</c><00:06:04.810><c> this</c><00:06:04.990><c> number</c><00:06:05.349><c> 0</c><00:06:05.979><c> doesn't</c><00:06:06.250><c> have</c>
+
+00:06:06.480 --> 00:06:06.490 align:start position:0%
+that just as this number 0 doesn't have
+ 
+
+00:06:06.490 --> 00:06:09.600 align:start position:0%
+that just as this number 0 doesn't have
+an<00:06:06.580><c> inverse</c><00:06:06.990><c> it</c><00:06:07.990><c> turns</c><00:06:08.199><c> out</c><00:06:08.409><c> that</c><00:06:08.590><c> if</c><00:06:08.770><c> a</c><00:06:09.009><c> is</c><00:06:09.310><c> say</c>
+
+00:06:09.600 --> 00:06:09.610 align:start position:0%
+an inverse it turns out that if a is say
+ 
+
+00:06:09.610 --> 00:06:13.950 align:start position:0%
+an inverse it turns out that if a is say
+the<00:06:10.150><c> matrix</c><00:06:10.599><c> of</c><00:06:10.779><c> all</c><00:06:10.960><c> zeros</c><00:06:12.150><c> then</c><00:06:13.150><c> this</c><00:06:13.599><c> matrix</c>
+
+00:06:13.950 --> 00:06:13.960 align:start position:0%
+the matrix of all zeros then this matrix
+ 
+
+00:06:13.960 --> 00:06:15.629 align:start position:0%
+the matrix of all zeros then this matrix
+a<00:06:14.139><c> also</c><00:06:14.349><c> does</c><00:06:14.770><c> not</c><00:06:14.919><c> have</c><00:06:15.130><c> an</c><00:06:15.250><c> inverse</c><00:06:15.610><c> because</c>
+
+00:06:15.629 --> 00:06:15.639 align:start position:0%
+a also does not have an inverse because
+ 
+
+00:06:15.639 --> 00:06:17.670 align:start position:0%
+a also does not have an inverse because
+you<00:06:16.120><c> know</c><00:06:16.210><c> there's</c><00:06:16.449><c> no</c><00:06:16.630><c> matrix</c><00:06:16.930><c> sorry</c><00:06:17.469><c> there's</c>
+
+00:06:17.670 --> 00:06:17.680 align:start position:0%
+you know there's no matrix sorry there's
+ 
+
+00:06:17.680 --> 00:06:19.980 align:start position:0%
+you know there's no matrix sorry there's
+no<00:06:17.800><c> a</c><00:06:17.830><c> inverse</c><00:06:18.400><c> matrix</c><00:06:18.430><c> so</c><00:06:19.029><c> that</c><00:06:19.210><c> this</c><00:06:19.779><c> matrix</c>
+
+00:06:19.980 --> 00:06:19.990 align:start position:0%
+no a inverse matrix so that this matrix
+ 
+
+00:06:19.990 --> 00:06:21.930 align:start position:0%
+no a inverse matrix so that this matrix
+times<00:06:20.710><c> some</c><00:06:20.860><c> other</c><00:06:21.009><c> matrix</c><00:06:21.370><c> would</c><00:06:21.699><c> give</c><00:06:21.880><c> you</c>
+
+00:06:21.930 --> 00:06:21.940 align:start position:0%
+times some other matrix would give you
+ 
+
+00:06:21.940 --> 00:06:23.730 align:start position:0%
+times some other matrix would give you
+the<00:06:22.029><c> identity</c><00:06:22.150><c> matrix</c><00:06:22.599><c> of</c><00:06:23.020><c> this</c><00:06:23.169><c> matrix</c><00:06:23.409><c> of</c>
+
+00:06:23.730 --> 00:06:23.740 align:start position:0%
+the identity matrix of this matrix of
+ 
+
+00:06:23.740 --> 00:06:25.559 align:start position:0%
+the identity matrix of this matrix of
+all<00:06:23.830><c> zeros</c><00:06:23.860><c> and</c><00:06:24.580><c> there</c><00:06:25.210><c> are</c><00:06:25.270><c> few</c><00:06:25.419><c> other</c>
+
+00:06:25.559 --> 00:06:25.569 align:start position:0%
+all zeros and there are few other
+ 
+
+00:06:25.569 --> 00:06:27.269 align:start position:0%
+all zeros and there are few other
+matrices<00:06:25.990><c> were</c><00:06:26.199><c> probably</c><00:06:26.469><c> similar</c><00:06:26.889><c> to</c><00:06:27.130><c> this</c>
+
+00:06:27.269 --> 00:06:27.279 align:start position:0%
+matrices were probably similar to this
+ 
+
+00:06:27.279 --> 00:06:29.540 align:start position:0%
+matrices were probably similar to this
+that<00:06:27.789><c> also</c><00:06:28.000><c> don't</c><00:06:28.539><c> have</c><00:06:28.779><c> an</c><00:06:28.930><c> inverse</c>
+
+00:06:29.540 --> 00:06:29.550 align:start position:0%
+that also don't have an inverse
+ 
+
+00:06:29.550 --> 00:06:32.990 align:start position:0%
+that also don't have an inverse
+but<00:06:30.330><c> it</c><00:06:31.020><c> turns</c><00:06:31.290><c> out</c><00:06:31.470><c> that</c><00:06:31.710><c> I</c><00:06:31.980><c> don't</c><00:06:32.220><c> in</c><00:06:32.640><c> this</c>
+
+00:06:32.990 --> 00:06:33.000 align:start position:0%
+but it turns out that I don't in this
+ 
+
+00:06:33.000 --> 00:06:34.520 align:start position:0%
+but it turns out that I don't in this
+review<00:06:33.270><c> I</c><00:06:33.330><c> don't</c><00:06:33.630><c> want</c><00:06:33.780><c> to</c><00:06:33.870><c> go</c><00:06:33.990><c> too</c><00:06:34.050><c> deeply</c>
+
+00:06:34.520 --> 00:06:34.530 align:start position:0%
+review I don't want to go too deeply
+ 
+
+00:06:34.530 --> 00:06:36.950 align:start position:0%
+review I don't want to go too deeply
+into<00:06:34.890><c> what</c><00:06:35.610><c> it</c><00:06:35.730><c> means</c><00:06:35.760><c> for</c><00:06:36.210><c> a</c><00:06:36.270><c> matrix</c><00:06:36.720><c> to</c><00:06:36.810><c> have</c>
+
+00:06:36.950 --> 00:06:36.960 align:start position:0%
+into what it means for a matrix to have
+ 
+
+00:06:36.960 --> 00:06:39.650 align:start position:0%
+into what it means for a matrix to have
+an<00:06:37.110><c> inverse</c><00:06:37.410><c> but</c><00:06:38.130><c> it</c><00:06:38.460><c> turns</c><00:06:38.760><c> out</c><00:06:38.940><c> that</c><00:06:39.000><c> for</c><00:06:39.480><c> all</c>
+
+00:06:39.650 --> 00:06:39.660 align:start position:0%
+an inverse but it turns out that for all
+ 
+
+00:06:39.660 --> 00:06:41.300 align:start position:0%
+an inverse but it turns out that for all
+machine<00:06:39.990><c> learning</c><00:06:40.020><c> applications</c><00:06:40.920><c> this</c>
+
+00:06:41.300 --> 00:06:41.310 align:start position:0%
+machine learning applications this
+ 
+
+00:06:41.310 --> 00:06:43.670 align:start position:0%
+machine learning applications this
+shouldn't<00:06:41.730><c> be</c><00:06:41.850><c> an</c><00:06:41.940><c> issue</c><00:06:42.120><c> or</c><00:06:42.630><c> more</c><00:06:43.290><c> precisely</c>
+
+00:06:43.670 --> 00:06:43.680 align:start position:0%
+shouldn't be an issue or more precisely
+ 
+
+00:06:43.680 --> 00:06:46.550 align:start position:0%
+shouldn't be an issue or more precisely
+for<00:06:44.550><c> the</c><00:06:44.850><c> learning</c><00:06:45.510><c> algorithms</c><00:06:46.050><c> where</c><00:06:46.350><c> this</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+for the learning algorithms where this
+ 
+
+00:06:46.560 --> 00:06:48.620 align:start position:0%
+for the learning algorithms where this
+may<00:06:46.770><c> be</c><00:06:46.830><c> an</c><00:06:47.010><c> issue</c><00:06:47.130><c> may</c><00:06:47.730><c> be</c><00:06:47.790><c> whether</c><00:06:48.180><c> or</c><00:06:48.270><c> not</c><00:06:48.360><c> an</c>
+
+00:06:48.620 --> 00:06:48.630 align:start position:0%
+may be an issue may be whether or not an
+ 
+
+00:06:48.630 --> 00:06:51.140 align:start position:0%
+may be an issue may be whether or not an
+inverse<00:06:48.960><c> appears</c><00:06:49.380><c> I'll</c><00:06:49.860><c> tell</c><00:06:50.220><c> you</c><00:06:50.430><c> when</c><00:06:51.030><c> we</c>
+
+00:06:51.140 --> 00:06:51.150 align:start position:0%
+inverse appears I'll tell you when we
+ 
+
+00:06:51.150 --> 00:06:52.850 align:start position:0%
+inverse appears I'll tell you when we
+get<00:06:51.270><c> to</c><00:06:51.420><c> those</c><00:06:51.540><c> learning</c><00:06:51.990><c> algorithms</c><00:06:52.470><c> just</c>
+
+00:06:52.850 --> 00:06:52.860 align:start position:0%
+get to those learning algorithms just
+ 
+
+00:06:52.860 --> 00:06:54.530 align:start position:0%
+get to those learning algorithms just
+what<00:06:53.070><c> it</c><00:06:53.190><c> means</c><00:06:53.400><c> for</c><00:06:53.730><c> an</c><00:06:53.820><c> algorithm</c><00:06:54.060><c> to</c><00:06:54.360><c> have</c>
+
+00:06:54.530 --> 00:06:54.540 align:start position:0%
+what it means for an algorithm to have
+ 
+
+00:06:54.540 --> 00:06:56.630 align:start position:0%
+what it means for an algorithm to have
+or<00:06:54.720><c> not</c><00:06:54.870><c> have</c><00:06:54.930><c> an</c><00:06:55.260><c> inversion</c><00:06:55.590><c> and</c><00:06:56.160><c> how</c><00:06:56.340><c> to</c><00:06:56.400><c> fix</c>
+
+00:06:56.630 --> 00:06:56.640 align:start position:0%
+or not have an inversion and how to fix
+ 
+
+00:06:56.640 --> 00:06:58.370 align:start position:0%
+or not have an inversion and how to fix
+it<00:06:56.820><c> in</c><00:06:56.970><c> case</c><00:06:57.180><c> we</c><00:06:57.450><c> end</c><00:06:57.540><c> up</c><00:06:57.720><c> working</c><00:06:58.170><c> with</c>
+
+00:06:58.370 --> 00:06:58.380 align:start position:0%
+it in case we end up working with
+ 
+
+00:06:58.380 --> 00:07:00.980 align:start position:0%
+it in case we end up working with
+matrices<00:06:58.650><c> that</c><00:06:59.220><c> don't</c><00:06:59.430><c> have</c><00:06:59.640><c> inverses</c><00:07:00.000><c> but</c>
+
+00:07:00.980 --> 00:07:00.990 align:start position:0%
+matrices that don't have inverses but
+ 
+
+00:07:00.990 --> 00:07:03.950 align:start position:0%
+matrices that don't have inverses but
+the<00:07:01.860><c> intuition</c><00:07:02.130><c> if</c><00:07:02.670><c> you</c><00:07:02.910><c> want</c><00:07:03.150><c> is</c><00:07:03.360><c> that</c><00:07:03.480><c> you</c>
+
+00:07:03.950 --> 00:07:03.960 align:start position:0%
+the intuition if you want is that you
+ 
+
+00:07:03.960 --> 00:07:06.170 align:start position:0%
+the intuition if you want is that you
+can<00:07:04.230><c> think</c><00:07:04.470><c> of</c><00:07:04.560><c> matrices</c><00:07:04.980><c> as</c><00:07:05.460><c> not</c><00:07:05.730><c> having</c><00:07:06.120><c> an</c>
+
+00:07:06.170 --> 00:07:06.180 align:start position:0%
+can think of matrices as not having an
+ 
+
+00:07:06.180 --> 00:07:07.850 align:start position:0%
+can think of matrices as not having an
+inverse<00:07:06.510><c> if</c><00:07:06.750><c> there's</c><00:07:06.900><c> somehow</c><00:07:07.080><c> too</c><00:07:07.260><c> close</c><00:07:07.710><c> to</c>
+
+00:07:07.850 --> 00:07:07.860 align:start position:0%
+inverse if there's somehow too close to
+ 
+
+00:07:07.860 --> 00:07:12.590 align:start position:0%
+inverse if there's somehow too close to
+0<00:07:08.250><c> in</c><00:07:08.430><c> some</c><00:07:08.610><c> sense</c><00:07:08.880><c> and</c><00:07:09.590><c> to</c><00:07:10.590><c> give</c><00:07:10.890><c> just</c><00:07:11.640><c> to</c><00:07:12.060><c> wrap</c>
+
+00:07:12.590 --> 00:07:12.600 align:start position:0%
+0 in some sense and to give just to wrap
+ 
+
+00:07:12.600 --> 00:07:15.290 align:start position:0%
+0 in some sense and to give just to wrap
+up<00:07:12.840><c> the</c><00:07:13.020><c> terminology</c><00:07:13.710><c> our</c><00:07:14.190><c> matrix</c><00:07:14.940><c> that</c><00:07:15.060><c> don't</c>
+
+00:07:15.290 --> 00:07:15.300 align:start position:0%
+up the terminology our matrix that don't
+ 
+
+00:07:15.300 --> 00:07:16.970 align:start position:0%
+up the terminology our matrix that don't
+have<00:07:15.480><c> an</c><00:07:15.630><c> inverse</c><00:07:15.900><c> are</c><00:07:16.170><c> sometimes</c><00:07:16.560><c> called</c><00:07:16.830><c> the</c>
+
+00:07:16.970 --> 00:07:16.980 align:start position:0%
+have an inverse are sometimes called the
+ 
+
+00:07:16.980 --> 00:07:19.610 align:start position:0%
+have an inverse are sometimes called the
+singular<00:07:17.520><c> matrix</c><00:07:17.910><c> or</c><00:07:18.150><c> degenerate</c><00:07:18.750><c> matrix</c><00:07:19.260><c> and</c>
+
+00:07:19.610 --> 00:07:19.620 align:start position:0%
+singular matrix or degenerate matrix and
+ 
+
+00:07:19.620 --> 00:07:22.670 align:start position:0%
+singular matrix or degenerate matrix and
+so<00:07:19.980><c> you</c><00:07:20.550><c> know</c><00:07:20.670><c> this</c><00:07:20.910><c> matrix</c><00:07:21.330><c> over</c><00:07:21.630><c> here</c><00:07:21.930><c> is</c><00:07:22.080><c> an</c>
+
+00:07:22.670 --> 00:07:22.680 align:start position:0%
+so you know this matrix over here is an
+ 
+
+00:07:22.680 --> 00:07:25.190 align:start position:0%
+so you know this matrix over here is an
+example<00:07:23.010><c> the</c><00:07:23.460><c> 0</c><00:07:23.730><c> 0</c><00:07:23.790><c> 0</c><00:07:24.120><c> matrix</c><00:07:24.540><c> as</c><00:07:24.750><c> an</c><00:07:24.870><c> example</c>
+
+00:07:25.190 --> 00:07:25.200 align:start position:0%
+example the 0 0 0 matrix as an example
+ 
+
+00:07:25.200 --> 00:07:27.590 align:start position:0%
+example the 0 0 0 matrix as an example
+of<00:07:25.500><c> a</c><00:07:25.590><c> matrix</c><00:07:25.740><c> as</c><00:07:26.190><c> singular</c><00:07:26.730><c> or</c><00:07:26.910><c> matrix</c><00:07:27.390><c> as</c>
+
+00:07:27.590 --> 00:07:27.600 align:start position:0%
+of a matrix as singular or matrix as
+ 
+
+00:07:27.600 --> 00:07:31.430 align:start position:0%
+of a matrix as singular or matrix as
+degenerate<00:07:29.360><c> finally</c><00:07:30.360><c> the</c><00:07:30.720><c> last</c><00:07:30.930><c> special</c>
+
+00:07:31.430 --> 00:07:31.440 align:start position:0%
+degenerate finally the last special
+ 
+
+00:07:31.440 --> 00:07:32.900 align:start position:0%
+degenerate finally the last special
+matrix<00:07:31.770><c> operation</c><00:07:32.370><c> I</c><00:07:32.430><c> want</c><00:07:32.580><c> to</c><00:07:32.640><c> tell</c><00:07:32.790><c> you</c>
+
+00:07:32.900 --> 00:07:32.910 align:start position:0%
+matrix operation I want to tell you
+ 
+
+00:07:32.910 --> 00:07:36.020 align:start position:0%
+matrix operation I want to tell you
+about<00:07:33.000><c> is</c><00:07:33.330><c> d</c><00:07:33.630><c> matrix</c><00:07:33.840><c> transpose</c><00:07:34.770><c> so</c><00:07:35.730><c> suppose</c>
+
+00:07:36.020 --> 00:07:36.030 align:start position:0%
+about is d matrix transpose so suppose
+ 
+
+00:07:36.030 --> 00:07:38.810 align:start position:0%
+about is d matrix transpose so suppose
+that<00:07:36.060><c> matrix</c><00:07:36.510><c> a</c><00:07:36.810><c> if</c><00:07:37.560><c> I</c><00:07:37.770><c> compute</c><00:07:38.190><c> the</c><00:07:38.340><c> transpose</c>
+
+00:07:38.810 --> 00:07:38.820 align:start position:0%
+that matrix a if I compute the transpose
+ 
+
+00:07:38.820 --> 00:07:41.270 align:start position:0%
+that matrix a if I compute the transpose
+of<00:07:38.970><c> a</c><00:07:39.390><c> that's</c><00:07:40.290><c> what</c><00:07:40.470><c> I</c><00:07:40.530><c> get</c><00:07:40.770><c> here</c><00:07:40.950><c> on</c><00:07:41.010><c> the</c><00:07:41.130><c> right</c>
+
+00:07:41.270 --> 00:07:41.280 align:start position:0%
+of a that's what I get here on the right
+ 
+
+00:07:41.280 --> 00:07:43.720 align:start position:0%
+of a that's what I get here on the right
+this<00:07:41.430><c> is</c><00:07:41.490><c> a</c><00:07:41.820><c> transpose</c><00:07:42.570><c> which</c><00:07:42.900><c> is</c><00:07:43.050><c> written</c><00:07:43.230><c> a</c>
+
+00:07:43.720 --> 00:07:43.730 align:start position:0%
+this is a transpose which is written a
+ 
+
+00:07:43.730 --> 00:07:47.450 align:start position:0%
+this is a transpose which is written a
+superscript<00:07:44.730><c> T</c><00:07:45.240><c> and</c><00:07:45.890><c> the</c><00:07:46.890><c> way</c><00:07:47.010><c> you</c><00:07:47.070><c> compute</c>
+
+00:07:47.450 --> 00:07:47.460 align:start position:0%
+superscript T and the way you compute
+ 
+
+00:07:47.460 --> 00:07:49.280 align:start position:0%
+superscript T and the way you compute
+the<00:07:47.550><c> transpose</c><00:07:47.880><c> of</c><00:07:48.000><c> a</c><00:07:48.180><c> matrix</c><00:07:48.210><c> is</c><00:07:48.750><c> as</c><00:07:48.870><c> follows</c>
+
+00:07:49.280 --> 00:07:49.290 align:start position:0%
+the transpose of a matrix is as follows
+ 
+
+00:07:49.290 --> 00:07:50.930 align:start position:0%
+the transpose of a matrix is as follows
+to<00:07:49.620><c> get</c><00:07:49.770><c> a</c><00:07:49.800><c> transpose</c><00:07:50.310><c> I'm</c><00:07:50.550><c> going</c><00:07:50.670><c> to</c><00:07:50.760><c> first</c>
+
+00:07:50.930 --> 00:07:50.940 align:start position:0%
+to get a transpose I'm going to first
+ 
+
+00:07:50.940 --> 00:07:55.220 align:start position:0%
+to get a transpose I'm going to first
+take<00:07:51.570><c> the</c><00:07:51.690><c> first</c><00:07:51.900><c> row</c><00:07:52.470><c> of</c><00:07:52.860><c> a</c><00:07:53.610><c> 1</c><00:07:54.390><c> to</c><00:07:54.540><c> 0</c><00:07:54.930><c> that</c>
+
+00:07:55.220 --> 00:07:55.230 align:start position:0%
+take the first row of a 1 to 0 that
+ 
+
+00:07:55.230 --> 00:07:57.350 align:start position:0%
+take the first row of a 1 to 0 that
+becomes<00:07:55.410><c> this</c><00:07:55.860><c> first</c><00:07:56.190><c> column</c><00:07:56.610><c> of</c><00:07:57.120><c> the</c>
+
+00:07:57.350 --> 00:07:57.360 align:start position:0%
+becomes this first column of the
+ 
+
+00:07:57.360 --> 00:07:59.840 align:start position:0%
+becomes this first column of the
+transpose<00:07:57.900><c> and</c><00:07:58.220><c> then</c><00:07:59.220><c> I'm</c><00:07:59.370><c> going</c><00:07:59.520><c> to</c><00:07:59.580><c> take</c><00:07:59.730><c> the</c>
+
+00:07:59.840 --> 00:07:59.850 align:start position:0%
+transpose and then I'm going to take the
+ 
+
+00:07:59.850 --> 00:08:02.930 align:start position:0%
+transpose and then I'm going to take the
+second<00:08:00.300><c> row</c><00:08:00.510><c> of</c><00:08:00.540><c> a</c><00:08:00.810><c> 3</c><00:08:01.320><c> 5</c><00:08:01.500><c> 9</c><00:08:01.770><c> and</c><00:08:02.040><c> that</c><00:08:02.550><c> becomes</c>
+
+00:08:02.930 --> 00:08:02.940 align:start position:0%
+second row of a 3 5 9 and that becomes
+ 
+
+00:08:02.940 --> 00:08:05.240 align:start position:0%
+second row of a 3 5 9 and that becomes
+the<00:08:03.150><c> second</c><00:08:03.600><c> column</c><00:08:03.930><c> of</c><00:08:04.290><c> the</c><00:08:04.680><c> matrix</c><00:08:04.710><c> a</c>
+
+00:08:05.240 --> 00:08:05.250 align:start position:0%
+the second column of the matrix a
+ 
+
+00:08:05.250 --> 00:08:08.270 align:start position:0%
+the second column of the matrix a
+transpose<00:08:05.310><c> and</c><00:08:06.770><c> another</c><00:08:07.770><c> way</c><00:08:07.890><c> of</c><00:08:08.010><c> thinking</c>
+
+00:08:08.270 --> 00:08:08.280 align:start position:0%
+transpose and another way of thinking
+ 
+
+00:08:08.280 --> 00:08:10.280 align:start position:0%
+transpose and another way of thinking
+about<00:08:08.340><c> how</c><00:08:08.640><c> to</c><00:08:08.700><c> compute</c><00:08:09.000><c> the</c><00:08:09.120><c> transpose</c><00:08:09.540><c> is</c><00:08:09.690><c> is</c>
+
+00:08:10.280 --> 00:08:10.290 align:start position:0%
+about how to compute the transpose is is
+ 
+
+00:08:10.290 --> 00:08:12.160 align:start position:0%
+about how to compute the transpose is is
+as<00:08:10.590><c> if</c><00:08:10.770><c> you're</c><00:08:10.980><c> taking</c><00:08:11.190><c> this</c><00:08:11.550><c> sort</c><00:08:11.760><c> of</c><00:08:11.910><c> 45</c>
+
+00:08:12.160 --> 00:08:12.170 align:start position:0%
+as if you're taking this sort of 45
+ 
+
+00:08:12.170 --> 00:08:14.930 align:start position:0%
+as if you're taking this sort of 45
+degree<00:08:13.170><c> you</c><00:08:13.590><c> know</c><00:08:13.710><c> axis</c><00:08:14.430><c> and</c><00:08:14.700><c> you're</c>
+
+00:08:14.930 --> 00:08:14.940 align:start position:0%
+degree you know axis and you're
+ 
+
+00:08:14.940 --> 00:08:17.450 align:start position:0%
+degree you know axis and you're
+mirroring<00:08:15.540><c> or</c><00:08:15.720><c> you</c><00:08:16.320><c> are</c><00:08:16.410><c> flipping</c><00:08:16.770><c> the</c><00:08:17.010><c> matrix</c>
+
+00:08:17.450 --> 00:08:17.460 align:start position:0%
+mirroring or you are flipping the matrix
+ 
+
+00:08:17.460 --> 00:08:22.490 align:start position:0%
+mirroring or you are flipping the matrix
+along<00:08:17.820><c> that</c><00:08:18.200><c> 45</c><00:08:19.200><c> degree</c><00:08:19.530><c> axis</c><00:08:19.910><c> okay</c><00:08:20.930><c> so</c><00:08:21.930><c> here's</c>
+
+00:08:22.490 --> 00:08:22.500 align:start position:0%
+along that 45 degree axis okay so here's
+ 
+
+00:08:22.500 --> 00:08:24.620 align:start position:0%
+along that 45 degree axis okay so here's
+the<00:08:22.560><c> more</c><00:08:22.800><c> formal</c><00:08:23.490><c> definition</c><00:08:24.090><c> of</c><00:08:24.300><c> a</c><00:08:24.420><c> matrix</c>
+
+00:08:24.620 --> 00:08:24.630 align:start position:0%
+the more formal definition of a matrix
+ 
+
+00:08:24.630 --> 00:08:28.810 align:start position:0%
+the more formal definition of a matrix
+transpose<00:08:25.700><c> let's</c><00:08:26.700><c> say</c><00:08:26.820><c> a</c><00:08:27.060><c> is</c><00:08:27.330><c> an</c><00:08:27.540><c> M</c><00:08:27.810><c> by</c><00:08:27.870><c> n</c>
+
+00:08:28.810 --> 00:08:28.820 align:start position:0%
+transpose let's say a is an M by n
+ 
+
+00:08:28.820 --> 00:08:33.690 align:start position:0%
+transpose let's say a is an M by n
+matrix<00:08:29.820><c> and</c><00:08:30.620><c> let's</c><00:08:31.620><c> let</c><00:08:31.800><c> B</c><00:08:32.010><c> equal</c><00:08:32.040><c> a</c><00:08:32.610><c> transpose</c>
+
+00:08:33.690 --> 00:08:33.700 align:start position:0%
+matrix and let's let B equal a transpose
+ 
+
+00:08:33.700 --> 00:08:37.020 align:start position:0%
+matrix and let's let B equal a transpose
+B<00:08:33.820><c> equals</c><00:08:34.240><c> a</c><00:08:34.330><c> transpose</c><00:08:34.390><c> like</c><00:08:34.990><c> so</c><00:08:35.520><c> then</c><00:08:36.520><c> B</c><00:08:36.850><c> is</c>
+
+00:08:37.020 --> 00:08:37.030 align:start position:0%
+B equals a transpose like so then B is
+ 
+
+00:08:37.030 --> 00:08:39.960 align:start position:0%
+B equals a transpose like so then B is
+going<00:08:37.240><c> to</c><00:08:37.390><c> be</c><00:08:37.480><c> an</c><00:08:37.540><c> N</c><00:08:37.840><c> by</c><00:08:38.260><c> M</c><00:08:38.560><c> matrix</c><00:08:38.670><c> with</c><00:08:39.670><c> the</c>
+
+00:08:39.960 --> 00:08:39.970 align:start position:0%
+going to be an N by M matrix with the
+ 
+
+00:08:39.970 --> 00:08:43.950 align:start position:0%
+going to be an N by M matrix with the
+dimensions<00:08:40.660><c> reversed</c><00:08:41.350><c> so</c><00:08:42.280><c> here</c><00:08:43.090><c> we</c><00:08:43.390><c> have</c><00:08:43.660><c> a</c><00:08:43.900><c> 2</c>
+
+00:08:43.950 --> 00:08:43.960 align:start position:0%
+dimensions reversed so here we have a 2
+ 
+
+00:08:43.960 --> 00:08:47.670 align:start position:0%
+dimensions reversed so here we have a 2
+by<00:08:44.320><c> 3</c><00:08:44.680><c> matrix</c><00:08:45.190><c> and</c><00:08:46.060><c> so</c><00:08:46.660><c> the</c><00:08:46.810><c> transpose</c><00:08:47.410><c> becomes</c>
+
+00:08:47.670 --> 00:08:47.680 align:start position:0%
+by 3 matrix and so the transpose becomes
+ 
+
+00:08:47.680 --> 00:08:52.380 align:start position:0%
+by 3 matrix and so the transpose becomes
+a<00:08:48.160><c> 3</c><00:08:48.580><c> by</c><00:08:49.000><c> 2</c><00:08:49.030><c> matrix</c><00:08:49.300><c> and</c><00:08:50.100><c> moreover</c><00:08:51.100><c> bij</c><00:08:51.850><c> is</c>
+
+00:08:52.380 --> 00:08:52.390 align:start position:0%
+a 3 by 2 matrix and moreover bij is
+ 
+
+00:08:52.390 --> 00:08:56.160 align:start position:0%
+a 3 by 2 matrix and moreover bij is
+equal<00:08:52.560><c> to</c><00:08:53.560><c> AJ</c><00:08:54.160><c> I</c><00:08:54.190><c> so</c><00:08:54.760><c> the</c><00:08:54.910><c> IJ</c><00:08:55.420><c> element</c><00:08:55.660><c> of</c><00:08:56.080><c> this</c>
+
+00:08:56.160 --> 00:08:56.170 align:start position:0%
+equal to AJ I so the IJ element of this
+ 
+
+00:08:56.170 --> 00:08:57.990 align:start position:0%
+equal to AJ I so the IJ element of this
+matrix<00:08:56.230><c> being</c><00:08:56.830><c> is</c><00:08:57.070><c> going</c><00:08:57.220><c> to</c><00:08:57.430><c> be</c><00:08:57.550><c> the</c><00:08:57.670><c> ji</c>
+
+00:08:57.990 --> 00:08:58.000 align:start position:0%
+matrix being is going to be the ji
+ 
+
+00:08:58.000 --> 00:09:02.340 align:start position:0%
+matrix being is going to be the ji
+element<00:08:58.960><c> of</c><00:08:59.140><c> that</c><00:08:59.770><c> earlier</c><00:09:00.220><c> matrix</c><00:09:00.670><c> a</c><00:09:01.050><c> so</c><00:09:02.050><c> for</c>
+
+00:09:02.340 --> 00:09:02.350 align:start position:0%
+element of that earlier matrix a so for
+ 
+
+00:09:02.350 --> 00:09:08.340 align:start position:0%
+element of that earlier matrix a so for
+example<00:09:03.960><c> b12</c><00:09:04.960><c> is</c><00:09:05.710><c> going</c><00:09:06.460><c> to</c><00:09:06.580><c> be</c><00:09:06.640><c> equal</c><00:09:06.970><c> to</c><00:09:07.350><c> look</c>
+
+00:09:08.340 --> 00:09:08.350 align:start position:0%
+example b12 is going to be equal to look
+ 
+
+00:09:08.350 --> 00:09:10.830 align:start position:0%
+example b12 is going to be equal to look
+in<00:09:08.500><c> this</c><00:09:08.560><c> nephews</c><00:09:08.890><c> be</c><00:09:09.100><c> b12</c><00:09:10.060><c> 0</c><00:09:10.270><c> equal</c><00:09:10.600><c> to</c><00:09:10.630><c> this</c>
+
+00:09:10.830 --> 00:09:10.840 align:start position:0%
+in this nephews be b12 0 equal to this
+ 
+
+00:09:10.840 --> 00:09:12.870 align:start position:0%
+in this nephews be b12 0 equal to this
+element<00:09:11.260><c> 3</c><00:09:11.590><c> right</c><00:09:11.890><c> first</c><00:09:12.250><c> row</c><00:09:12.460><c> second</c><00:09:12.850><c> column</c>
+
+00:09:12.870 --> 00:09:12.880 align:start position:0%
+element 3 right first row second column
+ 
+
+00:09:12.880 --> 00:09:17.700 align:start position:0%
+element 3 right first row second column
+and<00:09:13.390><c> that's</c><00:09:14.110><c> equal</c><00:09:14.590><c> to</c><00:09:14.770><c> this</c><00:09:15.400><c> which</c><00:09:15.970><c> is</c><00:09:16.000><c> a</c><00:09:16.440><c> 2</c><00:09:17.440><c> 1</c>
+
+00:09:17.700 --> 00:09:17.710 align:start position:0%
+and that's equal to this which is a 2 1
+ 
+
+00:09:17.710 --> 00:09:21.300 align:start position:0%
+and that's equal to this which is a 2 1
+second<00:09:18.250><c> row</c><00:09:18.340><c> first</c><00:09:18.640><c> column</c><00:09:18.760><c> right</c><00:09:19.440><c> and</c><00:09:20.440><c> well</c>
+
+00:09:21.300 --> 00:09:21.310 align:start position:0%
+second row first column right and well
+ 
+
+00:09:21.310 --> 00:09:23.790 align:start position:0%
+second row first column right and well
+which<00:09:21.520><c> is</c><00:09:21.640><c> equal</c><00:09:21.880><c> to</c><00:09:21.910><c> 2</c><00:09:22.210><c> and</c><00:09:22.590><c> it's</c><00:09:23.590><c> not</c><00:09:23.710><c> an</c>
+
+00:09:23.790 --> 00:09:23.800 align:start position:0%
+which is equal to 2 and it's not an
+ 
+
+00:09:23.800 --> 00:09:29.130 align:start position:0%
+which is equal to 2 and it's not an
+example<00:09:24.070><c> B</c><00:09:24.580><c> 3</c><00:09:25.210><c> 2</c><00:09:25.860><c> right</c><00:09:26.920><c> that's</c><00:09:27.370><c> B</c><00:09:27.820><c> 3</c><00:09:28.480><c> 2</c><00:09:28.780><c> who</c><00:09:29.050><c> is</c>
+
+00:09:29.130 --> 00:09:29.140 align:start position:0%
+example B 3 2 right that's B 3 2 who is
+ 
+
+00:09:29.140 --> 00:09:34.470 align:start position:0%
+example B 3 2 right that's B 3 2 who is
+this<00:09:29.290><c> element</c><00:09:29.650><c> 9</c><00:09:30.040><c> and</c><00:09:30.690><c> that's</c><00:09:31.690><c> equal</c><00:09:32.230><c> to</c><00:09:32.260><c> a</c><00:09:33.060><c> 2</c><00:09:34.060><c> 3</c>
+
+00:09:34.470 --> 00:09:34.480 align:start position:0%
+this element 9 and that's equal to a 2 3
+ 
+
+00:09:34.480 --> 00:09:38.300 align:start position:0%
+this element 9 and that's equal to a 2 3
+which<00:09:35.290><c> is</c><00:09:35.320><c> this</c><00:09:35.680><c> element</c><00:09:35.890><c> up</c><00:09:36.310><c> here</c><00:09:36.640><c> nine</c><00:09:37.450><c> and</c>
+
+00:09:38.300 --> 00:09:38.310 align:start position:0%
+which is this element up here nine and
+ 
+
+00:09:38.310 --> 00:09:41.760 align:start position:0%
+which is this element up here nine and
+so<00:09:39.310><c> that</c><00:09:39.670><c> wraps</c><00:09:39.940><c> up</c><00:09:40.240><c> the</c><00:09:40.480><c> definition</c><00:09:41.080><c> of</c><00:09:41.290><c> what</c>
+
+00:09:41.760 --> 00:09:41.770 align:start position:0%
+so that wraps up the definition of what
+ 
+
+00:09:41.770 --> 00:09:43.710 align:start position:0%
+so that wraps up the definition of what
+it<00:09:41.890><c> means</c><00:09:42.070><c> to</c><00:09:42.460><c> take</c><00:09:42.640><c> the</c><00:09:42.700><c> transpose</c><00:09:42.850><c> of</c><00:09:43.420><c> a</c>
+
+00:09:43.710 --> 00:09:43.720 align:start position:0%
+it means to take the transpose of a
+ 
+
+00:09:43.720 --> 00:09:46.220 align:start position:0%
+it means to take the transpose of a
+matrix<00:09:43.750><c> and</c><00:09:44.530><c> in</c><00:09:44.920><c> fact</c><00:09:45.130><c> that</c><00:09:45.370><c> concludes</c><00:09:45.850><c> our</c>
+
+00:09:46.220 --> 00:09:46.230 align:start position:0%
+matrix and in fact that concludes our
+ 
+
+00:09:46.230 --> 00:09:49.740 align:start position:0%
+matrix and in fact that concludes our
+linear<00:09:47.230><c> algebra</c><00:09:47.800><c> review</c><00:09:48.420><c> so</c><00:09:49.420><c> by</c><00:09:49.600><c> now</c>
+
+00:09:49.740 --> 00:09:49.750 align:start position:0%
+linear algebra review so by now
+ 
+
+00:09:49.750 --> 00:09:51.540 align:start position:0%
+linear algebra review so by now
+hopefully<00:09:50.140><c> you</c><00:09:50.440><c> know</c><00:09:50.590><c> how</c><00:09:50.860><c> to</c><00:09:50.920><c> add</c><00:09:51.220><c> and</c>
+
+00:09:51.540 --> 00:09:51.550 align:start position:0%
+hopefully you know how to add and
+ 
+
+00:09:51.550 --> 00:09:54.120 align:start position:0%
+hopefully you know how to add and
+subtract<00:09:52.120><c> matrices</c><00:09:52.330><c> as</c><00:09:53.050><c> well</c><00:09:53.110><c> as</c><00:09:53.440><c> multiply</c>
+
+00:09:54.120 --> 00:09:54.130 align:start position:0%
+subtract matrices as well as multiply
+ 
+
+00:09:54.130 --> 00:09:57.180 align:start position:0%
+subtract matrices as well as multiply
+them<00:09:54.430><c> and</c><00:09:54.670><c> you</c><00:09:55.240><c> also</c><00:09:55.450><c> know</c><00:09:55.960><c> how</c><00:09:56.040><c> what</c><00:09:57.040><c> are</c><00:09:57.160><c> the</c>
+
+00:09:57.180 --> 00:09:57.190 align:start position:0%
+them and you also know how what are the
+ 
+
+00:09:57.190 --> 00:09:58.830 align:start position:0%
+them and you also know how what are the
+definitions<00:09:57.370><c> of</c><00:09:58.030><c> the</c><00:09:58.120><c> inverses</c><00:09:58.600><c> and</c>
+
+00:09:58.830 --> 00:09:58.840 align:start position:0%
+definitions of the inverses and
+ 
+
+00:09:58.840 --> 00:10:02.010 align:start position:0%
+definitions of the inverses and
+transposes<00:09:59.380><c> of</c><00:10:00.370><c> a</c><00:10:00.460><c> matrix</c><00:10:00.670><c> and</c><00:10:01.060><c> these</c><00:10:01.720><c> are</c><00:10:01.960><c> the</c>
+
+00:10:02.010 --> 00:10:02.020 align:start position:0%
+transposes of a matrix and these are the
+ 
+
+00:10:02.020 --> 00:10:04.020 align:start position:0%
+transposes of a matrix and these are the
+main<00:10:02.170><c> operations</c><00:10:02.770><c> you</c><00:10:03.010><c> need</c><00:10:03.250><c> in</c><00:10:03.670><c> linear</c>
+
+00:10:04.020 --> 00:10:04.030 align:start position:0%
+main operations you need in linear
+ 
+
+00:10:04.030 --> 00:10:06.900 align:start position:0%
+main operations you need in linear
+algebra<00:10:04.120><c> for</c><00:10:04.810><c> this</c><00:10:04.990><c> course</c><00:10:05.290><c> in</c><00:10:06.280><c> case</c><00:10:06.550><c> this</c><00:10:06.760><c> is</c>
+
+00:10:06.900 --> 00:10:06.910 align:start position:0%
+algebra for this course in case this is
+ 
+
+00:10:06.910 --> 00:10:08.010 align:start position:0%
+algebra for this course in case this is
+the<00:10:06.940><c> first</c><00:10:07.210><c> time</c><00:10:07.510><c> you're</c><00:10:07.690><c> seeing</c><00:10:07.930><c> this</c>
+
+00:10:08.010 --> 00:10:08.020 align:start position:0%
+the first time you're seeing this
+ 
+
+00:10:08.020 --> 00:10:10.410 align:start position:0%
+the first time you're seeing this
+material<00:10:08.680><c> I</c><00:10:08.860><c> know</c><00:10:09.130><c> this</c><00:10:09.460><c> was</c><00:10:09.610><c> this</c><00:10:09.880><c> was</c><00:10:10.060><c> a</c><00:10:10.120><c> lot</c>
+
+00:10:10.410 --> 00:10:10.420 align:start position:0%
+material I know this was this was a lot
+ 
+
+00:10:10.420 --> 00:10:12.990 align:start position:0%
+material I know this was this was a lot
+of<00:10:10.450><c> linear</c><00:10:11.230><c> algebra</c><00:10:11.620><c> material</c><00:10:12.160><c> all</c><00:10:12.370><c> presented</c>
+
+00:10:12.990 --> 00:10:13.000 align:start position:0%
+of linear algebra material all presented
+ 
+
+00:10:13.000 --> 00:10:15.810 align:start position:0%
+of linear algebra material all presented
+very<00:10:13.210><c> quickly</c><00:10:13.510><c> and</c><00:10:13.930><c> this</c><00:10:14.140><c> is</c><00:10:14.230><c> a</c><00:10:14.320><c> lot</c><00:10:14.530><c> absol</c><00:10:15.010><c> but</c>
+
+00:10:15.810 --> 00:10:15.820 align:start position:0%
+very quickly and this is a lot absol but
+ 
+
+00:10:15.820 --> 00:10:18.510 align:start position:0%
+very quickly and this is a lot absol but
+if<00:10:16.390><c> you</c><00:10:16.960><c> but</c><00:10:17.560><c> there's</c><00:10:17.680><c> no</c><00:10:17.830><c> need</c><00:10:18.010><c> to</c><00:10:18.250><c> memorize</c>
+
+00:10:18.510 --> 00:10:18.520 align:start position:0%
+if you but there's no need to memorize
+ 
+
+00:10:18.520 --> 00:10:20.580 align:start position:0%
+if you but there's no need to memorize
+all<00:10:19.000><c> the</c><00:10:19.120><c> definitions</c><00:10:19.990><c> we</c><00:10:20.140><c> just</c><00:10:20.350><c> went</c><00:10:20.500><c> through</c>
+
+00:10:20.580 --> 00:10:20.590 align:start position:0%
+all the definitions we just went through
+ 
+
+00:10:20.590 --> 00:10:23.340 align:start position:0%
+all the definitions we just went through
+and<00:10:20.980><c> if</c><00:10:21.670><c> you</c><00:10:21.820><c> download</c><00:10:22.060><c> a</c><00:10:22.330><c> copy</c><00:10:22.660><c> of</c><00:10:23.110><c> either</c>
+
+00:10:23.340 --> 00:10:23.350 align:start position:0%
+and if you download a copy of either
+ 
+
+00:10:23.350 --> 00:10:25.140 align:start position:0%
+and if you download a copy of either
+these<00:10:23.620><c> slides</c><00:10:23.920><c> or</c><00:10:24.250><c> of</c><00:10:24.580><c> the</c><00:10:24.700><c> lecture</c><00:10:25.030><c> notes</c>
+
+00:10:25.140 --> 00:10:25.150 align:start position:0%
+these slides or of the lecture notes
+ 
+
+00:10:25.150 --> 00:10:26.970 align:start position:0%
+these slides or of the lecture notes
+from<00:10:25.360><c> the</c><00:10:25.480><c> website</c><00:10:25.930><c> and</c><00:10:26.140><c> from</c><00:10:26.440><c> the</c><00:10:26.590><c> website</c>
+
+00:10:26.970 --> 00:10:26.980 align:start position:0%
+from the website and from the website
+ 
+
+00:10:26.980 --> 00:10:28.950 align:start position:0%
+from the website and from the website
+from<00:10:27.070><c> the</c><00:10:27.190><c> course</c><00:10:27.400><c> website</c><00:10:27.490><c> and</c><00:10:28.030><c> use</c><00:10:28.690><c> either</c>
+
+00:10:28.950 --> 00:10:28.960 align:start position:0%
+from the course website and use either
+ 
+
+00:10:28.960 --> 00:10:30.300 align:start position:0%
+from the course website and use either
+the<00:10:29.170><c> slides</c><00:10:29.410><c> and</c><00:10:29.590><c> lecture</c><00:10:29.890><c> notes</c><00:10:30.010><c> as</c><00:10:30.220><c> a</c>
+
+00:10:30.300 --> 00:10:30.310 align:start position:0%
+the slides and lecture notes as a
+ 
+
+00:10:30.310 --> 00:10:32.640 align:start position:0%
+the slides and lecture notes as a
+reference<00:10:30.730><c> then</c><00:10:31.660><c> you</c><00:10:31.840><c> can</c><00:10:31.990><c> always</c><00:10:32.140><c> refer</c><00:10:32.620><c> back</c>
+
+00:10:32.640 --> 00:10:32.650 align:start position:0%
+reference then you can always refer back
+ 
+
+00:10:32.650 --> 00:10:34.350 align:start position:0%
+reference then you can always refer back
+to<00:10:32.860><c> the</c><00:10:33.040><c> definitions</c><00:10:33.070><c> to</c><00:10:33.820><c> figure</c><00:10:34.090><c> out</c><00:10:34.180><c> you</c>
+
+00:10:34.350 --> 00:10:34.360 align:start position:0%
+to the definitions to figure out you
+ 
+
+00:10:34.360 --> 00:10:35.910 align:start position:0%
+to the definitions to figure out you
+know<00:10:34.390><c> what</c><00:10:34.720><c> are</c><00:10:34.810><c> these</c><00:10:34.920><c> multiplication</c>
+
+00:10:35.910 --> 00:10:35.920 align:start position:0%
+know what are these multiplication
+ 
+
+00:10:35.920 --> 00:10:38.700 align:start position:0%
+know what are these multiplication
+transpose<00:10:36.490><c> and</c><00:10:36.670><c> so</c><00:10:36.760><c> on</c><00:10:36.940><c> definitions</c><00:10:37.630><c> and</c><00:10:37.840><c> the</c>
+
+00:10:38.700 --> 00:10:38.710 align:start position:0%
+transpose and so on definitions and the
+ 
+
+00:10:38.710 --> 00:10:40.590 align:start position:0%
+transpose and so on definitions and the
+lecture<00:10:39.160><c> notes</c><00:10:39.340><c> on</c><00:10:39.460><c> the</c><00:10:39.550><c> course</c><00:10:39.760><c> website</c><00:10:39.910><c> also</c>
+
+00:10:40.590 --> 00:10:40.600 align:start position:0%
+lecture notes on the course website also
+ 
+
+00:10:40.600 --> 00:10:43.290 align:start position:0%
+lecture notes on the course website also
+has<00:10:40.650><c> pointers</c><00:10:41.650><c> to</c><00:10:41.920><c> additional</c><00:10:41.950><c> resources</c><00:10:42.610><c> on</c>
+
+00:10:43.290 --> 00:10:43.300 align:start position:0%
+has pointers to additional resources on
+ 
+
+00:10:43.300 --> 00:10:44.710 align:start position:0%
+has pointers to additional resources on
+linear<00:10:43.630><c> algebra</c><00:10:44.110><c> we</c>
+
+00:10:44.710 --> 00:10:44.720 align:start position:0%
+linear algebra we
+ 
+
+00:10:44.720 --> 00:10:46.240 align:start position:0%
+linear algebra we
+you<00:10:44.779><c> can</c><00:10:44.930><c> use</c><00:10:45.110><c> to</c><00:10:45.350><c> learn</c><00:10:45.529><c> more</c><00:10:45.769><c> about</c><00:10:45.829><c> linear</c>
+
+00:10:46.240 --> 00:10:46.250 align:start position:0%
+you can use to learn more about linear
+ 
+
+00:10:46.250 --> 00:10:52.090 align:start position:0%
+you can use to learn more about linear
+algebra<00:10:46.399><c> by</c><00:10:46.879><c> yourself</c><00:10:47.209><c> and</c><00:10:50.019><c> and</c><00:10:51.019><c> mix</c><00:10:51.709><c> what</c>
+
+00:10:52.090 --> 00:10:52.100 align:start position:0%
+algebra by yourself and and mix what
+ 
+
+00:10:52.100 --> 00:10:55.090 align:start position:0%
+algebra by yourself and and mix what
+these<00:10:52.250><c> new</c><00:10:52.459><c> tools</c><00:10:52.730><c> will</c><00:10:53.720><c> be</c><00:10:53.870><c> able</c><00:10:54.110><c> in</c><00:10:54.589><c> the</c><00:10:54.829><c> next</c>
+
+00:10:55.090 --> 00:10:55.100 align:start position:0%
+these new tools will be able in the next
+ 
+
+00:10:55.100 --> 00:10:57.009 align:start position:0%
+these new tools will be able in the next
+few<00:10:55.250><c> videos</c><00:10:55.399><c> to</c><00:10:55.850><c> develop</c><00:10:56.329><c> more</c><00:10:56.480><c> powerful</c>
+
+00:10:57.009 --> 00:10:57.019 align:start position:0%
+few videos to develop more powerful
+ 
+
+00:10:57.019 --> 00:10:59.319 align:start position:0%
+few videos to develop more powerful
+forms<00:10:57.410><c> of</c><00:10:57.589><c> linear</c><00:10:57.800><c> regression</c><00:10:58.040><c> they</c><00:10:58.910><c> can</c><00:10:59.089><c> view</c>
+
+00:10:59.319 --> 00:10:59.329 align:start position:0%
+forms of linear regression they can view
+ 
+
+00:10:59.329 --> 00:11:00.879 align:start position:0%
+forms of linear regression they can view
+with<00:10:59.509><c> a</c><00:10:59.600><c> lot</c><00:10:59.779><c> more</c><00:10:59.959><c> detail</c><00:11:00.439><c> a</c><00:11:00.560><c> lot</c><00:11:00.709><c> more</c>
+
+00:11:00.879 --> 00:11:00.889 align:start position:0%
+with a lot more detail a lot more
+ 
+
+00:11:00.889 --> 00:11:02.019 align:start position:0%
+with a lot more detail a lot more
+features<00:11:01.069><c> and</c><00:11:01.519><c> a</c><00:11:01.550><c> lot</c><00:11:01.579><c> more</c><00:11:01.850><c> training</c>
+
+00:11:02.019 --> 00:11:02.029 align:start position:0%
+features and a lot more training
+ 
+
+00:11:02.029 --> 00:11:04.929 align:start position:0%
+features and a lot more training
+examples<00:11:02.629><c> and</c><00:11:03.009><c> later</c><00:11:04.009><c> on</c><00:11:04.279><c> after</c><00:11:04.730><c> the</c><00:11:04.759><c> new</c>
+
+00:11:04.929 --> 00:11:04.939 align:start position:0%
+examples and later on after the new
+ 
+
+00:11:04.939 --> 00:11:06.910 align:start position:0%
+examples and later on after the new
+regression<00:11:05.509><c> will</c><00:11:05.750><c> actually</c><00:11:06.110><c> continue</c><00:11:06.470><c> using</c>
+
+00:11:06.910 --> 00:11:06.920 align:start position:0%
+regression will actually continue using
+ 
+
+00:11:06.920 --> 00:11:09.309 align:start position:0%
+regression will actually continue using
+these<00:11:07.250><c> linear</c><00:11:07.699><c> algebra</c><00:11:08.180><c> tools</c><00:11:08.389><c> to</c><00:11:09.019><c> derive</c>
+
+00:11:09.309 --> 00:11:09.319 align:start position:0%
+these linear algebra tools to derive
+ 
+
+00:11:09.319 --> 00:11:11.530 align:start position:0%
+these linear algebra tools to derive
+more<00:11:09.350><c> powerful</c><00:11:10.160><c> than</c><00:11:10.399><c> learning</c><00:11:10.939><c> algorithms</c>
+
+00:11:11.530 --> 00:11:11.540 align:start position:0%
+more powerful than learning algorithms
+ 
+
+00:11:11.540 --> 00:11:13.810 align:start position:0%
+more powerful than learning algorithms
+as<00:11:11.779><c> well</c>
+

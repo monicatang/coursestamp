@@ -1,0 +1,2512 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.869 align:start position:0%
+ 
+in<00:00:00.260><c> the</c><00:00:01.260><c> last</c><00:00:01.439><c> video</c><00:00:01.829><c> we</c><00:00:02.100><c> talked</c><00:00:02.340><c> about</c><00:00:02.520><c> the</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+in the last video we talked about the
+ 
+
+00:00:02.879 --> 00:00:05.539 align:start position:0%
+in the last video we talked about the
+hypothesis<00:00:03.720><c> representation</c><00:00:04.589><c> for</c><00:00:05.130><c> logistic</c>
+
+00:00:05.539 --> 00:00:05.549 align:start position:0%
+hypothesis representation for logistic
+ 
+
+00:00:05.549 --> 00:00:08.179 align:start position:0%
+hypothesis representation for logistic
+regression<00:00:05.839><c> what</c><00:00:06.839><c> I</c><00:00:06.870><c> like</c><00:00:07.080><c> to</c><00:00:07.200><c> do</c><00:00:07.350><c> now</c><00:00:07.529><c> is</c><00:00:07.799><c> tell</c>
+
+00:00:08.179 --> 00:00:08.189 align:start position:0%
+regression what I like to do now is tell
+ 
+
+00:00:08.189 --> 00:00:09.400 align:start position:0%
+regression what I like to do now is tell
+you<00:00:08.309><c> about</c><00:00:08.400><c> something</c><00:00:08.910><c> called</c><00:00:09.120><c> the</c><00:00:09.240><c> decision</c>
+
+00:00:09.400 --> 00:00:09.410 align:start position:0%
+you about something called the decision
+ 
+
+00:00:09.410 --> 00:00:12.290 align:start position:0%
+you about something called the decision
+boundary<00:00:10.410><c> and</c><00:00:10.559><c> this</c><00:00:11.340><c> will</c><00:00:11.519><c> give</c><00:00:11.730><c> us</c><00:00:11.759><c> a</c><00:00:12.090><c> better</c>
+
+00:00:12.290 --> 00:00:12.300 align:start position:0%
+boundary and this will give us a better
+ 
+
+00:00:12.300 --> 00:00:14.839 align:start position:0%
+boundary and this will give us a better
+sense<00:00:12.420><c> of</c><00:00:12.780><c> what</c><00:00:13.290><c> the</c><00:00:13.320><c> logistic</c><00:00:14.309><c> regressions</c>
+
+00:00:14.839 --> 00:00:14.849 align:start position:0%
+sense of what the logistic regressions
+ 
+
+00:00:14.849 --> 00:00:17.870 align:start position:0%
+sense of what the logistic regressions
+hypothesis<00:00:15.690><c> function</c><00:00:16.080><c> is</c><00:00:16.260><c> computing</c><00:00:16.880><c> to</c>
+
+00:00:17.870 --> 00:00:17.880 align:start position:0%
+hypothesis function is computing to
+ 
+
+00:00:17.880 --> 00:00:20.870 align:start position:0%
+hypothesis function is computing to
+recap<00:00:18.800><c> this</c><00:00:19.800><c> is</c><00:00:19.980><c> where</c><00:00:20.160><c> we</c><00:00:20.250><c> wrote</c><00:00:20.400><c> our</c><00:00:20.640><c> last</c>
+
+00:00:20.870 --> 00:00:20.880 align:start position:0%
+recap this is where we wrote our last
+ 
+
+00:00:20.880 --> 00:00:23.390 align:start position:0%
+recap this is where we wrote our last
+time<00:00:21.150><c> where</c><00:00:21.570><c> we</c><00:00:21.750><c> said</c><00:00:22.050><c> that</c><00:00:22.080><c> the</c><00:00:22.400><c> hypothesis</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+time where we said that the hypothesis
+ 
+
+00:00:23.400 --> 00:00:25.970 align:start position:0%
+time where we said that the hypothesis
+is<00:00:23.609><c> represented</c><00:00:24.240><c> as</c><00:00:24.449><c> H</c><00:00:24.990><c> of</c><00:00:25.019><c> X</c><00:00:25.350><c> equals</c><00:00:25.710><c> G</c><00:00:25.769><c> of</c>
+
+00:00:25.970 --> 00:00:25.980 align:start position:0%
+is represented as H of X equals G of
+ 
+
+00:00:25.980 --> 00:00:28.700 align:start position:0%
+is represented as H of X equals G of
+theta<00:00:26.070><c> transpose</c><00:00:26.430><c> X</c><00:00:27.240><c> where</c><00:00:27.930><c> G</c><00:00:27.960><c> is</c><00:00:28.500><c> this</c>
+
+00:00:28.700 --> 00:00:28.710 align:start position:0%
+theta transpose X where G is this
+ 
+
+00:00:28.710 --> 00:00:30.529 align:start position:0%
+theta transpose X where G is this
+function<00:00:29.099><c> called</c><00:00:29.460><c> the</c><00:00:29.640><c> sigmoid</c><00:00:30.150><c> function</c>
+
+00:00:30.529 --> 00:00:30.539 align:start position:0%
+function called the sigmoid function
+ 
+
+00:00:30.539 --> 00:00:33.350 align:start position:0%
+function called the sigmoid function
+which<00:00:31.080><c> looks</c><00:00:31.320><c> like</c><00:00:31.410><c> this</c><00:00:31.910><c> so</c><00:00:32.910><c> if</c><00:00:33.030><c> slowly</c>
+
+00:00:33.350 --> 00:00:33.360 align:start position:0%
+which looks like this so if slowly
+ 
+
+00:00:33.360 --> 00:00:38.080 align:start position:0%
+which looks like this so if slowly
+increases<00:00:33.989><c> from</c><00:00:34.230><c> 0</c><00:00:34.620><c> to</c><00:00:35.250><c> 1</c><00:00:35.550><c> asymptoting</c><00:00:36.300><c> at</c><00:00:36.690><c> 1</c>
+
+00:00:38.080 --> 00:00:38.090 align:start position:0%
+increases from 0 to 1 asymptoting at 1
+ 
+
+00:00:38.090 --> 00:00:40.670 align:start position:0%
+increases from 0 to 1 asymptoting at 1
+what<00:00:39.090><c> I</c><00:00:39.120><c> want</c><00:00:39.360><c> to</c><00:00:39.450><c> do</c><00:00:39.600><c> now</c><00:00:39.809><c> is</c><00:00:39.840><c> try</c><00:00:40.620><c> to</c>
+
+00:00:40.670 --> 00:00:40.680 align:start position:0%
+what I want to do now is try to
+ 
+
+00:00:40.680 --> 00:00:43.610 align:start position:0%
+what I want to do now is try to
+understand<00:00:41.340><c> better</c><00:00:41.550><c> when</c><00:00:42.360><c> this</c><00:00:42.620><c> hypothesis</c>
+
+00:00:43.610 --> 00:00:43.620 align:start position:0%
+understand better when this hypothesis
+ 
+
+00:00:43.620 --> 00:00:45.619 align:start position:0%
+understand better when this hypothesis
+will<00:00:43.920><c> make</c><00:00:44.100><c> predictions</c><00:00:44.700><c> that</c><00:00:44.910><c> Y</c><00:00:45.120><c> is</c><00:00:45.180><c> equal</c><00:00:45.600><c> to</c>
+
+00:00:45.619 --> 00:00:45.629 align:start position:0%
+will make predictions that Y is equal to
+ 
+
+00:00:45.629 --> 00:00:47.869 align:start position:0%
+will make predictions that Y is equal to
+1<00:00:45.899><c> versus</c><00:00:46.410><c> when</c><00:00:46.739><c> it</c><00:00:47.010><c> might</c><00:00:47.190><c> make</c><00:00:47.340><c> predictions</c>
+
+00:00:47.869 --> 00:00:47.879 align:start position:0%
+1 versus when it might make predictions
+ 
+
+00:00:47.879 --> 00:00:50.600 align:start position:0%
+1 versus when it might make predictions
+that<00:00:48.090><c> Y</c><00:00:48.270><c> is</c><00:00:48.329><c> equal</c><00:00:48.600><c> to</c><00:00:48.809><c> 0</c><00:00:49.170><c> and</c><00:00:49.610><c> understand</c>
+
+00:00:50.600 --> 00:00:50.610 align:start position:0%
+that Y is equal to 0 and understand
+ 
+
+00:00:50.610 --> 00:00:52.100 align:start position:0%
+that Y is equal to 0 and understand
+better<00:00:50.850><c> what</c><00:00:51.210><c> the</c><00:00:51.300><c> hypothesis</c><00:00:51.960><c> function</c>
+
+00:00:52.100 --> 00:00:52.110 align:start position:0%
+better what the hypothesis function
+ 
+
+00:00:52.110 --> 00:00:54.260 align:start position:0%
+better what the hypothesis function
+looks<00:00:52.530><c> like</c><00:00:52.640><c> particularly</c><00:00:53.640><c> when</c><00:00:54.059><c> we</c><00:00:54.239><c> have</c>
+
+00:00:54.260 --> 00:00:54.270 align:start position:0%
+looks like particularly when we have
+ 
+
+00:00:54.270 --> 00:00:57.889 align:start position:0%
+looks like particularly when we have
+more<00:00:54.809><c> than</c><00:00:54.870><c> one</c><00:00:55.230><c> feature</c><00:00:56.149><c> concretely</c><00:00:57.149><c> this</c>
+
+00:00:57.889 --> 00:00:57.899 align:start position:0%
+more than one feature concretely this
+ 
+
+00:00:57.899 --> 00:01:00.529 align:start position:0%
+more than one feature concretely this
+hypothesis<00:00:58.710><c> is</c><00:00:58.980><c> outputting</c><00:00:59.640><c> estimates</c><00:01:00.300><c> of</c>
+
+00:01:00.529 --> 00:01:00.539 align:start position:0%
+hypothesis is outputting estimates of
+ 
+
+00:01:00.539 --> 00:01:02.630 align:start position:0%
+hypothesis is outputting estimates of
+the<00:01:00.840><c> probability</c><00:01:01.530><c> that</c><00:01:01.559><c> Y</c><00:01:01.890><c> is</c><00:01:01.949><c> equal</c><00:01:02.340><c> to</c><00:01:02.430><c> 1</c>
+
+00:01:02.630 --> 00:01:02.640 align:start position:0%
+the probability that Y is equal to 1
+ 
+
+00:01:02.640 --> 00:01:05.990 align:start position:0%
+the probability that Y is equal to 1
+given<00:01:03.539><c> X</c><00:01:03.660><c> and</c><00:01:03.750><c> parametrized</c><00:01:04.229><c> by</c><00:01:04.350><c> theta</c><00:01:04.670><c> so</c><00:01:05.670><c> if</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+given X and parametrized by theta so if
+ 
+
+00:01:06.000 --> 00:01:08.600 align:start position:0%
+given X and parametrized by theta so if
+we<00:01:06.119><c> wanted</c><00:01:06.420><c> to</c><00:01:06.479><c> predict</c><00:01:06.930><c> is</c><00:01:07.170><c> y</c><00:01:07.439><c> equals</c><00:01:07.950><c> to</c><00:01:08.159><c> 1</c><00:01:08.369><c> or</c>
+
+00:01:08.600 --> 00:01:08.610 align:start position:0%
+we wanted to predict is y equals to 1 or
+ 
+
+00:01:08.610 --> 00:01:11.060 align:start position:0%
+we wanted to predict is y equals to 1 or
+is<00:01:08.850><c> y</c><00:01:09.060><c> equal</c><00:01:09.479><c> to</c><00:01:09.570><c> 0</c><00:01:09.900><c> here's</c><00:01:10.619><c> something</c><00:01:10.950><c> we</c>
+
+00:01:11.060 --> 00:01:11.070 align:start position:0%
+is y equal to 0 here's something we
+ 
+
+00:01:11.070 --> 00:01:13.940 align:start position:0%
+is y equal to 0 here's something we
+might<00:01:11.220><c> do</c><00:01:11.600><c> whenever</c><00:01:12.600><c> the</c><00:01:12.990><c> hypothesis</c><00:01:13.680><c> outputs</c>
+
+00:01:13.940 --> 00:01:13.950 align:start position:0%
+might do whenever the hypothesis outputs
+ 
+
+00:01:13.950 --> 00:01:16.460 align:start position:0%
+might do whenever the hypothesis outputs
+that<00:01:14.610><c> the</c><00:01:14.820><c> probability</c><00:01:15.240><c> of</c><00:01:15.270><c> Y</c><00:01:15.570><c> being</c><00:01:15.900><c> 1</c><00:01:16.170><c> is</c>
+
+00:01:16.460 --> 00:01:16.470 align:start position:0%
+that the probability of Y being 1 is
+ 
+
+00:01:16.470 --> 00:01:18.920 align:start position:0%
+that the probability of Y being 1 is
+greater<00:01:16.740><c> than</c><00:01:17.009><c> or</c><00:01:17.280><c> equal</c><00:01:17.310><c> to</c><00:01:17.610><c> 0.5</c><00:01:18.299><c> so</c><00:01:18.900><c> this</c>
+
+00:01:18.920 --> 00:01:18.930 align:start position:0%
+greater than or equal to 0.5 so this
+ 
+
+00:01:18.930 --> 00:01:21.350 align:start position:0%
+greater than or equal to 0.5 so this
+means<00:01:19.290><c> that</c><00:01:19.530><c> it</c><00:01:19.799><c> is</c><00:01:19.920><c> more</c><00:01:20.159><c> likely</c><00:01:20.729><c> to</c><00:01:20.909><c> be</c><00:01:21.180><c> y</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+means that it is more likely to be y
+ 
+
+00:01:21.360 --> 00:01:24.590 align:start position:0%
+means that it is more likely to be y
+equals<00:01:21.659><c> 1</c><00:01:21.869><c> then</c><00:01:22.110><c> y</c><00:01:22.229><c> equals</c><00:01:22.530><c> 0</c><00:01:23.060><c> then</c><00:01:24.060><c> let's</c>
+
+00:01:24.590 --> 00:01:24.600 align:start position:0%
+equals 1 then y equals 0 then let's
+ 
+
+00:01:24.600 --> 00:01:27.469 align:start position:0%
+equals 1 then y equals 0 then let's
+predict<00:01:24.990><c> y</c><00:01:25.259><c> equals</c><00:01:25.290><c> 1</c><00:01:25.770><c> and</c><00:01:26.009><c> otherwise</c><00:01:26.880><c> if</c><00:01:27.270><c> the</c>
+
+00:01:27.469 --> 00:01:27.479 align:start position:0%
+predict y equals 1 and otherwise if the
+ 
+
+00:01:27.479 --> 00:01:30.140 align:start position:0%
+predict y equals 1 and otherwise if the
+probably<00:01:27.840><c> of</c><00:01:27.869><c> the</c><00:01:28.200><c> estimated</c><00:01:29.159><c> probability</c><00:01:29.490><c> of</c>
+
+00:01:30.140 --> 00:01:30.150 align:start position:0%
+probably of the estimated probability of
+ 
+
+00:01:30.150 --> 00:01:33.350 align:start position:0%
+probably of the estimated probability of
+Y<00:01:30.360><c> being</c><00:01:30.390><c> 1</c><00:01:30.990><c> is</c><00:01:31.170><c> less</c><00:01:31.799><c> than</c><00:01:31.950><c> 0.5</c><00:01:32.460><c> then</c><00:01:33.150><c> let's</c>
+
+00:01:33.350 --> 00:01:33.360 align:start position:0%
+Y being 1 is less than 0.5 then let's
+ 
+
+00:01:33.360 --> 00:01:36.200 align:start position:0%
+Y being 1 is less than 0.5 then let's
+predict<00:01:33.659><c> y</c><00:01:33.960><c> equals</c><00:01:34.259><c> 0</c><00:01:34.560><c> and</c><00:01:34.710><c> I</c><00:01:35.400><c> chose</c><00:01:35.790><c> a</c><00:01:35.820><c> greater</c>
+
+00:01:36.200 --> 00:01:36.210 align:start position:0%
+predict y equals 0 and I chose a greater
+ 
+
+00:01:36.210 --> 00:01:38.929 align:start position:0%
+predict y equals 0 and I chose a greater
+than<00:01:36.329><c> or</c><00:01:36.570><c> equal</c><00:01:36.720><c> to</c><00:01:37.380><c> here</c><00:01:37.680><c> and</c><00:01:37.860><c> less</c><00:01:38.400><c> than</c><00:01:38.579><c> here</c>
+
+00:01:38.929 --> 00:01:38.939 align:start position:0%
+than or equal to here and less than here
+ 
+
+00:01:38.939 --> 00:01:42.920 align:start position:0%
+than or equal to here and less than here
+if<00:01:39.810><c> H</c><00:01:40.079><c> of</c><00:01:40.259><c> X</c><00:01:40.439><c> is</c><00:01:40.590><c> equal</c><00:01:40.799><c> to</c><00:01:41.189><c> 0.5</c><00:01:41.939><c> exactly</c><00:01:42.659><c> then</c>
+
+00:01:42.920 --> 00:01:42.930 align:start position:0%
+if H of X is equal to 0.5 exactly then
+ 
+
+00:01:42.930 --> 00:01:44.660 align:start position:0%
+if H of X is equal to 0.5 exactly then
+you<00:01:43.170><c> know</c><00:01:43.290><c> we</c><00:01:43.680><c> could</c><00:01:43.860><c> predict</c><00:01:44.159><c> positive</c><00:01:44.549><c> or</c>
+
+00:01:44.660 --> 00:01:44.670 align:start position:0%
+you know we could predict positive or
+ 
+
+00:01:44.670 --> 00:01:46.190 align:start position:0%
+you know we could predict positive or
+negative<00:01:45.030><c> but</c><00:01:45.240><c> I</c><00:01:45.360><c> put</c><00:01:45.570><c> it</c><00:01:45.659><c> greater</c><00:01:45.869><c> than</c><00:01:45.990><c> or</c>
+
+00:01:46.190 --> 00:01:46.200 align:start position:0%
+negative but I put it greater than or
+ 
+
+00:01:46.200 --> 00:01:48.649 align:start position:0%
+negative but I put it greater than or
+equal<00:01:46.470><c> to</c><00:01:46.619><c> 2</c><00:01:46.829><c> here</c><00:01:47.130><c> so</c><00:01:47.610><c> we</c><00:01:47.759><c> default</c><00:01:48.180><c> maybe</c><00:01:48.420><c> to</c>
+
+00:01:48.649 --> 00:01:48.659 align:start position:0%
+equal to 2 here so we default maybe to
+ 
+
+00:01:48.659 --> 00:01:52.100 align:start position:0%
+equal to 2 here so we default maybe to
+predicting<00:01:49.170><c> a</c><00:01:49.320><c> positive</c><00:01:49.920><c> if</c><00:01:50.130><c> H</c><00:01:51.030><c> of</c><00:01:51.210><c> X</c><00:01:51.360><c> is</c><00:01:51.540><c> 0.5</c>
+
+00:01:52.100 --> 00:01:52.110 align:start position:0%
+predicting a positive if H of X is 0.5
+ 
+
+00:01:52.110 --> 00:01:54.080 align:start position:0%
+predicting a positive if H of X is 0.5
+but<00:01:52.439><c> that's</c><00:01:52.740><c> a</c><00:01:52.890><c> detail</c><00:01:53.159><c> that</c><00:01:53.369><c> really</c><00:01:53.939><c> doesn't</c>
+
+00:01:54.080 --> 00:01:54.090 align:start position:0%
+but that's a detail that really doesn't
+ 
+
+00:01:54.090 --> 00:01:57.560 align:start position:0%
+but that's a detail that really doesn't
+matter<00:01:54.329><c> that</c><00:01:54.450><c> much</c><00:01:55.850><c> what</c><00:01:56.850><c> I</c><00:01:56.880><c> want</c><00:01:57.090><c> to</c><00:01:57.149><c> do</c><00:01:57.299><c> is</c>
+
+00:01:57.560 --> 00:01:57.570 align:start position:0%
+matter that much what I want to do is
+ 
+
+00:01:57.570 --> 00:01:59.600 align:start position:0%
+matter that much what I want to do is
+understand<00:01:58.110><c> better</c><00:01:58.350><c> when</c><00:01:58.979><c> is</c><00:01:59.130><c> it</c><00:01:59.280><c> exactly</c>
+
+00:01:59.600 --> 00:01:59.610 align:start position:0%
+understand better when is it exactly
+ 
+
+00:01:59.610 --> 00:02:02.569 align:start position:0%
+understand better when is it exactly
+that<00:02:00.079><c> H</c><00:02:01.079><c> of</c><00:02:01.140><c> X</c><00:02:01.500><c> will</c><00:02:01.770><c> be</c><00:02:01.799><c> greater</c><00:02:02.189><c> than</c><00:02:02.430><c> or</c>
+
+00:02:02.569 --> 00:02:02.579 align:start position:0%
+that H of X will be greater than or
+ 
+
+00:02:02.579 --> 00:02:05.149 align:start position:0%
+that H of X will be greater than or
+equal<00:02:02.939><c> to</c><00:02:03.119><c> 0.5</c><00:02:03.409><c> so</c><00:02:04.409><c> that</c><00:02:04.619><c> will</c><00:02:04.799><c> end</c><00:02:04.829><c> up</c>
+
+00:02:05.149 --> 00:02:05.159 align:start position:0%
+equal to 0.5 so that will end up
+ 
+
+00:02:05.159 --> 00:02:10.309 align:start position:0%
+equal to 0.5 so that will end up
+predicting<00:02:05.490><c> Y</c><00:02:06.240><c> is</c><00:02:06.299><c> equal</c><00:02:06.960><c> to</c><00:02:07.110><c> 1</c><00:02:07.700><c> if</c><00:02:08.869><c> we</c><00:02:09.869><c> look</c><00:02:10.080><c> at</c>
+
+00:02:10.309 --> 00:02:10.319 align:start position:0%
+predicting Y is equal to 1 if we look at
+ 
+
+00:02:10.319 --> 00:02:13.460 align:start position:0%
+predicting Y is equal to 1 if we look at
+this<00:02:10.830><c> plot</c><00:02:11.129><c> of</c><00:02:11.580><c> the</c><00:02:11.819><c> sigmoid</c><00:02:12.239><c> function</c>
+
+00:02:13.460 --> 00:02:13.470 align:start position:0%
+this plot of the sigmoid function
+ 
+
+00:02:13.470 --> 00:02:17.630 align:start position:0%
+this plot of the sigmoid function
+notice<00:02:13.920><c> that</c><00:02:14.370><c> the</c><00:02:15.060><c> sigmoid</c><00:02:15.300><c> function</c><00:02:16.250><c> G</c><00:02:17.250><c> of</c><00:02:17.280><c> Z</c>
+
+00:02:17.630 --> 00:02:17.640 align:start position:0%
+notice that the sigmoid function G of Z
+ 
+
+00:02:17.640 --> 00:02:21.350 align:start position:0%
+notice that the sigmoid function G of Z
+is<00:02:17.910><c> greater</c><00:02:18.540><c> than</c><00:02:18.780><c> or</c><00:02:18.930><c> equal</c><00:02:19.200><c> to</c><00:02:19.440><c> 0.5</c><00:02:20.360><c> whenever</c>
+
+00:02:21.350 --> 00:02:21.360 align:start position:0%
+is greater than or equal to 0.5 whenever
+ 
+
+00:02:21.360 --> 00:02:25.790 align:start position:0%
+is greater than or equal to 0.5 whenever
+Z<00:02:22.430><c> is</c><00:02:23.430><c> greater</c><00:02:24.420><c> than</c><00:02:24.660><c> or</c><00:02:24.900><c> equal</c><00:02:25.170><c> to</c><00:02:25.260><c> 0</c>
+
+00:02:25.790 --> 00:02:25.800 align:start position:0%
+Z is greater than or equal to 0
+ 
+
+00:02:25.800 --> 00:02:28.970 align:start position:0%
+Z is greater than or equal to 0
+so<00:02:26.160><c> as</c><00:02:26.220><c> in</c><00:02:26.460><c> this</c><00:02:26.730><c> half</c><00:02:27.390><c> of</c><00:02:27.720><c> the</c><00:02:28.290><c> figure</c><00:02:28.620><c> that</c>
+
+00:02:28.970 --> 00:02:28.980 align:start position:0%
+so as in this half of the figure that
+ 
+
+00:02:28.980 --> 00:02:31.850 align:start position:0%
+so as in this half of the figure that
+you<00:02:29.220><c> know</c><00:02:29.280><c> G</c><00:02:29.550><c> takes</c><00:02:29.880><c> on</c><00:02:30.060><c> values</c><00:02:30.540><c> that</c><00:02:30.570><c> are</c><00:02:30.900><c> 0.5</c>
+
+00:02:31.850 --> 00:02:31.860 align:start position:0%
+you know G takes on values that are 0.5
+ 
+
+00:02:31.860 --> 00:02:33.800 align:start position:0%
+you know G takes on values that are 0.5
+and<00:02:32.070><c> higher</c><00:02:32.280><c> because</c><00:02:32.700><c> it's</c><00:02:32.970><c> not</c><00:02:33.270><c> chair</c><00:02:33.540><c> that's</c>
+
+00:02:33.800 --> 00:02:33.810 align:start position:0%
+and higher because it's not chair that's
+ 
+
+00:02:33.810 --> 00:02:36.610 align:start position:0%
+and higher because it's not chair that's
+the<00:02:33.930><c> 0.5</c><00:02:34.350><c> and</c><00:02:34.770><c> so</c><00:02:34.800><c> when</c><00:02:35.070><c> G</c><00:02:35.280><c> when</c><00:02:35.580><c> Z</c><00:02:35.850><c> is</c><00:02:35.880><c> positive</c>
+
+00:02:36.610 --> 00:02:36.620 align:start position:0%
+the 0.5 and so when G when Z is positive
+ 
+
+00:02:36.620 --> 00:02:39.890 align:start position:0%
+the 0.5 and so when G when Z is positive
+G<00:02:37.620><c> of</c><00:02:37.890><c> Z</c><00:02:38.130><c> the</c><00:02:38.430><c> sigmoid</c><00:02:38.820><c> function</c><00:02:39.210><c> is</c><00:02:39.480><c> greater</c>
+
+00:02:39.890 --> 00:02:39.900 align:start position:0%
+G of Z the sigmoid function is greater
+ 
+
+00:02:39.900 --> 00:02:42.950 align:start position:0%
+G of Z the sigmoid function is greater
+than<00:02:40.140><c> or</c><00:02:40.290><c> equal</c><00:02:40.380><c> to</c><00:02:40.740><c> 0.5</c><00:02:41.780><c> since</c><00:02:42.780><c> the</c>
+
+00:02:42.950 --> 00:02:42.960 align:start position:0%
+than or equal to 0.5 since the
+ 
+
+00:02:42.960 --> 00:02:45.920 align:start position:0%
+than or equal to 0.5 since the
+hypothesis<00:02:43.740><c> for</c><00:02:44.070><c> logistic</c><00:02:44.190><c> regression</c><00:02:44.520><c> is</c><00:02:45.180><c> H</c>
+
+00:02:45.920 --> 00:02:45.930 align:start position:0%
+hypothesis for logistic regression is H
+ 
+
+00:02:45.930 --> 00:02:49.820 align:start position:0%
+hypothesis for logistic regression is H
+of<00:02:46.200><c> X</c><00:02:46.380><c> equals</c><00:02:46.890><c> G</c><00:02:46.950><c> of</c><00:02:47.450><c> theta</c><00:02:48.450><c> transpose</c><00:02:48.660><c> X</c><00:02:49.440><c> this</c>
+
+00:02:49.820 --> 00:02:49.830 align:start position:0%
+of X equals G of theta transpose X this
+ 
+
+00:02:49.830 --> 00:02:52.460 align:start position:0%
+of X equals G of theta transpose X this
+is<00:02:50.760><c> therefore</c><00:02:50.940><c> going</c><00:02:51.630><c> to</c><00:02:51.690><c> be</c><00:02:51.780><c> greater</c><00:02:51.870><c> than</c><00:02:52.320><c> or</c>
+
+00:02:52.460 --> 00:02:52.470 align:start position:0%
+is therefore going to be greater than or
+ 
+
+00:02:52.470 --> 00:02:58.460 align:start position:0%
+is therefore going to be greater than or
+equal<00:02:52.650><c> to</c><00:02:52.860><c> 0.5</c><00:02:53.660><c> whenever</c><00:02:56.600><c> theta</c><00:02:57.600><c> transpose</c><00:02:57.810><c> X</c>
+
+00:02:58.460 --> 00:02:58.470 align:start position:0%
+equal to 0.5 whenever theta transpose X
+ 
+
+00:02:58.470 --> 00:03:02.360 align:start position:0%
+equal to 0.5 whenever theta transpose X
+is<00:02:58.740><c> greater</c><00:02:58.860><c> than</c><00:02:59.280><c> or</c><00:02:59.610><c> equal</c><00:02:59.970><c> to</c><00:03:00.120><c> 0</c><00:03:00.770><c> so</c><00:03:01.770><c> what</c>
+
+00:03:02.360 --> 00:03:02.370 align:start position:0%
+is greater than or equal to 0 so what
+ 
+
+00:03:02.370 --> 00:03:04.610 align:start position:0%
+is greater than or equal to 0 so what
+we've<00:03:02.550><c> shown</c><00:03:02.790><c> right</c><00:03:03.330><c> because</c><00:03:03.630><c> here</c><00:03:04.080><c> theta</c>
+
+00:03:04.610 --> 00:03:04.620 align:start position:0%
+we've shown right because here theta
+ 
+
+00:03:04.620 --> 00:03:08.570 align:start position:0%
+we've shown right because here theta
+transpose<00:03:05.070><c> X</c><00:03:05.370><c> takes</c><00:03:06.000><c> the</c><00:03:06.120><c> row</c><00:03:06.330><c> of</c><00:03:06.510><c> Z</c><00:03:07.340><c> so</c><00:03:08.340><c> what</c>
+
+00:03:08.570 --> 00:03:08.580 align:start position:0%
+transpose X takes the row of Z so what
+ 
+
+00:03:08.580 --> 00:03:11.000 align:start position:0%
+transpose X takes the row of Z so what
+we've<00:03:08.730><c> shown</c><00:03:08.940><c> is</c><00:03:09.209><c> that</c><00:03:09.570><c> our</c><00:03:09.930><c> hypothesis</c><00:03:10.740><c> is</c>
+
+00:03:11.000 --> 00:03:11.010 align:start position:0%
+we've shown is that our hypothesis is
+ 
+
+00:03:11.010 --> 00:03:13.370 align:start position:0%
+we've shown is that our hypothesis is
+going<00:03:11.070><c> to</c><00:03:11.250><c> predict</c><00:03:11.550><c> y</c><00:03:11.730><c> equals</c><00:03:12.000><c> 1</c><00:03:12.780><c> whenever</c>
+
+00:03:13.370 --> 00:03:13.380 align:start position:0%
+going to predict y equals 1 whenever
+ 
+
+00:03:13.380 --> 00:03:16.280 align:start position:0%
+going to predict y equals 1 whenever
+theta<00:03:14.280><c> transpose</c><00:03:14.459><c> X</c><00:03:15.120><c> is</c><00:03:15.450><c> greater</c><00:03:15.810><c> than</c><00:03:16.140><c> or</c>
+
+00:03:16.280 --> 00:03:16.290 align:start position:0%
+theta transpose X is greater than or
+ 
+
+00:03:16.290 --> 00:03:19.190 align:start position:0%
+theta transpose X is greater than or
+equal<00:03:16.410><c> to</c><00:03:16.620><c> 0</c><00:03:17.060><c> let's</c><00:03:18.060><c> now</c><00:03:18.239><c> consider</c><00:03:18.630><c> the</c><00:03:19.080><c> other</c>
+
+00:03:19.190 --> 00:03:19.200 align:start position:0%
+equal to 0 let's now consider the other
+ 
+
+00:03:19.200 --> 00:03:22.850 align:start position:0%
+equal to 0 let's now consider the other
+case<00:03:19.320><c> of</c><00:03:20.000><c> when</c><00:03:21.000><c> our</c><00:03:21.330><c> hypothesis</c><00:03:22.140><c> will</c><00:03:22.470><c> predict</c>
+
+00:03:22.850 --> 00:03:22.860 align:start position:0%
+case of when our hypothesis will predict
+ 
+
+00:03:22.860 --> 00:03:26.270 align:start position:0%
+case of when our hypothesis will predict
+Y<00:03:23.130><c> is</c><00:03:23.190><c> equal</c><00:03:23.910><c> to</c><00:03:24.090><c> 0</c><00:03:24.420><c> well</c><00:03:25.230><c> by</c><00:03:25.650><c> similar</c><00:03:26.100><c> argument</c>
+
+00:03:26.270 --> 00:03:26.280 align:start position:0%
+Y is equal to 0 well by similar argument
+ 
+
+00:03:26.280 --> 00:03:29.150 align:start position:0%
+Y is equal to 0 well by similar argument
+H<00:03:26.970><c> of</c><00:03:27.330><c> X</c><00:03:27.510><c> is</c><00:03:27.720><c> going</c><00:03:27.870><c> to</c><00:03:27.989><c> be</c><00:03:28.050><c> less</c><00:03:28.320><c> than</c><00:03:28.350><c> 0.5</c>
+
+00:03:29.150 --> 00:03:29.160 align:start position:0%
+H of X is going to be less than 0.5
+ 
+
+00:03:29.160 --> 00:03:33.740 align:start position:0%
+H of X is going to be less than 0.5
+whenever<00:03:30.000><c> G</c><00:03:30.630><c> of</c><00:03:30.870><c> Z</c><00:03:31.110><c> is</c><00:03:31.590><c> less</c><00:03:31.650><c> than</c><00:03:32.160><c> 0.5</c><00:03:32.750><c> because</c>
+
+00:03:33.740 --> 00:03:33.750 align:start position:0%
+whenever G of Z is less than 0.5 because
+ 
+
+00:03:33.750 --> 00:03:37.280 align:start position:0%
+whenever G of Z is less than 0.5 because
+the<00:03:34.410><c> range</c><00:03:34.650><c> of</c><00:03:34.830><c> values</c><00:03:34.980><c> of</c><00:03:35.459><c> Z</c><00:03:35.730><c> that</c><00:03:36.480><c> cause</c><00:03:36.780><c> G</c><00:03:37.200><c> of</c>
+
+00:03:37.280 --> 00:03:37.290 align:start position:0%
+the range of values of Z that cause G of
+ 
+
+00:03:37.290 --> 00:03:40.160 align:start position:0%
+the range of values of Z that cause G of
+Z<00:03:37.440><c> to</c><00:03:37.650><c> take</c><00:03:37.830><c> on</c><00:03:38.040><c> values</c><00:03:38.250><c> less</c><00:03:39.180><c> than</c><00:03:39.420><c> 0.5</c><00:03:39.870><c> well</c>
+
+00:03:40.160 --> 00:03:40.170 align:start position:0%
+Z to take on values less than 0.5 well
+ 
+
+00:03:40.170 --> 00:03:43.940 align:start position:0%
+Z to take on values less than 0.5 well
+that's<00:03:40.380><c> when</c><00:03:40.530><c> Z</c><00:03:40.860><c> is</c><00:03:40.980><c> negative</c><00:03:41.690><c> so</c><00:03:42.690><c> when</c><00:03:42.959><c> G</c><00:03:43.709><c> of</c><00:03:43.799><c> Z</c>
+
+00:03:43.940 --> 00:03:43.950 align:start position:0%
+that's when Z is negative so when G of Z
+ 
+
+00:03:43.950 --> 00:03:46.610 align:start position:0%
+that's when Z is negative so when G of Z
+is<00:03:44.070><c> less</c><00:03:44.100><c> than</c><00:03:44.280><c> 0.5</c><00:03:45.120><c> our</c><00:03:45.810><c> hypothesis</c><00:03:46.470><c> will</c>
+
+00:03:46.610 --> 00:03:46.620 align:start position:0%
+is less than 0.5 our hypothesis will
+ 
+
+00:03:46.620 --> 00:03:49.070 align:start position:0%
+is less than 0.5 our hypothesis will
+predict<00:03:46.890><c> that</c><00:03:46.980><c> Y</c><00:03:47.130><c> is</c><00:03:47.190><c> equal</c><00:03:47.459><c> to</c><00:03:47.549><c> 0</c><00:03:47.820><c> and</c><00:03:48.080><c> by</c>
+
+00:03:49.070 --> 00:03:49.080 align:start position:0%
+predict that Y is equal to 0 and by
+ 
+
+00:03:49.080 --> 00:03:51.250 align:start position:0%
+predict that Y is equal to 0 and by
+similar<00:03:49.530><c> argument</c><00:03:49.980><c> to</c><00:03:50.130><c> what</c><00:03:50.519><c> we</c><00:03:50.640><c> had</c><00:03:50.820><c> earlier</c>
+
+00:03:51.250 --> 00:03:51.260 align:start position:0%
+similar argument to what we had earlier
+ 
+
+00:03:51.260 --> 00:03:54.650 align:start position:0%
+similar argument to what we had earlier
+H<00:03:52.260><c> of</c><00:03:52.590><c> X</c><00:03:52.739><c> is</c><00:03:52.950><c> equal</c><00:03:53.100><c> to</c><00:03:53.370><c> G</c><00:03:53.640><c> of</c><00:03:53.670><c> theta</c><00:03:54.450><c> transpose</c>
+
+00:03:54.650 --> 00:03:54.660 align:start position:0%
+H of X is equal to G of theta transpose
+ 
+
+00:03:54.660 --> 00:03:58.970 align:start position:0%
+H of X is equal to G of theta transpose
+X<00:03:55.530><c> and</c><00:03:56.400><c> so</c><00:03:57.060><c> we'll</c><00:03:57.269><c> predict</c><00:03:57.660><c> y</c><00:03:58.350><c> equals</c><00:03:58.380><c> 0</c>
+
+00:03:58.970 --> 00:03:58.980 align:start position:0%
+X and so we'll predict y equals 0
+ 
+
+00:03:58.980 --> 00:04:02.060 align:start position:0%
+X and so we'll predict y equals 0
+whenever<00:03:59.430><c> this</c><00:04:00.239><c> quantity</c><00:04:00.420><c> theta</c><00:04:01.140><c> transpose</c><00:04:01.680><c> X</c>
+
+00:04:02.060 --> 00:04:02.070 align:start position:0%
+whenever this quantity theta transpose X
+ 
+
+00:04:02.070 --> 00:04:06.080 align:start position:0%
+whenever this quantity theta transpose X
+is<00:04:02.880><c> less</c><00:04:03.239><c> than</c><00:04:03.269><c> 0</c><00:04:04.100><c> to</c><00:04:05.100><c> summarize</c><00:04:05.640><c> what</c><00:04:05.910><c> we</c><00:04:06.060><c> just</c>
+
+00:04:06.080 --> 00:04:06.090 align:start position:0%
+is less than 0 to summarize what we just
+ 
+
+00:04:06.090 --> 00:04:09.170 align:start position:0%
+is less than 0 to summarize what we just
+worked<00:04:06.450><c> out</c><00:04:06.690><c> we</c><00:04:07.019><c> saw</c><00:04:07.230><c> that</c><00:04:07.260><c> if</c><00:04:08.160><c> we</c><00:04:08.489><c> decide</c><00:04:08.910><c> to</c>
+
+00:04:09.170 --> 00:04:09.180 align:start position:0%
+worked out we saw that if we decide to
+ 
+
+00:04:09.180 --> 00:04:11.539 align:start position:0%
+worked out we saw that if we decide to
+predict<00:04:09.570><c> whether</c><00:04:09.840><c> Y</c><00:04:10.140><c> is</c><00:04:10.200><c> equal</c><00:04:10.530><c> to</c><00:04:10.620><c> 1</c><00:04:10.830><c> or</c><00:04:11.070><c> Y</c><00:04:11.489><c> is</c>
+
+00:04:11.539 --> 00:04:11.549 align:start position:0%
+predict whether Y is equal to 1 or Y is
+ 
+
+00:04:11.549 --> 00:04:13.729 align:start position:0%
+predict whether Y is equal to 1 or Y is
+equal<00:04:11.940><c> to</c><00:04:12.030><c> 0</c><00:04:12.330><c> depending</c><00:04:12.840><c> on</c><00:04:12.959><c> whether</c><00:04:13.140><c> the</c>
+
+00:04:13.729 --> 00:04:13.739 align:start position:0%
+equal to 0 depending on whether the
+ 
+
+00:04:13.739 --> 00:04:15.949 align:start position:0%
+equal to 0 depending on whether the
+estimated<00:04:14.250><c> probability</c><00:04:14.430><c> is</c><00:04:15.120><c> greater</c><00:04:15.450><c> than</c><00:04:15.690><c> or</c>
+
+00:04:15.949 --> 00:04:15.959 align:start position:0%
+estimated probability is greater than or
+ 
+
+00:04:15.959 --> 00:04:18.080 align:start position:0%
+estimated probability is greater than or
+equal<00:04:16.470><c> to</c><00:04:16.590><c> 0.5</c><00:04:16.620><c> or</c><00:04:17.370><c> whether</c><00:04:17.580><c> it's</c><00:04:17.790><c> less</c><00:04:17.940><c> than</c>
+
+00:04:18.080 --> 00:04:18.090 align:start position:0%
+equal to 0.5 or whether it's less than
+ 
+
+00:04:18.090 --> 00:04:20.900 align:start position:0%
+equal to 0.5 or whether it's less than
+0.5<00:04:18.600><c> then</c><00:04:19.410><c> that's</c><00:04:19.739><c> the</c><00:04:19.890><c> same</c><00:04:20.100><c> as</c><00:04:20.400><c> saying</c><00:04:20.640><c> that</c>
+
+00:04:20.900 --> 00:04:20.910 align:start position:0%
+0.5 then that's the same as saying that
+ 
+
+00:04:20.910 --> 00:04:23.240 align:start position:0%
+0.5 then that's the same as saying that
+will<00:04:21.060><c> predict</c><00:04:21.510><c> y</c><00:04:22.080><c> equals</c><00:04:22.109><c> 1</c><00:04:22.620><c> whenever</c><00:04:22.890><c> theta</c>
+
+00:04:23.240 --> 00:04:23.250 align:start position:0%
+will predict y equals 1 whenever theta
+ 
+
+00:04:23.250 --> 00:04:25.050 align:start position:0%
+will predict y equals 1 whenever theta
+transpose<00:04:23.370><c> X</c><00:04:23.970><c> is</c><00:04:24.210><c> straight</c><00:04:24.570><c> in</c>
+
+00:04:25.050 --> 00:04:25.060 align:start position:0%
+transpose X is straight in
+ 
+
+00:04:25.060 --> 00:04:27.480 align:start position:0%
+transpose X is straight in
+then<00:04:25.180><c> or</c><00:04:25.419><c> equal</c><00:04:25.780><c> to</c><00:04:25.900><c> zero</c><00:04:26.260><c> and</c><00:04:26.470><c> will</c><00:04:26.950><c> predict</c><00:04:27.280><c> y</c>
+
+00:04:27.480 --> 00:04:27.490 align:start position:0%
+then or equal to zero and will predict y
+ 
+
+00:04:27.490 --> 00:04:29.280 align:start position:0%
+then or equal to zero and will predict y
+is<00:04:27.550><c> equal</c><00:04:27.970><c> to</c><00:04:28.000><c> zero</c><00:04:28.360><c> whenever</c><00:04:28.930><c> theta</c>
+
+00:04:29.280 --> 00:04:29.290 align:start position:0%
+is equal to zero whenever theta
+ 
+
+00:04:29.290 --> 00:04:33.390 align:start position:0%
+is equal to zero whenever theta
+transpose<00:04:29.470><c> X</c><00:04:30.190><c> is</c><00:04:30.370><c> less</c><00:04:30.820><c> than</c><00:04:31.000><c> zero</c><00:04:32.160><c> let's</c><00:04:33.160><c> use</c>
+
+00:04:33.390 --> 00:04:33.400 align:start position:0%
+transpose X is less than zero let's use
+ 
+
+00:04:33.400 --> 00:04:35.780 align:start position:0%
+transpose X is less than zero let's use
+this<00:04:33.639><c> to</c><00:04:33.910><c> better</c><00:04:34.150><c> understand</c><00:04:34.810><c> how</c><00:04:35.080><c> the</c>
+
+00:04:35.780 --> 00:04:35.790 align:start position:0%
+this to better understand how the
+ 
+
+00:04:35.790 --> 00:04:38.460 align:start position:0%
+this to better understand how the
+hypothesis<00:04:36.790><c> of</c><00:04:37.090><c> logistic</c><00:04:37.630><c> regression</c><00:04:38.139><c> makes</c>
+
+00:04:38.460 --> 00:04:38.470 align:start position:0%
+hypothesis of logistic regression makes
+ 
+
+00:04:38.470 --> 00:04:41.340 align:start position:0%
+hypothesis of logistic regression makes
+its<00:04:38.650><c> predictions</c><00:04:39.100><c> now</c><00:04:39.780><c> let's</c><00:04:40.780><c> suppose</c><00:04:40.960><c> we</c>
+
+00:04:41.340 --> 00:04:41.350 align:start position:0%
+its predictions now let's suppose we
+ 
+
+00:04:41.350 --> 00:04:43.200 align:start position:0%
+its predictions now let's suppose we
+have<00:04:41.530><c> a</c><00:04:41.560><c> training</c><00:04:41.830><c> set</c><00:04:42.070><c> like</c><00:04:42.520><c> that</c><00:04:42.550><c> shown</c><00:04:42.760><c> on</c>
+
+00:04:43.200 --> 00:04:43.210 align:start position:0%
+have a training set like that shown on
+ 
+
+00:04:43.210 --> 00:04:46.050 align:start position:0%
+have a training set like that shown on
+this<00:04:43.360><c> slide</c><00:04:43.630><c> and</c><00:04:44.070><c> suppose</c><00:04:45.070><c> our</c><00:04:45.250><c> hypothesis</c><00:04:46.030><c> is</c>
+
+00:04:46.050 --> 00:04:46.060 align:start position:0%
+this slide and suppose our hypothesis is
+ 
+
+00:04:46.060 --> 00:04:49.830 align:start position:0%
+this slide and suppose our hypothesis is
+H<00:04:47.050><c> of</c><00:04:47.260><c> x</c><00:04:47.440><c> equals</c><00:04:47.680><c> G</c><00:04:48.220><c> of</c><00:04:48.250><c> theta</c><00:04:48.400><c> 0</c><00:04:49.090><c> plus</c><00:04:49.270><c> theta</c><00:04:49.450><c> 1</c>
+
+00:04:49.830 --> 00:04:49.840 align:start position:0%
+H of x equals G of theta 0 plus theta 1
+ 
+
+00:04:49.840 --> 00:04:53.670 align:start position:0%
+H of x equals G of theta 0 plus theta 1
+X<00:04:50.260><c> 1</c><00:04:50.470><c> plus</c><00:04:50.530><c> theta</c><00:04:51.100><c> 2</c><00:04:51.340><c> X</c><00:04:51.580><c> 2</c><00:04:51.960><c> we</c><00:04:52.960><c> haven't</c><00:04:53.350><c> helped</c>
+
+00:04:53.670 --> 00:04:53.680 align:start position:0%
+X 1 plus theta 2 X 2 we haven't helped
+ 
+
+00:04:53.680 --> 00:04:55.620 align:start position:0%
+X 1 plus theta 2 X 2 we haven't helped
+yet<00:04:53.830><c> about</c><00:04:54.220><c> how</c><00:04:54.490><c> to</c><00:04:54.550><c> fit</c><00:04:54.910><c> the</c><00:04:55.030><c> parameters</c><00:04:55.180><c> of</c>
+
+00:04:55.620 --> 00:04:55.630 align:start position:0%
+yet about how to fit the parameters of
+ 
+
+00:04:55.630 --> 00:04:57.960 align:start position:0%
+yet about how to fit the parameters of
+this<00:04:55.870><c> model</c><00:04:55.930><c> we'll</c><00:04:56.830><c> talk</c><00:04:57.070><c> about</c><00:04:57.250><c> that</c><00:04:57.580><c> in</c><00:04:57.639><c> the</c>
+
+00:04:57.960 --> 00:04:57.970 align:start position:0%
+this model we'll talk about that in the
+ 
+
+00:04:57.970 --> 00:05:00.810 align:start position:0%
+this model we'll talk about that in the
+next<00:04:58.240><c> video</c><00:04:58.510><c> but</c><00:04:59.440><c> suppose</c><00:04:59.860><c> that</c><00:04:59.889><c> very</c>
+
+00:05:00.810 --> 00:05:00.820 align:start position:0%
+next video but suppose that very
+ 
+
+00:05:00.820 --> 00:05:03.659 align:start position:0%
+next video but suppose that very
+procedure<00:05:01.510><c> to</c><00:05:01.900><c> be</c><00:05:02.020><c> specified</c><00:05:02.370><c> we</c><00:05:03.370><c> end</c><00:05:03.520><c> up</c>
+
+00:05:03.659 --> 00:05:03.669 align:start position:0%
+procedure to be specified we end up
+ 
+
+00:05:03.669 --> 00:05:05.490 align:start position:0%
+procedure to be specified we end up
+choosing<00:05:04.000><c> the</c><00:05:04.360><c> following</c><00:05:04.810><c> values</c><00:05:05.229><c> for</c><00:05:05.410><c> the</c>
+
+00:05:05.490 --> 00:05:05.500 align:start position:0%
+choosing the following values for the
+ 
+
+00:05:05.500 --> 00:05:07.770 align:start position:0%
+choosing the following values for the
+parameters<00:05:05.979><c> let's</c><00:05:06.370><c> say</c><00:05:06.550><c> we</c><00:05:06.760><c> choose</c><00:05:07.030><c> theta</c><00:05:07.389><c> 0</c>
+
+00:05:07.770 --> 00:05:07.780 align:start position:0%
+parameters let's say we choose theta 0
+ 
+
+00:05:07.780 --> 00:05:12.000 align:start position:0%
+parameters let's say we choose theta 0
+equals<00:05:07.960><c> 3</c><00:05:08.290><c> theta</c><00:05:09.280><c> 1</c><00:05:09.550><c> equals</c><00:05:10.060><c> 1</c><00:05:10.270><c> theta</c><00:05:10.870><c> 2</c><00:05:11.200><c> equals</c>
+
+00:05:12.000 --> 00:05:12.010 align:start position:0%
+equals 3 theta 1 equals 1 theta 2 equals
+ 
+
+00:05:12.010 --> 00:05:15.420 align:start position:0%
+equals 3 theta 1 equals 1 theta 2 equals
+1<00:05:12.630><c> so</c><00:05:13.630><c> this</c><00:05:13.930><c> means</c><00:05:14.200><c> that</c><00:05:14.500><c> my</c><00:05:14.800><c> parameter</c><00:05:15.400><c> vector</c>
+
+00:05:15.420 --> 00:05:15.430 align:start position:0%
+1 so this means that my parameter vector
+ 
+
+00:05:15.430 --> 00:05:23.270 align:start position:0%
+1 so this means that my parameter vector
+is<00:05:16.090><c> going</c><00:05:16.330><c> to</c><00:05:16.540><c> be</c><00:05:16.690><c> theta</c><00:05:18.000><c> equals</c><00:05:19.500><c> minus</c><00:05:20.500><c> 3</c><00:05:20.830><c> 1</c><00:05:21.490><c> 1</c>
+
+00:05:23.270 --> 00:05:23.280 align:start position:0%
+is going to be theta equals minus 3 1 1
+ 
+
+00:05:23.280 --> 00:05:27.990 align:start position:0%
+is going to be theta equals minus 3 1 1
+so<00:05:24.540><c> we're</c><00:05:25.620><c> given</c><00:05:26.620><c> this</c><00:05:26.830><c> choice</c><00:05:27.310><c> of</c><00:05:27.550><c> my</c>
+
+00:05:27.990 --> 00:05:28.000 align:start position:0%
+so we're given this choice of my
+ 
+
+00:05:28.000 --> 00:05:30.630 align:start position:0%
+so we're given this choice of my
+hypothesis<00:05:28.870><c> parameters</c><00:05:29.500><c> let's</c><00:05:30.310><c> try</c><00:05:30.580><c> to</c>
+
+00:05:30.630 --> 00:05:30.640 align:start position:0%
+hypothesis parameters let's try to
+ 
+
+00:05:30.640 --> 00:05:33.600 align:start position:0%
+hypothesis parameters let's try to
+figure<00:05:30.940><c> out</c><00:05:31.140><c> where</c><00:05:32.140><c> our</c><00:05:32.440><c> hypothesis</c><00:05:33.250><c> will</c><00:05:33.430><c> end</c>
+
+00:05:33.600 --> 00:05:33.610 align:start position:0%
+figure out where our hypothesis will end
+ 
+
+00:05:33.610 --> 00:05:35.909 align:start position:0%
+figure out where our hypothesis will end
+up<00:05:33.760><c> predicting</c><00:05:34.060><c> y</c><00:05:34.450><c> equals</c><00:05:34.479><c> 1</c><00:05:35.080><c> and</c><00:05:35.380><c> where</c><00:05:35.710><c> it</c>
+
+00:05:35.909 --> 00:05:35.919 align:start position:0%
+up predicting y equals 1 and where it
+ 
+
+00:05:35.919 --> 00:05:39.300 align:start position:0%
+up predicting y equals 1 and where it
+would<00:05:36.039><c> end</c><00:05:36.250><c> up</c><00:05:36.400><c> predicting</c><00:05:36.669><c> y</c><00:05:37.180><c> equals</c><00:05:37.210><c> 0</c><00:05:38.310><c> using</c>
+
+00:05:39.300 --> 00:05:39.310 align:start position:0%
+would end up predicting y equals 0 using
+ 
+
+00:05:39.310 --> 00:05:41.190 align:start position:0%
+would end up predicting y equals 0 using
+the<00:05:39.580><c> formulas</c><00:05:40.150><c> that</c><00:05:40.180><c> we</c><00:05:40.479><c> worked</c><00:05:40.750><c> out</c><00:05:40.960><c> on</c><00:05:41.110><c> the</c>
+
+00:05:41.190 --> 00:05:41.200 align:start position:0%
+the formulas that we worked out on the
+ 
+
+00:05:41.200 --> 00:05:44.130 align:start position:0%
+the formulas that we worked out on the
+previous<00:05:41.380><c> slide</c><00:05:41.800><c> we</c><00:05:42.460><c> know</c><00:05:42.490><c> that</c><00:05:42.700><c> y</c><00:05:43.150><c> equals</c><00:05:43.870><c> 1</c>
+
+00:05:44.130 --> 00:05:44.140 align:start position:0%
+previous slide we know that y equals 1
+ 
+
+00:05:44.140 --> 00:05:45.840 align:start position:0%
+previous slide we know that y equals 1
+is<00:05:44.440><c> more</c><00:05:44.710><c> likely</c><00:05:45.130><c> that</c><00:05:45.430><c> is</c><00:05:45.640><c> the</c><00:05:45.669><c> probability</c>
+
+00:05:45.840 --> 00:05:45.850 align:start position:0%
+is more likely that is the probability
+ 
+
+00:05:45.850 --> 00:05:49.409 align:start position:0%
+is more likely that is the probability
+that<00:05:46.479><c> y</c><00:05:46.780><c> equals</c><00:05:47.200><c> 1</c><00:05:47.410><c> is</c><00:05:47.710><c> greater</c><00:05:48.190><c> than</c><00:05:48.729><c> 0.5</c><00:05:49.270><c> or</c>
+
+00:05:49.409 --> 00:05:49.419 align:start position:0%
+that y equals 1 is greater than 0.5 or
+ 
+
+00:05:49.419 --> 00:05:52.159 align:start position:0%
+that y equals 1 is greater than 0.5 or
+greater<00:05:49.870><c> than</c><00:05:50.080><c> or</c><00:05:50.200><c> equal</c><00:05:50.289><c> to</c><00:05:50.500><c> 0.5</c><00:05:51.150><c> whenever</c>
+
+00:05:52.159 --> 00:05:52.169 align:start position:0%
+greater than or equal to 0.5 whenever
+ 
+
+00:05:52.169 --> 00:05:56.840 align:start position:0%
+greater than or equal to 0.5 whenever
+theta<00:05:53.169><c> transpose</c><00:05:53.350><c> X</c><00:05:54.160><c> is</c><00:05:54.520><c> greater</c><00:05:55.389><c> than</c><00:05:55.930><c> 0</c><00:05:56.289><c> and</c>
+
+00:05:56.840 --> 00:05:56.850 align:start position:0%
+theta transpose X is greater than 0 and
+ 
+
+00:05:56.850 --> 00:05:59.570 align:start position:0%
+theta transpose X is greater than 0 and
+this<00:05:57.850><c> formula</c><00:05:58.389><c> that</c><00:05:58.600><c> I</c><00:05:58.690><c> just</c><00:05:58.900><c> underlined</c>
+
+00:05:59.570 --> 00:05:59.580 align:start position:0%
+this formula that I just underlined
+ 
+
+00:05:59.580 --> 00:06:03.870 align:start position:0%
+this formula that I just underlined
+minus<00:06:00.580><c> 3</c><00:06:00.820><c> plus</c><00:06:01.000><c> x1</c><00:06:01.630><c> plus</c><00:06:01.930><c> x2</c><00:06:02.110><c> is</c><00:06:02.680><c> of</c><00:06:03.520><c> course</c>
+
+00:06:03.870 --> 00:06:03.880 align:start position:0%
+minus 3 plus x1 plus x2 is of course
+ 
+
+00:06:03.880 --> 00:06:07.129 align:start position:0%
+minus 3 plus x1 plus x2 is of course
+theta<00:06:04.450><c> transpose</c><00:06:05.020><c> X</c><00:06:05.350><c> when</c><00:06:05.979><c> theta</c><00:06:06.220><c> is</c><00:06:06.400><c> equal</c><00:06:07.000><c> to</c>
+
+00:06:07.129 --> 00:06:07.139 align:start position:0%
+theta transpose X when theta is equal to
+ 
+
+00:06:07.139 --> 00:06:10.260 align:start position:0%
+theta transpose X when theta is equal to
+this<00:06:08.139><c> value</c><00:06:08.560><c> of</c><00:06:09.010><c> the</c><00:06:09.130><c> parameters</c><00:06:09.280><c> that</c><00:06:09.940><c> we</c>
+
+00:06:10.260 --> 00:06:10.270 align:start position:0%
+this value of the parameters that we
+ 
+
+00:06:10.270 --> 00:06:14.850 align:start position:0%
+this value of the parameters that we
+just<00:06:10.630><c> chose</c><00:06:11.610><c> so</c><00:06:12.610><c> for</c><00:06:13.060><c> any</c><00:06:13.389><c> example</c><00:06:14.260><c> for</c><00:06:14.710><c> any</c>
+
+00:06:14.850 --> 00:06:14.860 align:start position:0%
+just chose so for any example for any
+ 
+
+00:06:14.860 --> 00:06:18.029 align:start position:0%
+just chose so for any example for any
+example<00:06:15.400><c> with</c><00:06:15.580><c> features</c><00:06:15.970><c> x1</c><00:06:16.419><c> and</c><00:06:16.780><c> x2</c><00:06:17.260><c> that</c>
+
+00:06:18.029 --> 00:06:18.039 align:start position:0%
+example with features x1 and x2 that
+ 
+
+00:06:18.039 --> 00:06:21.320 align:start position:0%
+example with features x1 and x2 that
+satisfy<00:06:18.729><c> this</c><00:06:19.389><c> equation</c><00:06:19.750><c> then</c><00:06:20.260><c> minus</c><00:06:20.650><c> 3</c><00:06:20.680><c> plus</c>
+
+00:06:21.320 --> 00:06:21.330 align:start position:0%
+satisfy this equation then minus 3 plus
+ 
+
+00:06:21.330 --> 00:06:24.629 align:start position:0%
+satisfy this equation then minus 3 plus
+x1<00:06:22.330><c> plus</c><00:06:22.600><c> x2</c><00:06:22.750><c> is</c><00:06:23.289><c> greater</c><00:06:23.800><c> than</c><00:06:24.010><c> or</c><00:06:24.100><c> equal</c><00:06:24.130><c> to</c><00:06:24.340><c> 0</c>
+
+00:06:24.629 --> 00:06:24.639 align:start position:0%
+x1 plus x2 is greater than or equal to 0
+ 
+
+00:06:24.639 --> 00:06:27.659 align:start position:0%
+x1 plus x2 is greater than or equal to 0
+all<00:06:24.960><c> hypotheses</c><00:06:25.960><c> will</c><00:06:26.260><c> think</c><00:06:26.530><c> that</c><00:06:27.130><c> y</c><00:06:27.310><c> equals</c>
+
+00:06:27.659 --> 00:06:27.669 align:start position:0%
+all hypotheses will think that y equals
+ 
+
+00:06:27.669 --> 00:06:29.760 align:start position:0%
+all hypotheses will think that y equals
+1<00:06:27.910><c> is</c><00:06:28.060><c> more</c><00:06:28.240><c> likely</c><00:06:28.570><c> or</c><00:06:28.600><c> will</c><00:06:28.930><c> predict</c><00:06:29.320><c> that</c><00:06:29.560><c> Y</c>
+
+00:06:29.760 --> 00:06:29.770 align:start position:0%
+1 is more likely or will predict that Y
+ 
+
+00:06:29.770 --> 00:06:31.570 align:start position:0%
+1 is more likely or will predict that Y
+is<00:06:29.950><c> equal</c><00:06:30.250><c> to</c><00:06:30.370><c> 1</c>
+
+00:06:31.570 --> 00:06:31.580 align:start position:0%
+is equal to 1
+ 
+
+00:06:31.580 --> 00:06:34.760 align:start position:0%
+is equal to 1
+we<00:06:32.580><c> can</c><00:06:32.729><c> also</c><00:06:32.879><c> take</c><00:06:33.599><c> minus</c><00:06:34.050><c> three</c><00:06:34.319><c> and</c><00:06:34.590><c> bring</c>
+
+00:06:34.760 --> 00:06:34.770 align:start position:0%
+we can also take minus three and bring
+ 
+
+00:06:34.770 --> 00:06:37.640 align:start position:0%
+we can also take minus three and bring
+this<00:06:34.949><c> to</c><00:06:35.009><c> the</c><00:06:35.280><c> right</c><00:06:35.310><c> and</c><00:06:35.789><c> rewrite</c><00:06:36.659><c> this</c><00:06:36.870><c> as</c><00:06:37.139><c> X</c>
+
+00:06:37.640 --> 00:06:37.650 align:start position:0%
+this to the right and rewrite this as X
+ 
+
+00:06:37.650 --> 00:06:41.240 align:start position:0%
+this to the right and rewrite this as X
+1<00:06:37.979><c> plus</c><00:06:38.669><c> X</c><00:06:38.939><c> 2</c><00:06:39.090><c> is</c><00:06:39.569><c> greater</c><00:06:40.080><c> than</c><00:06:40.349><c> or</c><00:06:40.560><c> equal</c><00:06:40.860><c> to</c><00:06:40.979><c> 3</c>
+
+00:06:41.240 --> 00:06:41.250 align:start position:0%
+1 plus X 2 is greater than or equal to 3
+ 
+
+00:06:41.250 --> 00:06:44.059 align:start position:0%
+1 plus X 2 is greater than or equal to 3
+and<00:06:41.490><c> so</c><00:06:41.930><c> equivalently</c><00:06:42.930><c> we</c><00:06:43.050><c> found</c><00:06:43.500><c> that</c><00:06:43.740><c> this</c>
+
+00:06:44.059 --> 00:06:44.069 align:start position:0%
+and so equivalently we found that this
+ 
+
+00:06:44.069 --> 00:06:46.520 align:start position:0%
+and so equivalently we found that this
+hypothesis<00:06:44.789><c> will</c><00:06:45.030><c> predict</c><00:06:45.419><c> y</c><00:06:45.960><c> equals</c><00:06:45.990><c> 1</c>
+
+00:06:46.520 --> 00:06:46.530 align:start position:0%
+hypothesis will predict y equals 1
+ 
+
+00:06:46.530 --> 00:06:49.429 align:start position:0%
+hypothesis will predict y equals 1
+whenever<00:06:46.919><c> X</c><00:06:47.460><c> 1</c><00:06:47.699><c> plus</c><00:06:47.939><c> X</c><00:06:48.120><c> 2</c><00:06:48.240><c> is</c><00:06:48.719><c> greater</c><00:06:49.169><c> than</c><00:06:49.289><c> or</c>
+
+00:06:49.429 --> 00:06:49.439 align:start position:0%
+whenever X 1 plus X 2 is greater than or
+ 
+
+00:06:49.439 --> 00:06:53.209 align:start position:0%
+whenever X 1 plus X 2 is greater than or
+equal<00:06:49.620><c> to</c><00:06:49.919><c> 3</c><00:06:51.080><c> let's</c><00:06:52.080><c> see</c><00:06:52.259><c> what</c><00:06:52.439><c> that</c><00:06:52.469><c> means</c><00:06:52.919><c> on</c>
+
+00:06:53.209 --> 00:06:53.219 align:start position:0%
+equal to 3 let's see what that means on
+ 
+
+00:06:53.219 --> 00:06:56.439 align:start position:0%
+equal to 3 let's see what that means on
+the<00:06:53.430><c> figure</c><00:06:53.930><c> if</c><00:06:54.930><c> I</c><00:06:55.110><c> write</c><00:06:55.319><c> down</c><00:06:55.530><c> the</c><00:06:55.889><c> equation</c>
+
+00:06:56.439 --> 00:06:56.449 align:start position:0%
+the figure if I write down the equation
+ 
+
+00:06:56.449 --> 00:07:01.129 align:start position:0%
+the figure if I write down the equation
+x1<00:06:57.449><c> plus</c><00:06:57.870><c> x2</c><00:06:58.129><c> equals</c><00:06:59.129><c> 3</c><00:06:59.520><c> this</c><00:07:00.419><c> defines</c><00:07:00.990><c> the</c>
+
+00:07:01.129 --> 00:07:01.139 align:start position:0%
+x1 plus x2 equals 3 this defines the
+ 
+
+00:07:01.139 --> 00:07:03.680 align:start position:0%
+x1 plus x2 equals 3 this defines the
+equation<00:07:01.830><c> of</c><00:07:02.039><c> a</c><00:07:02.159><c> straight</c><00:07:02.219><c> line</c><00:07:02.490><c> and</c><00:07:03.000><c> if</c><00:07:03.599><c> I</c>
+
+00:07:03.680 --> 00:07:03.690 align:start position:0%
+equation of a straight line and if I
+ 
+
+00:07:03.690 --> 00:07:06.430 align:start position:0%
+equation of a straight line and if I
+draw<00:07:03.960><c> what</c><00:07:04.409><c> that</c><00:07:04.440><c> straight</c><00:07:04.979><c> line</c><00:07:05.159><c> looks</c><00:07:05.460><c> like</c>
+
+00:07:06.430 --> 00:07:06.440 align:start position:0%
+draw what that straight line looks like
+ 
+
+00:07:06.440 --> 00:07:08.809 align:start position:0%
+draw what that straight line looks like
+it<00:07:07.440><c> gives</c><00:07:07.710><c> me</c><00:07:07.860><c> the</c><00:07:08.009><c> following</c><00:07:08.370><c> line</c><00:07:08.580><c> which</c>
+
+00:07:08.809 --> 00:07:08.819 align:start position:0%
+it gives me the following line which
+ 
+
+00:07:08.819 --> 00:07:12.649 align:start position:0%
+it gives me the following line which
+passes<00:07:08.849><c> through</c><00:07:09.360><c> 3</c><00:07:10.349><c> &amp;</c><00:07:10.650><c> 3</c><00:07:10.710><c> on</c><00:07:11.310><c> the</c><00:07:11.639><c> x1</c><00:07:12.270><c> and</c><00:07:12.330><c> the</c>
+
+00:07:12.649 --> 00:07:12.659 align:start position:0%
+passes through 3 &amp; 3 on the x1 and the
+ 
+
+00:07:12.659 --> 00:07:17.629 align:start position:0%
+passes through 3 &amp; 3 on the x1 and the
+x2<00:07:12.690><c> axes</c><00:07:15.319><c> so</c><00:07:16.319><c> the</c><00:07:16.650><c> part</c><00:07:16.919><c> of</c><00:07:17.039><c> the</c><00:07:17.159><c> input</c><00:07:17.520><c> space</c>
+
+00:07:17.629 --> 00:07:17.639 align:start position:0%
+x2 axes so the part of the input space
+ 
+
+00:07:17.639 --> 00:07:20.779 align:start position:0%
+x2 axes so the part of the input space
+the<00:07:17.940><c> part</c><00:07:18.180><c> of</c><00:07:18.300><c> the</c><00:07:18.419><c> X</c><00:07:18.750><c> 1</c><00:07:19.169><c> X</c><00:07:19.409><c> 2</c><00:07:19.680><c> plane</c><00:07:20.159><c> that</c>
+
+00:07:20.779 --> 00:07:20.789 align:start position:0%
+the part of the X 1 X 2 plane that
+ 
+
+00:07:20.789 --> 00:07:23.119 align:start position:0%
+the part of the X 1 X 2 plane that
+corresponds<00:07:21.539><c> to</c><00:07:21.569><c> when</c><00:07:21.990><c> X</c><00:07:22.289><c> 1</c><00:07:22.469><c> plus</c><00:07:22.680><c> X</c><00:07:22.830><c> 2</c><00:07:23.039><c> is</c>
+
+00:07:23.119 --> 00:07:23.129 align:start position:0%
+corresponds to when X 1 plus X 2 is
+ 
+
+00:07:23.129 --> 00:07:25.219 align:start position:0%
+corresponds to when X 1 plus X 2 is
+greater<00:07:23.279><c> than</c><00:07:23.520><c> or</c><00:07:23.729><c> equal</c><00:07:24.000><c> to</c><00:07:24.090><c> 3</c><00:07:24.360><c> that's</c><00:07:25.020><c> going</c>
+
+00:07:25.219 --> 00:07:25.229 align:start position:0%
+greater than or equal to 3 that's going
+ 
+
+00:07:25.229 --> 00:07:27.529 align:start position:0%
+greater than or equal to 3 that's going
+to<00:07:25.560><c> be</c><00:07:25.710><c> this</c><00:07:26.219><c> right</c><00:07:26.580><c> half</c><00:07:26.849><c> plane</c><00:07:27.180><c> that</c><00:07:27.210><c> is</c>
+
+00:07:27.529 --> 00:07:27.539 align:start position:0%
+to be this right half plane that is
+ 
+
+00:07:27.539 --> 00:07:30.260 align:start position:0%
+to be this right half plane that is
+everything<00:07:28.020><c> to</c><00:07:28.349><c> the</c><00:07:28.590><c> up</c><00:07:28.770><c> and</c><00:07:29.189><c> everything</c><00:07:30.029><c> to</c>
+
+00:07:30.260 --> 00:07:30.270 align:start position:0%
+everything to the up and everything to
+ 
+
+00:07:30.270 --> 00:07:32.209 align:start position:0%
+everything to the up and everything to
+the<00:07:30.389><c> upper</c><00:07:30.659><c> right</c><00:07:30.840><c> portion</c><00:07:31.080><c> of</c><00:07:31.500><c> this</c><00:07:31.710><c> magenta</c>
+
+00:07:32.209 --> 00:07:32.219 align:start position:0%
+the upper right portion of this magenta
+ 
+
+00:07:32.219 --> 00:07:35.180 align:start position:0%
+the upper right portion of this magenta
+line<00:07:32.370><c> that</c><00:07:32.400><c> I</c><00:07:32.669><c> just</c><00:07:32.699><c> drew</c><00:07:32.969><c> and</c><00:07:33.529><c> so</c><00:07:34.529><c> the</c><00:07:34.770><c> region</c>
+
+00:07:35.180 --> 00:07:35.190 align:start position:0%
+line that I just drew and so the region
+ 
+
+00:07:35.190 --> 00:07:37.040 align:start position:0%
+line that I just drew and so the region
+where<00:07:35.430><c> our</c><00:07:35.460><c> hypothesis</c><00:07:36.389><c> will</c><00:07:36.599><c> predict</c><00:07:36.900><c> y</c>
+
+00:07:37.040 --> 00:07:37.050 align:start position:0%
+where our hypothesis will predict y
+ 
+
+00:07:37.050 --> 00:07:39.890 align:start position:0%
+where our hypothesis will predict y
+equals<00:07:37.110><c> 1</c><00:07:37.620><c> is</c><00:07:37.860><c> this</c><00:07:38.430><c> region</c><00:07:38.699><c> you</c><00:07:39.690><c> know</c><00:07:39.719><c> it's</c>
+
+00:07:39.890 --> 00:07:39.900 align:start position:0%
+equals 1 is this region you know it's
+ 
+
+00:07:39.900 --> 00:07:41.930 align:start position:0%
+equals 1 is this region you know it's
+really<00:07:40.139><c> this</c><00:07:40.319><c> huge</c><00:07:40.919><c> region</c><00:07:41.310><c> this</c><00:07:41.520><c> half</c><00:07:41.759><c> space</c>
+
+00:07:41.930 --> 00:07:41.940 align:start position:0%
+really this huge region this half space
+ 
+
+00:07:41.940 --> 00:07:44.839 align:start position:0%
+really this huge region this half space
+over<00:07:42.810><c> to</c><00:07:43.229><c> the</c><00:07:43.349><c> upper</c><00:07:43.650><c> right</c><00:07:43.830><c> and</c><00:07:44.370><c> let</c><00:07:44.580><c> me</c><00:07:44.669><c> just</c>
+
+00:07:44.839 --> 00:07:44.849 align:start position:0%
+over to the upper right and let me just
+ 
+
+00:07:44.849 --> 00:07:46.189 align:start position:0%
+over to the upper right and let me just
+write<00:07:44.969><c> that</c><00:07:45.000><c> down</c><00:07:45.180><c> I'm</c><00:07:45.569><c> going</c><00:07:45.750><c> to</c><00:07:45.779><c> call</c><00:07:46.020><c> this</c>
+
+00:07:46.189 --> 00:07:46.199 align:start position:0%
+write that down I'm going to call this
+ 
+
+00:07:46.199 --> 00:07:50.689 align:start position:0%
+write that down I'm going to call this
+the<00:07:46.259><c> y</c><00:07:47.159><c> equals</c><00:07:47.699><c> 1</c><00:07:48.000><c> region</c><00:07:48.330><c> and</c><00:07:49.159><c> in</c><00:07:50.159><c> contrast</c>
+
+00:07:50.689 --> 00:07:50.699 align:start position:0%
+the y equals 1 region and in contrast
+ 
+
+00:07:50.699 --> 00:07:56.899 align:start position:0%
+the y equals 1 region and in contrast
+the<00:07:51.150><c> region</c><00:07:51.839><c> where</c><00:07:53.719><c> x1</c><00:07:54.719><c> plus</c><00:07:55.529><c> x2</c><00:07:55.770><c> is</c><00:07:56.279><c> less</c><00:07:56.669><c> than</c>
+
+00:07:56.899 --> 00:07:56.909 align:start position:0%
+the region where x1 plus x2 is less than
+ 
+
+00:07:56.909 --> 00:08:00.170 align:start position:0%
+the region where x1 plus x2 is less than
+3<00:07:57.300><c> that's</c><00:07:57.930><c> when</c><00:07:58.469><c> we</c><00:07:59.039><c> will</c><00:07:59.190><c> predict</c><00:07:59.580><c> that</c><00:07:59.699><c> Y</c><00:08:00.120><c> is</c>
+
+00:08:00.170 --> 00:08:00.180 align:start position:0%
+3 that's when we will predict that Y is
+ 
+
+00:08:00.180 --> 00:08:03.379 align:start position:0%
+3 that's when we will predict that Y is
+equal<00:08:00.389><c> to</c><00:08:00.779><c> 0</c><00:08:01.110><c> and</c><00:08:01.409><c> that</c><00:08:02.159><c> corresponds</c><00:08:02.879><c> to</c><00:08:03.000><c> this</c>
+
+00:08:03.379 --> 00:08:03.389 align:start position:0%
+equal to 0 and that corresponds to this
+ 
+
+00:08:03.389 --> 00:08:06.260 align:start position:0%
+equal to 0 and that corresponds to this
+region<00:08:03.919><c> it's</c><00:08:04.919><c> really</c><00:08:05.219><c> a</c><00:08:05.250><c> half</c><00:08:05.490><c> plane</c><00:08:05.789><c> but</c><00:08:06.120><c> that</c>
+
+00:08:06.260 --> 00:08:06.270 align:start position:0%
+region it's really a half plane but that
+ 
+
+00:08:06.270 --> 00:08:09.230 align:start position:0%
+region it's really a half plane but that
+region<00:08:06.599><c> on</c><00:08:06.719><c> the</c><00:08:06.839><c> left</c><00:08:06.870><c> is</c><00:08:07.610><c> the</c><00:08:08.610><c> region</c><00:08:09.029><c> where</c>
+
+00:08:09.230 --> 00:08:09.240 align:start position:0%
+region on the left is the region where
+ 
+
+00:08:09.240 --> 00:08:12.040 align:start position:0%
+region on the left is the region where
+our<00:08:09.270><c> hypothesis</c><00:08:10.020><c> will</c><00:08:10.229><c> predict</c><00:08:10.560><c> y</c><00:08:10.800><c> equals</c><00:08:11.279><c> 0</c><00:08:11.699><c> I</c>
+
+00:08:12.040 --> 00:08:12.050 align:start position:0%
+our hypothesis will predict y equals 0 I
+ 
+
+00:08:12.050 --> 00:08:14.990 align:start position:0%
+our hypothesis will predict y equals 0 I
+want<00:08:13.050><c> to</c><00:08:13.139><c> give</c><00:08:13.319><c> this</c><00:08:13.620><c> line</c><00:08:13.979><c> this</c><00:08:14.250><c> magenta</c><00:08:14.789><c> line</c>
+
+00:08:14.990 --> 00:08:15.000 align:start position:0%
+want to give this line this magenta line
+ 
+
+00:08:15.000 --> 00:08:18.279 align:start position:0%
+want to give this line this magenta line
+that<00:08:15.029><c> I</c><00:08:15.360><c> drew</c><00:08:15.599><c> a</c><00:08:15.629><c> name</c><00:08:15.719><c> this</c><00:08:16.620><c> line</c><00:08:17.099><c> there</c><00:08:17.520><c> is</c>
+
+00:08:18.279 --> 00:08:18.289 align:start position:0%
+that I drew a name this line there is
+ 
+
+00:08:18.289 --> 00:08:24.249 align:start position:0%
+that I drew a name this line there is
+called<00:08:19.289><c> the</c><00:08:19.469><c> decision</c><00:08:21.469><c> boundary</c><00:08:22.469><c> and</c>
+
+00:08:24.249 --> 00:08:24.259 align:start position:0%
+called the decision boundary and
+ 
+
+00:08:24.259 --> 00:08:27.769 align:start position:0%
+called the decision boundary and
+concretely<00:08:25.259><c> this</c><00:08:26.099><c> straight</c><00:08:26.430><c> line</c><00:08:26.460><c> x1</c><00:08:27.419><c> plus</c><00:08:27.659><c> x2</c>
+
+00:08:27.769 --> 00:08:27.779 align:start position:0%
+concretely this straight line x1 plus x2
+ 
+
+00:08:27.779 --> 00:08:30.769 align:start position:0%
+concretely this straight line x1 plus x2
+equals<00:08:28.199><c> 3</c><00:08:28.500><c> that</c><00:08:29.089><c> corresponds</c><00:08:30.089><c> to</c><00:08:30.150><c> the</c><00:08:30.479><c> center</c>
+
+00:08:30.769 --> 00:08:30.779 align:start position:0%
+equals 3 that corresponds to the center
+ 
+
+00:08:30.779 --> 00:08:32.540 align:start position:0%
+equals 3 that corresponds to the center
+point<00:08:30.930><c> so</c><00:08:31.229><c> that</c><00:08:31.379><c> corresponds</c><00:08:32.039><c> to</c><00:08:32.159><c> the</c><00:08:32.339><c> region</c>
+
+00:08:32.540 --> 00:08:32.550 align:start position:0%
+point so that corresponds to the region
+ 
+
+00:08:32.550 --> 00:08:36.409 align:start position:0%
+point so that corresponds to the region
+where<00:08:33.449><c> H</c><00:08:33.630><c> of</c><00:08:33.810><c> X</c><00:08:33.990><c> is</c><00:08:34.169><c> equal</c><00:08:34.589><c> to</c><00:08:34.620><c> 0.5</c><00:08:35.399><c> exactly</c><00:08:36.180><c> and</c>
+
+00:08:36.409 --> 00:08:36.419 align:start position:0%
+where H of X is equal to 0.5 exactly and
+ 
+
+00:08:36.419 --> 00:08:38.810 align:start position:0%
+where H of X is equal to 0.5 exactly and
+the<00:08:37.320><c> decision</c><00:08:37.740><c> boundary</c><00:08:38.099><c> that</c><00:08:38.459><c> is</c><00:08:38.490><c> this</c>
+
+00:08:38.810 --> 00:08:38.820 align:start position:0%
+the decision boundary that is this
+ 
+
+00:08:38.820 --> 00:08:41.180 align:start position:0%
+the decision boundary that is this
+straight<00:08:38.880><c> line</c><00:08:39.440><c> that's</c><00:08:40.440><c> the</c><00:08:40.680><c> line</c><00:08:40.770><c> that</c>
+
+00:08:41.180 --> 00:08:41.190 align:start position:0%
+straight line that's the line that
+ 
+
+00:08:41.190 --> 00:08:43.010 align:start position:0%
+straight line that's the line that
+separates<00:08:41.610><c> the</c><00:08:42.209><c> region</c><00:08:42.719><c> where</c><00:08:42.930><c> the</c>
+
+00:08:43.010 --> 00:08:43.020 align:start position:0%
+separates the region where the
+ 
+
+00:08:43.020 --> 00:08:43.750 align:start position:0%
+separates the region where the
+hypothesis
+
+00:08:43.750 --> 00:08:43.760 align:start position:0%
+hypothesis
+ 
+
+00:08:43.760 --> 00:08:46.540 align:start position:0%
+hypothesis
+when<00:08:43.880><c> XY</c><00:08:44.180><c> equals</c><00:08:44.630><c> one</c><00:08:44.870><c> from</c><00:08:45.560><c> the</c><00:08:45.680><c> region</c><00:08:46.100><c> where</c>
+
+00:08:46.540 --> 00:08:46.550 align:start position:0%
+when XY equals one from the region where
+ 
+
+00:08:46.550 --> 00:08:48.670 align:start position:0%
+when XY equals one from the region where
+the<00:08:46.670><c> hypothesis</c><00:08:47.329><c> predicts</c><00:08:47.720><c> that</c><00:08:47.899><c> y</c><00:08:48.110><c> is</c><00:08:48.170><c> equal</c>
+
+00:08:48.670 --> 00:08:48.680 align:start position:0%
+the hypothesis predicts that y is equal
+ 
+
+00:08:48.680 --> 00:08:51.819 align:start position:0%
+the hypothesis predicts that y is equal
+to<00:08:48.800><c> zero</c><00:08:49.160><c> and</c><00:08:49.690><c> just</c><00:08:50.690><c> to</c><00:08:50.779><c> be</c><00:08:50.899><c> clear</c><00:08:50.930><c> the</c>
+
+00:08:51.819 --> 00:08:51.829 align:start position:0%
+to zero and just to be clear the
+ 
+
+00:08:51.829 --> 00:08:54.670 align:start position:0%
+to zero and just to be clear the
+decision<00:08:52.339><c> boundary</c><00:08:52.910><c> is</c><00:08:53.149><c> a</c><00:08:53.209><c> property</c><00:08:53.389><c> of</c><00:08:53.990><c> the</c>
+
+00:08:54.670 --> 00:08:54.680 align:start position:0%
+decision boundary is a property of the
+ 
+
+00:08:54.680 --> 00:08:58.509 align:start position:0%
+decision boundary is a property of the
+hypothesis<00:08:56.920><c> including</c><00:08:57.920><c> the</c><00:08:58.040><c> parameters</c>
+
+00:08:58.509 --> 00:08:58.519 align:start position:0%
+hypothesis including the parameters
+ 
+
+00:08:58.519 --> 00:09:01.540 align:start position:0%
+hypothesis including the parameters
+theta<00:08:58.730><c> 0</c><00:08:59.149><c> theta</c><00:08:59.389><c> 1</c><00:08:59.540><c> theta</c><00:08:59.870><c> 2</c><00:09:00.019><c> and</c><00:09:00.410><c> in</c><00:09:01.339><c> the</c>
+
+00:09:01.540 --> 00:09:01.550 align:start position:0%
+theta 0 theta 1 theta 2 and in the
+ 
+
+00:09:01.550 --> 00:09:03.610 align:start position:0%
+theta 0 theta 1 theta 2 and in the
+figure<00:09:01.850><c> I</c><00:09:02.060><c> drew</c><00:09:02.329><c> a</c><00:09:02.360><c> training</c><00:09:02.779><c> set</c><00:09:03.139><c> I</c><00:09:03.170><c> drew</c><00:09:03.589><c> a</c>
+
+00:09:03.610 --> 00:09:03.620 align:start position:0%
+figure I drew a training set I drew a
+ 
+
+00:09:03.620 --> 00:09:05.230 align:start position:0%
+figure I drew a training set I drew a
+data<00:09:03.889><c> set</c><00:09:04.190><c> in</c><00:09:04.399><c> order</c><00:09:04.579><c> to</c><00:09:04.910><c> help</c><00:09:05.060><c> the</c>
+
+00:09:05.230 --> 00:09:05.240 align:start position:0%
+data set in order to help the
+ 
+
+00:09:05.240 --> 00:09:07.840 align:start position:0%
+data set in order to help the
+visualization<00:09:05.959><c> but</c><00:09:06.620><c> even</c><00:09:07.310><c> if</c><00:09:07.399><c> we</c><00:09:07.490><c> take</c><00:09:07.670><c> away</c>
+
+00:09:07.840 --> 00:09:07.850 align:start position:0%
+visualization but even if we take away
+ 
+
+00:09:07.850 --> 00:09:08.889 align:start position:0%
+visualization but even if we take away
+the<00:09:08.209><c> data</c><00:09:08.360><c> set</c>
+
+00:09:08.889 --> 00:09:08.899 align:start position:0%
+the data set
+ 
+
+00:09:08.899 --> 00:09:11.079 align:start position:0%
+the data set
+you<00:09:09.199><c> know</c><00:09:09.290><c> this</c><00:09:09.500><c> decision</c><00:09:09.949><c> boundary</c><00:09:10.490><c> and</c><00:09:10.639><c> the</c>
+
+00:09:11.079 --> 00:09:11.089 align:start position:0%
+you know this decision boundary and the
+ 
+
+00:09:11.089 --> 00:09:12.790 align:start position:0%
+you know this decision boundary and the
+region<00:09:11.540><c> where</c><00:09:11.720><c> we</c><00:09:11.810><c> predict</c><00:09:12.139><c> y</c><00:09:12.290><c> equals</c><00:09:12.350><c> one</c>
+
+00:09:12.790 --> 00:09:12.800 align:start position:0%
+region where we predict y equals one
+ 
+
+00:09:12.800 --> 00:09:15.069 align:start position:0%
+region where we predict y equals one
+versus<00:09:13.190><c> y</c><00:09:13.310><c> equals</c><00:09:13.610><c> zero</c><00:09:13.940><c> that's</c><00:09:14.449><c> a</c><00:09:14.630><c> property</c>
+
+00:09:15.069 --> 00:09:15.079 align:start position:0%
+versus y equals zero that's a property
+ 
+
+00:09:15.079 --> 00:09:17.439 align:start position:0%
+versus y equals zero that's a property
+of<00:09:15.170><c> the</c><00:09:15.500><c> hypothesis</c><00:09:16.250><c> and</c><00:09:16.459><c> of</c><00:09:16.730><c> the</c><00:09:16.850><c> parameters</c>
+
+00:09:17.439 --> 00:09:17.449 align:start position:0%
+of the hypothesis and of the parameters
+ 
+
+00:09:17.449 --> 00:09:19.750 align:start position:0%
+of the hypothesis and of the parameters
+of<00:09:17.480><c> the</c><00:09:17.690><c> hypothesis</c><00:09:18.350><c> and</c><00:09:18.500><c> not</c><00:09:19.160><c> the</c><00:09:19.339><c> property</c>
+
+00:09:19.750 --> 00:09:19.760 align:start position:0%
+of the hypothesis and not the property
+ 
+
+00:09:19.760 --> 00:09:23.290 align:start position:0%
+of the hypothesis and not the property
+of<00:09:19.880><c> the</c><00:09:20.209><c> data</c><00:09:20.420><c> set</c><00:09:21.279><c> later</c><00:09:22.279><c> on</c><00:09:22.610><c> of</c><00:09:22.790><c> course</c><00:09:22.820><c> we'll</c>
+
+00:09:23.290 --> 00:09:23.300 align:start position:0%
+of the data set later on of course we'll
+ 
+
+00:09:23.300 --> 00:09:25.540 align:start position:0%
+of the data set later on of course we'll
+talk<00:09:23.510><c> about</c><00:09:23.839><c> how</c><00:09:24.110><c> to</c><00:09:24.170><c> fit</c><00:09:24.560><c> the</c><00:09:24.709><c> parameters</c><00:09:24.860><c> and</c>
+
+00:09:25.540 --> 00:09:25.550 align:start position:0%
+talk about how to fit the parameters and
+ 
+
+00:09:25.550 --> 00:09:27.939 align:start position:0%
+talk about how to fit the parameters and
+there<00:09:26.060><c> we'll</c><00:09:26.600><c> end</c><00:09:26.779><c> up</c><00:09:26.930><c> using</c><00:09:27.199><c> the</c><00:09:27.529><c> training</c>
+
+00:09:27.939 --> 00:09:27.949 align:start position:0%
+there we'll end up using the training
+ 
+
+00:09:27.949 --> 00:09:30.519 align:start position:0%
+there we'll end up using the training
+set<00:09:28.160><c> using</c><00:09:28.610><c> our</c><00:09:28.730><c> data</c><00:09:29.000><c> to</c><00:09:29.750><c> determine</c><00:09:30.139><c> the</c>
+
+00:09:30.519 --> 00:09:30.529 align:start position:0%
+set using our data to determine the
+ 
+
+00:09:30.529 --> 00:09:33.250 align:start position:0%
+set using our data to determine the
+value<00:09:30.860><c> of</c><00:09:31.010><c> the</c><00:09:31.100><c> parameters</c><00:09:31.639><c> but</c><00:09:32.600><c> once</c><00:09:32.810><c> we</c><00:09:33.019><c> have</c>
+
+00:09:33.250 --> 00:09:33.260 align:start position:0%
+value of the parameters but once we have
+ 
+
+00:09:33.260 --> 00:09:35.290 align:start position:0%
+value of the parameters but once we have
+particular<00:09:33.829><c> values</c><00:09:34.040><c> for</c><00:09:34.730><c> the</c><00:09:34.820><c> parameters</c>
+
+00:09:35.290 --> 00:09:35.300 align:start position:0%
+particular values for the parameters
+ 
+
+00:09:35.300 --> 00:09:38.199 align:start position:0%
+particular values for the parameters
+theta<00:09:35.600><c> 0</c><00:09:35.899><c> theta</c><00:09:36.079><c> 1</c><00:09:36.230><c> theta</c><00:09:36.500><c> 2</c><00:09:36.680><c> then</c><00:09:37.490><c> that</c>
+
+00:09:38.199 --> 00:09:38.209 align:start position:0%
+theta 0 theta 1 theta 2 then that
+ 
+
+00:09:38.209 --> 00:09:40.509 align:start position:0%
+theta 0 theta 1 theta 2 then that
+completely<00:09:38.990><c> defines</c><00:09:39.440><c> the</c><00:09:39.740><c> decision</c><00:09:39.920><c> boundary</c>
+
+00:09:40.509 --> 00:09:40.519 align:start position:0%
+completely defines the decision boundary
+ 
+
+00:09:40.519 --> 00:09:43.150 align:start position:0%
+completely defines the decision boundary
+and<00:09:40.790><c> we</c><00:09:41.690><c> don't</c><00:09:41.899><c> actually</c><00:09:42.079><c> need</c><00:09:42.440><c> to</c><00:09:42.500><c> plot</c><00:09:42.889><c> a</c>
+
+00:09:43.150 --> 00:09:43.160 align:start position:0%
+and we don't actually need to plot a
+ 
+
+00:09:43.160 --> 00:09:45.730 align:start position:0%
+and we don't actually need to plot a
+training<00:09:43.550><c> set</c><00:09:43.880><c> in</c><00:09:44.120><c> order</c><00:09:44.660><c> to</c><00:09:45.050><c> plot</c><00:09:45.320><c> the</c>
+
+00:09:45.730 --> 00:09:45.740 align:start position:0%
+training set in order to plot the
+ 
+
+00:09:45.740 --> 00:09:48.630 align:start position:0%
+training set in order to plot the
+decision<00:09:46.190><c> boundary</c>
+
+00:09:48.630 --> 00:09:48.640 align:start position:0%
+ 
+ 
+
+00:09:48.640 --> 00:09:51.250 align:start position:0%
+ 
+let's<00:09:49.640><c> now</c><00:09:49.940><c> look</c><00:09:50.120><c> at</c><00:09:50.330><c> a</c><00:09:50.360><c> more</c><00:09:50.450><c> complex</c><00:09:51.050><c> example</c>
+
+00:09:51.250 --> 00:09:51.260 align:start position:0%
+let's now look at a more complex example
+ 
+
+00:09:51.260 --> 00:09:54.370 align:start position:0%
+let's now look at a more complex example
+where<00:09:52.070><c> as</c><00:09:52.370><c> usual</c><00:09:52.640><c> I</c><00:09:53.029><c> have</c><00:09:53.240><c> crosses</c><00:09:53.900><c> to</c><00:09:54.080><c> denote</c>
+
+00:09:54.370 --> 00:09:54.380 align:start position:0%
+where as usual I have crosses to denote
+ 
+
+00:09:54.380 --> 00:09:56.650 align:start position:0%
+where as usual I have crosses to denote
+my<00:09:54.589><c> positive</c><00:09:55.040><c> examples</c><00:09:55.550><c> and</c><00:09:55.850><c> O's</c><00:09:56.150><c> to</c><00:09:56.390><c> denote</c>
+
+00:09:56.650 --> 00:09:56.660 align:start position:0%
+my positive examples and O's to denote
+ 
+
+00:09:56.660 --> 00:09:59.470 align:start position:0%
+my positive examples and O's to denote
+my<00:09:56.870><c> negative</c><00:09:57.290><c> examples</c><00:09:58.180><c> given</c><00:09:59.180><c> a</c><00:09:59.270><c> training</c>
+
+00:09:59.470 --> 00:09:59.480 align:start position:0%
+my negative examples given a training
+ 
+
+00:09:59.480 --> 00:10:01.630 align:start position:0%
+my negative examples given a training
+set<00:09:59.839><c> like</c><00:09:59.870><c> this</c><00:10:00.200><c> how</c><00:10:00.860><c> can</c><00:10:01.100><c> I</c><00:10:01.190><c> get</c><00:10:01.430><c> logistic</c>
+
+00:10:01.630 --> 00:10:01.640 align:start position:0%
+set like this how can I get logistic
+ 
+
+00:10:01.640 --> 00:10:04.860 align:start position:0%
+set like this how can I get logistic
+regression<00:10:02.510><c> to</c><00:10:02.720><c> fit</c><00:10:03.140><c> this</c><00:10:03.830><c> sort</c><00:10:04.040><c> of</c><00:10:04.130><c> data</c>
+
+00:10:04.860 --> 00:10:04.870 align:start position:0%
+regression to fit this sort of data
+ 
+
+00:10:04.870 --> 00:10:06.880 align:start position:0%
+regression to fit this sort of data
+earlier<00:10:05.870><c> when</c><00:10:06.170><c> we</c><00:10:06.200><c> were</c><00:10:06.410><c> talking</c><00:10:06.620><c> about</c>
+
+00:10:06.880 --> 00:10:06.890 align:start position:0%
+earlier when we were talking about
+ 
+
+00:10:06.890 --> 00:10:08.829 align:start position:0%
+earlier when we were talking about
+polynomial<00:10:07.850><c> regression</c><00:10:08.000><c> or</c><00:10:08.540><c> when</c><00:10:08.690><c> we're</c>
+
+00:10:08.829 --> 00:10:08.839 align:start position:0%
+polynomial regression or when we're
+ 
+
+00:10:08.839 --> 00:10:10.660 align:start position:0%
+polynomial regression or when we're
+talking<00:10:08.960><c> about</c><00:10:09.200><c> linear</c><00:10:09.620><c> regression</c><00:10:09.740><c> we</c>
+
+00:10:10.660 --> 00:10:10.670 align:start position:0%
+talking about linear regression we
+ 
+
+00:10:10.670 --> 00:10:12.820 align:start position:0%
+talking about linear regression we
+talked<00:10:10.940><c> about</c><00:10:11.089><c> how</c><00:10:11.450><c> we</c><00:10:11.510><c> can</c><00:10:11.839><c> add</c><00:10:12.050><c> extra</c><00:10:12.470><c> higher</c>
+
+00:10:12.820 --> 00:10:12.830 align:start position:0%
+talked about how we can add extra higher
+ 
+
+00:10:12.830 --> 00:10:14.950 align:start position:0%
+talked about how we can add extra higher
+order<00:10:13.250><c> polynomial</c><00:10:13.970><c> terms</c><00:10:14.270><c> to</c><00:10:14.450><c> the</c><00:10:14.570><c> features</c>
+
+00:10:14.950 --> 00:10:14.960 align:start position:0%
+order polynomial terms to the features
+ 
+
+00:10:14.960 --> 00:10:17.530 align:start position:0%
+order polynomial terms to the features
+and<00:10:15.200><c> we</c><00:10:15.980><c> can</c><00:10:16.160><c> do</c><00:10:16.279><c> the</c><00:10:16.430><c> same</c><00:10:16.640><c> for</c><00:10:17.060><c> logistic</c>
+
+00:10:17.530 --> 00:10:17.540 align:start position:0%
+and we can do the same for logistic
+ 
+
+00:10:17.540 --> 00:10:20.410 align:start position:0%
+and we can do the same for logistic
+regression<00:10:18.580><c> concretely</c><00:10:19.580><c> let's</c><00:10:19.790><c> say</c><00:10:20.240><c> my</c>
+
+00:10:20.410 --> 00:10:20.420 align:start position:0%
+regression concretely let's say my
+ 
+
+00:10:20.420 --> 00:10:22.600 align:start position:0%
+regression concretely let's say my
+hypothesis<00:10:21.110><c> looks</c><00:10:21.290><c> like</c><00:10:21.529><c> this</c><00:10:21.800><c> where</c><00:10:22.400><c> I've</c>
+
+00:10:22.600 --> 00:10:22.610 align:start position:0%
+hypothesis looks like this where I've
+ 
+
+00:10:22.610 --> 00:10:25.269 align:start position:0%
+hypothesis looks like this where I've
+added<00:10:22.940><c> two</c><00:10:23.390><c> extra</c><00:10:23.420><c> features</c><00:10:24.140><c> x1</c><00:10:24.589><c> squared</c><00:10:25.070><c> and</c>
+
+00:10:25.269 --> 00:10:25.279 align:start position:0%
+added two extra features x1 squared and
+ 
+
+00:10:25.279 --> 00:10:28.240 align:start position:0%
+added two extra features x1 squared and
+x2<00:10:25.670><c> squared</c><00:10:26.240><c> to</c><00:10:26.480><c> my</c><00:10:26.630><c> features</c><00:10:27.080><c> so</c><00:10:27.860><c> that</c><00:10:28.040><c> I</c><00:10:28.070><c> now</c>
+
+00:10:28.240 --> 00:10:28.250 align:start position:0%
+x2 squared to my features so that I now
+ 
+
+00:10:28.250 --> 00:10:30.730 align:start position:0%
+x2 squared to my features so that I now
+have<00:10:28.520><c> five</c><00:10:28.790><c> parameters</c><00:10:29.000><c> theta</c><00:10:29.990><c> 0</c><00:10:30.440><c> through</c>
+
+00:10:30.730 --> 00:10:30.740 align:start position:0%
+have five parameters theta 0 through
+ 
+
+00:10:30.740 --> 00:10:35.019 align:start position:0%
+have five parameters theta 0 through
+theta<00:10:30.830><c> four</c><00:10:31.779><c> as</c><00:10:32.779><c> before</c><00:10:33.380><c> we'll</c><00:10:33.950><c> defer</c><00:10:34.370><c> to</c><00:10:34.760><c> the</c>
+
+00:10:35.019 --> 00:10:35.029 align:start position:0%
+theta four as before we'll defer to the
+ 
+
+00:10:35.029 --> 00:10:37.840 align:start position:0%
+theta four as before we'll defer to the
+next<00:10:35.540><c> video</c><00:10:35.690><c> our</c><00:10:36.250><c> discussion</c><00:10:37.250><c> on</c><00:10:37.460><c> how</c><00:10:37.790><c> to</c>
+
+00:10:37.840 --> 00:10:37.850 align:start position:0%
+next video our discussion on how to
+ 
+
+00:10:37.850 --> 00:10:40.000 align:start position:0%
+next video our discussion on how to
+automatically<00:10:38.750><c> choose</c><00:10:39.110><c> values</c><00:10:39.680><c> for</c><00:10:39.950><c> the</c>
+
+00:10:40.000 --> 00:10:40.010 align:start position:0%
+automatically choose values for the
+ 
+
+00:10:40.010 --> 00:10:43.120 align:start position:0%
+automatically choose values for the
+parameters<00:10:40.550><c> theta</c><00:10:40.880><c> 0</c><00:10:41.300><c> through</c><00:10:41.510><c> theta</c><00:10:41.600><c> 4</c><00:10:42.140><c> but</c>
+
+00:10:43.120 --> 00:10:43.130 align:start position:0%
+parameters theta 0 through theta 4 but
+ 
+
+00:10:43.130 --> 00:10:45.700 align:start position:0%
+parameters theta 0 through theta 4 but
+let's<00:10:43.339><c> say</c><00:10:43.550><c> that</c><00:10:43.850><c> very</c><00:10:44.450><c> procedure</c><00:10:45.080><c> to</c><00:10:45.589><c> be</c>
+
+00:10:45.700 --> 00:10:45.710 align:start position:0%
+let's say that very procedure to be
+ 
+
+00:10:45.710 --> 00:10:48.760 align:start position:0%
+let's say that very procedure to be
+specified<00:10:45.740><c> I</c><00:10:46.550><c> end</c><00:10:47.029><c> up</c><00:10:47.210><c> choosing</c><00:10:47.570><c> theta</c><00:10:48.350><c> 0</c>
+
+00:10:48.760 --> 00:10:48.770 align:start position:0%
+specified I end up choosing theta 0
+ 
+
+00:10:48.770 --> 00:10:52.449 align:start position:0%
+specified I end up choosing theta 0
+equals<00:10:49.279><c> minus</c><00:10:49.460><c> 1</c><00:10:49.880><c> theta</c><00:10:50.510><c> 1</c><00:10:50.900><c> equals</c><00:10:51.410><c> 0</c><00:10:51.770><c> theta</c><00:10:52.100><c> 2</c>
+
+00:10:52.449 --> 00:10:52.459 align:start position:0%
+equals minus 1 theta 1 equals 0 theta 2
+ 
+
+00:10:52.459 --> 00:10:56.920 align:start position:0%
+equals minus 1 theta 1 equals 0 theta 2
+equals<00:10:52.910><c> 0</c><00:10:53.270><c> theta</c><00:10:53.930><c> 3</c><00:10:54.380><c> equals</c><00:10:55.220><c> 1</c><00:10:55.520><c> and</c><00:10:55.810><c> theta</c><00:10:56.810><c> 4</c>
+
+00:10:56.920 --> 00:10:56.930 align:start position:0%
+equals 0 theta 3 equals 1 and theta 4
+ 
+
+00:10:56.930 --> 00:11:00.910 align:start position:0%
+equals 0 theta 3 equals 1 and theta 4
+equals<00:10:57.830><c> 1</c><00:10:58.630><c> what</c><00:10:59.630><c> this</c><00:10:59.839><c> means</c><00:11:00.110><c> is</c><00:11:00.410><c> that</c><00:11:00.440><c> with</c>
+
+00:11:00.910 --> 00:11:00.920 align:start position:0%
+equals 1 what this means is that with
+ 
+
+00:11:00.920 --> 00:11:03.699 align:start position:0%
+equals 1 what this means is that with
+this<00:11:01.100><c> particular</c><00:11:01.279><c> choice</c><00:11:01.820><c> of</c><00:11:01.959><c> parameters</c><00:11:02.959><c> my</c>
+
+00:11:03.699 --> 00:11:03.709 align:start position:0%
+this particular choice of parameters my
+ 
+
+00:11:03.709 --> 00:11:05.829 align:start position:0%
+this particular choice of parameters my
+parameter<00:11:04.250><c> that</c><00:11:04.430><c> vector</c><00:11:04.940><c> theta</c><00:11:05.180><c> looks</c><00:11:05.570><c> like</c>
+
+00:11:05.829 --> 00:11:05.839 align:start position:0%
+parameter that vector theta looks like
+ 
+
+00:11:05.839 --> 00:11:11.410 align:start position:0%
+parameter that vector theta looks like
+minus<00:11:06.200><c> 1</c><00:11:06.440><c> 0</c><00:11:06.920><c> 0</c><00:11:07.430><c> 1</c><00:11:07.970><c> 1</c><00:11:09.970><c> following</c><00:11:10.970><c> our</c><00:11:11.060><c> earlier</c>
+
+00:11:11.410 --> 00:11:11.420 align:start position:0%
+minus 1 0 0 1 1 following our earlier
+ 
+
+00:11:11.420 --> 00:11:13.690 align:start position:0%
+minus 1 0 0 1 1 following our earlier
+discussion<00:11:11.959><c> this</c><00:11:12.290><c> means</c><00:11:12.529><c> that</c><00:11:12.800><c> my</c><00:11:12.950><c> hypothesis</c>
+
+00:11:13.690 --> 00:11:13.700 align:start position:0%
+discussion this means that my hypothesis
+ 
+
+00:11:13.700 --> 00:11:15.670 align:start position:0%
+discussion this means that my hypothesis
+will<00:11:13.970><c> predict</c><00:11:14.330><c> that</c><00:11:14.420><c> Y</c><00:11:14.570><c> is</c><00:11:15.020><c> equal</c><00:11:15.320><c> to</c><00:11:15.440><c> 1</c>
+
+00:11:15.670 --> 00:11:15.680 align:start position:0%
+will predict that Y is equal to 1
+ 
+
+00:11:15.680 --> 00:11:18.970 align:start position:0%
+will predict that Y is equal to 1
+whenever<00:11:16.339><c> minus</c><00:11:17.089><c> 1</c><00:11:17.300><c> plus</c><00:11:17.630><c> x1</c><00:11:18.260><c> squared</c><00:11:18.589><c> plus</c><00:11:18.709><c> x2</c>
+
+00:11:18.970 --> 00:11:18.980 align:start position:0%
+whenever minus 1 plus x1 squared plus x2
+ 
+
+00:11:18.980 --> 00:11:21.220 align:start position:0%
+whenever minus 1 plus x1 squared plus x2
+squared<00:11:19.550><c> is</c><00:11:19.700><c> greater</c><00:11:19.970><c> than</c><00:11:20.330><c> or</c><00:11:20.480><c> equal</c><00:11:20.600><c> to</c><00:11:20.900><c> 0</c>
+
+00:11:21.220 --> 00:11:21.230 align:start position:0%
+squared is greater than or equal to 0
+ 
+
+00:11:21.230 --> 00:11:24.400 align:start position:0%
+squared is greater than or equal to 0
+this<00:11:21.589><c> is</c><00:11:21.800><c> whenever</c><00:11:22.070><c> theta</c><00:11:22.850><c> transpose</c><00:11:23.410><c> times</c>
+
+00:11:24.400 --> 00:11:24.410 align:start position:0%
+this is whenever theta transpose times
+ 
+
+00:11:24.410 --> 00:11:27.400 align:start position:0%
+this is whenever theta transpose times
+my<00:11:24.709><c> theta</c><00:11:25.220><c> transpose</c><00:11:26.060><c> my</c><00:11:26.480><c> features</c><00:11:27.200><c> is</c>
+
+00:11:27.400 --> 00:11:27.410 align:start position:0%
+my theta transpose my features is
+ 
+
+00:11:27.410 --> 00:11:31.210 align:start position:0%
+my theta transpose my features is
+greater<00:11:27.680><c> than</c><00:11:27.890><c> or</c><00:11:28.010><c> equal</c><00:11:28.100><c> to</c><00:11:28.400><c> 0</c><00:11:28.760><c> and</c><00:11:29.410><c> if</c><00:11:30.410><c> I</c><00:11:30.620><c> take</c>
+
+00:11:31.210 --> 00:11:31.220 align:start position:0%
+greater than or equal to 0 and if I take
+ 
+
+00:11:31.220 --> 00:11:33.220 align:start position:0%
+greater than or equal to 0 and if I take
+minus<00:11:31.490><c> 1</c><00:11:31.850><c> and</c><00:11:32.120><c> just</c><00:11:32.330><c> bring</c><00:11:32.660><c> this</c><00:11:32.779><c> to</c><00:11:32.839><c> the</c><00:11:33.020><c> right</c>
+
+00:11:33.220 --> 00:11:33.230 align:start position:0%
+minus 1 and just bring this to the right
+ 
+
+00:11:33.230 --> 00:11:35.890 align:start position:0%
+minus 1 and just bring this to the right
+I'm<00:11:33.830><c> saying</c><00:11:34.190><c> that</c><00:11:34.550><c> my</c><00:11:34.940><c> hypothesis</c><00:11:35.660><c> will</c>
+
+00:11:35.890 --> 00:11:35.900 align:start position:0%
+I'm saying that my hypothesis will
+ 
+
+00:11:35.900 --> 00:11:39.370 align:start position:0%
+I'm saying that my hypothesis will
+predict<00:11:36.290><c> that</c><00:11:36.380><c> Y</c><00:11:36.560><c> is</c><00:11:37.130><c> equal</c><00:11:37.490><c> to</c><00:11:37.520><c> 1</c><00:11:37.820><c> whenever</c><00:11:38.380><c> x1</c>
+
+00:11:39.370 --> 00:11:39.380 align:start position:0%
+predict that Y is equal to 1 whenever x1
+ 
+
+00:11:39.380 --> 00:11:42.880 align:start position:0%
+predict that Y is equal to 1 whenever x1
+squared<00:11:39.830><c> plus</c><00:11:40.070><c> x2</c><00:11:40.730><c> squared</c><00:11:41.570><c> is</c><00:11:41.839><c> greater</c><00:11:42.529><c> than</c>
+
+00:11:42.880 --> 00:11:42.890 align:start position:0%
+squared plus x2 squared is greater than
+ 
+
+00:11:42.890 --> 00:11:46.360 align:start position:0%
+squared plus x2 squared is greater than
+or<00:11:43.070><c> equal</c><00:11:43.400><c> to</c><00:11:43.520><c> 1</c><00:11:44.350><c> so</c><00:11:45.350><c> what</c><00:11:45.709><c> does</c><00:11:45.830><c> this</c><00:11:45.980><c> decision</c>
+
+00:11:46.360 --> 00:11:46.370 align:start position:0%
+or equal to 1 so what does this decision
+ 
+
+00:11:46.370 --> 00:11:48.610 align:start position:0%
+or equal to 1 so what does this decision
+boundary<00:11:46.670><c> look</c><00:11:46.910><c> like</c><00:11:47.150><c> well</c><00:11:47.480><c> if</c><00:11:47.690><c> you</c><00:11:48.050><c> were</c><00:11:48.410><c> to</c>
+
+00:11:48.610 --> 00:11:48.620 align:start position:0%
+boundary look like well if you were to
+ 
+
+00:11:48.620 --> 00:11:52.000 align:start position:0%
+boundary look like well if you were to
+plot<00:11:48.920><c> the</c><00:11:49.760><c> curve</c><00:11:50.150><c> for</c><00:11:50.570><c> x1</c><00:11:50.959><c> squared</c><00:11:51.470><c> plus</c><00:11:51.560><c> x2</c>
+
+00:11:52.000 --> 00:11:52.010 align:start position:0%
+plot the curve for x1 squared plus x2
+ 
+
+00:11:52.010 --> 00:11:55.240 align:start position:0%
+plot the curve for x1 squared plus x2
+squared<00:11:52.820><c> equals</c><00:11:53.450><c> 1</c><00:11:53.750><c> some</c><00:11:54.470><c> of</c><00:11:54.589><c> you</c><00:11:54.709><c> will</c>
+
+00:11:55.240 --> 00:11:55.250 align:start position:0%
+squared equals 1 some of you will
+ 
+
+00:11:55.250 --> 00:11:57.880 align:start position:0%
+squared equals 1 some of you will
+recognize<00:11:55.400><c> that</c><00:11:55.760><c> that</c><00:11:56.450><c> is</c><00:11:56.870><c> the</c><00:11:57.110><c> equation</c><00:11:57.680><c> for</c>
+
+00:11:57.880 --> 00:11:57.890 align:start position:0%
+recognize that that is the equation for
+ 
+
+00:11:57.890 --> 00:11:59.980 align:start position:0%
+recognize that that is the equation for
+a<00:11:58.400><c> circle</c>
+
+00:11:59.980 --> 00:11:59.990 align:start position:0%
+a circle
+ 
+
+00:11:59.990 --> 00:12:03.269 align:start position:0%
+a circle
+a<00:12:00.050><c> radius</c><00:12:00.830><c> one</c><00:12:01.130><c> centered</c><00:12:01.390><c> around</c><00:12:02.390><c> the</c><00:12:02.750><c> origin</c>
+
+00:12:03.269 --> 00:12:03.279 align:start position:0%
+a radius one centered around the origin
+ 
+
+00:12:03.279 --> 00:12:10.230 align:start position:0%
+a radius one centered around the origin
+so<00:12:04.279><c> that</c><00:12:04.700><c> is</c><00:12:05.120><c> my</c><00:12:05.810><c> decision</c><00:12:06.200><c> boundary</c><00:12:07.630><c> and</c>
+
+00:12:10.230 --> 00:12:10.240 align:start position:0%
+so that is my decision boundary and
+ 
+
+00:12:10.240 --> 00:12:12.940 align:start position:0%
+so that is my decision boundary and
+everything<00:12:11.240><c> outside</c><00:12:11.750><c> the</c><00:12:12.260><c> circle</c><00:12:12.470><c> I'm</c><00:12:12.890><c> going</c>
+
+00:12:12.940 --> 00:12:12.950 align:start position:0%
+everything outside the circle I'm going
+ 
+
+00:12:12.950 --> 00:12:16.180 align:start position:0%
+everything outside the circle I'm going
+to<00:12:13.310><c> predict</c><00:12:13.730><c> as</c><00:12:13.910><c> y</c><00:12:14.540><c> equals</c><00:12:14.990><c> one</c><00:12:15.200><c> so</c><00:12:15.500><c> out</c><00:12:15.740><c> here</c>
+
+00:12:16.180 --> 00:12:16.190 align:start position:0%
+to predict as y equals one so out here
+ 
+
+00:12:16.190 --> 00:12:20.199 align:start position:0%
+to predict as y equals one so out here
+is<00:12:16.399><c> my</c><00:12:17.120><c> y</c><00:12:17.930><c> equals</c><00:12:17.959><c> one</c><00:12:18.529><c> region</c><00:12:19.339><c> predict</c><00:12:20.060><c> y</c>
+
+00:12:20.199 --> 00:12:20.209 align:start position:0%
+is my y equals one region predict y
+ 
+
+00:12:20.209 --> 00:12:23.320 align:start position:0%
+is my y equals one region predict y
+equals<00:12:20.270><c> one</c><00:12:20.750><c> out</c><00:12:21.250><c> here</c><00:12:22.250><c> and</c><00:12:22.430><c> inside</c><00:12:23.180><c> the</c>
+
+00:12:23.320 --> 00:12:23.330 align:start position:0%
+equals one out here and inside the
+ 
+
+00:12:23.330 --> 00:12:26.079 align:start position:0%
+equals one out here and inside the
+circle<00:12:23.779><c> is</c><00:12:23.990><c> where</c><00:12:24.320><c> I</c><00:12:24.350><c> predict</c><00:12:24.860><c> Y</c><00:12:25.399><c> is</c><00:12:25.459><c> equal</c><00:12:26.060><c> to</c>
+
+00:12:26.079 --> 00:12:26.089 align:start position:0%
+circle is where I predict Y is equal to
+ 
+
+00:12:26.089 --> 00:12:30.790 align:start position:0%
+circle is where I predict Y is equal to
+0<00:12:26.980><c> so</c><00:12:27.980><c> by</c><00:12:28.220><c> adding</c><00:12:28.760><c> these</c><00:12:29.300><c> more</c><00:12:30.050><c> complex</c><00:12:30.529><c> or</c>
+
+00:12:30.790 --> 00:12:30.800 align:start position:0%
+0 so by adding these more complex or
+ 
+
+00:12:30.800 --> 00:12:32.829 align:start position:0%
+0 so by adding these more complex or
+these<00:12:30.920><c> polynomial</c><00:12:31.730><c> terms</c><00:12:31.940><c> to</c><00:12:32.209><c> my</c><00:12:32.300><c> features</c><00:12:32.690><c> as</c>
+
+00:12:32.829 --> 00:12:32.839 align:start position:0%
+these polynomial terms to my features as
+ 
+
+00:12:32.839 --> 00:12:34.780 align:start position:0%
+these polynomial terms to my features as
+well<00:12:33.020><c> I</c><00:12:33.200><c> can</c><00:12:33.440><c> get</c><00:12:33.649><c> more</c><00:12:34.040><c> complex</c><00:12:34.520><c> decision</c>
+
+00:12:34.780 --> 00:12:34.790 align:start position:0%
+well I can get more complex decision
+ 
+
+00:12:34.790 --> 00:12:36.730 align:start position:0%
+well I can get more complex decision
+boundaries<00:12:35.390><c> that</c><00:12:35.899><c> don't</c><00:12:36.140><c> just</c><00:12:36.380><c> try</c><00:12:36.680><c> to</c>
+
+00:12:36.730 --> 00:12:36.740 align:start position:0%
+boundaries that don't just try to
+ 
+
+00:12:36.740 --> 00:12:38.050 align:start position:0%
+boundaries that don't just try to
+separate<00:12:37.160><c> the</c><00:12:37.279><c> positive</c><00:12:37.310><c> and</c><00:12:37.790><c> negative</c>
+
+00:12:38.050 --> 00:12:38.060 align:start position:0%
+separate the positive and negative
+ 
+
+00:12:38.060 --> 00:12:39.850 align:start position:0%
+separate the positive and negative
+examples<00:12:38.540><c> of</c><00:12:38.690><c> a</c><00:12:38.720><c> straight</c><00:12:38.959><c> line</c><00:12:39.140><c> but</c><00:12:39.589><c> I</c><00:12:39.649><c> can</c>
+
+00:12:39.850 --> 00:12:39.860 align:start position:0%
+examples of a straight line but I can
+ 
+
+00:12:39.860 --> 00:12:42.130 align:start position:0%
+examples of a straight line but I can
+get<00:12:40.040><c> in</c><00:12:40.279><c> this</c><00:12:40.459><c> example</c><00:12:40.790><c> a</c><00:12:41.120><c> decision</c><00:12:41.810><c> boundary</c>
+
+00:12:42.130 --> 00:12:42.140 align:start position:0%
+get in this example a decision boundary
+ 
+
+00:12:42.140 --> 00:12:45.430 align:start position:0%
+get in this example a decision boundary
+that's<00:12:42.529><c> a</c><00:12:42.649><c> circle</c><00:12:43.390><c> once</c><00:12:44.390><c> again</c><00:12:44.720><c> the</c><00:12:45.020><c> decision</c>
+
+00:12:45.430 --> 00:12:45.440 align:start position:0%
+that's a circle once again the decision
+ 
+
+00:12:45.440 --> 00:12:48.010 align:start position:0%
+that's a circle once again the decision
+boundary<00:12:45.830><c> is</c><00:12:45.950><c> a</c><00:12:46.220><c> property</c><00:12:47.060><c> not</c><00:12:47.630><c> of</c><00:12:47.870><c> the</c>
+
+00:12:48.010 --> 00:12:48.020 align:start position:0%
+boundary is a property not of the
+ 
+
+00:12:48.020 --> 00:12:50.500 align:start position:0%
+boundary is a property not of the
+training<00:12:48.410><c> set</c><00:12:48.680><c> but</c><00:12:48.920><c> of</c><00:12:49.310><c> the</c><00:12:49.430><c> hypothesis</c><00:12:50.180><c> enter</c>
+
+00:12:50.500 --> 00:12:50.510 align:start position:0%
+training set but of the hypothesis enter
+ 
+
+00:12:50.510 --> 00:12:53.650 align:start position:0%
+training set but of the hypothesis enter
+the<00:12:50.630><c> parameters</c><00:12:51.260><c> so</c><00:12:51.800><c> so</c><00:12:52.520><c> long</c><00:12:52.670><c> as</c><00:12:52.730><c> we</c><00:12:53.029><c> given</c><00:12:53.420><c> my</c>
+
+00:12:53.650 --> 00:12:53.660 align:start position:0%
+the parameters so so long as we given my
+ 
+
+00:12:53.660 --> 00:12:56.800 align:start position:0%
+the parameters so so long as we given my
+parameter<00:12:54.140><c> vector</c><00:12:54.470><c> theta</c><00:12:54.550><c> that</c><00:12:55.550><c> defines</c><00:12:56.120><c> the</c>
+
+00:12:56.800 --> 00:12:56.810 align:start position:0%
+parameter vector theta that defines the
+ 
+
+00:12:56.810 --> 00:12:58.350 align:start position:0%
+parameter vector theta that defines the
+decision<00:12:56.959><c> boundary</c><00:12:57.529><c> which</c><00:12:57.800><c> is</c><00:12:57.830><c> the</c><00:12:57.950><c> circle</c>
+
+00:12:58.350 --> 00:12:58.360 align:start position:0%
+decision boundary which is the circle
+ 
+
+00:12:58.360 --> 00:13:01.150 align:start position:0%
+decision boundary which is the circle
+but<00:12:59.360><c> the</c><00:12:59.450><c> training</c><00:12:59.810><c> set</c><00:13:00.050><c> is</c><00:13:00.080><c> not</c><00:13:00.560><c> what</c><00:13:00.830><c> we</c><00:13:00.950><c> use</c>
+
+00:13:01.150 --> 00:13:01.160 align:start position:0%
+but the training set is not what we use
+ 
+
+00:13:01.160 --> 00:13:03.160 align:start position:0%
+but the training set is not what we use
+to<00:13:01.310><c> define</c><00:13:01.640><c> the</c><00:13:01.700><c> decision</c><00:13:01.880><c> boundary</c><00:13:02.660><c> the</c>
+
+00:13:03.160 --> 00:13:03.170 align:start position:0%
+to define the decision boundary the
+ 
+
+00:13:03.170 --> 00:13:05.110 align:start position:0%
+to define the decision boundary the
+training<00:13:03.529><c> set</c><00:13:03.740><c> may</c><00:13:04.010><c> be</c><00:13:04.070><c> used</c><00:13:04.399><c> to</c><00:13:04.790><c> fit</c><00:13:05.089><c> the</c>
+
+00:13:05.110 --> 00:13:05.120 align:start position:0%
+training set may be used to fit the
+ 
+
+00:13:05.120 --> 00:13:07.300 align:start position:0%
+training set may be used to fit the
+parameters<00:13:05.540><c> theta</c><00:13:06.170><c> we'll</c><00:13:06.709><c> talk</c><00:13:06.890><c> about</c><00:13:07.040><c> how</c><00:13:07.250><c> to</c>
+
+00:13:07.300 --> 00:13:07.310 align:start position:0%
+parameters theta we'll talk about how to
+ 
+
+00:13:07.310 --> 00:13:09.850 align:start position:0%
+parameters theta we'll talk about how to
+do<00:13:07.550><c> that</c><00:13:07.700><c> later</c><00:13:07.880><c> but</c><00:13:08.779><c> once</c><00:13:09.290><c> you</c><00:13:09.470><c> have</c><00:13:09.680><c> the</c>
+
+00:13:09.850 --> 00:13:09.860 align:start position:0%
+do that later but once you have the
+ 
+
+00:13:09.860 --> 00:13:12.550 align:start position:0%
+do that later but once you have the
+parameters<00:13:10.279><c> theta</c><00:13:10.490><c> that</c><00:13:11.240><c> is</c><00:13:11.660><c> what</c><00:13:12.020><c> defines</c>
+
+00:13:12.550 --> 00:13:12.560 align:start position:0%
+parameters theta that is what defines
+ 
+
+00:13:12.560 --> 00:13:13.740 align:start position:0%
+parameters theta that is what defines
+the<00:13:12.709><c> decision</c><00:13:12.890><c> boundary</c>
+
+00:13:13.740 --> 00:13:13.750 align:start position:0%
+the decision boundary
+ 
+
+00:13:13.750 --> 00:13:16.180 align:start position:0%
+the decision boundary
+let<00:13:14.750><c> me</c><00:13:14.810><c> put</c><00:13:15.020><c> back</c><00:13:15.170><c> the</c><00:13:15.320><c> training</c><00:13:15.680><c> set</c><00:13:15.890><c> just</c>
+
+00:13:16.180 --> 00:13:16.190 align:start position:0%
+let me put back the training set just
+ 
+
+00:13:16.190 --> 00:13:19.569 align:start position:0%
+let me put back the training set just
+just<00:13:16.640><c> for</c><00:13:16.790><c> visualization</c><00:13:17.120><c> and</c><00:13:18.310><c> finally</c><00:13:19.310><c> let's</c>
+
+00:13:19.569 --> 00:13:19.579 align:start position:0%
+just for visualization and finally let's
+ 
+
+00:13:19.579 --> 00:13:22.990 align:start position:0%
+just for visualization and finally let's
+look<00:13:19.730><c> at</c><00:13:19.820><c> a</c><00:13:19.910><c> more</c><00:13:20.060><c> complex</c><00:13:20.510><c> example</c><00:13:21.550><c> so</c><00:13:22.550><c> can</c><00:13:22.880><c> we</c>
+
+00:13:22.990 --> 00:13:23.000 align:start position:0%
+look at a more complex example so can we
+ 
+
+00:13:23.000 --> 00:13:24.550 align:start position:0%
+look at a more complex example so can we
+come<00:13:23.209><c> up</c><00:13:23.240><c> with</c><00:13:23.420><c> even</c><00:13:23.570><c> more</c><00:13:23.750><c> complex</c><00:13:24.380><c> decision</c>
+
+00:13:24.550 --> 00:13:24.560 align:start position:0%
+come up with even more complex decision
+ 
+
+00:13:24.560 --> 00:13:28.360 align:start position:0%
+come up with even more complex decision
+boundaries<00:13:25.070><c> Enders</c><00:13:25.579><c> if</c><00:13:25.990><c> I</c><00:13:26.990><c> have</c><00:13:27.410><c> even</c><00:13:28.100><c> higher</c>
+
+00:13:28.360 --> 00:13:28.370 align:start position:0%
+boundaries Enders if I have even higher
+ 
+
+00:13:28.370 --> 00:13:33.310 align:start position:0%
+boundaries Enders if I have even higher
+order<00:13:28.450><c> polynomial</c><00:13:29.450><c> terms</c><00:13:29.660><c> so</c><00:13:30.620><c> things</c><00:13:31.040><c> like</c><00:13:32.320><c> x1</c>
+
+00:13:33.310 --> 00:13:33.320 align:start position:0%
+order polynomial terms so things like x1
+ 
+
+00:13:33.320 --> 00:13:36.460 align:start position:0%
+order polynomial terms so things like x1
+squared<00:13:34.070><c> x1</c><00:13:34.579><c> squared</c><00:13:35.029><c> x2</c><00:13:35.140><c> x1</c><00:13:36.140><c> squared</c><00:13:36.440><c> x2</c>
+
+00:13:36.460 --> 00:13:36.470 align:start position:0%
+squared x1 squared x2 x1 squared x2
+ 
+
+00:13:36.470 --> 00:13:38.620 align:start position:0%
+squared x1 squared x2 x1 squared x2
+squared<00:13:36.980><c> and</c><00:13:37.190><c> so</c><00:13:37.520><c> on</c><00:13:37.700><c> if</c><00:13:37.910><c> I</c><00:13:38.000><c> have</c><00:13:38.180><c> much</c><00:13:38.420><c> higher</c>
+
+00:13:38.620 --> 00:13:38.630 align:start position:0%
+squared and so on if I have much higher
+ 
+
+00:13:38.630 --> 00:13:41.650 align:start position:0%
+squared and so on if I have much higher
+order<00:13:39.020><c> polynomials</c><00:13:39.740><c> then</c><00:13:40.579><c> it</c><00:13:41.060><c> is</c><00:13:41.209><c> possible</c><00:13:41.630><c> to</c>
+
+00:13:41.650 --> 00:13:41.660 align:start position:0%
+order polynomials then it is possible to
+ 
+
+00:13:41.660 --> 00:13:43.840 align:start position:0%
+order polynomials then it is possible to
+show<00:13:41.750><c> that</c><00:13:42.230><c> you</c><00:13:42.440><c> can</c><00:13:42.620><c> get</c><00:13:42.800><c> even</c><00:13:42.829><c> more</c><00:13:43.339><c> complex</c>
+
+00:13:43.840 --> 00:13:43.850 align:start position:0%
+show that you can get even more complex
+ 
+
+00:13:43.850 --> 00:13:45.550 align:start position:0%
+show that you can get even more complex
+decision<00:13:44.149><c> boundaries</c><00:13:44.720><c> and</c><00:13:45.140><c> the</c><00:13:45.350><c> just</c>
+
+00:13:45.550 --> 00:13:45.560 align:start position:0%
+decision boundaries and the just
+ 
+
+00:13:45.560 --> 00:13:48.010 align:start position:0%
+decision boundaries and the just
+regression<00:13:46.130><c> can</c><00:13:46.790><c> be</c><00:13:46.970><c> used</c><00:13:47.209><c> to</c><00:13:47.390><c> find</c><00:13:47.630><c> decision</c>
+
+00:13:48.010 --> 00:13:48.020 align:start position:0%
+regression can be used to find decision
+ 
+
+00:13:48.020 --> 00:13:50.199 align:start position:0%
+regression can be used to find decision
+boundaries<00:13:48.320><c> that</c><00:13:48.649><c> may</c><00:13:48.890><c> for</c><00:13:49.430><c> example</c><00:13:49.459><c> be</c><00:13:49.910><c> an</c>
+
+00:13:50.199 --> 00:13:50.209 align:start position:0%
+boundaries that may for example be an
+ 
+
+00:13:50.209 --> 00:13:52.540 align:start position:0%
+boundaries that may for example be an
+ellipse<00:13:50.510><c> like</c><00:13:50.750><c> that</c><00:13:50.959><c> or</c><00:13:51.860><c> maybe</c><00:13:52.160><c> with</c><00:13:52.459><c> a</c>
+
+00:13:52.540 --> 00:13:52.550 align:start position:0%
+ellipse like that or maybe with a
+ 
+
+00:13:52.550 --> 00:13:54.210 align:start position:0%
+ellipse like that or maybe with a
+different<00:13:52.940><c> setting</c><00:13:53.180><c> of</c><00:13:53.510><c> the</c><00:13:53.630><c> parameters</c>
+
+00:13:54.210 --> 00:13:54.220 align:start position:0%
+different setting of the parameters
+ 
+
+00:13:54.220 --> 00:13:56.560 align:start position:0%
+different setting of the parameters
+maybe<00:13:55.220><c> you</c><00:13:55.370><c> can</c><00:13:55.520><c> get</c><00:13:55.730><c> and</c><00:13:55.940><c> set</c><00:13:56.120><c> a</c><00:13:56.149><c> different</c>
+
+00:13:56.560 --> 00:13:56.570 align:start position:0%
+maybe you can get and set a different
+ 
+
+00:13:56.570 --> 00:13:58.360 align:start position:0%
+maybe you can get and set a different
+decision<00:13:56.720><c> boundary</c><00:13:57.200><c> which</c><00:13:57.770><c> may</c><00:13:57.950><c> even</c><00:13:58.190><c> look</c>
+
+00:13:58.360 --> 00:13:58.370 align:start position:0%
+decision boundary which may even look
+ 
+
+00:13:58.370 --> 00:14:02.880 align:start position:0%
+decision boundary which may even look
+like<00:13:58.399><c> you</c><00:13:59.240><c> know</c><00:13:59.300><c> some</c><00:13:59.540><c> funny</c><00:13:59.779><c> shape</c><00:14:00.050><c> like</c><00:14:00.260><c> that</c>
+
+00:14:02.880 --> 00:14:02.890 align:start position:0%
+ 
+ 
+
+00:14:02.890 --> 00:14:06.310 align:start position:0%
+ 
+or<00:14:03.890><c> for</c><00:14:03.950><c> even</c><00:14:04.670><c> more</c><00:14:04.910><c> complex</c><00:14:05.270><c> examples</c><00:14:05.930><c> may</c><00:14:06.260><c> be</c>
+
+00:14:06.310 --> 00:14:06.320 align:start position:0%
+or for even more complex examples may be
+ 
+
+00:14:06.320 --> 00:14:08.110 align:start position:0%
+or for even more complex examples may be
+you<00:14:06.500><c> can</c><00:14:06.649><c> also</c><00:14:06.800><c> get</c><00:14:07.160><c> decision</c><00:14:07.579><c> boundaries</c>
+
+00:14:08.110 --> 00:14:08.120 align:start position:0%
+you can also get decision boundaries
+ 
+
+00:14:08.120 --> 00:14:10.569 align:start position:0%
+you can also get decision boundaries
+that<00:14:09.110><c> could</c><00:14:09.320><c> look</c><00:14:09.470><c> like</c><00:14:09.740><c> you</c><00:14:10.130><c> know</c><00:14:10.220><c> more</c>
+
+00:14:10.569 --> 00:14:10.579 align:start position:0%
+that could look like you know more
+ 
+
+00:14:10.579 --> 00:14:12.189 align:start position:0%
+that could look like you know more
+complex<00:14:11.089><c> shapes</c><00:14:11.390><c> like</c><00:14:11.600><c> that</c><00:14:11.810><c> where</c>
+
+00:14:12.189 --> 00:14:12.199 align:start position:0%
+complex shapes like that where
+ 
+
+00:14:12.199 --> 00:14:12.830 align:start position:0%
+complex shapes like that where
+everything
+
+00:14:12.830 --> 00:14:12.840 align:start position:0%
+everything
+ 
+
+00:14:12.840 --> 00:14:15.380 align:start position:0%
+everything
+here<00:14:13.170><c> you</c><00:14:13.350><c> predict</c><00:14:13.740><c> y</c><00:14:13.980><c> equals</c><00:14:14.150><c> 1</c><00:14:15.150><c> and</c>
+
+00:14:15.380 --> 00:14:15.390 align:start position:0%
+here you predict y equals 1 and
+ 
+
+00:14:15.390 --> 00:14:17.120 align:start position:0%
+here you predict y equals 1 and
+everything<00:14:15.780><c> outside</c><00:14:15.930><c> you</c><00:14:16.290><c> predict</c><00:14:16.620><c> y</c><00:14:16.800><c> equals</c>
+
+00:14:17.120 --> 00:14:17.130 align:start position:0%
+everything outside you predict y equals
+ 
+
+00:14:17.130 --> 00:14:19.580 align:start position:0%
+everything outside you predict y equals
+0<00:14:17.430><c> so</c><00:14:18.030><c> these</c><00:14:18.330><c> higher</c><00:14:18.630><c> order</c><00:14:18.660><c> polynomial</c>
+
+00:14:19.580 --> 00:14:19.590 align:start position:0%
+0 so these higher order polynomial
+ 
+
+00:14:19.590 --> 00:14:21.500 align:start position:0%
+0 so these higher order polynomial
+features<00:14:19.740><c> you</c><00:14:20.160><c> can</c><00:14:20.280><c> get</c><00:14:20.460><c> very</c><00:14:20.700><c> complex</c><00:14:21.240><c> as</c><00:14:21.480><c> a</c>
+
+00:14:21.500 --> 00:14:21.510 align:start position:0%
+features you can get very complex as a
+ 
+
+00:14:21.510 --> 00:14:23.780 align:start position:0%
+features you can get very complex as a
+new<00:14:21.720><c> boundaries</c><00:14:22.250><c> so</c><00:14:23.250><c> with</c><00:14:23.640><c> these</c>
+
+00:14:23.780 --> 00:14:23.790 align:start position:0%
+new boundaries so with these
+ 
+
+00:14:23.790 --> 00:14:25.760 align:start position:0%
+new boundaries so with these
+visualizations<00:14:24.420><c> I</c><00:14:24.810><c> hope</c><00:14:25.020><c> that</c><00:14:25.260><c> gives</c><00:14:25.470><c> you</c><00:14:25.680><c> a</c>
+
+00:14:25.760 --> 00:14:25.770 align:start position:0%
+visualizations I hope that gives you a
+ 
+
+00:14:25.770 --> 00:14:28.610 align:start position:0%
+visualizations I hope that gives you a
+sense<00:14:26.340><c> of</c><00:14:26.640><c> what's</c><00:14:27.270><c> the</c><00:14:27.390><c> range</c><00:14:27.660><c> of</c><00:14:27.900><c> hypothesis</c>
+
+00:14:28.610 --> 00:14:28.620 align:start position:0%
+sense of what's the range of hypothesis
+ 
+
+00:14:28.620 --> 00:14:30.800 align:start position:0%
+sense of what's the range of hypothesis
+functions<00:14:29.070><c> we</c><00:14:29.250><c> can</c><00:14:29.400><c> represent</c><00:14:29.580><c> using</c><00:14:30.420><c> the</c>
+
+00:14:30.800 --> 00:14:30.810 align:start position:0%
+functions we can represent using the
+ 
+
+00:14:30.810 --> 00:14:32.840 align:start position:0%
+functions we can represent using the
+representation<00:14:31.560><c> that</c><00:14:31.590><c> we</c><00:14:31.830><c> have</c><00:14:32.070><c> for</c><00:14:32.700><c> logistic</c>
+
+00:14:32.840 --> 00:14:32.850 align:start position:0%
+representation that we have for logistic
+ 
+
+00:14:32.850 --> 00:14:36.350 align:start position:0%
+representation that we have for logistic
+regression<00:14:34.040><c> now</c><00:14:35.040><c> that</c><00:14:35.220><c> we</c><00:14:35.310><c> know</c><00:14:35.490><c> what</c><00:14:35.790><c> H</c><00:14:36.000><c> of</c><00:14:36.180><c> X</c>
+
+00:14:36.350 --> 00:14:36.360 align:start position:0%
+regression now that we know what H of X
+ 
+
+00:14:36.360 --> 00:14:38.600 align:start position:0%
+regression now that we know what H of X
+can<00:14:36.600><c> represent</c><00:14:36.890><c> what</c><00:14:37.890><c> I'd</c><00:14:38.010><c> like</c><00:14:38.130><c> to</c><00:14:38.250><c> do</c><00:14:38.400><c> next</c>
+
+00:14:38.600 --> 00:14:38.610 align:start position:0%
+can represent what I'd like to do next
+ 
+
+00:14:38.610 --> 00:14:41.060 align:start position:0%
+can represent what I'd like to do next
+in<00:14:38.940><c> the</c><00:14:39.150><c> following</c><00:14:39.600><c> video</c><00:14:39.930><c> is</c><00:14:40.200><c> talk</c><00:14:40.500><c> about</c><00:14:40.530><c> how</c>
+
+00:14:41.060 --> 00:14:41.070 align:start position:0%
+in the following video is talk about how
+ 
+
+00:14:41.070 --> 00:14:43.130 align:start position:0%
+in the following video is talk about how
+to<00:14:41.130><c> automatically</c><00:14:42.090><c> choose</c><00:14:42.420><c> the</c><00:14:42.630><c> parameters</c>
+
+00:14:43.130 --> 00:14:43.140 align:start position:0%
+to automatically choose the parameters
+ 
+
+00:14:43.140 --> 00:14:45.830 align:start position:0%
+to automatically choose the parameters
+theta<00:14:43.410><c> so</c><00:14:44.250><c> that</c><00:14:44.460><c> I</c><00:14:44.520><c> given</c><00:14:45.030><c> a</c><00:14:45.090><c> training</c><00:14:45.270><c> set</c><00:14:45.450><c> we</c>
+
+00:14:45.830 --> 00:14:45.840 align:start position:0%
+theta so that I given a training set we
+ 
+
+00:14:45.840 --> 00:14:48.230 align:start position:0%
+theta so that I given a training set we
+can<00:14:45.960><c> automatically</c><00:14:46.680><c> fit</c><00:14:46.920><c> the</c><00:14:47.040><c> parameters</c><00:14:47.240><c> to</c>
+
+00:14:48.230 --> 00:14:48.240 align:start position:0%
+can automatically fit the parameters to
+ 
+
+00:14:48.240 --> 00:14:50.600 align:start position:0%
+can automatically fit the parameters to
+our<00:14:48.360><c> data</c>
+

@@ -1,0 +1,1168 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:01.760 align:start position:0%
+ 
+in<00:00:00.299><c> the</c><00:00:00.480><c> previous</c><00:00:00.900><c> video</c><00:00:01.230><c> we</c><00:00:01.439><c> talked</c><00:00:01.650><c> about</c>
+
+00:00:01.760 --> 00:00:01.770 align:start position:0%
+in the previous video we talked about
+ 
+
+00:00:01.770 --> 00:00:04.100 align:start position:0%
+in the previous video we talked about
+stochastic<00:00:02.310><c> gradient</c><00:00:02.700><c> descent</c><00:00:03.060><c> and</c><00:00:03.570><c> how</c><00:00:03.840><c> that</c>
+
+00:00:04.100 --> 00:00:04.110 align:start position:0%
+stochastic gradient descent and how that
+ 
+
+00:00:04.110 --> 00:00:06.380 align:start position:0%
+stochastic gradient descent and how that
+can<00:00:04.319><c> be</c><00:00:04.380><c> much</c><00:00:04.680><c> faster</c><00:00:05.220><c> than</c><00:00:05.730><c> batch</c><00:00:06.060><c> gradient</c>
+
+00:00:06.380 --> 00:00:06.390 align:start position:0%
+can be much faster than batch gradient
+ 
+
+00:00:06.390 --> 00:00:08.780 align:start position:0%
+can be much faster than batch gradient
+descent<00:00:06.660><c> in</c><00:00:07.140><c> this</c><00:00:07.859><c> video</c><00:00:08.160><c> let's</c><00:00:08.400><c> talk</c><00:00:08.639><c> about</c>
+
+00:00:08.780 --> 00:00:08.790 align:start position:0%
+descent in this video let's talk about
+ 
+
+00:00:08.790 --> 00:00:11.030 align:start position:0%
+descent in this video let's talk about
+another<00:00:09.059><c> variation</c><00:00:09.750><c> on</c><00:00:10.170><c> these</c><00:00:10.290><c> ideas</c><00:00:10.469><c> called</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+another variation on these ideas called
+ 
+
+00:00:11.040 --> 00:00:13.339 align:start position:0%
+another variation on these ideas called
+mini<00:00:11.610><c> batch</c><00:00:11.910><c> gradient</c><00:00:12.240><c> descent</c><00:00:12.509><c> that</c><00:00:12.990><c> can</c>
+
+00:00:13.339 --> 00:00:13.349 align:start position:0%
+mini batch gradient descent that can
+ 
+
+00:00:13.349 --> 00:00:15.530 align:start position:0%
+mini batch gradient descent that can
+work<00:00:13.620><c> sometimes</c><00:00:14.130><c> even</c><00:00:14.580><c> if</c><00:00:14.670><c> it</c><00:00:14.790><c> faster</c><00:00:15.269><c> than</c>
+
+00:00:15.530 --> 00:00:15.540 align:start position:0%
+work sometimes even if it faster than
+ 
+
+00:00:15.540 --> 00:00:19.910 align:start position:0%
+work sometimes even if it faster than
+stochastic<00:00:16.109><c> gradient</c><00:00:16.199><c> descent</c><00:00:16.500><c> to</c><00:00:18.920><c> summarize</c>
+
+00:00:19.910 --> 00:00:19.920 align:start position:0%
+stochastic gradient descent to summarize
+ 
+
+00:00:19.920 --> 00:00:21.349 align:start position:0%
+stochastic gradient descent to summarize
+the<00:00:20.160><c> algorithms</c><00:00:20.520><c> we've</c><00:00:20.609><c> talked</c><00:00:20.880><c> about</c><00:00:21.029><c> so</c><00:00:21.330><c> far</c>
+
+00:00:21.349 --> 00:00:21.359 align:start position:0%
+the algorithms we've talked about so far
+ 
+
+00:00:21.359 --> 00:00:23.900 align:start position:0%
+the algorithms we've talked about so far
+in<00:00:21.840><c> batch</c><00:00:22.410><c> gradient</c><00:00:22.740><c> descent</c><00:00:22.980><c> we</c><00:00:23.519><c> will</c><00:00:23.699><c> use</c>
+
+00:00:23.900 --> 00:00:23.910 align:start position:0%
+in batch gradient descent we will use
+ 
+
+00:00:23.910 --> 00:00:27.439 align:start position:0%
+in batch gradient descent we will use
+all<00:00:24.150><c> em</c><00:00:24.680><c> in</c><00:00:25.680><c> each</c><00:00:25.890><c> generation</c><00:00:26.310><c> whereas</c><00:00:27.240><c> in</c>
+
+00:00:27.439 --> 00:00:27.449 align:start position:0%
+all em in each generation whereas in
+ 
+
+00:00:27.449 --> 00:00:29.480 align:start position:0%
+all em in each generation whereas in
+stochastic<00:00:27.869><c> gradient</c><00:00:28.199><c> descent</c><00:00:28.470><c> we</c><00:00:29.099><c> will</c><00:00:29.279><c> use</c>
+
+00:00:29.480 --> 00:00:29.490 align:start position:0%
+stochastic gradient descent we will use
+ 
+
+00:00:29.490 --> 00:00:32.780 align:start position:0%
+stochastic gradient descent we will use
+a<00:00:29.730><c> single</c><00:00:29.970><c> example</c><00:00:30.480><c> in</c><00:00:30.990><c> each</c><00:00:31.230><c> iteration</c><00:00:31.790><c> what</c>
+
+00:00:32.780 --> 00:00:32.790 align:start position:0%
+a single example in each iteration what
+ 
+
+00:00:32.790 --> 00:00:34.580 align:start position:0%
+a single example in each iteration what
+mini<00:00:33.030><c> batch</c><00:00:33.300><c> gradient</c><00:00:33.600><c> descent</c><00:00:33.840><c> does</c><00:00:34.170><c> is</c>
+
+00:00:34.580 --> 00:00:34.590 align:start position:0%
+mini batch gradient descent does is
+ 
+
+00:00:34.590 --> 00:00:37.040 align:start position:0%
+mini batch gradient descent does is
+somewhere<00:00:35.250><c> in</c><00:00:35.430><c> between</c><00:00:35.809><c> specifically</c><00:00:36.809><c> what</c>
+
+00:00:37.040 --> 00:00:37.050 align:start position:0%
+somewhere in between specifically what
+ 
+
+00:00:37.050 --> 00:00:38.959 align:start position:0%
+somewhere in between specifically what
+this<00:00:37.170><c> algorithm</c><00:00:37.469><c> we're</c><00:00:37.710><c> going</c><00:00:37.890><c> to</c><00:00:38.010><c> use</c><00:00:38.250><c> be</c>
+
+00:00:38.959 --> 00:00:38.969 align:start position:0%
+this algorithm we're going to use be
+ 
+
+00:00:38.969 --> 00:00:42.380 align:start position:0%
+this algorithm we're going to use be
+examples<00:00:39.750><c> in</c><00:00:40.079><c> each</c><00:00:40.559><c> iteration</c><00:00:40.850><c> where</c><00:00:41.850><c> B</c><00:00:42.090><c> is</c><00:00:42.120><c> a</c>
+
+00:00:42.380 --> 00:00:42.390 align:start position:0%
+examples in each iteration where B is a
+ 
+
+00:00:42.390 --> 00:00:47.930 align:start position:0%
+examples in each iteration where B is a
+parameter<00:00:43.110><c> how</c><00:00:43.710><c> the</c><00:00:43.770><c> mini</c><00:00:44.480><c> batch</c><00:00:45.480><c> size</c><00:00:46.760><c> so</c><00:00:47.760><c> the</c>
+
+00:00:47.930 --> 00:00:47.940 align:start position:0%
+parameter how the mini batch size so the
+ 
+
+00:00:47.940 --> 00:00:50.209 align:start position:0%
+parameter how the mini batch size so the
+idea<00:00:48.300><c> is</c><00:00:48.510><c> that</c><00:00:49.050><c> this</c><00:00:49.500><c> is</c><00:00:49.710><c> somewhat</c><00:00:50.039><c> in</c><00:00:50.190><c> between</c>
+
+00:00:50.209 --> 00:00:50.219 align:start position:0%
+idea is that this is somewhat in between
+ 
+
+00:00:50.219 --> 00:00:51.950 align:start position:0%
+idea is that this is somewhat in between
+batch<00:00:50.730><c> gradient</c><00:00:51.030><c> descent</c><00:00:51.270><c> it's</c><00:00:51.660><c> too</c><00:00:51.780><c> costly</c>
+
+00:00:51.950 --> 00:00:51.960 align:start position:0%
+batch gradient descent it's too costly
+ 
+
+00:00:51.960 --> 00:00:54.260 align:start position:0%
+batch gradient descent it's too costly
+during<00:00:52.289><c> descent</c><00:00:52.559><c> and</c><00:00:52.770><c> it's</c><00:00:53.399><c> just</c><00:00:53.670><c> like</c><00:00:53.789><c> Baxter</c>
+
+00:00:54.260 --> 00:00:54.270 align:start position:0%
+during descent and it's just like Baxter
+ 
+
+00:00:54.270 --> 00:00:55.490 align:start position:0%
+during descent and it's just like Baxter
+in<00:00:54.360><c> this</c><00:00:54.539><c> end</c><00:00:54.719><c> except</c><00:00:55.079><c> that</c><00:00:55.230><c> we're</c><00:00:55.350><c> going</c><00:00:55.440><c> to</c>
+
+00:00:55.490 --> 00:00:55.500 align:start position:0%
+in this end except that we're going to
+ 
+
+00:00:55.500 --> 00:00:58.490 align:start position:0%
+in this end except that we're going to
+use<00:00:55.680><c> a</c><00:00:55.710><c> much</c><00:00:56.190><c> smaller</c><00:00:56.219><c> batch</c><00:00:56.699><c> size</c><00:00:57.270><c> a</c><00:00:57.539><c> typical</c>
+
+00:00:58.490 --> 00:00:58.500 align:start position:0%
+use a much smaller batch size a typical
+ 
+
+00:00:58.500 --> 00:01:01.549 align:start position:0%
+use a much smaller batch size a typical
+choice<00:00:58.829><c> for</c><00:00:59.489><c> the</c><00:00:59.789><c> value</c><00:01:00.149><c> of</c><00:01:00.359><c> B</c><00:01:00.539><c> might</c><00:01:00.899><c> be</c><00:01:01.079><c> B</c>
+
+00:01:01.549 --> 00:01:01.559 align:start position:0%
+choice for the value of B might be B
+ 
+
+00:01:01.559 --> 00:01:04.130 align:start position:0%
+choice for the value of B might be B
+equals<00:01:01.829><c> 10</c><00:01:02.160><c> let's</c><00:01:02.430><c> say</c><00:01:02.640><c> and</c><00:01:02.930><c> typical</c><00:01:03.930><c> range</c>
+
+00:01:04.130 --> 00:01:04.140 align:start position:0%
+equals 10 let's say and typical range
+ 
+
+00:01:04.140 --> 00:01:06.289 align:start position:0%
+equals 10 let's say and typical range
+really<00:01:04.470><c> might</c><00:01:04.799><c> be</c><00:01:04.920><c> anywhere</c><00:01:05.189><c> from</c><00:01:05.309><c> B</c><00:01:05.670><c> equals</c><00:01:06.000><c> 2</c>
+
+00:01:06.289 --> 00:01:06.299 align:start position:0%
+really might be anywhere from B equals 2
+ 
+
+00:01:06.299 --> 00:01:08.960 align:start position:0%
+really might be anywhere from B equals 2
+up<00:01:06.750><c> to</c><00:01:07.170><c> B</c><00:01:07.380><c> equals</c><00:01:07.770><c> 100</c><00:01:08.430><c> so</c><00:01:08.640><c> that</c><00:01:08.760><c> would</c><00:01:08.850><c> be</c><00:01:08.939><c> a</c>
+
+00:01:08.960 --> 00:01:08.970 align:start position:0%
+up to B equals 100 so that would be a
+ 
+
+00:01:08.970 --> 00:01:12.590 align:start position:0%
+up to B equals 100 so that would be a
+pretty<00:01:09.479><c> typical</c><00:01:09.780><c> range</c><00:01:10.680><c> of</c><00:01:10.860><c> values</c><00:01:11.310><c> for</c><00:01:12.150><c> the</c>
+
+00:01:12.590 --> 00:01:12.600 align:start position:0%
+pretty typical range of values for the
+ 
+
+00:01:12.600 --> 00:01:15.670 align:start position:0%
+pretty typical range of values for the
+mini<00:01:12.869><c> batch</c><00:01:13.170><c> size</c><00:01:13.530><c> and</c><00:01:13.939><c> the</c><00:01:14.939><c> idea</c><00:01:15.330><c> is</c><00:01:15.570><c> that</c>
+
+00:01:15.670 --> 00:01:15.680 align:start position:0%
+mini batch size and the idea is that
+ 
+
+00:01:15.680 --> 00:01:18.050 align:start position:0%
+mini batch size and the idea is that
+rather<00:01:16.680><c> than</c><00:01:16.860><c> using</c><00:01:17.009><c> one</c><00:01:17.520><c> example</c><00:01:17.549><c> at</c><00:01:17.970><c> a</c><00:01:18.030><c> time</c>
+
+00:01:18.050 --> 00:01:18.060 align:start position:0%
+rather than using one example at a time
+ 
+
+00:01:18.060 --> 00:01:19.820 align:start position:0%
+rather than using one example at a time
+or<00:01:18.390><c> M</c><00:01:18.509><c> examples</c><00:01:18.990><c> I'm</c><00:01:19.140><c> going</c><00:01:19.170><c> to</c><00:01:19.439><c> use</c><00:01:19.530><c> B</c>
+
+00:01:19.820 --> 00:01:19.830 align:start position:0%
+or M examples I'm going to use B
+ 
+
+00:01:19.830 --> 00:01:22.429 align:start position:0%
+or M examples I'm going to use B
+examples<00:01:20.400><c> at</c><00:01:20.610><c> a</c><00:01:20.729><c> time</c><00:01:20.970><c> so</c><00:01:21.390><c> let</c><00:01:22.049><c> me</c><00:01:22.140><c> just</c><00:01:22.290><c> write</c>
+
+00:01:22.429 --> 00:01:22.439 align:start position:0%
+examples at a time so let me just write
+ 
+
+00:01:22.439 --> 00:01:24.830 align:start position:0%
+examples at a time so let me just write
+this<00:01:22.650><c> out</c><00:01:22.850><c> informally</c><00:01:23.850><c> we're</c><00:01:24.270><c> going</c><00:01:24.420><c> to</c><00:01:24.570><c> get</c>
+
+00:01:24.830 --> 00:01:24.840 align:start position:0%
+this out informally we're going to get
+ 
+
+00:01:24.840 --> 00:01:28.190 align:start position:0%
+this out informally we're going to get
+let's<00:01:25.439><c> say</c><00:01:25.650><c> B</c><00:01:26.310><c> for</c><00:01:27.210><c> this</c><00:01:27.299><c> example</c><00:01:27.630><c> let's</c><00:01:27.930><c> say</c><00:01:28.049><c> B</c>
+
+00:01:28.190 --> 00:01:28.200 align:start position:0%
+let's say B for this example let's say B
+ 
+
+00:01:28.200 --> 00:01:30.679 align:start position:0%
+let's say B for this example let's say B
+equals<00:01:28.470><c> 10</c><00:01:28.740><c> Samia</c><00:01:29.130><c> you</c><00:01:29.400><c> know</c><00:01:29.700><c> the</c><00:01:29.880><c> next</c><00:01:30.060><c> 10</c>
+
+00:01:30.679 --> 00:01:30.689 align:start position:0%
+equals 10 Samia you know the next 10
+ 
+
+00:01:30.689 --> 00:01:34.429 align:start position:0%
+equals 10 Samia you know the next 10
+examples<00:01:32.000><c> from</c><00:01:33.000><c> my</c><00:01:33.090><c> training</c><00:01:33.390><c> set</c><00:01:33.750><c> so</c><00:01:34.229><c> that</c>
+
+00:01:34.429 --> 00:01:34.439 align:start position:0%
+examples from my training set so that
+ 
+
+00:01:34.439 --> 00:01:38.600 align:start position:0%
+examples from my training set so that
+may<00:01:34.650><c> be</c><00:01:34.710><c> some</c><00:01:35.430><c> set</c><00:01:35.640><c> of</c><00:01:35.670><c> examples</c><00:01:35.820><c> X</c><00:01:36.509><c> I</c><00:01:36.720><c> Y</c><00:01:37.500><c> I</c><00:01:37.610><c> if</c>
+
+00:01:38.600 --> 00:01:38.610 align:start position:0%
+may be some set of examples X I Y I if
+ 
+
+00:01:38.610 --> 00:01:40.999 align:start position:0%
+may be some set of examples X I Y I if
+it's<00:01:38.790><c> 10</c><00:01:39.000><c> examples</c><00:01:39.360><c> then</c><00:01:39.960><c> the</c><00:01:40.170><c> indexing</c><00:01:40.799><c> would</c>
+
+00:01:40.999 --> 00:01:41.009 align:start position:0%
+it's 10 examples then the indexing would
+ 
+
+00:01:41.009 --> 00:01:44.530 align:start position:0%
+it's 10 examples then the indexing would
+be<00:01:41.130><c> up</c><00:01:41.340><c> to</c><00:01:41.579><c> X</c><00:01:42.150><c> I</c><00:01:42.450><c> plus</c><00:01:42.990><c> 9</c>
+
+00:01:44.530 --> 00:01:44.540 align:start position:0%
+be up to X I plus 9
+ 
+
+00:01:44.540 --> 00:01:48.430 align:start position:0%
+be up to X I plus 9
+why<00:01:45.140><c> i</c><00:01:45.170><c> +99</c><00:01:46.450><c> so</c><00:01:47.450><c> that's</c><00:01:47.630><c> ten</c><00:01:47.840><c> examples</c><00:01:48.290><c> all</c>
+
+00:01:48.430 --> 00:01:48.440 align:start position:0%
+why i +99 so that's ten examples all
+ 
+
+00:01:48.440 --> 00:01:51.090 align:start position:0%
+why i +99 so that's ten examples all
+together<00:01:48.710><c> and</c><00:01:48.920><c> then</c><00:01:49.640><c> we'll</c><00:01:49.790><c> perform</c>
+
+00:01:51.090 --> 00:01:51.100 align:start position:0%
+together and then we'll perform
+ 
+
+00:01:51.100 --> 00:01:54.450 align:start position:0%
+together and then we'll perform
+essentially<00:01:52.100><c> a</c><00:01:52.690><c> gradient</c><00:01:53.690><c> descent</c><00:01:54.140><c> update</c>
+
+00:01:54.450 --> 00:01:54.460 align:start position:0%
+essentially a gradient descent update
+ 
+
+00:01:54.460 --> 00:01:59.530 align:start position:0%
+essentially a gradient descent update
+using<00:01:55.660><c> these</c><00:01:56.660><c> ten</c><00:01:57.290><c> examples</c><00:01:57.800><c> so</c><00:01:58.300><c> that's</c><00:01:59.300><c> the</c>
+
+00:01:59.530 --> 00:01:59.540 align:start position:0%
+using these ten examples so that's the
+ 
+
+00:01:59.540 --> 00:02:01.750 align:start position:0%
+using these ten examples so that's the
+learning<00:01:59.900><c> rate</c><00:02:00.020><c> times</c><00:02:00.080><c> 1/10</c><00:02:00.710><c> times</c><00:02:01.130><c> the</c><00:02:01.430><c> sum</c>
+
+00:02:01.750 --> 00:02:01.760 align:start position:0%
+learning rate times 1/10 times the sum
+ 
+
+00:02:01.760 --> 00:02:09.400 align:start position:0%
+learning rate times 1/10 times the sum
+over<00:02:03.430><c> k</c><00:02:04.430><c> equals</c><00:02:04.970><c> I</c><00:02:05.150><c> through</c><00:02:06.110><c> I</c><00:02:06.880><c> plus</c><00:02:07.880><c> nine</c><00:02:08.240><c> of</c><00:02:08.810><c> H</c>
+
+00:02:09.400 --> 00:02:09.410 align:start position:0%
+over k equals I through I plus nine of H
+ 
+
+00:02:09.410 --> 00:02:16.530 align:start position:0%
+over k equals I through I plus nine of H
+subscript<00:02:09.830><c> theta</c><00:02:10.130><c> of</c><00:02:10.369><c> XK</c><00:02:11.240><c> minus</c><00:02:13.240><c> y</c><00:02:14.240><c> k</c><00:02:14.650><c> times</c><00:02:15.650><c> x</c>
+
+00:02:16.530 --> 00:02:16.540 align:start position:0%
+subscript theta of XK minus y k times x
+ 
+
+00:02:16.540 --> 00:02:23.710 align:start position:0%
+subscript theta of XK minus y k times x
+k<00:02:17.740><c> J</c><00:02:18.740><c> and</c><00:02:20.530><c> so</c><00:02:21.530><c> in</c><00:02:21.860><c> this</c><00:02:22.100><c> expression</c><00:02:22.720><c> we're</c>
+
+00:02:23.710 --> 00:02:23.720 align:start position:0%
+k J and so in this expression we're
+ 
+
+00:02:23.720 --> 00:02:26.440 align:start position:0%
+k J and so in this expression we're
+summing<00:02:24.260><c> the</c><00:02:24.680><c> gradient</c><00:02:25.130><c> terms</c><00:02:25.370><c> over</c><00:02:25.730><c> my</c><00:02:26.120><c> 10</c>
+
+00:02:26.440 --> 00:02:26.450 align:start position:0%
+summing the gradient terms over my 10
+ 
+
+00:02:26.450 --> 00:02:29.080 align:start position:0%
+summing the gradient terms over my 10
+examples<00:02:26.870><c> so</c><00:02:27.350><c> there's</c><00:02:27.590><c> a</c><00:02:27.680><c> number</c><00:02:28.370><c> 10</c><00:02:28.670><c> that's</c>
+
+00:02:29.080 --> 00:02:29.090 align:start position:0%
+examples so there's a number 10 that's
+ 
+
+00:02:29.090 --> 00:02:31.060 align:start position:0%
+examples so there's a number 10 that's
+you<00:02:29.420><c> know</c><00:02:29.480><c> my</c><00:02:29.660><c> mini</c><00:02:29.690><c> batch</c><00:02:30.140><c> size</c><00:02:30.410><c> and</c><00:02:30.740><c> just</c><00:02:30.860><c> I</c>
+
+00:02:31.060 --> 00:02:31.070 align:start position:0%
+you know my mini batch size and just I
+ 
+
+00:02:31.070 --> 00:02:34.420 align:start position:0%
+you know my mini batch size and just I
+plus<00:02:31.610><c> 9</c><00:02:31.850><c> again</c><00:02:32.210><c> the</c><00:02:32.390><c> 9</c><00:02:32.600><c> comes</c><00:02:32.930><c> from</c><00:02:33.200><c> the</c><00:02:34.010><c> choice</c>
+
+00:02:34.420 --> 00:02:34.430 align:start position:0%
+plus 9 again the 9 comes from the choice
+ 
+
+00:02:34.430 --> 00:02:36.850 align:start position:0%
+plus 9 again the 9 comes from the choice
+of<00:02:34.580><c> the</c><00:02:34.670><c> parameter</c><00:02:35.030><c> beat</c><00:02:35.210><c> and</c><00:02:35.480><c> then</c><00:02:36.470><c> after</c>
+
+00:02:36.850 --> 00:02:36.860 align:start position:0%
+of the parameter beat and then after
+ 
+
+00:02:36.860 --> 00:02:41.230 align:start position:0%
+of the parameter beat and then after
+this<00:02:37.040><c> we</c><00:02:37.280><c> will</c><00:02:37.310><c> then</c><00:02:37.700><c> increase</c><00:02:38.450><c> you</c><00:02:38.990><c> know</c><00:02:39.020><c> I</c><00:02:40.240><c> by</c>
+
+00:02:41.230 --> 00:02:41.240 align:start position:0%
+this we will then increase you know I by
+ 
+
+00:02:41.240 --> 00:02:44.740 align:start position:0%
+this we will then increase you know I by
+10<00:02:41.600><c> to</c><00:02:42.080><c> go</c><00:02:42.350><c> on</c><00:02:42.500><c> to</c><00:02:42.650><c> the</c><00:02:42.740><c> next</c><00:02:42.860><c> 10</c><00:02:43.190><c> examples</c><00:02:43.750><c> and</c>
+
+00:02:44.740 --> 00:02:44.750 align:start position:0%
+10 to go on to the next 10 examples and
+ 
+
+00:02:44.750 --> 00:02:47.920 align:start position:0%
+10 to go on to the next 10 examples and
+then<00:02:44.959><c> keep</c><00:02:45.800><c> living</c><00:02:46.160><c> like</c><00:02:46.190><c> this</c><00:02:46.570><c> so</c><00:02:47.570><c> just</c><00:02:47.840><c> to</c>
+
+00:02:47.920 --> 00:02:47.930 align:start position:0%
+then keep living like this so just to
+ 
+
+00:02:47.930 --> 00:02:49.900 align:start position:0%
+then keep living like this so just to
+write<00:02:48.050><c> out</c><00:02:48.230><c> the</c><00:02:48.380><c> entire</c><00:02:48.470><c> algorithm</c><00:02:48.980><c> in</c><00:02:49.400><c> into</c>
+
+00:02:49.900 --> 00:02:49.910 align:start position:0%
+write out the entire algorithm in into
+ 
+
+00:02:49.910 --> 00:02:53.229 align:start position:0%
+write out the entire algorithm in into
+info<00:02:50.360><c> in</c><00:02:50.630><c> order</c><00:02:51.620><c> to</c><00:02:51.890><c> simplify</c><00:02:52.220><c> the</c><00:02:52.520><c> indexing</c>
+
+00:02:53.229 --> 00:02:53.239 align:start position:0%
+info in order to simplify the indexing
+ 
+
+00:02:53.239 --> 00:02:55.420 align:start position:0%
+info in order to simplify the indexing
+for<00:02:53.480><c> this</c><00:02:53.630><c> for</c><00:02:54.350><c> 1</c><00:02:54.530><c> over</c><00:02:54.680><c> the</c><00:02:54.739><c> writer</c><00:02:54.950><c> I'm</c><00:02:55.250><c> going</c>
+
+00:02:55.420 --> 00:02:55.430 align:start position:0%
+for this for 1 over the writer I'm going
+ 
+
+00:02:55.430 --> 00:02:57.430 align:start position:0%
+for this for 1 over the writer I'm going
+to<00:02:55.489><c> see</c><00:02:55.700><c> we</c><00:02:55.880><c> have</c><00:02:56.000><c> a</c><00:02:56.060><c> mini</c><00:02:56.360><c> batch</c><00:02:56.600><c> size</c><00:02:56.900><c> of</c><00:02:57.170><c> 10</c>
+
+00:02:57.430 --> 00:02:57.440 align:start position:0%
+to see we have a mini batch size of 10
+ 
+
+00:02:57.440 --> 00:02:59.920 align:start position:0%
+to see we have a mini batch size of 10
+and<00:02:57.680><c> a</c><00:02:58.430><c> training</c><00:02:58.730><c> set</c><00:02:58.970><c> size</c><00:02:59.180><c> of</c><00:02:59.390><c> a</c><00:02:59.450><c> thousand</c>
+
+00:02:59.920 --> 00:02:59.930 align:start position:0%
+and a training set size of a thousand
+ 
+
+00:02:59.930 --> 00:03:02.050 align:start position:0%
+and a training set size of a thousand
+what<00:03:00.739><c> we're</c><00:03:00.860><c> going</c><00:03:01.010><c> to</c><00:03:01.070><c> do</c><00:03:01.250><c> is</c><00:03:01.489><c> have</c><00:03:01.700><c> this</c><00:03:01.850><c> sort</c>
+
+00:03:02.050 --> 00:03:02.060 align:start position:0%
+what we're going to do is have this sort
+ 
+
+00:03:02.060 --> 00:03:04.630 align:start position:0%
+what we're going to do is have this sort
+of<00:03:02.120><c> 4</c><00:03:02.330><c> degree</c><00:03:02.600><c> or</c><00:03:02.690><c> for</c><00:03:02.870><c> I</c><00:03:02.900><c> equals</c><00:03:03.260><c> 1</c><00:03:03.560><c> 11:21</c><00:03:04.340><c> so</c>
+
+00:03:04.630 --> 00:03:04.640 align:start position:0%
+of 4 degree or for I equals 1 11:21 so
+ 
+
+00:03:04.640 --> 00:03:06.759 align:start position:0%
+of 4 degree or for I equals 1 11:21 so
+stepping<00:03:05.030><c> in</c><00:03:05.360><c> steps</c><00:03:05.750><c> of</c><00:03:05.870><c> 10</c><00:03:06.140><c> because</c><00:03:06.380><c> we</c><00:03:06.620><c> look</c>
+
+00:03:06.759 --> 00:03:06.769 align:start position:0%
+stepping in steps of 10 because we look
+ 
+
+00:03:06.769 --> 00:03:09.040 align:start position:0%
+stepping in steps of 10 because we look
+at<00:03:06.860><c> 10</c><00:03:07.070><c> examples</c><00:03:07.519><c> of</c><00:03:07.610><c> the</c><00:03:07.700><c> time</c><00:03:07.880><c> and</c><00:03:08.180><c> then</c><00:03:08.930><c> we</c>
+
+00:03:09.040 --> 00:03:09.050 align:start position:0%
+at 10 examples of the time and then we
+ 
+
+00:03:09.050 --> 00:03:11.290 align:start position:0%
+at 10 examples of the time and then we
+perform<00:03:09.440><c> this</c><00:03:09.680><c> sort</c><00:03:09.920><c> of</c><00:03:10.070><c> a</c><00:03:10.220><c> gradient</c><00:03:10.670><c> descent</c>
+
+00:03:11.290 --> 00:03:11.300 align:start position:0%
+perform this sort of a gradient descent
+ 
+
+00:03:11.300 --> 00:03:14.740 align:start position:0%
+perform this sort of a gradient descent
+update<00:03:11.450><c> using</c><00:03:12.140><c> 10</c><00:03:12.650><c> examples</c><00:03:13.010><c> at</c><00:03:13.430><c> a</c><00:03:13.519><c> time</c><00:03:13.760><c> so</c>
+
+00:03:14.740 --> 00:03:14.750 align:start position:0%
+update using 10 examples at a time so
+ 
+
+00:03:14.750 --> 00:03:17.530 align:start position:0%
+update using 10 examples at a time so
+this<00:03:15.050><c> 10</c><00:03:15.709><c> and</c><00:03:15.980><c> this</c><00:03:16.550><c> I</c><00:03:16.790><c> plus</c><00:03:17.030><c> 9</c>
+
+00:03:17.530 --> 00:03:17.540 align:start position:0%
+this 10 and this I plus 9
+ 
+
+00:03:17.540 --> 00:03:20.380 align:start position:0%
+this 10 and this I plus 9
+those<00:03:17.690><c> are</c><00:03:18.019><c> consequence</c><00:03:18.730><c> having</c><00:03:19.730><c> chosen</c><00:03:20.000><c> my</c>
+
+00:03:20.380 --> 00:03:20.390 align:start position:0%
+those are consequence having chosen my
+ 
+
+00:03:20.390 --> 00:03:22.540 align:start position:0%
+those are consequence having chosen my
+mini<00:03:20.630><c> batch</c><00:03:20.840><c> size</c><00:03:21.110><c> to</c><00:03:21.260><c> be</c><00:03:21.350><c> 10</c><00:03:21.590><c> and</c><00:03:21.739><c> you</c><00:03:22.459><c> know</c>
+
+00:03:22.540 --> 00:03:22.550 align:start position:0%
+mini batch size to be 10 and you know
+ 
+
+00:03:22.550 --> 00:03:25.050 align:start position:0%
+mini batch size to be 10 and you know
+this<00:03:22.820><c> Ultimo's</c><00:03:23.330><c> folder</c><00:03:23.750><c> this</c><00:03:23.989><c> ends</c><00:03:24.440><c> at</c>
+
+00:03:25.050 --> 00:03:25.060 align:start position:0%
+this Ultimo's folder this ends at
+ 
+
+00:03:25.060 --> 00:03:29.339 align:start position:0%
+this Ultimo's folder this ends at
+9:1<00:03:25.739><c> here</c><00:03:26.739><c> because</c><00:03:27.459><c> if</c><00:03:28.330><c> I</c><00:03:28.450><c> have</c><00:03:28.599><c> a</c><00:03:28.630><c> thousand</c>
+
+00:03:29.339 --> 00:03:29.349 align:start position:0%
+9:1 here because if I have a thousand
+ 
+
+00:03:29.349 --> 00:03:31.020 align:start position:0%
+9:1 here because if I have a thousand
+training<00:03:29.770><c> examples</c><00:03:30.220><c> then</c><00:03:30.430><c> I</c><00:03:30.520><c> need</c><00:03:30.730><c> a</c><00:03:30.760><c> hundred</c>
+
+00:03:31.020 --> 00:03:31.030 align:start position:0%
+training examples then I need a hundred
+ 
+
+00:03:31.030 --> 00:03:33.240 align:start position:0%
+training examples then I need a hundred
+steps<00:03:31.360><c> of</c><00:03:31.599><c> size</c><00:03:31.780><c> ten</c><00:03:32.200><c> in</c><00:03:32.410><c> order</c><00:03:33.010><c> to</c><00:03:33.099><c> get</c>
+
+00:03:33.240 --> 00:03:33.250 align:start position:0%
+steps of size ten in order to get
+ 
+
+00:03:33.250 --> 00:03:35.490 align:start position:0%
+steps of size ten in order to get
+through<00:03:33.459><c> my</c><00:03:33.580><c> entire</c><00:03:33.880><c> training</c><00:03:34.120><c> set</c><00:03:34.360><c> so</c><00:03:35.140><c> this</c>
+
+00:03:35.490 --> 00:03:35.500 align:start position:0%
+through my entire training set so this
+ 
+
+00:03:35.500 --> 00:03:38.699 align:start position:0%
+through my entire training set so this
+is<00:03:35.650><c> mini-batch</c><00:03:36.430><c> gradient</c><00:03:36.459><c> descent</c><00:03:37.709><c> compared</c>
+
+00:03:38.699 --> 00:03:38.709 align:start position:0%
+is mini-batch gradient descent compared
+ 
+
+00:03:38.709 --> 00:03:41.130 align:start position:0%
+is mini-batch gradient descent compared
+to<00:03:38.920><c> batch</c><00:03:39.700><c> gradient</c><00:03:40.120><c> descent</c><00:03:40.360><c> this</c><00:03:40.959><c> also</c>
+
+00:03:41.130 --> 00:03:41.140 align:start position:0%
+to batch gradient descent this also
+ 
+
+00:03:41.140 --> 00:03:42.780 align:start position:0%
+to batch gradient descent this also
+allows<00:03:41.620><c> us</c><00:03:41.860><c> to</c><00:03:41.980><c> make</c><00:03:42.130><c> progress</c><00:03:42.340><c> much</c><00:03:42.760><c> faster</c>
+
+00:03:42.780 --> 00:03:42.790 align:start position:0%
+allows us to make progress much faster
+ 
+
+00:03:42.790 --> 00:03:46.170 align:start position:0%
+allows us to make progress much faster
+so<00:03:43.569><c> we</c><00:03:43.780><c> have</c><00:03:43.989><c> again</c><00:03:44.709><c> our</c><00:03:44.950><c> running</c><00:03:45.040><c> example</c><00:03:45.489><c> of</c>
+
+00:03:46.170 --> 00:03:46.180 align:start position:0%
+so we have again our running example of
+ 
+
+00:03:46.180 --> 00:03:49.170 align:start position:0%
+so we have again our running example of
+US<00:03:46.870><c> census</c><00:03:47.230><c> data</c><00:03:47.440><c> of</c><00:03:47.920><c> 300</c><00:03:48.519><c> million</c><00:03:48.760><c> training</c>
+
+00:03:49.170 --> 00:03:49.180 align:start position:0%
+US census data of 300 million training
+ 
+
+00:03:49.180 --> 00:03:51.660 align:start position:0%
+US census data of 300 million training
+examples<00:03:49.599><c> then</c><00:03:50.349><c> what</c><00:03:50.560><c> we're</c><00:03:50.680><c> saying</c><00:03:50.800><c> is</c><00:03:51.130><c> after</c>
+
+00:03:51.660 --> 00:03:51.670 align:start position:0%
+examples then what we're saying is after
+ 
+
+00:03:51.670 --> 00:03:53.610 align:start position:0%
+examples then what we're saying is after
+looking<00:03:52.000><c> at</c><00:03:52.120><c> just</c><00:03:52.450><c> the</c><00:03:52.599><c> first</c><00:03:52.750><c> ten</c><00:03:53.080><c> examples</c>
+
+00:03:53.610 --> 00:03:53.620 align:start position:0%
+looking at just the first ten examples
+ 
+
+00:03:53.620 --> 00:03:55.680 align:start position:0%
+looking at just the first ten examples
+we<00:03:53.800><c> can</c><00:03:53.920><c> start</c><00:03:54.280><c> to</c><00:03:54.550><c> make</c><00:03:54.849><c> progress</c><00:03:55.150><c> in</c>
+
+00:03:55.680 --> 00:03:55.690 align:start position:0%
+we can start to make progress in
+ 
+
+00:03:55.690 --> 00:03:58.620 align:start position:0%
+we can start to make progress in
+improving<00:03:56.590><c> the</c><00:03:57.459><c> parameters</c><00:03:57.970><c> data</c><00:03:58.180><c> so</c><00:03:58.510><c> we</c>
+
+00:03:58.620 --> 00:03:58.630 align:start position:0%
+improving the parameters data so we
+ 
+
+00:03:58.630 --> 00:04:00.210 align:start position:0%
+improving the parameters data so we
+don't<00:03:58.810><c> need</c><00:03:58.900><c> to</c><00:03:58.959><c> scan</c><00:03:59.350><c> through</c><00:03:59.620><c> the</c><00:03:59.860><c> entire</c>
+
+00:04:00.210 --> 00:04:00.220 align:start position:0%
+don't need to scan through the entire
+ 
+
+00:04:00.220 --> 00:04:01.979 align:start position:0%
+don't need to scan through the entire
+training<00:04:00.489><c> set</c><00:04:00.790><c> we</c><00:04:01.299><c> just</c><00:04:01.330><c> need</c><00:04:01.600><c> to</c><00:04:01.720><c> look</c><00:04:01.810><c> at</c><00:04:01.930><c> the</c>
+
+00:04:01.979 --> 00:04:01.989 align:start position:0%
+training set we just need to look at the
+ 
+
+00:04:01.989 --> 00:04:03.539 align:start position:0%
+training set we just need to look at the
+first<00:04:02.140><c> ten</c><00:04:02.380><c> examples</c><00:04:02.890><c> and</c><00:04:03.100><c> this</c><00:04:03.160><c> will</c><00:04:03.310><c> start</c>
+
+00:04:03.539 --> 00:04:03.549 align:start position:0%
+first ten examples and this will start
+ 
+
+00:04:03.549 --> 00:04:05.490 align:start position:0%
+first ten examples and this will start
+letting<00:04:04.150><c> us</c><00:04:04.239><c> make</c><00:04:04.390><c> progress</c><00:04:04.630><c> and</c><00:04:05.140><c> then</c><00:04:05.290><c> we</c><00:04:05.380><c> can</c>
+
+00:04:05.490 --> 00:04:05.500 align:start position:0%
+letting us make progress and then we can
+ 
+
+00:04:05.500 --> 00:04:06.930 align:start position:0%
+letting us make progress and then we can
+look<00:04:05.620><c> at</c><00:04:05.709><c> the</c><00:04:05.769><c> second</c><00:04:06.100><c> ten</c><00:04:06.250><c> examples</c><00:04:06.400><c> then</c>
+
+00:04:06.930 --> 00:04:06.940 align:start position:0%
+look at the second ten examples then
+ 
+
+00:04:06.940 --> 00:04:08.070 align:start position:0%
+look at the second ten examples then
+multiply<00:04:07.269><c> the</c><00:04:07.330><c> parameters</c><00:04:07.780><c> a</c><00:04:07.810><c> little</c><00:04:07.989><c> bit</c>
+
+00:04:08.070 --> 00:04:08.080 align:start position:0%
+multiply the parameters a little bit
+ 
+
+00:04:08.080 --> 00:04:11.460 align:start position:0%
+multiply the parameters a little bit
+again<00:04:08.290><c> and</c><00:04:08.530><c> so</c><00:04:09.100><c> on</c><00:04:09.480><c> so</c><00:04:10.480><c> that's</c><00:04:10.690><c> why</c><00:04:10.959><c> mini-batch</c>
+
+00:04:11.460 --> 00:04:11.470 align:start position:0%
+again and so on so that's why mini-batch
+ 
+
+00:04:11.470 --> 00:04:13.050 align:start position:0%
+again and so on so that's why mini-batch
+gradient<00:04:11.500><c> descent</c><00:04:12.160><c> can</c><00:04:12.250><c> be</c><00:04:12.400><c> faster</c><00:04:12.849><c> than</c>
+
+00:04:13.050 --> 00:04:13.060 align:start position:0%
+gradient descent can be faster than
+ 
+
+00:04:13.060 --> 00:04:14.580 align:start position:0%
+gradient descent can be faster than
+batch<00:04:13.299><c> gradient</c><00:04:13.569><c> descent</c><00:04:13.810><c> namely</c><00:04:14.440><c> you</c><00:04:14.530><c> can</c>
+
+00:04:14.580 --> 00:04:14.590 align:start position:0%
+batch gradient descent namely you can
+ 
+
+00:04:14.590 --> 00:04:17.250 align:start position:0%
+batch gradient descent namely you can
+start<00:04:14.980><c> making</c><00:04:15.370><c> progress</c><00:04:15.849><c> in</c><00:04:16.419><c> modifying</c><00:04:17.109><c> the</c>
+
+00:04:17.250 --> 00:04:17.260 align:start position:0%
+start making progress in modifying the
+ 
+
+00:04:17.260 --> 00:04:19.110 align:start position:0%
+start making progress in modifying the
+parameters<00:04:17.769><c> after</c><00:04:18.040><c> looking</c><00:04:18.549><c> at</c><00:04:18.639><c> just</c><00:04:18.880><c> ten</c>
+
+00:04:19.110 --> 00:04:19.120 align:start position:0%
+parameters after looking at just ten
+ 
+
+00:04:19.120 --> 00:04:21.060 align:start position:0%
+parameters after looking at just ten
+examples<00:04:19.269><c> rather</c><00:04:19.930><c> than</c><00:04:20.200><c> leaving</c><00:04:20.650><c> to</c><00:04:20.889><c> wait</c>
+
+00:04:21.060 --> 00:04:21.070 align:start position:0%
+examples rather than leaving to wait
+ 
+
+00:04:21.070 --> 00:04:22.620 align:start position:0%
+examples rather than leaving to wait
+till<00:04:21.310><c> your</c><00:04:21.459><c> scan</c><00:04:21.760><c> through</c><00:04:22.000><c> every</c><00:04:22.300><c> single</c>
+
+00:04:22.620 --> 00:04:22.630 align:start position:0%
+till your scan through every single
+ 
+
+00:04:22.630 --> 00:04:24.659 align:start position:0%
+till your scan through every single
+training<00:04:22.840><c> example</c><00:04:23.050><c> all</c><00:04:23.620><c> 300</c><00:04:24.130><c> million</c><00:04:24.310><c> of</c><00:04:24.490><c> them</c>
+
+00:04:24.659 --> 00:04:24.669 align:start position:0%
+training example all 300 million of them
+ 
+
+00:04:24.669 --> 00:04:27.200 align:start position:0%
+training example all 300 million of them
+so<00:04:25.510><c> how</c><00:04:25.900><c> about</c><00:04:26.020><c> mini</c><00:04:26.350><c> batch</c><00:04:26.590><c> gradient</c><00:04:26.860><c> descent</c>
+
+00:04:27.200 --> 00:04:27.210 align:start position:0%
+so how about mini batch gradient descent
+ 
+
+00:04:27.210 --> 00:04:29.700 align:start position:0%
+so how about mini batch gradient descent
+versus<00:04:28.210><c> stochastic</c><00:04:28.570><c> gradient</c><00:04:28.930><c> descent</c><00:04:29.200><c> so</c>
+
+00:04:29.700 --> 00:04:29.710 align:start position:0%
+versus stochastic gradient descent so
+ 
+
+00:04:29.710 --> 00:04:32.070 align:start position:0%
+versus stochastic gradient descent so
+why<00:04:30.310><c> do</c><00:04:30.370><c> we</c><00:04:30.550><c> want</c><00:04:30.610><c> to</c><00:04:30.910><c> look</c><00:04:31.090><c> at</c><00:04:31.270><c> the</c><00:04:31.539><c> examples</c>
+
+00:04:32.070 --> 00:04:32.080 align:start position:0%
+why do we want to look at the examples
+ 
+
+00:04:32.080 --> 00:04:34.620 align:start position:0%
+why do we want to look at the examples
+at<00:04:32.260><c> the</c><00:04:32.350><c> time</c><00:04:32.550><c> rather</c><00:04:33.550><c> than</c><00:04:33.850><c> look</c><00:04:34.060><c> at</c><00:04:34.270><c> just</c><00:04:34.539><c> a</c>
+
+00:04:34.620 --> 00:04:34.630 align:start position:0%
+at the time rather than look at just a
+ 
+
+00:04:34.630 --> 00:04:37.320 align:start position:0%
+at the time rather than look at just a
+single<00:04:35.130><c> example</c><00:04:36.130><c> at</c><00:04:36.430><c> a</c><00:04:36.520><c> time</c><00:04:36.820><c> as</c><00:04:37.060><c> it's</c><00:04:37.240><c> the</c>
+
+00:04:37.320 --> 00:04:37.330 align:start position:0%
+single example at a time as it's the
+ 
+
+00:04:37.330 --> 00:04:38.219 align:start position:0%
+single example at a time as it's the
+cost<00:04:37.539><c> of</c><00:04:37.630><c> unison</c>
+
+00:04:38.219 --> 00:04:38.229 align:start position:0%
+cost of unison
+ 
+
+00:04:38.229 --> 00:04:42.330 align:start position:0%
+cost of unison
+the<00:04:38.830><c> answer</c><00:04:39.190><c> is</c><00:04:39.460><c> in</c><00:04:40.360><c> vectorization</c><00:04:41.340><c> in</c>
+
+00:04:42.330 --> 00:04:42.340 align:start position:0%
+the answer is in vectorization in
+ 
+
+00:04:42.340 --> 00:04:44.790 align:start position:0%
+the answer is in vectorization in
+particular<00:04:43.080><c> mini</c><00:04:44.080><c> batch</c><00:04:44.320><c> gradient</c><00:04:44.560><c> descent</c>
+
+00:04:44.790 --> 00:04:44.800 align:start position:0%
+particular mini batch gradient descent
+ 
+
+00:04:44.800 --> 00:04:47.130 align:start position:0%
+particular mini batch gradient descent
+is<00:04:45.250><c> likely</c><00:04:45.610><c> to</c><00:04:45.910><c> outperforms</c><00:04:46.510><c> the</c><00:04:46.570><c> Casagrande</c>
+
+00:04:47.130 --> 00:04:47.140 align:start position:0%
+is likely to outperforms the Casagrande
+ 
+
+00:04:47.140 --> 00:04:49.380 align:start position:0%
+is likely to outperforms the Casagrande
+descent<00:04:47.440><c> only</c><00:04:47.860><c> if</c><00:04:48.100><c> you</c><00:04:48.250><c> have</c><00:04:48.490><c> a</c><00:04:48.760><c> good</c><00:04:49.000><c> vector</c>
+
+00:04:49.380 --> 00:04:49.390 align:start position:0%
+descent only if you have a good vector
+ 
+
+00:04:49.390 --> 00:04:52.590 align:start position:0%
+descent only if you have a good vector
+rise<00:04:49.600><c> implementation</c><00:04:49.710><c> in</c><00:04:50.710><c> that</c><00:04:51.400><c> case</c><00:04:51.669><c> the</c><00:04:52.150><c> sum</c>
+
+00:04:52.590 --> 00:04:52.600 align:start position:0%
+rise implementation in that case the sum
+ 
+
+00:04:52.600 --> 00:04:56.879 align:start position:0%
+rise implementation in that case the sum
+over<00:04:54.150><c> ten</c><00:04:55.150><c> examples</c><00:04:55.330><c> can</c><00:04:55.960><c> be</c><00:04:56.020><c> performed</c><00:04:56.590><c> in</c><00:04:56.740><c> a</c>
+
+00:04:56.879 --> 00:04:56.889 align:start position:0%
+over ten examples can be performed in a
+ 
+
+00:04:56.889 --> 00:05:00.150 align:start position:0%
+over ten examples can be performed in a
+more<00:04:57.669><c> vectorized</c><00:04:58.240><c> way</c><00:04:58.419><c> which</c><00:04:59.380><c> will</c><00:04:59.830><c> allow</c><00:05:00.100><c> you</c>
+
+00:05:00.150 --> 00:05:00.160 align:start position:0%
+more vectorized way which will allow you
+ 
+
+00:05:00.160 --> 00:05:04.050 align:start position:0%
+more vectorized way which will allow you
+to<00:05:01.229><c> partially</c><00:05:02.229><c> paralyzed</c><00:05:02.979><c> your</c><00:05:03.280><c> computation</c>
+
+00:05:04.050 --> 00:05:04.060 align:start position:0%
+to partially paralyzed your computation
+ 
+
+00:05:04.060 --> 00:05:06.150 align:start position:0%
+to partially paralyzed your computation
+over<00:05:04.419><c> the</c><00:05:04.510><c> 10</c><00:05:04.720><c> examples</c><00:05:05.110><c> so</c><00:05:05.680><c> in</c><00:05:05.800><c> other</c><00:05:05.889><c> words</c>
+
+00:05:06.150 --> 00:05:06.160 align:start position:0%
+over the 10 examples so in other words
+ 
+
+00:05:06.160 --> 00:05:08.790 align:start position:0%
+over the 10 examples so in other words
+by<00:05:06.910><c> using</c><00:05:07.210><c> appropriate</c><00:05:07.510><c> vectorization</c><00:05:08.320><c> to</c>
+
+00:05:08.790 --> 00:05:08.800 align:start position:0%
+by using appropriate vectorization to
+ 
+
+00:05:08.800 --> 00:05:10.560 align:start position:0%
+by using appropriate vectorization to
+compute<00:05:09.160><c> the</c><00:05:09.220><c> derivative</c><00:05:09.639><c> terms</c><00:05:09.850><c> you</c><00:05:10.360><c> can</c>
+
+00:05:10.560 --> 00:05:10.570 align:start position:0%
+compute the derivative terms you can
+ 
+
+00:05:10.570 --> 00:05:12.960 align:start position:0%
+compute the derivative terms you can
+sometimes<00:05:11.050><c> partially</c><00:05:11.860><c> use</c><00:05:12.400><c> the</c><00:05:12.760><c> good</c>
+
+00:05:12.960 --> 00:05:12.970 align:start position:0%
+sometimes partially use the good
+ 
+
+00:05:12.970 --> 00:05:14.760 align:start position:0%
+sometimes partially use the good
+numerical<00:05:13.510><c> linear</c><00:05:13.660><c> algebra</c><00:05:13.810><c> libraries</c><00:05:14.500><c> to</c>
+
+00:05:14.760 --> 00:05:14.770 align:start position:0%
+numerical linear algebra libraries to
+ 
+
+00:05:14.770 --> 00:05:17.340 align:start position:0%
+numerical linear algebra libraries to
+parallelize<00:05:15.430><c> your</c><00:05:16.120><c> gradient</c><00:05:16.479><c> computations</c>
+
+00:05:17.340 --> 00:05:17.350 align:start position:0%
+parallelize your gradient computations
+ 
+
+00:05:17.350 --> 00:05:20.070 align:start position:0%
+parallelize your gradient computations
+over<00:05:17.680><c> the</c><00:05:17.770><c> B</c><00:05:18.010><c> examples</c><00:05:18.550><c> whereas</c><00:05:19.240><c> if</c><00:05:19.479><c> you</c><00:05:19.930><c> were</c>
+
+00:05:20.070 --> 00:05:20.080 align:start position:0%
+over the B examples whereas if you were
+ 
+
+00:05:20.080 --> 00:05:21.450 align:start position:0%
+over the B examples whereas if you were
+looking<00:05:20.200><c> at</c><00:05:20.470><c> just</c><00:05:20.650><c> a</c><00:05:20.710><c> single</c><00:05:20.860><c> example</c><00:05:21.370><c> the</c>
+
+00:05:21.450 --> 00:05:21.460 align:start position:0%
+looking at just a single example the
+ 
+
+00:05:21.460 --> 00:05:23.790 align:start position:0%
+looking at just a single example the
+time<00:05:21.729><c> with</c><00:05:22.030><c> stochastic</c><00:05:22.510><c> great</c><00:05:22.990><c> descent</c><00:05:23.320><c> then</c>
+
+00:05:23.790 --> 00:05:23.800 align:start position:0%
+time with stochastic great descent then
+ 
+
+00:05:23.800 --> 00:05:25.469 align:start position:0%
+time with stochastic great descent then
+you<00:05:24.039><c> know</c><00:05:24.160><c> looking</c><00:05:24.520><c> at</c><00:05:24.639><c> just</c><00:05:24.820><c> one</c><00:05:24.970><c> example</c><00:05:25.090><c> the</c>
+
+00:05:25.469 --> 00:05:25.479 align:start position:0%
+you know looking at just one example the
+ 
+
+00:05:25.479 --> 00:05:26.080 align:start position:0%
+you know looking at just one example the
+time<00:05:25.660><c> there</c>
+
+00:05:26.080 --> 00:05:26.090 align:start position:0%
+time there
+ 
+
+00:05:26.090 --> 00:05:28.240 align:start position:0%
+time there
+much<00:05:26.330><c> to</c><00:05:26.480><c> paralyse</c><00:05:26.930><c> over</c><00:05:27.350><c> Lisa's</c><00:05:27.830><c> left</c><00:05:28.100><c> to</c>
+
+00:05:28.240 --> 00:05:28.250 align:start position:0%
+much to paralyse over Lisa's left to
+ 
+
+00:05:28.250 --> 00:05:30.939 align:start position:0%
+much to paralyse over Lisa's left to
+paralyse<00:05:28.669><c> over</c><00:05:29.090><c> one</c><00:05:30.020><c> disadvantage</c><00:05:30.410><c> of</c>
+
+00:05:30.939 --> 00:05:30.949 align:start position:0%
+paralyse over one disadvantage of
+ 
+
+00:05:30.949 --> 00:05:32.680 align:start position:0%
+paralyse over one disadvantage of
+mini-batch<00:05:31.520><c> gradient</c><00:05:31.550><c> descent</c><00:05:32.300><c> is</c><00:05:32.449><c> that</c>
+
+00:05:32.680 --> 00:05:32.690 align:start position:0%
+mini-batch gradient descent is that
+ 
+
+00:05:32.690 --> 00:05:35.020 align:start position:0%
+mini-batch gradient descent is that
+there's<00:05:32.990><c> now</c><00:05:33.169><c> this</c><00:05:33.410><c> extra</c><00:05:33.800><c> parameter</c><00:05:34.490><c> V</c><00:05:34.760><c> the</c>
+
+00:05:35.020 --> 00:05:35.030 align:start position:0%
+there's now this extra parameter V the
+ 
+
+00:05:35.030 --> 00:05:36.850 align:start position:0%
+there's now this extra parameter V the
+mini<00:05:35.270><c> batch</c><00:05:35.540><c> size</c><00:05:35.870><c> which</c><00:05:36.290><c> you</c><00:05:36.440><c> may</c><00:05:36.560><c> have</c><00:05:36.590><c> the</c>
+
+00:05:36.850 --> 00:05:36.860 align:start position:0%
+mini batch size which you may have the
+ 
+
+00:05:36.860 --> 00:05:38.530 align:start position:0%
+mini batch size which you may have the
+federal<00:05:37.190><c> event</c><00:05:37.580><c> which</c><00:05:37.729><c> may</c><00:05:37.910><c> therefore</c><00:05:38.120><c> take</c>
+
+00:05:38.530 --> 00:05:38.540 align:start position:0%
+federal event which may therefore take
+ 
+
+00:05:38.540 --> 00:05:41.140 align:start position:0%
+federal event which may therefore take
+time<00:05:38.870><c> but</c><00:05:39.620><c> if</c><00:05:39.919><c> you</c><00:05:40.100><c> have</c><00:05:40.340><c> a</c><00:05:40.370><c> good</c><00:05:40.729><c> vectorized</c>
+
+00:05:41.140 --> 00:05:41.150 align:start position:0%
+time but if you have a good vectorized
+ 
+
+00:05:41.150 --> 00:05:43.060 align:start position:0%
+time but if you have a good vectorized
+implementation<00:05:41.870><c> this</c><00:05:42.050><c> can</c><00:05:42.290><c> sometimes</c><00:05:42.560><c> run</c>
+
+00:05:43.060 --> 00:05:43.070 align:start position:0%
+implementation this can sometimes run
+ 
+
+00:05:43.070 --> 00:05:45.010 align:start position:0%
+implementation this can sometimes run
+even<00:05:43.550><c> faster</c><00:05:43.729><c> than</c><00:05:44.150><c> stochastic</c><00:05:44.720><c> gradient</c>
+
+00:05:45.010 --> 00:05:45.020 align:start position:0%
+even faster than stochastic gradient
+ 
+
+00:05:45.020 --> 00:05:46.860 align:start position:0%
+even faster than stochastic gradient
+descent
+
+00:05:46.860 --> 00:05:46.870 align:start position:0%
+descent
+ 
+
+00:05:46.870 --> 00:05:49.680 align:start position:0%
+descent
+so<00:05:47.680><c> that</c><00:05:48.070><c> was</c><00:05:48.280><c> mini-batch</c><00:05:48.850><c> gradient</c><00:05:48.880><c> descent</c>
+
+00:05:49.680 --> 00:05:49.690 align:start position:0%
+so that was mini-batch gradient descent
+ 
+
+00:05:49.690 --> 00:05:51.750 align:start position:0%
+so that was mini-batch gradient descent
+which<00:05:49.990><c> is</c><00:05:50.230><c> an</c><00:05:50.410><c> algorithm</c><00:05:50.919><c> that</c><00:05:50.949><c> in</c><00:05:51.280><c> some</c><00:05:51.490><c> sense</c>
+
+00:05:51.750 --> 00:05:51.760 align:start position:0%
+which is an algorithm that in some sense
+ 
+
+00:05:51.760 --> 00:05:53.700 align:start position:0%
+which is an algorithm that in some sense
+does<00:05:52.389><c> something</c><00:05:52.870><c> the</c><00:05:53.169><c> somewhere</c><00:05:53.500><c> in</c><00:05:53.620><c> between</c>
+
+00:05:53.700 --> 00:05:53.710 align:start position:0%
+does something the somewhere in between
+ 
+
+00:05:53.710 --> 00:05:55.590 align:start position:0%
+does something the somewhere in between
+what's<00:05:54.250><c> the</c><00:05:54.430><c> constant</c><00:05:54.820><c> gradient</c><00:05:54.970><c> descent</c><00:05:55.419><c> us</c>
+
+00:05:55.590 --> 00:05:55.600 align:start position:0%
+what's the constant gradient descent us
+ 
+
+00:05:55.600 --> 00:05:57.930 align:start position:0%
+what's the constant gradient descent us
+and<00:05:55.900><c> what</c><00:05:56.320><c> batch</c><00:05:56.650><c> gradient</c><00:05:57.010><c> descent</c><00:05:57.250><c> us</c><00:05:57.699><c> and</c>
+
+00:05:57.930 --> 00:05:57.940 align:start position:0%
+and what batch gradient descent us and
+ 
+
+00:05:57.940 --> 00:06:00.450 align:start position:0%
+and what batch gradient descent us and
+if<00:05:58.540><c> you</c><00:05:58.750><c> choose</c><00:05:59.169><c> a</c><00:05:59.199><c> reason</c><00:05:59.740><c> without</c><00:06:00.010><c> your</c><00:06:00.220><c> B</c>
+
+00:06:00.450 --> 00:06:00.460 align:start position:0%
+if you choose a reason without your B
+ 
+
+00:06:00.460 --> 00:06:02.790 align:start position:0%
+if you choose a reason without your B
+I'll<00:06:01.000><c> usually</c><00:06:01.210><c> use</c><00:06:01.570><c> B</c><00:06:01.780><c> equals</c><00:06:02.080><c> 10</c><00:06:02.380><c> but</c><00:06:02.650><c> you</c>
+
+00:06:02.790 --> 00:06:02.800 align:start position:0%
+I'll usually use B equals 10 but you
+ 
+
+00:06:02.800 --> 00:06:05.670 align:start position:0%
+I'll usually use B equals 10 but you
+know<00:06:02.949><c> other</c><00:06:03.220><c> values</c><00:06:03.760><c> anywhere</c><00:06:04.510><c> from</c><00:06:04.690><c> stay</c><00:06:05.290><c> to</c>
+
+00:06:05.670 --> 00:06:05.680 align:start position:0%
+know other values anywhere from stay to
+ 
+
+00:06:05.680 --> 00:06:08.129 align:start position:0%
+know other values anywhere from stay to
+to<00:06:05.919><c> 100</c><00:06:06.370><c> would</c><00:06:06.550><c> be</c><00:06:06.580><c> reasonably</c><00:06:07.000><c> common</c><00:06:07.210><c> so</c><00:06:08.080><c> if</c>
+
+00:06:08.129 --> 00:06:08.139 align:start position:0%
+to 100 would be reasonably common so if
+ 
+
+00:06:08.139 --> 00:06:09.719 align:start position:0%
+to 100 would be reasonably common so if
+you<00:06:08.229><c> choose</c><00:06:08.410><c> a</c><00:06:08.470><c> good</c><00:06:08.650><c> value</c><00:06:08.949><c> of</c><00:06:09.040><c> B</c><00:06:09.220><c> and</c><00:06:09.550><c> then</c>
+
+00:06:09.719 --> 00:06:09.729 align:start position:0%
+you choose a good value of B and then
+ 
+
+00:06:09.729 --> 00:06:11.370 align:start position:0%
+you choose a good value of B and then
+you<00:06:09.820><c> use</c><00:06:10.000><c> a</c><00:06:10.030><c> good</c><00:06:10.270><c> vectorized</c><00:06:10.690><c> implementation</c>
+
+00:06:11.370 --> 00:06:11.380 align:start position:0%
+you use a good vectorized implementation
+ 
+
+00:06:11.380 --> 00:06:13.460 align:start position:0%
+you use a good vectorized implementation
+sometimes<00:06:12.100><c> it</c><00:06:12.250><c> can</c><00:06:12.340><c> be</c><00:06:12.370><c> faster</c><00:06:12.910><c> than</c><00:06:13.180><c> both</c>
+
+00:06:13.460 --> 00:06:13.470 align:start position:0%
+sometimes it can be faster than both
+ 
+
+00:06:13.470 --> 00:06:15.930 align:start position:0%
+sometimes it can be faster than both
+stochastic<00:06:14.470><c> gradient</c><00:06:14.560><c> descent</c><00:06:14.800><c> and</c><00:06:15.340><c> faster</c>
+
+00:06:15.930 --> 00:06:15.940 align:start position:0%
+stochastic gradient descent and faster
+ 
+
+00:06:15.940 --> 00:06:19.229 align:start position:0%
+stochastic gradient descent and faster
+than<00:06:16.240><c> batch</c><00:06:16.660><c> gradient</c><00:06:16.990><c> descent</c>
+

@@ -5,10 +5,10 @@ import sys
 """
 Downloads all subtitles from a playlist into the current directory.
 
-youtube-dl --ignore-errors --yes-playlist --write-auto-sub --skip-download <playlist_link>  
+youtube-dl --ignore-errors --yes-playlist --write-auto-sub --skip-download --output "%(id)s" 'https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN'  
 """
 def process_playlist(link):
-  ydl_opts = {"ignoreerrors": True, "writeautomaticsub": True, "skip_download": True}
+  ydl_opts = {"ignoreerrors": True, "writeautomaticsub": True, "skip_download": True, "outtmpl" : "%(id)s"}
   with youtube_dl.YoutubeDL(ydl_opts) as ydl:
       ydl.download([link])
 

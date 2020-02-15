@@ -1,0 +1,2640 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:02.119 align:start position:0%
+ 
+in<00:00:00.359><c> this</c><00:00:00.599><c> video</c><00:00:00.930><c> I'd</c><00:00:01.170><c> like</c><00:00:01.319><c> to</c><00:00:01.469><c> talk</c><00:00:01.620><c> about</c><00:00:01.680><c> a</c>
+
+00:00:02.119 --> 00:00:02.129 align:start position:0%
+in this video I'd like to talk about a
+ 
+
+00:00:02.129 --> 00:00:04.280 align:start position:0%
+in this video I'd like to talk about a
+new<00:00:02.429><c> large</c><00:00:02.820><c> scale</c><00:00:03.149><c> machine</c><00:00:03.360><c> learning</c><00:00:03.540><c> setting</c>
+
+00:00:04.280 --> 00:00:04.290 align:start position:0%
+new large scale machine learning setting
+ 
+
+00:00:04.290 --> 00:00:06.860 align:start position:0%
+new large scale machine learning setting
+called<00:00:04.589><c> the</c><00:00:04.740><c> online</c><00:00:05.250><c> learning</c><00:00:05.670><c> setting</c><00:00:05.910><c> the</c>
+
+00:00:06.860 --> 00:00:06.870 align:start position:0%
+called the online learning setting the
+ 
+
+00:00:06.870 --> 00:00:08.810 align:start position:0%
+called the online learning setting the
+online<00:00:07.200><c> learning</c><00:00:07.440><c> setting</c><00:00:07.919><c> allows</c><00:00:08.280><c> us</c><00:00:08.519><c> to</c>
+
+00:00:08.810 --> 00:00:08.820 align:start position:0%
+online learning setting allows us to
+ 
+
+00:00:08.820 --> 00:00:10.310 align:start position:0%
+online learning setting allows us to
+model<00:00:09.179><c> problems</c><00:00:09.719><c> where</c><00:00:09.990><c> we</c><00:00:10.019><c> have</c><00:00:10.139><c> a</c>
+
+00:00:10.310 --> 00:00:10.320 align:start position:0%
+model problems where we have a
+ 
+
+00:00:10.320 --> 00:00:12.830 align:start position:0%
+model problems where we have a
+continuous<00:00:10.980><c> flood</c><00:00:11.370><c> or</c><00:00:11.670><c> continuous</c><00:00:12.450><c> stream</c><00:00:12.809><c> of</c>
+
+00:00:12.830 --> 00:00:12.840 align:start position:0%
+continuous flood or continuous stream of
+ 
+
+00:00:12.840 --> 00:00:15.320 align:start position:0%
+continuous flood or continuous stream of
+data<00:00:13.080><c> coming</c><00:00:13.620><c> in</c><00:00:13.860><c> and</c><00:00:14.040><c> we</c><00:00:14.519><c> would</c><00:00:14.700><c> like</c><00:00:14.880><c> an</c>
+
+00:00:15.320 --> 00:00:15.330 align:start position:0%
+data coming in and we would like an
+ 
+
+00:00:15.330 --> 00:00:19.099 align:start position:0%
+data coming in and we would like an
+algorithm<00:00:15.839><c> to</c><00:00:16.049><c> learn</c><00:00:16.230><c> from</c><00:00:16.470><c> that</c><00:00:17.660><c> today</c><00:00:18.660><c> many</c>
+
+00:00:19.099 --> 00:00:19.109 align:start position:0%
+algorithm to learn from that today many
+ 
+
+00:00:19.109 --> 00:00:21.560 align:start position:0%
+algorithm to learn from that today many
+of<00:00:19.320><c> the</c><00:00:19.529><c> largest</c><00:00:20.160><c> websites</c><00:00:20.850><c> or</c><00:00:21.180><c> many</c><00:00:21.330><c> of</c><00:00:21.449><c> the</c>
+
+00:00:21.560 --> 00:00:21.570 align:start position:0%
+of the largest websites or many of the
+ 
+
+00:00:21.570 --> 00:00:23.689 align:start position:0%
+of the largest websites or many of the
+largest<00:00:22.020><c> website</c><00:00:22.500><c> companies</c><00:00:22.980><c> use</c><00:00:23.340><c> different</c>
+
+00:00:23.689 --> 00:00:23.699 align:start position:0%
+largest website companies use different
+ 
+
+00:00:23.699 --> 00:00:26.150 align:start position:0%
+largest website companies use different
+versions<00:00:23.939><c> of</c><00:00:24.480><c> online</c><00:00:25.260><c> learning</c><00:00:25.529><c> algorithms</c>
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+versions of online learning algorithms
+ 
+
+00:00:26.160 --> 00:00:28.220 align:start position:0%
+versions of online learning algorithms
+to<00:00:26.340><c> learn</c><00:00:26.849><c> from</c><00:00:27.180><c> the</c><00:00:27.330><c> flood</c><00:00:27.599><c> of</c><00:00:27.630><c> users</c><00:00:28.199><c> that</c>
+
+00:00:28.220 --> 00:00:28.230 align:start position:0%
+to learn from the flood of users that
+ 
+
+00:00:28.230 --> 00:00:30.519 align:start position:0%
+to learn from the flood of users that
+keep<00:00:28.650><c> on</c><00:00:28.830><c> coming</c><00:00:29.189><c> to</c><00:00:29.340><c> back</c><00:00:29.670><c> to</c><00:00:29.849><c> the</c><00:00:29.880><c> web</c><00:00:30.119><c> site</c>
+
+00:00:30.519 --> 00:00:30.529 align:start position:0%
+keep on coming to back to the web site
+ 
+
+00:00:30.529 --> 00:00:32.600 align:start position:0%
+keep on coming to back to the web site
+specifically<00:00:31.529><c> if</c><00:00:31.890><c> you</c><00:00:31.980><c> have</c><00:00:32.099><c> a</c><00:00:32.130><c> continuous</c>
+
+00:00:32.600 --> 00:00:32.610 align:start position:0%
+specifically if you have a continuous
+ 
+
+00:00:32.610 --> 00:00:35.510 align:start position:0%
+specifically if you have a continuous
+stream<00:00:33.090><c> of</c><00:00:33.149><c> data</c><00:00:33.800><c> generated</c><00:00:34.800><c> by</c><00:00:35.100><c> a</c><00:00:35.130><c> continuous</c>
+
+00:00:35.510 --> 00:00:35.520 align:start position:0%
+stream of data generated by a continuous
+ 
+
+00:00:35.520 --> 00:00:37.310 align:start position:0%
+stream of data generated by a continuous
+stream<00:00:35.940><c> of</c><00:00:36.059><c> users</c><00:00:36.480><c> coming</c><00:00:36.690><c> to</c><00:00:36.809><c> your</c><00:00:36.930><c> website</c>
+
+00:00:37.310 --> 00:00:37.320 align:start position:0%
+stream of users coming to your website
+ 
+
+00:00:37.320 --> 00:00:39.830 align:start position:0%
+stream of users coming to your website
+what<00:00:38.010><c> you</c><00:00:38.160><c> can</c><00:00:38.340><c> do</c><00:00:38.550><c> is</c><00:00:38.940><c> sometimes</c><00:00:39.239><c> use</c><00:00:39.660><c> an</c>
+
+00:00:39.830 --> 00:00:39.840 align:start position:0%
+what you can do is sometimes use an
+ 
+
+00:00:39.840 --> 00:00:42.619 align:start position:0%
+what you can do is sometimes use an
+online<00:00:40.079><c> learning</c><00:00:40.500><c> algorithm</c><00:00:40.950><c> to</c><00:00:41.640><c> learn</c><00:00:41.670><c> user</c>
+
+00:00:42.619 --> 00:00:42.629 align:start position:0%
+online learning algorithm to learn user
+ 
+
+00:00:42.629 --> 00:00:44.569 align:start position:0%
+online learning algorithm to learn user
+preferences<00:00:43.350><c> from</c><00:00:43.500><c> the</c><00:00:43.680><c> stream</c><00:00:43.920><c> of</c><00:00:44.070><c> data</c><00:00:44.190><c> and</c>
+
+00:00:44.569 --> 00:00:44.579 align:start position:0%
+preferences from the stream of data and
+ 
+
+00:00:44.579 --> 00:00:46.670 align:start position:0%
+preferences from the stream of data and
+use<00:00:45.090><c> that</c><00:00:45.300><c> to</c><00:00:45.629><c> optimize</c><00:00:45.780><c> some</c><00:00:46.500><c> of</c><00:00:46.590><c> the</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+use that to optimize some of the
+ 
+
+00:00:46.680 --> 00:00:52.100 align:start position:0%
+use that to optimize some of the
+decisions<00:00:47.160><c> on</c><00:00:47.430><c> your</c><00:00:47.579><c> website</c><00:00:50.930><c> suppose</c><00:00:51.930><c> you</c>
+
+00:00:52.100 --> 00:00:52.110 align:start position:0%
+decisions on your website suppose you
+ 
+
+00:00:52.110 --> 00:00:54.380 align:start position:0%
+decisions on your website suppose you
+run<00:00:52.289><c> a</c><00:00:52.350><c> shipping</c><00:00:52.860><c> service</c><00:00:53.340><c> so</c><00:00:53.670><c> you</c><00:00:53.699><c> know</c><00:00:53.969><c> users</c>
+
+00:00:54.380 --> 00:00:54.390 align:start position:0%
+run a shipping service so you know users
+ 
+
+00:00:54.390 --> 00:00:56.360 align:start position:0%
+run a shipping service so you know users
+come<00:00:54.690><c> and</c><00:00:54.840><c> ask</c><00:00:55.050><c> you</c><00:00:55.230><c> to</c><00:00:55.289><c> help</c><00:00:55.860><c> ship</c><00:00:56.160><c> their</c>
+
+00:00:56.360 --> 00:00:56.370 align:start position:0%
+come and ask you to help ship their
+ 
+
+00:00:56.370 --> 00:00:58.939 align:start position:0%
+come and ask you to help ship their
+packages<00:00:56.940><c> from</c><00:00:57.180><c> location</c><00:00:58.109><c> a</c><00:00:58.289><c> to</c><00:00:58.320><c> location</c><00:00:58.500><c> B</c>
+
+00:00:58.939 --> 00:00:58.949 align:start position:0%
+packages from location a to location B
+ 
+
+00:00:58.949 --> 00:01:01.340 align:start position:0%
+packages from location a to location B
+and<00:00:59.460><c> suppose</c><00:01:00.329><c> you've</c><00:01:00.570><c> run</c><00:01:00.690><c> a</c><00:01:00.719><c> website</c><00:01:00.930><c> where</c>
+
+00:01:01.340 --> 00:01:01.350 align:start position:0%
+and suppose you've run a website where
+ 
+
+00:01:01.350 --> 00:01:03.709 align:start position:0%
+and suppose you've run a website where
+users<00:01:01.770><c> repeat</c><00:01:02.219><c> to</c><00:01:02.340><c> become</c><00:01:02.699><c> and</c><00:01:02.969><c> they</c><00:01:03.180><c> tell</c><00:01:03.480><c> you</c>
+
+00:01:03.709 --> 00:01:03.719 align:start position:0%
+users repeat to become and they tell you
+ 
+
+00:01:03.719 --> 00:01:06.200 align:start position:0%
+users repeat to become and they tell you
+where<00:01:04.439><c> they</c><00:01:04.710><c> want</c><00:01:04.979><c> to</c><00:01:05.159><c> send</c><00:01:05.430><c> the</c><00:01:05.640><c> package</c><00:01:05.970><c> from</c>
+
+00:01:06.200 --> 00:01:06.210 align:start position:0%
+where they want to send the package from
+ 
+
+00:01:06.210 --> 00:01:07.850 align:start position:0%
+where they want to send the package from
+and<00:01:06.450><c> where</c><00:01:06.570><c> they</c><00:01:06.659><c> want</c><00:01:06.810><c> to</c><00:01:06.930><c> send</c><00:01:07.140><c> it</c><00:01:07.229><c> to</c><00:01:07.260><c> so</c><00:01:07.710><c> the</c>
+
+00:01:07.850 --> 00:01:07.860 align:start position:0%
+and where they want to send it to so the
+ 
+
+00:01:07.860 --> 00:01:10.240 align:start position:0%
+and where they want to send it to so the
+origin<00:01:08.310><c> and</c><00:01:08.460><c> destination</c><00:01:08.850><c> and</c><00:01:09.270><c> your</c><00:01:09.960><c> website</c>
+
+00:01:10.240 --> 00:01:10.250 align:start position:0%
+origin and destination and your website
+ 
+
+00:01:10.250 --> 00:01:12.560 align:start position:0%
+origin and destination and your website
+offers<00:01:11.250><c> to</c><00:01:11.490><c> ship</c><00:01:11.700><c> the</c><00:01:11.850><c> package</c><00:01:12.000><c> for</c><00:01:12.450><c> some</c>
+
+00:01:12.560 --> 00:01:12.570 align:start position:0%
+offers to ship the package for some
+ 
+
+00:01:12.570 --> 00:01:13.940 align:start position:0%
+offers to ship the package for some
+asking<00:01:12.960><c> pricing</c><00:01:13.350><c> as</c><00:01:13.439><c> well</c><00:01:13.470><c> share</c><00:01:13.799><c> your</c>
+
+00:01:13.940 --> 00:01:13.950 align:start position:0%
+asking pricing as well share your
+ 
+
+00:01:13.950 --> 00:01:16.190 align:start position:0%
+asking pricing as well share your
+package<00:01:14.220><c> for</c><00:01:14.400><c> $50</c><00:01:15.000><c> I'll</c><00:01:15.210><c> ship</c><00:01:15.360><c> it</c><00:01:15.450><c> with</c><00:01:15.600><c> $20</c>
+
+00:01:16.190 --> 00:01:16.200 align:start position:0%
+package for $50 I'll ship it with $20
+ 
+
+00:01:16.200 --> 00:01:19.010 align:start position:0%
+package for $50 I'll ship it with $20
+and<00:01:16.520><c> based</c><00:01:17.520><c> on</c><00:01:17.729><c> the</c><00:01:17.939><c> price</c><00:01:18.119><c> that</c><00:01:18.270><c> you</c><00:01:18.630><c> office</c>
+
+00:01:19.010 --> 00:01:19.020 align:start position:0%
+and based on the price that you office
+ 
+
+00:01:19.020 --> 00:01:21.440 align:start position:0%
+and based on the price that you office
+in<00:01:19.140><c> the</c><00:01:19.229><c> users</c><00:01:19.619><c> the</c><00:01:20.220><c> users</c><00:01:20.250><c> sometimes</c><00:01:20.850><c> choose</c>
+
+00:01:21.440 --> 00:01:21.450 align:start position:0%
+in the users the users sometimes choose
+ 
+
+00:01:21.450 --> 00:01:23.480 align:start position:0%
+in the users the users sometimes choose
+to<00:01:21.689><c> use</c><00:01:21.869><c> a</c><00:01:21.900><c> shipping</c><00:01:22.259><c> service</c><00:01:22.530><c> that's</c><00:01:23.280><c> a</c>
+
+00:01:23.480 --> 00:01:23.490 align:start position:0%
+to use a shipping service that's a
+ 
+
+00:01:23.490 --> 00:01:25.789 align:start position:0%
+to use a shipping service that's a
+positive<00:01:23.970><c> example</c><00:01:24.060><c> and</c><00:01:24.570><c> sometimes</c><00:01:25.439><c> they</c><00:01:25.650><c> go</c>
+
+00:01:25.789 --> 00:01:25.799 align:start position:0%
+positive example and sometimes they go
+ 
+
+00:01:25.799 --> 00:01:29.300 align:start position:0%
+positive example and sometimes they go
+away<00:01:25.920><c> and</c><00:01:26.070><c> they</c><00:01:26.549><c> do</c><00:01:26.610><c> not</c><00:01:27.000><c> choose</c><00:01:27.900><c> to</c><00:01:28.439><c> purchase</c>
+
+00:01:29.300 --> 00:01:29.310 align:start position:0%
+away and they do not choose to purchase
+ 
+
+00:01:29.310 --> 00:01:33.380 align:start position:0%
+away and they do not choose to purchase
+your<00:01:29.909><c> shipping</c><00:01:30.210><c> service</c><00:01:30.950><c> so</c><00:01:32.119><c> let's</c><00:01:33.119><c> say</c><00:01:33.360><c> that</c>
+
+00:01:33.380 --> 00:01:33.390 align:start position:0%
+your shipping service so let's say that
+ 
+
+00:01:33.390 --> 00:01:35.870 align:start position:0%
+your shipping service so let's say that
+we<00:01:33.900><c> want</c><00:01:34.140><c> a</c><00:01:34.290><c> learning</c><00:01:34.680><c> algorithm</c><00:01:34.950><c> to</c><00:01:35.400><c> help</c><00:01:35.670><c> us</c>
+
+00:01:35.870 --> 00:01:35.880 align:start position:0%
+we want a learning algorithm to help us
+ 
+
+00:01:35.880 --> 00:01:38.660 align:start position:0%
+we want a learning algorithm to help us
+to<00:01:36.210><c> optimize</c><00:01:36.450><c> one</c><00:01:37.350><c> of</c><00:01:37.439><c> the</c><00:01:37.560><c> asking</c><00:01:38.040><c> price</c><00:01:38.100><c> that</c>
+
+00:01:38.660 --> 00:01:38.670 align:start position:0%
+to optimize one of the asking price that
+ 
+
+00:01:38.670 --> 00:01:40.990 align:start position:0%
+to optimize one of the asking price that
+we<00:01:38.790><c> want</c><00:01:39.000><c> to</c><00:01:39.060><c> offer</c><00:01:39.150><c> to</c><00:01:39.659><c> our</c><00:01:39.689><c> users</c><00:01:40.170><c> and</c>
+
+00:01:40.990 --> 00:01:41.000 align:start position:0%
+we want to offer to our users and
+ 
+
+00:01:41.000 --> 00:01:43.280 align:start position:0%
+we want to offer to our users and
+specifically<00:01:42.000><c> let's</c><00:01:42.450><c> say</c><00:01:42.600><c> we</c><00:01:42.780><c> come</c><00:01:43.020><c> up</c><00:01:43.140><c> with</c>
+
+00:01:43.280 --> 00:01:43.290 align:start position:0%
+specifically let's say we come up with
+ 
+
+00:01:43.290 --> 00:01:44.870 align:start position:0%
+specifically let's say we come up with
+some<00:01:43.500><c> set</c><00:01:43.680><c> of</c><00:01:43.710><c> features</c><00:01:43.799><c> they</c><00:01:44.430><c> capture</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+some set of features they capture
+ 
+
+00:01:44.880 --> 00:01:46.429 align:start position:0%
+some set of features they capture
+properties<00:01:45.360><c> are</c><00:01:45.540><c> the</c><00:01:45.630><c> users</c><00:01:45.990><c> so</c><00:01:46.170><c> we</c><00:01:46.290><c> know</c>
+
+00:01:46.429 --> 00:01:46.439 align:start position:0%
+properties are the users so we know
+ 
+
+00:01:46.439 --> 00:01:48.350 align:start position:0%
+properties are the users so we know
+anything<00:01:46.680><c> about</c><00:01:46.979><c> the</c><00:01:47.130><c> demographics</c><00:01:47.729><c> they</c>
+
+00:01:48.350 --> 00:01:48.360 align:start position:0%
+anything about the demographics they
+ 
+
+00:01:48.360 --> 00:01:50.149 align:start position:0%
+anything about the demographics they
+capture<00:01:48.869><c> and</c><00:01:49.079><c> you</c><00:01:49.200><c> know</c><00:01:49.259><c> the</c><00:01:49.439><c> origin</c><00:01:50.040><c> and</c>
+
+00:01:50.149 --> 00:01:50.159 align:start position:0%
+capture and you know the origin and
+ 
+
+00:01:50.159 --> 00:01:51.980 align:start position:0%
+capture and you know the origin and
+destination<00:01:50.310><c> of</c><00:01:51.090><c> the</c><00:01:51.270><c> package</c><00:01:51.659><c> where</c><00:01:51.899><c> they</c>
+
+00:01:51.980 --> 00:01:51.990 align:start position:0%
+destination of the package where they
+ 
+
+00:01:51.990 --> 00:01:54.350 align:start position:0%
+destination of the package where they
+want<00:01:52.170><c> to</c><00:01:52.259><c> ship</c><00:01:52.439><c> the</c><00:01:52.680><c> package</c><00:01:52.829><c> and</c><00:01:53.280><c> what</c><00:01:54.090><c> is</c><00:01:54.240><c> the</c>
+
+00:01:54.350 --> 00:01:54.360 align:start position:0%
+want to ship the package and what is the
+ 
+
+00:01:54.360 --> 00:01:56.660 align:start position:0%
+want to ship the package and what is the
+price<00:01:54.630><c> that</c><00:01:54.659><c> we</c><00:01:55.290><c> offer</c><00:01:55.590><c> to</c><00:01:55.920><c> them</c><00:01:56.070><c> for</c><00:01:56.340><c> shipping</c>
+
+00:01:56.660 --> 00:01:56.670 align:start position:0%
+price that we offer to them for shipping
+ 
+
+00:01:56.670 --> 00:01:58.969 align:start position:0%
+price that we offer to them for shipping
+the<00:01:56.729><c> package</c><00:01:57.090><c> and</c><00:01:57.990><c> what</c><00:01:58.140><c> we</c><00:01:58.229><c> want</c><00:01:58.409><c> to</c><00:01:58.500><c> do</c><00:01:58.649><c> is</c>
+
+00:01:58.969 --> 00:01:58.979 align:start position:0%
+the package and what we want to do is
+ 
+
+00:01:58.979 --> 00:02:01.429 align:start position:0%
+the package and what we want to do is
+learn<00:01:59.250><c> what</c><00:01:59.670><c> is</c><00:01:59.790><c> the</c><00:01:59.939><c> probability</c><00:02:00.329><c> that</c><00:02:00.810><c> they</c>
+
+00:02:01.429 --> 00:02:01.439 align:start position:0%
+learn what is the probability that they
+ 
+
+00:02:01.439 --> 00:02:04.399 align:start position:0%
+learn what is the probability that they
+will<00:02:01.469><c> elect</c><00:02:02.009><c> to</c><00:02:02.670><c> ship</c><00:02:02.909><c> the</c><00:02:03.060><c> package</c><00:02:03.240><c> you</c><00:02:03.869><c> using</c>
+
+00:02:04.399 --> 00:02:04.409 align:start position:0%
+will elect to ship the package you using
+ 
+
+00:02:04.409 --> 00:02:06.410 align:start position:0%
+will elect to ship the package you using
+our<00:02:04.590><c> shipping</c><00:02:04.979><c> service</c><00:02:05.430><c> given</c><00:02:06.210><c> these</c>
+
+00:02:06.410 --> 00:02:06.420 align:start position:0%
+our shipping service given these
+ 
+
+00:02:06.420 --> 00:02:07.160 align:start position:0%
+our shipping service given these
+features
+
+00:02:07.160 --> 00:02:07.170 align:start position:0%
+features
+ 
+
+00:02:07.170 --> 00:02:09.020 align:start position:0%
+features
+and<00:02:07.260><c> again</c><00:02:07.590><c> just</c><00:02:07.860><c> as</c><00:02:07.950><c> a</c><00:02:07.979><c> reminder</c><00:02:08.069><c> these</c>
+
+00:02:09.020 --> 00:02:09.030 align:start position:0%
+and again just as a reminder these
+ 
+
+00:02:09.030 --> 00:02:12.230 align:start position:0%
+and again just as a reminder these
+features<00:02:09.479><c> X</c><00:02:09.720><c> also</c><00:02:10.289><c> captures</c><00:02:11.190><c> the</c><00:02:11.520><c> price</c><00:02:11.880><c> that</c>
+
+00:02:12.230 --> 00:02:12.240 align:start position:0%
+features X also captures the price that
+ 
+
+00:02:12.240 --> 00:02:15.020 align:start position:0%
+features X also captures the price that
+were<00:02:12.390><c> asking</c><00:02:12.810><c> for</c><00:02:12.870><c> and</c><00:02:13.319><c> so</c><00:02:14.220><c> if</c><00:02:14.580><c> we</c><00:02:14.760><c> could</c>
+
+00:02:15.020 --> 00:02:15.030 align:start position:0%
+were asking for and so if we could
+ 
+
+00:02:15.030 --> 00:02:17.000 align:start position:0%
+were asking for and so if we could
+estimate<00:02:15.300><c> the</c><00:02:15.870><c> chance</c><00:02:16.170><c> that</c><00:02:16.410><c> they'll</c><00:02:16.650><c> agree</c>
+
+00:02:17.000 --> 00:02:17.010 align:start position:0%
+estimate the chance that they'll agree
+ 
+
+00:02:17.010 --> 00:02:19.370 align:start position:0%
+estimate the chance that they'll agree
+to<00:02:17.190><c> I</c><00:02:17.220><c> use</c><00:02:17.880><c> our</c><00:02:18.060><c> service</c><00:02:18.510><c> for</c><00:02:18.540><c> any</c><00:02:18.840><c> given</c><00:02:19.170><c> price</c>
+
+00:02:19.370 --> 00:02:19.380 align:start position:0%
+to I use our service for any given price
+ 
+
+00:02:19.380 --> 00:02:21.710 align:start position:0%
+to I use our service for any given price
+then<00:02:19.770><c> we</c><00:02:19.950><c> can</c><00:02:20.130><c> you</c><00:02:20.670><c> know</c><00:02:20.760><c> try</c><00:02:21.030><c> to</c><00:02:21.060><c> pick</c><00:02:21.360><c> a</c><00:02:21.390><c> price</c>
+
+00:02:21.710 --> 00:02:21.720 align:start position:0%
+then we can you know try to pick a price
+ 
+
+00:02:21.720 --> 00:02:23.210 align:start position:0%
+then we can you know try to pick a price
+so<00:02:22.140><c> that</c><00:02:22.350><c> they</c><00:02:22.470><c> have</c><00:02:22.650><c> a</c><00:02:22.680><c> pretty</c><00:02:23.010><c> high</c>
+
+00:02:23.210 --> 00:02:23.220 align:start position:0%
+so that they have a pretty high
+ 
+
+00:02:23.220 --> 00:02:25.340 align:start position:0%
+so that they have a pretty high
+probability<00:02:23.459><c> of</c><00:02:23.940><c> choosing</c><00:02:24.510><c> our</c><00:02:24.870><c> website</c>
+
+00:02:25.340 --> 00:02:25.350 align:start position:0%
+probability of choosing our website
+ 
+
+00:02:25.350 --> 00:02:28.040 align:start position:0%
+probability of choosing our website
+while<00:02:25.920><c> simultaneously</c><00:02:26.330><c> hopefully</c><00:02:27.330><c> offering</c>
+
+00:02:28.040 --> 00:02:28.050 align:start position:0%
+while simultaneously hopefully offering
+ 
+
+00:02:28.050 --> 00:02:30.890 align:start position:0%
+while simultaneously hopefully offering
+us<00:02:28.200><c> a</c><00:02:28.230><c> fair</c><00:02:28.680><c> return</c><00:02:29.640><c> offering</c><00:02:30.420><c> us</c><00:02:30.540><c> a</c><00:02:30.570><c> fair</c>
+
+00:02:30.890 --> 00:02:30.900 align:start position:0%
+us a fair return offering us a fair
+ 
+
+00:02:30.900 --> 00:02:33.979 align:start position:0%
+us a fair return offering us a fair
+profit<00:02:31.260><c> for</c><00:02:31.980><c> shipping</c><00:02:32.340><c> their</c><00:02:32.520><c> package</c><00:02:32.910><c> so</c><00:02:33.900><c> we</c>
+
+00:02:33.979 --> 00:02:33.989 align:start position:0%
+profit for shipping their package so we
+ 
+
+00:02:33.989 --> 00:02:36.320 align:start position:0%
+profit for shipping their package so we
+can<00:02:34.140><c> learn</c><00:02:34.290><c> this</c><00:02:34.739><c> probably</c><00:02:35.430><c> of</c><00:02:35.550><c> y</c><00:02:35.700><c> equals</c><00:02:36.090><c> 1</c>
+
+00:02:36.320 --> 00:02:36.330 align:start position:0%
+can learn this probably of y equals 1
+ 
+
+00:02:36.330 --> 00:02:37.820 align:start position:0%
+can learn this probably of y equals 1
+given<00:02:36.360><c> any</c><00:02:36.959><c> price</c><00:02:37.170><c> and</c><00:02:37.410><c> given</c><00:02:37.620><c> the</c><00:02:37.709><c> other</c>
+
+00:02:37.820 --> 00:02:37.830 align:start position:0%
+given any price and given the other
+ 
+
+00:02:37.830 --> 00:02:39.710 align:start position:0%
+given any price and given the other
+features<00:02:38.220><c> we</c><00:02:38.459><c> can</c><00:02:38.489><c> really</c><00:02:38.790><c> use</c><00:02:39.060><c> this</c><00:02:39.300><c> to</c>
+
+00:02:39.710 --> 00:02:39.720 align:start position:0%
+features we can really use this to
+ 
+
+00:02:39.720 --> 00:02:42.320 align:start position:0%
+features we can really use this to
+choose<00:02:40.080><c> appropriate</c><00:02:40.410><c> prices</c><00:02:41.250><c> as</c><00:02:41.520><c> new</c><00:02:41.910><c> users</c>
+
+00:02:42.320 --> 00:02:42.330 align:start position:0%
+choose appropriate prices as new users
+ 
+
+00:02:42.330 --> 00:02:45.500 align:start position:0%
+choose appropriate prices as new users
+come<00:02:42.600><c> to</c><00:02:42.630><c> us</c><00:02:43.280><c> so</c><00:02:44.280><c> in</c><00:02:44.610><c> order</c><00:02:44.760><c> to</c><00:02:44.940><c> model</c><00:02:45.360><c> the</c>
+
+00:02:45.500 --> 00:02:45.510 align:start position:0%
+come to us so in order to model the
+ 
+
+00:02:45.510 --> 00:02:47.330 align:start position:0%
+come to us so in order to model the
+probability<00:02:45.690><c> of</c><00:02:45.930><c> y</c><00:02:46.050><c> equals</c><00:02:46.320><c> 1</c><00:02:46.530><c> what</c><00:02:46.950><c> we</c><00:02:47.040><c> can</c><00:02:47.160><c> do</c>
+
+00:02:47.330 --> 00:02:47.340 align:start position:0%
+probability of y equals 1 what we can do
+ 
+
+00:02:47.340 --> 00:02:50.990 align:start position:0%
+probability of y equals 1 what we can do
+is<00:02:47.640><c> use</c><00:02:48.410><c> logistic</c><00:02:49.410><c> regression</c><00:02:50.190><c> or</c><00:02:50.489><c> a</c><00:02:50.550><c> new</c><00:02:50.970><c> a</c>
+
+00:02:50.990 --> 00:02:51.000 align:start position:0%
+is use logistic regression or a new a
+ 
+
+00:02:51.000 --> 00:02:52.729 align:start position:0%
+is use logistic regression or a new a
+network<00:02:51.450><c> or</c><00:02:51.690><c> some</c><00:02:51.900><c> other</c><00:02:52.050><c> album</c><00:02:52.440><c> like</c><00:02:52.560><c> that</c>
+
+00:02:52.729 --> 00:02:52.739 align:start position:0%
+network or some other album like that
+ 
+
+00:02:52.739 --> 00:02:53.960 align:start position:0%
+network or some other album like that
+for<00:02:52.950><c> there</c><00:02:53.100><c> starts</c><00:02:53.430><c> with</c><00:02:53.550><c> logistic</c>
+
+00:02:53.960 --> 00:02:53.970 align:start position:0%
+for there starts with logistic
+ 
+
+00:02:53.970 --> 00:02:58.880 align:start position:0%
+for there starts with logistic
+regression<00:02:56.390><c> now</c><00:02:57.390><c> if</c><00:02:57.989><c> you</c><00:02:58.110><c> have</c><00:02:58.410><c> a</c><00:02:58.620><c> website</c>
+
+00:02:58.880 --> 00:02:58.890 align:start position:0%
+regression now if you have a website
+ 
+
+00:02:58.890 --> 00:03:02.060 align:start position:0%
+regression now if you have a website
+that<00:02:59.400><c> just</c><00:02:59.550><c> runs</c><00:02:59.820><c> continuously</c><00:03:00.470><c> here's</c><00:03:01.470><c> what</c>
+
+00:03:02.060 --> 00:03:02.070 align:start position:0%
+that just runs continuously here's what
+ 
+
+00:03:02.070 --> 00:03:04.610 align:start position:0%
+that just runs continuously here's what
+an<00:03:02.250><c> online</c><00:03:02.489><c> learning</c><00:03:03.000><c> outlet</c><00:03:03.450><c> will</c><00:03:03.630><c> do</c><00:03:03.840><c> I'm</c>
+
+00:03:04.610 --> 00:03:04.620 align:start position:0%
+an online learning outlet will do I'm
+ 
+
+00:03:04.620 --> 00:03:07.190 align:start position:0%
+an online learning outlet will do I'm
+gonna<00:03:04.830><c> repeat</c><00:03:05.430><c> forever</c><00:03:05.840><c> this</c><00:03:06.840><c> just</c><00:03:07.050><c> means</c>
+
+00:03:07.190 --> 00:03:07.200 align:start position:0%
+gonna repeat forever this just means
+ 
+
+00:03:07.200 --> 00:03:09.710 align:start position:0%
+gonna repeat forever this just means
+that<00:03:07.380><c> our</c><00:03:08.160><c> website</c><00:03:08.850><c> is</c><00:03:09.030><c> going</c><00:03:09.239><c> to</c><00:03:09.420><c> you</c><00:03:09.630><c> know</c>
+
+00:03:09.710 --> 00:03:09.720 align:start position:0%
+that our website is going to you know
+ 
+
+00:03:09.720 --> 00:03:12.710 align:start position:0%
+that our website is going to you know
+keep<00:03:10.019><c> on</c><00:03:10.140><c> staying</c><00:03:10.440><c> up</c><00:03:10.739><c> and</c><00:03:11.180><c> what</c><00:03:12.180><c> happens</c><00:03:12.570><c> on</c>
+
+00:03:12.710 --> 00:03:12.720 align:start position:0%
+keep on staying up and what happens on
+ 
+
+00:03:12.720 --> 00:03:15.650 align:start position:0%
+keep on staying up and what happens on
+the<00:03:12.810><c> website</c><00:03:13.200><c> is</c><00:03:13.500><c> occasionally</c><00:03:14.250><c> a</c><00:03:14.519><c> user</c><00:03:15.450><c> will</c>
+
+00:03:15.650 --> 00:03:15.660 align:start position:0%
+the website is occasionally a user will
+ 
+
+00:03:15.660 --> 00:03:18.500 align:start position:0%
+the website is occasionally a user will
+come<00:03:15.930><c> and</c><00:03:16.459><c> for</c><00:03:17.459><c> the</c><00:03:17.489><c> user</c><00:03:17.579><c> that</c><00:03:17.970><c> comes</c><00:03:18.180><c> we'll</c>
+
+00:03:18.500 --> 00:03:18.510 align:start position:0%
+come and for the user that comes we'll
+ 
+
+00:03:18.510 --> 00:03:24.350 align:start position:0%
+come and for the user that comes we'll
+get<00:03:18.690><c> some</c><00:03:18.900><c> XY</c><00:03:19.350><c> pair</c><00:03:19.940><c> right</c><00:03:20.940><c> corresponding</c><00:03:23.360><c> to</c>
+
+00:03:24.350 --> 00:03:24.360 align:start position:0%
+get some XY pair right corresponding to
+ 
+
+00:03:24.360 --> 00:03:27.920 align:start position:0%
+get some XY pair right corresponding to
+a<00:03:24.989><c> customer</c><00:03:25.739><c> or</c><00:03:25.769><c> to</c><00:03:26.100><c> a</c><00:03:26.130><c> user</c><00:03:26.459><c> on</c><00:03:27.360><c> the</c><00:03:27.540><c> website</c>
+
+00:03:27.920 --> 00:03:27.930 align:start position:0%
+a customer or to a user on the website
+ 
+
+00:03:27.930 --> 00:03:30.350 align:start position:0%
+a customer or to a user on the website
+so<00:03:28.799><c> the</c><00:03:28.920><c> features</c><00:03:29.220><c> X</c><00:03:29.430><c> are</c><00:03:29.700><c> you</c><00:03:30.150><c> know</c><00:03:30.209><c> the</c>
+
+00:03:30.350 --> 00:03:30.360 align:start position:0%
+so the features X are you know the
+ 
+
+00:03:30.360 --> 00:03:32.270 align:start position:0%
+so the features X are you know the
+origin<00:03:30.810><c> and</c><00:03:30.959><c> destination</c><00:03:31.079><c> specified</c><00:03:32.070><c> by</c><00:03:32.220><c> this</c>
+
+00:03:32.270 --> 00:03:32.280 align:start position:0%
+origin and destination specified by this
+ 
+
+00:03:32.280 --> 00:03:33.890 align:start position:0%
+origin and destination specified by this
+user<00:03:32.549><c> and</c><00:03:32.910><c> the</c><00:03:33.030><c> price</c><00:03:33.239><c> that</c><00:03:33.420><c> we</c><00:03:33.510><c> happen</c><00:03:33.870><c> to</c>
+
+00:03:33.890 --> 00:03:33.900 align:start position:0%
+user and the price that we happen to
+ 
+
+00:03:33.900 --> 00:03:36.800 align:start position:0%
+user and the price that we happen to
+offer<00:03:34.350><c> to</c><00:03:34.620><c> them</c><00:03:34.769><c> this</c><00:03:35.040><c> time</c><00:03:35.310><c> rel</c><00:03:35.549><c> and</c><00:03:35.730><c> Y</c><00:03:36.480><c> is</c>
+
+00:03:36.800 --> 00:03:36.810 align:start position:0%
+offer to them this time rel and Y is
+ 
+
+00:03:36.810 --> 00:03:38.750 align:start position:0%
+offer to them this time rel and Y is
+either<00:03:36.989><c> 1</c><00:03:37.290><c> or</c><00:03:37.320><c> 0</c><00:03:37.530><c> depending</c><00:03:38.250><c> on</c><00:03:38.370><c> whether</c><00:03:38.579><c> or</c>
+
+00:03:38.750 --> 00:03:38.760 align:start position:0%
+either 1 or 0 depending on whether or
+ 
+
+00:03:38.760 --> 00:03:41.330 align:start position:0%
+either 1 or 0 depending on whether or
+not<00:03:38.820><c> they</c><00:03:39.660><c> chose</c><00:03:40.410><c> to</c><00:03:40.440><c> use</c><00:03:40.680><c> our</c><00:03:41.100><c> shipping</c>
+
+00:03:41.330 --> 00:03:41.340 align:start position:0%
+not they chose to use our shipping
+ 
+
+00:03:41.340 --> 00:03:44.750 align:start position:0%
+not they chose to use our shipping
+service<00:03:42.200><c> now</c><00:03:43.200><c> once</c><00:03:43.470><c> we</c><00:03:43.620><c> get</c><00:03:43.799><c> this</c><00:03:44.010><c> XY</c><00:03:44.459><c> pair</c>
+
+00:03:44.750 --> 00:03:44.760 align:start position:0%
+service now once we get this XY pair
+ 
+
+00:03:44.760 --> 00:03:46.850 align:start position:0%
+service now once we get this XY pair
+what<00:03:45.360><c> an</c><00:03:45.540><c> online</c><00:03:45.959><c> learning</c><00:03:46.200><c> algorithm</c><00:03:46.500><c> does</c>
+
+00:03:46.850 --> 00:03:46.860 align:start position:0%
+what an online learning algorithm does
+ 
+
+00:03:46.860 --> 00:03:50.380 align:start position:0%
+what an online learning algorithm does
+is<00:03:47.280><c> then</c><00:03:47.760><c> update</c><00:03:48.630><c> the</c><00:03:49.049><c> parameters</c><00:03:49.290><c> theta</c>
+
+00:03:50.380 --> 00:03:50.390 align:start position:0%
+is then update the parameters theta
+ 
+
+00:03:50.390 --> 00:03:56.390 align:start position:0%
+is then update the parameters theta
+using<00:03:51.590><c> just</c><00:03:52.590><c> this</c><00:03:52.860><c> example</c><00:03:53.430><c> X</c><00:03:54.060><c> comma</c><00:03:54.840><c> Y</c><00:03:55.140><c> and</c><00:03:55.620><c> in</c>
+
+00:03:56.390 --> 00:03:56.400 align:start position:0%
+using just this example X comma Y and in
+ 
+
+00:03:56.400 --> 00:03:58.850 align:start position:0%
+using just this example X comma Y and in
+particular<00:03:56.579><c> we</c><00:03:57.150><c> will</c><00:03:57.269><c> update</c><00:03:57.510><c> my</c><00:03:57.989><c> parameters</c>
+
+00:03:58.850 --> 00:03:58.860 align:start position:0%
+particular we will update my parameters
+ 
+
+00:03:58.860 --> 00:04:02.569 align:start position:0%
+particular we will update my parameters
+theta<00:03:58.890><c> as</c><00:03:59.579><c> theta</c><00:03:59.640><c> J</c><00:04:00.150><c> gets</c><00:04:00.480><c> updated</c><00:04:00.900><c> as</c><00:04:01.200><c> theta</c><00:04:01.579><c> J</c>
+
+00:04:02.569 --> 00:04:02.579 align:start position:0%
+theta as theta J gets updated as theta J
+ 
+
+00:04:02.579 --> 00:04:06.229 align:start position:0%
+theta as theta J gets updated as theta J
+minus<00:04:02.959><c> the</c><00:04:03.959><c> learning</c><00:04:04.260><c> rate</c><00:04:04.410><c> alpha</c><00:04:04.850><c> times</c><00:04:05.850><c> my</c>
+
+00:04:06.229 --> 00:04:06.239 align:start position:0%
+minus the learning rate alpha times my
+ 
+
+00:04:06.239 --> 00:04:11.449 align:start position:0%
+minus the learning rate alpha times my
+usual<00:04:07.760><c> Radian</c><00:04:09.230><c> descent</c><00:04:10.230><c> rule</c><00:04:10.530><c> for</c><00:04:10.980><c> logistic</c>
+
+00:04:11.449 --> 00:04:11.459 align:start position:0%
+usual Radian descent rule for logistic
+ 
+
+00:04:11.459 --> 00:04:14.230 align:start position:0%
+usual Radian descent rule for logistic
+regression<00:04:11.489><c> so</c><00:04:12.209><c> we</c><00:04:12.329><c> do</c><00:04:12.450><c> this</c><00:04:12.600><c> for</c><00:04:12.810><c> J</c><00:04:12.930><c> equals</c><00:04:13.260><c> 0</c>
+
+00:04:14.230 --> 00:04:14.240 align:start position:0%
+regression so we do this for J equals 0
+ 
+
+00:04:14.240 --> 00:04:17.850 align:start position:0%
+regression so we do this for J equals 0
+up<00:04:14.450><c> to</c><00:04:14.630><c> n</c><00:04:14.780><c> and</c><00:04:15.610><c> that's</c><00:04:16.610><c> my</c><00:04:16.820><c> close</c><00:04:17.060><c> curly</c><00:04:17.360><c> brace</c>
+
+00:04:17.850 --> 00:04:17.860 align:start position:0%
+up to n and that's my close curly brace
+ 
+
+00:04:17.860 --> 00:04:20.410 align:start position:0%
+up to n and that's my close curly brace
+so<00:04:18.860><c> for</c><00:04:19.280><c> other</c><00:04:19.340><c> learning</c><00:04:19.640><c> algorithms</c><00:04:20.180><c> instead</c>
+
+00:04:20.410 --> 00:04:20.420 align:start position:0%
+so for other learning algorithms instead
+ 
+
+00:04:20.420 --> 00:04:22.480 align:start position:0%
+so for other learning algorithms instead
+of<00:04:20.600><c> writing</c><00:04:20.750><c> XY</c><00:04:21.290><c> right</c><00:04:21.590><c> I</c><00:04:21.620><c> was</c><00:04:21.860><c> writing</c><00:04:22.070><c> things</c>
+
+00:04:22.480 --> 00:04:22.490 align:start position:0%
+of writing XY right I was writing things
+ 
+
+00:04:22.490 --> 00:04:26.080 align:start position:0%
+of writing XY right I was writing things
+that<00:04:22.550><c> X</c><00:04:22.880><c> I</c><00:04:23.120><c> comma</c><00:04:24.050><c> Y</c><00:04:24.350><c> I</c><00:04:24.460><c> but</c><00:04:25.460><c> in</c><00:04:25.640><c> this</c><00:04:25.760><c> online</c>
+
+00:04:26.080 --> 00:04:26.090 align:start position:0%
+that X I comma Y I but in this online
+ 
+
+00:04:26.090 --> 00:04:27.610 align:start position:0%
+that X I comma Y I but in this online
+learning<00:04:26.300><c> setting</c><00:04:27.170><c> we're</c><00:04:27.410><c> actually</c>
+
+00:04:27.610 --> 00:04:27.620 align:start position:0%
+learning setting we're actually
+ 
+
+00:04:27.620 --> 00:04:29.890 align:start position:0%
+learning setting we're actually
+discarding<00:04:28.550><c> the</c><00:04:28.700><c> notion</c><00:04:29.150><c> of</c><00:04:29.180><c> there</c><00:04:29.510><c> being</c><00:04:29.750><c> a</c>
+
+00:04:29.890 --> 00:04:29.900 align:start position:0%
+discarding the notion of there being a
+ 
+
+00:04:29.900 --> 00:04:31.750 align:start position:0%
+discarding the notion of there being a
+fixed<00:04:30.230><c> training</c><00:04:30.440><c> set</c><00:04:30.620><c> instead</c><00:04:31.280><c> we</c><00:04:31.460><c> have</c><00:04:31.640><c> an</c>
+
+00:04:31.750 --> 00:04:31.760 align:start position:0%
+fixed training set instead we have an
+ 
+
+00:04:31.760 --> 00:04:34.540 align:start position:0%
+fixed training set instead we have an
+algorithm<00:04:31.970><c> and</c><00:04:32.810><c> what</c><00:04:32.930><c> happens</c><00:04:33.320><c> as</c><00:04:33.560><c> we</c><00:04:33.590><c> get</c><00:04:34.370><c> an</c>
+
+00:04:34.540 --> 00:04:34.550 align:start position:0%
+algorithm and what happens as we get an
+ 
+
+00:04:34.550 --> 00:04:36.940 align:start position:0%
+algorithm and what happens as we get an
+example<00:04:34.880><c> and</c><00:04:35.330><c> then</c><00:04:36.020><c> we</c><00:04:36.170><c> learn</c><00:04:36.410><c> using</c><00:04:36.650><c> that</c>
+
+00:04:36.940 --> 00:04:36.950 align:start position:0%
+example and then we learn using that
+ 
+
+00:04:36.950 --> 00:04:39.850 align:start position:0%
+example and then we learn using that
+example<00:04:37.490><c> like</c><00:04:37.880><c> so</c><00:04:38.090><c> and</c><00:04:38.390><c> then</c><00:04:39.110><c> we</c><00:04:39.290><c> throw</c><00:04:39.590><c> that</c>
+
+00:04:39.850 --> 00:04:39.860 align:start position:0%
+example like so and then we throw that
+ 
+
+00:04:39.860 --> 00:04:41.770 align:start position:0%
+example like so and then we throw that
+example<00:04:40.370><c> away</c><00:04:40.580><c> we</c><00:04:40.790><c> discount</c><00:04:41.270><c> that</c><00:04:41.450><c> example</c>
+
+00:04:41.770 --> 00:04:41.780 align:start position:0%
+example away we discount that example
+ 
+
+00:04:41.780 --> 00:04:44.500 align:start position:0%
+example away we discount that example
+and<00:04:42.170><c> we</c><00:04:42.290><c> never</c><00:04:42.470><c> use</c><00:04:42.740><c> it</c><00:04:42.890><c> again</c><00:04:43.010><c> and</c><00:04:43.430><c> so</c><00:04:44.270><c> that's</c>
+
+00:04:44.500 --> 00:04:44.510 align:start position:0%
+and we never use it again and so that's
+ 
+
+00:04:44.510 --> 00:04:46.120 align:start position:0%
+and we never use it again and so that's
+why<00:04:44.690><c> we</c><00:04:44.870><c> just</c><00:04:45.020><c> look</c><00:04:45.230><c> at</c><00:04:45.380><c> one</c><00:04:45.560><c> example</c><00:04:45.710><c> at</c><00:04:46.070><c> a</c>
+
+00:04:46.120 --> 00:04:46.130 align:start position:0%
+why we just look at one example at a
+ 
+
+00:04:46.130 --> 00:04:46.390 align:start position:0%
+why we just look at one example at a
+time
+
+00:04:46.390 --> 00:04:46.400 align:start position:0%
+time
+ 
+
+00:04:46.400 --> 00:04:48.310 align:start position:0%
+time
+and<00:04:46.640><c> we</c><00:04:46.790><c> learn</c><00:04:47.390><c> from</c><00:04:47.540><c> that</c><00:04:47.750><c> example</c><00:04:47.870><c> we</c>
+
+00:04:48.310 --> 00:04:48.320 align:start position:0%
+and we learn from that example we
+ 
+
+00:04:48.320 --> 00:04:50.560 align:start position:0%
+and we learn from that example we
+discard<00:04:48.860><c> it</c><00:04:49.070><c> which</c><00:04:49.490><c> is</c><00:04:49.640><c> why</c><00:04:49.820><c> you</c><00:04:50.300><c> know</c><00:04:50.390><c> we're</c>
+
+00:04:50.560 --> 00:04:50.570 align:start position:0%
+discard it which is why you know we're
+ 
+
+00:04:50.570 --> 00:04:52.750 align:start position:0%
+discard it which is why you know we're
+also<00:04:50.750><c> doing</c><00:04:51.350><c> away</c><00:04:51.500><c> with</c><00:04:51.920><c> this</c><00:04:52.070><c> notion</c><00:04:52.340><c> of</c>
+
+00:04:52.750 --> 00:04:52.760 align:start position:0%
+also doing away with this notion of
+ 
+
+00:04:52.760 --> 00:04:54.790 align:start position:0%
+also doing away with this notion of
+there<00:04:53.030><c> being</c><00:04:53.060><c> this</c><00:04:53.900><c> sort</c><00:04:54.080><c> of</c><00:04:54.200><c> fixed</c><00:04:54.260><c> training</c>
+
+00:04:54.790 --> 00:04:54.800 align:start position:0%
+there being this sort of fixed training
+ 
+
+00:04:54.800 --> 00:04:58.660 align:start position:0%
+there being this sort of fixed training
+set<00:04:54.980><c> index</c><00:04:55.670><c> by</c><00:04:55.910><c> eye</c><00:04:55.940><c> and</c><00:04:56.650><c> if</c><00:04:57.650><c> you</c><00:04:57.800><c> really</c><00:04:58.340><c> want</c>
+
+00:04:58.660 --> 00:04:58.670 align:start position:0%
+set index by eye and if you really want
+ 
+
+00:04:58.670 --> 00:05:01.180 align:start position:0%
+set index by eye and if you really want
+run<00:04:58.910><c> a</c><00:04:59.210><c> major</c><00:04:59.510><c> website</c><00:05:00.200><c> what</c><00:05:00.470><c> you</c><00:05:00.500><c> really</c><00:05:00.890><c> have</c>
+
+00:05:01.180 --> 00:05:01.190 align:start position:0%
+run a major website what you really have
+ 
+
+00:05:01.190 --> 00:05:04.600 align:start position:0%
+run a major website what you really have
+a<00:05:01.570><c> continuous</c><00:05:02.570><c> stream</c><00:05:02.990><c> of</c><00:05:03.050><c> users</c><00:05:03.620><c> coming</c><00:05:03.890><c> then</c>
+
+00:05:04.600 --> 00:05:04.610 align:start position:0%
+a continuous stream of users coming then
+ 
+
+00:05:04.610 --> 00:05:06.490 align:start position:0%
+a continuous stream of users coming then
+this<00:05:04.970><c> sort</c><00:05:05.150><c> of</c><00:05:05.240><c> online</c><00:05:05.480><c> learning</c><00:05:06.050><c> algorithm</c>
+
+00:05:06.490 --> 00:05:06.500 align:start position:0%
+this sort of online learning algorithm
+ 
+
+00:05:06.500 --> 00:05:07.990 align:start position:0%
+this sort of online learning algorithm
+is<00:05:06.920><c> actually</c><00:05:07.160><c> a</c><00:05:07.430><c> pretty</c><00:05:07.910><c> reasonable</c>
+
+00:05:07.990 --> 00:05:08.000 align:start position:0%
+is actually a pretty reasonable
+ 
+
+00:05:08.000 --> 00:05:11.260 align:start position:0%
+is actually a pretty reasonable
+algorithm<00:05:09.130><c> because</c><00:05:10.130><c> of</c><00:05:10.340><c> data</c><00:05:10.580><c> is</c><00:05:10.850><c> essentially</c>
+
+00:05:11.260 --> 00:05:11.270 align:start position:0%
+algorithm because of data is essentially
+ 
+
+00:05:11.270 --> 00:05:14.140 align:start position:0%
+algorithm because of data is essentially
+free<00:05:11.690><c> if</c><00:05:11.990><c> you</c><00:05:12.080><c> have</c><00:05:12.110><c> so</c><00:05:12.410><c> much</c><00:05:12.590><c> data</c><00:05:12.970><c> that</c><00:05:13.970><c> data</c>
+
+00:05:14.140 --> 00:05:14.150 align:start position:0%
+free if you have so much data that data
+ 
+
+00:05:14.150 --> 00:05:16.090 align:start position:0%
+free if you have so much data that data
+is<00:05:14.480><c> essentially</c><00:05:14.840><c> unlimited</c><00:05:15.080><c> then</c><00:05:15.740><c> there's</c>
+
+00:05:16.090 --> 00:05:16.100 align:start position:0%
+is essentially unlimited then there's
+ 
+
+00:05:16.100 --> 00:05:18.400 align:start position:0%
+is essentially unlimited then there's
+really<00:05:16.430><c> maybe</c><00:05:16.790><c> no</c><00:05:17.090><c> need</c><00:05:17.360><c> to</c><00:05:17.570><c> look</c><00:05:17.720><c> at</c><00:05:17.990><c> a</c>
+
+00:05:18.400 --> 00:05:18.410 align:start position:0%
+really maybe no need to look at a
+ 
+
+00:05:18.410 --> 00:05:20.290 align:start position:0%
+really maybe no need to look at a
+training<00:05:18.890><c> example</c><00:05:19.040><c> more</c><00:05:19.550><c> than</c><00:05:19.760><c> once</c><00:05:20.000><c> of</c>
+
+00:05:20.290 --> 00:05:20.300 align:start position:0%
+training example more than once of
+ 
+
+00:05:20.300 --> 00:05:22.840 align:start position:0%
+training example more than once of
+course<00:05:20.780><c> if</c><00:05:21.200><c> you</c><00:05:21.260><c> had</c><00:05:21.470><c> only</c><00:05:21.980><c> a</c><00:05:22.130><c> small</c><00:05:22.490><c> number</c><00:05:22.700><c> of</c>
+
+00:05:22.840 --> 00:05:22.850 align:start position:0%
+course if you had only a small number of
+ 
+
+00:05:22.850 --> 00:05:25.120 align:start position:0%
+course if you had only a small number of
+users<00:05:23.300><c> then</c><00:05:23.840><c> rather</c><00:05:24.140><c> than</c><00:05:24.470><c> using</c><00:05:24.830><c> an</c><00:05:24.920><c> online</c>
+
+00:05:25.120 --> 00:05:25.130 align:start position:0%
+users then rather than using an online
+ 
+
+00:05:25.130 --> 00:05:27.010 align:start position:0%
+users then rather than using an online
+learning<00:05:25.520><c> algorithm</c><00:05:25.880><c> itthis</c><00:05:26.210><c> you</c><00:05:26.720><c> might</c><00:05:26.900><c> be</c>
+
+00:05:27.010 --> 00:05:27.020 align:start position:0%
+learning algorithm itthis you might be
+ 
+
+00:05:27.020 --> 00:05:29.380 align:start position:0%
+learning algorithm itthis you might be
+better<00:05:27.230><c> off</c><00:05:27.560><c> saving</c><00:05:28.070><c> away</c><00:05:28.490><c> all</c><00:05:28.730><c> your</c><00:05:28.910><c> data</c><00:05:29.120><c> and</c>
+
+00:05:29.380 --> 00:05:29.390 align:start position:0%
+better off saving away all your data and
+ 
+
+00:05:29.390 --> 00:05:31.390 align:start position:0%
+better off saving away all your data and
+the<00:05:29.450><c> fixed</c><00:05:29.750><c> training</c><00:05:29.930><c> set</c><00:05:30.110><c> and</c><00:05:30.470><c> then</c><00:05:31.130><c> running</c>
+
+00:05:31.390 --> 00:05:31.400 align:start position:0%
+the fixed training set and then running
+ 
+
+00:05:31.400 --> 00:05:32.920 align:start position:0%
+the fixed training set and then running
+some<00:05:31.730><c> algorithm</c><00:05:32.120><c> over</c><00:05:32.300><c> that</c><00:05:32.420><c> training</c><00:05:32.750><c> set</c>
+
+00:05:32.920 --> 00:05:32.930 align:start position:0%
+some algorithm over that training set
+ 
+
+00:05:32.930 --> 00:05:34.240 align:start position:0%
+some algorithm over that training set
+but<00:05:33.110><c> if</c><00:05:33.290><c> you</c><00:05:33.380><c> really</c><00:05:33.620><c> have</c><00:05:33.770><c> a</c><00:05:33.800><c> continuous</c>
+
+00:05:34.240 --> 00:05:34.250 align:start position:0%
+but if you really have a continuous
+ 
+
+00:05:34.250 --> 00:05:36.520 align:start position:0%
+but if you really have a continuous
+stream<00:05:34.430><c> of</c><00:05:34.550><c> data</c><00:05:34.610><c> then</c><00:05:35.540><c> an</c><00:05:35.930><c> online</c><00:05:36.320><c> learning</c>
+
+00:05:36.520 --> 00:05:36.530 align:start position:0%
+stream of data then an online learning
+ 
+
+00:05:36.530 --> 00:05:39.550 align:start position:0%
+stream of data then an online learning
+algorithm<00:05:37.100><c> can</c><00:05:37.130><c> be</c><00:05:37.460><c> very</c><00:05:37.670><c> effective</c><00:05:37.970><c> I</c><00:05:38.560><c> should</c>
+
+00:05:39.550 --> 00:05:39.560 align:start position:0%
+algorithm can be very effective I should
+ 
+
+00:05:39.560 --> 00:05:41.560 align:start position:0%
+algorithm can be very effective I should
+mention<00:05:39.680><c> also</c><00:05:39.950><c> that</c><00:05:40.220><c> one</c><00:05:40.700><c> interesting</c><00:05:41.210><c> effect</c>
+
+00:05:41.560 --> 00:05:41.570 align:start position:0%
+mention also that one interesting effect
+ 
+
+00:05:41.570 --> 00:05:42.940 align:start position:0%
+mention also that one interesting effect
+of<00:05:41.810><c> this</c><00:05:42.020><c> sort</c><00:05:42.260><c> of</c><00:05:42.290><c> online</c><00:05:42.560><c> learning</c>
+
+00:05:42.940 --> 00:05:42.950 align:start position:0%
+of this sort of online learning
+ 
+
+00:05:42.950 --> 00:05:46.500 align:start position:0%
+of this sort of online learning
+algorithm<00:05:43.610><c> is</c><00:05:43.760><c> that</c><00:05:44.120><c> it</c><00:05:44.450><c> can</c><00:05:44.810><c> adapt</c><00:05:45.290><c> to</c>
+
+00:05:46.500 --> 00:05:46.510 align:start position:0%
+algorithm is that it can adapt to
+ 
+
+00:05:46.510 --> 00:05:51.790 align:start position:0%
+algorithm is that it can adapt to
+changing<00:05:47.510><c> user</c><00:05:47.720><c> preferences</c><00:05:48.940><c> and</c><00:05:50.800><c> in</c>
+
+00:05:51.790 --> 00:05:51.800 align:start position:0%
+changing user preferences and in
+ 
+
+00:05:51.800 --> 00:05:54.430 align:start position:0%
+changing user preferences and in
+particular<00:05:52.100><c> if</c><00:05:52.850><c> over</c><00:05:53.660><c> time</c><00:05:53.690><c> because</c><00:05:54.410><c> of</c>
+
+00:05:54.430 --> 00:05:54.440 align:start position:0%
+particular if over time because of
+ 
+
+00:05:54.440 --> 00:05:58.090 align:start position:0%
+particular if over time because of
+changes<00:05:55.100><c> in</c><00:05:55.370><c> the</c><00:05:55.670><c> economy</c><00:05:55.960><c> maybe</c><00:05:56.960><c> users</c><00:05:57.440><c> start</c>
+
+00:05:58.090 --> 00:05:58.100 align:start position:0%
+changes in the economy maybe users start
+ 
+
+00:05:58.100 --> 00:06:00.130 align:start position:0%
+changes in the economy maybe users start
+to<00:05:58.370><c> become</c><00:05:58.640><c> more</c><00:05:59.060><c> price</c><00:05:59.360><c> sensitive</c><00:05:59.870><c> and</c>
+
+00:06:00.130 --> 00:06:00.140 align:start position:0%
+to become more price sensitive and
+ 
+
+00:06:00.140 --> 00:06:01.960 align:start position:0%
+to become more price sensitive and
+willing<00:06:00.380><c> to</c><00:06:00.410><c> pay</c><00:06:00.710><c> you</c><00:06:01.070><c> less</c><00:06:01.370><c> willing</c><00:06:01.730><c> to</c><00:06:01.820><c> pay</c>
+
+00:06:01.960 --> 00:06:01.970 align:start position:0%
+willing to pay you less willing to pay
+ 
+
+00:06:01.970 --> 00:06:03.610 align:start position:0%
+willing to pay you less willing to pay
+high<00:06:02.150><c> prices</c><00:06:02.180><c> or</c><00:06:02.840><c> do</c><00:06:02.960><c> come</c><00:06:03.200><c> less</c><00:06:03.380><c> price</c>
+
+00:06:03.610 --> 00:06:03.620 align:start position:0%
+high prices or do come less price
+ 
+
+00:06:03.620 --> 00:06:05.110 align:start position:0%
+high prices or do come less price
+sensitive<00:06:03.650><c> and</c><00:06:04.310><c> they're</c><00:06:04.640><c> willing</c><00:06:04.850><c> to</c><00:06:04.910><c> pay</c>
+
+00:06:05.110 --> 00:06:05.120 align:start position:0%
+sensitive and they're willing to pay
+ 
+
+00:06:05.120 --> 00:06:07.900 align:start position:0%
+sensitive and they're willing to pay
+higher<00:06:05.330><c> prices</c><00:06:05.810><c> or</c><00:06:06.080><c> if</c><00:06:06.640><c> different</c><00:06:07.640><c> things</c>
+
+00:06:07.900 --> 00:06:07.910 align:start position:0%
+higher prices or if different things
+ 
+
+00:06:07.910 --> 00:06:09.850 align:start position:0%
+higher prices or if different things
+become<00:06:08.420><c> more</c><00:06:08.600><c> important</c><00:06:09.170><c> to</c><00:06:09.230><c> users</c><00:06:09.470><c> if</c><00:06:09.830><c> you</c>
+
+00:06:09.850 --> 00:06:09.860 align:start position:0%
+become more important to users if you
+ 
+
+00:06:09.860 --> 00:06:11.680 align:start position:0%
+become more important to users if you
+started<00:06:10.280><c> new</c><00:06:10.430><c> types</c><00:06:10.700><c> of</c><00:06:10.820><c> users</c><00:06:11.240><c> coming</c><00:06:11.630><c> to</c>
+
+00:06:11.680 --> 00:06:11.690 align:start position:0%
+started new types of users coming to
+ 
+
+00:06:11.690 --> 00:06:13.450 align:start position:0%
+started new types of users coming to
+your<00:06:11.780><c> website</c><00:06:12.140><c> this</c><00:06:12.770><c> sort</c><00:06:13.010><c> of</c><00:06:13.040><c> online</c>
+
+00:06:13.450 --> 00:06:13.460 align:start position:0%
+your website this sort of online
+ 
+
+00:06:13.460 --> 00:06:16.150 align:start position:0%
+your website this sort of online
+learning<00:06:13.670><c> algorithm</c><00:06:14.060><c> can</c><00:06:14.450><c> also</c><00:06:14.990><c> adapt</c><00:06:15.680><c> to</c>
+
+00:06:16.150 --> 00:06:16.160 align:start position:0%
+learning algorithm can also adapt to
+ 
+
+00:06:16.160 --> 00:06:18.190 align:start position:0%
+learning algorithm can also adapt to
+changing<00:06:16.640><c> user</c><00:06:16.880><c> preferences</c><00:06:17.660><c> and</c><00:06:17.900><c> kind</c><00:06:18.110><c> of</c>
+
+00:06:18.190 --> 00:06:18.200 align:start position:0%
+changing user preferences and kind of
+ 
+
+00:06:18.200 --> 00:06:19.900 align:start position:0%
+changing user preferences and kind of
+keep<00:06:18.440><c> track</c><00:06:18.770><c> of</c><00:06:19.070><c> what</c><00:06:19.310><c> your</c><00:06:19.460><c> changing</c>
+
+00:06:19.900 --> 00:06:19.910 align:start position:0%
+keep track of what your changing
+ 
+
+00:06:19.910 --> 00:06:22.210 align:start position:0%
+keep track of what your changing
+population<00:06:20.600><c> of</c><00:06:20.720><c> users</c><00:06:21.110><c> may</c><00:06:21.740><c> be</c><00:06:21.770><c> willing</c><00:06:22.130><c> to</c>
+
+00:06:22.210 --> 00:06:22.220 align:start position:0%
+population of users may be willing to
+ 
+
+00:06:22.220 --> 00:06:22.729 align:start position:0%
+population of users may be willing to
+pay
+
+00:06:22.729 --> 00:06:22.739 align:start position:0%
+pay
+ 
+
+00:06:22.739 --> 00:06:25.769 align:start position:0%
+pay
+and<00:06:23.739><c> it</c><00:06:23.919><c> does</c><00:06:24.279><c> that</c><00:06:24.519><c> because</c><00:06:24.759><c> if</c><00:06:25.209><c> your</c><00:06:25.479><c> pool</c>
+
+00:06:25.769 --> 00:06:25.779 align:start position:0%
+and it does that because if your pool
+ 
+
+00:06:25.779 --> 00:06:28.559 align:start position:0%
+and it does that because if your pool
+have<00:06:25.929><c> uses</c><00:06:26.349><c> changes</c><00:06:26.889><c> then</c><00:06:27.489><c> these</c><00:06:27.699><c> updates</c><00:06:28.239><c> to</c>
+
+00:06:28.559 --> 00:06:28.569 align:start position:0%
+have uses changes then these updates to
+ 
+
+00:06:28.569 --> 00:06:30.389 align:start position:0%
+have uses changes then these updates to
+your<00:06:28.809><c> parameters</c><00:06:29.139><c> data</c><00:06:29.529><c> will</c><00:06:29.949><c> just</c><00:06:30.129><c> slowly</c>
+
+00:06:30.389 --> 00:06:30.399 align:start position:0%
+your parameters data will just slowly
+ 
+
+00:06:30.399 --> 00:06:32.969 align:start position:0%
+your parameters data will just slowly
+adapt<00:06:30.909><c> your</c><00:06:31.059><c> parameters</c><00:06:31.689><c> to</c><00:06:32.049><c> whatever</c><00:06:32.319><c> your</c>
+
+00:06:32.969 --> 00:06:32.979 align:start position:0%
+adapt your parameters to whatever your
+ 
+
+00:06:32.979 --> 00:06:35.489 align:start position:0%
+adapt your parameters to whatever your
+latest<00:06:33.429><c> pool</c><00:06:33.759><c> of</c><00:06:33.939><c> users</c><00:06:34.299><c> move</c><00:06:34.509><c> what</c><00:06:34.719><c> here's</c>
+
+00:06:35.489 --> 00:06:35.499 align:start position:0%
+latest pool of users move what here's
+ 
+
+00:06:35.499 --> 00:06:37.529 align:start position:0%
+latest pool of users move what here's
+another<00:06:35.799><c> example</c><00:06:36.009><c> of</c><00:06:36.729><c> the</c><00:06:37.029><c> sort</c><00:06:37.419><c> of</c>
+
+00:06:37.529 --> 00:06:37.539 align:start position:0%
+another example of the sort of
+ 
+
+00:06:37.539 --> 00:06:39.239 align:start position:0%
+another example of the sort of
+application<00:06:38.229><c> to</c><00:06:38.259><c> which</c><00:06:38.559><c> you</c><00:06:38.679><c> might</c><00:06:38.829><c> apply</c>
+
+00:06:39.239 --> 00:06:39.249 align:start position:0%
+application to which you might apply
+ 
+
+00:06:39.249 --> 00:06:41.249 align:start position:0%
+application to which you might apply
+online<00:06:39.519><c> learning</c><00:06:39.969><c> this</c><00:06:40.839><c> is</c><00:06:40.959><c> an</c><00:06:41.110><c> application</c>
+
+00:06:41.249 --> 00:06:41.259 align:start position:0%
+online learning this is an application
+ 
+
+00:06:41.259 --> 00:06:43.559 align:start position:0%
+online learning this is an application
+in<00:06:41.889><c> product</c><00:06:42.399><c> search</c><00:06:42.610><c> in</c><00:06:42.879><c> which</c><00:06:43.029><c> we</c><00:06:43.239><c> want</c><00:06:43.479><c> to</c>
+
+00:06:43.559 --> 00:06:43.569 align:start position:0%
+in product search in which we want to
+ 
+
+00:06:43.569 --> 00:06:46.109 align:start position:0%
+in product search in which we want to
+apply<00:06:44.319><c> learning</c><00:06:44.619><c> algorithm</c><00:06:45.279><c> to</c><00:06:45.579><c> learn</c><00:06:45.610><c> to</c>
+
+00:06:46.109 --> 00:06:46.119 align:start position:0%
+apply learning algorithm to learn to
+ 
+
+00:06:46.119 --> 00:06:48.289 align:start position:0%
+apply learning algorithm to learn to
+give<00:06:46.329><c> good</c><00:06:46.659><c> search</c><00:06:46.989><c> listings</c><00:06:47.649><c> to</c><00:06:47.889><c> a</c><00:06:47.919><c> user</c>
+
+00:06:48.289 --> 00:06:48.299 align:start position:0%
+give good search listings to a user
+ 
+
+00:06:48.299 --> 00:06:50.819 align:start position:0%
+give good search listings to a user
+let's<00:06:49.299><c> say</c><00:06:49.389><c> you</c><00:06:49.449><c> run</c><00:06:49.659><c> an</c><00:06:49.899><c> online</c><00:06:50.139><c> store</c><00:06:50.589><c> that</c>
+
+00:06:50.819 --> 00:06:50.829 align:start position:0%
+let's say you run an online store that
+ 
+
+00:06:50.829 --> 00:06:53.039 align:start position:0%
+let's say you run an online store that
+sells<00:06:51.129><c> phones</c><00:06:51.909><c> themselves</c><00:06:52.209><c> mobile</c><00:06:52.809><c> phones</c>
+
+00:06:53.039 --> 00:06:53.049 align:start position:0%
+sells phones themselves mobile phones
+ 
+
+00:06:53.049 --> 00:06:55.259 align:start position:0%
+sells phones themselves mobile phones
+will<00:06:53.259><c> come</c><00:06:53.409><c> cells</c><00:06:53.619><c> cell</c><00:06:53.949><c> phones</c><00:06:54.219><c> and</c><00:06:54.429><c> you</c><00:06:55.059><c> have</c>
+
+00:06:55.259 --> 00:06:55.269 align:start position:0%
+will come cells cell phones and you have
+ 
+
+00:06:55.269 --> 00:06:57.329 align:start position:0%
+will come cells cell phones and you have
+a<00:06:55.300><c> user</c><00:06:55.539><c> interface</c><00:06:55.869><c> where</c><00:06:56.289><c> a</c><00:06:56.319><c> user</c><00:06:56.529><c> can</c><00:06:57.039><c> come</c>
+
+00:06:57.329 --> 00:06:57.339 align:start position:0%
+a user interface where a user can come
+ 
+
+00:06:57.339 --> 00:06:58.649 align:start position:0%
+a user interface where a user can come
+to<00:06:57.429><c> your</c><00:06:57.489><c> website</c><00:06:57.879><c> and</c><00:06:58.059><c> type</c><00:06:58.269><c> in</c><00:06:58.389><c> the</c><00:06:58.479><c> query</c>
+
+00:06:58.649 --> 00:06:58.659 align:start position:0%
+to your website and type in the query
+ 
+
+00:06:58.659 --> 00:07:01.709 align:start position:0%
+to your website and type in the query
+like<00:06:59.139><c> your</c><00:06:59.619><c> Android</c><00:07:00.069><c> phone</c><00:07:00.309><c> 1080p</c><00:07:01.059><c> camera</c><00:07:01.300><c> so</c>
+
+00:07:01.709 --> 00:07:01.719 align:start position:0%
+like your Android phone 1080p camera so
+ 
+
+00:07:01.719 --> 00:07:03.989 align:start position:0%
+like your Android phone 1080p camera so
+1080p<00:07:02.289><c> is</c><00:07:02.409><c> a</c><00:07:02.439><c> type</c><00:07:02.800><c> of</c><00:07:02.949><c> a</c><00:07:03.069><c> specification</c><00:07:03.759><c> for</c><00:07:03.939><c> a</c>
+
+00:07:03.989 --> 00:07:03.999 align:start position:0%
+1080p is a type of a specification for a
+ 
+
+00:07:03.999 --> 00:07:05.489 align:start position:0%
+1080p is a type of a specification for a
+video<00:07:04.239><c> camera</c><00:07:04.509><c> that</c><00:07:04.779><c> you</c><00:07:04.869><c> might</c><00:07:05.019><c> have</c><00:07:05.199><c> enough</c>
+
+00:07:05.489 --> 00:07:05.499 align:start position:0%
+video camera that you might have enough
+ 
+
+00:07:05.499 --> 00:07:06.929 align:start position:0%
+video camera that you might have enough
+in<00:07:05.679><c> the</c><00:07:05.769><c> phone</c><00:07:05.979><c> and</c><00:07:06.189><c> the</c><00:07:06.339><c> cell</c><00:07:06.519><c> phone</c><00:07:06.729><c> a</c><00:07:06.759><c> mobile</c>
+
+00:07:06.929 --> 00:07:06.939 align:start position:0%
+in the phone and the cell phone a mobile
+ 
+
+00:07:06.939 --> 00:07:10.259 align:start position:0%
+in the phone and the cell phone a mobile
+phone<00:07:07.769><c> suppose</c><00:07:08.769><c> suppose</c><00:07:09.429><c> we</c><00:07:09.669><c> have</c><00:07:09.849><c> a</c><00:07:09.879><c> hundred</c>
+
+00:07:10.259 --> 00:07:10.269 align:start position:0%
+phone suppose suppose we have a hundred
+ 
+
+00:07:10.269 --> 00:07:12.449 align:start position:0%
+phone suppose suppose we have a hundred
+phones<00:07:10.509><c> in</c><00:07:10.779><c> our</c><00:07:10.899><c> sport</c><00:07:11.229><c> and</c><00:07:11.589><c> because</c><00:07:12.129><c> of</c><00:07:12.159><c> the</c>
+
+00:07:12.449 --> 00:07:12.459 align:start position:0%
+phones in our sport and because of the
+ 
+
+00:07:12.459 --> 00:07:14.699 align:start position:0%
+phones in our sport and because of the
+way<00:07:12.579><c> our</c><00:07:12.610><c> website</c><00:07:13.360><c> is</c><00:07:13.539><c> laid</c><00:07:13.719><c> out</c><00:07:13.899><c> when</c><00:07:14.409><c> a</c><00:07:14.439><c> user</c>
+
+00:07:14.699 --> 00:07:14.709 align:start position:0%
+way our website is laid out when a user
+ 
+
+00:07:14.709 --> 00:07:16.649 align:start position:0%
+way our website is laid out when a user
+types<00:07:15.039><c> in</c><00:07:15.219><c> the</c><00:07:15.309><c> query</c><00:07:15.699><c> for</c><00:07:15.969><c> the</c><00:07:16.119><c> search</c><00:07:16.300><c> query</c>
+
+00:07:16.649 --> 00:07:16.659 align:start position:0%
+types in the query for the search query
+ 
+
+00:07:16.659 --> 00:07:19.319 align:start position:0%
+types in the query for the search query
+we<00:07:17.289><c> would</c><00:07:17.469><c> like</c><00:07:17.769><c> to</c><00:07:17.949><c> find</c><00:07:18.309><c> a</c><00:07:18.579><c> choice</c><00:07:18.849><c> of</c><00:07:19.089><c> 10</c>
+
+00:07:19.319 --> 00:07:19.329 align:start position:0%
+we would like to find a choice of 10
+ 
+
+00:07:19.329 --> 00:07:21.629 align:start position:0%
+we would like to find a choice of 10
+different<00:07:19.659><c> phones</c><00:07:19.899><c> to</c><00:07:20.259><c> show</c><00:07:20.559><c> or</c><00:07:20.829><c> to</c><00:07:20.979><c> offer</c><00:07:21.189><c> to</c>
+
+00:07:21.629 --> 00:07:21.639 align:start position:0%
+different phones to show or to offer to
+ 
+
+00:07:21.639 --> 00:07:24.299 align:start position:0%
+different phones to show or to offer to
+the<00:07:21.759><c> user</c><00:07:22.110><c> what</c><00:07:23.110><c> we'd</c><00:07:23.259><c> like</c><00:07:23.349><c> to</c><00:07:23.499><c> do</c><00:07:23.649><c> is</c><00:07:23.919><c> have</c><00:07:24.249><c> a</c>
+
+00:07:24.299 --> 00:07:24.309 align:start position:0%
+the user what we'd like to do is have a
+ 
+
+00:07:24.309 --> 00:07:26.219 align:start position:0%
+the user what we'd like to do is have a
+learning<00:07:24.789><c> algorithm</c><00:07:25.029><c> help</c><00:07:25.599><c> us</c><00:07:25.749><c> to</c><00:07:25.869><c> figure</c><00:07:26.079><c> out</c>
+
+00:07:26.219 --> 00:07:26.229 align:start position:0%
+learning algorithm help us to figure out
+ 
+
+00:07:26.229 --> 00:07:28.709 align:start position:0%
+learning algorithm help us to figure out
+what<00:07:26.589><c> are</c><00:07:26.709><c> the</c><00:07:26.800><c> 10</c><00:07:27.069><c> phones</c><00:07:27.399><c> out</c><00:07:27.759><c> of</c><00:07:27.789><c> the</c><00:07:27.939><c> 100</c><00:07:28.569><c> we</c>
+
+00:07:28.709 --> 00:07:28.719 align:start position:0%
+what are the 10 phones out of the 100 we
+ 
+
+00:07:28.719 --> 00:07:31.169 align:start position:0%
+what are the 10 phones out of the 100 we
+should<00:07:28.899><c> return</c><00:07:29.259><c> to</c><00:07:29.499><c> a</c><00:07:29.529><c> user</c><00:07:29.769><c> in</c><00:07:30.399><c> response</c><00:07:30.849><c> to</c><00:07:31.149><c> a</c>
+
+00:07:31.169 --> 00:07:31.179 align:start position:0%
+should return to a user in response to a
+ 
+
+00:07:31.179 --> 00:07:33.109 align:start position:0%
+should return to a user in response to a
+user<00:07:31.509><c> search</c><00:07:31.869><c> query</c><00:07:32.229><c> you</c><00:07:32.439><c> like</c><00:07:32.589><c> the</c><00:07:32.679><c> 1</c><00:07:32.829><c> year</c>
+
+00:07:33.109 --> 00:07:33.119 align:start position:0%
+user search query you like the 1 year
+ 
+
+00:07:33.119 --> 00:07:35.719 align:start position:0%
+user search query you like the 1 year
+here's<00:07:34.119><c> how</c><00:07:34.300><c> we</c><00:07:34.360><c> can</c><00:07:34.539><c> go</c><00:07:34.659><c> about</c><00:07:34.749><c> the</c><00:07:34.959><c> problem</c>
+
+00:07:35.719 --> 00:07:35.729 align:start position:0%
+here's how we can go about the problem
+ 
+
+00:07:35.729 --> 00:07:39.749 align:start position:0%
+here's how we can go about the problem
+for<00:07:36.729><c> each</c><00:07:36.939><c> phone</c><00:07:37.389><c> and</c><00:07:37.779><c> given</c><00:07:38.559><c> a</c><00:07:38.769><c> specific</c><00:07:39.429><c> user</c>
+
+00:07:39.749 --> 00:07:39.759 align:start position:0%
+for each phone and given a specific user
+ 
+
+00:07:39.759 --> 00:07:43.079 align:start position:0%
+for each phone and given a specific user
+query<00:07:40.209><c> we</c><00:07:41.019><c> can</c><00:07:41.199><c> construct</c><00:07:41.529><c> a</c><00:07:41.969><c> feature</c><00:07:42.969><c> vector</c>
+
+00:07:43.079 --> 00:07:43.089 align:start position:0%
+query we can construct a feature vector
+ 
+
+00:07:43.089 --> 00:07:45.779 align:start position:0%
+query we can construct a feature vector
+X<00:07:43.599><c> so</c><00:07:44.409><c> the</c><00:07:44.499><c> feature</c><00:07:44.679><c> vector</c><00:07:45.039><c> X</c><00:07:45.069><c> might</c><00:07:45.399><c> capture</c>
+
+00:07:45.779 --> 00:07:45.789 align:start position:0%
+X so the feature vector X might capture
+ 
+
+00:07:45.789 --> 00:07:47.519 align:start position:0%
+X so the feature vector X might capture
+different<00:07:45.939><c> properties</c><00:07:46.449><c> of</c><00:07:46.569><c> the</c><00:07:46.659><c> phone</c><00:07:46.869><c> it</c>
+
+00:07:47.519 --> 00:07:47.529 align:start position:0%
+different properties of the phone it
+ 
+
+00:07:47.529 --> 00:07:49.649 align:start position:0%
+different properties of the phone it
+might<00:07:47.709><c> capture</c><00:07:47.979><c> things</c><00:07:48.699><c> like</c><00:07:49.029><c> how</c><00:07:49.300><c> similar</c>
+
+00:07:49.649 --> 00:07:49.659 align:start position:0%
+might capture things like how similar
+ 
+
+00:07:49.659 --> 00:07:51.659 align:start position:0%
+might capture things like how similar
+they<00:07:50.110><c> use</c><00:07:50.289><c> the</c><00:07:50.469><c> search</c><00:07:50.649><c> queries</c><00:07:51.159><c> to</c><00:07:51.399><c> the</c><00:07:51.489><c> phone</c>
+
+00:07:51.659 --> 00:07:51.669 align:start position:0%
+they use the search queries to the phone
+ 
+
+00:07:51.669 --> 00:07:53.429 align:start position:0%
+they use the search queries to the phone
+so<00:07:51.879><c> we</c><00:07:51.969><c> capture</c><00:07:52.179><c> things</c><00:07:52.479><c> like</c><00:07:52.689><c> how</c><00:07:53.079><c> many</c><00:07:53.229><c> words</c>
+
+00:07:53.429 --> 00:07:53.439 align:start position:0%
+so we capture things like how many words
+ 
+
+00:07:53.439 --> 00:07:55.109 align:start position:0%
+so we capture things like how many words
+and<00:07:53.709><c> they</c><00:07:53.800><c> use</c><00:07:53.979><c> a</c><00:07:54.009><c> search</c><00:07:54.309><c> query</c><00:07:54.550><c> match</c><00:07:54.939><c> the</c>
+
+00:07:55.109 --> 00:07:55.119 align:start position:0%
+and they use a search query match the
+ 
+
+00:07:55.119 --> 00:07:57.179 align:start position:0%
+and they use a search query match the
+name<00:07:55.300><c> of</c><00:07:55.389><c> the</c><00:07:55.449><c> phone</c><00:07:55.629><c> how</c><00:07:56.199><c> many</c><00:07:56.229><c> words</c><00:07:56.559><c> they</c>
+
+00:07:57.179 --> 00:07:57.189 align:start position:0%
+name of the phone how many words they
+ 
+
+00:07:57.189 --> 00:07:58.799 align:start position:0%
+name of the phone how many words they
+use<00:07:57.369><c> the</c><00:07:57.489><c> search</c><00:07:57.699><c> query</c><00:07:58.179><c> match</c><00:07:58.659><c> the</c>
+
+00:07:58.799 --> 00:07:58.809 align:start position:0%
+use the search query match the
+ 
+
+00:07:58.809 --> 00:08:00.449 align:start position:0%
+use the search query match the
+description<00:07:59.349><c> of</c><00:07:59.499><c> the</c><00:07:59.559><c> phone</c><00:07:59.769><c> and</c><00:08:00.009><c> so</c><00:08:00.159><c> on</c><00:08:00.309><c> so</c>
+
+00:08:00.449 --> 00:08:00.459 align:start position:0%
+description of the phone and so on so
+ 
+
+00:08:00.459 --> 00:08:02.519 align:start position:0%
+description of the phone and so on so
+the<00:08:00.579><c> features</c><00:08:00.909><c> X</c><00:08:01.089><c> capture</c><00:08:01.329><c> properties</c><00:08:02.289><c> in</c><00:08:02.439><c> the</c>
+
+00:08:02.519 --> 00:08:02.529 align:start position:0%
+the features X capture properties in the
+ 
+
+00:08:02.529 --> 00:08:04.469 align:start position:0%
+the features X capture properties in the
+film<00:08:02.739><c> and</c><00:08:03.219><c> it</c><00:08:03.339><c> captures</c><00:08:03.759><c> things</c><00:08:03.999><c> about</c><00:08:04.269><c> how</c>
+
+00:08:04.469 --> 00:08:04.479 align:start position:0%
+film and it captures things about how
+ 
+
+00:08:04.479 --> 00:08:07.229 align:start position:0%
+film and it captures things about how
+similar<00:08:04.839><c> or</c><00:08:05.110><c> how</c><00:08:05.469><c> well</c><00:08:05.769><c> the</c><00:08:05.800><c> phone</c><00:08:06.579><c> matches</c>
+
+00:08:07.229 --> 00:08:07.239 align:start position:0%
+similar or how well the phone matches
+ 
+
+00:08:07.239 --> 00:08:08.999 align:start position:0%
+similar or how well the phone matches
+the<00:08:07.569><c> user</c><00:08:07.809><c> query</c><00:08:08.349><c> along</c><00:08:08.679><c> different</c>
+
+00:08:08.999 --> 00:08:09.009 align:start position:0%
+the user query along different
+ 
+
+00:08:09.009 --> 00:08:11.569 align:start position:0%
+the user query along different
+dimensions<00:08:09.539><c> what</c><00:08:10.539><c> we'd</c><00:08:10.689><c> like</c><00:08:10.809><c> to</c><00:08:10.869><c> do</c><00:08:11.139><c> is</c>
+
+00:08:11.569 --> 00:08:11.579 align:start position:0%
+dimensions what we'd like to do is
+ 
+
+00:08:11.579 --> 00:08:14.100 align:start position:0%
+dimensions what we'd like to do is
+estimate<00:08:12.579><c> the</c><00:08:12.849><c> probability</c><00:08:13.509><c> that</c><00:08:13.569><c> the</c><00:08:13.869><c> user</c>
+
+00:08:14.100 --> 00:08:14.110 align:start position:0%
+estimate the probability that the user
+ 
+
+00:08:14.110 --> 00:08:16.019 align:start position:0%
+estimate the probability that the user
+will<00:08:14.379><c> click</c><00:08:14.709><c> on</c><00:08:14.979><c> the</c><00:08:15.129><c> link</c><00:08:15.339><c> for</c><00:08:15.519><c> a</c><00:08:15.699><c> specific</c>
+
+00:08:16.019 --> 00:08:16.029 align:start position:0%
+will click on the link for a specific
+ 
+
+00:08:16.029 --> 00:08:18.359 align:start position:0%
+will click on the link for a specific
+phone<00:08:16.509><c> because</c><00:08:16.899><c> we</c><00:08:17.110><c> want</c><00:08:17.319><c> to</c><00:08:17.499><c> show</c><00:08:18.009><c> the</c><00:08:18.189><c> user</c>
+
+00:08:18.359 --> 00:08:18.369 align:start position:0%
+phone because we want to show the user
+ 
+
+00:08:18.369 --> 00:08:20.879 align:start position:0%
+phone because we want to show the user
+of<00:08:18.699><c> phones</c><00:08:18.969><c> that</c><00:08:19.149><c> they're</c><00:08:19.449><c> likely</c><00:08:19.689><c> to</c><00:08:20.139><c> want</c><00:08:20.800><c> to</c>
+
+00:08:20.879 --> 00:08:20.889 align:start position:0%
+of phones that they're likely to want to
+ 
+
+00:08:20.889 --> 00:08:22.709 align:start position:0%
+of phones that they're likely to want to
+buy<00:08:21.069><c> want</c><00:08:21.429><c> to</c><00:08:21.489><c> show</c><00:08:21.819><c> the</c><00:08:21.939><c> user</c><00:08:22.089><c> phones</c><00:08:22.509><c> that</c>
+
+00:08:22.709 --> 00:08:22.719 align:start position:0%
+buy want to show the user phones that
+ 
+
+00:08:22.719 --> 00:08:24.509 align:start position:0%
+buy want to show the user phones that
+they<00:08:22.869><c> have</c><00:08:22.989><c> a</c><00:08:23.019><c> high</c><00:08:23.229><c> probability</c><00:08:23.259><c> of</c><00:08:23.919><c> clicking</c>
+
+00:08:24.509 --> 00:08:24.519 align:start position:0%
+they have a high probability of clicking
+ 
+
+00:08:24.519 --> 00:08:27.869 align:start position:0%
+they have a high probability of clicking
+on<00:08:24.729><c> in</c><00:08:25.360><c> the</c><00:08:25.389><c> web</c><00:08:25.479><c> browser</c><00:08:26.459><c> so</c><00:08:27.459><c> I'm</c><00:08:27.669><c> going</c><00:08:27.849><c> to</c>
+
+00:08:27.869 --> 00:08:27.879 align:start position:0%
+on in the web browser so I'm going to
+ 
+
+00:08:27.879 --> 00:08:30.149 align:start position:0%
+on in the web browser so I'm going to
+define<00:08:28.179><c> y</c><00:08:28.539><c> equals</c><00:08:28.869><c> 1</c><00:08:29.079><c> if</c><00:08:29.379><c> a</c><00:08:29.469><c> user</c><00:08:29.649><c> clicks</c><00:08:29.979><c> on</c><00:08:30.099><c> a</c>
+
+00:08:30.149 --> 00:08:30.159 align:start position:0%
+define y equals 1 if a user clicks on a
+ 
+
+00:08:30.159 --> 00:08:32.520 align:start position:0%
+define y equals 1 if a user clicks on a
+link<00:08:30.279><c> for</c><00:08:30.729><c> a</c><00:08:30.789><c> phone</c><00:08:30.999><c> and</c><00:08:31.269><c> y</c><00:08:31.389><c> equals</c><00:08:31.719><c> 0</c><00:08:32.019><c> other</c>
+
+00:08:32.520 --> 00:08:32.530 align:start position:0%
+link for a phone and y equals 0 other
+ 
+
+00:08:32.530 --> 00:08:34.890 align:start position:0%
+link for a phone and y equals 0 other
+and<00:08:32.830><c> what</c><00:08:33.370><c> I</c><00:08:33.400><c> would</c><00:08:33.550><c> like</c><00:08:33.670><c> to</c><00:08:33.730><c> do</c><00:08:34.000><c> is</c><00:08:34.300><c> learn</c><00:08:34.570><c> the</c>
+
+00:08:34.890 --> 00:08:34.900 align:start position:0%
+and what I would like to do is learn the
+ 
+
+00:08:34.900 --> 00:08:36.990 align:start position:0%
+and what I would like to do is learn the
+probability<00:08:35.410><c> that</c><00:08:35.650><c> user</c><00:08:35.890><c> will</c><00:08:36.280><c> click</c><00:08:36.550><c> on</c><00:08:36.970><c> a</c>
+
+00:08:36.990 --> 00:08:37.000 align:start position:0%
+probability that user will click on a
+ 
+
+00:08:37.000 --> 00:08:38.790 align:start position:0%
+probability that user will click on a
+specific<00:08:37.270><c> phone</c><00:08:37.720><c> given</c><00:08:38.260><c> you</c><00:08:38.680><c> know</c><00:08:38.770><c> the</c>
+
+00:08:38.790 --> 00:08:38.800 align:start position:0%
+specific phone given you know the
+ 
+
+00:08:38.800 --> 00:08:40.830 align:start position:0%
+specific phone given you know the
+features<00:08:39.280><c> X</c><00:08:39.490><c> which</c><00:08:39.760><c> capture</c><00:08:40.270><c> properties</c><00:08:40.660><c> the</c>
+
+00:08:40.830 --> 00:08:40.840 align:start position:0%
+features X which capture properties the
+ 
+
+00:08:40.840 --> 00:08:42.720 align:start position:0%
+features X which capture properties the
+phone<00:08:41.020><c> and</c><00:08:41.290><c> how</c><00:08:41.410><c> well</c><00:08:41.620><c> the</c><00:08:41.770><c> query</c><00:08:42.040><c> matches</c><00:08:42.580><c> the</c>
+
+00:08:42.720 --> 00:08:42.730 align:start position:0%
+phone and how well the query matches the
+ 
+
+00:08:42.730 --> 00:08:45.870 align:start position:0%
+phone and how well the query matches the
+phone<00:08:42.910><c> to</c><00:08:43.780><c> give</c><00:08:43.960><c> this</c><00:08:44.110><c> problem</c><00:08:44.350><c> a</c><00:08:44.650><c> name</c><00:08:44.860><c> in</c><00:08:45.220><c> the</c>
+
+00:08:45.870 --> 00:08:45.880 align:start position:0%
+phone to give this problem a name in the
+ 
+
+00:08:45.880 --> 00:08:48.030 align:start position:0%
+phone to give this problem a name in the
+language<00:08:46.210><c> of</c><00:08:46.840><c> people</c><00:08:47.140><c> they</c><00:08:47.410><c> run</c><00:08:47.560><c> websites</c>
+
+00:08:48.030 --> 00:08:48.040 align:start position:0%
+language of people they run websites
+ 
+
+00:08:48.040 --> 00:08:49.800 align:start position:0%
+language of people they run websites
+like<00:08:48.190><c> this</c><00:08:48.340><c> this</c><00:08:48.670><c> the</c><00:08:49.090><c> problem</c><00:08:49.360><c> of</c><00:08:49.630><c> learning</c>
+
+00:08:49.800 --> 00:08:49.810 align:start position:0%
+like this this the problem of learning
+ 
+
+00:08:49.810 --> 00:08:52.590 align:start position:0%
+like this this the problem of learning
+this<00:08:50.200><c> is</c><00:08:50.530><c> actually</c><00:08:51.010><c> called</c><00:08:51.220><c> the</c><00:08:51.420><c> problem</c><00:08:52.420><c> of</c>
+
+00:08:52.590 --> 00:08:52.600 align:start position:0%
+this is actually called the problem of
+ 
+
+00:08:52.600 --> 00:08:54.360 align:start position:0%
+this is actually called the problem of
+learning<00:08:52.810><c> the</c><00:08:53.170><c> predicted</c><00:08:53.800><c> click-through</c>
+
+00:08:54.360 --> 00:08:54.370 align:start position:0%
+learning the predicted click-through
+ 
+
+00:08:54.370 --> 00:08:56.850 align:start position:0%
+learning the predicted click-through
+rates<00:08:55.210><c> or</c><00:08:55.390><c> predicted</c><00:08:55.840><c> CTR</c><00:08:56.350><c> just</c><00:08:56.680><c> means</c>
+
+00:08:56.850 --> 00:08:56.860 align:start position:0%
+rates or predicted CTR just means
+ 
+
+00:08:56.860 --> 00:08:58.890 align:start position:0%
+rates or predicted CTR just means
+learning<00:08:57.130><c> the</c><00:08:57.430><c> probability</c><00:08:58.060><c> that</c><00:08:58.510><c> the</c><00:08:58.660><c> user</c>
+
+00:08:58.890 --> 00:08:58.900 align:start position:0%
+learning the probability that the user
+ 
+
+00:08:58.900 --> 00:09:00.720 align:start position:0%
+learning the probability that the user
+will<00:08:59.230><c> click</c><00:08:59.470><c> on</c><00:08:59.650><c> a</c><00:08:59.740><c> specific</c><00:08:59.980><c> link</c><00:09:00.430><c> that</c><00:09:00.640><c> you</c>
+
+00:09:00.720 --> 00:09:00.730 align:start position:0%
+will click on a specific link that you
+ 
+
+00:09:00.730 --> 00:09:03.270 align:start position:0%
+will click on a specific link that you
+offer<00:09:00.910><c> them</c><00:09:01.180><c> so</c><00:09:01.510><c> CPR</c><00:09:02.110><c> is</c><00:09:02.380><c> an</c><00:09:02.530><c> abbreviation</c><00:09:03.040><c> for</c>
+
+00:09:03.270 --> 00:09:03.280 align:start position:0%
+offer them so CPR is an abbreviation for
+ 
+
+00:09:03.280 --> 00:09:06.270 align:start position:0%
+offer them so CPR is an abbreviation for
+click-through<00:09:04.240><c> rate</c><00:09:04.540><c> and</c><00:09:04.950><c> if</c><00:09:05.950><c> you</c><00:09:06.070><c> can</c>
+
+00:09:06.270 --> 00:09:06.280 align:start position:0%
+click-through rate and if you can
+ 
+
+00:09:06.280 --> 00:09:07.410 align:start position:0%
+click-through rate and if you can
+estimate<00:09:06.550><c> the</c><00:09:06.790><c> predicted</c><00:09:07.240><c> click-through</c>
+
+00:09:07.410 --> 00:09:07.420 align:start position:0%
+estimate the predicted click-through
+ 
+
+00:09:07.420 --> 00:09:10.020 align:start position:0%
+estimate the predicted click-through
+rate<00:09:07.960><c> for</c><00:09:08.230><c> any</c><00:09:08.470><c> particular</c><00:09:08.770><c> phone</c><00:09:09.280><c> what</c><00:09:09.970><c> we</c>
+
+00:09:10.020 --> 00:09:10.030 align:start position:0%
+rate for any particular phone what we
+ 
+
+00:09:10.030 --> 00:09:12.810 align:start position:0%
+rate for any particular phone what we
+can<00:09:10.180><c> do</c><00:09:10.390><c> is</c><00:09:10.780><c> use</c><00:09:11.170><c> this</c><00:09:11.410><c> to</c><00:09:11.710><c> show</c><00:09:11.950><c> the</c><00:09:11.980><c> user</c><00:09:12.370><c> the</c>
+
+00:09:12.810 --> 00:09:12.820 align:start position:0%
+can do is use this to show the user the
+ 
+
+00:09:12.820 --> 00:09:14.460 align:start position:0%
+can do is use this to show the user the
+10<00:09:13.030><c> phones</c><00:09:13.300><c> that</c><00:09:13.480><c> the</c><00:09:13.600><c> most</c><00:09:13.780><c> likely</c><00:09:14.170><c> to</c><00:09:14.320><c> click</c>
+
+00:09:14.460 --> 00:09:14.470 align:start position:0%
+10 phones that the most likely to click
+ 
+
+00:09:14.470 --> 00:09:16.320 align:start position:0%
+10 phones that the most likely to click
+on<00:09:14.680><c> because</c><00:09:15.340><c> although</c><00:09:15.610><c> the</c><00:09:15.790><c> hundred</c><00:09:15.940><c> phones</c>
+
+00:09:16.320 --> 00:09:16.330 align:start position:0%
+on because although the hundred phones
+ 
+
+00:09:16.330 --> 00:09:20.010 align:start position:0%
+on because although the hundred phones
+we<00:09:17.020><c> can</c><00:09:17.200><c> compute</c><00:09:17.710><c> this</c><00:09:18.600><c> for</c><00:09:19.600><c> each</c><00:09:19.780><c> of</c><00:09:19.960><c> the</c>
+
+00:09:20.010 --> 00:09:20.020 align:start position:0%
+we can compute this for each of the
+ 
+
+00:09:20.020 --> 00:09:21.900 align:start position:0%
+we can compute this for each of the
+hundred<00:09:20.320><c> phones</c><00:09:20.530><c> and</c><00:09:20.800><c> just</c><00:09:21.100><c> select</c><00:09:21.370><c> the</c><00:09:21.670><c> 10</c>
+
+00:09:21.900 --> 00:09:21.910 align:start position:0%
+hundred phones and just select the 10
+ 
+
+00:09:21.910 --> 00:09:23.790 align:start position:0%
+hundred phones and just select the 10
+phones<00:09:22.210><c> that</c><00:09:22.570><c> you</c><00:09:23.020><c> know</c><00:09:23.110><c> the</c><00:09:23.230><c> users</c><00:09:23.560><c> most</c>
+
+00:09:23.790 --> 00:09:23.800 align:start position:0%
+phones that you know the users most
+ 
+
+00:09:23.800 --> 00:09:25.260 align:start position:0%
+phones that you know the users most
+likely<00:09:24.160><c> to</c><00:09:24.280><c> click</c><00:09:24.490><c> on</c><00:09:24.670><c> and</c><00:09:24.880><c> this</c><00:09:25.000><c> would</c><00:09:25.150><c> be</c><00:09:25.240><c> a</c>
+
+00:09:25.260 --> 00:09:25.270 align:start position:0%
+likely to click on and this would be a
+ 
+
+00:09:25.270 --> 00:09:27.840 align:start position:0%
+likely to click on and this would be a
+pretty<00:09:25.570><c> reasonable</c><00:09:25.840><c> way</c><00:09:26.320><c> to</c><00:09:26.620><c> decide</c><00:09:27.310><c> what</c><00:09:27.640><c> 10</c>
+
+00:09:27.840 --> 00:09:27.850 align:start position:0%
+pretty reasonable way to decide what 10
+ 
+
+00:09:27.850 --> 00:09:30.150 align:start position:0%
+pretty reasonable way to decide what 10
+results<00:09:28.270><c> are</c><00:09:28.360><c> showed</c><00:09:28.570><c> in</c><00:09:28.720><c> the</c><00:09:28.810><c> user</c><00:09:29.020><c> just</c><00:09:29.980><c> be</c>
+
+00:09:30.150 --> 00:09:30.160 align:start position:0%
+results are showed in the user just be
+ 
+
+00:09:30.160 --> 00:09:32.130 align:start position:0%
+results are showed in the user just be
+clear<00:09:30.400><c> and</c><00:09:30.610><c> suppose</c><00:09:30.970><c> that</c><00:09:31.000><c> every</c><00:09:31.570><c> time</c><00:09:31.810><c> a</c><00:09:31.840><c> user</c>
+
+00:09:32.130 --> 00:09:32.140 align:start position:0%
+clear and suppose that every time a user
+ 
+
+00:09:32.140 --> 00:09:34.950 align:start position:0%
+clear and suppose that every time a user
+does<00:09:32.470><c> a</c><00:09:32.500><c> search</c><00:09:32.770><c> we</c><00:09:33.070><c> return</c><00:09:33.520><c> 10</c><00:09:33.970><c> results</c><00:09:34.450><c> what</c>
+
+00:09:34.950 --> 00:09:34.960 align:start position:0%
+does a search we return 10 results what
+ 
+
+00:09:34.960 --> 00:09:37.080 align:start position:0%
+does a search we return 10 results what
+that<00:09:35.170><c> will</c><00:09:35.410><c> do</c><00:09:35.590><c> is</c><00:09:35.860><c> it</c><00:09:36.130><c> will</c><00:09:36.190><c> actually</c><00:09:36.400><c> give</c><00:09:36.880><c> us</c>
+
+00:09:37.080 --> 00:09:37.090 align:start position:0%
+that will do is it will actually give us
+ 
+
+00:09:37.090 --> 00:09:41.070 align:start position:0%
+that will do is it will actually give us
+10<00:09:37.900><c> XY</c><00:09:38.530><c> pairs</c><00:09:39.190><c> so</c><00:09:39.580><c> this</c><00:09:39.790><c> actually</c><00:09:40.150><c> gives</c><00:09:40.540><c> us</c><00:09:40.720><c> 10</c>
+
+00:09:41.070 --> 00:09:41.080 align:start position:0%
+10 XY pairs so this actually gives us 10
+ 
+
+00:09:41.080 --> 00:09:43.020 align:start position:0%
+10 XY pairs so this actually gives us 10
+training<00:09:41.500><c> examples</c><00:09:41.710><c> every</c><00:09:42.490><c> time</c><00:09:42.700><c> you</c><00:09:42.820><c> user</c>
+
+00:09:43.020 --> 00:09:43.030 align:start position:0%
+training examples every time you user
+ 
+
+00:09:43.030 --> 00:09:44.910 align:start position:0%
+training examples every time you user
+that<00:09:43.180><c> comes</c><00:09:43.360><c> that</c><00:09:43.600><c> website</c><00:09:43.990><c> because</c><00:09:44.350><c> because</c>
+
+00:09:44.910 --> 00:09:44.920 align:start position:0%
+that comes that website because because
+ 
+
+00:09:44.920 --> 00:09:46.620 align:start position:0%
+that comes that website because because
+for<00:09:45.130><c> the</c><00:09:45.220><c> 10</c><00:09:45.430><c> phones</c><00:09:45.670><c> that</c><00:09:45.880><c> we</c><00:09:46.000><c> chose</c><00:09:46.240><c> to</c><00:09:46.450><c> show</c>
+
+00:09:46.620 --> 00:09:46.630 align:start position:0%
+for the 10 phones that we chose to show
+ 
+
+00:09:46.630 --> 00:09:48.780 align:start position:0%
+for the 10 phones that we chose to show
+the<00:09:46.810><c> user</c><00:09:46.990><c> for</c><00:09:47.560><c> each</c><00:09:47.770><c> of</c><00:09:47.950><c> those</c><00:09:48.070><c> 10</c><00:09:48.340><c> phones</c><00:09:48.580><c> we</c>
+
+00:09:48.780 --> 00:09:48.790 align:start position:0%
+the user for each of those 10 phones we
+ 
+
+00:09:48.790 --> 00:09:50.970 align:start position:0%
+the user for each of those 10 phones we
+get<00:09:48.970><c> a</c><00:09:49.000><c> feature</c><00:09:49.240><c> vector</c><00:09:49.390><c> X</c><00:09:49.780><c> and</c><00:09:50.080><c> for</c><00:09:50.620><c> each</c><00:09:50.800><c> of</c>
+
+00:09:50.970 --> 00:09:50.980 align:start position:0%
+get a feature vector X and for each of
+ 
+
+00:09:50.980 --> 00:09:53.100 align:start position:0%
+get a feature vector X and for each of
+those<00:09:51.130><c> 10</c><00:09:51.430><c> films</c><00:09:51.730><c> we</c><00:09:51.850><c> show</c><00:09:52.000><c> the</c><00:09:52.150><c> user</c><00:09:52.390><c> we</c><00:09:52.990><c> will</c>
+
+00:09:53.100 --> 00:09:53.110 align:start position:0%
+those 10 films we show the user we will
+ 
+
+00:09:53.110 --> 00:09:55.680 align:start position:0%
+those 10 films we show the user we will
+also<00:09:53.560><c> get</c><00:09:53.860><c> a</c><00:09:53.890><c> value</c><00:09:54.370><c> from</c><00:09:54.580><c> Y</c><00:09:54.850><c> we</c><00:09:55.210><c> will</c><00:09:55.330><c> also</c>
+
+00:09:55.680 --> 00:09:55.690 align:start position:0%
+also get a value from Y we will also
+ 
+
+00:09:55.690 --> 00:09:57.960 align:start position:0%
+also get a value from Y we will also
+observe<00:09:56.080><c> the</c><00:09:56.320><c> value</c><00:09:56.650><c> of</c><00:09:56.770><c> Y</c><00:09:56.980><c> depending</c><00:09:57.880><c> on</c>
+
+00:09:57.960 --> 00:09:57.970 align:start position:0%
+observe the value of Y depending on
+ 
+
+00:09:57.970 --> 00:10:00.120 align:start position:0%
+observe the value of Y depending on
+whether<00:09:58.180><c> or</c><00:09:58.270><c> not</c><00:09:58.360><c> they</c><00:09:58.720><c> clicked</c><00:09:59.320><c> on</c><00:09:59.470><c> that</c><00:09:59.770><c> URL</c>
+
+00:10:00.120 --> 00:10:00.130 align:start position:0%
+whether or not they clicked on that URL
+ 
+
+00:10:00.130 --> 00:10:03.150 align:start position:0%
+whether or not they clicked on that URL
+and<00:10:00.820><c> so</c><00:10:01.780><c> one</c><00:10:02.020><c> way</c><00:10:02.230><c> to</c><00:10:02.260><c> run</c><00:10:02.560><c> the</c><00:10:02.680><c> website</c><00:10:02.860><c> like</c>
+
+00:10:03.150 --> 00:10:03.160 align:start position:0%
+and so one way to run the website like
+ 
+
+00:10:03.160 --> 00:10:05.760 align:start position:0%
+and so one way to run the website like
+this<00:10:03.370><c> would</c><00:10:03.640><c> be</c><00:10:03.760><c> to</c><00:10:04.110><c> continuously</c><00:10:05.110><c> show</c><00:10:05.500><c> the</c>
+
+00:10:05.760 --> 00:10:05.770 align:start position:0%
+this would be to continuously show the
+ 
+
+00:10:05.770 --> 00:10:07.740 align:start position:0%
+this would be to continuously show the
+user<00:10:06.010><c> you</c><00:10:06.370><c> know</c><00:10:06.490><c> your</c><00:10:06.670><c> 10</c><00:10:06.910><c> best</c><00:10:07.090><c> guesses</c><00:10:07.390><c> for</c>
+
+00:10:07.740 --> 00:10:07.750 align:start position:0%
+user you know your 10 best guesses for
+ 
+
+00:10:07.750 --> 00:10:09.030 align:start position:0%
+user you know your 10 best guesses for
+what<00:10:07.900><c> are</c><00:10:08.020><c> the</c><00:10:08.110><c> phones</c><00:10:08.320><c> they</c><00:10:08.470><c> might</c><00:10:08.650><c> like</c><00:10:08.830><c> and</c>
+
+00:10:09.030 --> 00:10:09.040 align:start position:0%
+what are the phones they might like and
+ 
+
+00:10:09.040 --> 00:10:11.490 align:start position:0%
+what are the phones they might like and
+so<00:10:09.790><c> each</c><00:10:10.030><c> time</c><00:10:10.060><c> we'd</c><00:10:10.390><c> use</c><00:10:10.510><c> it</c><00:10:10.690><c> comes</c><00:10:10.930><c> you</c><00:10:11.350><c> would</c>
+
+00:10:11.490 --> 00:10:11.500 align:start position:0%
+so each time we'd use it comes you would
+ 
+
+00:10:11.500 --> 00:10:14.910 align:start position:0%
+so each time we'd use it comes you would
+get<00:10:11.680><c> 10</c><00:10:12.160><c> examples</c><00:10:12.550><c> 10</c><00:10:13.210><c> XY</c><00:10:13.570><c> pairs</c><00:10:13.870><c> and</c><00:10:14.140><c> then</c><00:10:14.770><c> use</c>
+
+00:10:14.910 --> 00:10:14.920 align:start position:0%
+get 10 examples 10 XY pairs and then use
+ 
+
+00:10:14.920 --> 00:10:16.530 align:start position:0%
+get 10 examples 10 XY pairs and then use
+an<00:10:15.130><c> online</c><00:10:15.520><c> learning</c><00:10:15.760><c> algorithm</c><00:10:16.360><c> to</c><00:10:16.480><c> update</c>
+
+00:10:16.530 --> 00:10:16.540 align:start position:0%
+an online learning algorithm to update
+ 
+
+00:10:16.540 --> 00:10:19.620 align:start position:0%
+an online learning algorithm to update
+the<00:10:17.290><c> parameters</c><00:10:17.910><c> using</c><00:10:18.910><c> essentially</c><00:10:19.270><c> 10</c>
+
+00:10:19.620 --> 00:10:19.630 align:start position:0%
+the parameters using essentially 10
+ 
+
+00:10:19.630 --> 00:10:21.150 align:start position:0%
+the parameters using essentially 10
+steps<00:10:19.870><c> of</c><00:10:19.990><c> gradient</c><00:10:20.080><c> descent</c><00:10:20.350><c> on</c><00:10:20.710><c> these</c><00:10:20.890><c> 10</c>
+
+00:10:21.150 --> 00:10:21.160 align:start position:0%
+steps of gradient descent on these 10
+ 
+
+00:10:21.160 --> 00:10:23.160 align:start position:0%
+steps of gradient descent on these 10
+examples<00:10:21.520><c> and</c><00:10:21.940><c> then</c><00:10:22.420><c> you</c><00:10:22.510><c> can</c><00:10:22.660><c> throw</c><00:10:22.870><c> the</c><00:10:23.020><c> data</c>
+
+00:10:23.160 --> 00:10:23.170 align:start position:0%
+examples and then you can throw the data
+ 
+
+00:10:23.170 --> 00:10:25.650 align:start position:0%
+examples and then you can throw the data
+away<00:10:23.320><c> and</c><00:10:23.800><c> if</c><00:10:24.430><c> you</c><00:10:24.610><c> really</c><00:10:24.850><c> have</c><00:10:25.030><c> a</c><00:10:25.060><c> continuous</c>
+
+00:10:25.650 --> 00:10:25.660 align:start position:0%
+away and if you really have a continuous
+ 
+
+00:10:25.660 --> 00:10:27.210 align:start position:0%
+away and if you really have a continuous
+stream<00:10:25.750><c> of</c><00:10:26.020><c> users</c><00:10:26.350><c> coming</c><00:10:26.740><c> to</c><00:10:26.950><c> your</c><00:10:27.040><c> website</c>
+
+00:10:27.210 --> 00:10:27.220 align:start position:0%
+stream of users coming to your website
+ 
+
+00:10:27.220 --> 00:10:29.420 align:start position:0%
+stream of users coming to your website
+this<00:10:27.850><c> would</c><00:10:28.030><c> be</c><00:10:28.150><c> a</c><00:10:28.180><c> pretty</c><00:10:28.480><c> reasonable</c><00:10:28.720><c> way</c><00:10:29.140><c> to</c>
+
+00:10:29.420 --> 00:10:29.430 align:start position:0%
+this would be a pretty reasonable way to
+ 
+
+00:10:29.430 --> 00:10:32.280 align:start position:0%
+this would be a pretty reasonable way to
+learn<00:10:30.430><c> parameters</c><00:10:30.700><c> for</c><00:10:31.450><c> your</c><00:10:31.480><c> algorithms</c><00:10:32.080><c> so</c>
+
+00:10:32.280 --> 00:10:32.290 align:start position:0%
+learn parameters for your algorithms so
+ 
+
+00:10:32.290 --> 00:10:34.800 align:start position:0%
+learn parameters for your algorithms so
+as<00:10:32.410><c> to</c><00:10:32.590><c> show</c><00:10:32.620><c> the</c><00:10:33.010><c> 10</c><00:10:33.250><c> phones</c><00:10:33.490><c> to</c><00:10:33.760><c> users</c><00:10:34.270><c> that</c>
+
+00:10:34.800 --> 00:10:34.810 align:start position:0%
+as to show the 10 phones to users that
+ 
+
+00:10:34.810 --> 00:10:36.420 align:start position:0%
+as to show the 10 phones to users that
+are<00:10:35.080><c> maybe</c><00:10:35.320><c> most</c><00:10:35.530><c> promising</c><00:10:36.040><c> under</c><00:10:36.280><c> their</c>
+
+00:10:36.420 --> 00:10:36.430 align:start position:0%
+are maybe most promising under their
+ 
+
+00:10:36.430 --> 00:10:37.130 align:start position:0%
+are maybe most promising under their
+most<00:10:36.580><c> like</c>
+
+00:10:37.130 --> 00:10:37.140 align:start position:0%
+most like
+ 
+
+00:10:37.140 --> 00:10:39.870 align:start position:0%
+most like
+so<00:10:38.140><c> this</c><00:10:38.350><c> is</c><00:10:38.470><c> a</c><00:10:38.500><c> product</c><00:10:39.040><c> search</c><00:10:39.280><c> problem</c><00:10:39.790><c> we</c>
+
+00:10:39.870 --> 00:10:39.880 align:start position:0%
+so this is a product search problem we
+ 
+
+00:10:39.880 --> 00:10:41.580 align:start position:0%
+so this is a product search problem we
+are<00:10:39.940><c> learning</c><00:10:40.300><c> to</c><00:10:40.480><c> rank</c><00:10:40.660><c> phones</c><00:10:41.140><c> are</c><00:10:41.350><c> learning</c>
+
+00:10:41.580 --> 00:10:41.590 align:start position:0%
+are learning to rank phones are learning
+ 
+
+00:10:41.590 --> 00:10:43.980 align:start position:0%
+are learning to rank phones are learning
+to<00:10:41.740><c> search</c><00:10:41.980><c> for</c><00:10:42.160><c> Phil's</c><00:10:42.430><c> example</c><00:10:43.030><c> so</c><00:10:43.540><c> quickly</c>
+
+00:10:43.980 --> 00:10:43.990 align:start position:0%
+to search for Phil's example so quickly
+ 
+
+00:10:43.990 --> 00:10:46.290 align:start position:0%
+to search for Phil's example so quickly
+mention<00:10:44.350><c> a</c><00:10:44.440><c> few</c><00:10:44.590><c> others</c><00:10:44.950><c> one</c><00:10:45.250><c> is</c><00:10:45.280><c> if</c><00:10:46.090><c> you</c><00:10:46.210><c> have</c>
+
+00:10:46.290 --> 00:10:46.300 align:start position:0%
+mention a few others one is if you have
+ 
+
+00:10:46.300 --> 00:10:47.970 align:start position:0%
+mention a few others one is if you have
+a<00:10:46.330><c> website</c><00:10:46.540><c> you're</c><00:10:46.960><c> trying</c><00:10:47.170><c> to</c><00:10:47.260><c> decide</c><00:10:47.590><c> you</c>
+
+00:10:47.970 --> 00:10:47.980 align:start position:0%
+a website you're trying to decide you
+ 
+
+00:10:47.980 --> 00:10:49.470 align:start position:0%
+a website you're trying to decide you
+know<00:10:48.010><c> what</c><00:10:48.190><c> special</c><00:10:48.400><c> offers</c><00:10:48.910><c> to</c><00:10:49.090><c> show</c><00:10:49.270><c> the</c>
+
+00:10:49.470 --> 00:10:49.480 align:start position:0%
+know what special offers to show the
+ 
+
+00:10:49.480 --> 00:10:53.550 align:start position:0%
+know what special offers to show the
+user<00:10:49.690><c> it</c><00:10:49.990><c> is</c><00:10:50.140><c> very</c><00:10:50.410><c> similar</c><00:10:50.680><c> to</c><00:10:51.060><c> phones</c><00:10:52.060><c> or</c><00:10:52.560><c> if</c>
+
+00:10:53.550 --> 00:10:53.560 align:start position:0%
+user it is very similar to phones or if
+ 
+
+00:10:53.560 --> 00:10:55.770 align:start position:0%
+user it is very similar to phones or if
+you<00:10:53.740><c> have</c><00:10:54.100><c> a</c><00:10:54.130><c> website</c><00:10:54.430><c> and</c><00:10:54.820><c> you</c><00:10:55.510><c> show</c>
+
+00:10:55.770 --> 00:10:55.780 align:start position:0%
+you have a website and you show
+ 
+
+00:10:55.780 --> 00:10:57.060 align:start position:0%
+you have a website and you show
+different<00:10:56.170><c> users</c><00:10:56.530><c> different</c><00:10:56.710><c> news</c><00:10:57.040><c> articles</c>
+
+00:10:57.060 --> 00:10:57.070 align:start position:0%
+different users different news articles
+ 
+
+00:10:57.070 --> 00:10:59.670 align:start position:0%
+different users different news articles
+so<00:10:57.760><c> if</c><00:10:58.000><c> you're</c><00:10:58.150><c> a</c><00:10:58.180><c> news</c><00:10:58.450><c> aggregator</c><00:10:58.750><c> website</c>
+
+00:10:59.670 --> 00:10:59.680 align:start position:0%
+so if you're a news aggregator website
+ 
+
+00:10:59.680 --> 00:11:01.290 align:start position:0%
+so if you're a news aggregator website
+then<00:11:00.130><c> you</c><00:11:00.250><c> can</c><00:11:00.400><c> again</c><00:11:00.640><c> use</c><00:11:00.880><c> a</c><00:11:00.910><c> similar</c><00:11:01.270><c> system</c>
+
+00:11:01.290 --> 00:11:01.300 align:start position:0%
+then you can again use a similar system
+ 
+
+00:11:01.300 --> 00:11:04.500 align:start position:0%
+then you can again use a similar system
+to<00:11:02.140><c> select</c><00:11:02.500><c> to</c><00:11:02.890><c> show</c><00:11:03.310><c> to</c><00:11:03.370><c> the</c><00:11:03.580><c> user</c><00:11:03.610><c> you</c><00:11:04.150><c> know</c>
+
+00:11:04.500 --> 00:11:04.510 align:start position:0%
+to select to show to the user you know
+ 
+
+00:11:04.510 --> 00:11:06.180 align:start position:0%
+to select to show to the user you know
+what<00:11:04.690><c> are</c><00:11:04.780><c> the</c><00:11:04.870><c> news</c><00:11:05.050><c> articles</c><00:11:05.650><c> that</c><00:11:05.920><c> they</c><00:11:06.100><c> are</c>
+
+00:11:06.180 --> 00:11:06.190 align:start position:0%
+what are the news articles that they are
+ 
+
+00:11:06.190 --> 00:11:07.890 align:start position:0%
+what are the news articles that they are
+most<00:11:06.370><c> likely</c><00:11:06.490><c> to</c><00:11:06.910><c> be</c><00:11:07.030><c> interested</c><00:11:07.270><c> in</c><00:11:07.570><c> what</c><00:11:07.840><c> are</c>
+
+00:11:07.890 --> 00:11:07.900 align:start position:0%
+most likely to be interested in what are
+ 
+
+00:11:07.900 --> 00:11:09.090 align:start position:0%
+most likely to be interested in what are
+the<00:11:07.930><c> news</c><00:11:08.140><c> articles</c><00:11:08.590><c> that</c><00:11:08.710><c> the</c><00:11:08.830><c> most</c><00:11:08.950><c> likely</c>
+
+00:11:09.090 --> 00:11:09.100 align:start position:0%
+the news articles that the most likely
+ 
+
+00:11:09.100 --> 00:11:11.280 align:start position:0%
+the news articles that the most likely
+click<00:11:09.490><c> on</c><00:11:09.670><c> closely</c><00:11:10.570><c> related</c><00:11:10.840><c> to</c><00:11:11.110><c> special</c>
+
+00:11:11.280 --> 00:11:11.290 align:start position:0%
+click on closely related to special
+ 
+
+00:11:11.290 --> 00:11:13.140 align:start position:0%
+click on closely related to special
+offers<00:11:11.740><c> will</c><00:11:12.010><c> be</c><00:11:12.100><c> positive</c><00:11:12.460><c> recommendations</c>
+
+00:11:13.140 --> 00:11:13.150 align:start position:0%
+offers will be positive recommendations
+ 
+
+00:11:13.150 --> 00:11:15.750 align:start position:0%
+offers will be positive recommendations
+and<00:11:13.450><c> in</c><00:11:14.050><c> fact</c><00:11:14.260><c> if</c><00:11:14.680><c> you</c><00:11:14.800><c> have</c><00:11:15.010><c> a</c><00:11:15.040><c> collaborative</c>
+
+00:11:15.750 --> 00:11:15.760 align:start position:0%
+and in fact if you have a collaborative
+ 
+
+00:11:15.760 --> 00:11:18.900 align:start position:0%
+and in fact if you have a collaborative
+filtering<00:11:16.140><c> system</c><00:11:17.140><c> you</c><00:11:18.040><c> can</c><00:11:18.190><c> even</c><00:11:18.340><c> imagine</c>
+
+00:11:18.900 --> 00:11:18.910 align:start position:0%
+filtering system you can even imagine
+ 
+
+00:11:18.910 --> 00:11:20.640 align:start position:0%
+filtering system you can even imagine
+the<00:11:19.060><c> collaborative</c><00:11:19.480><c> filtering</c><00:11:19.750><c> system</c>
+
+00:11:20.640 --> 00:11:20.650 align:start position:0%
+the collaborative filtering system
+ 
+
+00:11:20.650 --> 00:11:22.680 align:start position:0%
+the collaborative filtering system
+giving<00:11:21.220><c> you</c><00:11:21.340><c> additional</c><00:11:21.640><c> features</c><00:11:22.270><c> to</c><00:11:22.480><c> feed</c>
+
+00:11:22.680 --> 00:11:22.690 align:start position:0%
+giving you additional features to feed
+ 
+
+00:11:22.690 --> 00:11:24.990 align:start position:0%
+giving you additional features to feed
+into<00:11:22.900><c> a</c><00:11:23.050><c> logistic</c><00:11:23.590><c> regression</c><00:11:24.070><c> classifier</c><00:11:24.190><c> to</c>
+
+00:11:24.990 --> 00:11:25.000 align:start position:0%
+into a logistic regression classifier to
+ 
+
+00:11:25.000 --> 00:11:27.270 align:start position:0%
+into a logistic regression classifier to
+try<00:11:25.510><c> to</c><00:11:25.570><c> predict</c><00:11:26.020><c> the</c><00:11:26.230><c> click-through</c><00:11:26.770><c> rates</c>
+
+00:11:27.270 --> 00:11:27.280 align:start position:0%
+try to predict the click-through rates
+ 
+
+00:11:27.280 --> 00:11:28.620 align:start position:0%
+try to predict the click-through rates
+for<00:11:27.550><c> different</c><00:11:27.580><c> products</c><00:11:28.240><c> that</c><00:11:28.270><c> you</c><00:11:28.420><c> might</c>
+
+00:11:28.620 --> 00:11:28.630 align:start position:0%
+for different products that you might
+ 
+
+00:11:28.630 --> 00:11:30.990 align:start position:0%
+for different products that you might
+recommend<00:11:28.870><c> to</c><00:11:29.140><c> a</c><00:11:29.170><c> user</c><00:11:29.440><c> of</c><00:11:30.070><c> course</c><00:11:30.580><c> I</c><00:11:30.730><c> should</c>
+
+00:11:30.990 --> 00:11:31.000 align:start position:0%
+recommend to a user of course I should
+ 
+
+00:11:31.000 --> 00:11:32.970 align:start position:0%
+recommend to a user of course I should
+say<00:11:31.150><c> that</c><00:11:31.390><c> any</c><00:11:31.780><c> of</c><00:11:31.900><c> these</c><00:11:32.020><c> problems</c><00:11:32.350><c> could</c>
+
+00:11:32.970 --> 00:11:32.980 align:start position:0%
+say that any of these problems could
+ 
+
+00:11:32.980 --> 00:11:36.210 align:start position:0%
+say that any of these problems could
+also<00:11:33.250><c> have</c><00:11:33.820><c> been</c><00:11:34.120><c> formulated</c><00:11:34.480><c> as</c><00:11:35.110><c> a</c><00:11:35.220><c> standard</c>
+
+00:11:36.210 --> 00:11:36.220 align:start position:0%
+also have been formulated as a standard
+ 
+
+00:11:36.220 --> 00:11:37.650 align:start position:0%
+also have been formulated as a standard
+machine<00:11:36.610><c> learning</c><00:11:36.910><c> problem</c><00:11:37.360><c> where</c><00:11:37.540><c> you</c><00:11:37.630><c> have</c>
+
+00:11:37.650 --> 00:11:37.660 align:start position:0%
+machine learning problem where you have
+ 
+
+00:11:37.660 --> 00:11:39.900 align:start position:0%
+machine learning problem where you have
+a<00:11:37.840><c> fixed</c><00:11:38.290><c> training</c><00:11:38.470><c> set</c><00:11:38.650><c> maybe</c><00:11:39.070><c> you</c><00:11:39.190><c> can</c><00:11:39.310><c> run</c>
+
+00:11:39.900 --> 00:11:39.910 align:start position:0%
+a fixed training set maybe you can run
+ 
+
+00:11:39.910 --> 00:11:41.280 align:start position:0%
+a fixed training set maybe you can run
+your<00:11:40.030><c> website</c><00:11:40.390><c> for</c><00:11:40.510><c> a</c><00:11:40.570><c> few</c><00:11:40.750><c> days</c><00:11:40.930><c> and</c><00:11:41.200><c> then</c>
+
+00:11:41.280 --> 00:11:41.290 align:start position:0%
+your website for a few days and then
+ 
+
+00:11:41.290 --> 00:11:43.110 align:start position:0%
+your website for a few days and then
+save<00:11:41.590><c> away</c><00:11:41.920><c> a</c><00:11:41.950><c> training</c><00:11:42.430><c> set</c><00:11:42.790><c> a</c><00:11:42.820><c> fixed</c>
+
+00:11:43.110 --> 00:11:43.120 align:start position:0%
+save away a training set a fixed
+ 
+
+00:11:43.120 --> 00:11:44.580 align:start position:0%
+save away a training set a fixed
+training<00:11:43.360><c> set</c><00:11:43.510><c> and</c><00:11:43.690><c> run</c><00:11:43.930><c> and</c><00:11:44.110><c> learning</c><00:11:44.350><c> opera</c>
+
+00:11:44.580 --> 00:11:44.590 align:start position:0%
+training set and run and learning opera
+ 
+
+00:11:44.590 --> 00:11:48.180 align:start position:0%
+training set and run and learning opera
+on<00:11:44.710><c> that</c><00:11:44.970><c> but</c><00:11:45.970><c> these</c><00:11:46.480><c> are</c><00:11:46.540><c> the</c><00:11:46.980><c> actual</c><00:11:47.980><c> source</c>
+
+00:11:48.180 --> 00:11:48.190 align:start position:0%
+on that but these are the actual source
+ 
+
+00:11:48.190 --> 00:11:49.740 align:start position:0%
+on that but these are the actual source
+of<00:11:48.370><c> problems</c><00:11:48.790><c> where</c><00:11:49.000><c> you</c><00:11:49.030><c> do</c><00:11:49.270><c> see</c><00:11:49.510><c> large</c>
+
+00:11:49.740 --> 00:11:49.750 align:start position:0%
+of problems where you do see large
+ 
+
+00:11:49.750 --> 00:11:52.680 align:start position:0%
+of problems where you do see large
+companies<00:11:50.260><c> get</c><00:11:50.920><c> so</c><00:11:51.250><c> much</c><00:11:51.460><c> data</c><00:11:51.700><c> that</c><00:11:52.150><c> there's</c>
+
+00:11:52.680 --> 00:11:52.690 align:start position:0%
+companies get so much data that there's
+ 
+
+00:11:52.690 --> 00:11:54.510 align:start position:0%
+companies get so much data that there's
+really<00:11:52.840><c> maybe</c><00:11:53.140><c> no</c><00:11:53.380><c> need</c><00:11:53.620><c> to</c><00:11:53.890><c> save</c><00:11:54.160><c> away</c><00:11:54.490><c> a</c>
+
+00:11:54.510 --> 00:11:54.520 align:start position:0%
+really maybe no need to save away a
+ 
+
+00:11:54.520 --> 00:11:56.490 align:start position:0%
+really maybe no need to save away a
+fixed<00:11:54.940><c> training</c><00:11:55.090><c> set</c><00:11:55.240><c> but</c><00:11:55.630><c> instead</c><00:11:56.170><c> you</c><00:11:56.350><c> can</c>
+
+00:11:56.490 --> 00:11:56.500 align:start position:0%
+fixed training set but instead you can
+ 
+
+00:11:56.500 --> 00:11:58.290 align:start position:0%
+fixed training set but instead you can
+use<00:11:56.650><c> a</c><00:11:56.680><c> but</c><00:11:57.040><c> online</c><00:11:57.250><c> learning</c><00:11:57.640><c> algorithm</c><00:11:58.060><c> so</c>
+
+00:11:58.290 --> 00:11:58.300 align:start position:0%
+use a but online learning algorithm so
+ 
+
+00:11:58.300 --> 00:12:00.390 align:start position:0%
+use a but online learning algorithm so
+just<00:11:58.510><c> learn</c><00:11:58.720><c> continuously</c><00:11:59.320><c> from</c><00:12:00.070><c> the</c><00:12:00.160><c> data</c>
+
+00:12:00.390 --> 00:12:00.400 align:start position:0%
+just learn continuously from the data
+ 
+
+00:12:00.400 --> 00:12:02.400 align:start position:0%
+just learn continuously from the data
+that<00:12:00.790><c> users</c><00:12:01.180><c> you</c><00:12:01.300><c> are</c><00:12:01.510><c> generating</c><00:12:02.170><c> on</c><00:12:02.290><c> your</c>
+
+00:12:02.400 --> 00:12:02.410 align:start position:0%
+that users you are generating on your
+ 
+
+00:12:02.410 --> 00:12:04.340 align:start position:0%
+that users you are generating on your
+website
+
+00:12:04.340 --> 00:12:04.350 align:start position:0%
+website
+ 
+
+00:12:04.350 --> 00:12:07.129 align:start position:0%
+website
+so<00:12:05.220><c> that</c><00:12:05.579><c> was</c><00:12:05.790><c> the</c><00:12:05.970><c> online</c><00:12:06.180><c> learning</c><00:12:06.720><c> setting</c>
+
+00:12:07.129 --> 00:12:07.139 align:start position:0%
+so that was the online learning setting
+ 
+
+00:12:07.139 --> 00:12:09.170 align:start position:0%
+so that was the online learning setting
+and<00:12:07.560><c> as</c><00:12:07.949><c> we</c><00:12:08.130><c> saw</c><00:12:08.339><c> the</c><00:12:08.610><c> algorithm</c><00:12:09.000><c> that</c><00:12:09.060><c> we</c>
+
+00:12:09.170 --> 00:12:09.180 align:start position:0%
+and as we saw the algorithm that we
+ 
+
+00:12:09.180 --> 00:12:11.090 align:start position:0%
+and as we saw the algorithm that we
+applied<00:12:09.570><c> to</c><00:12:09.600><c> this</c><00:12:10.199><c> is</c><00:12:10.320><c> really</c><00:12:10.560><c> very</c><00:12:10.680><c> similar</c>
+
+00:12:11.090 --> 00:12:11.100 align:start position:0%
+applied to this is really very similar
+ 
+
+00:12:11.100 --> 00:12:12.470 align:start position:0%
+applied to this is really very similar
+to<00:12:11.399><c> the</c><00:12:11.519><c> stochastic</c><00:12:11.730><c> gradient</c><00:12:12.180><c> descent</c>
+
+00:12:12.470 --> 00:12:12.480 align:start position:0%
+to the stochastic gradient descent
+ 
+
+00:12:12.480 --> 00:12:14.900 align:start position:0%
+to the stochastic gradient descent
+algorithm<00:12:13.199><c> only</c><00:12:13.649><c> instead</c><00:12:14.310><c> of</c><00:12:14.490><c> scanning</c>
+
+00:12:14.900 --> 00:12:14.910 align:start position:0%
+algorithm only instead of scanning
+ 
+
+00:12:14.910 --> 00:12:16.670 align:start position:0%
+algorithm only instead of scanning
+through<00:12:15.360><c> a</c><00:12:15.389><c> fixed</c><00:12:15.630><c> training</c><00:12:15.899><c> set</c><00:12:16.050><c> we're</c>
+
+00:12:16.670 --> 00:12:16.680 align:start position:0%
+through a fixed training set we're
+ 
+
+00:12:16.680 --> 00:12:18.620 align:start position:0%
+through a fixed training set we're
+instead<00:12:16.980><c> getting</c><00:12:17.310><c> one</c><00:12:17.550><c> example</c><00:12:18.209><c> from</c><00:12:18.480><c> the</c>
+
+00:12:18.620 --> 00:12:18.630 align:start position:0%
+instead getting one example from the
+ 
+
+00:12:18.630 --> 00:12:20.360 align:start position:0%
+instead getting one example from the
+users<00:12:18.990><c> learning</c><00:12:19.410><c> from</c><00:12:19.560><c> that</c><00:12:19.709><c> example</c><00:12:20.009><c> in</c>
+
+00:12:20.360 --> 00:12:20.370 align:start position:0%
+users learning from that example in
+ 
+
+00:12:20.370 --> 00:12:23.240 align:start position:0%
+users learning from that example in
+discarding<00:12:20.910><c> it</c><00:12:21.029><c> and</c><00:12:21.449><c> moving</c><00:12:21.779><c> on</c><00:12:21.930><c> and</c><00:12:22.110><c> if</c><00:12:22.949><c> you</c>
+
+00:12:23.240 --> 00:12:23.250 align:start position:0%
+discarding it and moving on and if you
+ 
+
+00:12:23.250 --> 00:12:25.639 align:start position:0%
+discarding it and moving on and if you
+have<00:12:23.850><c> a</c><00:12:23.880><c> continuous</c><00:12:24.779><c> stream</c><00:12:24.810><c> of</c><00:12:25.019><c> data</c><00:12:25.290><c> for</c>
+
+00:12:25.639 --> 00:12:25.649 align:start position:0%
+have a continuous stream of data for
+ 
+
+00:12:25.649 --> 00:12:27.439 align:start position:0%
+have a continuous stream of data for
+some<00:12:25.769><c> application</c><00:12:26.370><c> this</c><00:12:26.910><c> sort</c><00:12:27.120><c> of</c><00:12:27.209><c> algorithm</c>
+
+00:12:27.439 --> 00:12:27.449 align:start position:0%
+some application this sort of algorithm
+ 
+
+00:12:27.449 --> 00:12:29.990 align:start position:0%
+some application this sort of algorithm
+may<00:12:28.019><c> be</c><00:12:28.079><c> well</c><00:12:28.380><c> worth</c><00:12:28.620><c> considering</c><00:12:29.069><c> for</c><00:12:29.459><c> your</c>
+
+00:12:29.990 --> 00:12:30.000 align:start position:0%
+may be well worth considering for your
+ 
+
+00:12:30.000 --> 00:12:32.300 align:start position:0%
+may be well worth considering for your
+application<00:12:30.720><c> and</c><00:12:30.899><c> of</c><00:12:31.410><c> course</c><00:12:31.649><c> one</c><00:12:32.069><c> of</c><00:12:32.100><c> the</c>
+
+00:12:32.300 --> 00:12:32.310 align:start position:0%
+application and of course one of the
+ 
+
+00:12:32.310 --> 00:12:34.759 align:start position:0%
+application and of course one of the
+advantage<00:12:33.060><c> of</c><00:12:33.269><c> online</c><00:12:33.600><c> learning</c><00:12:34.019><c> is</c><00:12:34.350><c> also</c>
+
+00:12:34.759 --> 00:12:34.769 align:start position:0%
+advantage of online learning is also
+ 
+
+00:12:34.769 --> 00:12:36.710 align:start position:0%
+advantage of online learning is also
+that<00:12:35.069><c> if</c><00:12:35.370><c> you</c><00:12:35.459><c> have</c><00:12:35.670><c> a</c><00:12:35.699><c> changing</c><00:12:36.300><c> pool</c><00:12:36.600><c> of</c>
+
+00:12:36.710 --> 00:12:36.720 align:start position:0%
+that if you have a changing pool of
+ 
+
+00:12:36.720 --> 00:12:38.930 align:start position:0%
+that if you have a changing pool of
+users<00:12:36.930><c> or</c><00:12:37.470><c> if</c><00:12:37.680><c> the</c><00:12:37.889><c> things</c><00:12:38.459><c> are</c><00:12:38.610><c> trying</c><00:12:38.850><c> to</c>
+
+00:12:38.930 --> 00:12:38.940 align:start position:0%
+users or if the things are trying to
+ 
+
+00:12:38.940 --> 00:12:41.300 align:start position:0%
+users or if the things are trying to
+predict<00:12:39.269><c> are</c><00:12:39.449><c> slowly</c><00:12:39.690><c> changing</c><00:12:40.319><c> user</c><00:12:40.980><c> taste</c>
+
+00:12:41.300 --> 00:12:41.310 align:start position:0%
+predict are slowly changing user taste
+ 
+
+00:12:41.310 --> 00:12:43.249 align:start position:0%
+predict are slowly changing user taste
+slowly<00:12:41.759><c> changing</c><00:12:42.209><c> the</c><00:12:42.630><c> online</c><00:12:42.990><c> learning</c>
+
+00:12:43.249 --> 00:12:43.259 align:start position:0%
+slowly changing the online learning
+ 
+
+00:12:43.259 --> 00:12:45.499 align:start position:0%
+slowly changing the online learning
+algorithm<00:12:43.560><c> can</c><00:12:43.920><c> slowly</c><00:12:44.519><c> adapt</c><00:12:45.060><c> your</c><00:12:45.300><c> learned</c>
+
+00:12:45.499 --> 00:12:45.509 align:start position:0%
+algorithm can slowly adapt your learned
+ 
+
+00:12:45.509 --> 00:12:48.350 align:start position:0%
+algorithm can slowly adapt your learned
+hypothesis<00:12:46.259><c> to</c><00:12:46.740><c> whatever</c><00:12:46.980><c> the</c><00:12:47.430><c> latest</c><00:12:47.610><c> sets</c>
+
+00:12:48.350 --> 00:12:48.360 align:start position:0%
+hypothesis to whatever the latest sets
+ 
+
+00:12:48.360 --> 00:12:52.310 align:start position:0%
+hypothesis to whatever the latest sets
+of<00:12:48.509><c> user</c><00:12:48.750><c> behaviors</c><00:12:49.410><c> are</c><00:12:49.680><c> like</c><00:12:49.889><c> as</c><00:12:50.100><c> well</c>
+

@@ -1,0 +1,2192 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.600 align:start position:0%
+ 
+you've<00:00:00.570><c> seen</c><00:00:00.780><c> how</c><00:00:01.020><c> regularization</c><00:00:01.530><c> can</c><00:00:02.370><c> help</c>
+
+00:00:02.600 --> 00:00:02.610 align:start position:0%
+you've seen how regularization can help
+ 
+
+00:00:02.610 --> 00:00:05.120 align:start position:0%
+you've seen how regularization can help
+prevent<00:00:02.939><c> overfitting</c><00:00:03.629><c> but</c><00:00:04.620><c> how</c><00:00:04.890><c> does</c><00:00:04.950><c> it</c>
+
+00:00:05.120 --> 00:00:05.130 align:start position:0%
+prevent overfitting but how does it
+ 
+
+00:00:05.130 --> 00:00:07.099 align:start position:0%
+prevent overfitting but how does it
+affect<00:00:05.609><c> the</c><00:00:05.670><c> bias</c><00:00:06.000><c> and</c><00:00:06.390><c> variance</c><00:00:06.420><c> of</c><00:00:07.020><c> a</c>
+
+00:00:07.099 --> 00:00:07.109 align:start position:0%
+affect the bias and variance of a
+ 
+
+00:00:07.109 --> 00:00:09.589 align:start position:0%
+affect the bias and variance of a
+learning<00:00:07.440><c> algorithm</c><00:00:07.740><c> in</c><00:00:08.670><c> this</c><00:00:08.940><c> video</c><00:00:09.330><c> I'd</c>
+
+00:00:09.589 --> 00:00:09.599 align:start position:0%
+learning algorithm in this video I'd
+ 
+
+00:00:09.599 --> 00:00:11.930 align:start position:0%
+learning algorithm in this video I'd
+like<00:00:09.780><c> to</c><00:00:09.840><c> go</c><00:00:10.080><c> deeper</c><00:00:10.590><c> into</c><00:00:10.860><c> the</c><00:00:11.070><c> issue</c><00:00:11.250><c> of</c><00:00:11.460><c> bias</c>
+
+00:00:11.930 --> 00:00:11.940 align:start position:0%
+like to go deeper into the issue of bias
+ 
+
+00:00:11.940 --> 00:00:14.419 align:start position:0%
+like to go deeper into the issue of bias
+and<00:00:12.269><c> variance</c><00:00:12.330><c> and</c><00:00:13.049><c> talk</c><00:00:13.710><c> about</c><00:00:14.009><c> how</c><00:00:14.250><c> it</c>
+
+00:00:14.419 --> 00:00:14.429 align:start position:0%
+and variance and talk about how it
+ 
+
+00:00:14.429 --> 00:00:17.060 align:start position:0%
+and variance and talk about how it
+interacts<00:00:14.910><c> with</c><00:00:15.240><c> and</c><00:00:15.540><c> is</c><00:00:15.750><c> affected</c><00:00:16.230><c> by</c><00:00:16.379><c> the</c>
+
+00:00:17.060 --> 00:00:17.070 align:start position:0%
+interacts with and is affected by the
+ 
+
+00:00:17.070 --> 00:00:18.920 align:start position:0%
+interacts with and is affected by the
+regularization<00:00:17.609><c> of</c><00:00:18.210><c> your</c><00:00:18.539><c> learning</c>
+
+00:00:18.920 --> 00:00:18.930 align:start position:0%
+regularization of your learning
+ 
+
+00:00:18.930 --> 00:00:23.540 align:start position:0%
+regularization of your learning
+algorithm<00:00:21.619><c> suppose</c><00:00:22.619><c> we</c><00:00:22.830><c> fit</c><00:00:23.100><c> a</c><00:00:23.310><c> linear</c>
+
+00:00:23.540 --> 00:00:23.550 align:start position:0%
+algorithm suppose we fit a linear
+ 
+
+00:00:23.550 --> 00:00:25.540 align:start position:0%
+algorithm suppose we fit a linear
+regression<00:00:23.789><c> model</c><00:00:24.180><c> with</c><00:00:24.750><c> a</c><00:00:24.810><c> very</c><00:00:25.170><c> high</c><00:00:25.439><c> order</c>
+
+00:00:25.540 --> 00:00:25.550 align:start position:0%
+regression model with a very high order
+ 
+
+00:00:25.550 --> 00:00:28.339 align:start position:0%
+regression model with a very high order
+polynomial<00:00:26.550><c> but</c><00:00:27.300><c> to</c><00:00:27.510><c> prevent</c><00:00:27.869><c> overfitting</c>
+
+00:00:28.339 --> 00:00:28.349 align:start position:0%
+polynomial but to prevent overfitting
+ 
+
+00:00:28.349 --> 00:00:30.470 align:start position:0%
+polynomial but to prevent overfitting
+we're<00:00:28.710><c> going</c><00:00:28.920><c> to</c><00:00:29.039><c> use</c><00:00:29.279><c> regularization</c><00:00:29.760><c> as</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+we're going to use regularization as
+ 
+
+00:00:30.480 --> 00:00:32.990 align:start position:0%
+we're going to use regularization as
+shown<00:00:30.779><c> here</c><00:00:31.080><c> suppose</c><00:00:31.949><c> we're</c><00:00:32.189><c> fitting</c><00:00:32.550><c> a</c><00:00:32.759><c> high</c>
+
+00:00:32.990 --> 00:00:33.000 align:start position:0%
+shown here suppose we're fitting a high
+ 
+
+00:00:33.000 --> 00:00:35.299 align:start position:0%
+shown here suppose we're fitting a high
+order<00:00:33.300><c> polynomial</c><00:00:34.170><c> like</c><00:00:34.440><c> that</c><00:00:34.680><c> shown</c><00:00:34.980><c> here</c>
+
+00:00:35.299 --> 00:00:35.309 align:start position:0%
+order polynomial like that shown here
+ 
+
+00:00:35.309 --> 00:00:37.790 align:start position:0%
+order polynomial like that shown here
+but<00:00:36.059><c> to</c><00:00:36.329><c> prevent</c><00:00:36.719><c> overfitting</c><00:00:37.200><c> we're</c><00:00:37.620><c> going</c>
+
+00:00:37.790 --> 00:00:37.800 align:start position:0%
+but to prevent overfitting we're going
+ 
+
+00:00:37.800 --> 00:00:39.530 align:start position:0%
+but to prevent overfitting we're going
+to<00:00:37.920><c> use</c><00:00:38.129><c> the</c><00:00:38.309><c> regularization</c><00:00:38.610><c> like</c><00:00:39.360><c> that</c>
+
+00:00:39.530 --> 00:00:39.540 align:start position:0%
+to use the regularization like that
+ 
+
+00:00:39.540 --> 00:00:40.970 align:start position:0%
+to use the regularization like that
+shown<00:00:39.809><c> here</c><00:00:40.079><c> so</c><00:00:40.410><c> we</c><00:00:40.559><c> have</c><00:00:40.770><c> this</c>
+
+00:00:40.970 --> 00:00:40.980 align:start position:0%
+shown here so we have this
+ 
+
+00:00:40.980 --> 00:00:43.549 align:start position:0%
+shown here so we have this
+regularization<00:00:41.460><c> term</c><00:00:41.879><c> to</c><00:00:42.780><c> try</c><00:00:43.020><c> to</c><00:00:43.079><c> keep</c><00:00:43.410><c> the</c>
+
+00:00:43.549 --> 00:00:43.559 align:start position:0%
+regularization term to try to keep the
+ 
+
+00:00:43.559 --> 00:00:45.560 align:start position:0%
+regularization term to try to keep the
+pair<00:00:43.860><c> the</c><00:00:44.219><c> values</c><00:00:44.610><c> of</c><00:00:44.789><c> the</c><00:00:44.879><c> parameter</c><00:00:45.300><c> small</c>
+
+00:00:45.560 --> 00:00:45.570 align:start position:0%
+pair the values of the parameter small
+ 
+
+00:00:45.570 --> 00:00:47.690 align:start position:0%
+pair the values of the parameter small
+and<00:00:45.809><c> as</c><00:00:45.930><c> usual</c><00:00:46.350><c> the</c><00:00:46.559><c> regularization</c><00:00:46.950><c> stems</c>
+
+00:00:47.690 --> 00:00:47.700 align:start position:0%
+and as usual the regularization stems
+ 
+
+00:00:47.700 --> 00:00:50.180 align:start position:0%
+and as usual the regularization stems
+from<00:00:47.879><c> J</c><00:00:48.480><c> equals</c><00:00:48.809><c> 1</c><00:00:48.870><c> to</c><00:00:49.110><c> M</c><00:00:49.410><c> rather</c><00:00:49.710><c> than</c><00:00:49.980><c> J</c>
+
+00:00:50.180 --> 00:00:50.190 align:start position:0%
+from J equals 1 to M rather than J
+ 
+
+00:00:50.190 --> 00:00:53.029 align:start position:0%
+from J equals 1 to M rather than J
+equals<00:00:50.460><c> 0</c><00:00:50.820><c> to</c><00:00:51.030><c> them</c><00:00:51.350><c> let's</c><00:00:52.350><c> consider</c><00:00:52.739><c> three</c>
+
+00:00:53.029 --> 00:00:53.039 align:start position:0%
+equals 0 to them let's consider three
+ 
+
+00:00:53.039 --> 00:00:55.850 align:start position:0%
+equals 0 to them let's consider three
+cases<00:00:53.640><c> the</c><00:00:53.879><c> first</c><00:00:54.120><c> is</c><00:00:54.420><c> a</c><00:00:54.449><c> case</c><00:00:54.840><c> of</c><00:00:54.870><c> a</c><00:00:55.410><c> very</c>
+
+00:00:55.850 --> 00:00:55.860 align:start position:0%
+cases the first is a case of a very
+ 
+
+00:00:55.860 --> 00:00:57.139 align:start position:0%
+cases the first is a case of a very
+large<00:00:56.219><c> value</c><00:00:56.550><c> of</c><00:00:56.760><c> the</c><00:00:57.030><c> regularization</c>
+
+00:00:57.139 --> 00:00:57.149 align:start position:0%
+large value of the regularization
+ 
+
+00:00:57.149 --> 00:01:00.709 align:start position:0%
+large value of the regularization
+parameter<00:00:58.020><c> lambda</c><00:00:58.590><c> such</c><00:00:59.430><c> as</c><00:00:59.640><c> if</c><00:00:59.850><c> lambda</c><00:01:00.090><c> were</c>
+
+00:01:00.709 --> 00:01:00.719 align:start position:0%
+parameter lambda such as if lambda were
+ 
+
+00:01:00.719 --> 00:01:04.310 align:start position:0%
+parameter lambda such as if lambda were
+equal<00:01:00.750><c> to</c><00:01:01.170><c> 10,000</c><00:01:01.980><c> some</c><00:01:02.190><c> huge</c><00:01:02.460><c> value</c><00:01:02.850><c> in</c><00:01:03.320><c> this</c>
+
+00:01:04.310 --> 00:01:04.320 align:start position:0%
+equal to 10,000 some huge value in this
+ 
+
+00:01:04.320 --> 00:01:06.649 align:start position:0%
+equal to 10,000 some huge value in this
+case<00:01:04.589><c> all</c><00:01:05.100><c> of</c><00:01:05.159><c> these</c><00:01:05.519><c> parameters</c><00:01:05.790><c> theta</c><00:01:06.420><c> 1</c>
+
+00:01:06.649 --> 00:01:06.659 align:start position:0%
+case all of these parameters theta 1
+ 
+
+00:01:06.659 --> 00:01:08.630 align:start position:0%
+case all of these parameters theta 1
+theta<00:01:06.900><c> 2</c><00:01:07.080><c> theta</c><00:01:07.229><c> 3</c><00:01:07.650><c> and</c><00:01:08.040><c> so</c><00:01:08.159><c> on</c><00:01:08.189><c> will</c><00:01:08.520><c> be</c>
+
+00:01:08.630 --> 00:01:08.640 align:start position:0%
+theta 2 theta 3 and so on will be
+ 
+
+00:01:08.640 --> 00:01:11.300 align:start position:0%
+theta 2 theta 3 and so on will be
+heavily<00:01:09.000><c> penalized</c><00:01:09.299><c> and</c><00:01:09.900><c> so</c><00:01:10.650><c> we'll</c><00:01:10.950><c> end</c><00:01:11.130><c> up</c>
+
+00:01:11.300 --> 00:01:11.310 align:start position:0%
+heavily penalized and so we'll end up
+ 
+
+00:01:11.310 --> 00:01:14.179 align:start position:0%
+heavily penalized and so we'll end up
+with<00:01:12.080><c> most</c><00:01:13.080><c> of</c><00:01:13.200><c> these</c><00:01:13.350><c> parameter</c><00:01:13.560><c> values</c>
+
+00:01:14.179 --> 00:01:14.189 align:start position:0%
+with most of these parameter values
+ 
+
+00:01:14.189 --> 00:01:16.760 align:start position:0%
+with most of these parameter values
+being<00:01:14.400><c> close</c><00:01:14.700><c> to</c><00:01:14.850><c> zero</c><00:01:15.180><c> and</c><00:01:15.450><c> the</c><00:01:16.020><c> hypothesis</c>
+
+00:01:16.760 --> 00:01:16.770 align:start position:0%
+being close to zero and the hypothesis
+ 
+
+00:01:16.770 --> 00:01:19.340 align:start position:0%
+being close to zero and the hypothesis
+will<00:01:17.040><c> be</c><00:01:17.159><c> roughly</c><00:01:17.490><c> H</c><00:01:17.820><c> of</c><00:01:18.000><c> X</c><00:01:18.180><c> just</c><00:01:18.570><c> equal</c><00:01:19.080><c> or</c>
+
+00:01:19.340 --> 00:01:19.350 align:start position:0%
+will be roughly H of X just equal or
+ 
+
+00:01:19.350 --> 00:01:21.679 align:start position:0%
+will be roughly H of X just equal or
+approximately<00:01:19.409><c> equal</c><00:01:20.280><c> to</c><00:01:20.310><c> theta</c><00:01:20.610><c> 0</c><00:01:21.119><c> and</c><00:01:21.150><c> so</c><00:01:21.479><c> we</c>
+
+00:01:21.679 --> 00:01:21.689 align:start position:0%
+approximately equal to theta 0 and so we
+ 
+
+00:01:21.689 --> 00:01:23.840 align:start position:0%
+approximately equal to theta 0 and so we
+end<00:01:21.810><c> up</c><00:01:21.930><c> with</c><00:01:22.110><c> the</c><00:01:22.200><c> hypothesis</c><00:01:22.920><c> that</c><00:01:23.070><c> more</c><00:01:23.759><c> or</c>
+
+00:01:23.840 --> 00:01:23.850 align:start position:0%
+end up with the hypothesis that more or
+ 
+
+00:01:23.850 --> 00:01:25.429 align:start position:0%
+end up with the hypothesis that more or
+less<00:01:23.880><c> looks</c><00:01:24.240><c> like</c><00:01:24.390><c> that</c><00:01:24.570><c> this</c><00:01:24.750><c> is</c><00:01:24.930><c> more</c><00:01:25.200><c> than</c><00:01:25.380><c> a</c>
+
+00:01:25.429 --> 00:01:25.439 align:start position:0%
+less looks like that this is more than a
+ 
+
+00:01:25.439 --> 00:01:28.999 align:start position:0%
+less looks like that this is more than a
+flat<00:01:26.189><c> constant</c><00:01:26.880><c> straight</c><00:01:27.150><c> line</c><00:01:27.360><c> and</c><00:01:27.750><c> so</c><00:01:28.680><c> this</c>
+
+00:01:28.999 --> 00:01:29.009 align:start position:0%
+flat constant straight line and so this
+ 
+
+00:01:29.009 --> 00:01:31.819 align:start position:0%
+flat constant straight line and so this
+hypothesis<00:01:29.759><c> has</c><00:01:30.329><c> high</c><00:01:30.630><c> bias</c><00:01:30.869><c> and</c><00:01:31.380><c> the</c><00:01:31.439><c> badly</c>
+
+00:01:31.819 --> 00:01:31.829 align:start position:0%
+hypothesis has high bias and the badly
+ 
+
+00:01:31.829 --> 00:01:33.649 align:start position:0%
+hypothesis has high bias and the badly
+under<00:01:32.189><c> fits</c><00:01:32.400><c> this</c><00:01:32.640><c> data</c><00:01:32.880><c> sets</c><00:01:33.270><c> about</c>
+
+00:01:33.649 --> 00:01:33.659 align:start position:0%
+under fits this data sets about
+ 
+
+00:01:33.659 --> 00:01:35.660 align:start position:0%
+under fits this data sets about
+horizontal<00:01:34.530><c> straight</c><00:01:34.770><c> line</c><00:01:34.829><c> is</c><00:01:35.189><c> just</c><00:01:35.400><c> not</c><00:01:35.640><c> a</c>
+
+00:01:35.660 --> 00:01:35.670 align:start position:0%
+horizontal straight line is just not a
+ 
+
+00:01:35.670 --> 00:01:37.940 align:start position:0%
+horizontal straight line is just not a
+very<00:01:35.939><c> good</c><00:01:36.119><c> model</c><00:01:36.299><c> for</c><00:01:36.750><c> this</c><00:01:36.840><c> data</c><00:01:36.900><c> set</c><00:01:37.170><c> and</c>
+
+00:01:37.940 --> 00:01:37.950 align:start position:0%
+very good model for this data set and
+ 
+
+00:01:37.950 --> 00:01:40.640 align:start position:0%
+very good model for this data set and
+the<00:01:38.189><c> other</c><00:01:38.340><c> extreme</c><00:01:38.850><c> is</c><00:01:39.119><c> if</c><00:01:39.630><c> we</c><00:01:39.869><c> have</c><00:01:40.140><c> a</c><00:01:40.350><c> very</c>
+
+00:01:40.640 --> 00:01:40.650 align:start position:0%
+the other extreme is if we have a very
+ 
+
+00:01:40.650 --> 00:01:43.429 align:start position:0%
+the other extreme is if we have a very
+small<00:01:41.070><c> value</c><00:01:41.280><c> of</c><00:01:41.549><c> lambda</c><00:01:41.700><c> such</c><00:01:42.390><c> as</c><00:01:42.600><c> if</c><00:01:42.840><c> lambda</c>
+
+00:01:43.429 --> 00:01:43.439 align:start position:0%
+small value of lambda such as if lambda
+ 
+
+00:01:43.439 --> 00:01:46.700 align:start position:0%
+small value of lambda such as if lambda
+were<00:01:43.829><c> equal</c><00:01:43.860><c> to</c><00:01:44.280><c> zero</c><00:01:44.759><c> in</c><00:01:45.060><c> that</c><00:01:45.810><c> case</c><00:01:46.049><c> given</c>
+
+00:01:46.700 --> 00:01:46.710 align:start position:0%
+were equal to zero in that case given
+ 
+
+00:01:46.710 --> 00:01:47.929 align:start position:0%
+were equal to zero in that case given
+that<00:01:46.950><c> with</c><00:01:47.100><c> fitting</c><00:01:47.430><c> a</c><00:01:47.490><c> high</c><00:01:47.700><c> order</c>
+
+00:01:47.929 --> 00:01:47.939 align:start position:0%
+that with fitting a high order
+ 
+
+00:01:47.939 --> 00:01:50.980 align:start position:0%
+that with fitting a high order
+polynomial<00:01:48.750><c> this</c><00:01:49.320><c> is</c><00:01:49.500><c> a</c><00:01:49.530><c> usual</c><00:01:49.920><c> overfitting</c>
+
+00:01:50.980 --> 00:01:50.990 align:start position:0%
+polynomial this is a usual overfitting
+ 
+
+00:01:50.990 --> 00:01:54.139 align:start position:0%
+polynomial this is a usual overfitting
+setting<00:01:51.990><c> in</c><00:01:52.799><c> that</c><00:01:53.009><c> case</c><00:01:53.310><c> given</c><00:01:53.790><c> that</c><00:01:53.970><c> with</c>
+
+00:01:54.139 --> 00:01:54.149 align:start position:0%
+setting in that case given that with
+ 
+
+00:01:54.149 --> 00:01:55.940 align:start position:0%
+setting in that case given that with
+fitting<00:01:54.540><c> a</c><00:01:54.720><c> high</c><00:01:54.960><c> order</c><00:01:55.170><c> polynomial</c>
+
+00:01:55.940 --> 00:01:55.950 align:start position:0%
+fitting a high order polynomial
+ 
+
+00:01:55.950 --> 00:01:58.190 align:start position:0%
+fitting a high order polynomial
+basically<00:01:56.549><c> without</c><00:01:56.880><c> regularization</c><00:01:57.329><c> or</c><00:01:57.899><c> with</c>
+
+00:01:58.190 --> 00:01:58.200 align:start position:0%
+basically without regularization or with
+ 
+
+00:01:58.200 --> 00:02:00.469 align:start position:0%
+basically without regularization or with
+very<00:01:58.439><c> minimal</c><00:01:58.710><c> verbalization</c><00:01:59.579><c> we</c><00:02:00.210><c> end</c><00:02:00.329><c> up</c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+very minimal verbalization we end up
+ 
+
+00:02:00.479 --> 00:02:02.630 align:start position:0%
+very minimal verbalization we end up
+with<00:02:00.689><c> our</c><00:02:00.840><c> usual</c><00:02:01.079><c> high</c><00:02:01.560><c> variance</c><00:02:02.009><c> overfitting</c>
+
+00:02:02.630 --> 00:02:02.640 align:start position:0%
+with our usual high variance overfitting
+ 
+
+00:02:02.640 --> 00:02:04.730 align:start position:0%
+with our usual high variance overfitting
+setting<00:02:03.210><c> this</c><00:02:03.630><c> basically</c><00:02:04.079><c> if</c><00:02:04.259><c> long</c><00:02:04.469><c> dress</c>
+
+00:02:04.730 --> 00:02:04.740 align:start position:0%
+setting this basically if long dress
+ 
+
+00:02:04.740 --> 00:02:05.450 align:start position:0%
+setting this basically if long dress
+equals<00:02:05.040><c> 0</c>
+
+00:02:05.450 --> 00:02:05.460 align:start position:0%
+equals 0
+ 
+
+00:02:05.460 --> 00:02:06.710 align:start position:0%
+equals 0
+which<00:02:05.580><c> is</c><00:02:05.730><c> fitting</c><00:02:06.090><c> it</c><00:02:06.210><c> without</c>
+
+00:02:06.710 --> 00:02:06.720 align:start position:0%
+which is fitting it without
+ 
+
+00:02:06.720 --> 00:02:09.230 align:start position:0%
+which is fitting it without
+regularization<00:02:07.460><c> so</c><00:02:08.460><c> that</c><00:02:08.610><c> all</c><00:02:08.820><c> the</c><00:02:08.970><c> fits</c><00:02:09.149><c> the</c>
+
+00:02:09.230 --> 00:02:09.240 align:start position:0%
+regularization so that all the fits the
+ 
+
+00:02:09.240 --> 00:02:11.630 align:start position:0%
+regularization so that all the fits the
+hypothesis<00:02:09.899><c> and</c><00:02:10.710><c> there's</c><00:02:10.890><c> only</c><00:02:11.100><c> if</c><00:02:11.310><c> we</c><00:02:11.460><c> have</c>
+
+00:02:11.630 --> 00:02:11.640 align:start position:0%
+hypothesis and there's only if we have
+ 
+
+00:02:11.640 --> 00:02:13.850 align:start position:0%
+hypothesis and there's only if we have
+some<00:02:11.880><c> intermediate</c><00:02:12.270><c> value</c><00:02:12.660><c> of</c><00:02:13.140><c> lambda</c><00:02:13.590><c> that</c>
+
+00:02:13.850 --> 00:02:13.860 align:start position:0%
+some intermediate value of lambda that
+ 
+
+00:02:13.860 --> 00:02:16.670 align:start position:0%
+some intermediate value of lambda that
+is<00:02:13.920><c> neither</c><00:02:14.610><c> too</c><00:02:14.940><c> large</c><00:02:15.180><c> nor</c><00:02:15.360><c> too</c><00:02:15.720><c> small</c><00:02:15.900><c> that</c>
+
+00:02:16.670 --> 00:02:16.680 align:start position:0%
+is neither too large nor too small that
+ 
+
+00:02:16.680 --> 00:02:19.340 align:start position:0%
+is neither too large nor too small that
+we<00:02:16.800><c> observed</c><00:02:17.190><c> with</c><00:02:17.630><c> parameters</c><00:02:18.630><c> theta</c><00:02:18.930><c> that</c>
+
+00:02:19.340 --> 00:02:19.350 align:start position:0%
+we observed with parameters theta that
+ 
+
+00:02:19.350 --> 00:02:23.060 align:start position:0%
+we observed with parameters theta that
+give<00:02:19.740><c> us</c><00:02:19.890><c> a</c><00:02:20.130><c> reasonable</c><00:02:20.610><c> fit</c><00:02:21.030><c> to</c><00:02:21.690><c> this</c><00:02:21.900><c> data</c><00:02:22.070><c> so</c>
+
+00:02:23.060 --> 00:02:23.070 align:start position:0%
+give us a reasonable fit to this data so
+ 
+
+00:02:23.070 --> 00:02:26.030 align:start position:0%
+give us a reasonable fit to this data so
+how<00:02:23.459><c> can</c><00:02:23.520><c> we</c><00:02:23.790><c> automatically</c><00:02:24.540><c> choose</c><00:02:24.990><c> a</c><00:02:25.350><c> good</c>
+
+00:02:26.030 --> 00:02:26.040 align:start position:0%
+how can we automatically choose a good
+ 
+
+00:02:26.040 --> 00:02:27.800 align:start position:0%
+how can we automatically choose a good
+value<00:02:26.520><c> for</c><00:02:26.550><c> the</c><00:02:26.850><c> regularization</c><00:02:26.880><c> parameter</c>
+
+00:02:27.800 --> 00:02:27.810 align:start position:0%
+value for the regularization parameter
+ 
+
+00:02:27.810 --> 00:02:30.560 align:start position:0%
+value for the regularization parameter
+lambda<00:02:28.340><c> just</c><00:02:29.340><c> to</c><00:02:29.490><c> reiterate</c><00:02:29.670><c> here</c><00:02:30.300><c> is</c><00:02:30.390><c> our</c>
+
+00:02:30.560 --> 00:02:30.570 align:start position:0%
+lambda just to reiterate here is our
+ 
+
+00:02:30.570 --> 00:02:32.120 align:start position:0%
+lambda just to reiterate here is our
+model<00:02:30.930><c> and</c><00:02:31.110><c> here</c><00:02:31.740><c> is</c><00:02:31.830><c> our</c><00:02:31.980><c> learning</c>
+
+00:02:32.120 --> 00:02:32.130 align:start position:0%
+model and here is our learning
+ 
+
+00:02:32.130 --> 00:02:34.310 align:start position:0%
+model and here is our learning
+algorithms<00:02:32.760><c> objective</c><00:02:33.270><c> for</c><00:02:33.870><c> the</c><00:02:33.959><c> setting</c>
+
+00:02:34.310 --> 00:02:34.320 align:start position:0%
+algorithms objective for the setting
+ 
+
+00:02:34.320 --> 00:02:36.770 align:start position:0%
+algorithms objective for the setting
+where<00:02:34.500><c> we're</c><00:02:34.650><c> using</c><00:02:34.680><c> regularization</c><00:02:35.670><c> let</c><00:02:36.660><c> me</c>
+
+00:02:36.770 --> 00:02:36.780 align:start position:0%
+where we're using regularization let me
+ 
+
+00:02:36.780 --> 00:02:39.650 align:start position:0%
+where we're using regularization let me
+define<00:02:37.110><c> J</c><00:02:37.530><c> train</c><00:02:37.560><c> of</c><00:02:38.010><c> theta</c><00:02:38.220><c> to</c><00:02:39.209><c> be</c><00:02:39.330><c> something</c>
+
+00:02:39.650 --> 00:02:39.660 align:start position:0%
+define J train of theta to be something
+ 
+
+00:02:39.660 --> 00:02:41.890 align:start position:0%
+define J train of theta to be something
+different<00:02:39.810><c> to</c><00:02:40.560><c> be</c><00:02:40.709><c> the</c><00:02:40.950><c> optimization</c>
+
+00:02:41.890 --> 00:02:41.900 align:start position:0%
+different to be the optimization
+ 
+
+00:02:41.900 --> 00:02:44.420 align:start position:0%
+different to be the optimization
+objective<00:02:42.900><c> but</c><00:02:43.290><c> without</c><00:02:43.650><c> the</c><00:02:44.040><c> regularization</c>
+
+00:02:44.420 --> 00:02:44.430 align:start position:0%
+objective but without the regularization
+ 
+
+00:02:44.430 --> 00:02:48.020 align:start position:0%
+objective but without the regularization
+term<00:02:45.200><c> previously</c><00:02:46.200><c> in</c><00:02:46.530><c> an</c><00:02:47.010><c> earlier</c><00:02:47.400><c> video</c><00:02:47.580><c> when</c>
+
+00:02:48.020 --> 00:02:48.030 align:start position:0%
+term previously in an earlier video when
+ 
+
+00:02:48.030 --> 00:02:50.090 align:start position:0%
+term previously in an earlier video when
+we<00:02:48.060><c> were</c><00:02:48.330><c> not</c><00:02:48.540><c> using</c><00:02:48.989><c> regularization</c><00:02:49.230><c> I</c>
+
+00:02:50.090 --> 00:02:50.100 align:start position:0%
+we were not using regularization I
+ 
+
+00:02:50.100 --> 00:02:53.000 align:start position:0%
+we were not using regularization I
+define<00:02:50.730><c> J</c><00:02:51.030><c> train</c><00:02:51.060><c> of</c><00:02:51.480><c> theta</c><00:02:51.660><c> to</c><00:02:52.530><c> be</c><00:02:52.650><c> the</c><00:02:52.770><c> same</c>
+
+00:02:53.000 --> 00:02:53.010 align:start position:0%
+define J train of theta to be the same
+ 
+
+00:02:53.010 --> 00:02:55.820 align:start position:0%
+define J train of theta to be the same
+as<00:02:53.280><c> J</c><00:02:53.610><c> of</c><00:02:53.760><c> theta</c><00:02:53.790><c> as</c><00:02:54.330><c> the</c><00:02:54.480><c> cost</c><00:02:54.690><c> function</c><00:02:54.900><c> but</c>
+
+00:02:55.820 --> 00:02:55.830 align:start position:0%
+as J of theta as the cost function but
+ 
+
+00:02:55.830 --> 00:02:58.130 align:start position:0%
+as J of theta as the cost function but
+when<00:02:56.040><c> we're</c><00:02:56.220><c> using</c><00:02:56.420><c> regularization</c><00:02:57.420><c> when</c><00:02:58.020><c> the</c>
+
+00:02:58.130 --> 00:02:58.140 align:start position:0%
+when we're using regularization when the
+ 
+
+00:02:58.140 --> 00:02:59.930 align:start position:0%
+when we're using regularization when the
+sixth<00:02:58.500><c> row</c><00:02:58.590><c> lambda</c><00:02:58.950><c> term</c><00:02:59.160><c> we're</c><00:02:59.700><c> going</c><00:02:59.730><c> to</c>
+
+00:02:59.930 --> 00:02:59.940 align:start position:0%
+sixth row lambda term we're going to
+ 
+
+00:02:59.940 --> 00:03:02.690 align:start position:0%
+sixth row lambda term we're going to
+define<00:03:00.030><c> J</c><00:03:01.020><c> train</c><00:03:01.050><c> my</c><00:03:01.620><c> training</c><00:03:02.010><c> set</c><00:03:02.190><c> error</c><00:03:02.220><c> to</c>
+
+00:03:02.690 --> 00:03:02.700 align:start position:0%
+define J train my training set error to
+ 
+
+00:03:02.700 --> 00:03:05.060 align:start position:0%
+define J train my training set error to
+be<00:03:02.820><c> just</c><00:03:03.090><c> my</c><00:03:03.300><c> sum</c><00:03:03.600><c> of</c><00:03:03.720><c> squared</c><00:03:03.989><c> errors</c><00:03:04.050><c> on</c><00:03:04.590><c> the</c>
+
+00:03:05.060 --> 00:03:05.070 align:start position:0%
+be just my sum of squared errors on the
+ 
+
+00:03:05.070 --> 00:03:06.979 align:start position:0%
+be just my sum of squared errors on the
+training<00:03:05.100><c> set</c><00:03:05.640><c> or</c><00:03:05.760><c> my</c><00:03:05.910><c> average</c><00:03:06.360><c> squared</c><00:03:06.870><c> error</c>
+
+00:03:06.979 --> 00:03:06.989 align:start position:0%
+training set or my average squared error
+ 
+
+00:03:06.989 --> 00:03:09.020 align:start position:0%
+training set or my average squared error
+on<00:03:07.260><c> the</c><00:03:07.380><c> training</c><00:03:07.500><c> set</c><00:03:07.860><c> without</c><00:03:08.550><c> taking</c><00:03:08.910><c> into</c>
+
+00:03:09.020 --> 00:03:09.030 align:start position:0%
+on the training set without taking into
+ 
+
+00:03:09.030 --> 00:03:10.759 align:start position:0%
+on the training set without taking into
+account<00:03:09.150><c> that</c><00:03:09.480><c> regularization</c><00:03:09.989><c> term</c><00:03:10.350><c> and</c>
+
+00:03:10.759 --> 00:03:10.769 align:start position:0%
+account that regularization term and
+ 
+
+00:03:10.769 --> 00:03:13.580 align:start position:0%
+account that regularization term and
+similarly<00:03:11.640><c> I'm</c><00:03:12.030><c> then</c><00:03:12.420><c> also</c><00:03:12.660><c> going</c><00:03:13.049><c> to</c><00:03:13.170><c> define</c>
+
+00:03:13.580 --> 00:03:13.590 align:start position:0%
+similarly I'm then also going to define
+ 
+
+00:03:13.590 --> 00:03:16.280 align:start position:0%
+similarly I'm then also going to define
+the<00:03:13.830><c> cross-validation</c><00:03:14.280><c> set</c><00:03:14.970><c> error</c><00:03:15.269><c> when</c><00:03:16.049><c> the</c>
+
+00:03:16.280 --> 00:03:16.290 align:start position:0%
+the cross-validation set error when the
+ 
+
+00:03:16.290 --> 00:03:18.320 align:start position:0%
+the cross-validation set error when the
+test<00:03:16.560><c> set</c><00:03:16.709><c> error</c><00:03:16.890><c> as</c><00:03:17.220><c> before</c><00:03:17.700><c> to</c><00:03:18.000><c> be</c><00:03:18.120><c> the</c>
+
+00:03:18.320 --> 00:03:18.330 align:start position:0%
+test set error as before to be the
+ 
+
+00:03:18.330 --> 00:03:20.570 align:start position:0%
+test set error as before to be the
+average<00:03:18.540><c> sum</c><00:03:19.080><c> of</c><00:03:19.230><c> squared</c><00:03:19.530><c> errors</c><00:03:19.860><c> on</c><00:03:20.070><c> the</c>
+
+00:03:20.570 --> 00:03:20.580 align:start position:0%
+average sum of squared errors on the
+ 
+
+00:03:20.580 --> 00:03:23.830 align:start position:0%
+average sum of squared errors on the
+cross-validation<00:03:20.820><c> and</c><00:03:21.720><c> the</c><00:03:21.840><c> test</c><00:03:22.080><c> sets</c><00:03:22.489><c> so</c>
+
+00:03:23.830 --> 00:03:23.840 align:start position:0%
+cross-validation and the test sets so
+ 
+
+00:03:23.840 --> 00:03:27.050 align:start position:0%
+cross-validation and the test sets so
+just<00:03:24.840><c> to</c><00:03:24.930><c> summarize</c><00:03:25.410><c> my</c><00:03:25.769><c> definitions</c><00:03:26.640><c> of</c><00:03:26.820><c> J</c>
+
+00:03:27.050 --> 00:03:27.060 align:start position:0%
+just to summarize my definitions of J
+ 
+
+00:03:27.060 --> 00:03:29.870 align:start position:0%
+just to summarize my definitions of J
+train<00:03:27.360><c> j</c><00:03:27.690><c> cv</c><00:03:27.989><c> and</c><00:03:28.410><c> j</c><00:03:28.620><c> tests</c><00:03:28.920><c> are</c><00:03:29.340><c> just</c><00:03:29.730><c> the</c>
+
+00:03:29.870 --> 00:03:29.880 align:start position:0%
+train j cv and j tests are just the
+ 
+
+00:03:29.880 --> 00:03:32.000 align:start position:0%
+train j cv and j tests are just the
+average<00:03:30.330><c> squared</c><00:03:30.660><c> error</c><00:03:30.810><c> or</c><00:03:31.230><c> one</c><00:03:31.410><c> half</c><00:03:31.680><c> of</c><00:03:31.920><c> the</c>
+
+00:03:32.000 --> 00:03:32.010 align:start position:0%
+average squared error or one half of the
+ 
+
+00:03:32.010 --> 00:03:33.530 align:start position:0%
+average squared error or one half of the
+average<00:03:32.160><c> squared</c><00:03:32.610><c> error</c><00:03:32.760><c> on</c><00:03:33.180><c> my</c><00:03:33.510><c> training</c>
+
+00:03:33.530 --> 00:03:33.540 align:start position:0%
+average squared error on my training
+ 
+
+00:03:33.540 --> 00:03:36.530 align:start position:0%
+average squared error on my training
+validation<00:03:34.080><c> and</c><00:03:34.769><c> test</c><00:03:34.980><c> sets</c><00:03:35.040><c> without</c><00:03:35.670><c> the</c>
+
+00:03:36.530 --> 00:03:36.540 align:start position:0%
+validation and test sets without the
+ 
+
+00:03:36.540 --> 00:03:39.289 align:start position:0%
+validation and test sets without the
+extra<00:03:37.049><c> regularization</c><00:03:37.350><c> term</c><00:03:37.739><c> so</c><00:03:38.489><c> this</c><00:03:38.910><c> is</c><00:03:39.090><c> how</c>
+
+00:03:39.289 --> 00:03:39.299 align:start position:0%
+extra regularization term so this is how
+ 
+
+00:03:39.299 --> 00:03:41.449 align:start position:0%
+extra regularization term so this is how
+we<00:03:39.360><c> can</c><00:03:39.720><c> automatically</c><00:03:40.500><c> choose</c><00:03:40.950><c> the</c>
+
+00:03:41.449 --> 00:03:41.459 align:start position:0%
+we can automatically choose the
+ 
+
+00:03:41.459 --> 00:03:44.120 align:start position:0%
+we can automatically choose the
+regularization<00:03:41.850><c> parameter</c><00:03:42.420><c> lambda</c><00:03:43.100><c> what</c><00:03:44.100><c> I</c>
+
+00:03:44.120 --> 00:03:44.130 align:start position:0%
+regularization parameter lambda what I
+ 
+
+00:03:44.130 --> 00:03:46.910 align:start position:0%
+regularization parameter lambda what I
+usually<00:03:44.400><c> do</c><00:03:44.790><c> is</c><00:03:45.060><c> maybe</c><00:03:45.750><c> have</c><00:03:46.049><c> some</c><00:03:46.320><c> range</c><00:03:46.620><c> of</c>
+
+00:03:46.910 --> 00:03:46.920 align:start position:0%
+usually do is maybe have some range of
+ 
+
+00:03:46.920 --> 00:03:49.039 align:start position:0%
+usually do is maybe have some range of
+values<00:03:47.400><c> of</c><00:03:47.430><c> lambda</c><00:03:47.790><c> I</c><00:03:48.030><c> want</c><00:03:48.239><c> to</c><00:03:48.329><c> try</c><00:03:48.570><c> out</c><00:03:48.600><c> so</c><00:03:48.989><c> I</c>
+
+00:03:49.039 --> 00:03:49.049 align:start position:0%
+values of lambda I want to try out so I
+ 
+
+00:03:49.049 --> 00:03:51.050 align:start position:0%
+values of lambda I want to try out so I
+might<00:03:49.290><c> be</c><00:03:49.890><c> considering</c><00:03:50.459><c> not</c><00:03:50.670><c> using</c>
+
+00:03:51.050 --> 00:03:51.060 align:start position:0%
+might be considering not using
+ 
+
+00:03:51.060 --> 00:03:52.819 align:start position:0%
+might be considering not using
+regularization<00:03:51.500><c> well</c><00:03:52.500><c> here</c><00:03:52.709><c> are</c><00:03:52.769><c> a</c><00:03:52.799><c> few</c>
+
+00:03:52.819 --> 00:03:52.829 align:start position:0%
+regularization well here are a few
+ 
+
+00:03:52.829 --> 00:03:54.080 align:start position:0%
+regularization well here are a few
+values<00:03:53.340><c> I</c><00:03:53.370><c> might</c><00:03:53.610><c> try</c><00:03:53.730><c> out</c><00:03:53.790><c> might</c><00:03:54.060><c> be</c>
+
+00:03:54.080 --> 00:03:54.090 align:start position:0%
+values I might try out might be
+ 
+
+00:03:54.090 --> 00:03:55.640 align:start position:0%
+values I might try out might be
+considering<00:03:54.480><c> long</c><00:03:54.690><c> because</c><00:03:55.049><c> over</c><00:03:55.290><c> there</c><00:03:55.410><c> one</c>
+
+00:03:55.640 --> 00:03:55.650 align:start position:0%
+considering long because over there one
+ 
+
+00:03:55.650 --> 00:03:57.560 align:start position:0%
+considering long because over there one
+of<00:03:55.680><c> my</c><00:03:55.980><c> no</c><00:03:56.100><c> two</c><00:03:56.280><c> or</c><00:03:56.310><c> four</c><00:03:56.640><c> or</c><00:03:56.790><c> four</c><00:03:57.030><c> and</c><00:03:57.090><c> so</c><00:03:57.390><c> on</c>
+
+00:03:57.560 --> 00:03:57.570 align:start position:0%
+of my no two or four or four and so on
+ 
+
+00:03:57.570 --> 00:04:00.080 align:start position:0%
+of my no two or four or four and so on
+and<00:03:57.989><c> you</c><00:03:58.290><c> know</c><00:03:58.440><c> I</c><00:03:58.470><c> usually</c><00:03:58.799><c> step</c><00:03:59.340><c> these</c><00:03:59.519><c> up</c><00:03:59.820><c> in</c>
+
+00:04:00.080 --> 00:04:00.090 align:start position:0%
+and you know I usually step these up in
+ 
+
+00:04:00.090 --> 00:04:02.870 align:start position:0%
+and you know I usually step these up in
+multiples<00:04:00.600><c> of</c><00:04:00.720><c> two</c><00:04:01.019><c> until</c><00:04:01.560><c> some</c><00:04:02.220><c> some</c><00:04:02.579><c> maybe</c>
+
+00:04:02.870 --> 00:04:02.880 align:start position:0%
+multiples of two until some some maybe
+ 
+
+00:04:02.880 --> 00:04:05.300 align:start position:0%
+multiples of two until some some maybe
+larger<00:04:03.329><c> value</c><00:04:03.720><c> if</c><00:04:04.140><c> I</c><00:04:04.530><c> were</c><00:04:04.680><c> doing</c><00:04:05.010><c> this</c><00:04:05.130><c> in</c>
+
+00:04:05.300 --> 00:04:05.310 align:start position:0%
+larger value if I were doing this in
+ 
+
+00:04:05.310 --> 00:04:06.860 align:start position:0%
+larger value if I were doing this in
+multiples<00:04:05.700><c> of</c><00:04:05.820><c> two</c><00:04:06.030><c> and</c>
+
+00:04:06.860 --> 00:04:06.870 align:start position:0%
+multiples of two and
+ 
+
+00:04:06.870 --> 00:04:10.699 align:start position:0%
+multiples of two and
+without<00:04:07.670><c> 10.24</c><00:04:08.670><c> instead</c><00:04:09.660><c> of</c><00:04:09.780><c> 10</c><00:04:09.959><c> exactly</c><00:04:10.440><c> but</c>
+
+00:04:10.699 --> 00:04:10.709 align:start position:0%
+without 10.24 instead of 10 exactly but
+ 
+
+00:04:10.709 --> 00:04:12.790 align:start position:0%
+without 10.24 instead of 10 exactly but
+you<00:04:10.860><c> know</c><00:04:10.920><c> this</c><00:04:11.069><c> is</c><00:04:11.160><c> close</c><00:04:11.370><c> enough</c><00:04:11.400><c> enter</c><00:04:12.060><c> the</c>
+
+00:04:12.790 --> 00:04:12.800 align:start position:0%
+you know this is close enough enter the
+ 
+
+00:04:12.800 --> 00:04:15.140 align:start position:0%
+you know this is close enough enter the
+third<00:04:13.800><c> and</c><00:04:14.010><c> fourth</c><00:04:14.160><c> decimal</c><00:04:14.340><c> places</c><00:04:14.760><c> won't</c>
+
+00:04:15.140 --> 00:04:15.150 align:start position:0%
+third and fourth decimal places won't
+ 
+
+00:04:15.150 --> 00:04:20.060 align:start position:0%
+third and fourth decimal places won't
+won't<00:04:15.569><c> affect</c><00:04:15.900><c> your</c><00:04:16.019><c> result</c><00:04:16.410><c> that</c><00:04:16.590><c> much</c><00:04:19.070><c> so</c>
+
+00:04:20.060 --> 00:04:20.070 align:start position:0%
+won't affect your result that much so
+ 
+
+00:04:20.070 --> 00:04:23.629 align:start position:0%
+won't affect your result that much so
+this<00:04:20.489><c> gives</c><00:04:20.790><c> me</c><00:04:20.880><c> maybe</c><00:04:21.750><c> 12</c><00:04:22.650><c> different</c><00:04:22.979><c> models</c>
+
+00:04:23.629 --> 00:04:23.639 align:start position:0%
+this gives me maybe 12 different models
+ 
+
+00:04:23.639 --> 00:04:25.219 align:start position:0%
+this gives me maybe 12 different models
+I'm<00:04:24.030><c> trying</c><00:04:24.330><c> to</c><00:04:24.479><c> select</c><00:04:24.780><c> amounts</c>
+
+00:04:25.219 --> 00:04:25.229 align:start position:0%
+I'm trying to select amounts
+ 
+
+00:04:25.229 --> 00:04:27.500 align:start position:0%
+I'm trying to select amounts
+corresponding<00:04:26.010><c> to</c><00:04:26.250><c> tell</c><00:04:26.520><c> different</c><00:04:26.820><c> values</c>
+
+00:04:27.500 --> 00:04:27.510 align:start position:0%
+corresponding to tell different values
+ 
+
+00:04:27.510 --> 00:04:33.129 align:start position:0%
+corresponding to tell different values
+of<00:04:27.750><c> the</c><00:04:28.320><c> regularization</c><00:04:28.350><c> parameter</c><00:04:29.310><c> lambda</c>
+
+00:04:33.129 --> 00:04:33.139 align:start position:0%
+ 
+ 
+
+00:04:33.139 --> 00:04:36.080 align:start position:0%
+ 
+and<00:04:34.139><c> of</c><00:04:34.320><c> course</c><00:04:34.560><c> you</c><00:04:34.710><c> can</c><00:04:34.860><c> also</c><00:04:35.040><c> go</c><00:04:35.580><c> to</c><00:04:35.610><c> stal</c>
+
+00:04:36.080 --> 00:04:36.090 align:start position:0%
+and of course you can also go to stal
+ 
+
+00:04:36.090 --> 00:04:38.870 align:start position:0%
+and of course you can also go to stal
+use<00:04:36.300><c> less</c><00:04:36.720><c> than</c><00:04:36.750><c> 0.01</c><00:04:37.680><c> or</c><00:04:37.919><c> values</c><00:04:38.340><c> larger</c><00:04:38.729><c> than</c>
+
+00:04:38.870 --> 00:04:38.880 align:start position:0%
+use less than 0.01 or values larger than
+ 
+
+00:04:38.880 --> 00:04:41.120 align:start position:0%
+use less than 0.01 or values larger than
+10<00:04:39.120><c> but</c><00:04:39.330><c> I've</c><00:04:39.450><c> just</c><00:04:39.479><c> truncated</c><00:04:40.290><c> it</c><00:04:40.410><c> here</c><00:04:40.680><c> for</c>
+
+00:04:41.120 --> 00:04:41.130 align:start position:0%
+10 but I've just truncated it here for
+ 
+
+00:04:41.130 --> 00:04:47.540 align:start position:0%
+10 but I've just truncated it here for
+convenience<00:04:45.710><c> given</c><00:04:46.710><c> each</c><00:04:46.889><c> of</c><00:04:46.919><c> these</c><00:04:47.190><c> 12</c>
+
+00:04:47.540 --> 00:04:47.550 align:start position:0%
+convenience given each of these 12
+ 
+
+00:04:47.550 --> 00:04:49.760 align:start position:0%
+convenience given each of these 12
+models<00:04:47.760><c> what</c><00:04:48.630><c> we</c><00:04:48.660><c> can</c><00:04:48.930><c> do</c><00:04:49.139><c> is</c><00:04:49.470><c> then</c><00:04:49.650><c> the</c>
+
+00:04:49.760 --> 00:04:49.770 align:start position:0%
+models what we can do is then the
+ 
+
+00:04:49.770 --> 00:04:52.670 align:start position:0%
+models what we can do is then the
+following<00:04:50.160><c> we</c><00:04:50.910><c> can</c><00:04:51.120><c> take</c><00:04:51.900><c> this</c><00:04:52.080><c> first</c><00:04:52.380><c> model</c>
+
+00:04:52.670 --> 00:04:52.680 align:start position:0%
+following we can take this first model
+ 
+
+00:04:52.680 --> 00:04:56.090 align:start position:0%
+following we can take this first model
+what<00:04:53.130><c> amount</c><00:04:53.340><c> equals</c><00:04:53.850><c> zero</c><00:04:54.180><c> and</c><00:04:54.590><c> minimize</c><00:04:55.590><c> my</c>
+
+00:04:56.090 --> 00:04:56.100 align:start position:0%
+what amount equals zero and minimize my
+ 
+
+00:04:56.100 --> 00:04:58.730 align:start position:0%
+what amount equals zero and minimize my
+cost<00:04:56.130><c> function</c><00:04:56.880><c> J</c><00:04:57.120><c> of</c><00:04:57.150><c> theta</c><00:04:57.270><c> and</c><00:04:57.870><c> this</c><00:04:58.680><c> will</c>
+
+00:04:58.730 --> 00:04:58.740 align:start position:0%
+cost function J of theta and this will
+ 
+
+00:04:58.740 --> 00:05:00.920 align:start position:0%
+cost function J of theta and this will
+give<00:04:59.039><c> me</c><00:04:59.070><c> some</c><00:04:59.190><c> parameter</c><00:04:59.610><c> vector</c><00:05:00.270><c> theta</c><00:05:00.300><c> and</c>
+
+00:05:00.920 --> 00:05:00.930 align:start position:0%
+give me some parameter vector theta and
+ 
+
+00:05:00.930 --> 00:05:02.450 align:start position:0%
+give me some parameter vector theta and
+similar<00:05:01.320><c> to</c><00:05:01.470><c> the</c><00:05:01.560><c> earlier</c><00:05:01.590><c> video</c><00:05:02.130><c> let</c><00:05:02.370><c> me</c><00:05:02.400><c> just</c>
+
+00:05:02.450 --> 00:05:02.460 align:start position:0%
+similar to the earlier video let me just
+ 
+
+00:05:02.460 --> 00:05:06.830 align:start position:0%
+similar to the earlier video let me just
+denote<00:05:03.240><c> this</c><00:05:03.690><c> as</c><00:05:04.820><c> say</c><00:05:05.820><c> the</c><00:05:05.850><c> superscript</c><00:05:06.630><c> one</c>
+
+00:05:06.830 --> 00:05:06.840 align:start position:0%
+denote this as say the superscript one
+ 
+
+00:05:06.840 --> 00:05:11.120 align:start position:0%
+denote this as say the superscript one
+and<00:05:07.910><c> then</c><00:05:08.910><c> I</c><00:05:09.060><c> can</c><00:05:09.210><c> take</c><00:05:09.389><c> my</c><00:05:09.449><c> second</c><00:05:09.960><c> model</c><00:05:10.320><c> with</c>
+
+00:05:11.120 --> 00:05:11.130 align:start position:0%
+and then I can take my second model with
+ 
+
+00:05:11.130 --> 00:05:14.390 align:start position:0%
+and then I can take my second model with
+lambda<00:05:11.160><c> is</c><00:05:11.760><c> set</c><00:05:11.940><c> to</c><00:05:12.060><c> 0.01</c><00:05:12.810><c> and</c><00:05:13.070><c> minimize</c><00:05:14.070><c> my</c>
+
+00:05:14.390 --> 00:05:14.400 align:start position:0%
+lambda is set to 0.01 and minimize my
+ 
+
+00:05:14.400 --> 00:05:17.090 align:start position:0%
+lambda is set to 0.01 and minimize my
+cost<00:05:14.789><c> function</c><00:05:15.180><c> now</c><00:05:15.930><c> using</c><00:05:16.350><c> lambda</c><00:05:16.590><c> equals</c>
+
+00:05:17.090 --> 00:05:17.100 align:start position:0%
+cost function now using lambda equals
+ 
+
+00:05:17.100 --> 00:05:19.310 align:start position:0%
+cost function now using lambda equals
+0.01<00:05:17.669><c> of</c><00:05:17.820><c> course</c><00:05:18.030><c> to</c><00:05:18.570><c> get</c><00:05:18.780><c> some</c><00:05:18.960><c> different</c>
+
+00:05:19.310 --> 00:05:19.320 align:start position:0%
+0.01 of course to get some different
+ 
+
+00:05:19.320 --> 00:05:20.960 align:start position:0%
+0.01 of course to get some different
+parameter<00:05:19.710><c> vector</c><00:05:20.010><c> theta</c><00:05:20.039><c> let</c><00:05:20.729><c> me</c><00:05:20.820><c> denote</c>
+
+00:05:20.960 --> 00:05:20.970 align:start position:0%
+parameter vector theta let me denote
+ 
+
+00:05:20.970 --> 00:05:23.510 align:start position:0%
+parameter vector theta let me denote
+that<00:05:21.120><c> theta</c><00:05:21.479><c> 2</c><00:05:21.780><c> and</c><00:05:22.530><c> for</c><00:05:22.680><c> that</c><00:05:22.800><c> I</c><00:05:22.860><c> end</c><00:05:23.190><c> up</c><00:05:23.340><c> with</c>
+
+00:05:23.510 --> 00:05:23.520 align:start position:0%
+that theta 2 and for that I end up with
+ 
+
+00:05:23.520 --> 00:05:25.610 align:start position:0%
+that theta 2 and for that I end up with
+theta<00:05:23.669><c> 3</c><00:05:24.090><c> so</c><00:05:24.450><c> if</c><00:05:24.570><c> this</c><00:05:24.690><c> is</c><00:05:24.870><c> right</c><00:05:25.110><c> for</c><00:05:25.260><c> my</c><00:05:25.380><c> third</c>
+
+00:05:25.610 --> 00:05:25.620 align:start position:0%
+theta 3 so if this is right for my third
+ 
+
+00:05:25.620 --> 00:05:29.029 align:start position:0%
+theta 3 so if this is right for my third
+model<00:05:26.099><c> and</c><00:05:26.669><c> so</c><00:05:26.910><c> on</c><00:05:27.150><c> and</c><00:05:27.720><c> itself</c><00:05:28.050><c> for</c><00:05:28.200><c> my</c><00:05:28.349><c> final</c>
+
+00:05:29.029 --> 00:05:29.039 align:start position:0%
+model and so on and itself for my final
+ 
+
+00:05:29.039 --> 00:05:31.129 align:start position:0%
+model and so on and itself for my final
+model<00:05:29.400><c> was</c><00:05:29.610><c> wrong</c><00:05:29.789><c> they're</c><00:05:30.060><c> set</c><00:05:30.330><c> to</c><00:05:30.360><c> 10</c><00:05:30.720><c> when</c><00:05:31.110><c> I</c>
+
+00:05:31.129 --> 00:05:31.139 align:start position:0%
+model was wrong they're set to 10 when I
+ 
+
+00:05:31.139 --> 00:05:34.219 align:start position:0%
+model was wrong they're set to 10 when I
+want<00:05:31.500><c> to</c><00:05:31.590><c> go</c><00:05:31.680><c> ten</c><00:05:31.919><c> on</c><00:05:32.130><c> 10.24</c><00:05:33.060><c> I</c><00:05:33.330><c> end</c><00:05:33.870><c> up</c><00:05:34.020><c> with</c>
+
+00:05:34.219 --> 00:05:34.229 align:start position:0%
+want to go ten on 10.24 I end up with
+ 
+
+00:05:34.229 --> 00:05:36.500 align:start position:0%
+want to go ten on 10.24 I end up with
+this<00:05:34.410><c> theta</c><00:05:35.039><c> 12</c>
+
+00:05:36.500 --> 00:05:36.510 align:start position:0%
+this theta 12
+ 
+
+00:05:36.510 --> 00:05:39.300 align:start position:0%
+this theta 12
+next<00:05:37.510><c> I</c><00:05:37.660><c> can</c><00:05:37.720><c> take</c><00:05:37.990><c> all</c><00:05:38.230><c> of</c><00:05:38.260><c> these</c><00:05:38.560><c> hypotheses</c>
+
+00:05:39.300 --> 00:05:39.310 align:start position:0%
+next I can take all of these hypotheses
+ 
+
+00:05:39.310 --> 00:05:42.270 align:start position:0%
+next I can take all of these hypotheses
+or<00:05:39.370><c> all</c><00:05:39.670><c> of</c><00:05:39.700><c> these</c><00:05:39.910><c> parameters</c><00:05:40.180><c> and</c><00:05:41.040><c> use</c><00:05:42.040><c> my</c>
+
+00:05:42.270 --> 00:05:42.280 align:start position:0%
+or all of these parameters and use my
+ 
+
+00:05:42.280 --> 00:05:45.120 align:start position:0%
+or all of these parameters and use my
+cross-validation<00:05:42.820><c> set</c><00:05:43.570><c> to</c><00:05:43.960><c> evaluate</c><00:05:44.440><c> them</c><00:05:44.650><c> so</c>
+
+00:05:45.120 --> 00:05:45.130 align:start position:0%
+cross-validation set to evaluate them so
+ 
+
+00:05:45.130 --> 00:05:48.810 align:start position:0%
+cross-validation set to evaluate them so
+I<00:05:45.160><c> can</c><00:05:45.400><c> look</c><00:05:45.610><c> at</c><00:05:45.790><c> my</c><00:05:46.630><c> first</c><00:05:47.380><c> model</c><00:05:47.830><c> my</c><00:05:48.430><c> second</c>
+
+00:05:48.810 --> 00:05:48.820 align:start position:0%
+I can look at my first model my second
+ 
+
+00:05:48.820 --> 00:05:50.790 align:start position:0%
+I can look at my first model my second
+model<00:05:49.150><c> fits</c><00:05:49.540><c> with</c><00:05:49.690><c> these</c><00:05:49.870><c> different</c><00:05:50.350><c> values</c>
+
+00:05:50.790 --> 00:05:50.800 align:start position:0%
+model fits with these different values
+ 
+
+00:05:50.800 --> 00:05:52.980 align:start position:0%
+model fits with these different values
+of<00:05:50.830><c> the</c><00:05:51.280><c> regularization</c><00:05:51.400><c> parameter</c><00:05:52.150><c> and</c>
+
+00:05:52.980 --> 00:05:52.990 align:start position:0%
+of the regularization parameter and
+ 
+
+00:05:52.990 --> 00:05:54.780 align:start position:0%
+of the regularization parameter and
+evaluate<00:05:53.950><c> them</c><00:05:54.100><c> on</c><00:05:54.130><c> my</c><00:05:54.370><c> cross-validation</c>
+
+00:05:54.780 --> 00:05:54.790 align:start position:0%
+evaluate them on my cross-validation
+ 
+
+00:05:54.790 --> 00:05:57.480 align:start position:0%
+evaluate them on my cross-validation
+sets<00:05:55.540><c> basically</c><00:05:55.960><c> measure</c><00:05:56.380><c> the</c><00:05:57.070><c> average</c>
+
+00:05:57.480 --> 00:05:57.490 align:start position:0%
+sets basically measure the average
+ 
+
+00:05:57.490 --> 00:05:59.820 align:start position:0%
+sets basically measure the average
+squared<00:05:58.000><c> error</c><00:05:58.240><c> of</c><00:05:58.600><c> each</c><00:05:58.900><c> of</c><00:05:59.110><c> these</c><00:05:59.260><c> parameter</c>
+
+00:05:59.820 --> 00:05:59.830 align:start position:0%
+squared error of each of these parameter
+ 
+
+00:05:59.830 --> 00:06:02.430 align:start position:0%
+squared error of each of these parameter
+vectors<00:06:00.190><c> theta</c><00:06:00.370><c> on</c><00:06:01.150><c> my</c><00:06:01.360><c> cross</c><00:06:01.570><c> validation</c><00:06:02.050><c> set</c>
+
+00:06:02.430 --> 00:06:02.440 align:start position:0%
+vectors theta on my cross validation set
+ 
+
+00:06:02.440 --> 00:06:05.970 align:start position:0%
+vectors theta on my cross validation set
+and<00:06:03.150><c> I</c><00:06:04.150><c> would</c><00:06:04.570><c> then</c><00:06:04.750><c> pick</c><00:06:05.050><c> whichever</c><00:06:05.590><c> one</c><00:06:05.740><c> of</c>
+
+00:06:05.970 --> 00:06:05.980 align:start position:0%
+and I would then pick whichever one of
+ 
+
+00:06:05.980 --> 00:06:07.950 align:start position:0%
+and I would then pick whichever one of
+these<00:06:06.190><c> 12</c><00:06:06.520><c> models</c><00:06:07.030><c> gives</c><00:06:07.330><c> me</c><00:06:07.510><c> the</c><00:06:07.720><c> lowest</c>
+
+00:06:07.950 --> 00:06:07.960 align:start position:0%
+these 12 models gives me the lowest
+ 
+
+00:06:07.960 --> 00:06:11.100 align:start position:0%
+these 12 models gives me the lowest
+error<00:06:08.320><c> on</c><00:06:08.650><c> the</c><00:06:09.160><c> cross-validation</c><00:06:09.400><c> set</c><00:06:10.240><c> and</c>
+
+00:06:11.100 --> 00:06:11.110 align:start position:0%
+error on the cross-validation set and
+ 
+
+00:06:11.110 --> 00:06:12.690 align:start position:0%
+error on the cross-validation set and
+let's<00:06:11.350><c> say</c><00:06:11.500><c> for</c><00:06:11.710><c> the</c><00:06:11.800><c> sake</c><00:06:12.010><c> of</c><00:06:12.040><c> the</c><00:06:12.310><c> example</c>
+
+00:06:12.690 --> 00:06:12.700 align:start position:0%
+let's say for the sake of the example
+ 
+
+00:06:12.700 --> 00:06:16.770 align:start position:0%
+let's say for the sake of the example
+that<00:06:13.420><c> I</c><00:06:13.570><c> end</c><00:06:14.170><c> up</c><00:06:14.320><c> picking</c><00:06:14.530><c> theta</c><00:06:15.490><c> 5</c><00:06:16.180><c> the</c><00:06:16.570><c> fifth</c>
+
+00:06:16.770 --> 00:06:16.780 align:start position:0%
+that I end up picking theta 5 the fifth
+ 
+
+00:06:16.780 --> 00:06:19.530 align:start position:0%
+that I end up picking theta 5 the fifth
+order<00:06:16.990><c> polynomial</c><00:06:17.580><c> because</c><00:06:18.580><c> that</c><00:06:18.820><c> has</c><00:06:19.210><c> the</c>
+
+00:06:19.530 --> 00:06:19.540 align:start position:0%
+order polynomial because that has the
+ 
+
+00:06:19.540 --> 00:06:21.660 align:start position:0%
+order polynomial because that has the
+lowest<00:06:20.080><c> cross-validation</c><00:06:20.710><c> error</c>
+
+00:06:21.660 --> 00:06:21.670 align:start position:0%
+lowest cross-validation error
+ 
+
+00:06:21.670 --> 00:06:24.810 align:start position:0%
+lowest cross-validation error
+having<00:06:22.300><c> done</c><00:06:22.480><c> that</c><00:06:23.100><c> finally</c><00:06:24.100><c> what</c><00:06:24.400><c> I</c><00:06:24.430><c> would</c><00:06:24.670><c> do</c>
+
+00:06:24.810 --> 00:06:24.820 align:start position:0%
+having done that finally what I would do
+ 
+
+00:06:24.820 --> 00:06:27.390 align:start position:0%
+having done that finally what I would do
+if<00:06:25.120><c> I</c><00:06:25.270><c> want</c><00:06:25.480><c> to</c><00:06:25.570><c> report</c><00:06:25.900><c> a</c><00:06:26.110><c> test</c><00:06:26.380><c> set</c><00:06:26.560><c> error</c><00:06:26.590><c> is</c>
+
+00:06:27.390 --> 00:06:27.400 align:start position:0%
+if I want to report a test set error is
+ 
+
+00:06:27.400 --> 00:06:30.870 align:start position:0%
+if I want to report a test set error is
+to<00:06:27.760><c> take</c><00:06:28.000><c> the</c><00:06:28.150><c> parameter</c><00:06:28.690><c> theta</c><00:06:28.900><c> 5</c><00:06:29.290><c> stuff</c><00:06:30.130><c> that</c>
+
+00:06:30.870 --> 00:06:30.880 align:start position:0%
+to take the parameter theta 5 stuff that
+ 
+
+00:06:30.880 --> 00:06:33.150 align:start position:0%
+to take the parameter theta 5 stuff that
+I've<00:06:31.060><c> selected</c><00:06:31.330><c> and</c><00:06:31.900><c> look</c><00:06:32.470><c> at</c><00:06:32.650><c> how</c><00:06:32.860><c> well</c><00:06:33.100><c> it</c>
+
+00:06:33.150 --> 00:06:33.160 align:start position:0%
+I've selected and look at how well it
+ 
+
+00:06:33.160 --> 00:06:36.000 align:start position:0%
+I've selected and look at how well it
+does<00:06:33.550><c> on</c><00:06:33.880><c> my</c><00:06:34.150><c> test</c><00:06:34.450><c> sets</c><00:06:34.690><c> and</c><00:06:34.900><c> once</c><00:06:35.050><c> again</c><00:06:35.170><c> here</c>
+
+00:06:36.000 --> 00:06:36.010 align:start position:0%
+does on my test sets and once again here
+ 
+
+00:06:36.010 --> 00:06:39.570 align:start position:0%
+does on my test sets and once again here
+is<00:06:36.250><c> as</c><00:06:36.430><c> if</c><00:06:36.640><c> we</c><00:06:36.880><c> fit</c><00:06:37.210><c> this</c><00:06:37.540><c> parameter</c><00:06:37.900><c> theta</c><00:06:38.580><c> to</c>
+
+00:06:39.570 --> 00:06:39.580 align:start position:0%
+is as if we fit this parameter theta to
+ 
+
+00:06:39.580 --> 00:06:42.240 align:start position:0%
+is as if we fit this parameter theta to
+my<00:06:39.940><c> cross-validation</c><00:06:40.780><c> sets</c><00:06:41.500><c> which</c><00:06:41.860><c> is</c><00:06:41.890><c> why</c>
+
+00:06:42.240 --> 00:06:42.250 align:start position:0%
+my cross-validation sets which is why
+ 
+
+00:06:42.250 --> 00:06:44.910 align:start position:0%
+my cross-validation sets which is why
+I'm<00:06:42.760><c> saving</c><00:06:43.300><c> aside</c><00:06:43.630><c> a</c><00:06:43.930><c> separate</c><00:06:44.410><c> test</c><00:06:44.650><c> set</c>
+
+00:06:44.910 --> 00:06:44.920 align:start position:0%
+I'm saving aside a separate test set
+ 
+
+00:06:44.920 --> 00:06:47.520 align:start position:0%
+I'm saving aside a separate test set
+that<00:06:45.190><c> I'm</c><00:06:45.940><c> going</c><00:06:46.150><c> to</c><00:06:46.270><c> use</c><00:06:46.510><c> to</c><00:06:47.080><c> get</c><00:06:47.260><c> a</c><00:06:47.290><c> better</c>
+
+00:06:47.520 --> 00:06:47.530 align:start position:0%
+that I'm going to use to get a better
+ 
+
+00:06:47.530 --> 00:06:50.370 align:start position:0%
+that I'm going to use to get a better
+estimate<00:06:47.830><c> of</c><00:06:48.340><c> how</c><00:06:48.700><c> well</c><00:06:48.730><c> my</c><00:06:49.450><c> parameter</c><00:06:49.990><c> vector</c>
+
+00:06:50.370 --> 00:06:50.380 align:start position:0%
+estimate of how well my parameter vector
+ 
+
+00:06:50.380 --> 00:06:52.680 align:start position:0%
+estimate of how well my parameter vector
+theta<00:06:50.590><c> will</c><00:06:51.250><c> generalize</c><00:06:51.760><c> to</c><00:06:52.210><c> previously</c>
+
+00:06:52.680 --> 00:06:52.690 align:start position:0%
+theta will generalize to previously
+ 
+
+00:06:52.690 --> 00:06:53.850 align:start position:0%
+theta will generalize to previously
+unseen<00:06:53.050><c> examples</c>
+
+00:06:53.850 --> 00:06:53.860 align:start position:0%
+unseen examples
+ 
+
+00:06:53.860 --> 00:06:56.460 align:start position:0%
+unseen examples
+so<00:06:54.280><c> that's</c><00:06:54.730><c> model</c><00:06:55.150><c> selection</c><00:06:55.510><c> applied</c><00:06:56.230><c> to</c>
+
+00:06:56.460 --> 00:06:56.470 align:start position:0%
+so that's model selection applied to
+ 
+
+00:06:56.470 --> 00:06:58.500 align:start position:0%
+so that's model selection applied to
+selecting<00:06:57.010><c> the</c><00:06:57.340><c> regularization</c><00:06:57.910><c> parameter</c>
+
+00:06:58.500 --> 00:06:58.510 align:start position:0%
+selecting the regularization parameter
+ 
+
+00:06:58.510 --> 00:07:01.230 align:start position:0%
+selecting the regularization parameter
+lambda<00:06:59.100><c> the</c><00:07:00.100><c> last</c><00:07:00.310><c> thing</c><00:07:00.520><c> I'd</c><00:07:00.670><c> like</c><00:07:00.790><c> to</c><00:07:00.940><c> do</c><00:07:01.090><c> in</c>
+
+00:07:01.230 --> 00:07:01.240 align:start position:0%
+lambda the last thing I'd like to do in
+ 
+
+00:07:01.240 --> 00:07:04.050 align:start position:0%
+lambda the last thing I'd like to do in
+this<00:07:01.660><c> video</c><00:07:01.900><c> is</c><00:07:02.140><c> get</c><00:07:02.890><c> a</c><00:07:02.920><c> better</c><00:07:03.100><c> understanding</c>
+
+00:07:04.050 --> 00:07:04.060 align:start position:0%
+this video is get a better understanding
+ 
+
+00:07:04.060 --> 00:07:07.260 align:start position:0%
+this video is get a better understanding
+of<00:07:04.300><c> how</c><00:07:05.230><c> cross</c><00:07:05.800><c> validation</c><00:07:06.370><c> and</c><00:07:06.790><c> training</c>
+
+00:07:07.260 --> 00:07:07.270 align:start position:0%
+of how cross validation and training
+ 
+
+00:07:07.270 --> 00:07:11.490 align:start position:0%
+of how cross validation and training
+error<00:07:07.480><c> of</c><00:07:07.630><c> the</c><00:07:07.840><c> air</c><00:07:07.930><c> V</c><00:07:08.110><c> as</c><00:07:08.800><c> we</c><00:07:09.390><c> as</c><00:07:10.390><c> we</c><00:07:10.660><c> vary</c><00:07:11.080><c> the</c>
+
+00:07:11.490 --> 00:07:11.500 align:start position:0%
+error of the air V as we as we vary the
+ 
+
+00:07:11.500 --> 00:07:13.830 align:start position:0%
+error of the air V as we as we vary the
+regularization<00:07:11.620><c> parameter</c><00:07:12.370><c> lambda</c><00:07:12.880><c> and</c><00:07:13.480><c> so</c>
+
+00:07:13.830 --> 00:07:13.840 align:start position:0%
+regularization parameter lambda and so
+ 
+
+00:07:13.840 --> 00:07:15.510 align:start position:0%
+regularization parameter lambda and so
+just<00:07:14.200><c> a</c><00:07:14.260><c> reminder</c><00:07:14.530><c> right</c><00:07:15.010><c> that</c><00:07:15.250><c> was</c><00:07:15.370><c> our</c>
+
+00:07:15.510 --> 00:07:15.520 align:start position:0%
+just a reminder right that was our
+ 
+
+00:07:15.520 --> 00:07:17.940 align:start position:0%
+just a reminder right that was our
+original<00:07:15.640><c> cost</c><00:07:16.150><c> function</c><00:07:16.540><c> J</c><00:07:16.750><c> of</c><00:07:16.780><c> theta</c><00:07:16.950><c> but</c>
+
+00:07:17.940 --> 00:07:17.950 align:start position:0%
+original cost function J of theta but
+ 
+
+00:07:17.950 --> 00:07:19.880 align:start position:0%
+original cost function J of theta but
+for<00:07:18.250><c> this</c><00:07:18.370><c> purpose</c><00:07:18.670><c> we're</c><00:07:19.060><c> going</c><00:07:19.120><c> to</c><00:07:19.330><c> define</c>
+
+00:07:19.880 --> 00:07:19.890 align:start position:0%
+for this purpose we're going to define
+ 
+
+00:07:19.890 --> 00:07:22.260 align:start position:0%
+for this purpose we're going to define
+training<00:07:20.890><c> error</c><00:07:21.130><c> without</c><00:07:21.790><c> using</c><00:07:22.150><c> your</c>
+
+00:07:22.260 --> 00:07:22.270 align:start position:0%
+training error without using your
+ 
+
+00:07:22.270 --> 00:07:24.150 align:start position:0%
+training error without using your
+organization<00:07:22.870><c> parameter</c><00:07:23.380><c> and</c><00:07:23.860><c> cross</c>
+
+00:07:24.150 --> 00:07:24.160 align:start position:0%
+organization parameter and cross
+ 
+
+00:07:24.160 --> 00:07:26.190 align:start position:0%
+organization parameter and cross
+validation<00:07:24.670><c> error</c><00:07:24.940><c> without</c><00:07:25.750><c> using</c><00:07:26.080><c> the</c>
+
+00:07:26.190 --> 00:07:26.200 align:start position:0%
+validation error without using the
+ 
+
+00:07:26.200 --> 00:07:27.680 align:start position:0%
+validation error without using the
+regularization
+
+00:07:27.680 --> 00:07:27.690 align:start position:0%
+regularization
+ 
+
+00:07:27.690 --> 00:07:30.680 align:start position:0%
+regularization
+and<00:07:28.230><c> what</c><00:07:28.950><c> I'd</c><00:07:29.070><c> like</c><00:07:29.100><c> to</c><00:07:29.250><c> do</c><00:07:29.520><c> is</c><00:07:29.850><c> plot</c><00:07:30.240><c> this</c>
+
+00:07:30.680 --> 00:07:30.690 align:start position:0%
+and what I'd like to do is plot this
+ 
+
+00:07:30.690 --> 00:07:34.640 align:start position:0%
+and what I'd like to do is plot this
+j-train<00:07:31.110><c> and</c><00:07:31.740><c> plug</c><00:07:32.070><c> this</c><00:07:32.280><c> GTV</c><00:07:33.140><c> meaning</c><00:07:34.140><c> just</c>
+
+00:07:34.640 --> 00:07:34.650 align:start position:0%
+j-train and plug this GTV meaning just
+ 
+
+00:07:34.650 --> 00:07:37.970 align:start position:0%
+j-train and plug this GTV meaning just
+the<00:07:34.860><c> how</c><00:07:35.370><c> well</c><00:07:35.580><c> does</c><00:07:35.760><c> my</c><00:07:35.910><c> hypothesis</c><00:07:36.660><c> do</c><00:07:36.980><c> for</c>
+
+00:07:37.970 --> 00:07:37.980 align:start position:0%
+the how well does my hypothesis do for
+ 
+
+00:07:37.980 --> 00:07:40.190 align:start position:0%
+the how well does my hypothesis do for
+on<00:07:38.310><c> the</c><00:07:38.700><c> training</c><00:07:38.940><c> set</c><00:07:39.240><c> and</c><00:07:39.540><c> how</c><00:07:39.750><c> others</c><00:07:40.080><c> my</c>
+
+00:07:40.190 --> 00:07:40.200 align:start position:0%
+on the training set and how others my
+ 
+
+00:07:40.200 --> 00:07:41.600 align:start position:0%
+on the training set and how others my
+hypothesis<00:07:40.830><c> do</c><00:07:41.010><c> on</c><00:07:41.280><c> the</c><00:07:41.400><c> cross-validation</c>
+
+00:07:41.600 --> 00:07:41.610 align:start position:0%
+hypothesis do on the cross-validation
+ 
+
+00:07:41.610 --> 00:07:44.900 align:start position:0%
+hypothesis do on the cross-validation
+set<00:07:42.480><c> as</c><00:07:42.690><c> I</c><00:07:43.290><c> vary</c><00:07:43.620><c> my</c><00:07:44.010><c> regularization</c>
+
+00:07:44.900 --> 00:07:44.910 align:start position:0%
+set as I vary my regularization
+ 
+
+00:07:44.910 --> 00:07:47.999 align:start position:0%
+set as I vary my regularization
+parameter<00:07:45.420><c> lambda</c>
+
+00:07:47.999 --> 00:07:48.009 align:start position:0%
+ 
+ 
+
+00:07:48.009 --> 00:07:52.709 align:start position:0%
+ 
+so<00:07:49.009><c> as</c><00:07:49.249><c> we</c><00:07:49.430><c> saw</c><00:07:49.610><c> earlier</c><00:07:49.849><c> if</c><00:07:50.860><c> lambda</c><00:07:51.860><c> is</c><00:07:52.099><c> small</c>
+
+00:07:52.709 --> 00:07:52.719 align:start position:0%
+so as we saw earlier if lambda is small
+ 
+
+00:07:52.719 --> 00:07:54.809 align:start position:0%
+so as we saw earlier if lambda is small
+then<00:07:53.719><c> we're</c><00:07:53.900><c> not</c><00:07:54.139><c> using</c><00:07:54.409><c> much</c><00:07:54.740><c> regularization</c>
+
+00:07:54.809 --> 00:07:54.819 align:start position:0%
+then we're not using much regularization
+ 
+
+00:07:54.819 --> 00:07:59.649 align:start position:0%
+then we're not using much regularization
+and<00:07:55.990><c> we</c><00:07:56.990><c> run</c><00:07:57.199><c> a</c><00:07:57.439><c> larger</c><00:07:57.889><c> risk</c><00:07:58.099><c> of</c><00:07:58.400><c> overfitting</c>
+
+00:07:59.649 --> 00:07:59.659 align:start position:0%
+and we run a larger risk of overfitting
+ 
+
+00:07:59.659 --> 00:08:03.279 align:start position:0%
+and we run a larger risk of overfitting
+whereas<00:08:00.259><c> if</c><00:08:00.620><c> lambda</c><00:08:01.279><c> is</c><00:08:01.759><c> large</c><00:08:02.120><c> that</c><00:08:02.539><c> is</c><00:08:02.870><c> if</c><00:08:03.080><c> we</c>
+
+00:08:03.279 --> 00:08:03.289 align:start position:0%
+whereas if lambda is large that is if we
+ 
+
+00:08:03.289 --> 00:08:05.649 align:start position:0%
+whereas if lambda is large that is if we
+were<00:08:03.469><c> on</c><00:08:03.770><c> the</c><00:08:03.919><c> right</c><00:08:04.159><c> part</c><00:08:04.460><c> of</c><00:08:04.729><c> this</c>
+
+00:08:05.649 --> 00:08:05.659 align:start position:0%
+were on the right part of this
+ 
+
+00:08:05.659 --> 00:08:08.469 align:start position:0%
+were on the right part of this
+horizontal<00:08:05.719><c> axis</c><00:08:06.680><c> then</c><00:08:07.550><c> with</c><00:08:07.879><c> a</c><00:08:07.909><c> large</c><00:08:08.270><c> value</c>
+
+00:08:08.469 --> 00:08:08.479 align:start position:0%
+horizontal axis then with a large value
+ 
+
+00:08:08.479 --> 00:08:11.079 align:start position:0%
+horizontal axis then with a large value
+of<00:08:08.719><c> lambda</c><00:08:08.809><c> we</c><00:08:09.680><c> run</c><00:08:09.919><c> a</c><00:08:09.949><c> higher</c><00:08:10.339><c> risk</c><00:08:10.610><c> of</c><00:08:10.879><c> having</c>
+
+00:08:11.079 --> 00:08:11.089 align:start position:0%
+of lambda we run a higher risk of having
+ 
+
+00:08:11.089 --> 00:08:14.860 align:start position:0%
+of lambda we run a higher risk of having
+a<00:08:11.479><c> bias</c><00:08:11.809><c> problem</c><00:08:12.289><c> so</c><00:08:13.279><c> if</c><00:08:13.610><c> you</c><00:08:13.759><c> plot</c><00:08:14.089><c> J</c><00:08:14.839><c> train</c>
+
+00:08:14.860 --> 00:08:14.870 align:start position:0%
+a bias problem so if you plot J train
+ 
+
+00:08:14.870 --> 00:08:19.029 align:start position:0%
+a bias problem so if you plot J train
+and<00:08:15.620><c> JCV</c><00:08:15.879><c> what</c><00:08:16.879><c> you</c><00:08:16.999><c> find</c><00:08:17.300><c> is</c><00:08:17.689><c> that</c><00:08:17.719><c> for</c><00:08:18.259><c> small</c>
+
+00:08:19.029 --> 00:08:19.039 align:start position:0%
+and JCV what you find is that for small
+ 
+
+00:08:19.039 --> 00:08:22.390 align:start position:0%
+and JCV what you find is that for small
+values<00:08:19.490><c> of</c><00:08:19.639><c> lambda</c><00:08:19.870><c> you</c><00:08:20.870><c> are</c><00:08:21.289><c> you</c><00:08:21.830><c> can</c><00:08:22.009><c> fit</c><00:08:22.279><c> the</c>
+
+00:08:22.390 --> 00:08:22.400 align:start position:0%
+values of lambda you are you can fit the
+ 
+
+00:08:22.400 --> 00:08:24.279 align:start position:0%
+values of lambda you are you can fit the
+training<00:08:22.610><c> set</c><00:08:22.789><c> relatively</c><00:08:23.629><c> well</c><00:08:23.839><c> because</c>
+
+00:08:24.279 --> 00:08:24.289 align:start position:0%
+training set relatively well because
+ 
+
+00:08:24.289 --> 00:08:26.469 align:start position:0%
+training set relatively well because
+you're<00:08:24.469><c> not</c><00:08:24.589><c> regularizing</c><00:08:25.400><c> so</c><00:08:25.699><c> for</c><00:08:26.240><c> small</c>
+
+00:08:26.469 --> 00:08:26.479 align:start position:0%
+you're not regularizing so for small
+ 
+
+00:08:26.479 --> 00:08:28.360 align:start position:0%
+you're not regularizing so for small
+values<00:08:26.839><c> of</c><00:08:27.020><c> lambda</c><00:08:27.169><c> the</c><00:08:27.650><c> regularization</c><00:08:27.680><c> term</c>
+
+00:08:28.360 --> 00:08:28.370 align:start position:0%
+values of lambda the regularization term
+ 
+
+00:08:28.370 --> 00:08:30.309 align:start position:0%
+values of lambda the regularization term
+basic<00:08:28.969><c> goes</c><00:08:29.120><c> away</c><00:08:29.389><c> and</c><00:08:29.960><c> you're</c><00:08:30.080><c> just</c>
+
+00:08:30.309 --> 00:08:30.319 align:start position:0%
+basic goes away and you're just
+ 
+
+00:08:30.319 --> 00:08:32.409 align:start position:0%
+basic goes away and you're just
+minimizing<00:08:30.830><c> pretty</c><00:08:31.729><c> much</c><00:08:31.939><c> your</c><00:08:32.120><c> squared</c>
+
+00:08:32.409 --> 00:08:32.419 align:start position:0%
+minimizing pretty much your squared
+ 
+
+00:08:32.419 --> 00:08:34.930 align:start position:0%
+minimizing pretty much your squared
+error<00:08:32.630><c> so</c><00:08:33.019><c> when</c><00:08:33.260><c> lambda</c><00:08:33.440><c> is</c><00:08:33.709><c> small</c><00:08:33.860><c> you</c><00:08:34.250><c> end</c><00:08:34.789><c> up</c>
+
+00:08:34.930 --> 00:08:34.940 align:start position:0%
+error so when lambda is small you end up
+ 
+
+00:08:34.940 --> 00:08:36.819 align:start position:0%
+error so when lambda is small you end up
+with<00:08:35.120><c> a</c><00:08:35.240><c> small</c><00:08:35.539><c> value</c><00:08:35.779><c> for</c><00:08:36.019><c> j-train</c>
+
+00:08:36.819 --> 00:08:36.829 align:start position:0%
+with a small value for j-train
+ 
+
+00:08:36.829 --> 00:08:39.909 align:start position:0%
+with a small value for j-train
+whereas<00:08:37.760><c> if</c><00:08:37.909><c> lambda</c><00:08:38.089><c> is</c><00:08:38.300><c> large</c><00:08:38.599><c> then</c><00:08:39.110><c> you</c><00:08:39.349><c> have</c>
+
+00:08:39.909 --> 00:08:39.919 align:start position:0%
+whereas if lambda is large then you have
+ 
+
+00:08:39.919 --> 00:08:41.620 align:start position:0%
+whereas if lambda is large then you have
+a<00:08:39.949><c> high</c><00:08:40.159><c> bias</c><00:08:40.399><c> problem</c><00:08:40.669><c> and</c><00:08:41.240><c> you</c><00:08:41.300><c> might</c><00:08:41.479><c> not</c>
+
+00:08:41.620 --> 00:08:41.630 align:start position:0%
+a high bias problem and you might not
+ 
+
+00:08:41.630 --> 00:08:43.329 align:start position:0%
+a high bias problem and you might not
+fit<00:08:41.839><c> your</c><00:08:41.959><c> training</c><00:08:42.289><c> so</c><00:08:42.440><c> well</c><00:08:42.649><c> so</c><00:08:42.829><c> you</c><00:08:42.949><c> didn't</c>
+
+00:08:43.329 --> 00:08:43.339 align:start position:0%
+fit your training so well so you didn't
+ 
+
+00:08:43.339 --> 00:08:49.900 align:start position:0%
+fit your training so well so you didn't
+value<00:08:43.639><c> up</c><00:08:43.729><c> there</c><00:08:43.969><c> so</c><00:08:45.250><c> J</c><00:08:46.250><c> train</c><00:08:46.610><c> of</c><00:08:47.889><c> theta</c><00:08:48.910><c> will</c>
+
+00:08:49.900 --> 00:08:49.910 align:start position:0%
+value up there so J train of theta will
+ 
+
+00:08:49.910 --> 00:08:52.600 align:start position:0%
+value up there so J train of theta will
+tend<00:08:50.149><c> to</c><00:08:50.209><c> increase</c><00:08:50.779><c> when</c><00:08:51.709><c> lambda</c><00:08:51.949><c> increases</c>
+
+00:08:52.600 --> 00:08:52.610 align:start position:0%
+tend to increase when lambda increases
+ 
+
+00:08:52.610 --> 00:08:54.509 align:start position:0%
+tend to increase when lambda increases
+because<00:08:53.389><c> a</c><00:08:53.420><c> large</c><00:08:53.899><c> value</c><00:08:54.260><c> of</c><00:08:54.290><c> lambda</c>
+
+00:08:54.509 --> 00:08:54.519 align:start position:0%
+because a large value of lambda
+ 
+
+00:08:54.519 --> 00:08:56.769 align:start position:0%
+because a large value of lambda
+corresponds<00:08:55.519><c> to</c><00:08:55.550><c> high</c><00:08:55.760><c> bias</c><00:08:56.060><c> where</c><00:08:56.510><c> you</c><00:08:56.600><c> might</c>
+
+00:08:56.769 --> 00:08:56.779 align:start position:0%
+corresponds to high bias where you might
+ 
+
+00:08:56.779 --> 00:08:58.180 align:start position:0%
+corresponds to high bias where you might
+not<00:08:56.930><c> even</c><00:08:57.079><c> fit</c><00:08:57.350><c> your</c><00:08:57.500><c> training</c><00:08:57.800><c> set</c><00:08:57.980><c> well</c>
+
+00:08:58.180 --> 00:08:58.190 align:start position:0%
+not even fit your training set well
+ 
+
+00:08:58.190 --> 00:09:00.180 align:start position:0%
+not even fit your training set well
+whereas<00:08:59.029><c> a</c><00:08:59.089><c> small</c><00:08:59.389><c> value</c><00:08:59.600><c> of</c><00:08:59.750><c> lambda</c>
+
+00:09:00.180 --> 00:09:00.190 align:start position:0%
+whereas a small value of lambda
+ 
+
+00:09:00.190 --> 00:09:03.819 align:start position:0%
+whereas a small value of lambda
+corresponds<00:09:01.190><c> to</c><00:09:01.370><c> if</c><00:09:01.850><c> you</c><00:09:01.970><c> can</c><00:09:02.209><c> you</c><00:09:03.170><c> know</c><00:09:03.199><c> 3d</c>
+
+00:09:03.819 --> 00:09:03.829 align:start position:0%
+corresponds to if you can you know 3d
+ 
+
+00:09:03.829 --> 00:09:06.009 align:start position:0%
+corresponds to if you can you know 3d
+fits<00:09:04.100><c> a</c><00:09:04.250><c> fairly</c><00:09:04.550><c> high</c><00:09:04.790><c> degree</c><00:09:04.819><c> polynomial</c><00:09:05.420><c> to</c>
+
+00:09:06.009 --> 00:09:06.019 align:start position:0%
+fits a fairly high degree polynomial to
+ 
+
+00:09:06.019 --> 00:09:07.689 align:start position:0%
+fits a fairly high degree polynomial to
+your<00:09:06.139><c> data</c><00:09:06.350><c> let's</c><00:09:06.740><c> say</c><00:09:06.800><c> as</c><00:09:07.310><c> for</c><00:09:07.579><c> the</c>
+
+00:09:07.689 --> 00:09:07.699 align:start position:0%
+your data let's say as for the
+ 
+
+00:09:07.699 --> 00:09:10.329 align:start position:0%
+your data let's say as for the
+cross-validation<00:09:08.120><c> error</c><00:09:08.769><c> we</c><00:09:09.769><c> end</c><00:09:09.920><c> up</c><00:09:10.069><c> with</c><00:09:10.250><c> a</c>
+
+00:09:10.329 --> 00:09:10.339 align:start position:0%
+cross-validation error we end up with a
+ 
+
+00:09:10.339 --> 00:09:14.259 align:start position:0%
+cross-validation error we end up with a
+figure<00:09:10.610><c> like</c><00:09:10.639><c> this</c><00:09:11.620><c> where</c><00:09:12.699><c> we're</c><00:09:13.699><c> over</c><00:09:14.060><c> here</c>
+
+00:09:14.259 --> 00:09:14.269 align:start position:0%
+figure like this where we're over here
+ 
+
+00:09:14.269 --> 00:09:16.449 align:start position:0%
+figure like this where we're over here
+on<00:09:14.360><c> the</c><00:09:14.480><c> right</c><00:09:14.690><c> if</c><00:09:15.410><c> we</c><00:09:15.560><c> have</c><00:09:15.680><c> a</c><00:09:15.709><c> large</c><00:09:15.980><c> value</c><00:09:16.160><c> of</c>
+
+00:09:16.449 --> 00:09:16.459 align:start position:0%
+on the right if we have a large value of
+ 
+
+00:09:16.459 --> 00:09:19.449 align:start position:0%
+on the right if we have a large value of
+lambda<00:09:16.940><c> we</c><00:09:16.970><c> may</c><00:09:17.839><c> end</c><00:09:18.170><c> up</c><00:09:18.440><c> under</c><00:09:18.860><c> fitting</c><00:09:19.250><c> and</c>
+
+00:09:19.449 --> 00:09:19.459 align:start position:0%
+lambda we may end up under fitting and
+ 
+
+00:09:19.459 --> 00:09:24.309 align:start position:0%
+lambda we may end up under fitting and
+so<00:09:20.209><c> this</c><00:09:20.449><c> is</c><00:09:20.600><c> the</c><00:09:20.779><c> bias</c><00:09:21.470><c> regime</c><00:09:22.300><c> whereas</c><00:09:23.319><c> and</c>
+
+00:09:24.309 --> 00:09:24.319 align:start position:0%
+so this is the bias regime whereas and
+ 
+
+00:09:24.319 --> 00:09:27.819 align:start position:0%
+so this is the bias regime whereas and
+so<00:09:24.709><c> the</c><00:09:25.029><c> cross-validation</c><00:09:26.029><c> error</c><00:09:26.839><c> will</c><00:09:27.709><c> be</c>
+
+00:09:27.819 --> 00:09:27.829 align:start position:0%
+so the cross-validation error will be
+ 
+
+00:09:27.829 --> 00:09:29.980 align:start position:0%
+so the cross-validation error will be
+high<00:09:28.100><c> let</c><00:09:28.819><c> me</c><00:09:28.850><c> just</c><00:09:29.060><c> label</c><00:09:29.209><c> that</c><00:09:29.420><c> so</c><00:09:29.779><c> that's</c>
+
+00:09:29.980 --> 00:09:29.990 align:start position:0%
+high let me just label that so that's
+ 
+
+00:09:29.990 --> 00:09:33.069 align:start position:0%
+high let me just label that so that's
+JCV<00:09:30.740><c> of</c><00:09:30.769><c> theta</c><00:09:30.889><c> because</c><00:09:31.730><c> with</c><00:09:32.240><c> high</c><00:09:32.449><c> bias</c><00:09:32.870><c> we</c>
+
+00:09:33.069 --> 00:09:33.079 align:start position:0%
+JCV of theta because with high bias we
+ 
+
+00:09:33.079 --> 00:09:35.350 align:start position:0%
+JCV of theta because with high bias we
+won't<00:09:33.319><c> be</c><00:09:33.440><c> fitting</c><00:09:33.829><c> we</c><00:09:34.579><c> won't</c><00:09:34.790><c> be</c><00:09:34.910><c> doing</c><00:09:35.149><c> well</c>
+
+00:09:35.350 --> 00:09:35.360 align:start position:0%
+won't be fitting we won't be doing well
+ 
+
+00:09:35.360 --> 00:09:38.500 align:start position:0%
+won't be fitting we won't be doing well
+on<00:09:35.540><c> the</c><00:09:35.750><c> cross-validation</c><00:09:36.170><c> set</c><00:09:37.329><c> whereas</c><00:09:38.329><c> here</c>
+
+00:09:38.500 --> 00:09:38.510 align:start position:0%
+on the cross-validation set whereas here
+ 
+
+00:09:38.510 --> 00:09:40.870 align:start position:0%
+on the cross-validation set whereas here
+on<00:09:38.569><c> the</c><00:09:38.720><c> left</c><00:09:38.959><c> this</c><00:09:39.620><c> is</c><00:09:39.680><c> the</c><00:09:40.040><c> high</c><00:09:40.339><c> variance</c>
+
+00:09:40.870 --> 00:09:40.880 align:start position:0%
+on the left this is the high variance
+ 
+
+00:09:40.880 --> 00:09:41.860 align:start position:0%
+on the left this is the high variance
+regime
+
+00:09:41.860 --> 00:09:41.870 align:start position:0%
+regime
+ 
+
+00:09:41.870 --> 00:09:44.470 align:start position:0%
+regime
+where<00:09:42.500><c> if</c><00:09:43.130><c> we</c><00:09:43.250><c> have</c><00:09:43.430><c> two</c><00:09:43.610><c> smaller</c><00:09:43.970><c> value</c><00:09:44.450><c> of</c>
+
+00:09:44.470 --> 00:09:44.480 align:start position:0%
+where if we have two smaller value of
+ 
+
+00:09:44.480 --> 00:09:47.230 align:start position:0%
+where if we have two smaller value of
+lambda<00:09:45.170><c> then</c><00:09:45.800><c> we</c><00:09:46.040><c> may</c><00:09:46.220><c> be</c><00:09:46.279><c> overfitting</c><00:09:46.970><c> the</c>
+
+00:09:47.230 --> 00:09:47.240 align:start position:0%
+lambda then we may be overfitting the
+ 
+
+00:09:47.240 --> 00:09:49.480 align:start position:0%
+lambda then we may be overfitting the
+data<00:09:47.450><c> and</c><00:09:47.900><c> so</c><00:09:48.230><c> for</c><00:09:48.529><c> overfitting</c><00:09:49.040><c> the</c><00:09:49.279><c> data</c>
+
+00:09:49.480 --> 00:09:49.490 align:start position:0%
+data and so for overfitting the data
+ 
+
+00:09:49.490 --> 00:09:52.060 align:start position:0%
+data and so for overfitting the data
+then<00:09:50.360><c> the</c><00:09:50.480><c> cross-validation</c><00:09:50.720><c> error</c><00:09:51.440><c> were</c>
+
+00:09:52.060 --> 00:09:52.070 align:start position:0%
+then the cross-validation error were
+ 
+
+00:09:52.070 --> 00:09:56.710 align:start position:0%
+then the cross-validation error were
+also<00:09:52.460><c> behind</c><00:09:52.750><c> and</c><00:09:53.750><c> so</c><00:09:53.990><c> this</c><00:09:54.290><c> is</c><00:09:54.440><c> what</c><00:09:54.710><c> do</c><00:09:55.720><c> cross</c>
+
+00:09:56.710 --> 00:09:56.720 align:start position:0%
+also behind and so this is what do cross
+ 
+
+00:09:56.720 --> 00:09:59.019 align:start position:0%
+also behind and so this is what do cross
+validation<00:09:57.290><c> error</c><00:09:57.589><c> and</c><00:09:58.339><c> what</c><00:09:58.490><c> the</c><00:09:58.610><c> training</c>
+
+00:09:59.019 --> 00:09:59.029 align:start position:0%
+validation error and what the training
+ 
+
+00:09:59.029 --> 00:10:01.600 align:start position:0%
+validation error and what the training
+error<00:09:59.210><c> may</c><00:09:59.779><c> look</c><00:10:00.020><c> like</c><00:10:00.290><c> on</c><00:10:00.650><c> the</c><00:10:00.860><c> training</c><00:10:01.279><c> sets</c>
+
+00:10:01.600 --> 00:10:01.610 align:start position:0%
+error may look like on the training sets
+ 
+
+00:10:01.610 --> 00:10:04.269 align:start position:0%
+error may look like on the training sets
+as<00:10:01.850><c> we</c><00:10:02.120><c> believe</c><00:10:02.450><c> different</c><00:10:03.260><c> to</c><00:10:03.410><c> launder</c><00:10:03.890><c> as</c><00:10:04.130><c> we</c>
+
+00:10:04.269 --> 00:10:04.279 align:start position:0%
+as we believe different to launder as we
+ 
+
+00:10:04.279 --> 00:10:06.730 align:start position:0%
+as we believe different to launder as we
+vary<00:10:04.490><c> the</c><00:10:04.790><c> randomization</c><00:10:05.510><c> so</c><00:10:05.960><c> long</c><00:10:06.140><c> term</c><00:10:06.350><c> and</c>
+
+00:10:06.730 --> 00:10:06.740 align:start position:0%
+vary the randomization so long term and
+ 
+
+00:10:06.740 --> 00:10:09.310 align:start position:0%
+vary the randomization so long term and
+so<00:10:07.279><c> once</c><00:10:07.550><c> again</c><00:10:07.670><c> it</c><00:10:08.210><c> will</c><00:10:08.330><c> often</c><00:10:08.540><c> be</c><00:10:08.779><c> some</c>
+
+00:10:09.310 --> 00:10:09.320 align:start position:0%
+so once again it will often be some
+ 
+
+00:10:09.320 --> 00:10:12.340 align:start position:0%
+so once again it will often be some
+intermediate<00:10:10.040><c> value</c><00:10:10.100><c> of</c><00:10:10.820><c> lambda</c><00:10:11.420><c> that</c><00:10:12.050><c> you</c>
+
+00:10:12.340 --> 00:10:12.350 align:start position:0%
+intermediate value of lambda that you
+ 
+
+00:10:12.350 --> 00:10:14.079 align:start position:0%
+intermediate value of lambda that you
+know<00:10:12.440><c> this</c><00:10:12.560><c> sort</c><00:10:13.040><c> of</c><00:10:13.130><c> called</c><00:10:13.339><c> just</c><00:10:13.610><c> rights</c><00:10:13.880><c> or</c>
+
+00:10:14.079 --> 00:10:14.089 align:start position:0%
+know this sort of called just rights or
+ 
+
+00:10:14.089 --> 00:10:16.360 align:start position:0%
+know this sort of called just rights or
+that<00:10:14.240><c> works</c><00:10:14.480><c> best</c><00:10:14.810><c> in</c><00:10:15.110><c> terms</c><00:10:15.350><c> of</c><00:10:15.680><c> having</c><00:10:16.250><c> a</c>
+
+00:10:16.360 --> 00:10:16.370 align:start position:0%
+that works best in terms of having a
+ 
+
+00:10:16.370 --> 00:10:18.370 align:start position:0%
+that works best in terms of having a
+small<00:10:16.640><c> cross-validation</c><00:10:17.089><c> error</c><00:10:17.660><c> or</c><00:10:18.020><c> a</c><00:10:18.050><c> small</c>
+
+00:10:18.370 --> 00:10:18.380 align:start position:0%
+small cross-validation error or a small
+ 
+
+00:10:18.380 --> 00:10:20.980 align:start position:0%
+small cross-validation error or a small
+test<00:10:18.680><c> set</c><00:10:18.920><c> and</c><00:10:19.430><c> whereas</c><00:10:20.300><c> the</c><00:10:20.480><c> curls</c><00:10:20.810><c> I've</c>
+
+00:10:20.980 --> 00:10:20.990 align:start position:0%
+test set and whereas the curls I've
+ 
+
+00:10:20.990 --> 00:10:23.170 align:start position:0%
+test set and whereas the curls I've
+drawn<00:10:21.260><c> here</c><00:10:21.290><c> are</c><00:10:21.740><c> somewhat</c><00:10:22.190><c> cartoonish</c><00:10:22.550><c> and</c>
+
+00:10:23.170 --> 00:10:23.180 align:start position:0%
+drawn here are somewhat cartoonish and
+ 
+
+00:10:23.180 --> 00:10:25.870 align:start position:0%
+drawn here are somewhat cartoonish and
+somewhat<00:10:23.510><c> idealized</c><00:10:24.050><c> so</c><00:10:24.830><c> on</c><00:10:25.070><c> a</c><00:10:25.100><c> real</c><00:10:25.339><c> data</c><00:10:25.550><c> set</c>
+
+00:10:25.870 --> 00:10:25.880 align:start position:0%
+somewhat idealized so on a real data set
+ 
+
+00:10:25.880 --> 00:10:28.210 align:start position:0%
+somewhat idealized so on a real data set
+the<00:10:26.300><c> curves</c><00:10:26.960><c> you</c><00:10:27.050><c> get</c><00:10:27.320><c> may</c><00:10:27.500><c> end</c><00:10:27.710><c> up</c><00:10:27.830><c> looking</c><00:10:28.190><c> a</c>
+
+00:10:28.210 --> 00:10:28.220 align:start position:0%
+the curves you get may end up looking a
+ 
+
+00:10:28.220 --> 00:10:29.590 align:start position:0%
+the curves you get may end up looking a
+little<00:10:28.370><c> bit</c><00:10:28.550><c> more</c><00:10:28.610><c> messy</c><00:10:28.970><c> and</c><00:10:29.240><c> just</c><00:10:29.330><c> a</c><00:10:29.510><c> little</c>
+
+00:10:29.590 --> 00:10:29.600 align:start position:0%
+little bit more messy and just a little
+ 
+
+00:10:29.600 --> 00:10:32.260 align:start position:0%
+little bit more messy and just a little
+bit<00:10:29.779><c> more</c><00:10:29.960><c> noisy</c><00:10:30.380><c> than</c><00:10:30.560><c> this</c><00:10:30.760><c> for</c><00:10:31.760><c> some</c><00:10:32.060><c> data</c>
+
+00:10:32.260 --> 00:10:32.270 align:start position:0%
+bit more noisy than this for some data
+ 
+
+00:10:32.270 --> 00:10:34.660 align:start position:0%
+bit more noisy than this for some data
+says<00:10:32.540><c> you</c><00:10:32.779><c> will</c><00:10:32.990><c> really</c><00:10:33.470><c> see</c><00:10:34.040><c> these</c><00:10:34.279><c> poor</c>
+
+00:10:34.660 --> 00:10:34.670 align:start position:0%
+says you will really see these poor
+ 
+
+00:10:34.670 --> 00:10:37.360 align:start position:0%
+says you will really see these poor
+source<00:10:34.970><c> of</c><00:10:35.120><c> trends</c><00:10:35.570><c> and</c><00:10:35.750><c> by</c><00:10:36.589><c> looking</c><00:10:36.980><c> at</c><00:10:37.250><c> the</c>
+
+00:10:37.360 --> 00:10:37.370 align:start position:0%
+source of trends and by looking at the
+ 
+
+00:10:37.370 --> 00:10:39.310 align:start position:0%
+source of trends and by looking at the
+plot<00:10:37.640><c> of</c><00:10:37.970><c> the</c><00:10:38.540><c> holdout</c><00:10:38.900><c> cross-validation</c>
+
+00:10:39.310 --> 00:10:39.320 align:start position:0%
+plot of the holdout cross-validation
+ 
+
+00:10:39.320 --> 00:10:42.400 align:start position:0%
+plot of the holdout cross-validation
+error<00:10:40.029><c> you</c><00:10:41.029><c> can</c><00:10:41.240><c> either</c><00:10:41.450><c> manually</c><00:10:42.110><c> or</c>
+
+00:10:42.400 --> 00:10:42.410 align:start position:0%
+error you can either manually or
+ 
+
+00:10:42.410 --> 00:10:44.890 align:start position:0%
+error you can either manually or
+automatically<00:10:43.010><c> try</c><00:10:43.370><c> to</c><00:10:43.430><c> select</c><00:10:43.850><c> a</c><00:10:44.000><c> point</c><00:10:44.210><c> that</c>
+
+00:10:44.890 --> 00:10:44.900 align:start position:0%
+automatically try to select a point that
+ 
+
+00:10:44.900 --> 00:10:48.340 align:start position:0%
+automatically try to select a point that
+minimizes<00:10:45.710><c> the</c><00:10:46.580><c> the</c><00:10:47.330><c> cross-validation</c><00:10:47.570><c> error</c>
+
+00:10:48.340 --> 00:10:48.350 align:start position:0%
+minimizes the the cross-validation error
+ 
+
+00:10:48.350 --> 00:10:50.250 align:start position:0%
+minimizes the the cross-validation error
+and<00:10:48.770><c> select</c><00:10:49.160><c> a</c><00:10:49.279><c> value</c><00:10:49.430><c> of</c><00:10:49.760><c> lambda</c>
+
+00:10:50.250 --> 00:10:50.260 align:start position:0%
+and select a value of lambda
+ 
+
+00:10:50.260 --> 00:10:52.269 align:start position:0%
+and select a value of lambda
+corresponding<00:10:51.260><c> to</c><00:10:51.470><c> low</c><00:10:51.709><c> cross-validation</c>
+
+00:10:52.269 --> 00:10:52.279 align:start position:0%
+corresponding to low cross-validation
+ 
+
+00:10:52.279 --> 00:10:54.790 align:start position:0%
+corresponding to low cross-validation
+error<00:10:52.880><c> when</c><00:10:53.720><c> I'm</c><00:10:53.930><c> trying</c><00:10:54.230><c> to</c><00:10:54.410><c> pick</c><00:10:54.770><c> the</c>
+
+00:10:54.790 --> 00:10:54.800 align:start position:0%
+error when I'm trying to pick the
+ 
+
+00:10:54.800 --> 00:10:57.460 align:start position:0%
+error when I'm trying to pick the
+regularization<00:10:55.310><c> parameter</c><00:10:55.870><c> lambda</c><00:10:56.870><c> for</c><00:10:57.440><c> a</c>
+
+00:10:57.460 --> 00:10:57.470 align:start position:0%
+regularization parameter lambda for a
+ 
+
+00:10:57.470 --> 00:10:59.980 align:start position:0%
+regularization parameter lambda for a
+learning<00:10:57.770><c> algorithm</c><00:10:58.120><c> often</c><00:10:59.120><c> I</c><00:10:59.330><c> find</c><00:10:59.690><c> that</c>
+
+00:10:59.980 --> 00:10:59.990 align:start position:0%
+learning algorithm often I find that
+ 
+
+00:10:59.990 --> 00:11:01.690 align:start position:0%
+learning algorithm often I find that
+plotting<00:11:00.470><c> a</c><00:11:00.560><c> figure</c><00:11:00.890><c> like</c><00:11:01.040><c> this</c><00:11:01.220><c> one</c><00:11:01.459><c> shown</c>
+
+00:11:01.690 --> 00:11:01.700 align:start position:0%
+plotting a figure like this one shown
+ 
+
+00:11:01.700 --> 00:11:04.480 align:start position:0%
+plotting a figure like this one shown
+here<00:11:01.730><c> helps</c><00:11:02.720><c> me</c><00:11:02.870><c> understand</c><00:11:03.440><c> better</c><00:11:04.010><c> what's</c>
+
+00:11:04.480 --> 00:11:04.490 align:start position:0%
+here helps me understand better what's
+ 
+
+00:11:04.490 --> 00:11:07.180 align:start position:0%
+here helps me understand better what's
+going<00:11:04.580><c> on</c><00:11:04.940><c> and</c><00:11:05.209><c> helps</c><00:11:05.480><c> me</c><00:11:05.600><c> verify</c><00:11:05.959><c> that</c><00:11:06.440><c> I</c><00:11:06.800><c> am</c>
+
+00:11:07.180 --> 00:11:07.190 align:start position:0%
+going on and helps me verify that I am
+ 
+
+00:11:07.190 --> 00:11:09.040 align:start position:0%
+going on and helps me verify that I am
+indeed<00:11:07.400><c> picking</c><00:11:07.970><c> a</c><00:11:08.089><c> good</c><00:11:08.270><c> value</c><00:11:08.540><c> for</c><00:11:08.779><c> the</c>
+
+00:11:09.040 --> 00:11:09.050 align:start position:0%
+indeed picking a good value for the
+ 
+
+00:11:09.050 --> 00:11:11.680 align:start position:0%
+indeed picking a good value for the
+regularization<00:11:09.080><c> parameter</c><00:11:09.890><c> lambda</c><00:11:10.690><c> so</c>
+
+00:11:11.680 --> 00:11:11.690 align:start position:0%
+regularization parameter lambda so
+ 
+
+00:11:11.690 --> 00:11:13.540 align:start position:0%
+regularization parameter lambda so
+hopefully<00:11:12.260><c> that</c><00:11:12.470><c> gives</c><00:11:12.500><c> you</c><00:11:12.860><c> more</c><00:11:13.040><c> insight</c>
+
+00:11:13.540 --> 00:11:13.550 align:start position:0%
+hopefully that gives you more insight
+ 
+
+00:11:13.550 --> 00:11:16.690 align:start position:0%
+hopefully that gives you more insight
+into<00:11:13.820><c> regularization</c><00:11:14.600><c> and</c><00:11:15.320><c> this</c><00:11:15.920><c> effects</c><00:11:16.400><c> on</c>
+
+00:11:16.690 --> 00:11:16.700 align:start position:0%
+into regularization and this effects on
+ 
+
+00:11:16.700 --> 00:11:18.579 align:start position:0%
+into regularization and this effects on
+the<00:11:16.880><c> bias</c><00:11:17.120><c> and</c><00:11:17.450><c> variance</c><00:11:17.540><c> of</c><00:11:18.170><c> a</c><00:11:18.260><c> learning</c>
+
+00:11:18.579 --> 00:11:18.589 align:start position:0%
+the bias and variance of a learning
+ 
+
+00:11:18.589 --> 00:11:21.670 align:start position:0%
+the bias and variance of a learning
+algorithm<00:11:19.089><c> by</c><00:11:20.089><c> now</c><00:11:20.330><c> you've</c><00:11:20.630><c> seen</c><00:11:20.990><c> bias</c><00:11:21.410><c> and</c>
+
+00:11:21.670 --> 00:11:21.680 align:start position:0%
+algorithm by now you've seen bias and
+ 
+
+00:11:21.680 --> 00:11:22.930 align:start position:0%
+algorithm by now you've seen bias and
+variance<00:11:21.709><c> from</c><00:11:22.339><c> a</c><00:11:22.490><c> lot</c><00:11:22.670><c> of</c><00:11:22.700><c> different</c>
+
+00:11:22.930 --> 00:11:22.940 align:start position:0%
+variance from a lot of different
+ 
+
+00:11:22.940 --> 00:11:25.840 align:start position:0%
+variance from a lot of different
+perspectives<00:11:23.330><c> and</c><00:11:24.070><c> what</c><00:11:25.070><c> I'd</c><00:11:25.190><c> like</c><00:11:25.279><c> to</c><00:11:25.339><c> do</c><00:11:25.610><c> in</c>
+
+00:11:25.840 --> 00:11:25.850 align:start position:0%
+perspectives and what I'd like to do in
+ 
+
+00:11:25.850 --> 00:11:27.640 align:start position:0%
+perspectives and what I'd like to do in
+the<00:11:25.940><c> next</c><00:11:26.089><c> video</c><00:11:26.480><c> is</c><00:11:26.750><c> think</c><00:11:27.170><c> of</c><00:11:27.320><c> all</c><00:11:27.500><c> of</c><00:11:27.529><c> the</c>
+
+00:11:27.640 --> 00:11:27.650 align:start position:0%
+the next video is think of all of the
+ 
+
+00:11:27.650 --> 00:11:29.250 align:start position:0%
+the next video is think of all of the
+insights<00:11:28.190><c> that</c><00:11:28.370><c> we've</c><00:11:28.490><c> gone</c><00:11:28.670><c> through</c><00:11:28.730><c> and</c>
+
+00:11:29.250 --> 00:11:29.260 align:start position:0%
+insights that we've gone through and
+ 
+
+00:11:29.260 --> 00:11:31.900 align:start position:0%
+insights that we've gone through and
+build<00:11:30.260><c> on</c><00:11:30.500><c> them</c><00:11:30.740><c> to</c><00:11:31.070><c> put</c><00:11:31.250><c> together</c><00:11:31.370><c> a</c>
+
+00:11:31.900 --> 00:11:31.910 align:start position:0%
+build on them to put together a
+ 
+
+00:11:31.910 --> 00:11:34.329 align:start position:0%
+build on them to put together a
+diagnostic<00:11:32.779><c> that's</c><00:11:33.350><c> called</c><00:11:33.709><c> learning</c><00:11:33.890><c> curves</c>
+
+00:11:34.329 --> 00:11:34.339 align:start position:0%
+diagnostic that's called learning curves
+ 
+
+00:11:34.339 --> 00:11:37.060 align:start position:0%
+diagnostic that's called learning curves
+which<00:11:34.940><c> is</c><00:11:35.089><c> a</c><00:11:35.120><c> tool</c><00:11:35.450><c> that</c><00:11:35.480><c> I</c><00:11:35.900><c> often</c><00:11:36.110><c> use</c><00:11:36.320><c> to</c><00:11:36.560><c> try</c>
+
+00:11:37.060 --> 00:11:37.070 align:start position:0%
+which is a tool that I often use to try
+ 
+
+00:11:37.070 --> 00:11:38.949 align:start position:0%
+which is a tool that I often use to try
+to<00:11:37.130><c> diagnose</c><00:11:37.700><c> that</c><00:11:38.060><c> the</c><00:11:38.150><c> learning</c><00:11:38.480><c> algorithm</c>
+
+00:11:38.949 --> 00:11:38.959 align:start position:0%
+to diagnose that the learning algorithm
+ 
+
+00:11:38.959 --> 00:11:42.180 align:start position:0%
+to diagnose that the learning algorithm
+may<00:11:39.470><c> be</c><00:11:39.500><c> suffering</c><00:11:39.650><c> from</c><00:11:40.040><c> a</c><00:11:40.310><c> bias</c><00:11:40.490><c> problem</c><00:11:41.120><c> or</c>
+
+00:11:42.180 --> 00:11:42.190 align:start position:0%
+may be suffering from a bias problem or
+ 
+
+00:11:42.190 --> 00:11:44.220 align:start position:0%
+may be suffering from a bias problem or
+Oh
+

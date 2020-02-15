@@ -1,0 +1,1096 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:02.030 align:start position:0%
+ 
+in<00:00:00.299><c> this</c><00:00:00.539><c> video</c><00:00:00.719><c> we'll</c><00:00:01.110><c> talk</c><00:00:01.260><c> about</c><00:00:01.319><c> matrix</c>
+
+00:00:02.030 --> 00:00:02.040 align:start position:0%
+in this video we'll talk about matrix
+ 
+
+00:00:02.040 --> 00:00:04.910 align:start position:0%
+in this video we'll talk about matrix
+addition<00:00:02.340><c> and</c><00:00:02.700><c> subtraction</c><00:00:03.480><c> as</c><00:00:03.629><c> well</c><00:00:04.350><c> as</c><00:00:04.589><c> how</c>
+
+00:00:04.910 --> 00:00:04.920 align:start position:0%
+addition and subtraction as well as how
+ 
+
+00:00:04.920 --> 00:00:07.220 align:start position:0%
+addition and subtraction as well as how
+to<00:00:04.980><c> multiply</c><00:00:05.549><c> a</c><00:00:05.970><c> matrix</c><00:00:06.120><c> by</c><00:00:06.450><c> number</c><00:00:06.930><c> also</c>
+
+00:00:07.220 --> 00:00:07.230 align:start position:0%
+to multiply a matrix by number also
+ 
+
+00:00:07.230 --> 00:00:10.910 align:start position:0%
+to multiply a matrix by number also
+called<00:00:07.440><c> scalar</c><00:00:08.130><c> multiplication</c><00:00:09.530><c> let's</c><00:00:10.530><c> start</c>
+
+00:00:10.910 --> 00:00:10.920 align:start position:0%
+called scalar multiplication let's start
+ 
+
+00:00:10.920 --> 00:00:14.089 align:start position:0%
+called scalar multiplication let's start
+with<00:00:11.070><c> an</c><00:00:11.160><c> example</c><00:00:12.139><c> given</c><00:00:13.139><c> two</c><00:00:13.349><c> matrices</c><00:00:13.769><c> like</c>
+
+00:00:14.089 --> 00:00:14.099 align:start position:0%
+with an example given two matrices like
+ 
+
+00:00:14.099 --> 00:00:16.129 align:start position:0%
+with an example given two matrices like
+these<00:00:14.280><c> let's</c><00:00:15.150><c> say</c><00:00:15.269><c> I</c><00:00:15.360><c> want</c><00:00:15.599><c> to</c><00:00:15.660><c> add</c><00:00:15.870><c> them</c>
+
+00:00:16.129 --> 00:00:16.139 align:start position:0%
+these let's say I want to add them
+ 
+
+00:00:16.139 --> 00:00:18.170 align:start position:0%
+these let's say I want to add them
+together<00:00:16.379><c> how</c><00:00:16.920><c> do</c><00:00:16.980><c> I</c><00:00:17.130><c> do</c><00:00:17.190><c> that</c><00:00:17.310><c> and</c><00:00:17.789><c> so</c><00:00:17.970><c> what</c>
+
+00:00:18.170 --> 00:00:18.180 align:start position:0%
+together how do I do that and so what
+ 
+
+00:00:18.180 --> 00:00:20.810 align:start position:0%
+together how do I do that and so what
+this<00:00:18.330><c> addition</c><00:00:18.869><c> of</c><00:00:18.990><c> matrices</c><00:00:19.320><c> means</c><00:00:19.740><c> it</c><00:00:20.520><c> turns</c>
+
+00:00:20.810 --> 00:00:20.820 align:start position:0%
+this addition of matrices means it turns
+ 
+
+00:00:20.820 --> 00:00:22.670 align:start position:0%
+this addition of matrices means it turns
+out<00:00:21.029><c> that</c><00:00:21.330><c> if</c><00:00:21.570><c> you</c><00:00:21.660><c> want</c><00:00:21.840><c> to</c><00:00:21.900><c> add</c><00:00:22.050><c> two</c><00:00:22.320><c> matrices</c>
+
+00:00:22.670 --> 00:00:22.680 align:start position:0%
+out that if you want to add two matrices
+ 
+
+00:00:22.680 --> 00:00:25.970 align:start position:0%
+out that if you want to add two matrices
+what<00:00:23.420><c> you</c><00:00:24.420><c> do</c><00:00:24.630><c> is</c><00:00:24.930><c> you</c><00:00:25.170><c> just</c><00:00:25.199><c> add</c><00:00:25.560><c> up</c><00:00:25.619><c> the</c>
+
+00:00:25.970 --> 00:00:25.980 align:start position:0%
+what you do is you just add up the
+ 
+
+00:00:25.980 --> 00:00:28.220 align:start position:0%
+what you do is you just add up the
+elements<00:00:26.609><c> of</c><00:00:26.789><c> these</c><00:00:26.939><c> matrices</c><00:00:27.330><c> one</c><00:00:27.810><c> at</c><00:00:27.960><c> a</c><00:00:28.019><c> time</c>
+
+00:00:28.220 --> 00:00:28.230 align:start position:0%
+elements of these matrices one at a time
+ 
+
+00:00:28.230 --> 00:00:31.189 align:start position:0%
+elements of these matrices one at a time
+so<00:00:28.619><c> my</c><00:00:29.189><c> result</c><00:00:29.429><c> of</c><00:00:29.970><c> adding</c><00:00:30.330><c> two</c><00:00:30.510><c> matrices</c><00:00:30.660><c> is</c>
+
+00:00:31.189 --> 00:00:31.199 align:start position:0%
+so my result of adding two matrices is
+ 
+
+00:00:31.199 --> 00:00:33.049 align:start position:0%
+so my result of adding two matrices is
+going<00:00:31.410><c> to</c><00:00:31.500><c> be</c><00:00:31.619><c> itself</c><00:00:31.980><c> another</c><00:00:32.309><c> matrix</c><00:00:32.579><c> and</c>
+
+00:00:33.049 --> 00:00:33.059 align:start position:0%
+going to be itself another matrix and
+ 
+
+00:00:33.059 --> 00:00:35.479 align:start position:0%
+going to be itself another matrix and
+the<00:00:33.719><c> first</c><00:00:33.960><c> element</c><00:00:34.140><c> again</c><00:00:34.739><c> just</c><00:00:35.010><c> by</c><00:00:35.130><c> taking</c>
+
+00:00:35.479 --> 00:00:35.489 align:start position:0%
+the first element again just by taking
+ 
+
+00:00:35.489 --> 00:00:37.400 align:start position:0%
+the first element again just by taking
+one<00:00:35.910><c> and</c><00:00:36.090><c> four</c><00:00:36.390><c> and</c><00:00:36.570><c> multiplying</c><00:00:36.930><c> them</c><00:00:37.140><c> and</c>
+
+00:00:37.400 --> 00:00:37.410 align:start position:0%
+one and four and multiplying them and
+ 
+
+00:00:37.410 --> 00:00:40.220 align:start position:0%
+one and four and multiplying them and
+adding<00:00:37.829><c> them</c><00:00:38.010><c> together</c><00:00:38.190><c> so</c><00:00:38.640><c> I</c><00:00:38.700><c> get</c><00:00:38.910><c> five</c><00:00:39.230><c> the</c>
+
+00:00:40.220 --> 00:00:40.230 align:start position:0%
+adding them together so I get five the
+ 
+
+00:00:40.230 --> 00:00:42.680 align:start position:0%
+adding them together so I get five the
+second<00:00:40.559><c> element</c><00:00:40.950><c> I</c><00:00:41.129><c> get</c><00:00:41.460><c> by</c><00:00:41.730><c> taking</c><00:00:41.940><c> two</c><00:00:42.660><c> and</c>
+
+00:00:42.680 --> 00:00:42.690 align:start position:0%
+second element I get by taking two and
+ 
+
+00:00:42.690 --> 00:00:45.560 align:start position:0%
+second element I get by taking two and
+two<00:00:43.020><c> and</c><00:00:43.170><c> adding</c><00:00:43.320><c> them</c><00:00:43.649><c> so</c><00:00:44.010><c> get</c><00:00:44.190><c> four</c><00:00:44.570><c> three</c>
+
+00:00:45.560 --> 00:00:45.570 align:start position:0%
+two and adding them so get four three
+ 
+
+00:00:45.570 --> 00:00:49.430 align:start position:0%
+two and adding them so get four three
+plus<00:00:45.840><c> three</c><00:00:46.640><c> plus</c><00:00:47.640><c> zero</c><00:00:47.730><c> is</c><00:00:48.420><c> three</c><00:00:48.840><c> and</c><00:00:49.110><c> so</c><00:00:49.260><c> on</c>
+
+00:00:49.430 --> 00:00:49.440 align:start position:0%
+plus three plus zero is three and so on
+ 
+
+00:00:49.440 --> 00:00:51.049 align:start position:0%
+plus three plus zero is three and so on
+we'll<00:00:49.770><c> stop</c><00:00:49.920><c> changing</c><00:00:50.160><c> colors</c><00:00:50.579><c> I</c><00:00:50.610><c> guess</c><00:00:50.850><c> and</c>
+
+00:00:51.049 --> 00:00:51.059 align:start position:0%
+we'll stop changing colors I guess and
+ 
+
+00:00:51.059 --> 00:00:56.479 align:start position:0%
+we'll stop changing colors I guess and
+on<00:00:51.750><c> the</c><00:00:51.870><c> right</c><00:00:52.050><c> is</c><00:00:52.289><c> 0.5</c><00:00:53.039><c> ten</c><00:00:53.879><c> and</c><00:00:54.210><c> two</c><00:00:55.020><c> and</c><00:00:55.489><c> it</c>
+
+00:00:56.479 --> 00:00:56.489 align:start position:0%
+on the right is 0.5 ten and two and it
+ 
+
+00:00:56.489 --> 00:00:58.610 align:start position:0%
+on the right is 0.5 ten and two and it
+turns<00:00:56.699><c> out</c><00:00:56.820><c> you</c><00:00:57.000><c> can</c><00:00:57.180><c> add</c><00:00:57.360><c> only</c><00:00:57.870><c> two</c><00:00:58.109><c> matrices</c>
+
+00:00:58.610 --> 00:00:58.620 align:start position:0%
+turns out you can add only two matrices
+ 
+
+00:00:58.620 --> 00:01:01.430 align:start position:0%
+turns out you can add only two matrices
+that<00:00:58.920><c> out</c><00:00:59.070><c> of</c><00:00:59.250><c> the</c><00:00:59.430><c> same</c><00:00:59.699><c> dimension</c><00:01:00.390><c> so</c><00:01:00.750><c> this</c>
+
+00:01:01.430 --> 00:01:01.440 align:start position:0%
+that out of the same dimension so this
+ 
+
+00:01:01.440 --> 00:01:07.460 align:start position:0%
+that out of the same dimension so this
+example<00:01:01.859><c> is</c><00:01:02.520><c> a</c><00:01:02.879><c> three</c><00:01:03.329><c> by</c><00:01:03.960><c> two</c><00:01:04.019><c> matrix</c><00:01:06.470><c> because</c>
+
+00:01:07.460 --> 00:01:07.470 align:start position:0%
+example is a three by two matrix because
+ 
+
+00:01:07.470 --> 00:01:10.820 align:start position:0%
+example is a three by two matrix because
+this<00:01:07.619><c> has</c><00:01:07.890><c> V</c><00:01:08.630><c> rows</c><00:01:09.630><c> and</c><00:01:10.049><c> two</c><00:01:10.229><c> columns</c><00:01:10.260><c> so</c>
+
+00:01:10.820 --> 00:01:10.830 align:start position:0%
+this has V rows and two columns so
+ 
+
+00:01:10.830 --> 00:01:12.950 align:start position:0%
+this has V rows and two columns so
+there's<00:01:11.100><c> three</c><00:01:11.280><c> by</c><00:01:11.430><c> two</c><00:01:11.490><c> this</c><00:01:12.090><c> is</c><00:01:12.330><c> also</c><00:01:12.659><c> a</c>
+
+00:01:12.950 --> 00:01:12.960 align:start position:0%
+there's three by two this is also a
+ 
+
+00:01:12.960 --> 00:01:15.620 align:start position:0%
+there's three by two this is also a
+three<00:01:13.470><c> by</c><00:01:13.619><c> two</c><00:01:13.650><c> matrix</c><00:01:14.010><c> and</c><00:01:14.460><c> the</c><00:01:15.119><c> result</c><00:01:15.509><c> of</c>
+
+00:01:15.620 --> 00:01:15.630 align:start position:0%
+three by two matrix and the result of
+ 
+
+00:01:15.630 --> 00:01:18.380 align:start position:0%
+three by two matrix and the result of
+adding<00:01:15.840><c> these</c><00:01:16.140><c> two</c><00:01:16.350><c> matrices</c><00:01:16.650><c> is</c><00:01:16.830><c> a</c><00:01:17.460><c> three</c><00:01:18.210><c> by</c>
+
+00:01:18.380 --> 00:01:18.390 align:start position:0%
+adding these two matrices is a three by
+ 
+
+00:01:18.390 --> 00:01:20.390 align:start position:0%
+adding these two matrices is a three by
+two<00:01:18.420><c> matrix</c><00:01:19.110><c> again</c><00:01:19.560><c> so</c><00:01:19.770><c> you</c><00:01:19.860><c> can</c><00:01:19.979><c> only</c><00:01:20.130><c> add</c>
+
+00:01:20.390 --> 00:01:20.400 align:start position:0%
+two matrix again so you can only add
+ 
+
+00:01:20.400 --> 00:01:22.999 align:start position:0%
+two matrix again so you can only add
+matrices<00:01:20.939><c> of</c><00:01:21.119><c> the</c><00:01:21.509><c> same</c><00:01:21.659><c> dimension</c><00:01:22.320><c> and</c><00:01:22.530><c> the</c>
+
+00:01:22.999 --> 00:01:23.009 align:start position:0%
+matrices of the same dimension and the
+ 
+
+00:01:23.009 --> 00:01:25.100 align:start position:0%
+matrices of the same dimension and the
+result<00:01:23.400><c> would</c><00:01:23.640><c> be</c><00:01:23.670><c> another</c><00:01:24.000><c> matrix</c><00:01:24.509><c> of</c><00:01:24.960><c> the</c>
+
+00:01:25.100 --> 00:01:25.110 align:start position:0%
+result would be another matrix of the
+ 
+
+00:01:25.110 --> 00:01:27.289 align:start position:0%
+result would be another matrix of the
+same<00:01:25.320><c> dimension</c><00:01:25.380><c> as</c><00:01:26.130><c> as</c><00:01:26.790><c> the</c><00:01:26.970><c> ones</c><00:01:27.150><c> you</c><00:01:27.240><c> just</c>
+
+00:01:27.289 --> 00:01:27.299 align:start position:0%
+same dimension as as the ones you just
+ 
+
+00:01:27.299 --> 00:01:30.380 align:start position:0%
+same dimension as as the ones you just
+added<00:01:28.490><c> whereas</c><00:01:29.490><c> in</c><00:01:29.579><c> contrast</c><00:01:29.700><c> you</c><00:01:30.090><c> were</c><00:01:30.240><c> to</c>
+
+00:01:30.380 --> 00:01:30.390 align:start position:0%
+added whereas in contrast you were to
+ 
+
+00:01:30.390 --> 00:01:32.300 align:start position:0%
+added whereas in contrast you were to
+take<00:01:30.540><c> these</c><00:01:30.720><c> two</c><00:01:30.930><c> matrices</c><00:01:31.110><c> so</c><00:01:31.650><c> this</c><00:01:31.860><c> one</c><00:01:32.070><c> is</c><00:01:32.280><c> a</c>
+
+00:01:32.300 --> 00:01:32.310 align:start position:0%
+take these two matrices so this one is a
+ 
+
+00:01:32.310 --> 00:01:34.580 align:start position:0%
+take these two matrices so this one is a
+three<00:01:32.640><c> by</c><00:01:32.820><c> two</c><00:01:32.850><c> matrix</c><00:01:33.090><c> so</c><00:01:33.780><c> again</c><00:01:33.990><c> three</c><00:01:34.350><c> rows</c>
+
+00:01:34.580 --> 00:01:34.590 align:start position:0%
+three by two matrix so again three rows
+ 
+
+00:01:34.590 --> 00:01:37.700 align:start position:0%
+three by two matrix so again three rows
+two<00:01:35.340><c> columns</c><00:01:35.420><c> this</c><00:01:36.420><c> here</c><00:01:36.810><c> is</c><00:01:36.930><c> a</c><00:01:37.170><c> two</c><00:01:37.229><c> by</c><00:01:37.680><c> two</c>
+
+00:01:37.700 --> 00:01:37.710 align:start position:0%
+two columns this here is a two by two
+ 
+
+00:01:37.710 --> 00:01:40.580 align:start position:0%
+two columns this here is a two by two
+matrix<00:01:38.430><c> and</c><00:01:38.810><c> because</c><00:01:39.810><c> these</c><00:01:40.110><c> two</c><00:01:40.380><c> matrices</c>
+
+00:01:40.580 --> 00:01:40.590 align:start position:0%
+matrix and because these two matrices
+ 
+
+00:01:40.590 --> 00:01:43.399 align:start position:0%
+matrix and because these two matrices
+are<00:01:41.220><c> not</c><00:01:41.310><c> of</c><00:01:41.850><c> the</c><00:01:41.970><c> same</c><00:01:42.150><c> dimension</c><00:01:42.720><c> you</c><00:01:43.259><c> know</c>
+
+00:01:43.399 --> 00:01:43.409 align:start position:0%
+are not of the same dimension you know
+ 
+
+00:01:43.409 --> 00:01:46.310 align:start position:0%
+are not of the same dimension you know
+this<00:01:43.649><c> this</c><00:01:43.890><c> is</c><00:01:43.950><c> an</c><00:01:44.189><c> error</c><00:01:44.430><c> so</c><00:01:44.820><c> you</c><00:01:45.049><c> cannot</c><00:01:46.049><c> add</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+this this is an error so you cannot add
+ 
+
+00:01:46.320 --> 00:01:48.679 align:start position:0%
+this this is an error so you cannot add
+these<00:01:46.560><c> two</c><00:01:46.770><c> matrices</c><00:01:46.799><c> and</c><00:01:47.579><c> you</c><00:01:48.210><c> know</c><00:01:48.329><c> their</c>
+
+00:01:48.679 --> 00:01:48.689 align:start position:0%
+these two matrices and you know their
+ 
+
+00:01:48.689 --> 00:01:51.260 align:start position:0%
+these two matrices and you know their
+sum<00:01:49.290><c> is</c><00:01:49.530><c> not</c><00:01:49.799><c> well-defined</c>
+
+00:01:51.260 --> 00:01:51.270 align:start position:0%
+sum is not well-defined
+ 
+
+00:01:51.270 --> 00:01:54.140 align:start position:0%
+sum is not well-defined
+so<00:01:52.270><c> that's</c><00:01:52.660><c> matrixes</c><00:01:53.230><c> next</c><00:01:53.680><c> let's</c><00:01:53.890><c> talk</c><00:01:54.070><c> about</c>
+
+00:01:54.140 --> 00:01:54.150 align:start position:0%
+so that's matrixes next let's talk about
+ 
+
+00:01:54.150 --> 00:01:57.720 align:start position:0%
+so that's matrixes next let's talk about
+multiplying<00:01:55.150><c> matrices</c><00:01:55.630><c> by</c><00:01:56.110><c> a</c><00:01:56.410><c> by</c><00:01:57.130><c> a</c><00:01:57.160><c> scalar</c>
+
+00:01:57.720 --> 00:01:57.730 align:start position:0%
+multiplying matrices by a by a scalar
+ 
+
+00:01:57.730 --> 00:02:00.210 align:start position:0%
+multiplying matrices by a by a scalar
+number<00:01:57.760><c> and</c><00:01:58.450><c> the</c><00:01:58.570><c> scalar</c><00:01:58.900><c> is</c><00:01:59.260><c> just</c><00:01:59.290><c> maybe</c><00:02:00.070><c> a</c>
+
+00:02:00.210 --> 00:02:00.220 align:start position:0%
+number and the scalar is just maybe a
+ 
+
+00:02:00.220 --> 00:02:02.910 align:start position:0%
+number and the scalar is just maybe a
+overly<00:02:00.790><c> fancy</c><00:02:00.970><c> term</c><00:02:01.330><c> for</c><00:02:01.480><c> you</c><00:02:02.140><c> know</c><00:02:02.260><c> a</c><00:02:02.320><c> number</c>
+
+00:02:02.910 --> 00:02:02.920 align:start position:0%
+overly fancy term for you know a number
+ 
+
+00:02:02.920 --> 00:02:05.880 align:start position:0%
+overly fancy term for you know a number
+or<00:02:03.190><c> a</c><00:02:03.220><c> real</c><00:02:03.460><c> number</c><00:02:03.870><c> right</c><00:02:04.870><c> the</c><00:02:05.080><c> scalar</c><00:02:05.560><c> just</c>
+
+00:02:05.880 --> 00:02:05.890 align:start position:0%
+or a real number right the scalar just
+ 
+
+00:02:05.890 --> 00:02:08.100 align:start position:0%
+or a real number right the scalar just
+means<00:02:06.040><c> real</c><00:02:06.280><c> number</c><00:02:06.640><c> so</c><00:02:07.570><c> let's</c><00:02:07.780><c> take</c><00:02:07.990><c> the</c>
+
+00:02:08.100 --> 00:02:08.110 align:start position:0%
+means real number so let's take the
+ 
+
+00:02:08.110 --> 00:02:09.690 align:start position:0%
+means real number so let's take the
+number<00:02:08.200><c> 3</c><00:02:08.619><c> and</c><00:02:08.649><c> multiply</c><00:02:09.250><c> it</c><00:02:09.310><c> by</c><00:02:09.490><c> this</c><00:02:09.550><c> matrix</c>
+
+00:02:09.690 --> 00:02:09.700 align:start position:0%
+number 3 and multiply it by this matrix
+ 
+
+00:02:09.700 --> 00:02:12.210 align:start position:0%
+number 3 and multiply it by this matrix
+if<00:02:10.540><c> you</c><00:02:10.630><c> do</c><00:02:10.750><c> that</c><00:02:10.869><c> the</c><00:02:11.170><c> result</c><00:02:11.500><c> is</c><00:02:11.680><c> pretty</c><00:02:11.920><c> much</c>
+
+00:02:12.210 --> 00:02:12.220 align:start position:0%
+if you do that the result is pretty much
+ 
+
+00:02:12.220 --> 00:02:14.130 align:start position:0%
+if you do that the result is pretty much
+what<00:02:12.430><c> you'd</c><00:02:12.580><c> expect</c><00:02:12.670><c> you</c><00:02:13.180><c> just</c><00:02:13.420><c> take</c><00:02:13.960><c> your</c>
+
+00:02:14.130 --> 00:02:14.140 align:start position:0%
+what you'd expect you just take your
+ 
+
+00:02:14.140 --> 00:02:16.260 align:start position:0%
+what you'd expect you just take your
+elements<00:02:14.980><c> of</c><00:02:15.010><c> the</c><00:02:15.100><c> matrix</c><00:02:15.190><c> and</c><00:02:15.640><c> multiply</c><00:02:16.060><c> them</c>
+
+00:02:16.260 --> 00:02:16.270 align:start position:0%
+elements of the matrix and multiply them
+ 
+
+00:02:16.270 --> 00:02:20.010 align:start position:0%
+elements of the matrix and multiply them
+by<00:02:16.330><c> 3</c><00:02:16.870><c> 1</c><00:02:17.350><c> at</c><00:02:17.470><c> a</c><00:02:17.560><c> time</c><00:02:17.590><c> so</c><00:02:18.220><c> you</c><00:02:18.460><c> know</c><00:02:18.970><c> 1</c><00:02:19.300><c> times</c><00:02:19.660><c> 3</c>
+
+00:02:20.010 --> 00:02:20.020 align:start position:0%
+by 3 1 at a time so you know 1 times 3
+ 
+
+00:02:20.020 --> 00:02:26.970 align:start position:0%
+by 3 1 at a time so you know 1 times 3
+is<00:02:20.320><c> 3</c><00:02:21.420><c> what</c><00:02:22.420><c> 2</c><00:02:22.660><c> times</c><00:02:22.960><c> 3</c><00:02:23.290><c> 6</c><00:02:23.800><c> 3</c><00:02:24.870><c> times</c><00:02:25.870><c> 3</c><00:02:26.200><c> is</c><00:02:26.230><c> 9</c><00:02:26.380><c> and</c>
+
+00:02:26.970 --> 00:02:26.980 align:start position:0%
+is 3 what 2 times 3 6 3 times 3 is 9 and
+ 
+
+00:02:26.980 --> 00:02:28.890 align:start position:0%
+is 3 what 2 times 3 6 3 times 3 is 9 and
+let's<00:02:27.850><c> see</c><00:02:27.970><c> I'm</c><00:02:28.240><c> going</c><00:02:28.600><c> to</c><00:02:28.720><c> stop</c><00:02:28.870><c> changing</c>
+
+00:02:28.890 --> 00:02:28.900 align:start position:0%
+let's see I'm going to stop changing
+ 
+
+00:02:28.900 --> 00:02:32.940 align:start position:0%
+let's see I'm going to stop changing
+colors<00:02:29.500><c> again</c><00:02:29.770><c> 0</c><00:02:30.490><c> times</c><00:02:30.700><c> 3</c><00:02:30.760><c> is</c><00:02:30.910><c> 0</c><00:02:30.970><c> 3</c><00:02:31.690><c> times</c><00:02:32.080><c> 5</c><00:02:32.530><c> is</c>
+
+00:02:32.940 --> 00:02:32.950 align:start position:0%
+colors again 0 times 3 is 0 3 times 5 is
+ 
+
+00:02:32.950 --> 00:02:37.050 align:start position:0%
+colors again 0 times 3 is 0 3 times 5 is
+15<00:02:33.490><c> and</c><00:02:33.790><c> 3</c><00:02:34.480><c> times</c><00:02:34.720><c> 1</c><00:02:34.870><c> is</c><00:02:35.350><c> 3</c><00:02:35.380><c> and</c><00:02:35.890><c> so</c><00:02:35.980><c> this</c><00:02:36.850><c> matrix</c>
+
+00:02:37.050 --> 00:02:37.060 align:start position:0%
+15 and 3 times 1 is 3 and so this matrix
+ 
+
+00:02:37.060 --> 00:02:39.090 align:start position:0%
+15 and 3 times 1 is 3 and so this matrix
+is<00:02:37.540><c> the</c><00:02:37.600><c> result</c><00:02:38.170><c> of</c><00:02:38.320><c> multiplying</c><00:02:38.470><c> that</c><00:02:39.040><c> matrix</c>
+
+00:02:39.090 --> 00:02:39.100 align:start position:0%
+is the result of multiplying that matrix
+ 
+
+00:02:39.100 --> 00:02:42.090 align:start position:0%
+is the result of multiplying that matrix
+on<00:02:39.700><c> the</c><00:02:39.730><c> left</c><00:02:40.000><c> by</c><00:02:40.180><c> 2b</c><00:02:40.630><c> and</c><00:02:41.350><c> you</c><00:02:41.440><c> notice</c><00:02:41.740><c> again</c>
+
+00:02:42.090 --> 00:02:42.100 align:start position:0%
+on the left by 2b and you notice again
+ 
+
+00:02:42.100 --> 00:02:44.430 align:start position:0%
+on the left by 2b and you notice again
+this<00:02:42.280><c> is</c><00:02:42.460><c> a</c><00:02:42.580><c> 3</c><00:02:42.940><c> by</c><00:02:43.120><c> 2</c><00:02:43.150><c> matrix</c><00:02:43.510><c> and</c><00:02:43.900><c> the</c><00:02:44.080><c> result</c>
+
+00:02:44.430 --> 00:02:44.440 align:start position:0%
+this is a 3 by 2 matrix and the result
+ 
+
+00:02:44.440 --> 00:02:47.490 align:start position:0%
+this is a 3 by 2 matrix and the result
+is<00:02:44.680><c> a</c><00:02:45.010><c> matrix</c><00:02:45.520><c> of</c><00:02:45.760><c> the</c><00:02:46.210><c> same</c><00:02:46.840><c> dimension</c><00:02:46.900><c> this</c>
+
+00:02:47.490 --> 00:02:47.500 align:start position:0%
+is a matrix of the same dimension this
+ 
+
+00:02:47.500 --> 00:02:50.310 align:start position:0%
+is a matrix of the same dimension this
+is<00:02:48.040><c> a</c><00:02:48.070><c> 3</c><00:02:48.400><c> by</c><00:02:48.550><c> 2</c><00:02:48.610><c> both</c><00:02:49.150><c> of</c><00:02:49.270><c> these</c><00:02:49.390><c> are</c><00:02:49.660><c> 3</c><00:02:50.020><c> by</c><00:02:50.260><c> 2</c>
+
+00:02:50.310 --> 00:02:50.320 align:start position:0%
+is a 3 by 2 both of these are 3 by 2
+ 
+
+00:02:50.320 --> 00:02:54.360 align:start position:0%
+is a 3 by 2 both of these are 3 by 2
+dimensional<00:02:51.190><c> matrices</c><00:02:52.060><c> and</c><00:02:53.100><c> by</c><00:02:54.100><c> the</c><00:02:54.160><c> way</c><00:02:54.310><c> you</c>
+
+00:02:54.360 --> 00:02:54.370 align:start position:0%
+dimensional matrices and by the way you
+ 
+
+00:02:54.370 --> 00:02:56.580 align:start position:0%
+dimensional matrices and by the way you
+can<00:02:54.580><c> write</c><00:02:54.790><c> multiplication</c><00:02:55.570><c> you</c><00:02:56.290><c> know</c><00:02:56.350><c> either</c>
+
+00:02:56.580 --> 00:02:56.590 align:start position:0%
+can write multiplication you know either
+ 
+
+00:02:56.590 --> 00:02:59.760 align:start position:0%
+can write multiplication you know either
+way<00:02:56.860><c> so</c><00:02:56.920><c> I</c><00:02:57.220><c> had</c><00:02:57.550><c> 3</c><00:02:58.000><c> times</c><00:02:58.420><c> this</c><00:02:58.600><c> matrix</c><00:02:58.840><c> I</c><00:02:59.290><c> could</c>
+
+00:02:59.760 --> 00:02:59.770 align:start position:0%
+way so I had 3 times this matrix I could
+ 
+
+00:02:59.770 --> 00:03:03.690 align:start position:0%
+way so I had 3 times this matrix I could
+also<00:02:59.920><c> have</c><00:03:00.100><c> written</c><00:03:00.340><c> this</c><00:03:01.300><c> matrix</c><00:03:01.840><c> 1</c><00:03:02.500><c> 0</c><00:03:02.530><c> 2</c><00:03:03.070><c> 5</c><00:03:03.370><c> 3</c>
+
+00:03:03.690 --> 00:03:03.700 align:start position:0%
+also have written this matrix 1 0 2 5 3
+ 
+
+00:03:03.700 --> 00:03:07.290 align:start position:0%
+also have written this matrix 1 0 2 5 3
+1<00:03:04.050><c> right</c><00:03:05.050><c> I</c><00:03:05.260><c> just</c><00:03:05.920><c> copied</c><00:03:06.550><c> this</c><00:03:06.670><c> matrix</c><00:03:07.030><c> over</c>
+
+00:03:07.290 --> 00:03:07.300 align:start position:0%
+1 right I just copied this matrix over
+ 
+
+00:03:07.300 --> 00:03:09.000 align:start position:0%
+1 right I just copied this matrix over
+to<00:03:07.390><c> the</c><00:03:07.450><c> right</c><00:03:07.600><c> I</c><00:03:07.810><c> can</c><00:03:08.050><c> also</c><00:03:08.290><c> take</c><00:03:08.650><c> this</c><00:03:08.800><c> matrix</c>
+
+00:03:09.000 --> 00:03:09.010 align:start position:0%
+to the right I can also take this matrix
+ 
+
+00:03:09.010 --> 00:03:11.670 align:start position:0%
+to the right I can also take this matrix
+and<00:03:09.480><c> multiply</c><00:03:10.480><c> this</c><00:03:10.720><c> line</c><00:03:10.930><c> 3</c><00:03:11.110><c> so</c><00:03:11.350><c> whether</c><00:03:11.530><c> it's</c>
+
+00:03:11.670 --> 00:03:11.680 align:start position:0%
+and multiply this line 3 so whether it's
+ 
+
+00:03:11.680 --> 00:03:13.380 align:start position:0%
+and multiply this line 3 so whether it's
+you<00:03:11.739><c> know</c><00:03:11.800><c> 3</c><00:03:12.100><c> times</c><00:03:12.430><c> the</c><00:03:12.640><c> matrix</c><00:03:12.760><c> or</c><00:03:13.270><c> the</c>
+
+00:03:13.380 --> 00:03:13.390 align:start position:0%
+you know 3 times the matrix or the
+ 
+
+00:03:13.390 --> 00:03:15.780 align:start position:0%
+you know 3 times the matrix or the
+matrix<00:03:13.570><c> times</c><00:03:14.170><c> 3</c><00:03:14.500><c> is</c><00:03:14.890><c> the</c><00:03:15.100><c> same</c><00:03:15.310><c> thing</c><00:03:15.550><c> and</c>
+
+00:03:15.780 --> 00:03:15.790 align:start position:0%
+matrix times 3 is the same thing and
+ 
+
+00:03:15.790 --> 00:03:17.970 align:start position:0%
+matrix times 3 is the same thing and
+this<00:03:16.720><c> thing</c><00:03:16.780><c> here</c><00:03:17.140><c> in</c><00:03:17.230><c> the</c><00:03:17.320><c> middle</c><00:03:17.590><c> is</c><00:03:17.830><c> the</c>
+
+00:03:17.970 --> 00:03:17.980 align:start position:0%
+this thing here in the middle is the
+ 
+
+00:03:17.980 --> 00:03:20.699 align:start position:0%
+this thing here in the middle is the
+result<00:03:18.510><c> you</c><00:03:19.510><c> can</c><00:03:19.630><c> also</c><00:03:19.750><c> take</c><00:03:19.959><c> a</c><00:03:20.019><c> matrix</c><00:03:20.230><c> and</c>
+
+00:03:20.699 --> 00:03:20.709 align:start position:0%
+result you can also take a matrix and
+ 
+
+00:03:20.709 --> 00:03:24.030 align:start position:0%
+result you can also take a matrix and
+divide<00:03:21.190><c> it</c><00:03:21.430><c> by</c><00:03:21.910><c> a</c><00:03:21.940><c> number</c><00:03:22.600><c> so</c><00:03:23.080><c> turns</c><00:03:23.920><c> out</c>
+
+00:03:24.030 --> 00:03:24.040 align:start position:0%
+divide it by a number so turns out
+ 
+
+00:03:24.040 --> 00:03:25.920 align:start position:0%
+divide it by a number so turns out
+taking<00:03:24.370><c> this</c><00:03:24.459><c> matrix</c><00:03:24.880><c> and</c><00:03:25.060><c> dividing</c><00:03:25.450><c> it</c><00:03:25.510><c> by</c><00:03:25.540><c> 4</c>
+
+00:03:25.920 --> 00:03:25.930 align:start position:0%
+taking this matrix and dividing it by 4
+ 
+
+00:03:25.930 --> 00:03:28.590 align:start position:0%
+taking this matrix and dividing it by 4
+this<00:03:26.380><c> is</c><00:03:26.560><c> actually</c><00:03:26.950><c> the</c><00:03:27.070><c> same</c><00:03:27.340><c> as</c><00:03:27.580><c> taking</c><00:03:28.570><c> the</c>
+
+00:03:28.590 --> 00:03:28.600 align:start position:0%
+this is actually the same as taking the
+ 
+
+00:03:28.600 --> 00:03:31.710 align:start position:0%
+this is actually the same as taking the
+number<00:03:29.050><c> one</c><00:03:29.080><c> quarter</c><00:03:29.739><c> and</c><00:03:30.480><c> multiplying</c><00:03:31.480><c> it</c><00:03:31.660><c> by</c>
+
+00:03:31.710 --> 00:03:31.720 align:start position:0%
+number one quarter and multiplying it by
+ 
+
+00:03:31.720 --> 00:03:36.390 align:start position:0%
+number one quarter and multiplying it by
+this<00:03:31.900><c> matrix</c><00:03:32.230><c> 4</c><00:03:32.950><c> 0</c><00:03:33.430><c> 6</c><00:03:33.880><c> 3</c><00:03:34.239><c> and</c><00:03:34.510><c> so</c><00:03:35.470><c> you</c><00:03:36.070><c> know</c><00:03:36.160><c> in</c>
+
+00:03:36.390 --> 00:03:36.400 align:start position:0%
+this matrix 4 0 6 3 and so you know in
+ 
+
+00:03:36.400 --> 00:03:38.970 align:start position:0%
+this matrix 4 0 6 3 and so you know in
+very<00:03:36.670><c> answer</c><00:03:37.110><c> the</c><00:03:38.110><c> result</c><00:03:38.440><c> of</c><00:03:38.590><c> this</c><00:03:38.680><c> product</c>
+
+00:03:38.970 --> 00:03:38.980 align:start position:0%
+very answer the result of this product
+ 
+
+00:03:38.980 --> 00:03:42.090 align:start position:0%
+very answer the result of this product
+is<00:03:39.370><c> you</c><00:03:39.610><c> know</c><00:03:39.700><c> 1/4</c><00:03:40.330><c> times</c><00:03:40.510><c> 4</c><00:03:40.810><c> is</c><00:03:40.840><c> 1</c><00:03:41.200><c> 100</c><00:03:41.769><c> 2</c><00:03:41.830><c> times</c>
+
+00:03:42.090 --> 00:03:42.100 align:start position:0%
+is you know 1/4 times 4 is 1 100 2 times
+ 
+
+00:03:42.100 --> 00:03:49.140 align:start position:0%
+is you know 1/4 times 4 is 1 100 2 times
+0<00:03:42.400><c> 0</c><00:03:42.580><c> 1</c><00:03:43.510><c> or</c><00:03:43.720><c> 2</c><00:03:43.900><c> times</c><00:03:44.110><c> 6</c><00:03:45.070><c> is</c><00:03:45.780><c> what</c><00:03:46.780><c> 3</c><00:03:47.050><c> has</c><00:03:47.880><c> that</c><00:03:48.880><c> 6</c>
+
+00:03:49.140 --> 00:03:49.150 align:start position:0%
+0 0 1 or 2 times 6 is what 3 has that 6
+ 
+
+00:03:49.150 --> 00:03:52.199 align:start position:0%
+0 0 1 or 2 times 6 is what 3 has that 6
+over<00:03:49.360><c> 4</c><00:03:49.540><c> is</c><00:03:49.780><c> 3</c><00:03:50.050><c> arms</c><00:03:50.500><c> and</c><00:03:50.680><c> 1</c><00:03:51.370><c> whole</c><00:03:51.580><c> 2</c><00:03:51.730><c> times</c><00:03:51.910><c> 3</c>
+
+00:03:52.199 --> 00:03:52.209 align:start position:0%
+over 4 is 3 arms and 1 whole 2 times 3
+ 
+
+00:03:52.209 --> 00:03:56.009 align:start position:0%
+over 4 is 3 arms and 1 whole 2 times 3
+is<00:03:52.480><c> equal</c><00:03:53.080><c> to</c><00:03:53.430><c> and</c><00:03:54.430><c> so</c><00:03:54.700><c> that's</c><00:03:55.300><c> a</c><00:03:55.480><c> result</c><00:03:55.630><c> of</c>
+
+00:03:56.009 --> 00:03:56.019 align:start position:0%
+is equal to and so that's a result of
+ 
+
+00:03:56.019 --> 00:03:59.280 align:start position:0%
+is equal to and so that's a result of
+computing<00:03:56.650><c> this</c><00:03:57.280><c> matrix</c><00:03:57.600><c> divided</c><00:03:58.600><c> by</c><00:03:58.720><c> 4</c><00:03:58.989><c> that</c>
+
+00:03:59.280 --> 00:03:59.290 align:start position:0%
+computing this matrix divided by 4 that
+ 
+
+00:03:59.290 --> 00:04:01.510 align:start position:0%
+computing this matrix divided by 4 that
+gives<00:03:59.319><c> you</c><00:03:59.860><c> yourself</c>
+
+00:04:01.510 --> 00:04:01.520 align:start position:0%
+gives you yourself
+ 
+
+00:04:01.520 --> 00:04:04.210 align:start position:0%
+gives you yourself
+finally<00:04:02.510><c> for</c><00:04:03.050><c> a</c><00:04:03.080><c> slightly</c><00:04:03.710><c> more</c><00:04:03.770><c> complicated</c>
+
+00:04:04.210 --> 00:04:04.220 align:start position:0%
+finally for a slightly more complicated
+ 
+
+00:04:04.220 --> 00:04:06.580 align:start position:0%
+finally for a slightly more complicated
+example<00:04:04.570><c> you</c><00:04:05.570><c> can</c><00:04:05.720><c> also</c><00:04:05.810><c> take</c><00:04:06.470><c> these</c>
+
+00:04:06.580 --> 00:04:06.590 align:start position:0%
+example you can also take these
+ 
+
+00:04:06.590 --> 00:04:09.100 align:start position:0%
+example you can also take these
+operations<00:04:07.310><c> and</c><00:04:07.640><c> combine</c><00:04:08.120><c> them</c><00:04:08.390><c> together</c>
+
+00:04:09.100 --> 00:04:09.110 align:start position:0%
+operations and combine them together
+ 
+
+00:04:09.110 --> 00:04:11.980 align:start position:0%
+operations and combine them together
+so<00:04:09.920><c> in</c><00:04:10.280><c> this</c><00:04:10.640><c> calculation</c><00:04:11.180><c> I</c><00:04:11.480><c> have</c><00:04:11.660><c> three</c>
+
+00:04:11.980 --> 00:04:11.990 align:start position:0%
+so in this calculation I have three
+ 
+
+00:04:11.990 --> 00:04:13.720 align:start position:0%
+so in this calculation I have three
+times<00:04:12.200><c> the</c><00:04:12.380><c> vector</c><00:04:12.560><c> plus</c><00:04:13.040><c> a</c><00:04:13.070><c> vector</c><00:04:13.310><c> minus</c>
+
+00:04:13.720 --> 00:04:13.730 align:start position:0%
+times the vector plus a vector minus
+ 
+
+00:04:13.730 --> 00:04:16.960 align:start position:0%
+times the vector plus a vector minus
+another<00:04:14.270><c> vector</c><00:04:14.510><c> divided</c><00:04:14.990><c> by</c><00:04:15.260><c> three</c><00:04:15.650><c> so</c><00:04:16.430><c> just</c>
+
+00:04:16.960 --> 00:04:16.970 align:start position:0%
+another vector divided by three so just
+ 
+
+00:04:16.970 --> 00:04:17.979 align:start position:0%
+another vector divided by three so just
+make<00:04:17.090><c> sure</c><00:04:17.150><c> we</c><00:04:17.330><c> know</c><00:04:17.450><c> what</c><00:04:17.630><c> these</c><00:04:17.750><c> are</c><00:04:17.810><c> right</c>
+
+00:04:17.979 --> 00:04:17.989 align:start position:0%
+make sure we know what these are right
+ 
+
+00:04:17.989 --> 00:04:21.940 align:start position:0%
+make sure we know what these are right
+this<00:04:18.730><c> multiplication</c><00:04:19.730><c> this</c><00:04:20.570><c> is</c><00:04:20.780><c> an</c><00:04:21.110><c> example</c>
+
+00:04:21.940 --> 00:04:21.950 align:start position:0%
+this multiplication this is an example
+ 
+
+00:04:21.950 --> 00:04:25.900 align:start position:0%
+this multiplication this is an example
+of<00:04:22.840><c> scalar</c><00:04:23.840><c> multiplication</c><00:04:24.730><c> because</c><00:04:25.730><c> I'm</c>
+
+00:04:25.900 --> 00:04:25.910 align:start position:0%
+of scalar multiplication because I'm
+ 
+
+00:04:25.910 --> 00:04:28.240 align:start position:0%
+of scalar multiplication because I'm
+taking<00:04:26.030><c> three</c><00:04:26.480><c> and</c><00:04:26.630><c> multiplying</c><00:04:27.050><c> it</c><00:04:27.260><c> and</c><00:04:27.440><c> this</c>
+
+00:04:28.240 --> 00:04:28.250 align:start position:0%
+taking three and multiplying it and this
+ 
+
+00:04:28.250 --> 00:04:31.020 align:start position:0%
+taking three and multiplying it and this
+is<00:04:28.490><c> you</c><00:04:28.940><c> know</c><00:04:29.060><c> another</c><00:04:29.570><c> scalar</c>
+
+00:04:31.020 --> 00:04:31.030 align:start position:0%
+is you know another scalar
+ 
+
+00:04:31.030 --> 00:04:33.010 align:start position:0%
+is you know another scalar
+multiplication<00:04:32.030><c> or</c><00:04:32.270><c> going</c><00:04:32.480><c> to</c><00:04:32.540><c> write</c><00:04:32.660><c> scalar</c>
+
+00:04:33.010 --> 00:04:33.020 align:start position:0%
+multiplication or going to write scalar
+ 
+
+00:04:33.020 --> 00:04:34.840 align:start position:0%
+multiplication or going to write scalar
+division<00:04:33.620><c> I</c><00:04:33.710><c> guess</c><00:04:33.920><c> this</c><00:04:34.130><c> really</c><00:04:34.400><c> just</c><00:04:34.430><c> means</c>
+
+00:04:34.840 --> 00:04:34.850 align:start position:0%
+division I guess this really just means
+ 
+
+00:04:34.850 --> 00:04:37.510 align:start position:0%
+division I guess this really just means
+one<00:04:35.060><c> three</c><00:04:35.270><c> times</c><00:04:35.480><c> this</c><00:04:35.750><c> and</c><00:04:35.990><c> so</c><00:04:36.860><c> if</c><00:04:37.160><c> we</c>
+
+00:04:37.510 --> 00:04:37.520 align:start position:0%
+one three times this and so if we
+ 
+
+00:04:37.520 --> 00:04:43.210 align:start position:0%
+one three times this and so if we
+evaluate<00:04:39.460><c> these</c><00:04:40.460><c> two</c><00:04:40.520><c> operations</c><00:04:41.360><c> first</c><00:04:42.220><c> then</c>
+
+00:04:43.210 --> 00:04:43.220 align:start position:0%
+evaluate these two operations first then
+ 
+
+00:04:43.220 --> 00:04:45.480 align:start position:0%
+evaluate these two operations first then
+what<00:04:43.460><c> we</c><00:04:43.550><c> get</c><00:04:43.760><c> is</c><00:04:43.820><c> this</c><00:04:44.270><c> thing</c><00:04:44.450><c> is</c><00:04:44.600><c> equal</c><00:04:44.720><c> to</c>
+
+00:04:45.480 --> 00:04:45.490 align:start position:0%
+what we get is this thing is equal to
+ 
+
+00:04:45.490 --> 00:04:48.240 align:start position:0%
+what we get is this thing is equal to
+let's<00:04:46.490><c> see</c><00:04:46.640><c> so</c><00:04:46.910><c> three</c><00:04:47.150><c> times</c><00:04:47.360><c> that</c><00:04:47.540><c> vector</c><00:04:47.720><c> is</c>
+
+00:04:48.240 --> 00:04:48.250 align:start position:0%
+let's see so three times that vector is
+ 
+
+00:04:48.250 --> 00:04:54.040 align:start position:0%
+let's see so three times that vector is
+three<00:04:49.300><c> twelve</c><00:04:50.620><c> six</c><00:04:51.670><c> plus</c><00:04:52.670><c> my</c><00:04:53.540><c> vacuum</c><00:04:53.900><c> in</c><00:04:53.960><c> the</c>
+
+00:04:54.040 --> 00:04:54.050 align:start position:0%
+three twelve six plus my vacuum in the
+ 
+
+00:04:54.050 --> 00:04:57.940 align:start position:0%
+three twelve six plus my vacuum in the
+middle<00:04:54.350><c> which</c><00:04:54.710><c> is</c><00:04:54.740><c> a</c><00:04:54.890><c> zero</c><00:04:55.340><c> zero</c><00:04:55.730><c> five</c><00:04:56.950><c> minus</c>
+
+00:04:57.940 --> 00:04:57.950 align:start position:0%
+middle which is a zero zero five minus
+ 
+
+00:04:57.950 --> 00:05:03.880 align:start position:0%
+middle which is a zero zero five minus
+one<00:04:59.290><c> zero</c><00:05:00.290><c> two</c><00:05:01.330><c> thirds</c><00:05:02.470><c> all</c><00:05:03.470><c> right</c><00:05:03.590><c> and</c><00:05:03.860><c> again</c>
+
+00:05:03.880 --> 00:05:03.890 align:start position:0%
+one zero two thirds all right and again
+ 
+
+00:05:03.890 --> 00:05:05.800 align:start position:0%
+one zero two thirds all right and again
+just<00:05:04.880><c> to</c><00:05:05.000><c> make</c><00:05:05.060><c> sure</c><00:05:05.240><c> we</c><00:05:05.360><c> understand</c><00:05:05.660><c> what's</c>
+
+00:05:05.800 --> 00:05:05.810 align:start position:0%
+just to make sure we understand what's
+ 
+
+00:05:05.810 --> 00:05:10.710 align:start position:0%
+just to make sure we understand what's
+going<00:05:05.990><c> on</c><00:05:06.110><c> here</c><00:05:06.440><c> this</c><00:05:07.250><c> plus</c><00:05:07.670><c> symbol</c><00:05:09.160><c> that</c><00:05:10.160><c> is</c>
+
+00:05:10.710 --> 00:05:10.720 align:start position:0%
+going on here this plus symbol that is
+ 
+
+00:05:10.720 --> 00:05:16.690 align:start position:0%
+going on here this plus symbol that is
+matrix<00:05:11.720><c> addition</c><00:05:14.020><c> right</c><00:05:15.020><c> already</c><00:05:15.920><c> since</c>
+
+00:05:16.690 --> 00:05:16.700 align:start position:0%
+matrix addition right already since
+ 
+
+00:05:16.700 --> 00:05:18.460 align:start position:0%
+matrix addition right already since
+these<00:05:16.820><c> are</c><00:05:17.030><c> vectors</c><00:05:17.390><c> remember</c><00:05:17.870><c> vectors</c><00:05:18.260><c> are</c>
+
+00:05:18.460 --> 00:05:18.470 align:start position:0%
+these are vectors remember vectors are
+ 
+
+00:05:18.470 --> 00:05:20.860 align:start position:0%
+these are vectors remember vectors are
+special<00:05:18.830><c> cases</c><00:05:18.980><c> of</c><00:05:19.310><c> matrices</c><00:05:19.610><c> are</c><00:05:19.940><c> just</c><00:05:20.330><c> you</c>
+
+00:05:20.860 --> 00:05:20.870 align:start position:0%
+special cases of matrices are just you
+ 
+
+00:05:20.870 --> 00:05:24.060 align:start position:0%
+special cases of matrices are just you
+can<00:05:20.990><c> also</c><00:05:21.140><c> call</c><00:05:21.470><c> this</c><00:05:21.650><c> vector</c><00:05:22.400><c> addition</c><00:05:22.940><c> and</c>
+
+00:05:24.060 --> 00:05:24.070 align:start position:0%
+can also call this vector addition and
+ 
+
+00:05:24.070 --> 00:05:28.150 align:start position:0%
+can also call this vector addition and
+this<00:05:25.070><c> minus</c><00:05:25.520><c> sign</c><00:05:25.670><c> here</c><00:05:26.000><c> this</c><00:05:26.690><c> is</c><00:05:26.960><c> again</c><00:05:27.470><c> you</c>
+
+00:05:28.150 --> 00:05:28.160 align:start position:0%
+this minus sign here this is again you
+ 
+
+00:05:28.160 --> 00:05:31.210 align:start position:0%
+this minus sign here this is again you
+know<00:05:28.190><c> matrix</c><00:05:28.850><c> subtraction</c><00:05:29.830><c> but</c><00:05:30.830><c> because</c><00:05:31.100><c> this</c>
+
+00:05:31.210 --> 00:05:31.220 align:start position:0%
+know matrix subtraction but because this
+ 
+
+00:05:31.220 --> 00:05:34.000 align:start position:0%
+know matrix subtraction but because this
+is<00:05:31.280><c> a</c><00:05:31.520><c> n</c><00:05:32.360><c> by</c><00:05:32.540><c> one</c><00:05:32.810><c> really</c><00:05:33.140><c> a</c><00:05:33.170><c> 3</c><00:05:33.410><c> by</c><00:05:33.560><c> 1</c><00:05:33.590><c> matrix</c>
+
+00:05:34.000 --> 00:05:34.010 align:start position:0%
+is a n by one really a 3 by 1 matrix
+ 
+
+00:05:34.010 --> 00:05:36.400 align:start position:0%
+is a n by one really a 3 by 1 matrix
+that<00:05:34.910><c> this</c><00:05:35.180><c> is</c><00:05:35.330><c> actually</c><00:05:35.600><c> a</c><00:05:35.630><c> vector</c><00:05:35.960><c> so</c><00:05:36.230><c> this</c>
+
+00:05:36.400 --> 00:05:36.410 align:start position:0%
+that this is actually a vector so this
+ 
+
+00:05:36.410 --> 00:05:40.450 align:start position:0%
+that this is actually a vector so this
+is<00:05:36.530><c> also</c><00:05:37.090><c> vector</c><00:05:38.410><c> just</c><00:05:39.410><c> call</c><00:05:39.650><c> call</c><00:05:40.340><c> this</c>
+
+00:05:40.450 --> 00:05:40.460 align:start position:0%
+is also vector just call call this
+ 
+
+00:05:40.460 --> 00:05:43.510 align:start position:0%
+is also vector just call call this
+matrix<00:05:40.670><c> a</c><00:05:41.120><c> vector</c><00:05:41.270><c> subtraction</c><00:05:41.810><c> as</c><00:05:42.320><c> well</c><00:05:42.530><c> ok</c>
+
+00:05:43.510 --> 00:05:43.520 align:start position:0%
+matrix a vector subtraction as well ok
+ 
+
+00:05:43.520 --> 00:05:46.270 align:start position:0%
+matrix a vector subtraction as well ok
+and<00:05:43.970><c> finally</c><00:05:44.810><c> to</c><00:05:45.020><c> wrap</c><00:05:45.200><c> this</c><00:05:45.380><c> up</c><00:05:45.440><c> this</c>
+
+00:05:46.270 --> 00:05:46.280 align:start position:0%
+and finally to wrap this up this
+ 
+
+00:05:46.280 --> 00:05:48.940 align:start position:0%
+and finally to wrap this up this
+therefore<00:05:46.760><c> gives</c><00:05:47.060><c> me</c><00:05:47.240><c> a</c><00:05:47.480><c> vector</c><00:05:48.170><c> whose</c><00:05:48.650><c> first</c>
+
+00:05:48.940 --> 00:05:48.950 align:start position:0%
+therefore gives me a vector whose first
+ 
+
+00:05:48.950 --> 00:05:53.860 align:start position:0%
+therefore gives me a vector whose first
+element<00:05:49.550><c> is</c><00:05:49.730><c> going</c><00:05:50.270><c> to</c><00:05:50.510><c> be</c><00:05:50.810><c> 3</c><00:05:51.800><c> plus</c><00:05:52.070><c> 0</c><00:05:52.820><c> minus</c><00:05:53.570><c> 1</c>
+
+00:05:53.860 --> 00:05:53.870 align:start position:0%
+element is going to be 3 plus 0 minus 1
+ 
+
+00:05:53.870 --> 00:05:56.860 align:start position:0%
+element is going to be 3 plus 0 minus 1
+so<00:05:54.320><c> that's</c><00:05:54.620><c> 3</c><00:05:54.830><c> minus</c><00:05:55.010><c> 1</c><00:05:55.220><c> which</c><00:05:55.400><c> is</c><00:05:55.580><c> 2</c><00:05:55.870><c> the</c>
+
+00:05:56.860 --> 00:05:56.870 align:start position:0%
+so that's 3 minus 1 which is 2 the
+ 
+
+00:05:56.870 --> 00:05:59.110 align:start position:0%
+so that's 3 minus 1 which is 2 the
+second<00:05:57.200><c> element</c><00:05:57.320><c> is</c><00:05:57.740><c> 12</c><00:05:58.100><c> plus</c><00:05:58.370><c> 0</c><00:05:58.700><c> minus</c><00:05:58.910><c> 0</c>
+
+00:05:59.110 --> 00:05:59.120 align:start position:0%
+second element is 12 plus 0 minus 0
+ 
+
+00:05:59.120 --> 00:06:04.030 align:start position:0%
+second element is 12 plus 0 minus 0
+which<00:05:59.900><c> is</c><00:06:00.140><c> 12</c><00:06:00.620><c> and</c><00:06:01.840><c> the</c><00:06:02.840><c> third</c><00:06:03.320><c> element</c><00:06:03.530><c> of</c>
+
+00:06:04.030 --> 00:06:04.040 align:start position:0%
+which is 12 and the third element of
+ 
+
+00:06:04.040 --> 00:06:09.720 align:start position:0%
+which is 12 and the third element of
+this<00:06:04.190><c> is</c><00:06:04.520><c> 6</c><00:06:05.240><c> plus</c><00:06:05.690><c> 5</c><00:06:06.160><c> minus</c><00:06:07.160><c> 2/3</c><00:06:08.000><c> which</c><00:06:08.540><c> is</c><00:06:08.780><c> a</c>
+
+00:06:09.720 --> 00:06:09.730 align:start position:0%
+this is 6 plus 5 minus 2/3 which is a
+ 
+
+00:06:09.730 --> 00:06:13.320 align:start position:0%
+this is 6 plus 5 minus 2/3 which is a
+11<00:06:10.420><c> minus</c><00:06:10.720><c> 2/3</c><00:06:11.110><c> so</c><00:06:11.410><c> that's</c><00:06:11.710><c> 10</c><00:06:12.160><c> in</c><00:06:12.370><c> 1/3</c><00:06:12.970><c> I'm</c>
+
+00:06:13.320 --> 00:06:13.330 align:start position:0%
+11 minus 2/3 so that's 10 in 1/3 I'm
+ 
+
+00:06:13.330 --> 00:06:16.020 align:start position:0%
+11 minus 2/3 so that's 10 in 1/3 I'm
+going<00:06:14.230><c> to</c><00:06:14.410><c> close</c><00:06:14.890><c> my</c><00:06:14.920><c> square</c><00:06:15.370><c> bracket</c><00:06:15.700><c> and</c><00:06:15.850><c> so</c>
+
+00:06:16.020 --> 00:06:16.030 align:start position:0%
+going to close my square bracket and so
+ 
+
+00:06:16.030 --> 00:06:21.570 align:start position:0%
+going to close my square bracket and so
+this<00:06:16.270><c> gives</c><00:06:16.450><c> me</c><00:06:16.690><c> a</c><00:06:16.720><c> 3</c><00:06:17.710><c> by</c><00:06:18.190><c> 1</c><00:06:18.600><c> matrix</c><00:06:20.400><c> which</c><00:06:21.400><c> is</c>
+
+00:06:21.570 --> 00:06:21.580 align:start position:0%
+this gives me a 3 by 1 matrix which is
+ 
+
+00:06:21.580 --> 00:06:27.680 align:start position:0%
+this gives me a 3 by 1 matrix which is
+also<00:06:21.820><c> just</c><00:06:22.060><c> called</c><00:06:22.540><c> a</c><00:06:22.780><c> 3</c><00:06:23.700><c> dimensional</c><00:06:25.890><c> vector</c>
+
+00:06:27.680 --> 00:06:27.690 align:start position:0%
+also just called a 3 dimensional vector
+ 
+
+00:06:27.690 --> 00:06:30.870 align:start position:0%
+also just called a 3 dimensional vector
+right<00:06:28.690><c> which</c><00:06:28.990><c> is</c><00:06:29.140><c> the</c><00:06:29.290><c> outcome</c><00:06:29.710><c> of</c><00:06:29.920><c> this</c>
+
+00:06:30.870 --> 00:06:30.880 align:start position:0%
+right which is the outcome of this
+ 
+
+00:06:30.880 --> 00:06:34.620 align:start position:0%
+right which is the outcome of this
+calculation<00:06:31.600><c> over</c><00:06:31.840><c> here</c><00:06:32.370><c> so</c><00:06:33.370><c> that's</c><00:06:34.270><c> how</c><00:06:34.570><c> you</c>
+
+00:06:34.620 --> 00:06:34.630 align:start position:0%
+calculation over here so that's how you
+ 
+
+00:06:34.630 --> 00:06:36.750 align:start position:0%
+calculation over here so that's how you
+add<00:06:35.080><c> and</c><00:06:35.380><c> subtract</c><00:06:35.980><c> matrices</c><00:06:36.220><c> and</c><00:06:36.700><c> vectors</c>
+
+00:06:36.750 --> 00:06:36.760 align:start position:0%
+add and subtract matrices and vectors
+ 
+
+00:06:36.760 --> 00:06:39.570 align:start position:0%
+add and subtract matrices and vectors
+and<00:06:37.090><c> multiply</c><00:06:37.930><c> them</c><00:06:38.140><c> by</c><00:06:38.200><c> scalars</c><00:06:38.920><c> so</c><00:06:39.220><c> by</c><00:06:39.370><c> real</c>
+
+00:06:39.570 --> 00:06:39.580 align:start position:0%
+and multiply them by scalars so by real
+ 
+
+00:06:39.580 --> 00:06:42.780 align:start position:0%
+and multiply them by scalars so by real
+numbers<00:06:40.860><c> so</c><00:06:41.860><c> far</c><00:06:42.100><c> I've</c><00:06:42.310><c> only</c><00:06:42.400><c> talked</c><00:06:42.700><c> about</c>
+
+00:06:42.780 --> 00:06:42.790 align:start position:0%
+numbers so far I've only talked about
+ 
+
+00:06:42.790 --> 00:06:45.120 align:start position:0%
+numbers so far I've only talked about
+how<00:06:43.150><c> to</c><00:06:43.210><c> multiply</c><00:06:43.660><c> matrices</c><00:06:44.080><c> and</c><00:06:44.500><c> vectors</c><00:06:44.560><c> by</c>
+
+00:06:45.120 --> 00:06:45.130 align:start position:0%
+how to multiply matrices and vectors by
+ 
+
+00:06:45.130 --> 00:06:47.580 align:start position:0%
+how to multiply matrices and vectors by
+scalars<00:06:45.160><c> by</c><00:06:45.880><c> real</c><00:06:46.090><c> numbers</c><00:06:46.450><c> in</c><00:06:46.660><c> the</c><00:06:47.350><c> next</c>
+
+00:06:47.580 --> 00:06:47.590 align:start position:0%
+scalars by real numbers in the next
+ 
+
+00:06:47.590 --> 00:06:49.260 align:start position:0%
+scalars by real numbers in the next
+video<00:06:47.830><c> we'll</c><00:06:48.100><c> talk</c><00:06:48.280><c> about</c><00:06:48.340><c> the</c><00:06:48.700><c> a</c><00:06:48.730><c> much</c><00:06:49.090><c> more</c>
+
+00:06:49.260 --> 00:06:49.270 align:start position:0%
+video we'll talk about the a much more
+ 
+
+00:06:49.270 --> 00:06:51.480 align:start position:0%
+video we'll talk about the a much more
+interesting<00:06:49.570><c> step</c><00:06:50.020><c> of</c><00:06:50.260><c> taking</c><00:06:50.980><c> two</c><00:06:51.130><c> matrices</c>
+
+00:06:51.480 --> 00:06:51.490 align:start position:0%
+interesting step of taking two matrices
+ 
+
+00:06:51.490 --> 00:06:55.170 align:start position:0%
+interesting step of taking two matrices
+and<00:06:51.850><c> multiplying</c><00:06:51.970><c> two</c><00:06:52.570><c> matrices</c><00:06:52.600><c> together</c>
+

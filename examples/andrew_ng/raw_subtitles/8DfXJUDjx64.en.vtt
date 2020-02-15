@@ -1,0 +1,2704 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:01.910 align:start position:0%
+ 
+in<00:00:00.210><c> the</c><00:00:00.390><c> last</c><00:00:00.570><c> video</c><00:00:00.810><c> we</c><00:00:01.230><c> developed</c><00:00:01.709><c> an</c>
+
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+in the last video we developed an
+ 
+
+00:00:01.920 --> 00:00:04.460 align:start position:0%
+in the last video we developed an
+anomaly<00:00:02.429><c> detection</c><00:00:03.060><c> algorithm</c><00:00:03.480><c> in</c><00:00:04.200><c> this</c>
+
+00:00:04.460 --> 00:00:04.470 align:start position:0%
+anomaly detection algorithm in this
+ 
+
+00:00:04.470 --> 00:00:06.170 align:start position:0%
+anomaly detection algorithm in this
+video<00:00:04.859><c> I'd</c><00:00:05.069><c> like</c><00:00:05.190><c> to</c><00:00:05.250><c> talk</c><00:00:05.549><c> about</c><00:00:05.700><c> the</c><00:00:05.940><c> process</c>
+
+00:00:06.170 --> 00:00:06.180 align:start position:0%
+video I'd like to talk about the process
+ 
+
+00:00:06.180 --> 00:00:09.169 align:start position:0%
+video I'd like to talk about the process
+of<00:00:06.750><c> how</c><00:00:07.049><c> to</c><00:00:07.080><c> go</c><00:00:07.440><c> about</c><00:00:07.470><c> developing</c><00:00:08.309><c> a</c><00:00:08.940><c> specific</c>
+
+00:00:09.169 --> 00:00:09.179 align:start position:0%
+of how to go about developing a specific
+ 
+
+00:00:09.179 --> 00:00:11.509 align:start position:0%
+of how to go about developing a specific
+application<00:00:09.690><c> of</c><00:00:10.380><c> anomaly</c><00:00:10.800><c> detection</c><00:00:11.160><c> to</c><00:00:11.490><c> a</c>
+
+00:00:11.509 --> 00:00:11.519 align:start position:0%
+application of anomaly detection to a
+ 
+
+00:00:11.519 --> 00:00:13.610 align:start position:0%
+application of anomaly detection to a
+problem<00:00:12.030><c> and</c><00:00:12.269><c> in</c><00:00:12.870><c> particular</c><00:00:12.990><c> there's</c><00:00:13.530><c> a</c>
+
+00:00:13.610 --> 00:00:13.620 align:start position:0%
+problem and in particular there's a
+ 
+
+00:00:13.620 --> 00:00:16.609 align:start position:0%
+problem and in particular there's a
+focus<00:00:13.799><c> on</c><00:00:14.280><c> the</c><00:00:14.490><c> problem</c><00:00:15.000><c> of</c><00:00:15.210><c> how</c><00:00:15.660><c> to</c><00:00:15.690><c> evaluate</c>
+
+00:00:16.609 --> 00:00:16.619 align:start position:0%
+focus on the problem of how to evaluate
+ 
+
+00:00:16.619 --> 00:00:18.830 align:start position:0%
+focus on the problem of how to evaluate
+an<00:00:16.859><c> anomaly</c><00:00:17.070><c> detection</c><00:00:17.670><c> algorithm</c><00:00:18.000><c> in</c>
+
+00:00:18.830 --> 00:00:18.840 align:start position:0%
+an anomaly detection algorithm in
+ 
+
+00:00:18.840 --> 00:00:20.779 align:start position:0%
+an anomaly detection algorithm in
+previous<00:00:19.320><c> videos</c><00:00:19.710><c> we</c><00:00:19.740><c> had</c><00:00:20.100><c> already</c><00:00:20.250><c> talked</c>
+
+00:00:20.779 --> 00:00:20.789 align:start position:0%
+previous videos we had already talked
+ 
+
+00:00:20.789 --> 00:00:22.970 align:start position:0%
+previous videos we had already talked
+about<00:00:21.060><c> the</c><00:00:21.270><c> importance</c><00:00:21.990><c> of</c><00:00:22.140><c> real</c><00:00:22.560><c> number</c>
+
+00:00:22.970 --> 00:00:22.980 align:start position:0%
+about the importance of real number
+ 
+
+00:00:22.980 --> 00:00:25.189 align:start position:0%
+about the importance of real number
+evaluation<00:00:23.240><c> and</c><00:00:24.240><c> just</c><00:00:24.600><c> captures</c><00:00:25.019><c> the</c><00:00:25.170><c> idea</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+evaluation and just captures the idea
+ 
+
+00:00:25.199 --> 00:00:27.439 align:start position:0%
+evaluation and just captures the idea
+that<00:00:25.740><c> when</c><00:00:26.340><c> you're</c><00:00:26.430><c> trying</c><00:00:26.730><c> to</c><00:00:26.849><c> develop</c><00:00:27.029><c> a</c>
+
+00:00:27.439 --> 00:00:27.449 align:start position:0%
+that when you're trying to develop a
+ 
+
+00:00:27.449 --> 00:00:28.759 align:start position:0%
+that when you're trying to develop a
+learning<00:00:27.869><c> algorithm</c><00:00:28.140><c> for</c><00:00:28.470><c> a</c><00:00:28.560><c> specific</c>
+
+00:00:28.759 --> 00:00:28.769 align:start position:0%
+learning algorithm for a specific
+ 
+
+00:00:28.769 --> 00:00:31.279 align:start position:0%
+learning algorithm for a specific
+application<00:00:29.099><c> you</c><00:00:30.090><c> need</c><00:00:30.300><c> to</c><00:00:30.480><c> often</c><00:00:30.929><c> make</c><00:00:31.050><c> a</c><00:00:31.080><c> lot</c>
+
+00:00:31.279 --> 00:00:31.289 align:start position:0%
+application you need to often make a lot
+ 
+
+00:00:31.289 --> 00:00:32.749 align:start position:0%
+application you need to often make a lot
+of<00:00:31.410><c> choices</c><00:00:31.650><c> when</c><00:00:31.890><c> you're</c><00:00:32.219><c> choosing</c><00:00:32.489><c> what</c>
+
+00:00:32.749 --> 00:00:32.759 align:start position:0%
+of choices when you're choosing what
+ 
+
+00:00:32.759 --> 00:00:34.729 align:start position:0%
+of choices when you're choosing what
+features<00:00:33.120><c> to</c><00:00:33.149><c> use</c><00:00:33.270><c> and</c><00:00:33.840><c> then</c><00:00:33.989><c> and</c><00:00:34.170><c> so</c><00:00:34.320><c> on</c><00:00:34.500><c> and</c>
+
+00:00:34.729 --> 00:00:34.739 align:start position:0%
+features to use and then and so on and
+ 
+
+00:00:34.739 --> 00:00:37.010 align:start position:0%
+features to use and then and so on and
+making<00:00:35.579><c> decisions</c><00:00:36.120><c> about</c><00:00:36.480><c> all</c><00:00:36.750><c> of</c><00:00:36.899><c> these</c>
+
+00:00:37.010 --> 00:00:37.020 align:start position:0%
+making decisions about all of these
+ 
+
+00:00:37.020 --> 00:00:40.040 align:start position:0%
+making decisions about all of these
+choices<00:00:37.260><c> is</c><00:00:37.890><c> often</c><00:00:38.579><c> much</c><00:00:38.730><c> easier</c><00:00:39.149><c> if</c><00:00:39.329><c> you</c><00:00:39.809><c> have</c>
+
+00:00:40.040 --> 00:00:40.050 align:start position:0%
+choices is often much easier if you have
+ 
+
+00:00:40.050 --> 00:00:41.479 align:start position:0%
+choices is often much easier if you have
+a<00:00:40.079><c> way</c><00:00:40.320><c> to</c><00:00:40.350><c> evaluate</c><00:00:40.950><c> your</c><00:00:41.370><c> learning</c>
+
+00:00:41.479 --> 00:00:41.489 align:start position:0%
+a way to evaluate your learning
+ 
+
+00:00:41.489 --> 00:00:43.130 align:start position:0%
+a way to evaluate your learning
+algorithm<00:00:42.059><c> that</c><00:00:42.090><c> just</c><00:00:42.360><c> gives</c><00:00:42.540><c> you</c><00:00:42.660><c> back</c><00:00:42.809><c> a</c>
+
+00:00:43.130 --> 00:00:43.140 align:start position:0%
+algorithm that just gives you back a
+ 
+
+00:00:43.140 --> 00:00:45.560 align:start position:0%
+algorithm that just gives you back a
+number<00:00:43.620><c> so</c><00:00:44.430><c> if</c><00:00:44.520><c> you're</c><00:00:44.640><c> trying</c><00:00:44.910><c> to</c><00:00:45.000><c> decide</c><00:00:45.300><c> you</c>
+
+00:00:45.560 --> 00:00:45.570 align:start position:0%
+number so if you're trying to decide you
+ 
+
+00:00:45.570 --> 00:00:47.630 align:start position:0%
+number so if you're trying to decide you
+know<00:00:45.690><c> I</c><00:00:45.989><c> have</c><00:00:46.260><c> an</c><00:00:46.590><c> idea</c><00:00:46.920><c> for</c><00:00:46.950><c> one</c><00:00:47.309><c> extra</c>
+
+00:00:47.630 --> 00:00:47.640 align:start position:0%
+know I have an idea for one extra
+ 
+
+00:00:47.640 --> 00:00:50.000 align:start position:0%
+know I have an idea for one extra
+feature<00:00:47.820><c> do</c><00:00:48.270><c> I</c><00:00:48.300><c> include</c><00:00:48.960><c> this</c><00:00:49.260><c> feature</c><00:00:49.559><c> or</c><00:00:49.800><c> not</c>
+
+00:00:50.000 --> 00:00:50.010 align:start position:0%
+feature do I include this feature or not
+ 
+
+00:00:50.010 --> 00:00:52.040 align:start position:0%
+feature do I include this feature or not
+if<00:00:50.430><c> you</c><00:00:50.820><c> can</c><00:00:51.030><c> run</c><00:00:51.239><c> the</c><00:00:51.390><c> algorithm</c><00:00:51.780><c> with</c><00:00:51.930><c> the</c>
+
+00:00:52.040 --> 00:00:52.050 align:start position:0%
+if you can run the algorithm with the
+ 
+
+00:00:52.050 --> 00:00:53.569 align:start position:0%
+if you can run the algorithm with the
+feature<00:00:52.260><c> and</c><00:00:52.590><c> run</c><00:00:52.739><c> the</c><00:00:52.829><c> applet</c><00:00:52.980><c> without</c><00:00:53.460><c> the</c>
+
+00:00:53.569 --> 00:00:53.579 align:start position:0%
+feature and run the applet without the
+ 
+
+00:00:53.579 --> 00:00:56.150 align:start position:0%
+feature and run the applet without the
+feature<00:00:53.789><c> and</c><00:00:54.120><c> just</c><00:00:54.780><c> get</c><00:00:54.989><c> back</c><00:00:55.199><c> a</c><00:00:55.469><c> number</c><00:00:55.739><c> that</c>
+
+00:00:56.150 --> 00:00:56.160 align:start position:0%
+feature and just get back a number that
+ 
+
+00:00:56.160 --> 00:00:58.250 align:start position:0%
+feature and just get back a number that
+tells<00:00:56.190><c> you</c><00:00:56.699><c> you</c><00:00:56.969><c> know</c><00:00:57.090><c> did</c><00:00:57.480><c> it</c><00:00:57.600><c> improve</c><00:00:57.989><c> or</c>
+
+00:00:58.250 --> 00:00:58.260 align:start position:0%
+tells you you know did it improve or
+ 
+
+00:00:58.260 --> 00:01:00.290 align:start position:0%
+tells you you know did it improve or
+worsen<00:00:58.550><c> performance</c><00:00:59.550><c> to</c><00:00:59.670><c> add</c><00:00:59.789><c> the</c><00:00:59.910><c> speaker</c>
+
+00:01:00.290 --> 00:01:00.300 align:start position:0%
+worsen performance to add the speaker
+ 
+
+00:01:00.300 --> 00:01:01.819 align:start position:0%
+worsen performance to add the speaker
+then<00:01:00.809><c> it</c><00:01:00.960><c> gives</c><00:01:01.079><c> you</c><00:01:01.230><c> a</c><00:01:01.260><c> much</c><00:01:01.410><c> better</c><00:01:01.590><c> way</c><00:01:01.800><c> a</c>
+
+00:01:01.819 --> 00:01:01.829 align:start position:0%
+then it gives you a much better way a
+ 
+
+00:01:01.829 --> 00:01:04.549 align:start position:0%
+then it gives you a much better way a
+much<00:01:02.100><c> simpler</c><00:01:02.460><c> way</c><00:01:02.489><c> to</c><00:01:03.149><c> just</c><00:01:03.359><c> soon</c><00:01:03.629><c> would</c><00:01:04.379><c> wish</c>
+
+00:01:04.549 --> 00:01:04.559 align:start position:0%
+much simpler way to just soon would wish
+ 
+
+00:01:04.559 --> 00:01:06.440 align:start position:0%
+much simpler way to just soon would wish
+to<00:01:04.589><c> decide</c><00:01:05.100><c> whether</c><00:01:05.519><c> or</c><00:01:05.640><c> not</c><00:01:05.880><c> to</c><00:01:06.060><c> include</c><00:01:06.330><c> that</c>
+
+00:01:06.440 --> 00:01:06.450 align:start position:0%
+to decide whether or not to include that
+ 
+
+00:01:06.450 --> 00:01:09.350 align:start position:0%
+to decide whether or not to include that
+feature<00:01:06.869><c> so</c><00:01:07.260><c> in</c><00:01:08.070><c> order</c><00:01:08.400><c> to</c><00:01:08.760><c> be</c><00:01:09.180><c> able</c><00:01:09.240><c> to</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+feature so in order to be able to
+ 
+
+00:01:09.360 --> 00:01:12.200 align:start position:0%
+feature so in order to be able to
+develop<00:01:10.110><c> an</c><00:01:10.860><c> anomaly</c><00:01:11.220><c> detection</c><00:01:11.760><c> system</c>
+
+00:01:12.200 --> 00:01:12.210 align:start position:0%
+develop an anomaly detection system
+ 
+
+00:01:12.210 --> 00:01:15.080 align:start position:0%
+develop an anomaly detection system
+quickly<00:01:12.390><c> we</c><00:01:13.350><c> it</c><00:01:13.799><c> really</c><00:01:14.310><c> helpful</c><00:01:14.580><c> to</c><00:01:14.909><c> have</c><00:01:15.030><c> a</c>
+
+00:01:15.080 --> 00:01:15.090 align:start position:0%
+quickly we it really helpful to have a
+ 
+
+00:01:15.090 --> 00:01:17.390 align:start position:0%
+quickly we it really helpful to have a
+way<00:01:15.180><c> of</c><00:01:15.360><c> evaluating</c><00:01:16.200><c> an</c><00:01:16.799><c> anomaly</c><00:01:17.040><c> detection</c>
+
+00:01:17.390 --> 00:01:17.400 align:start position:0%
+way of evaluating an anomaly detection
+ 
+
+00:01:17.400 --> 00:01:21.230 align:start position:0%
+way of evaluating an anomaly detection
+system<00:01:18.290><c> in</c><00:01:19.290><c> order</c><00:01:19.799><c> to</c><00:01:20.040><c> do</c><00:01:20.340><c> this</c><00:01:20.610><c> in</c><00:01:20.909><c> order</c><00:01:21.060><c> to</c>
+
+00:01:21.230 --> 00:01:21.240 align:start position:0%
+system in order to do this in order to
+ 
+
+00:01:21.240 --> 00:01:23.570 align:start position:0%
+system in order to do this in order to
+evaluate<00:01:21.720><c> an</c><00:01:22.320><c> anomaly</c><00:01:22.500><c> detection</c><00:01:22.860><c> system</c>
+
+00:01:23.570 --> 00:01:23.580 align:start position:0%
+evaluate an anomaly detection system
+ 
+
+00:01:23.580 --> 00:01:25.249 align:start position:0%
+evaluate an anomaly detection system
+we're<00:01:24.090><c> actually</c><00:01:24.270><c> going</c><00:01:24.540><c> to</c><00:01:24.720><c> assume</c><00:01:24.960><c> that</c><00:01:25.080><c> we</c>
+
+00:01:25.249 --> 00:01:25.259 align:start position:0%
+we're actually going to assume that we
+ 
+
+00:01:25.259 --> 00:01:28.070 align:start position:0%
+we're actually going to assume that we
+have<00:01:25.290><c> some</c><00:01:25.500><c> labeled</c><00:01:26.340><c> data</c><00:01:26.610><c> so</c><00:01:27.479><c> so</c><00:01:27.689><c> far</c><00:01:27.900><c> we'll</c>
+
+00:01:28.070 --> 00:01:28.080 align:start position:0%
+have some labeled data so so far we'll
+ 
+
+00:01:28.080 --> 00:01:29.990 align:start position:0%
+have some labeled data so so far we'll
+be<00:01:28.170><c> treating</c><00:01:28.560><c> anomaly</c><00:01:29.100><c> detection</c><00:01:29.460><c> as</c><00:01:29.820><c> an</c>
+
+00:01:29.990 --> 00:01:30.000 align:start position:0%
+be treating anomaly detection as an
+ 
+
+00:01:30.000 --> 00:01:31.999 align:start position:0%
+be treating anomaly detection as an
+unsupervised<00:01:30.990><c> learning</c><00:01:31.140><c> problem</c><00:01:31.470><c> using</c>
+
+00:01:31.999 --> 00:01:32.009 align:start position:0%
+unsupervised learning problem using
+ 
+
+00:01:32.009 --> 00:01:35.090 align:start position:0%
+unsupervised learning problem using
+unlabeled<00:01:32.759><c> data</c><00:01:32.790><c> but</c><00:01:33.720><c> if</c><00:01:34.560><c> you</c><00:01:34.740><c> have</c><00:01:34.890><c> some</c>
+
+00:01:35.090 --> 00:01:35.100 align:start position:0%
+unlabeled data but if you have some
+ 
+
+00:01:35.100 --> 00:01:37.969 align:start position:0%
+unlabeled data but if you have some
+label<00:01:35.520><c> data</c><00:01:35.759><c> that</c><00:01:36.420><c> specifies</c><00:01:37.110><c> what</c><00:01:37.560><c> are</c><00:01:37.680><c> some</c>
+
+00:01:37.969 --> 00:01:37.979 align:start position:0%
+label data that specifies what are some
+ 
+
+00:01:37.979 --> 00:01:39.980 align:start position:0%
+label data that specifies what are some
+anomalous<00:01:38.909><c> examples</c><00:01:39.479><c> and</c><00:01:39.720><c> what</c><00:01:39.810><c> are</c><00:01:39.930><c> some</c>
+
+00:01:39.980 --> 00:01:39.990 align:start position:0%
+anomalous examples and what are some
+ 
+
+00:01:39.990 --> 00:01:43.219 align:start position:0%
+anomalous examples and what are some
+non-anomalous<00:01:40.799><c> examples</c><00:01:41.210><c> then</c><00:01:42.210><c> this</c><00:01:42.810><c> is</c><00:01:42.960><c> how</c>
+
+00:01:43.219 --> 00:01:43.229 align:start position:0%
+non-anomalous examples then this is how
+ 
+
+00:01:43.229 --> 00:01:44.870 align:start position:0%
+non-anomalous examples then this is how
+we<00:01:43.290><c> actually</c><00:01:43.530><c> think</c><00:01:43.770><c> of</c><00:01:43.979><c> as</c><00:01:44.159><c> the</c><00:01:44.310><c> standard</c><00:01:44.759><c> way</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+we actually think of as the standard way
+ 
+
+00:01:44.880 --> 00:01:46.789 align:start position:0%
+we actually think of as the standard way
+of<00:01:44.909><c> evaluating</c><00:01:45.720><c> an</c><00:01:46.110><c> anomaly</c><00:01:46.590><c> detection</c>
+
+00:01:46.789 --> 00:01:46.799 align:start position:0%
+of evaluating an anomaly detection
+ 
+
+00:01:46.799 --> 00:01:49.609 align:start position:0%
+of evaluating an anomaly detection
+algorithm<00:01:47.610><c> so</c><00:01:48.540><c> taking</c><00:01:49.020><c> the</c><00:01:49.140><c> aircraft</c>
+
+00:01:49.609 --> 00:01:49.619 align:start position:0%
+algorithm so taking the aircraft
+ 
+
+00:01:49.619 --> 00:01:51.800 align:start position:0%
+algorithm so taking the aircraft
+engineer<00:01:50.040><c> example</c><00:01:50.640><c> game</c><00:01:50.850><c> let's</c><00:01:51.210><c> say</c><00:01:51.360><c> that</c><00:01:51.570><c> you</c>
+
+00:01:51.800 --> 00:01:51.810 align:start position:0%
+engineer example game let's say that you
+ 
+
+00:01:51.810 --> 00:01:54.740 align:start position:0%
+engineer example game let's say that you
+know<00:01:51.930><c> you</c><00:01:52.110><c> have</c><00:01:52.290><c> some</c><00:01:52.979><c> label</c><00:01:53.250><c> data</c><00:01:53.610><c> of</c><00:01:54.060><c> a</c><00:01:54.329><c> lot</c>
+
+00:01:54.740 --> 00:01:54.750 align:start position:0%
+know you have some label data of a lot
+ 
+
+00:01:54.750 --> 00:01:57.350 align:start position:0%
+know you have some label data of a lot
+of<00:01:54.780><c> just</c><00:01:55.439><c> a</c><00:01:55.560><c> few</c><00:01:55.770><c> anomalous</c><00:01:56.399><c> examples</c><00:01:56.909><c> of</c><00:01:57.090><c> some</c>
+
+00:01:57.350 --> 00:01:57.360 align:start position:0%
+of just a few anomalous examples of some
+ 
+
+00:01:57.360 --> 00:01:59.260 align:start position:0%
+of just a few anomalous examples of some
+aircraft<00:01:57.630><c> engines</c><00:01:58.350><c> that</c><00:01:58.530><c> were</c><00:01:58.649><c> manufacture</c>
+
+00:01:59.260 --> 00:01:59.270 align:start position:0%
+aircraft engines that were manufacture
+ 
+
+00:01:59.270 --> 00:02:00.700 align:start position:0%
+aircraft engines that were manufacture
+in<00:01:59.329><c> the</c><00:01:59.450><c> past</c><00:01:59.689><c> that</c><00:01:59.930><c> turns</c><00:02:00.170><c> out</c><00:02:00.409><c> to</c><00:02:00.439><c> be</c>
+
+00:02:00.700 --> 00:02:00.710 align:start position:0%
+in the past that turns out to be
+ 
+
+00:02:00.710 --> 00:02:02.560 align:start position:0%
+in the past that turns out to be
+anomalous<00:02:01.070><c> if</c><00:02:01.490><c> it</c><00:02:01.579><c> turns</c><00:02:01.759><c> out</c><00:02:01.909><c> to</c><00:02:02.060><c> be</c><00:02:02.090><c> floral</c>
+
+00:02:02.560 --> 00:02:02.570 align:start position:0%
+anomalous if it turns out to be floral
+ 
+
+00:02:02.570 --> 00:02:04.270 align:start position:0%
+anomalous if it turns out to be floral
+to<00:02:02.689><c> strange</c><00:02:02.960><c> in</c><00:02:03.109><c> some</c><00:02:03.259><c> way</c><00:02:03.409><c> that's</c><00:02:04.009><c> how</c><00:02:04.189><c> we</c>
+
+00:02:04.270 --> 00:02:04.280 align:start position:0%
+to strange in some way that's how we
+ 
+
+00:02:04.280 --> 00:02:06.370 align:start position:0%
+to strange in some way that's how we
+usually<00:02:04.460><c> we</c><00:02:04.759><c> also</c><00:02:04.909><c> have</c><00:02:05.210><c> some</c><00:02:05.450><c> non-anomalous</c>
+
+00:02:06.370 --> 00:02:06.380 align:start position:0%
+usually we also have some non-anomalous
+ 
+
+00:02:06.380 --> 00:02:10.749 align:start position:0%
+usually we also have some non-anomalous
+examples<00:02:06.880><c> of</c><00:02:07.880><c> some</c><00:02:08.060><c> perfectly</c><00:02:08.450><c> okay</c><00:02:09.759><c> examples</c>
+
+00:02:10.749 --> 00:02:10.759 align:start position:0%
+examples of some perfectly okay examples
+ 
+
+00:02:10.759 --> 00:02:12.490 align:start position:0%
+examples of some perfectly okay examples
+I'm<00:02:10.970><c> going</c><00:02:11.000><c> to</c><00:02:11.150><c> use</c><00:02:11.300><c> y</c><00:02:11.510><c> equals</c><00:02:11.780><c> zero</c><00:02:12.050><c> to</c><00:02:12.230><c> denote</c>
+
+00:02:12.490 --> 00:02:12.500 align:start position:0%
+I'm going to use y equals zero to denote
+ 
+
+00:02:12.500 --> 00:02:14.559 align:start position:0%
+I'm going to use y equals zero to denote
+the<00:02:12.680><c> normal</c><00:02:13.099><c> or</c><00:02:13.340><c> the</c><00:02:13.540><c> non-anomalous</c><00:02:14.540><c> examples</c>
+
+00:02:14.559 --> 00:02:14.569 align:start position:0%
+the normal or the non-anomalous examples
+ 
+
+00:02:14.569 --> 00:02:16.690 align:start position:0%
+the normal or the non-anomalous examples
+and<00:02:15.560><c> y</c><00:02:15.680><c> equals</c><00:02:15.950><c> wanted</c><00:02:16.340><c> to</c><00:02:16.430><c> know</c><00:02:16.549><c> the</c>
+
+00:02:16.690 --> 00:02:16.700 align:start position:0%
+and y equals wanted to know the
+ 
+
+00:02:16.700 --> 00:02:20.830 align:start position:0%
+and y equals wanted to know the
+anomalous<00:02:17.090><c> examples</c><00:02:18.940><c> the</c><00:02:19.940><c> process</c><00:02:20.540><c> of</c>
+
+00:02:20.830 --> 00:02:20.840 align:start position:0%
+anomalous examples the process of
+ 
+
+00:02:20.840 --> 00:02:24.759 align:start position:0%
+anomalous examples the process of
+developing<00:02:21.590><c> and</c><00:02:23.049><c> evaluating</c><00:02:24.049><c> an</c><00:02:24.500><c> anomaly</c>
+
+00:02:24.759 --> 00:02:24.769 align:start position:0%
+developing and evaluating an anomaly
+ 
+
+00:02:24.769 --> 00:02:26.680 align:start position:0%
+developing and evaluating an anomaly
+detection<00:02:25.220><c> algorithm</c><00:02:25.849><c> is</c><00:02:26.030><c> as</c><00:02:26.299><c> follows</c>
+
+00:02:26.680 --> 00:02:26.690 align:start position:0%
+detection algorithm is as follows
+ 
+
+00:02:26.690 --> 00:02:28.660 align:start position:0%
+detection algorithm is as follows
+we're<00:02:27.650><c> going</c><00:02:27.799><c> to</c><00:02:27.860><c> think</c><00:02:27.950><c> of</c><00:02:28.069><c> it</c><00:02:28.190><c> as</c><00:02:28.400><c> the</c>
+
+00:02:28.660 --> 00:02:28.670 align:start position:0%
+we're going to think of it as the
+ 
+
+00:02:28.670 --> 00:02:30.580 align:start position:0%
+we're going to think of it as the
+training<00:02:29.209><c> set</c><00:02:29.360><c> to</c><00:02:29.599><c> talk</c><00:02:30.019><c> about</c><00:02:30.140><c> the</c><00:02:30.319><c> cross</c>
+
+00:02:30.580 --> 00:02:30.590 align:start position:0%
+training set to talk about the cross
+ 
+
+00:02:30.590 --> 00:02:32.410 align:start position:0%
+training set to talk about the cross
+validation<00:02:30.620><c> and</c><00:02:31.370><c> test</c><00:02:31.579><c> sets</c><00:02:31.640><c> later</c><00:02:31.910><c> but</c><00:02:32.329><c> the</c>
+
+00:02:32.410 --> 00:02:32.420 align:start position:0%
+validation and test sets later but the
+ 
+
+00:02:32.420 --> 00:02:33.610 align:start position:0%
+validation and test sets later but the
+training<00:02:32.660><c> is</c><00:02:32.840><c> that</c><00:02:32.989><c> we</c><00:02:33.140><c> you</c><00:02:33.230><c> should</c><00:02:33.380><c> think</c><00:02:33.530><c> of</c>
+
+00:02:33.610 --> 00:02:33.620 align:start position:0%
+training is that we you should think of
+ 
+
+00:02:33.620 --> 00:02:35.140 align:start position:0%
+training is that we you should think of
+this<00:02:33.739><c> as</c><00:02:34.010><c> though</c><00:02:34.250><c> the</c><00:02:34.400><c> unlabeled</c><00:02:34.849><c> training</c>
+
+00:02:35.140 --> 00:02:35.150 align:start position:0%
+this as though the unlabeled training
+ 
+
+00:02:35.150 --> 00:02:38.199 align:start position:0%
+this as though the unlabeled training
+set<00:02:35.480><c> and</c><00:02:35.989><c> so</c><00:02:36.380><c> this</c><00:02:36.920><c> is</c><00:02:37.069><c> a</c><00:02:37.099><c> large</c><00:02:37.489><c> collection</c><00:02:37.849><c> of</c>
+
+00:02:38.199 --> 00:02:38.209 align:start position:0%
+set and so this is a large collection of
+ 
+
+00:02:38.209 --> 00:02:41.140 align:start position:0%
+set and so this is a large collection of
+normal<00:02:38.950><c> non-anomalous</c><00:02:39.950><c> and</c><00:02:40.400><c> not</c><00:02:40.549><c> anomalous</c>
+
+00:02:41.140 --> 00:02:41.150 align:start position:0%
+normal non-anomalous and not anomalous
+ 
+
+00:02:41.150 --> 00:02:44.020 align:start position:0%
+normal non-anomalous and not anomalous
+examples<00:02:41.690><c> and</c><00:02:42.310><c> usually</c><00:02:43.310><c> we</c><00:02:43.400><c> think</c><00:02:43.430><c> of</c><00:02:43.700><c> this</c><00:02:43.819><c> as</c>
+
+00:02:44.020 --> 00:02:44.030 align:start position:0%
+examples and usually we think of this as
+ 
+
+00:02:44.030 --> 00:02:45.789 align:start position:0%
+examples and usually we think of this as
+being<00:02:44.360><c> non</c><00:02:44.690><c> anomalous</c><00:02:45.230><c> but</c><00:02:45.410><c> it</c><00:02:45.560><c> is</c><00:02:45.620><c> actually</c>
+
+00:02:45.789 --> 00:02:45.799 align:start position:0%
+being non anomalous but it is actually
+ 
+
+00:02:45.799 --> 00:02:48.880 align:start position:0%
+being non anomalous but it is actually
+okay<00:02:46.310><c> even</c><00:02:46.760><c> if</c><00:02:46.910><c> a</c><00:02:47.000><c> few</c><00:02:47.360><c> anomalies</c><00:02:47.840><c> slip</c><00:02:48.620><c> into</c>
+
+00:02:48.880 --> 00:02:48.890 align:start position:0%
+okay even if a few anomalies slip into
+ 
+
+00:02:48.890 --> 00:02:51.729 align:start position:0%
+okay even if a few anomalies slip into
+your<00:02:49.069><c> unlabeled</c><00:02:49.970><c> training</c><00:02:50.030><c> set</c><00:02:50.360><c> and</c><00:02:50.810><c> next</c>
+
+00:02:51.729 --> 00:02:51.739 align:start position:0%
+your unlabeled training set and next
+ 
+
+00:02:51.739 --> 00:02:53.380 align:start position:0%
+your unlabeled training set and next
+we're<00:02:51.890><c> going</c><00:02:52.069><c> to</c><00:02:52.280><c> define</c><00:02:52.700><c> a</c><00:02:52.970><c> cross-validation</c>
+
+00:02:53.380 --> 00:02:53.390 align:start position:0%
+we're going to define a cross-validation
+ 
+
+00:02:53.390 --> 00:02:55.900 align:start position:0%
+we're going to define a cross-validation
+set<00:02:54.079><c> and</c><00:02:54.319><c> the</c><00:02:54.410><c> test</c><00:02:54.620><c> set</c><00:02:54.769><c> with</c><00:02:55.430><c> which</c><00:02:55.670><c> to</c>
+
+00:02:55.900 --> 00:02:55.910 align:start position:0%
+set and the test set with which to
+ 
+
+00:02:55.910 --> 00:02:58.270 align:start position:0%
+set and the test set with which to
+evaluate<00:02:55.940><c> a</c><00:02:56.810><c> particular</c><00:02:57.079><c> anomaly</c><00:02:57.980><c> detection</c>
+
+00:02:58.270 --> 00:02:58.280 align:start position:0%
+evaluate a particular anomaly detection
+ 
+
+00:02:58.280 --> 00:03:00.970 align:start position:0%
+evaluate a particular anomaly detection
+algorithm<00:02:58.610><c> so</c><00:02:59.420><c> specifically</c><00:02:59.989><c> for</c><00:03:00.170><c> both</c><00:03:00.799><c> the</c>
+
+00:03:00.970 --> 00:03:00.980 align:start position:0%
+algorithm so specifically for both the
+ 
+
+00:03:00.980 --> 00:03:02.350 align:start position:0%
+algorithm so specifically for both the
+cross<00:03:01.220><c> validation</c><00:03:01.610><c> and</c><00:03:01.790><c> test</c><00:03:01.970><c> sets</c><00:03:02.030><c> we're</c>
+
+00:03:02.350 --> 00:03:02.360 align:start position:0%
+cross validation and test sets we're
+ 
+
+00:03:02.360 --> 00:03:04.000 align:start position:0%
+cross validation and test sets we're
+going<00:03:02.510><c> to</c><00:03:02.629><c> assume</c><00:03:02.840><c> that</c><00:03:03.170><c> you</c><00:03:03.620><c> know</c><00:03:03.739><c> we</c><00:03:03.859><c> can</c>
+
+00:03:04.000 --> 00:03:04.010 align:start position:0%
+going to assume that you know we can
+ 
+
+00:03:04.010 --> 00:03:05.890 align:start position:0%
+going to assume that you know we can
+include<00:03:04.370><c> a</c><00:03:04.760><c> few</c><00:03:05.000><c> examples</c><00:03:05.660><c> in</c><00:03:05.810><c> the</c>
+
+00:03:05.890 --> 00:03:05.900 align:start position:0%
+include a few examples in the
+ 
+
+00:03:05.900 --> 00:03:07.210 align:start position:0%
+include a few examples in the
+cross-validation<00:03:06.109><c> set</c><00:03:06.739><c> and</c><00:03:06.889><c> the</c><00:03:06.950><c> test</c><00:03:07.100><c> set</c>
+
+00:03:07.210 --> 00:03:07.220 align:start position:0%
+cross-validation set and the test set
+ 
+
+00:03:07.220 --> 00:03:09.370 align:start position:0%
+cross-validation set and the test set
+that<00:03:07.790><c> contain</c><00:03:08.180><c> examples</c><00:03:08.720><c> that</c><00:03:08.989><c> are</c><00:03:09.109><c> known</c><00:03:09.350><c> to</c>
+
+00:03:09.370 --> 00:03:09.380 align:start position:0%
+that contain examples that are known to
+ 
+
+00:03:09.380 --> 00:03:12.069 align:start position:0%
+that contain examples that are known to
+be<00:03:09.620><c> anomalous</c><00:03:09.920><c> so</c><00:03:10.400><c> the</c><00:03:10.639><c> test</c><00:03:11.180><c> set</c><00:03:11.359><c> say</c><00:03:11.569><c> will</c>
+
+00:03:12.069 --> 00:03:12.079 align:start position:0%
+be anomalous so the test set say will
+ 
+
+00:03:12.079 --> 00:03:15.009 align:start position:0%
+be anomalous so the test set say will
+have<00:03:12.350><c> a</c><00:03:12.380><c> few</c><00:03:12.650><c> examples</c><00:03:13.190><c> with</c><00:03:13.489><c> y</c><00:03:13.670><c> equals</c><00:03:14.209><c> 1</c><00:03:14.480><c> that</c>
+
+00:03:15.009 --> 00:03:15.019 align:start position:0%
+have a few examples with y equals 1 that
+ 
+
+00:03:15.019 --> 00:03:17.379 align:start position:0%
+have a few examples with y equals 1 that
+corresponds<00:03:15.709><c> to</c><00:03:15.769><c> anomalous</c><00:03:16.730><c> aircraft</c>
+
+00:03:17.379 --> 00:03:17.389 align:start position:0%
+corresponds to anomalous aircraft
+ 
+
+00:03:17.389 --> 00:03:20.129 align:start position:0%
+corresponds to anomalous aircraft
+engines<00:03:17.900><c> so</c><00:03:18.829><c> here's</c><00:03:19.100><c> a</c><00:03:19.280><c> specific</c><00:03:19.579><c> example</c>
+
+00:03:20.129 --> 00:03:20.139 align:start position:0%
+engines so here's a specific example
+ 
+
+00:03:20.139 --> 00:03:23.590 align:start position:0%
+engines so here's a specific example
+let's<00:03:21.139><c> say</c><00:03:21.290><c> that</c><00:03:21.880><c> altogether</c><00:03:22.880><c> this</c><00:03:23.269><c> isn't</c>
+
+00:03:23.590 --> 00:03:23.600 align:start position:0%
+let's say that altogether this isn't
+ 
+
+00:03:23.600 --> 00:03:26.440 align:start position:0%
+let's say that altogether this isn't
+data<00:03:23.780><c> that</c><00:03:24.319><c> we</c><00:03:24.440><c> have</c><00:03:24.650><c> we</c><00:03:24.920><c> have</c><00:03:25.450><c> manufactured</c>
+
+00:03:26.440 --> 00:03:26.450 align:start position:0%
+data that we have we have manufactured
+ 
+
+00:03:26.450 --> 00:03:29.410 align:start position:0%
+data that we have we have manufactured
+10,000<00:03:27.230><c> examples</c><00:03:27.530><c> of</c><00:03:28.250><c> engines</c><00:03:28.730><c> that</c><00:03:28.970><c> as</c><00:03:29.180><c> far</c>
+
+00:03:29.410 --> 00:03:29.420 align:start position:0%
+10,000 examples of engines that as far
+ 
+
+00:03:29.420 --> 00:03:30.789 align:start position:0%
+10,000 examples of engines that as far
+as<00:03:29.450><c> we</c><00:03:29.720><c> know</c><00:03:29.870><c> were</c><00:03:30.200><c> perfectly</c><00:03:30.680><c> normal</c>
+
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+as we know were perfectly normal
+ 
+
+00:03:30.799 --> 00:03:33.129 align:start position:0%
+as we know were perfectly normal
+perfectly<00:03:31.459><c> good</c><00:03:31.849><c> aircraft</c><00:03:32.329><c> engines</c><00:03:32.720><c> and</c>
+
+00:03:33.129 --> 00:03:33.139 align:start position:0%
+perfectly good aircraft engines and
+ 
+
+00:03:33.139 --> 00:03:35.860 align:start position:0%
+perfectly good aircraft engines and
+again<00:03:33.410><c> it</c><00:03:34.160><c> turns</c><00:03:34.370><c> out</c><00:03:34.489><c> to</c><00:03:34.609><c> be</c><00:03:34.670><c> okay</c><00:03:35.060><c> even</c><00:03:35.269><c> if</c><00:03:35.720><c> a</c>
+
+00:03:35.860 --> 00:03:35.870 align:start position:0%
+again it turns out to be okay even if a
+ 
+
+00:03:35.870 --> 00:03:39.129 align:start position:0%
+again it turns out to be okay even if a
+few<00:03:36.200><c> flawed</c><00:03:37.130><c> engine</c><00:03:37.730><c> slips</c><00:03:38.239><c> into</c><00:03:38.630><c> this</c><00:03:38.750><c> set</c><00:03:38.989><c> of</c>
+
+00:03:39.129 --> 00:03:39.139 align:start position:0%
+few flawed engine slips into this set of
+ 
+
+00:03:39.139 --> 00:03:40.410 align:start position:0%
+few flawed engine slips into this set of
+10,000<00:03:39.769><c> is</c>
+
+00:03:40.410 --> 00:03:40.420 align:start position:0%
+10,000 is
+ 
+
+00:03:40.420 --> 00:03:42.120 align:start position:0%
+10,000 is
+okay<00:03:40.840><c> but</c><00:03:41.050><c> kind</c><00:03:41.290><c> of</c><00:03:41.319><c> assumed</c><00:03:41.620><c> that</c><00:03:41.740><c> the</c><00:03:41.860><c> vast</c>
+
+00:03:42.120 --> 00:03:42.130 align:start position:0%
+okay but kind of assumed that the vast
+ 
+
+00:03:42.130 --> 00:03:45.210 align:start position:0%
+okay but kind of assumed that the vast
+majority<00:03:42.250><c> of</c><00:03:42.790><c> these</c><00:03:43.540><c> 10,000</c><00:03:44.290><c> examples</c><00:03:44.860><c> are</c>
+
+00:03:45.210 --> 00:03:45.220 align:start position:0%
+majority of these 10,000 examples are
+ 
+
+00:03:45.220 --> 00:03:46.920 align:start position:0%
+majority of these 10,000 examples are
+you<00:03:45.459><c> know</c><00:03:45.700><c> good</c><00:03:46.090><c> normal</c>
+
+00:03:46.920 --> 00:03:46.930 align:start position:0%
+you know good normal
+ 
+
+00:03:46.930 --> 00:03:48.870 align:start position:0%
+you know good normal
+non-anomalous<00:03:47.440><c> engines</c><00:03:48.040><c> and</c><00:03:48.550><c> let's</c><00:03:48.730><c> say</c><00:03:48.849><c> that</c>
+
+00:03:48.870 --> 00:03:48.880 align:start position:0%
+non-anomalous engines and let's say that
+ 
+
+00:03:48.880 --> 00:03:51.270 align:start position:0%
+non-anomalous engines and let's say that
+you<00:03:49.300><c> know</c><00:03:49.390><c> historically</c><00:03:49.930><c> in</c><00:03:50.380><c> however</c><00:03:51.130><c> long</c>
+
+00:03:51.270 --> 00:03:51.280 align:start position:0%
+you know historically in however long
+ 
+
+00:03:51.280 --> 00:03:52.650 align:start position:0%
+you know historically in however long
+we've<00:03:51.610><c> been</c><00:03:51.760><c> running</c><00:03:51.940><c> our</c><00:03:52.150><c> manufacturing</c>
+
+00:03:52.650 --> 00:03:52.660 align:start position:0%
+we've been running our manufacturing
+ 
+
+00:03:52.660 --> 00:03:55.800 align:start position:0%
+we've been running our manufacturing
+plants<00:03:53.020><c> let's</c><00:03:53.560><c> say</c><00:03:53.709><c> that</c><00:03:53.950><c> we</c><00:03:54.610><c> end</c><00:03:55.090><c> up</c><00:03:55.270><c> getting</c>
+
+00:03:55.800 --> 00:03:55.810 align:start position:0%
+plants let's say that we end up getting
+ 
+
+00:03:55.810 --> 00:03:58.110 align:start position:0%
+plants let's say that we end up getting
+features<00:03:56.349><c> giving</c><00:03:56.709><c> twenty</c><00:03:57.190><c> floors</c><00:03:57.580><c> or</c><00:03:57.910><c> two</c><00:03:58.000><c> the</c>
+
+00:03:58.110 --> 00:03:58.120 align:start position:0%
+features giving twenty floors or two the
+ 
+
+00:03:58.120 --> 00:04:01.770 align:start position:0%
+features giving twenty floors or two the
+anomalous<00:03:58.690><c> engines</c><00:03:59.590><c> as</c><00:04:00.130><c> well</c><00:04:00.370><c> and</c><00:04:01.060><c> for</c><00:04:01.239><c> pretty</c>
+
+00:04:01.770 --> 00:04:01.780 align:start position:0%
+anomalous engines as well and for pretty
+ 
+
+00:04:01.780 --> 00:04:03.900 align:start position:0%
+anomalous engines as well and for pretty
+typical<00:04:02.050><c> application</c><00:04:02.950><c> of</c><00:04:03.040><c> anomaly</c><00:04:03.550><c> detection</c>
+
+00:04:03.900 --> 00:04:03.910 align:start position:0%
+typical application of anomaly detection
+ 
+
+00:04:03.910 --> 00:04:05.940 align:start position:0%
+typical application of anomaly detection
+you<00:04:04.480><c> know</c><00:04:04.540><c> the</c><00:04:04.690><c> number</c><00:04:05.050><c> of</c><00:04:05.290><c> known</c><00:04:05.560><c> anomalies</c>
+
+00:04:05.940 --> 00:04:05.950 align:start position:0%
+you know the number of known anomalies
+ 
+
+00:04:05.950 --> 00:04:09.180 align:start position:0%
+you know the number of known anomalies
+example<00:04:06.700><c> on</c><00:04:06.819><c> status</c><00:04:07.209><c> with</c><00:04:07.840><c> y</c><00:04:08.050><c> equals</c><00:04:08.410><c> one</c><00:04:08.680><c> we</c>
+
+00:04:09.180 --> 00:04:09.190 align:start position:0%
+example on status with y equals one we
+ 
+
+00:04:09.190 --> 00:04:11.790 align:start position:0%
+example on status with y equals one we
+may<00:04:09.370><c> have</c><00:04:09.489><c> anywhere</c><00:04:09.910><c> from</c><00:04:09.970><c> you</c><00:04:10.660><c> know</c><00:04:10.690><c> 20</c><00:04:10.810><c> to</c><00:04:11.440><c> 50</c>
+
+00:04:11.790 --> 00:04:11.800 align:start position:0%
+may have anywhere from you know 20 to 50
+ 
+
+00:04:11.800 --> 00:04:13.740 align:start position:0%
+may have anywhere from you know 20 to 50
+it<00:04:11.920><c> would</c><00:04:12.040><c> be</c><00:04:12.130><c> a</c><00:04:12.160><c> pretty</c><00:04:12.459><c> typical</c><00:04:13.060><c> range</c><00:04:13.569><c> of</c>
+
+00:04:13.740 --> 00:04:13.750 align:start position:0%
+it would be a pretty typical range of
+ 
+
+00:04:13.750 --> 00:04:15.360 align:start position:0%
+it would be a pretty typical range of
+examples<00:04:14.019><c> number</c><00:04:14.620><c> of</c><00:04:14.680><c> examples</c><00:04:15.130><c> that</c><00:04:15.160><c> we</c><00:04:15.340><c> have</c>
+
+00:04:15.360 --> 00:04:15.370 align:start position:0%
+examples number of examples that we have
+ 
+
+00:04:15.370 --> 00:04:17.670 align:start position:0%
+examples number of examples that we have
+with<00:04:15.760><c> y</c><00:04:15.910><c> plus</c><00:04:15.940><c> one</c><00:04:16.419><c> and</c><00:04:17.049><c> usually</c><00:04:17.410><c> we'll</c><00:04:17.560><c> have</c><00:04:17.650><c> a</c>
+
+00:04:17.670 --> 00:04:17.680 align:start position:0%
+with y plus one and usually we'll have a
+ 
+
+00:04:17.680 --> 00:04:21.020 align:start position:0%
+with y plus one and usually we'll have a
+much<00:04:17.950><c> larger</c><00:04:18.160><c> number</c><00:04:19.090><c> of</c><00:04:19.120><c> good</c><00:04:19.900><c> examples</c>
+
+00:04:21.020 --> 00:04:21.030 align:start position:0%
+much larger number of good examples
+ 
+
+00:04:21.030 --> 00:04:24.629 align:start position:0%
+much larger number of good examples
+so<00:04:22.030><c> given</c><00:04:22.479><c> this</c><00:04:22.810><c> data</c><00:04:23.050><c> set</c><00:04:23.440><c> a</c><00:04:23.710><c> fairly</c><00:04:24.460><c> typical</c>
+
+00:04:24.629 --> 00:04:24.639 align:start position:0%
+so given this data set a fairly typical
+ 
+
+00:04:24.639 --> 00:04:27.360 align:start position:0%
+so given this data set a fairly typical
+way<00:04:25.120><c> to</c><00:04:25.150><c> split</c><00:04:25.780><c> it</c><00:04:25.960><c> into</c><00:04:26.229><c> the</c><00:04:26.860><c> training</c><00:04:27.190><c> set</c>
+
+00:04:27.360 --> 00:04:27.370 align:start position:0%
+way to split it into the training set
+ 
+
+00:04:27.370 --> 00:04:28.740 align:start position:0%
+way to split it into the training set
+cross-validation<00:04:27.820><c> set</c><00:04:28.300><c> and</c><00:04:28.389><c> the</c><00:04:28.450><c> test</c><00:04:28.630><c> set</c>
+
+00:04:28.740 --> 00:04:28.750 align:start position:0%
+cross-validation set and the test set
+ 
+
+00:04:28.750 --> 00:04:31.080 align:start position:0%
+cross-validation set and the test set
+would<00:04:29.020><c> be</c><00:04:29.110><c> as</c><00:04:29.200><c> follows</c><00:04:29.560><c> let's</c><00:04:29.800><c> take</c><00:04:29.950><c> off</c><00:04:30.130><c> 10000</c>
+
+00:04:31.080 --> 00:04:31.090 align:start position:0%
+would be as follows let's take off 10000
+ 
+
+00:04:31.090 --> 00:04:34.710 align:start position:0%
+would be as follows let's take off 10000
+goods<00:04:31.780><c> aircraft</c><00:04:32.320><c> engines</c><00:04:32.800><c> and</c><00:04:33.130><c> put</c><00:04:33.910><c> 6,000</c><00:04:34.630><c> of</c>
+
+00:04:34.710 --> 00:04:34.720 align:start position:0%
+goods aircraft engines and put 6,000 of
+ 
+
+00:04:34.720 --> 00:04:37.230 align:start position:0%
+goods aircraft engines and put 6,000 of
+that<00:04:34.900><c> into</c><00:04:35.680><c> the</c><00:04:35.860><c> unlabeled</c><00:04:36.280><c> training</c><00:04:36.550><c> set</c><00:04:36.910><c> so</c>
+
+00:04:37.230 --> 00:04:37.240 align:start position:0%
+that into the unlabeled training set so
+ 
+
+00:04:37.240 --> 00:04:38.700 align:start position:0%
+that into the unlabeled training set so
+this<00:04:37.450><c> is</c><00:04:37.600><c> I'm</c><00:04:37.780><c> calling</c><00:04:38.110><c> this</c><00:04:38.229><c> an</c><00:04:38.380><c> unlabeled</c>
+
+00:04:38.700 --> 00:04:38.710 align:start position:0%
+this is I'm calling this an unlabeled
+ 
+
+00:04:38.710 --> 00:04:40.379 align:start position:0%
+this is I'm calling this an unlabeled
+training<00:04:38.889><c> set</c><00:04:39.220><c> but</c><00:04:39.400><c> all</c><00:04:39.729><c> of</c><00:04:39.880><c> these</c><00:04:39.970><c> examples</c>
+
+00:04:40.379 --> 00:04:40.389 align:start position:0%
+training set but all of these examples
+ 
+
+00:04:40.389 --> 00:04:42.960 align:start position:0%
+training set but all of these examples
+are<00:04:40.720><c> really</c><00:04:40.870><c> ones</c><00:04:41.260><c> that</c><00:04:41.500><c> correspond</c><00:04:42.460><c> to</c><00:04:42.580><c> y</c>
+
+00:04:42.960 --> 00:04:42.970 align:start position:0%
+are really ones that correspond to y
+ 
+
+00:04:42.970 --> 00:04:45.659 align:start position:0%
+are really ones that correspond to y
+equals<00:04:43.389><c> 0</c><00:04:43.750><c> as</c><00:04:43.900><c> far</c><00:04:44.050><c> as</c><00:04:44.110><c> we</c><00:04:44.320><c> know</c><00:04:44.470><c> and</c><00:04:44.860><c> so</c><00:04:45.550><c> we</c>
+
+00:04:45.659 --> 00:04:45.669 align:start position:0%
+equals 0 as far as we know and so we
+ 
+
+00:04:45.669 --> 00:04:48.450 align:start position:0%
+equals 0 as far as we know and so we
+will<00:04:45.820><c> use</c><00:04:46.000><c> this</c><00:04:46.270><c> to</c><00:04:46.479><c> fit</c><00:04:46.870><c> P</c><00:04:47.500><c> of</c><00:04:47.590><c> X</c><00:04:47.770><c> right</c><00:04:48.100><c> so</c><00:04:48.130><c> we</c>
+
+00:04:48.450 --> 00:04:48.460 align:start position:0%
+will use this to fit P of X right so we
+ 
+
+00:04:48.460 --> 00:04:50.969 align:start position:0%
+will use this to fit P of X right so we
+will<00:04:48.580><c> use</c><00:04:48.729><c> these</c><00:04:48.940><c> 6,000</c><00:04:49.630><c> inches</c><00:04:49.990><c> to</c><00:04:50.500><c> fit</c><00:04:50.710><c> P</c><00:04:50.890><c> of</c>
+
+00:04:50.969 --> 00:04:50.979 align:start position:0%
+will use these 6,000 inches to fit P of
+ 
+
+00:04:50.979 --> 00:04:52.730 align:start position:0%
+will use these 6,000 inches to fit P of
+X<00:04:51.130><c> which</c><00:04:51.370><c> was</c><00:04:51.490><c> that</c><00:04:51.669><c> to</c><00:04:51.850><c> a</c><00:04:51.880><c> P</c><00:04:52.150><c> of</c><00:04:52.240><c> x1</c>
+
+00:04:52.730 --> 00:04:52.740 align:start position:0%
+X which was that to a P of x1
+ 
+
+00:04:52.740 --> 00:04:56.400 align:start position:0%
+X which was that to a P of x1
+parametrized<00:04:53.740><c> by</c><00:04:53.860><c> mu</c><00:04:53.950><c> 1</c><00:04:54.400><c> Sigma</c><00:04:54.970><c> squared</c><00:04:55.479><c> 1</c><00:04:55.660><c> up</c>
+
+00:04:56.400 --> 00:04:56.410 align:start position:0%
+parametrized by mu 1 Sigma squared 1 up
+ 
+
+00:04:56.410 --> 00:04:58.980 align:start position:0%
+parametrized by mu 1 Sigma squared 1 up
+to<00:04:56.740><c> P</c><00:04:57.310><c> of</c><00:04:57.400><c> X</c><00:04:57.580><c> and</c><00:04:57.820><c> parametrized</c><00:04:58.570><c> by</c><00:04:58.690><c> mu</c><00:04:58.780><c> and</c>
+
+00:04:58.980 --> 00:04:58.990 align:start position:0%
+to P of X and parametrized by mu and
+ 
+
+00:04:58.990 --> 00:05:02.159 align:start position:0%
+to P of X and parametrized by mu and
+Sigma<00:04:59.620><c> squared</c><00:04:59.919><c> n</c><00:05:00.130><c> and</c><00:05:00.400><c> so</c><00:05:00.490><c> it</c><00:05:01.450><c> would</c><00:05:01.570><c> be</c><00:05:01.720><c> these</c>
+
+00:05:02.159 --> 00:05:02.169 align:start position:0%
+Sigma squared n and so it would be these
+ 
+
+00:05:02.169 --> 00:05:04.469 align:start position:0%
+Sigma squared n and so it would be these
+6,000<00:05:02.919><c> examples</c><00:05:03.460><c> that</c><00:05:03.610><c> we</c><00:05:03.729><c> were</c><00:05:04.060><c> used</c><00:05:04.360><c> to</c>
+
+00:05:04.469 --> 00:05:04.479 align:start position:0%
+6,000 examples that we were used to
+ 
+
+00:05:04.479 --> 00:05:06.210 align:start position:0%
+6,000 examples that we were used to
+estimate<00:05:04.690><c> the</c><00:05:04.990><c> parameters</c><00:05:05.500><c> mu</c><00:05:05.770><c> 1</c><00:05:06.010><c> Sigma</c>
+
+00:05:06.210 --> 00:05:06.220 align:start position:0%
+estimate the parameters mu 1 Sigma
+ 
+
+00:05:06.220 --> 00:05:09.870 align:start position:0%
+estimate the parameters mu 1 Sigma
+squared<00:05:06.669><c> 1</c><00:05:06.910><c> up</c><00:05:07.270><c> to</c><00:05:07.690><c> mu</c><00:05:07.930><c> and</c><00:05:08.250><c> Sigma</c><00:05:09.250><c> square</c><00:05:09.280><c> n</c><00:05:09.640><c> so</c>
+
+00:05:09.870 --> 00:05:09.880 align:start position:0%
+squared 1 up to mu and Sigma square n so
+ 
+
+00:05:09.880 --> 00:05:11.940 align:start position:0%
+squared 1 up to mu and Sigma square n so
+that's<00:05:10.060><c> a</c><00:05:10.180><c> training</c><00:05:10.450><c> set</c><00:05:10.720><c> of</c><00:05:10.990><c> all</c><00:05:11.380><c> you</c><00:05:11.890><c> know</c>
+
+00:05:11.940 --> 00:05:11.950 align:start position:0%
+that's a training set of all you know
+ 
+
+00:05:11.950 --> 00:05:13.740 align:start position:0%
+that's a training set of all you know
+good<00:05:12.250><c> or</c><00:05:12.520><c> the</c><00:05:12.700><c> vast</c><00:05:12.850><c> majority</c><00:05:13.450><c> of</c><00:05:13.479><c> good</c>
+
+00:05:13.740 --> 00:05:13.750 align:start position:0%
+good or the vast majority of good
+ 
+
+00:05:13.750 --> 00:05:17.100 align:start position:0%
+good or the vast majority of good
+examples<00:05:14.580><c> next</c><00:05:15.580><c> we</c><00:05:15.910><c> will</c><00:05:16.030><c> take</c><00:05:16.270><c> our</c><00:05:16.479><c> good</c>
+
+00:05:17.100 --> 00:05:17.110 align:start position:0%
+examples next we will take our good
+ 
+
+00:05:17.110 --> 00:05:18.990 align:start position:0%
+examples next we will take our good
+aircraft<00:05:17.289><c> engines</c><00:05:17.890><c> and</c><00:05:18.190><c> put</c><00:05:18.400><c> some</c><00:05:18.640><c> number</c><00:05:18.970><c> of</c>
+
+00:05:18.990 --> 00:05:19.000 align:start position:0%
+aircraft engines and put some number of
+ 
+
+00:05:19.000 --> 00:05:21.120 align:start position:0%
+aircraft engines and put some number of
+them<00:05:19.210><c> in</c><00:05:19.360><c> the</c><00:05:19.390><c> cross-validation</c><00:05:19.630><c> sets</c><00:05:20.320><c> put</c>
+
+00:05:21.120 --> 00:05:21.130 align:start position:0%
+them in the cross-validation sets put
+ 
+
+00:05:21.130 --> 00:05:22.800 align:start position:0%
+them in the cross-validation sets put
+some<00:05:21.310><c> number</c><00:05:21.610><c> of</c><00:05:21.669><c> them</c><00:05:21.789><c> in</c><00:05:21.940><c> tested</c><00:05:22.360><c> six</c>
+
+00:05:22.800 --> 00:05:22.810 align:start position:0%
+some number of them in tested six
+ 
+
+00:05:22.810 --> 00:05:23.940 align:start position:0%
+some number of them in tested six
+thousand<00:05:23.140><c> plus</c><00:05:23.229><c> two</c><00:05:23.410><c> thousand</c><00:05:23.800><c> four</c><00:05:23.919><c> two</c>
+
+00:05:23.940 --> 00:05:23.950 align:start position:0%
+thousand plus two thousand four two
+ 
+
+00:05:23.950 --> 00:05:25.560 align:start position:0%
+thousand plus two thousand four two
+thousand<00:05:24.490><c> that's</c><00:05:24.610><c> how</c><00:05:24.789><c> we</c><00:05:24.850><c> split</c><00:05:25.180><c> up</c><00:05:25.240><c> about</c>
+
+00:05:25.560 --> 00:05:25.570 align:start position:0%
+thousand that's how we split up about
+ 
+
+00:05:25.570 --> 00:05:26.460 align:start position:0%
+thousand that's how we split up about
+10,000
+
+00:05:26.460 --> 00:05:26.470 align:start position:0%
+10,000
+ 
+
+00:05:26.470 --> 00:05:29.700 align:start position:0%
+10,000
+good<00:05:27.010><c> aircraft</c><00:05:27.610><c> engines</c><00:05:28.000><c> and</c><00:05:28.229><c> then</c><00:05:29.229><c> we</c><00:05:29.560><c> also</c>
+
+00:05:29.700 --> 00:05:29.710 align:start position:0%
+good aircraft engines and then we also
+ 
+
+00:05:29.710 --> 00:05:33.510 align:start position:0%
+good aircraft engines and then we also
+have<00:05:30.330><c> 20</c><00:05:31.330><c> flawed</c><00:05:32.260><c> aircraft</c><00:05:32.860><c> engines</c><00:05:33.280><c> we'll</c>
+
+00:05:33.510 --> 00:05:33.520 align:start position:0%
+have 20 flawed aircraft engines we'll
+ 
+
+00:05:33.520 --> 00:05:35.250 align:start position:0%
+have 20 flawed aircraft engines we'll
+take<00:05:33.700><c> that</c><00:05:33.880><c> and</c><00:05:34.180><c> maybe</c><00:05:34.360><c> split</c><00:05:34.510><c> it</c><00:05:34.810><c> up</c><00:05:34.990><c> you</c><00:05:35.169><c> know</c>
+
+00:05:35.250 --> 00:05:35.260 align:start position:0%
+take that and maybe split it up you know
+ 
+
+00:05:35.260 --> 00:05:36.710 align:start position:0%
+take that and maybe split it up you know
+put<00:05:35.500><c> ten</c><00:05:35.800><c> of</c><00:05:35.919><c> them</c><00:05:36.070><c> and</c><00:05:36.190><c> across</c>
+
+00:05:36.710 --> 00:05:36.720 align:start position:0%
+put ten of them and across
+ 
+
+00:05:36.720 --> 00:05:40.190 align:start position:0%
+put ten of them and across
+pretended<00:05:37.650><c> them</c><00:05:37.800><c> in</c><00:05:38.310><c> the</c><00:05:38.550><c> attest</c><00:05:38.880><c> set</c><00:05:39.090><c> and</c><00:05:39.420><c> in</c>
+
+00:05:40.190 --> 00:05:40.200 align:start position:0%
+pretended them in the attest set and in
+ 
+
+00:05:40.200 --> 00:05:42.500 align:start position:0%
+pretended them in the attest set and in
+the<00:05:40.370><c> next</c><00:05:41.370><c> I</c><00:05:41.520><c> will</c><00:05:41.760><c> talk</c><00:05:42.030><c> about</c><00:05:42.180><c> how</c><00:05:42.450><c> to</c>
+
+00:05:42.500 --> 00:05:42.510 align:start position:0%
+the next I will talk about how to
+ 
+
+00:05:42.510 --> 00:05:45.010 align:start position:0%
+the next I will talk about how to
+actually<00:05:42.810><c> use</c><00:05:42.960><c> this</c><00:05:43.410><c> to</c><00:05:43.620><c> evaluate</c><00:05:44.040><c> to</c><00:05:44.640><c> the</c>
+
+00:05:45.010 --> 00:05:45.020 align:start position:0%
+actually use this to evaluate to the
+ 
+
+00:05:45.020 --> 00:05:48.860 align:start position:0%
+actually use this to evaluate to the
+anomaly<00:05:46.020><c> detection</c><00:05:46.290><c> algorithm</c><00:05:47.330><c> so</c><00:05:48.330><c> what</c><00:05:48.780><c> I've</c>
+
+00:05:48.860 --> 00:05:48.870 align:start position:0%
+anomaly detection algorithm so what I've
+ 
+
+00:05:48.870 --> 00:05:51.230 align:start position:0%
+anomaly detection algorithm so what I've
+just<00:05:48.930><c> described</c><00:05:49.710><c> here</c><00:05:50.010><c> is</c><00:05:50.250><c> your</c><00:05:50.790><c> parada</c>
+
+00:05:51.230 --> 00:05:51.240 align:start position:0%
+just described here is your parada
+ 
+
+00:05:51.240 --> 00:05:53.090 align:start position:0%
+just described here is your parada
+recommended<00:05:51.960><c> or</c><00:05:52.110><c> pretty</c><00:05:52.350><c> good</c><00:05:52.620><c> way</c><00:05:52.830><c> of</c>
+
+00:05:53.090 --> 00:05:53.100 align:start position:0%
+recommended or pretty good way of
+ 
+
+00:05:53.100 --> 00:05:55.310 align:start position:0%
+recommended or pretty good way of
+splitting<00:05:53.310><c> the</c><00:05:54.180><c> label</c><00:05:54.780><c> and</c><00:05:54.930><c> on</c><00:05:55.020><c> the</c><00:05:55.140><c> apron</c>
+
+00:05:55.310 --> 00:05:55.320 align:start position:0%
+splitting the label and on the apron
+ 
+
+00:05:55.320 --> 00:05:57.530 align:start position:0%
+splitting the label and on the apron
+example<00:05:55.800><c> of</c><00:05:55.920><c> the</c><00:05:56.250><c> good</c><00:05:56.850><c> end</c><00:05:57.060><c> of</c><00:05:57.240><c> fluid</c>
+
+00:05:57.530 --> 00:05:57.540 align:start position:0%
+example of the good end of fluid
+ 
+
+00:05:57.540 --> 00:05:59.450 align:start position:0%
+example of the good end of fluid
+aircraft<00:05:57.990><c> engines</c><00:05:58.350><c> where</c><00:05:58.650><c> we</c><00:05:59.040><c> use</c><00:05:59.250><c> like</c><00:05:59.430><c> a</c>
+
+00:05:59.450 --> 00:05:59.460 align:start position:0%
+aircraft engines where we use like a
+ 
+
+00:05:59.460 --> 00:06:01.850 align:start position:0%
+aircraft engines where we use like a
+sixty<00:05:59.970><c> twenty</c><00:06:00.630><c> twenty</c><00:06:00.930><c> percent</c><00:06:01.290><c> split</c><00:06:01.500><c> for</c>
+
+00:06:01.850 --> 00:06:01.860 align:start position:0%
+sixty twenty twenty percent split for
+ 
+
+00:06:01.860 --> 00:06:03.980 align:start position:0%
+sixty twenty twenty percent split for
+the<00:06:01.890><c> good</c><00:06:02.100><c> engines</c><00:06:02.490><c> and</c><00:06:02.790><c> we</c><00:06:03.360><c> take</c><00:06:03.570><c> the</c><00:06:03.690><c> flawed</c>
+
+00:06:03.980 --> 00:06:03.990 align:start position:0%
+the good engines and we take the flawed
+ 
+
+00:06:03.990 --> 00:06:05.660 align:start position:0%
+the good engines and we take the flawed
+engines<00:06:04.530><c> and</c><00:06:04.770><c> we</c><00:06:04.830><c> put</c><00:06:05.040><c> them</c><00:06:05.160><c> just</c><00:06:05.490><c> in</c><00:06:05.580><c> the</c>
+
+00:06:05.660 --> 00:06:05.670 align:start position:0%
+engines and we put them just in the
+ 
+
+00:06:05.670 --> 00:06:07.160 align:start position:0%
+engines and we put them just in the
+cross<00:06:05.850><c> validation</c><00:06:06.270><c> set</c><00:06:06.570><c> and</c><00:06:06.780><c> just</c><00:06:06.810><c> in</c><00:06:07.080><c> the</c>
+
+00:06:07.160 --> 00:06:07.170 align:start position:0%
+cross validation set and just in the
+ 
+
+00:06:07.170 --> 00:06:08.720 align:start position:0%
+cross validation set and just in the
+test<00:06:07.410><c> at</c><00:06:07.590><c> the</c><00:06:07.740><c> most</c><00:06:07.950><c> feared</c><00:06:08.250><c> in</c><00:06:08.370><c> the</c><00:06:08.400><c> explain</c>
+
+00:06:08.720 --> 00:06:08.730 align:start position:0%
+test at the most feared in the explain
+ 
+
+00:06:08.730 --> 00:06:11.150 align:start position:0%
+test at the most feared in the explain
+why<00:06:08.910><c> that's</c><00:06:09.150><c> the</c><00:06:09.270><c> case</c><00:06:09.300><c> just</c><00:06:09.810><c> as</c><00:06:10.710><c> an</c><00:06:10.830><c> aside</c><00:06:10.950><c> uh</c>
+
+00:06:11.150 --> 00:06:11.160 align:start position:0%
+why that's the case just as an aside uh
+ 
+
+00:06:11.160 --> 00:06:13.700 align:start position:0%
+why that's the case just as an aside uh
+if<00:06:11.880><c> you</c><00:06:12.300><c> look</c><00:06:12.540><c> at</c><00:06:12.660><c> how</c><00:06:12.780><c> people</c><00:06:12.840><c> apply</c><00:06:13.350><c> anomaly</c>
+
+00:06:13.700 --> 00:06:13.710 align:start position:0%
+if you look at how people apply anomaly
+ 
+
+00:06:13.710 --> 00:06:15.350 align:start position:0%
+if you look at how people apply anomaly
+detection<00:06:14.040><c> algorithm</c><00:06:14.340><c> sometimes</c><00:06:15.030><c> you</c><00:06:15.180><c> see</c>
+
+00:06:15.350 --> 00:06:15.360 align:start position:0%
+detection algorithm sometimes you see
+ 
+
+00:06:15.360 --> 00:06:17.000 align:start position:0%
+detection algorithm sometimes you see
+other<00:06:15.390><c> people</c><00:06:15.690><c> split</c><00:06:16.200><c> the</c><00:06:16.320><c> data</c><00:06:16.500><c> differently</c>
+
+00:06:17.000 --> 00:06:17.010 align:start position:0%
+other people split the data differently
+ 
+
+00:06:17.010 --> 00:06:19.040 align:start position:0%
+other people split the data differently
+as<00:06:17.160><c> well</c><00:06:17.310><c> so</c><00:06:17.610><c> another</c><00:06:17.910><c> alternative</c><00:06:18.060><c> this</c><00:06:18.900><c> is</c>
+
+00:06:19.040 --> 00:06:19.050 align:start position:0%
+as well so another alternative this is
+ 
+
+00:06:19.050 --> 00:06:21.500 align:start position:0%
+as well so another alternative this is
+really<00:06:19.620><c> not</c><00:06:19.920><c> recommended</c><00:06:20.430><c> alternatives</c><00:06:21.330><c> but</c>
+
+00:06:21.500 --> 00:06:21.510 align:start position:0%
+really not recommended alternatives but
+ 
+
+00:06:21.510 --> 00:06:23.150 align:start position:0%
+really not recommended alternatives but
+some<00:06:21.690><c> people</c><00:06:21.990><c> will</c><00:06:22.140><c> take</c><00:06:22.350><c> of</c><00:06:22.800><c> your</c><00:06:22.950><c> ten</c>
+
+00:06:23.150 --> 00:06:23.160 align:start position:0%
+some people will take of your ten
+ 
+
+00:06:23.160 --> 00:06:24.920 align:start position:0%
+some people will take of your ten
+thousand<00:06:23.640><c> to</c><00:06:23.820><c> the</c><00:06:23.910><c> engines</c><00:06:24.210><c> may</c><00:06:24.450><c> put</c><00:06:24.720><c> six</c>
+
+00:06:24.920 --> 00:06:24.930 align:start position:0%
+thousand to the engines may put six
+ 
+
+00:06:24.930 --> 00:06:26.420 align:start position:0%
+thousand to the engines may put six
+thousand<00:06:25.320><c> of</c><00:06:25.410><c> them</c><00:06:25.560><c> in</c><00:06:25.590><c> the</c><00:06:25.710><c> training</c><00:06:26.040><c> set</c><00:06:26.250><c> and</c>
+
+00:06:26.420 --> 00:06:26.430 align:start position:0%
+thousand of them in the training set and
+ 
+
+00:06:26.430 --> 00:06:28.610 align:start position:0%
+thousand of them in the training set and
+they<00:06:26.850><c> put</c><00:06:27.060><c> the</c><00:06:27.210><c> same</c><00:06:27.510><c> four</c><00:06:27.900><c> thousand</c><00:06:28.350><c> in</c><00:06:28.560><c> the</c>
+
+00:06:28.610 --> 00:06:28.620 align:start position:0%
+they put the same four thousand in the
+ 
+
+00:06:28.620 --> 00:06:30.230 align:start position:0%
+they put the same four thousand in the
+cross-validation<00:06:28.860><c> set</c><00:06:29.550><c> in</c><00:06:29.700><c> the</c><00:06:29.790><c> test</c><00:06:30.030><c> set</c><00:06:30.210><c> and</c>
+
+00:06:30.230 --> 00:06:30.240 align:start position:0%
+cross-validation set in the test set and
+ 
+
+00:06:30.240 --> 00:06:32.090 align:start position:0%
+cross-validation set in the test set and
+so<00:06:30.570><c> you</c><00:06:31.050><c> know</c><00:06:31.169><c> we</c><00:06:31.290><c> like</c><00:06:31.440><c> to</c><00:06:31.470><c> think</c><00:06:31.620><c> of</c><00:06:31.950><c> the</c>
+
+00:06:32.090 --> 00:06:32.100 align:start position:0%
+so you know we like to think of the
+ 
+
+00:06:32.100 --> 00:06:34.280 align:start position:0%
+so you know we like to think of the
+cross-validation<00:06:32.370><c> set</c><00:06:33.180><c> and</c><00:06:33.390><c> the</c><00:06:33.450><c> test</c><00:06:33.660><c> set</c><00:06:33.810><c> as</c>
+
+00:06:34.280 --> 00:06:34.290 align:start position:0%
+cross-validation set and the test set as
+ 
+
+00:06:34.290 --> 00:06:36.200 align:start position:0%
+cross-validation set and the test set as
+being<00:06:34.650><c> completely</c><00:06:35.130><c> different</c><00:06:35.640><c> data</c><00:06:35.790><c> sets</c><00:06:36.060><c> in</c>
+
+00:06:36.200 --> 00:06:36.210 align:start position:0%
+being completely different data sets in
+ 
+
+00:06:36.210 --> 00:06:39.050 align:start position:0%
+being completely different data sets in
+each<00:06:36.330><c> other</c><00:06:36.570><c> but</c><00:06:37.040><c> anomaly</c><00:06:38.040><c> detection</c><00:06:38.370><c> you</c>
+
+00:06:39.050 --> 00:06:39.060 align:start position:0%
+each other but anomaly detection you
+ 
+
+00:06:39.060 --> 00:06:41.300 align:start position:0%
+each other but anomaly detection you
+know<00:06:39.180><c> for</c><00:06:39.540><c> sometimes</c><00:06:40.260><c> you</c><00:06:40.410><c> see</c><00:06:40.620><c> people</c><00:06:40.770><c> it's</c>
+
+00:06:41.300 --> 00:06:41.310 align:start position:0%
+know for sometimes you see people it's
+ 
+
+00:06:41.310 --> 00:06:43.340 align:start position:0%
+know for sometimes you see people it's
+like<00:06:41.460><c> use</c><00:06:41.669><c> the</c><00:06:41.850><c> same</c><00:06:42.150><c> set</c><00:06:42.660><c> of</c><00:06:42.780><c> good</c><00:06:42.990><c> engines</c>
+
+00:06:43.340 --> 00:06:43.350 align:start position:0%
+like use the same set of good engines
+ 
+
+00:06:43.350 --> 00:06:44.630 align:start position:0%
+like use the same set of good engines
+and<00:06:43.500><c> the</c><00:06:43.560><c> cross-validation</c><00:06:43.800><c> set</c><00:06:44.400><c> and</c><00:06:44.580><c> the</c>
+
+00:06:44.630 --> 00:06:44.640 align:start position:0%
+and the cross-validation set and the
+ 
+
+00:06:44.640 --> 00:06:46.670 align:start position:0%
+and the cross-validation set and the
+test<00:06:44.820><c> set</c><00:06:44.940><c> and</c><00:06:45.330><c> sometimes</c><00:06:46.110><c> you</c><00:06:46.290><c> see</c><00:06:46.500><c> people</c>
+
+00:06:46.670 --> 00:06:46.680 align:start position:0%
+test set and sometimes you see people
+ 
+
+00:06:46.680 --> 00:06:50.390 align:start position:0%
+test set and sometimes you see people
+use<00:06:47.070><c> exactly</c><00:06:48.000><c> the</c><00:06:48.240><c> same</c><00:06:48.530><c> sets</c><00:06:49.530><c> of</c><00:06:49.680><c> anomalous</c>
+
+00:06:50.390 --> 00:06:50.400 align:start position:0%
+use exactly the same sets of anomalous
+ 
+
+00:06:50.400 --> 00:06:54.020 align:start position:0%
+use exactly the same sets of anomalous
+engines<00:06:51.740><c> the</c><00:06:52.740><c> cross-validation</c><00:06:53.100><c> set</c><00:06:53.790><c> and</c><00:06:53.970><c> the</c>
+
+00:06:54.020 --> 00:06:54.030 align:start position:0%
+engines the cross-validation set and the
+ 
+
+00:06:54.030 --> 00:06:55.330 align:start position:0%
+engines the cross-validation set and the
+test<00:06:54.180><c> set</c><00:06:54.330><c> and</c><00:06:54.630><c> so</c><00:06:54.780><c> all</c><00:06:54.990><c> of</c><00:06:55.020><c> these</c><00:06:55.229><c> are</c>
+
+00:06:55.330 --> 00:06:55.340 align:start position:0%
+test set and so all of these are
+ 
+
+00:06:55.340 --> 00:06:57.920 align:start position:0%
+test set and so all of these are
+consider<00:06:56.340><c> you</c><00:06:56.610><c> know</c><00:06:56.640><c> less</c><00:06:57.030><c> good</c><00:06:57.300><c> practices</c>
+
+00:06:57.920 --> 00:06:57.930 align:start position:0%
+consider you know less good practices
+ 
+
+00:06:57.930 --> 00:06:59.770 align:start position:0%
+consider you know less good practices
+and<00:06:58.200><c> definitely</c><00:06:58.710><c> less</c><00:06:58.950><c> recommended</c>
+
+00:06:59.770 --> 00:06:59.780 align:start position:0%
+and definitely less recommended
+ 
+
+00:06:59.780 --> 00:07:02.240 align:start position:0%
+and definitely less recommended
+certainly<00:07:00.780><c> right</c><00:07:00.990><c> using</c><00:07:01.320><c> the</c><00:07:01.350><c> same</c><00:07:01.650><c> data</c><00:07:01.890><c> and</c>
+
+00:07:02.240 --> 00:07:02.250 align:start position:0%
+certainly right using the same data and
+ 
+
+00:07:02.250 --> 00:07:03.740 align:start position:0%
+certainly right using the same data and
+the<00:07:02.340><c> cross-validation</c><00:07:02.700><c> in</c><00:07:03.180><c> the</c><00:07:03.270><c> set</c><00:07:03.450><c> and</c><00:07:03.660><c> the</c>
+
+00:07:03.740 --> 00:07:03.750 align:start position:0%
+the cross-validation in the set and the
+ 
+
+00:07:03.750 --> 00:07:04.190 align:start position:0%
+the cross-validation in the set and the
+test<00:07:03.930><c> set</c>
+
+00:07:04.190 --> 00:07:04.200 align:start position:0%
+test set
+ 
+
+00:07:04.200 --> 00:07:06.020 align:start position:0%
+test set
+that's<00:07:04.440><c> not</c><00:07:05.100><c> constantly</c><00:07:05.550><c> good</c><00:07:05.760><c> machine</c>
+
+00:07:06.020 --> 00:07:06.030 align:start position:0%
+that's not constantly good machine
+ 
+
+00:07:06.030 --> 00:07:08.060 align:start position:0%
+that's not constantly good machine
+learning<00:07:06.330><c> practice</c><00:07:06.750><c> but</c><00:07:07.320><c> sometimes</c><00:07:07.710><c> you</c><00:07:07.890><c> see</c>
+
+00:07:08.060 --> 00:07:08.070 align:start position:0%
+learning practice but sometimes you see
+ 
+
+00:07:08.070 --> 00:07:10.880 align:start position:0%
+learning practice but sometimes you see
+people<00:07:08.250><c> do</c><00:07:08.520><c> this</c><00:07:08.729><c> too</c><00:07:09.110><c> so</c><00:07:10.110><c> given</c><00:07:10.680><c> the</c><00:07:10.860><c> training</c>
+
+00:07:10.880 --> 00:07:10.890 align:start position:0%
+people do this too so given the training
+ 
+
+00:07:10.890 --> 00:07:13.219 align:start position:0%
+people do this too so given the training
+cross-validation<00:07:11.580><c> and</c><00:07:12.150><c> test</c><00:07:12.810><c> sets</c>
+
+00:07:13.219 --> 00:07:13.229 align:start position:0%
+cross-validation and test sets
+ 
+
+00:07:13.229 --> 00:07:15.710 align:start position:0%
+cross-validation and test sets
+here's<00:07:13.470><c> how</c><00:07:13.740><c> you</c><00:07:13.790><c> evaluate</c><00:07:14.790><c> so</c><00:07:15.360><c> here's</c><00:07:15.600><c> how</c>
+
+00:07:15.710 --> 00:07:15.720 align:start position:0%
+here's how you evaluate so here's how
+ 
+
+00:07:15.720 --> 00:07:17.680 align:start position:0%
+here's how you evaluate so here's how
+you<00:07:15.750><c> develop</c><00:07:16.290><c> and</c><00:07:16.440><c> evaluate</c><00:07:16.620><c> an</c><00:07:16.950><c> algorithm</c>
+
+00:07:17.680 --> 00:07:17.690 align:start position:0%
+you develop and evaluate an algorithm
+ 
+
+00:07:17.690 --> 00:07:20.060 align:start position:0%
+you develop and evaluate an algorithm
+first<00:07:18.690><c> we</c><00:07:18.960><c> take</c><00:07:19.110><c> the</c><00:07:19.229><c> training</c><00:07:19.470><c> set</c><00:07:19.740><c> and</c><00:07:19.979><c> we</c>
+
+00:07:20.060 --> 00:07:20.070 align:start position:0%
+first we take the training set and we
+ 
+
+00:07:20.070 --> 00:07:21.800 align:start position:0%
+first we take the training set and we
+fit<00:07:20.250><c> the</c><00:07:20.340><c> model</c><00:07:20.370><c> P</c><00:07:20.790><c> of</c><00:07:20.880><c> X</c><00:07:21.030><c> so</c><00:07:21.210><c> we</c><00:07:21.330><c> fit</c><00:07:21.510><c> new</c><00:07:21.660><c> all</c>
+
+00:07:21.800 --> 00:07:21.810 align:start position:0%
+fit the model P of X so we fit new all
+ 
+
+00:07:21.810 --> 00:07:25.159 align:start position:0%
+fit the model P of X so we fit new all
+those<00:07:21.990><c> gaussians</c><00:07:22.760><c> to</c><00:07:23.760><c> my</c><00:07:23.940><c> M</c><00:07:24.210><c> unlabeled</c>
+
+00:07:25.159 --> 00:07:25.169 align:start position:0%
+those gaussians to my M unlabeled
+ 
+
+00:07:25.169 --> 00:07:27.469 align:start position:0%
+those gaussians to my M unlabeled
+examples<00:07:25.229><c> of</c><00:07:25.950><c> aircraft</c><00:07:26.729><c> engines</c><00:07:26.820><c> and</c><00:07:27.180><c> these</c>
+
+00:07:27.469 --> 00:07:27.479 align:start position:0%
+examples of aircraft engines and these
+ 
+
+00:07:27.479 --> 00:07:28.820 align:start position:0%
+examples of aircraft engines and these
+are<00:07:27.600><c> I'm</c><00:07:27.870><c> calling</c><00:07:28.169><c> them</c><00:07:28.290><c> unlabeled</c><00:07:28.800><c> examples</c>
+
+00:07:28.820 --> 00:07:28.830 align:start position:0%
+are I'm calling them unlabeled examples
+ 
+
+00:07:28.830 --> 00:07:31.250 align:start position:0%
+are I'm calling them unlabeled examples
+but<00:07:29.400><c> these</c><00:07:29.520><c> are</c><00:07:29.700><c> ready</c><00:07:29.850><c> examples</c><00:07:30.360><c> that</c><00:07:30.600><c> we're</c>
+
+00:07:31.250 --> 00:07:31.260 align:start position:0%
+but these are ready examples that we're
+ 
+
+00:07:31.260 --> 00:07:33.230 align:start position:0%
+but these are ready examples that we're
+assuming<00:07:31.380><c> are</c><00:07:31.979><c> good</c><00:07:32.280><c> or</c><00:07:32.460><c> the</c><00:07:32.580><c> normal</c>
+
+00:07:33.230 --> 00:07:33.240 align:start position:0%
+assuming are good or the normal
+ 
+
+00:07:33.240 --> 00:07:36.650 align:start position:0%
+assuming are good or the normal
+revengeance<00:07:33.770><c> then</c><00:07:35.240><c> imagine</c><00:07:36.240><c> that</c><00:07:36.270><c> your</c>
+
+00:07:36.650 --> 00:07:36.660 align:start position:0%
+revengeance then imagine that your
+ 
+
+00:07:36.660 --> 00:07:38.270 align:start position:0%
+revengeance then imagine that your
+anomaly<00:07:37.020><c> detection</c><00:07:37.349><c> algorithm</c><00:07:37.680><c> is</c><00:07:37.979><c> actually</c>
+
+00:07:38.270 --> 00:07:38.280 align:start position:0%
+anomaly detection algorithm is actually
+ 
+
+00:07:38.280 --> 00:07:40.040 align:start position:0%
+anomaly detection algorithm is actually
+making<00:07:38.400><c> predictions</c><00:07:38.729><c> so</c><00:07:39.210><c> on</c><00:07:39.660><c> the</c><00:07:39.810><c> cross</c>
+
+00:07:40.040 --> 00:07:40.050 align:start position:0%
+making predictions so on the cross
+ 
+
+00:07:40.050 --> 00:07:43.430 align:start position:0%
+making predictions so on the cross
+validation<00:07:40.099><c> test</c><00:07:41.099><c> set</c><00:07:41.360><c> given</c><00:07:42.360><c> a</c><00:07:42.449><c> say</c><00:07:42.840><c> test</c>
+
+00:07:43.430 --> 00:07:43.440 align:start position:0%
+validation test set given a say test
+ 
+
+00:07:43.440 --> 00:07:45.800 align:start position:0%
+validation test set given a say test
+example<00:07:44.009><c> X</c><00:07:44.220><c> think</c><00:07:44.849><c> of</c><00:07:44.970><c> the</c><00:07:45.090><c> algorithm</c><00:07:45.389><c> as</c>
+
+00:07:45.800 --> 00:07:45.810 align:start position:0%
+example X think of the algorithm as
+ 
+
+00:07:45.810 --> 00:07:48.680 align:start position:0%
+example X think of the algorithm as
+predicting<00:07:46.410><c> that</c><00:07:46.650><c> Y</c><00:07:46.889><c> is</c><00:07:46.949><c> equal</c><00:07:47.130><c> to</c><00:07:47.430><c> 1</c><00:07:47.729><c> the</c><00:07:48.300><c> P</c><00:07:48.599><c> of</c>
+
+00:07:48.680 --> 00:07:48.690 align:start position:0%
+predicting that Y is equal to 1 the P of
+ 
+
+00:07:48.690 --> 00:07:51.080 align:start position:0%
+predicting that Y is equal to 1 the P of
+X<00:07:48.840><c> is</c><00:07:48.990><c> less</c><00:07:49.199><c> than</c><00:07:49.229><c> Epsilon</c><00:07:49.740><c> was</c><00:07:50.250><c> predicting</c><00:07:50.729><c> 0</c>
+
+00:07:51.080 --> 00:07:51.090 align:start position:0%
+X is less than Epsilon was predicting 0
+ 
+
+00:07:51.090 --> 00:07:53.779 align:start position:0%
+X is less than Epsilon was predicting 0
+the<00:07:51.660><c> P</c><00:07:51.840><c> of</c><00:07:51.960><c> X</c><00:07:52.110><c> is</c><00:07:52.289><c> greater</c><00:07:52.440><c> than</c><00:07:52.710><c> equal</c><00:07:52.949><c> Epsilon</c>
+
+00:07:53.779 --> 00:07:53.789 align:start position:0%
+the P of X is greater than equal Epsilon
+ 
+
+00:07:53.789 --> 00:07:56.029 align:start position:0%
+the P of X is greater than equal Epsilon
+so<00:07:54.419><c> it's</c><00:07:54.630><c> trying</c><00:07:54.870><c> to</c><00:07:54.960><c> predict</c><00:07:55.319><c> given</c><00:07:55.500><c> X</c><00:07:55.860><c> is</c>
+
+00:07:56.029 --> 00:07:56.039 align:start position:0%
+so it's trying to predict given X is
+ 
+
+00:07:56.039 --> 00:07:58.159 align:start position:0%
+so it's trying to predict given X is
+trying<00:07:56.310><c> to</c><00:07:56.430><c> predict</c><00:07:57.120><c> what</c><00:07:57.150><c> is</c><00:07:57.419><c> the</c><00:07:57.569><c> label</c><00:07:57.780><c> you</c>
+
+00:07:58.159 --> 00:07:58.169 align:start position:0%
+trying to predict what is the label you
+ 
+
+00:07:58.169 --> 00:08:00.770 align:start position:0%
+trying to predict what is the label you
+know<00:07:58.229><c> that</c><00:07:58.530><c> y</c><00:07:59.190><c> equals</c><00:07:59.490><c> 1</c><00:07:59.729><c> corresponding</c><00:08:00.449><c> to</c><00:08:00.660><c> an</c>
+
+00:08:00.770 --> 00:08:00.780 align:start position:0%
+know that y equals 1 corresponding to an
+ 
+
+00:08:00.780 --> 00:08:02.510 align:start position:0%
+know that y equals 1 corresponding to an
+anomaly<00:08:01.259><c> or</c><00:08:01.470><c> is</c><00:08:01.590><c> it</c><00:08:01.740><c> y</c><00:08:01.949><c> equals</c><00:08:02.280><c> 0</c>
+
+00:08:02.510 --> 00:08:02.520 align:start position:0%
+anomaly or is it y equals 0
+ 
+
+00:08:02.520 --> 00:08:06.320 align:start position:0%
+anomaly or is it y equals 0
+corresponding<00:08:03.419><c> to</c><00:08:03.479><c> a</c><00:08:03.660><c> normal</c><00:08:04.880><c> to</c><00:08:05.880><c> a</c><00:08:05.940><c> normal</c>
+
+00:08:06.320 --> 00:08:06.330 align:start position:0%
+corresponding to a normal to a normal
+ 
+
+00:08:06.330 --> 00:08:08.210 align:start position:0%
+corresponding to a normal to a normal
+example<00:08:06.930><c> so</c><00:08:07.440><c> few</c><00:08:07.800><c> minute</c><00:08:07.979><c> training</c>
+
+00:08:08.210 --> 00:08:08.220 align:start position:0%
+example so few minute training
+ 
+
+00:08:08.220 --> 00:08:10.159 align:start position:0%
+example so few minute training
+cross-validation<00:08:08.639><c> and</c><00:08:09.240><c> test</c><00:08:09.539><c> sets</c><00:08:09.750><c> how</c><00:08:10.110><c> do</c>
+
+00:08:10.159 --> 00:08:10.169 align:start position:0%
+cross-validation and test sets how do
+ 
+
+00:08:10.169 --> 00:08:11.870 align:start position:0%
+cross-validation and test sets how do
+you<00:08:10.440><c> develop</c><00:08:10.860><c> an</c><00:08:11.130><c> algorithm</c><00:08:11.370><c> and</c><00:08:11.610><c> more</c>
+
+00:08:11.870 --> 00:08:11.880 align:start position:0%
+you develop an algorithm and more
+ 
+
+00:08:11.880 --> 00:08:14.029 align:start position:0%
+you develop an algorithm and more
+specifically<00:08:12.389><c> how</c><00:08:12.900><c> do</c><00:08:12.960><c> you</c><00:08:13.139><c> evaluate</c><00:08:13.500><c> an</c>
+
+00:08:14.029 --> 00:08:14.039 align:start position:0%
+specifically how do you evaluate an
+ 
+
+00:08:14.039 --> 00:08:17.420 align:start position:0%
+specifically how do you evaluate an
+anomaly<00:08:14.220><c> detection</c><00:08:14.819><c> algorithm</c><00:08:15.120><c> well</c><00:08:16.050><c> to</c><00:08:16.560><c> do</c>
+
+00:08:17.420 --> 00:08:17.430 align:start position:0%
+anomaly detection algorithm well to do
+ 
+
+00:08:17.430 --> 00:08:19.760 align:start position:0%
+anomaly detection algorithm well to do
+so<00:08:17.610><c> the</c><00:08:17.940><c> first</c><00:08:18.210><c> step</c><00:08:18.419><c> is</c><00:08:18.659><c> to</c><00:08:19.080><c> take</c><00:08:19.620><c> the</c>
+
+00:08:19.760 --> 00:08:19.770 align:start position:0%
+so the first step is to take the
+ 
+
+00:08:19.770 --> 00:08:22.129 align:start position:0%
+so the first step is to take the
+unlabeled<00:08:20.340><c> training</c><00:08:20.400><c> set</c><00:08:20.729><c> and</c><00:08:21.210><c> to</c><00:08:21.449><c> fit</c><00:08:21.810><c> the</c>
+
+00:08:22.129 --> 00:08:22.139 align:start position:0%
+unlabeled training set and to fit the
+ 
+
+00:08:22.139 --> 00:08:24.200 align:start position:0%
+unlabeled training set and to fit the
+model<00:08:22.319><c> P</c><00:08:22.800><c> of</c><00:08:22.830><c> X</c><00:08:23.039><c> to</c><00:08:23.159><c> a</c><00:08:23.220><c> training</c><00:08:23.550><c> data</c><00:08:23.729><c> so</c><00:08:24.120><c> you</c>
+
+00:08:24.200 --> 00:08:24.210 align:start position:0%
+model P of X to a training data so you
+ 
+
+00:08:24.210 --> 00:08:26.300 align:start position:0%
+model P of X to a training data so you
+take<00:08:24.449><c> this</c><00:08:24.599><c> you</c><00:08:25.080><c> know</c><00:08:25.139><c> I'm</c><00:08:25.289><c> calling</c><00:08:25.680><c> unlabeled</c>
+
+00:08:26.300 --> 00:08:26.310 align:start position:0%
+take this you know I'm calling unlabeled
+ 
+
+00:08:26.310 --> 00:08:27.860 align:start position:0%
+take this you know I'm calling unlabeled
+training<00:08:26.370><c> set</c><00:08:26.639><c> but</c><00:08:26.849><c> really</c><00:08:27.270><c> these</c><00:08:27.690><c> are</c>
+
+00:08:27.860 --> 00:08:27.870 align:start position:0%
+training set but really these are
+ 
+
+00:08:27.870 --> 00:08:30.140 align:start position:0%
+training set but really these are
+examples<00:08:28.800><c> that</c><00:08:29.039><c> we</c><00:08:29.220><c> were</c><00:08:29.310><c> assuming</c><00:08:29.580><c> the</c><00:08:29.940><c> vast</c>
+
+00:08:30.140 --> 00:08:30.150 align:start position:0%
+examples that we were assuming the vast
+ 
+
+00:08:30.150 --> 00:08:32.360 align:start position:0%
+examples that we were assuming the vast
+majority<00:08:30.330><c> of</c><00:08:30.750><c> which</c><00:08:31.020><c> are</c><00:08:31.259><c> normal</c><00:08:31.800><c> aircraft</c>
+
+00:08:32.360 --> 00:08:32.370 align:start position:0%
+majority of which are normal aircraft
+ 
+
+00:08:32.370 --> 00:08:35.120 align:start position:0%
+majority of which are normal aircraft
+engines<00:08:32.760><c> not</c><00:08:33.089><c> as</c><00:08:33.479><c> they're</c><00:08:33.690><c> not</c><00:08:33.899><c> anomalies</c><00:08:34.529><c> and</c>
+
+00:08:35.120 --> 00:08:35.130 align:start position:0%
+engines not as they're not anomalies and
+ 
+
+00:08:35.130 --> 00:08:37.010 align:start position:0%
+engines not as they're not anomalies and
+will<00:08:35.310><c> fit</c><00:08:35.580><c> the</c><00:08:35.729><c> model</c><00:08:36.000><c> P</c><00:08:36.120><c> of</c><00:08:36.149><c> X</c><00:08:36.390><c> so</c><00:08:36.539><c> fit</c><00:08:36.839><c> all</c>
+
+00:08:37.010 --> 00:08:37.020 align:start position:0%
+will fit the model P of X so fit all
+ 
+
+00:08:37.020 --> 00:08:38.899 align:start position:0%
+will fit the model P of X so fit all
+those<00:08:37.169><c> parameters</c><00:08:37.829><c> for</c><00:08:38.099><c> all</c><00:08:38.219><c> the</c><00:08:38.370><c> gaussians</c>
+
+00:08:38.899 --> 00:08:38.909 align:start position:0%
+those parameters for all the gaussians
+ 
+
+00:08:38.909 --> 00:08:43.159 align:start position:0%
+those parameters for all the gaussians
+on<00:08:39.690><c> this</c><00:08:39.930><c> data</c><00:08:40.760><c> nix</c><00:08:41.760><c> on</c><00:08:42.000><c> the</c><00:08:42.599><c> cross-validation</c>
+
+00:08:43.159 --> 00:08:43.169 align:start position:0%
+on this data nix on the cross-validation
+ 
+
+00:08:43.169 --> 00:08:45.319 align:start position:0%
+on this data nix on the cross-validation
+on<00:08:43.890><c> the</c><00:08:43.979><c> test</c><00:08:44.190><c> set</c><00:08:44.399><c> we're</c><00:08:44.640><c> going</c><00:08:44.820><c> to</c><00:08:44.970><c> think</c><00:08:45.209><c> of</c>
+
+00:08:45.319 --> 00:08:45.329 align:start position:0%
+on the test set we're going to think of
+ 
+
+00:08:45.329 --> 00:08:47.180 align:start position:0%
+on the test set we're going to think of
+the<00:08:45.540><c> anomaly</c><00:08:46.110><c> detection</c><00:08:46.500><c> algorithm</c><00:08:46.860><c> as</c>
+
+00:08:47.180 --> 00:08:47.190 align:start position:0%
+the anomaly detection algorithm as
+ 
+
+00:08:47.190 --> 00:08:51.170 align:start position:0%
+the anomaly detection algorithm as
+trying<00:08:47.579><c> to</c><00:08:47.610><c> predict</c><00:08:48.180><c> the</c><00:08:48.390><c> value</c><00:08:48.899><c> of</c><00:08:48.930><c> y</c><00:08:49.730><c> so</c><00:08:50.730><c> in</c>
+
+00:08:51.170 --> 00:08:51.180 align:start position:0%
+trying to predict the value of y so in
+ 
+
+00:08:51.180 --> 00:08:54.530 align:start position:0%
+trying to predict the value of y so in
+each<00:08:51.750><c> of</c><00:08:51.810><c> my</c><00:08:52.290><c> say</c><00:08:53.130><c> test</c><00:08:53.459><c> examples</c><00:08:54.029><c> we</c><00:08:54.300><c> have</c>
+
+00:08:54.530 --> 00:08:54.540 align:start position:0%
+each of my say test examples we have
+ 
+
+00:08:54.540 --> 00:08:59.090 align:start position:0%
+each of my say test examples we have
+these<00:08:55.079><c> x</c><00:08:55.770><c> i</c><00:08:56.100><c> tests</c><00:08:56.640><c> why</c><00:08:57.300><c> i</c><00:08:57.570><c> test</c><00:08:57.990><c> where</c><00:08:58.829><c> y</c><00:08:59.070><c> is</c>
+
+00:08:59.090 --> 00:08:59.100 align:start position:0%
+these x i tests why i test where y is
+ 
+
+00:08:59.100 --> 00:09:01.699 align:start position:0%
+these x i tests why i test where y is
+going<00:08:59.579><c> to</c><00:08:59.700><c> be</c><00:08:59.820><c> equal</c><00:09:00.120><c> to</c><00:09:00.300><c> 1</c><00:09:00.540><c> or</c><00:09:00.750><c> 0</c><00:09:00.779><c> depending</c><00:09:01.170><c> on</c>
+
+00:09:01.699 --> 00:09:01.709 align:start position:0%
+going to be equal to 1 or 0 depending on
+ 
+
+00:09:01.709 --> 00:09:04.579 align:start position:0%
+going to be equal to 1 or 0 depending on
+whether<00:09:01.920><c> this</c><00:09:02.250><c> was</c><00:09:02.459><c> an</c><00:09:02.640><c> anomalous</c><00:09:03.180><c> example</c><00:09:03.779><c> so</c>
+
+00:09:04.579 --> 00:09:04.589 align:start position:0%
+whether this was an anomalous example so
+ 
+
+00:09:04.589 --> 00:09:06.740 align:start position:0%
+whether this was an anomalous example so
+given<00:09:04.920><c> any</c><00:09:05.040><c> products</c><00:09:05.490><c> in</c><00:09:05.610><c> my</c><00:09:05.760><c> test</c><00:09:06.000><c> set</c><00:09:06.149><c> my</c>
+
+00:09:06.740 --> 00:09:06.750 align:start position:0%
+given any products in my test set my
+ 
+
+00:09:06.750 --> 00:09:08.630 align:start position:0%
+given any products in my test set my
+anomaly<00:09:07.350><c> detection</c><00:09:07.680><c> algorithm</c><00:09:08.010><c> think</c><00:09:08.550><c> of</c>
+
+00:09:08.630 --> 00:09:08.640 align:start position:0%
+anomaly detection algorithm think of
+ 
+
+00:09:08.640 --> 00:09:11.449 align:start position:0%
+anomaly detection algorithm think of
+that<00:09:08.820><c> predicting</c><00:09:09.360><c> the</c><00:09:09.510><c> Y</c><00:09:09.690><c> is</c><00:09:09.750><c> 1</c><00:09:10.170><c> if</c><00:09:10.440><c> P</c><00:09:11.040><c> of</c><00:09:11.070><c> X</c><00:09:11.339><c> is</c>
+
+00:09:11.449 --> 00:09:11.459 align:start position:0%
+that predicting the Y is 1 if P of X is
+ 
+
+00:09:11.459 --> 00:09:13.340 align:start position:0%
+that predicting the Y is 1 if P of X is
+less<00:09:11.520><c> than</c><00:09:11.730><c> epsilon</c><00:09:12.270><c> so</c><00:09:12.300><c> predicting</c><00:09:12.990><c> that</c><00:09:13.230><c> is</c>
+
+00:09:13.340 --> 00:09:13.350 align:start position:0%
+less than epsilon so predicting that is
+ 
+
+00:09:13.350 --> 00:09:15.260 align:start position:0%
+less than epsilon so predicting that is
+an<00:09:13.470><c> anomaly</c><00:09:14.160><c> that</c><00:09:14.190><c> it</c><00:09:14.490><c> probably</c><00:09:14.640><c> is</c><00:09:14.850><c> very</c><00:09:14.910><c> low</c>
+
+00:09:15.260 --> 00:09:15.270 align:start position:0%
+an anomaly that it probably is very low
+ 
+
+00:09:15.270 --> 00:09:16.940 align:start position:0%
+an anomaly that it probably is very low
+and<00:09:15.690><c> we</c><00:09:16.140><c> think</c><00:09:16.320><c> of</c><00:09:16.440><c> the</c><00:09:16.500><c> algorithm</c><00:09:16.770><c> as</c>
+
+00:09:16.940 --> 00:09:16.950 align:start position:0%
+and we think of the algorithm as
+ 
+
+00:09:16.950 --> 00:09:19.340 align:start position:0%
+and we think of the algorithm as
+predicting<00:09:17.399><c> that</c><00:09:17.490><c> Y</c><00:09:17.670><c> is</c><00:09:17.730><c> equal</c><00:09:18.029><c> to</c><00:09:18.060><c> 0</c><00:09:18.420><c> if</c><00:09:19.020><c> P</c><00:09:19.320><c> of</c>
+
+00:09:19.340 --> 00:09:19.350 align:start position:0%
+predicting that Y is equal to 0 if P of
+ 
+
+00:09:19.350 --> 00:09:21.260 align:start position:0%
+predicting that Y is equal to 0 if P of
+X<00:09:19.589><c> was</c><00:09:19.740><c> greater</c><00:09:19.980><c> than</c><00:09:20.250><c> or</c><00:09:20.459><c> equal</c><00:09:20.610><c> to</c><00:09:20.910><c> Epsilon</c>
+
+00:09:21.260 --> 00:09:21.270 align:start position:0%
+X was greater than or equal to Epsilon
+ 
+
+00:09:21.270 --> 00:09:22.590 align:start position:0%
+X was greater than or equal to Epsilon
+so<00:09:21.450><c> predicting</c><00:09:22.050><c> does</c><00:09:22.230><c> in</c>
+
+00:09:22.590 --> 00:09:22.600 align:start position:0%
+so predicting does in
+ 
+
+00:09:22.600 --> 00:09:25.590 align:start position:0%
+so predicting does in
+all<00:09:23.160><c> example</c><00:09:24.160><c> if</c><00:09:24.339><c> the</c><00:09:24.550><c> P</c><00:09:24.790><c> of</c><00:09:24.819><c> X</c><00:09:25.029><c> is</c><00:09:25.329><c> this</c>
+
+00:09:25.590 --> 00:09:25.600 align:start position:0%
+all example if the P of X is this
+ 
+
+00:09:25.600 --> 00:09:28.920 align:start position:0%
+all example if the P of X is this
+reasonably<00:09:26.290><c> large</c><00:09:26.560><c> and</c><00:09:26.949><c> so</c><00:09:27.699><c> we</c><00:09:28.420><c> can</c><00:09:28.569><c> now</c><00:09:28.600><c> think</c>
+
+00:09:28.920 --> 00:09:28.930 align:start position:0%
+reasonably large and so we can now think
+ 
+
+00:09:28.930 --> 00:09:30.629 align:start position:0%
+reasonably large and so we can now think
+of<00:09:29.019><c> the</c><00:09:29.170><c> anomaly</c><00:09:29.560><c> detection</c><00:09:29.889><c> algorithm</c><00:09:30.250><c> as</c>
+
+00:09:30.629 --> 00:09:30.639 align:start position:0%
+of the anomaly detection algorithm as
+ 
+
+00:09:30.639 --> 00:09:32.370 align:start position:0%
+of the anomaly detection algorithm as
+making<00:09:30.970><c> predictions</c><00:09:31.389><c> for</c><00:09:31.959><c> what</c><00:09:32.019><c> are</c><00:09:32.290><c> the</c>
+
+00:09:32.370 --> 00:09:32.380 align:start position:0%
+making predictions for what are the
+ 
+
+00:09:32.380 --> 00:09:35.280 align:start position:0%
+making predictions for what are the
+values<00:09:32.800><c> of</c><00:09:32.829><c> these</c><00:09:33.279><c> Y</c><00:09:33.610><c> labels</c><00:09:34.240><c> in</c><00:09:34.569><c> the</c><00:09:34.600><c> test</c><00:09:35.079><c> set</c>
+
+00:09:35.280 --> 00:09:35.290 align:start position:0%
+values of these Y labels in the test set
+ 
+
+00:09:35.290 --> 00:09:37.829 align:start position:0%
+values of these Y labels in the test set
+or<00:09:35.500><c> on</c><00:09:35.769><c> the</c><00:09:35.980><c> cross</c><00:09:36.190><c> validation</c><00:09:36.220><c> set</c><00:09:36.940><c> and</c><00:09:37.149><c> this</c>
+
+00:09:37.829 --> 00:09:37.839 align:start position:0%
+or on the cross validation set and this
+ 
+
+00:09:37.839 --> 00:09:39.930 align:start position:0%
+or on the cross validation set and this
+puts<00:09:38.079><c> us</c><00:09:38.259><c> somewhat</c><00:09:38.980><c> most</c><00:09:39.160><c> similar</c><00:09:39.430><c> to</c><00:09:39.639><c> the</c>
+
+00:09:39.930 --> 00:09:39.940 align:start position:0%
+puts us somewhat most similar to the
+ 
+
+00:09:39.940 --> 00:09:41.970 align:start position:0%
+puts us somewhat most similar to the
+supervised<00:09:40.660><c> learning</c><00:09:40.690><c> setting</c><00:09:41.589><c> right</c><00:09:41.769><c> where</c>
+
+00:09:41.970 --> 00:09:41.980 align:start position:0%
+supervised learning setting right where
+ 
+
+00:09:41.980 --> 00:09:43.860 align:start position:0%
+supervised learning setting right where
+we<00:09:42.100><c> have</c><00:09:42.279><c> like</c><00:09:42.490><c> a</c><00:09:42.519><c> label</c><00:09:42.790><c> test</c><00:09:43.180><c> set</c><00:09:43.389><c> and</c><00:09:43.630><c> our</c>
+
+00:09:43.860 --> 00:09:43.870 align:start position:0%
+we have like a label test set and our
+ 
+
+00:09:43.870 --> 00:09:45.780 align:start position:0%
+we have like a label test set and our
+algorithm<00:09:44.560><c> is</c><00:09:44.649><c> making</c><00:09:44.980><c> predictions</c><00:09:45.250><c> on</c><00:09:45.639><c> these</c>
+
+00:09:45.780 --> 00:09:45.790 align:start position:0%
+algorithm is making predictions on these
+ 
+
+00:09:45.790 --> 00:09:48.569 align:start position:0%
+algorithm is making predictions on these
+labels<00:09:46.269><c> and</c><00:09:46.480><c> so</c><00:09:46.660><c> we</c><00:09:46.779><c> can</c><00:09:46.930><c> evaluate</c><00:09:47.620><c> it</c><00:09:48.160><c> you</c>
+
+00:09:48.569 --> 00:09:48.579 align:start position:0%
+labels and so we can evaluate it you
+ 
+
+00:09:48.579 --> 00:09:50.579 align:start position:0%
+labels and so we can evaluate it you
+know<00:09:48.639><c> by</c><00:09:48.790><c> seeing</c><00:09:49.000><c> how</c><00:09:49.209><c> often</c><00:09:49.690><c> they</c><00:09:50.050><c> get</c><00:09:50.319><c> these</c>
+
+00:09:50.579 --> 00:09:50.589 align:start position:0%
+know by seeing how often they get these
+ 
+
+00:09:50.589 --> 00:09:53.910 align:start position:0%
+know by seeing how often they get these
+labels<00:09:51.040><c> right</c><00:09:51.540><c> of</c><00:09:52.540><c> course</c><00:09:52.750><c> these</c><00:09:53.199><c> labels</c><00:09:53.620><c> are</c>
+
+00:09:53.910 --> 00:09:53.920 align:start position:0%
+labels right of course these labels are
+ 
+
+00:09:53.920 --> 00:09:56.579 align:start position:0%
+labels right of course these labels are
+alone<00:09:54.190><c> will</c><00:09:54.730><c> be</c><00:09:54.850><c> very</c><00:09:55.180><c> skewed</c><00:09:55.540><c> because</c><00:09:55.810><c> y</c>
+
+00:09:56.579 --> 00:09:56.589 align:start position:0%
+alone will be very skewed because y
+ 
+
+00:09:56.589 --> 00:09:59.850 align:start position:0%
+alone will be very skewed because y
+equals<00:09:57.069><c> 0</c><00:09:57.399><c> that</c><00:09:57.670><c> is</c><00:09:57.850><c> normal</c><00:09:58.329><c> examples</c><00:09:58.930><c> will</c>
+
+00:09:59.850 --> 00:09:59.860 align:start position:0%
+equals 0 that is normal examples will
+ 
+
+00:09:59.860 --> 00:10:02.220 align:start position:0%
+equals 0 that is normal examples will
+you'd<00:10:00.009><c> be</c><00:10:00.250><c> much</c><00:10:00.730><c> more</c><00:10:00.910><c> common</c><00:10:01.389><c> than</c><00:10:01.420><c> Y</c><00:10:01.899><c> equals</c>
+
+00:10:02.220 --> 00:10:02.230 align:start position:0%
+you'd be much more common than Y equals
+ 
+
+00:10:02.230 --> 00:10:04.860 align:start position:0%
+you'd be much more common than Y equals
+1<00:10:02.529><c> then</c><00:10:02.920><c> anomalous</c><00:10:03.550><c> examples</c><00:10:04.060><c> but</c><00:10:04.329><c> you</c><00:10:04.750><c> know</c>
+
+00:10:04.860 --> 00:10:04.870 align:start position:0%
+1 then anomalous examples but you know
+ 
+
+00:10:04.870 --> 00:10:06.900 align:start position:0%
+1 then anomalous examples but you know
+this<00:10:05.139><c> is</c><00:10:05.290><c> much</c><00:10:05.560><c> closer</c><00:10:05.860><c> to</c><00:10:06.130><c> the</c><00:10:06.490><c> source</c><00:10:06.670><c> of</c>
+
+00:10:06.900 --> 00:10:06.910 align:start position:0%
+this is much closer to the source of
+ 
+
+00:10:06.910 --> 00:10:08.999 align:start position:0%
+this is much closer to the source of
+evaluation<00:10:07.720><c> metrics</c><00:10:08.079><c> we</c><00:10:08.230><c> can</c><00:10:08.380><c> use</c><00:10:08.560><c> in</c>
+
+00:10:08.999 --> 00:10:09.009 align:start position:0%
+evaluation metrics we can use in
+ 
+
+00:10:09.009 --> 00:10:11.560 align:start position:0%
+evaluation metrics we can use in
+supervised<00:10:09.639><c> learning</c>
+
+00:10:11.560 --> 00:10:11.570 align:start position:0%
+supervised learning
+ 
+
+00:10:11.570 --> 00:10:14.480 align:start position:0%
+supervised learning
+so<00:10:12.570><c> what's</c><00:10:12.990><c> a</c><00:10:13.110><c> good</c><00:10:13.260><c> evaluation</c><00:10:13.560><c> metric</c><00:10:14.340><c> to</c>
+
+00:10:14.480 --> 00:10:14.490 align:start position:0%
+so what's a good evaluation metric to
+ 
+
+00:10:14.490 --> 00:10:17.810 align:start position:0%
+so what's a good evaluation metric to
+use<00:10:14.670><c> well</c><00:10:15.000><c> because</c><00:10:15.390><c> the</c><00:10:16.350><c> data</c><00:10:17.190><c> because</c>
+
+00:10:17.810 --> 00:10:17.820 align:start position:0%
+use well because the data because
+ 
+
+00:10:17.820 --> 00:10:19.760 align:start position:0%
+use well because the data because
+because<00:10:18.420><c> the</c><00:10:18.510><c> data</c><00:10:18.720><c> is</c><00:10:18.930><c> very</c><00:10:19.050><c> skewed</c><00:10:19.529><c> because</c>
+
+00:10:19.760 --> 00:10:19.770 align:start position:0%
+because the data is very skewed because
+ 
+
+00:10:19.770 --> 00:10:21.700 align:start position:0%
+because the data is very skewed because
+y<00:10:20.070><c> equals</c><00:10:20.370><c> zero</c><00:10:20.700><c> was</c><00:10:20.880><c> much</c><00:10:21.060><c> more</c><00:10:21.210><c> common</c>
+
+00:10:21.700 --> 00:10:21.710 align:start position:0%
+y equals zero was much more common
+ 
+
+00:10:21.710 --> 00:10:24.140 align:start position:0%
+y equals zero was much more common
+classification<00:10:22.710><c> accuracy</c><00:10:23.520><c> would</c><00:10:23.700><c> not</c><00:10:23.940><c> be</c><00:10:24.120><c> a</c>
+
+00:10:24.140 --> 00:10:24.150 align:start position:0%
+classification accuracy would not be a
+ 
+
+00:10:24.150 --> 00:10:25.850 align:start position:0%
+classification accuracy would not be a
+good<00:10:24.360><c> evaluation</c><00:10:24.600><c> metric</c><00:10:25.320><c> so</c><00:10:25.500><c> if</c><00:10:25.560><c> we</c><00:10:25.650><c> talked</c>
+
+00:10:25.850 --> 00:10:25.860 align:start position:0%
+good evaluation metric so if we talked
+ 
+
+00:10:25.860 --> 00:10:28.880 align:start position:0%
+good evaluation metric so if we talked
+about<00:10:26.040><c> this</c><00:10:26.190><c> in</c><00:10:26.340><c> the</c><00:10:26.430><c> earlier</c><00:10:26.790><c> video</c><00:10:27.440><c> so</c><00:10:28.440><c> if</c>
+
+00:10:28.880 --> 00:10:28.890 align:start position:0%
+about this in the earlier video so if
+ 
+
+00:10:28.890 --> 00:10:30.950 align:start position:0%
+about this in the earlier video so if
+you<00:10:28.950><c> have</c><00:10:29.130><c> a</c><00:10:29.190><c> very</c><00:10:29.400><c> skewed</c><00:10:29.670><c> data</c><00:10:29.880><c> set</c><00:10:30.270><c> then</c>
+
+00:10:30.950 --> 00:10:30.960 align:start position:0%
+you have a very skewed data set then
+ 
+
+00:10:30.960 --> 00:10:33.500 align:start position:0%
+you have a very skewed data set then
+predicting<00:10:31.740><c> y</c><00:10:31.890><c> equals</c><00:10:31.920><c> 0</c><00:10:32.520><c> all</c><00:10:32.550><c> the</c><00:10:32.790><c> time</c><00:10:33.029><c> we</c>
+
+00:10:33.500 --> 00:10:33.510 align:start position:0%
+predicting y equals 0 all the time we
+ 
+
+00:10:33.510 --> 00:10:35.140 align:start position:0%
+predicting y equals 0 all the time we
+have<00:10:33.660><c> very</c><00:10:33.839><c> high</c><00:10:33.900><c> classification</c><00:10:34.500><c> accuracy</c>
+
+00:10:35.140 --> 00:10:35.150 align:start position:0%
+have very high classification accuracy
+ 
+
+00:10:35.150 --> 00:10:37.790 align:start position:0%
+have very high classification accuracy
+instead<00:10:36.150><c> we</c><00:10:36.480><c> should</c><00:10:36.510><c> use</c><00:10:36.779><c> evaluation</c><00:10:37.380><c> metrics</c>
+
+00:10:37.790 --> 00:10:37.800 align:start position:0%
+instead we should use evaluation metrics
+ 
+
+00:10:37.800 --> 00:10:39.890 align:start position:0%
+instead we should use evaluation metrics
+like<00:10:37.950><c> computing</c><00:10:38.610><c> the</c><00:10:38.910><c> fraction</c><00:10:39.480><c> of</c><00:10:39.690><c> true</c>
+
+00:10:39.890 --> 00:10:39.900 align:start position:0%
+like computing the fraction of true
+ 
+
+00:10:39.900 --> 00:10:41.210 align:start position:0%
+like computing the fraction of true
+positives<00:10:40.080><c> false</c><00:10:40.529><c> positives</c><00:10:41.070><c> false</c>
+
+00:10:41.210 --> 00:10:41.220 align:start position:0%
+positives false positives false
+ 
+
+00:10:41.220 --> 00:10:42.829 align:start position:0%
+positives false positives false
+negatives<00:10:41.339><c> true</c><00:10:41.850><c> negatives</c><00:10:42.270><c> a</c><00:10:42.480><c> few</c><00:10:42.660><c> things</c>
+
+00:10:42.829 --> 00:10:42.839 align:start position:0%
+negatives true negatives a few things
+ 
+
+00:10:42.839 --> 00:10:44.990 align:start position:0%
+negatives true negatives a few things
+about<00:10:42.960><c> while</c><00:10:43.710><c> computer</c><00:10:44.190><c> the</c><00:10:44.460><c> precision</c><00:10:44.880><c> and</c>
+
+00:10:44.990 --> 00:10:45.000 align:start position:0%
+about while computer the precision and
+ 
+
+00:10:45.000 --> 00:10:47.630 align:start position:0%
+about while computer the precision and
+recall<00:10:45.089><c> of</c><00:10:45.450><c> this</c><00:10:45.600><c> algorithm</c><00:10:46.250><c> to</c><00:10:47.250><c> things</c><00:10:47.460><c> like</c>
+
+00:10:47.630 --> 00:10:47.640 align:start position:0%
+recall of this algorithm to things like
+ 
+
+00:10:47.640 --> 00:10:50.329 align:start position:0%
+recall of this algorithm to things like
+compute<00:10:48.360><c> e</c><00:10:48.450><c> f1</c><00:10:48.900><c> score</c><00:10:49.110><c> right</c><00:10:49.470><c> what</c><00:10:49.710><c> you</c><00:10:49.950><c> they</c>
+
+00:10:50.329 --> 00:10:50.339 align:start position:0%
+compute e f1 score right what you they
+ 
+
+00:10:50.339 --> 00:10:51.800 align:start position:0%
+compute e f1 score right what you they
+say<00:10:50.520><c> single</c><00:10:50.880><c> real</c><00:10:51.060><c> number</c><00:10:51.089><c> way</c><00:10:51.570><c> of</c>
+
+00:10:51.800 --> 00:10:51.810 align:start position:0%
+say single real number way of
+ 
+
+00:10:51.810 --> 00:10:53.960 align:start position:0%
+say single real number way of
+summarizing<00:10:52.200><c> the</c><00:10:52.710><c> position</c><00:10:53.190><c> and</c><00:10:53.400><c> the</c><00:10:53.580><c> recall</c>
+
+00:10:53.960 --> 00:10:53.970 align:start position:0%
+summarizing the position and the recall
+ 
+
+00:10:53.970 --> 00:10:55.910 align:start position:0%
+summarizing the position and the recall
+members<00:10:54.360><c> and</c><00:10:54.540><c> so</c><00:10:54.630><c> these</c><00:10:54.810><c> would</c><00:10:55.020><c> be</c><00:10:55.110><c> ways</c><00:10:55.290><c> to</c>
+
+00:10:55.910 --> 00:10:55.920 align:start position:0%
+members and so these would be ways to
+ 
+
+00:10:55.920 --> 00:10:57.620 align:start position:0%
+members and so these would be ways to
+evaluate<00:10:56.010><c> an</c><00:10:56.550><c> anomaly</c><00:10:56.670><c> detection</c><00:10:57.270><c> algorithm</c>
+
+00:10:57.620 --> 00:10:57.630 align:start position:0%
+evaluate an anomaly detection algorithm
+ 
+
+00:10:57.630 --> 00:10:59.810 align:start position:0%
+evaluate an anomaly detection algorithm
+on<00:10:58.080><c> your</c><00:10:58.230><c> cross-validation</c><00:10:58.470><c> sets</c><00:10:59.310><c> or</c><00:10:59.520><c> on</c><00:10:59.640><c> your</c>
+
+00:10:59.810 --> 00:10:59.820 align:start position:0%
+on your cross-validation sets or on your
+ 
+
+00:10:59.820 --> 00:11:03.740 align:start position:0%
+on your cross-validation sets or on your
+test<00:11:00.029><c> phase</c><00:11:01.070><c> finally</c><00:11:02.070><c> earlier</c><00:11:02.580><c> in</c><00:11:03.240><c> in</c><00:11:03.450><c> the</c>
+
+00:11:03.740 --> 00:11:03.750 align:start position:0%
+test phase finally earlier in in the
+ 
+
+00:11:03.750 --> 00:11:05.750 align:start position:0%
+test phase finally earlier in in the
+anomaly<00:11:04.140><c> detection</c><00:11:04.440><c> algorithm</c><00:11:04.770><c> we</c><00:11:05.220><c> also</c><00:11:05.400><c> had</c>
+
+00:11:05.750 --> 00:11:05.760 align:start position:0%
+anomaly detection algorithm we also had
+ 
+
+00:11:05.760 --> 00:11:07.880 align:start position:0%
+anomaly detection algorithm we also had
+this<00:11:05.910><c> parameter</c><00:11:06.570><c> epsilon</c><00:11:07.200><c> and</c><00:11:07.470><c> so</c><00:11:07.680><c> epsilon</c>
+
+00:11:07.880 --> 00:11:07.890 align:start position:0%
+this parameter epsilon and so epsilon
+ 
+
+00:11:07.890 --> 00:11:11.300 align:start position:0%
+this parameter epsilon and so epsilon
+was<00:11:08.430><c> this</c><00:11:08.660><c> threshold</c><00:11:09.660><c> that</c><00:11:09.960><c> we</c><00:11:10.110><c> would</c><00:11:10.290><c> use</c><00:11:10.560><c> to</c>
+
+00:11:11.300 --> 00:11:11.310 align:start position:0%
+was this threshold that we would use to
+ 
+
+00:11:11.310 --> 00:11:13.490 align:start position:0%
+was this threshold that we would use to
+decide<00:11:11.670><c> when</c><00:11:12.000><c> to</c><00:11:12.210><c> flag</c><00:11:12.510><c> something</c><00:11:13.080><c> as</c><00:11:13.290><c> an</c>
+
+00:11:13.490 --> 00:11:13.500 align:start position:0%
+decide when to flag something as an
+ 
+
+00:11:13.500 --> 00:11:17.090 align:start position:0%
+decide when to flag something as an
+anomaly<00:11:13.830><c> and</c><00:11:14.460><c> so</c><00:11:15.150><c> if</c><00:11:15.720><c> you</c><00:11:16.050><c> have</c><00:11:16.800><c> a</c><00:11:16.830><c> cross</c>
+
+00:11:17.090 --> 00:11:17.100 align:start position:0%
+anomaly and so if you have a cross
+ 
+
+00:11:17.100 --> 00:11:19.250 align:start position:0%
+anomaly and so if you have a cross
+validation<00:11:17.580><c> set</c><00:11:17.910><c> another</c><00:11:18.330><c> way</c><00:11:18.540><c> that</c><00:11:18.900><c> one</c><00:11:19.080><c> way</c>
+
+00:11:19.250 --> 00:11:19.260 align:start position:0%
+validation set another way that one way
+ 
+
+00:11:19.260 --> 00:11:21.770 align:start position:0%
+validation set another way that one way
+to<00:11:19.320><c> choose</c><00:11:19.650><c> this</c><00:11:19.800><c> parameter</c><00:11:20.339><c> epsilon</c><00:11:21.180><c> would</c>
+
+00:11:21.770 --> 00:11:21.780 align:start position:0%
+to choose this parameter epsilon would
+ 
+
+00:11:21.780 --> 00:11:24.680 align:start position:0%
+to choose this parameter epsilon would
+be<00:11:21.960><c> to</c><00:11:22.200><c> try</c><00:11:22.589><c> a</c><00:11:22.620><c> different</c><00:11:23.060><c> try</c><00:11:24.060><c> many</c><00:11:24.300><c> different</c>
+
+00:11:24.680 --> 00:11:24.690 align:start position:0%
+be to try a different try many different
+ 
+
+00:11:24.690 --> 00:11:26.960 align:start position:0%
+be to try a different try many different
+values<00:11:24.839><c> of</c><00:11:25.290><c> epsilon</c><00:11:25.410><c> and</c><00:11:25.950><c> then</c><00:11:26.550><c> pick</c><00:11:26.790><c> the</c>
+
+00:11:26.960 --> 00:11:26.970 align:start position:0%
+values of epsilon and then pick the
+ 
+
+00:11:26.970 --> 00:11:28.600 align:start position:0%
+values of epsilon and then pick the
+value<00:11:27.089><c> of</c><00:11:27.360><c> epsilon</c><00:11:27.540><c> that</c><00:11:28.140><c> let's</c><00:11:28.410><c> say</c>
+
+00:11:28.600 --> 00:11:28.610 align:start position:0%
+value of epsilon that let's say
+ 
+
+00:11:28.610 --> 00:11:31.180 align:start position:0%
+value of epsilon that let's say
+maximizes<00:11:29.610><c> f1</c><00:11:30.060><c> score</c><00:11:30.180><c> that</c>
+
+00:11:31.180 --> 00:11:31.190 align:start position:0%
+maximizes f1 score that
+ 
+
+00:11:31.190 --> 00:11:33.220 align:start position:0%
+maximizes f1 score that
+or<00:11:31.759><c> that</c><00:11:31.970><c> otherwise</c><00:11:32.329><c> does</c><00:11:32.660><c> well</c><00:11:32.930><c> on</c><00:11:33.139><c> your</c>
+
+00:11:33.220 --> 00:11:33.230 align:start position:0%
+or that otherwise does well on your
+ 
+
+00:11:33.230 --> 00:11:36.129 align:start position:0%
+or that otherwise does well on your
+cross-validation<00:11:33.529><c> set</c><00:11:34.399><c> and</c><00:11:34.819><c> more</c><00:11:35.569><c> generally</c>
+
+00:11:36.129 --> 00:11:36.139 align:start position:0%
+cross-validation set and more generally
+ 
+
+00:11:36.139 --> 00:11:38.769 align:start position:0%
+cross-validation set and more generally
+the<00:11:36.350><c> way</c><00:11:36.949><c> to</c><00:11:37.009><c> use</c><00:11:37.550><c> the</c><00:11:37.730><c> training</c><00:11:38.180><c> testing</c><00:11:38.629><c> and</c>
+
+00:11:38.769 --> 00:11:38.779 align:start position:0%
+the way to use the training testing and
+ 
+
+00:11:38.779 --> 00:11:42.069 align:start position:0%
+the way to use the training testing and
+cross-validation<00:11:39.139><c> sets</c><00:11:39.800><c> is</c><00:11:40.069><c> that</c><00:11:40.930><c> when</c><00:11:41.930><c> we're</c>
+
+00:11:42.069 --> 00:11:42.079 align:start position:0%
+cross-validation sets is that when we're
+ 
+
+00:11:42.079 --> 00:11:43.990 align:start position:0%
+cross-validation sets is that when we're
+trying<00:11:42.199><c> to</c><00:11:42.379><c> make</c><00:11:43.009><c> decisions</c><00:11:43.519><c> like</c><00:11:43.639><c> what</c>
+
+00:11:43.990 --> 00:11:44.000 align:start position:0%
+trying to make decisions like what
+ 
+
+00:11:44.000 --> 00:11:46.210 align:start position:0%
+trying to make decisions like what
+features<00:11:44.420><c> to</c><00:11:44.449><c> include</c><00:11:44.690><c> or</c><00:11:45.290><c> trying</c><00:11:45.740><c> to</c><00:11:45.889><c> you</c>
+
+00:11:46.210 --> 00:11:46.220 align:start position:0%
+features to include or trying to you
+ 
+
+00:11:46.220 --> 00:11:48.160 align:start position:0%
+features to include or trying to you
+know<00:11:46.250><c> tune</c><00:11:46.519><c> the</c><00:11:46.639><c> parameter</c><00:11:47.120><c> epsilon</c><00:11:47.480><c> we</c><00:11:47.990><c> would</c>
+
+00:11:48.160 --> 00:11:48.170 align:start position:0%
+know tune the parameter epsilon we would
+ 
+
+00:11:48.170 --> 00:11:51.429 align:start position:0%
+know tune the parameter epsilon we would
+then<00:11:48.350><c> continually</c><00:11:49.089><c> evaluate</c><00:11:50.089><c> the</c><00:11:50.959><c> algorithm</c>
+
+00:11:51.429 --> 00:11:51.439 align:start position:0%
+then continually evaluate the algorithm
+ 
+
+00:11:51.439 --> 00:11:53.290 align:start position:0%
+then continually evaluate the algorithm
+on<00:11:51.620><c> the</c><00:11:51.740><c> cross-validation</c><00:11:51.980><c> set</c><00:11:52.790><c> to</c><00:11:52.939><c> make</c><00:11:53.180><c> all</c>
+
+00:11:53.290 --> 00:11:53.300 align:start position:0%
+on the cross-validation set to make all
+ 
+
+00:11:53.300 --> 00:11:54.670 align:start position:0%
+on the cross-validation set to make all
+those<00:11:53.480><c> decisions</c><00:11:53.540><c> like</c><00:11:54.170><c> what</c><00:11:54.319><c> features</c><00:11:54.649><c> to</c>
+
+00:11:54.670 --> 00:11:54.680 align:start position:0%
+those decisions like what features to
+ 
+
+00:11:54.680 --> 00:11:58.090 align:start position:0%
+those decisions like what features to
+use<00:11:54.829><c> on</c><00:11:55.790><c> the</c><00:11:55.879><c> set</c><00:11:56.029><c> epsilon</c><00:11:56.180><c> use</c><00:11:56.959><c> that</c><00:11:57.230><c> evaluate</c>
+
+00:11:58.090 --> 00:11:58.100 align:start position:0%
+use on the set epsilon use that evaluate
+ 
+
+00:11:58.100 --> 00:11:59.470 align:start position:0%
+use on the set epsilon use that evaluate
+the<00:11:58.279><c> algorithm</c><00:11:58.730><c> on</c><00:11:59.149><c> the</c><00:11:59.269><c> cross-validation</c>
+
+00:11:59.470 --> 00:11:59.480 align:start position:0%
+the algorithm on the cross-validation
+ 
+
+00:11:59.480 --> 00:12:01.960 align:start position:0%
+the algorithm on the cross-validation
+set<00:12:00.139><c> and</c><00:12:00.500><c> then</c><00:12:00.740><c> when</c><00:12:00.920><c> we've</c><00:12:01.069><c> picked</c><00:12:01.519><c> a</c><00:12:01.670><c> set</c><00:12:01.850><c> of</c>
+
+00:12:01.960 --> 00:12:01.970 align:start position:0%
+set and then when we've picked a set of
+ 
+
+00:12:01.970 --> 00:12:03.939 align:start position:0%
+set and then when we've picked a set of
+features<00:12:02.569><c> where</c><00:12:02.930><c> we've</c><00:12:03.079><c> found</c><00:12:03.470><c> the</c><00:12:03.589><c> value</c><00:12:03.889><c> of</c>
+
+00:12:03.939 --> 00:12:03.949 align:start position:0%
+features where we've found the value of
+ 
+
+00:12:03.949 --> 00:12:05.530 align:start position:0%
+features where we've found the value of
+epsilon<00:12:04.069><c> they</c><00:12:04.370><c> were</c><00:12:04.490><c> happy</c><00:12:04.819><c> work</c><00:12:05.029><c> we</c><00:12:05.240><c> can</c><00:12:05.389><c> then</c>
+
+00:12:05.530 --> 00:12:05.540 align:start position:0%
+epsilon they were happy work we can then
+ 
+
+00:12:05.540 --> 00:12:08.470 align:start position:0%
+epsilon they were happy work we can then
+take<00:12:05.720><c> the</c><00:12:05.839><c> final</c><00:12:06.230><c> model</c><00:12:06.379><c> and</c><00:12:06.850><c> evaluate</c><00:12:07.850><c> it</c><00:12:08.029><c> you</c>
+
+00:12:08.470 --> 00:12:08.480 align:start position:0%
+take the final model and evaluate it you
+ 
+
+00:12:08.480 --> 00:12:10.059 align:start position:0%
+take the final model and evaluate it you
+know<00:12:08.540><c> do</c><00:12:08.720><c> the</c><00:12:08.839><c> final</c><00:12:09.050><c> evaluation</c><00:12:09.379><c> of</c><00:12:09.949><c> the</c>
+
+00:12:10.059 --> 00:12:10.069 align:start position:0%
+know do the final evaluation of the
+ 
+
+00:12:10.069 --> 00:12:13.420 align:start position:0%
+know do the final evaluation of the
+algorithm<00:12:10.550><c> the</c><00:12:11.180><c> test</c><00:12:11.420><c> set</c><00:12:11.800><c> so</c><00:12:12.800><c> in</c><00:12:13.129><c> this</c><00:12:13.250><c> video</c>
+
+00:12:13.420 --> 00:12:13.430 align:start position:0%
+algorithm the test set so in this video
+ 
+
+00:12:13.430 --> 00:12:15.490 align:start position:0%
+algorithm the test set so in this video
+we<00:12:13.879><c> talked</c><00:12:14.149><c> about</c><00:12:14.269><c> the</c><00:12:14.449><c> process</c><00:12:14.810><c> of</c><00:12:15.290><c> how</c><00:12:15.470><c> to</c>
+
+00:12:15.490 --> 00:12:15.500 align:start position:0%
+we talked about the process of how to
+ 
+
+00:12:15.500 --> 00:12:18.340 align:start position:0%
+we talked about the process of how to
+evaluate<00:12:16.160><c> an</c><00:12:16.790><c> anomaly</c><00:12:17.149><c> detection</c><00:12:17.930><c> algorithm</c>
+
+00:12:18.340 --> 00:12:18.350 align:start position:0%
+evaluate an anomaly detection algorithm
+ 
+
+00:12:18.350 --> 00:12:21.160 align:start position:0%
+evaluate an anomaly detection algorithm
+and<00:12:18.800><c> again</c><00:12:19.240><c> having</c><00:12:20.240><c> been</c><00:12:20.449><c> able</c><00:12:20.600><c> to</c><00:12:20.750><c> evaluate</c>
+
+00:12:21.160 --> 00:12:21.170 align:start position:0%
+and again having been able to evaluate
+ 
+
+00:12:21.170 --> 00:12:23.470 align:start position:0%
+and again having been able to evaluate
+an<00:12:21.529><c> algorithm</c><00:12:21.980><c> you</c><00:12:22.459><c> know</c><00:12:22.519><c> with</c><00:12:22.639><c> a</c><00:12:22.759><c> single</c><00:12:23.240><c> real</c>
+
+00:12:23.470 --> 00:12:23.480 align:start position:0%
+an algorithm you know with a single real
+ 
+
+00:12:23.480 --> 00:12:25.480 align:start position:0%
+an algorithm you know with a single real
+number<00:12:23.509><c> evaluation</c><00:12:23.870><c> or</c><00:12:24.829><c> the</c><00:12:24.920><c> number</c><00:12:25.250><c> like</c><00:12:25.399><c> an</c>
+
+00:12:25.480 --> 00:12:25.490 align:start position:0%
+number evaluation or the number like an
+ 
+
+00:12:25.490 --> 00:12:27.999 align:start position:0%
+number evaluation or the number like an
+f1<00:12:25.850><c> school</c><00:12:26.120><c> that</c><00:12:26.689><c> often</c><00:12:27.050><c> allows</c><00:12:27.350><c> you</c><00:12:27.620><c> to</c><00:12:27.829><c> make</c>
+
+00:12:27.999 --> 00:12:28.009 align:start position:0%
+f1 school that often allows you to make
+ 
+
+00:12:28.009 --> 00:12:30.100 align:start position:0%
+f1 school that often allows you to make
+much<00:12:28.279><c> much</c><00:12:28.939><c> more</c><00:12:29.120><c> efficient</c><00:12:29.660><c> use</c><00:12:29.930><c> of</c><00:12:29.959><c> your</c>
+
+00:12:30.100 --> 00:12:30.110 align:start position:0%
+much much more efficient use of your
+ 
+
+00:12:30.110 --> 00:12:32.170 align:start position:0%
+much much more efficient use of your
+time<00:12:30.319><c> when</c><00:12:31.069><c> you're</c><00:12:31.160><c> trying</c><00:12:31.459><c> to</c><00:12:31.579><c> develop</c><00:12:31.759><c> an</c>
+
+00:12:32.170 --> 00:12:32.180 align:start position:0%
+time when you're trying to develop an
+ 
+
+00:12:32.180 --> 00:12:34.150 align:start position:0%
+time when you're trying to develop an
+anomaly<00:12:32.629><c> detection</c><00:12:33.170><c> system</c><00:12:33.649><c> when</c><00:12:34.069><c> we're</c>
+
+00:12:34.150 --> 00:12:34.160 align:start position:0%
+anomaly detection system when we're
+ 
+
+00:12:34.160 --> 00:12:35.259 align:start position:0%
+anomaly detection system when we're
+trying<00:12:34.339><c> to</c><00:12:34.430><c> make</c><00:12:34.550><c> these</c><00:12:34.699><c> sorts</c><00:12:34.939><c> of</c><00:12:34.970><c> decisions</c>
+
+00:12:35.259 --> 00:12:35.269 align:start position:0%
+trying to make these sorts of decisions
+ 
+
+00:12:35.269 --> 00:12:37.179 align:start position:0%
+trying to make these sorts of decisions
+that<00:12:35.540><c> constitutes</c><00:12:36.050><c> epsilon</c><00:12:36.500><c> what</c><00:12:36.800><c> features</c>
+
+00:12:37.179 --> 00:12:37.189 align:start position:0%
+that constitutes epsilon what features
+ 
+
+00:12:37.189 --> 00:12:39.939 align:start position:0%
+that constitutes epsilon what features
+to<00:12:37.220><c> include</c><00:12:37.639><c> and</c><00:12:37.819><c> so</c><00:12:37.939><c> on</c><00:12:38.149><c> in</c><00:12:39.110><c> this</c><00:12:39.350><c> video</c><00:12:39.560><c> we</c>
+
+00:12:39.939 --> 00:12:39.949 align:start position:0%
+to include and so on in this video we
+ 
+
+00:12:39.949 --> 00:12:42.220 align:start position:0%
+to include and so on in this video we
+started<00:12:40.339><c> to</c><00:12:40.459><c> use</c><00:12:40.490><c> a</c><00:12:40.670><c> bit</c><00:12:40.970><c> of</c><00:12:41.000><c> label</c><00:12:41.509><c> data</c><00:12:41.779><c> in</c>
+
+00:12:42.220 --> 00:12:42.230 align:start position:0%
+started to use a bit of label data in
+ 
+
+00:12:42.230 --> 00:12:44.889 align:start position:0%
+started to use a bit of label data in
+order<00:12:42.680><c> to</c><00:12:42.980><c> evaluate</c><00:12:43.430><c> the</c><00:12:44.120><c> anomaly</c><00:12:44.569><c> detection</c>
+
+00:12:44.889 --> 00:12:44.899 align:start position:0%
+order to evaluate the anomaly detection
+ 
+
+00:12:44.899 --> 00:12:46.329 align:start position:0%
+order to evaluate the anomaly detection
+algorithm<00:12:45.290><c> this</c><00:12:45.680><c> takes</c><00:12:45.889><c> us</c><00:12:46.040><c> a</c><00:12:46.069><c> little</c><00:12:46.220><c> bit</c>
+
+00:12:46.329 --> 00:12:46.339 align:start position:0%
+algorithm this takes us a little bit
+ 
+
+00:12:46.339 --> 00:12:48.689 align:start position:0%
+algorithm this takes us a little bit
+closer<00:12:46.730><c> to</c><00:12:47.389><c> a</c><00:12:47.420><c> supervised</c><00:12:47.930><c> learning</c><00:12:47.959><c> setting</c>
+
+00:12:48.689 --> 00:12:48.699 align:start position:0%
+closer to a supervised learning setting
+ 
+
+00:12:48.699 --> 00:12:51.579 align:start position:0%
+closer to a supervised learning setting
+in<00:12:49.699><c> the</c><00:12:49.970><c> next</c><00:12:50.269><c> video</c><00:12:50.540><c> I'm</c><00:12:50.660><c> going</c><00:12:50.839><c> to</c><00:12:50.930><c> say</c><00:12:51.319><c> a</c><00:12:51.350><c> bit</c>
+
+00:12:51.579 --> 00:12:51.589 align:start position:0%
+in the next video I'm going to say a bit
+ 
+
+00:12:51.589 --> 00:12:53.319 align:start position:0%
+in the next video I'm going to say a bit
+more<00:12:51.800><c> about</c><00:12:51.949><c> that</c><00:12:52.009><c> and</c><00:12:52.519><c> in</c><00:12:52.790><c> particular</c><00:12:52.880><c> we'll</c>
+
+00:12:53.319 --> 00:12:53.329 align:start position:0%
+more about that and in particular we'll
+ 
+
+00:12:53.329 --> 00:12:55.420 align:start position:0%
+more about that and in particular we'll
+talk<00:12:53.360><c> about</c><00:12:53.630><c> when</c><00:12:54.230><c> should</c><00:12:54.470><c> you</c><00:12:54.529><c> be</c><00:12:54.829><c> using</c><00:12:54.860><c> an</c>
+
+00:12:55.420 --> 00:12:55.430 align:start position:0%
+talk about when should you be using an
+ 
+
+00:12:55.430 --> 00:12:57.160 align:start position:0%
+talk about when should you be using an
+anomaly<00:12:55.910><c> detection</c><00:12:55.939><c> algorithm</c><00:12:56.569><c> when</c><00:12:56.990><c> should</c>
+
+00:12:57.160 --> 00:12:57.170 align:start position:0%
+anomaly detection algorithm when should
+ 
+
+00:12:57.170 --> 00:12:59.110 align:start position:0%
+anomaly detection algorithm when should
+we<00:12:57.259><c> be</c><00:12:57.439><c> thinking</c><00:12:58.069><c> about</c><00:12:58.189><c> using</c><00:12:58.490><c> supervised</c>
+
+00:12:59.110 --> 00:12:59.120 align:start position:0%
+we be thinking about using supervised
+ 
+
+00:12:59.120 --> 00:13:00.490 align:start position:0%
+we be thinking about using supervised
+learning<00:12:59.149><c> instead</c><00:12:59.839><c> what</c><00:13:00.170><c> are</c><00:13:00.319><c> the</c>
+
+00:13:00.490 --> 00:13:00.500 align:start position:0%
+learning instead what are the
+ 
+
+00:13:00.500 --> 00:13:04.389 align:start position:0%
+learning instead what are the
+differences<00:13:00.949><c> between</c><00:13:01.220><c> these</c><00:13:01.639><c> two</c><00:13:01.880><c> formulas</c>
+

@@ -1,4 +1,4 @@
-from flask import flash, Flask, render_template, request
+from flask import flash, Flask, render_template, request, redirect
 from forms import QueryForm
 from flask_wtf.csrf import CSRFProtect
 import os, sys, houndify
@@ -8,6 +8,8 @@ from phrase_occurrences import find_occurrences
 app = Flask(__name__)
 app.config.from_pyfile('config.py', silent=True)
 csrf = CSRFProtect(app)
+
+search_string = ''
 
 SECRET_KEY = 'go bears'
 app.config['SECRET_KEY'] = SECRET_KEY
@@ -20,36 +22,31 @@ client = houndify.StreamingHoundClient(client_id, client_key, user_id, sampleRat
 def home():
     search = QueryForm(request.form)
     if request.method == 'POST':
-        if request.form['search'] == 'text':
-            search_string = request.form['query']
-            data = find_occurrences(search_string, "examples/andrew_ng/andrew_ng.json")
-            return render_template('index.html', form=search, name=search_string, data=data)
+        if request.form['search'] == "voice":
+            search_string = listen()
         else:
-            rec = sr.Recognizer()
-            with sr.Microphone() as source:
-                rec.adjust_for_ambient_noise(source)
-                app.logger.info("I'm listening...")
-                audio = rec.listen(source, phrase_time_limit=5)
-            search_string = rec.recognize_houndify(audio, client_id, client_key)
-            if search_string:
-                data = find_occurrences(search_string, "examples/andrew_ng/andrew_ng.json")
-                return render_template('index.html', form=search, name=search_string, data=data)
+            search_string = request.form['query']
+        return redirect('/'+search_string)
     return render_template('index.html', form=search)
 
-@app.route("/listen", methods=['POST'])
-def listen():
+@app.route('/<search_term>', methods=('GET', 'POST'))
+def results(search_term):
+    data = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
     search = QueryForm(request.form)
     if request.method == 'POST':
-        rec = sr.Recognizer()
-        with sr.Microphone() as source:
-            rec.adjust_for_ambient_noise(source)
-            app.logger.info("I'm listening...")
-            audio = rec.listen(source, phrase_time_limit=5)
-        search_string = rec.recognize_houndify(audio, client_id, client_key)
-        if search_string:
-            data = find_occurrences(search_string, "examples/andrew_ng/andrew_ng.json")
-            return render_template('index.html', form=search, name=search_string, data=data)
-    return render_template('index.html', form=search)
+        search_string = request.form['query']
+        return redirect('/'+search_string)
+    return render_template('index.html', form=search, name=search_term, data=data, showViewer=len(data)>0)
+
+def listen():
+    search = QueryForm(request.form)
+    rec = sr.Recognizer()
+    with sr.Microphone() as source:
+        rec.adjust_for_ambient_noise(source)
+        app.logger.info("I'm listening...")
+        audio = rec.listen(source, phrase_time_limit=5)
+    search_string = rec.recognize_houndify(audio, client_id, client_key)
+    return search_string
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -1,7 +1,7 @@
 import sys
 import json
 
-youtube = "https://youtu.be/"
+youtube = "https://www.youtube.com/embed/"
 
 """
 Searches the given formatted json file for key phrases
@@ -19,7 +19,7 @@ def find_occurrences(phrase, filename):
       for index in range(len(timestamps)):
           if phrase in video_data[timestamps[index]]:
             timestamp = timestamps[index] if index == 0 else timestamps[index - 1]
-            ret.append(youtube + video_code + "?t=" + timestamp)
+            ret.append(youtube + video_code + "?start=" + timestamp)
   return ret
 
 if __name__ == '__main__':

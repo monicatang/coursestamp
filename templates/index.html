@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script type=text/javascript>
+      function setYTClip(item) {
+          var id = $(item).attr("id");
+          $("iframe").attr("src", id);
+      }
+  </script>
   <head>
     <meta charset="utf-8">
     <title>coursestamp</title>
@@ -14,18 +21,33 @@
             <div class="input-group">
                 <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
                 <div class="input-group-append">
-                  <button class="btn btn-outline-secondary" type="submit" name="search" value="voice">Submit</button>
+                  <button class="btn btn-outline-secondary" type="submit" name="search" value="text">Submit</button>
                   <button type="submit" class="btn btn-success" name="search" value="voice">Voice Query</button>
                 </div>
             </div>
           </form>
+        {% if showViewer == true %}
+        <iframe width="560" height="315" src="{{data[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {% endif %}
         <br>
         
         <h3 style="padding:32px" class="title">{{ name }}</h3>
         {% for item in data %}
-            <p> {{ item }} </p>
+            <p id="{{item}}" onclick="setYTClip(this)"> {{ item }} </p>
         {% endfor %}
       </center>
     </div>
+    <div class='container'>
+        <h3>Test</h3>
+            <form>
+                <a id=test><button class='btn btn-default'>Test</button></a>
+            </form>
+    </div>
+    <!-- <div class='container'>
+        <h3>Test</h3>
+            <form>
+                <a href=# id=test2><button class='btn btn-default'>Test2</button></a>
+            </form>
+    </div> -->
   </body>
 </html>

@@ -5,3 +5,4 @@ class QueryForm(FlaskForm):
     """Query form."""
     query = TextField('Query')
     submit = SubmitField('Search')
+    test = SubmitField('Test')

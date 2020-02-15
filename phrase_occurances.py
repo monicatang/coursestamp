@@ -4,6 +4,7 @@ import json
 youtube = "https://youtu.be/"
 
 def find_occurances(phrase, filename):
+  ret = []
   with open(filename) as file:
     data = json.load(file)
     for video_code in data:
@@ -12,7 +13,8 @@ def find_occurances(phrase, filename):
       for index in range(len(timestamps)):
           if phrase in video_data[timestamps[index]]:
             timestamp = video_data[timestamps[index]] if index == 0 else timestamps[index - 1]
-            print(youtube + video_code + "?t=" + timestamp)
+            ret.append(youtube + video_code + "?t=" + timestamp)
+  return ret
 
 if __name__ == '__main__':
   args = sys.argv

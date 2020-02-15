@@ -3,6 +3,7 @@ from forms import QueryForm
 from flask_wtf.csrf import CSRFProtect
 import os
 import sys
+from phrase_occurances import find_occurances
 
 app = Flask(__name__)
 app.config.from_object(__name__)
@@ -16,7 +17,8 @@ def home():
     search = QueryForm(request.form)
     if request.method == 'POST':
         search_string = request.form['query']
-        return render_template('index.html', form=search, name=search_string)
+        data = find_occurances(search_string, "andrew_ng.json")
+        return render_template('index.html', form=search, name=search_string, data=data)
     return render_template('index.html', form=search)
 
 if __name__ == "__main__":

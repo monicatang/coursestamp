@@ -7,6 +7,11 @@ import os
 lecture_matcher = re.compile(".*-(.*)\\.en") # YouTube code only
 timestamp_matcher = re.compile("(\\d\\d):(\\d\\d):(\\d\\d).\\d\\d\\d --> \\d\\d:\\d\\d:\\d\\d.\\d\\d\\d")
 
+"""
+Parses all .vtt files in the current directory and prints to stdout a formatted json.
+
+Piping into files in parent directories recommended.
+"""
 def parse():
   subtitle_dict = {}
   for filename in os.listdir(os.getcwd()):

@@ -3,6 +3,12 @@ import json
 
 youtube = "https://youtu.be/"
 
+"""
+Searches the given formatted json file for key phrases
+and out puts the youtube timestamped link.
+
+Returns previous phrase to allow for prepadding and post padding of phrase.
+"""
 def find_occurances(phrase, filename):
   ret = []
   with open(filename) as file:

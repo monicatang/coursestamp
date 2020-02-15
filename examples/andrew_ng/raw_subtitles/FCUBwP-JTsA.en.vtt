@@ -1,0 +1,4360 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:02.300 align:start position:0%
+ 
+so<00:00:00.359><c> far</c><00:00:00.599><c> we've</c><00:00:00.810><c> been</c><00:00:00.840><c> talking</c><00:00:00.960><c> about</c><00:00:01.410><c> SVM's</c><00:00:02.100><c> in</c>
+
+00:00:02.300 --> 00:00:02.310 align:start position:0%
+so far we've been talking about SVM's in
+ 
+
+00:00:02.310 --> 00:00:04.670 align:start position:0%
+so far we've been talking about SVM's in
+a<00:00:02.399><c> fairly</c><00:00:02.610><c> abstract</c><00:00:02.909><c> level</c><00:00:03.449><c> in</c><00:00:03.780><c> this</c><00:00:04.350><c> video</c>
+
+00:00:04.670 --> 00:00:04.680 align:start position:0%
+a fairly abstract level in this video
+ 
+
+00:00:04.680 --> 00:00:06.349 align:start position:0%
+a fairly abstract level in this video
+I'd<00:00:04.950><c> like</c><00:00:05.009><c> to</c><00:00:05.069><c> talk</c><00:00:05.339><c> about</c><00:00:05.490><c> what</c><00:00:05.850><c> you</c><00:00:06.000><c> actually</c>
+
+00:00:06.349 --> 00:00:06.359 align:start position:0%
+I'd like to talk about what you actually
+ 
+
+00:00:06.359 --> 00:00:09.200 align:start position:0%
+I'd like to talk about what you actually
+need<00:00:06.509><c> to</c><00:00:06.540><c> do</c><00:00:06.870><c> in</c><00:00:07.140><c> order</c><00:00:07.620><c> to</c><00:00:07.859><c> run</c><00:00:08.250><c> or</c><00:00:08.519><c> to</c><00:00:08.580><c> use</c><00:00:08.970><c> an</c>
+
+00:00:09.200 --> 00:00:09.210 align:start position:0%
+need to do in order to run or to use an
+ 
+
+00:00:09.210 --> 00:00:12.770 align:start position:0%
+need to do in order to run or to use an
+SVM<00:00:10.429><c> the</c><00:00:11.429><c> support</c><00:00:11.790><c> vector</c><00:00:12.059><c> machine</c><00:00:12.330><c> algorithm</c>
+
+00:00:12.770 --> 00:00:12.780 align:start position:0%
+SVM the support vector machine algorithm
+ 
+
+00:00:12.780 --> 00:00:15.350 align:start position:0%
+SVM the support vector machine algorithm
+poses<00:00:13.380><c> a</c><00:00:13.590><c> particular</c><00:00:13.920><c> optimization</c><00:00:14.880><c> problem</c>
+
+00:00:15.350 --> 00:00:15.360 align:start position:0%
+poses a particular optimization problem
+ 
+
+00:00:15.360 --> 00:00:17.390 align:start position:0%
+poses a particular optimization problem
+but<00:00:15.690><c> as</c><00:00:15.809><c> I</c><00:00:15.929><c> briefly</c><00:00:16.230><c> mentioned</c><00:00:16.410><c> in</c><00:00:17.100><c> an</c><00:00:17.250><c> earlier</c>
+
+00:00:17.390 --> 00:00:17.400 align:start position:0%
+but as I briefly mentioned in an earlier
+ 
+
+00:00:17.400 --> 00:00:19.939 align:start position:0%
+but as I briefly mentioned in an earlier
+video<00:00:17.730><c> I</c><00:00:18.119><c> really</c><00:00:18.390><c> do</c><00:00:18.539><c> not</c><00:00:18.720><c> recommend</c><00:00:19.170><c> use</c>
+
+00:00:19.939 --> 00:00:19.949 align:start position:0%
+video I really do not recommend use
+ 
+
+00:00:19.949 --> 00:00:21.830 align:start position:0%
+video I really do not recommend use
+writing<00:00:20.400><c> your</c><00:00:20.520><c> own</c><00:00:20.670><c> software</c><00:00:20.970><c> to</c><00:00:21.449><c> solve</c><00:00:21.630><c> for</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+writing your own software to solve for
+ 
+
+00:00:21.840 --> 00:00:24.529 align:start position:0%
+writing your own software to solve for
+the<00:00:21.930><c> parameters</c><00:00:22.080><c> data</c><00:00:22.680><c> yourself</c><00:00:23.279><c> so</c><00:00:24.060><c> just</c><00:00:24.390><c> as</c>
+
+00:00:24.529 --> 00:00:24.539 align:start position:0%
+the parameters data yourself so just as
+ 
+
+00:00:24.539 --> 00:00:27.560 align:start position:0%
+the parameters data yourself so just as
+today<00:00:25.279><c> very</c><00:00:26.279><c> few</c><00:00:26.430><c> of</c><00:00:26.760><c> us</c><00:00:26.880><c> or</c><00:00:27.090><c> maybe</c><00:00:27.300><c> almost</c>
+
+00:00:27.560 --> 00:00:27.570 align:start position:0%
+today very few of us or maybe almost
+ 
+
+00:00:27.570 --> 00:00:29.540 align:start position:0%
+today very few of us or maybe almost
+essentially<00:00:28.140><c> none</c><00:00:28.320><c> of</c><00:00:28.470><c> us</c><00:00:28.560><c> would</c><00:00:29.160><c> think</c><00:00:29.400><c> of</c>
+
+00:00:29.540 --> 00:00:29.550 align:start position:0%
+essentially none of us would think of
+ 
+
+00:00:29.550 --> 00:00:31.490 align:start position:0%
+essentially none of us would think of
+writing<00:00:29.760><c> code</c><00:00:30.269><c> ourselves</c><00:00:30.449><c> to</c><00:00:30.960><c> invert</c><00:00:31.320><c> the</c>
+
+00:00:31.490 --> 00:00:31.500 align:start position:0%
+writing code ourselves to invert the
+ 
+
+00:00:31.500 --> 00:00:33.229 align:start position:0%
+writing code ourselves to invert the
+matrix<00:00:31.619><c> or</c><00:00:32.099><c> take</c><00:00:32.250><c> a</c><00:00:32.279><c> square</c><00:00:32.640><c> root</c><00:00:32.820><c> of</c><00:00:32.940><c> a</c><00:00:33.059><c> number</c>
+
+00:00:33.229 --> 00:00:33.239 align:start position:0%
+matrix or take a square root of a number
+ 
+
+00:00:33.239 --> 00:00:35.510 align:start position:0%
+matrix or take a square root of a number
+and<00:00:33.750><c> so</c><00:00:33.899><c> on</c><00:00:34.079><c> we</c><00:00:34.620><c> just</c><00:00:34.649><c> you</c><00:00:35.010><c> know</c><00:00:35.070><c> call</c><00:00:35.340><c> some</c>
+
+00:00:35.510 --> 00:00:35.520 align:start position:0%
+and so on we just you know call some
+ 
+
+00:00:35.520 --> 00:00:37.490 align:start position:0%
+and so on we just you know call some
+library<00:00:35.850><c> function</c><00:00:36.210><c> to</c><00:00:36.329><c> do</c><00:00:36.450><c> that</c><00:00:36.660><c> in</c><00:00:36.930><c> the</c><00:00:37.320><c> same</c>
+
+00:00:37.490 --> 00:00:37.500 align:start position:0%
+library function to do that in the same
+ 
+
+00:00:37.500 --> 00:00:40.549 align:start position:0%
+library function to do that in the same
+way<00:00:37.559><c> the</c><00:00:38.329><c> software</c><00:00:39.329><c> for</c><00:00:39.629><c> solving</c><00:00:40.079><c> the</c><00:00:40.290><c> SVM</c>
+
+00:00:40.549 --> 00:00:40.559 align:start position:0%
+way the software for solving the SVM
+ 
+
+00:00:40.559 --> 00:00:43.190 align:start position:0%
+way the software for solving the SVM
+optimization<00:00:41.040><c> problem</c><00:00:41.940><c> is</c><00:00:42.120><c> very</c><00:00:42.420><c> complex</c><00:00:42.989><c> and</c>
+
+00:00:43.190 --> 00:00:43.200 align:start position:0%
+optimization problem is very complex and
+ 
+
+00:00:43.200 --> 00:00:45.080 align:start position:0%
+optimization problem is very complex and
+there<00:00:43.800><c> be</c><00:00:43.980><c> researchers</c><00:00:44.550><c> they've</c><00:00:44.789><c> been</c><00:00:44.910><c> doing</c>
+
+00:00:45.080 --> 00:00:45.090 align:start position:0%
+there be researchers they've been doing
+ 
+
+00:00:45.090 --> 00:00:46.340 align:start position:0%
+there be researchers they've been doing
+essentially<00:00:45.600><c> numerical</c><00:00:46.230><c> optimization</c>
+
+00:00:46.340 --> 00:00:46.350 align:start position:0%
+essentially numerical optimization
+ 
+
+00:00:46.350 --> 00:00:48.889 align:start position:0%
+essentially numerical optimization
+research<00:00:47.010><c> for</c><00:00:47.430><c> many</c><00:00:47.520><c> years</c><00:00:47.820><c> to</c><00:00:48.329><c> come</c><00:00:48.570><c> up</c><00:00:48.719><c> with</c>
+
+00:00:48.889 --> 00:00:48.899 align:start position:0%
+research for many years to come up with
+ 
+
+00:00:48.899 --> 00:00:50.450 align:start position:0%
+research for many years to come up with
+good<00:00:49.110><c> software</c><00:00:49.559><c> libraries</c><00:00:50.100><c> and</c><00:00:50.309><c> good</c>
+
+00:00:50.450 --> 00:00:50.460 align:start position:0%
+good software libraries and good
+ 
+
+00:00:50.460 --> 00:00:52.400 align:start position:0%
+good software libraries and good
+software<00:00:50.969><c> packages</c><00:00:51.449><c> to</c><00:00:51.570><c> do</c><00:00:51.719><c> this</c><00:00:51.930><c> and</c><00:00:52.140><c> I</c>
+
+00:00:52.400 --> 00:00:52.410 align:start position:0%
+software packages to do this and I
+ 
+
+00:00:52.410 --> 00:00:54.260 align:start position:0%
+software packages to do this and I
+strongly<00:00:52.739><c> recommend</c><00:00:52.980><c> just</c><00:00:53.460><c> using</c><00:00:53.850><c> one</c><00:00:54.030><c> of</c><00:00:54.059><c> the</c>
+
+00:00:54.260 --> 00:00:54.270 align:start position:0%
+strongly recommend just using one of the
+ 
+
+00:00:54.270 --> 00:00:56.150 align:start position:0%
+strongly recommend just using one of the
+highly<00:00:54.870><c> optimized</c><00:00:55.289><c> software</c><00:00:55.500><c> libraries</c>
+
+00:00:56.150 --> 00:00:56.160 align:start position:0%
+highly optimized software libraries
+ 
+
+00:00:56.160 --> 00:00:57.290 align:start position:0%
+highly optimized software libraries
+rather<00:00:56.370><c> than</c><00:00:56.670><c> trying</c><00:00:56.850><c> to</c><00:00:56.910><c> implement</c>
+
+00:00:57.290 --> 00:00:57.300 align:start position:0%
+rather than trying to implement
+ 
+
+00:00:57.300 --> 00:00:59.330 align:start position:0%
+rather than trying to implement
+something<00:00:57.750><c> yourself</c><00:00:57.930><c> and</c><00:00:58.440><c> there</c><00:00:58.980><c> are</c><00:00:59.039><c> lots</c><00:00:59.190><c> of</c>
+
+00:00:59.330 --> 00:00:59.340 align:start position:0%
+something yourself and there are lots of
+ 
+
+00:00:59.340 --> 00:01:01.279 align:start position:0%
+something yourself and there are lots of
+good<00:00:59.550><c> software</c><00:00:59.760><c> libraries</c><00:01:00.030><c> out</c><00:01:00.600><c> there</c><00:01:00.629><c> the</c>
+
+00:01:01.279 --> 00:01:01.289 align:start position:0%
+good software libraries out there the
+ 
+
+00:01:01.289 --> 00:01:03.200 align:start position:0%
+good software libraries out there the
+tools<00:01:01.500><c> I</c><00:01:01.680><c> happen</c><00:01:02.100><c> to</c><00:01:02.129><c> use</c><00:01:02.309><c> the</c><00:01:02.460><c> most</c><00:01:02.640><c> often</c><00:01:02.850><c> on</c>
+
+00:01:03.200 --> 00:01:03.210 align:start position:0%
+tools I happen to use the most often on
+ 
+
+00:01:03.210 --> 00:01:04.969 align:start position:0%
+tools I happen to use the most often on
+the<00:01:03.390><c> linear</c><00:01:03.719><c> in</c><00:01:03.809><c> live</c><00:01:03.989><c> SVM</c><00:01:04.439><c> but</c><00:01:04.860><c> they're</c>
+
+00:01:04.969 --> 00:01:04.979 align:start position:0%
+the linear in live SVM but they're
+ 
+
+00:01:04.979 --> 00:01:06.830 align:start position:0%
+the linear in live SVM but they're
+really<00:01:05.159><c> lots</c><00:01:05.640><c> of</c><00:01:05.790><c> good</c><00:01:06.060><c> software</c><00:01:06.240><c> libraries</c>
+
+00:01:06.830 --> 00:01:06.840 align:start position:0%
+really lots of good software libraries
+ 
+
+00:01:06.840 --> 00:01:08.630 align:start position:0%
+really lots of good software libraries
+for<00:01:07.049><c> doing</c><00:01:07.110><c> this</c><00:01:07.500><c> that</c><00:01:08.130><c> you</c><00:01:08.159><c> know</c><00:01:08.369><c> you</c><00:01:08.490><c> can</c>
+
+00:01:08.630 --> 00:01:08.640 align:start position:0%
+for doing this that you know you can
+ 
+
+00:01:08.640 --> 00:01:11.210 align:start position:0%
+for doing this that you know you can
+link<00:01:08.850><c> to</c><00:01:09.060><c> many</c><00:01:09.900><c> of</c><00:01:10.170><c> the</c><00:01:10.320><c> major</c><00:01:10.650><c> programming</c>
+
+00:01:11.210 --> 00:01:11.220 align:start position:0%
+link to many of the major programming
+ 
+
+00:01:11.220 --> 00:01:13.399 align:start position:0%
+link to many of the major programming
+languages<00:01:11.700><c> that</c><00:01:11.850><c> you</c><00:01:11.970><c> may</c><00:01:12.119><c> be</c><00:01:12.180><c> using</c><00:01:12.479><c> to</c><00:01:13.110><c> code</c>
+
+00:01:13.399 --> 00:01:13.409 align:start position:0%
+languages that you may be using to code
+ 
+
+00:01:13.409 --> 00:01:15.770 align:start position:0%
+languages that you may be using to code
+up<00:01:13.590><c> a</c><00:01:13.770><c> learning</c><00:01:14.400><c> algorithm</c><00:01:14.790><c> even</c><00:01:15.570><c> though</c><00:01:15.720><c> you</c>
+
+00:01:15.770 --> 00:01:15.780 align:start position:0%
+up a learning algorithm even though you
+ 
+
+00:01:15.780 --> 00:01:17.810 align:start position:0%
+up a learning algorithm even though you
+shouldn't<00:01:16.140><c> be</c><00:01:16.320><c> writing</c><00:01:16.770><c> your</c><00:01:16.860><c> own</c><00:01:17.100><c> SVM</c>
+
+00:01:17.810 --> 00:01:17.820 align:start position:0%
+shouldn't be writing your own SVM
+ 
+
+00:01:17.820 --> 00:01:19.700 align:start position:0%
+shouldn't be writing your own SVM
+optimization<00:01:18.000><c> software</c><00:01:18.689><c> there</c><00:01:19.290><c> are</c><00:01:19.470><c> a</c><00:01:19.500><c> few</c>
+
+00:01:19.700 --> 00:01:19.710 align:start position:0%
+optimization software there are a few
+ 
+
+00:01:19.710 --> 00:01:22.490 align:start position:0%
+optimization software there are a few
+things<00:01:19.979><c> you</c><00:01:20.130><c> need</c><00:01:20.280><c> to</c><00:01:20.310><c> do</c><00:01:20.549><c> though</c><00:01:20.759><c> first</c><00:01:21.720><c> is</c><00:01:22.020><c> to</c>
+
+00:01:22.490 --> 00:01:22.500 align:start position:0%
+things you need to do though first is to
+ 
+
+00:01:22.500 --> 00:01:24.350 align:start position:0%
+things you need to do though first is to
+come<00:01:22.890><c> up</c><00:01:23.040><c> with</c><00:01:23.070><c> some</c><00:01:23.700><c> choice</c><00:01:24.030><c> of</c><00:01:24.240><c> the</c>
+
+00:01:24.350 --> 00:01:24.360 align:start position:0%
+come up with some choice of the
+ 
+
+00:01:24.360 --> 00:01:26.120 align:start position:0%
+come up with some choice of the
+parameter<00:01:24.900><c> C</c><00:01:25.170><c> we</c><00:01:25.409><c> talked</c><00:01:25.619><c> a</c><00:01:25.710><c> little</c><00:01:25.799><c> bit</c><00:01:25.979><c> about</c>
+
+00:01:26.120 --> 00:01:26.130 align:start position:0%
+parameter C we talked a little bit about
+ 
+
+00:01:26.130 --> 00:01:28.670 align:start position:0%
+parameter C we talked a little bit about
+the<00:01:26.369><c> bias-variance</c><00:01:26.729><c> properties</c><00:01:27.600><c> of</c><00:01:27.780><c> this</c><00:01:27.930><c> in</c>
+
+00:01:28.670 --> 00:01:28.680 align:start position:0%
+the bias-variance properties of this in
+ 
+
+00:01:28.680 --> 00:01:31.520 align:start position:0%
+the bias-variance properties of this in
+an<00:01:28.799><c> earlier</c><00:01:29.100><c> video</c><00:01:29.720><c> second</c><00:01:30.720><c> you</c><00:01:30.869><c> also</c><00:01:31.079><c> need</c><00:01:31.500><c> to</c>
+
+00:01:31.520 --> 00:01:31.530 align:start position:0%
+an earlier video second you also need to
+ 
+
+00:01:31.530 --> 00:01:33.740 align:start position:0%
+an earlier video second you also need to
+choose<00:01:31.920><c> the</c><00:01:32.250><c> kernel</c><00:01:32.790><c> or</c><00:01:32.909><c> the</c><00:01:32.939><c> similarity</c>
+
+00:01:33.740 --> 00:01:33.750 align:start position:0%
+choose the kernel or the similarity
+ 
+
+00:01:33.750 --> 00:01:36.620 align:start position:0%
+choose the kernel or the similarity
+function<00:01:34.229><c> that</c><00:01:34.439><c> you</c><00:01:34.560><c> want</c><00:01:34.740><c> to</c><00:01:34.829><c> use</c><00:01:35.070><c> so</c><00:01:35.880><c> one</c>
+
+00:01:36.620 --> 00:01:36.630 align:start position:0%
+function that you want to use so one
+ 
+
+00:01:36.630 --> 00:01:38.899 align:start position:0%
+function that you want to use so one
+choice<00:01:36.900><c> might</c><00:01:37.259><c> be</c><00:01:37.409><c> we</c><00:01:37.619><c> decide</c><00:01:37.950><c> not</c><00:01:37.979><c> to</c><00:01:38.310><c> use</c><00:01:38.520><c> any</c>
+
+00:01:38.899 --> 00:01:38.909 align:start position:0%
+choice might be we decide not to use any
+ 
+
+00:01:38.909 --> 00:01:42.380 align:start position:0%
+choice might be we decide not to use any
+kernel<00:01:39.420><c> and</c><00:01:40.110><c> the</c><00:01:40.650><c> idea</c><00:01:41.100><c> of</c><00:01:41.220><c> no</c><00:01:41.369><c> kernel</c><00:01:41.880><c> is</c><00:01:42.060><c> also</c>
+
+00:01:42.380 --> 00:01:42.390 align:start position:0%
+kernel and the idea of no kernel is also
+ 
+
+00:01:42.390 --> 00:01:45.050 align:start position:0%
+kernel and the idea of no kernel is also
+called<00:01:42.750><c> a</c><00:01:42.899><c> linear</c><00:01:43.439><c> kernel</c><00:01:43.649><c> so</c><00:01:44.310><c> someone</c><00:01:44.700><c> says</c><00:01:44.850><c> I</c>
+
+00:01:45.050 --> 00:01:45.060 align:start position:0%
+called a linear kernel so someone says I
+ 
+
+00:01:45.060 --> 00:01:47.359 align:start position:0%
+called a linear kernel so someone says I
+use<00:01:45.479><c> an</c><00:01:45.659><c> SVM</c><00:01:46.020><c> with</c><00:01:46.320><c> a</c><00:01:46.350><c> linear</c><00:01:46.590><c> kernel</c><00:01:47.009><c> what</c>
+
+00:01:47.359 --> 00:01:47.369 align:start position:0%
+use an SVM with a linear kernel what
+ 
+
+00:01:47.369 --> 00:01:48.740 align:start position:0%
+use an SVM with a linear kernel what
+that<00:01:47.490><c> means</c><00:01:47.700><c> is</c><00:01:47.909><c> you</c><00:01:48.060><c> know</c><00:01:48.149><c> they</c><00:01:48.299><c> use</c><00:01:48.450><c> an</c><00:01:48.600><c> SVM</c>
+
+00:01:48.740 --> 00:01:48.750 align:start position:0%
+that means is you know they use an SVM
+ 
+
+00:01:48.750 --> 00:01:52.190 align:start position:0%
+that means is you know they use an SVM
+without<00:01:49.409><c> using</c><00:01:50.040><c> without</c><00:01:50.850><c> using</c><00:01:51.360><c> a</c><00:01:51.450><c> kernel</c><00:01:51.689><c> and</c>
+
+00:01:52.190 --> 00:01:52.200 align:start position:0%
+without using without using a kernel and
+ 
+
+00:01:52.200 --> 00:01:54.530 align:start position:0%
+without using without using a kernel and
+it<00:01:52.350><c> was</c><00:01:52.470><c> the</c><00:01:52.590><c> version</c><00:01:52.770><c> of</c><00:01:53.040><c> the</c><00:01:53.189><c> SVM</c><00:01:53.340><c> that</c><00:01:54.270><c> just</c>
+
+00:01:54.530 --> 00:01:54.540 align:start position:0%
+it was the version of the SVM that just
+ 
+
+00:01:54.540 --> 00:01:56.359 align:start position:0%
+it was the version of the SVM that just
+uses<00:01:54.899><c> theta</c><00:01:55.140><c> transpose</c><00:01:55.680><c> X</c><00:01:56.040><c> right</c><00:01:56.340><c> there</c>
+
+00:01:56.359 --> 00:01:56.369 align:start position:0%
+uses theta transpose X right there
+ 
+
+00:01:56.369 --> 00:01:59.270 align:start position:0%
+uses theta transpose X right there
+predicts<00:01:56.790><c> one</c><00:01:57.000><c> if</c><00:01:57.210><c> they</c><00:01:57.329><c> -</c><00:01:57.390><c> 0</c><00:01:57.750><c> plus</c><00:01:58.140><c> theta</c><00:01:58.710><c> 1</c><00:01:58.920><c> x1</c>
+
+00:01:59.270 --> 00:01:59.280 align:start position:0%
+predicts one if they - 0 plus theta 1 x1
+ 
+
+00:01:59.280 --> 00:02:02.310 align:start position:0%
+predicts one if they - 0 plus theta 1 x1
+plus<00:01:59.939><c> so</c><00:02:00.540><c> on</c><00:02:00.570><c> plus</c><00:02:00.780><c> theta</c><00:02:01.229><c> n</c>
+
+00:02:02.310 --> 00:02:02.320 align:start position:0%
+plus so on plus theta n
+ 
+
+00:02:02.320 --> 00:02:05.640 align:start position:0%
+plus so on plus theta n
+X<00:02:02.470><c> n</c><00:02:02.800><c> is</c><00:02:03.310><c> greater</c><00:02:03.460><c> than</c><00:02:03.700><c> equal</c><00:02:03.850><c> to</c><00:02:04.120><c> 0</c><00:02:04.420><c> and</c><00:02:04.720><c> this</c>
+
+00:02:05.640 --> 00:02:05.650 align:start position:0%
+X n is greater than equal to 0 and this
+ 
+
+00:02:05.650 --> 00:02:07.560 align:start position:0%
+X n is greater than equal to 0 and this
+term<00:02:05.710><c> linear</c><00:02:06.430><c> kernel</c><00:02:06.640><c> you</c><00:02:06.970><c> can</c><00:02:07.150><c> think</c><00:02:07.360><c> of</c><00:02:07.450><c> this</c>
+
+00:02:07.560 --> 00:02:07.570 align:start position:0%
+term linear kernel you can think of this
+ 
+
+00:02:07.570 --> 00:02:09.450 align:start position:0%
+term linear kernel you can think of this
+as<00:02:07.630><c> you</c><00:02:08.259><c> know</c><00:02:08.380><c> this</c><00:02:08.590><c> is</c><00:02:08.740><c> the</c><00:02:08.860><c> version</c><00:02:09.070><c> of</c><00:02:09.310><c> the</c>
+
+00:02:09.450 --> 00:02:09.460 align:start position:0%
+as you know this is the version of the
+ 
+
+00:02:09.460 --> 00:02:11.700 align:start position:0%
+as you know this is the version of the
+SVM<00:02:09.640><c> that</c><00:02:10.509><c> just</c><00:02:10.750><c> gives</c><00:02:11.020><c> you</c><00:02:11.230><c> a</c><00:02:11.260><c> standard</c>
+
+00:02:11.700 --> 00:02:11.710 align:start position:0%
+SVM that just gives you a standard
+ 
+
+00:02:11.710 --> 00:02:14.910 align:start position:0%
+SVM that just gives you a standard
+linear<00:02:12.190><c> classifier</c><00:02:13.110><c> so</c><00:02:14.110><c> that</c><00:02:14.440><c> would</c><00:02:14.560><c> be</c><00:02:14.680><c> one</c>
+
+00:02:14.910 --> 00:02:14.920 align:start position:0%
+linear classifier so that would be one
+ 
+
+00:02:14.920 --> 00:02:16.920 align:start position:0%
+linear classifier so that would be one
+reasonable<00:02:15.430><c> choice</c><00:02:15.820><c> for</c><00:02:16.030><c> some</c><00:02:16.180><c> problems</c><00:02:16.420><c> and</c>
+
+00:02:16.920 --> 00:02:16.930 align:start position:0%
+reasonable choice for some problems and
+ 
+
+00:02:16.930 --> 00:02:18.300 align:start position:0%
+reasonable choice for some problems and
+you<00:02:16.990><c> know</c><00:02:17.230><c> there</c><00:02:17.470><c> are</c><00:02:17.500><c> many</c><00:02:18.070><c> software</c>
+
+00:02:18.300 --> 00:02:18.310 align:start position:0%
+you know there are many software
+ 
+
+00:02:18.310 --> 00:02:21.390 align:start position:0%
+you know there are many software
+libraries<00:02:18.910><c> like</c><00:02:19.510><c> lib</c><00:02:19.750><c> mean</c><00:02:19.990><c> linear</c><00:02:20.500><c> with</c><00:02:21.070><c> one</c>
+
+00:02:21.390 --> 00:02:21.400 align:start position:0%
+libraries like lib mean linear with one
+ 
+
+00:02:21.400 --> 00:02:23.520 align:start position:0%
+libraries like lib mean linear with one
+example<00:02:21.760><c> all</c><00:02:22.150><c> the</c><00:02:22.300><c> menus</c><00:02:22.720><c> one</c><00:02:23.020><c> example</c><00:02:23.320><c> of</c><00:02:23.470><c> a</c>
+
+00:02:23.520 --> 00:02:23.530 align:start position:0%
+example all the menus one example of a
+ 
+
+00:02:23.530 --> 00:02:25.770 align:start position:0%
+example all the menus one example of a
+software<00:02:23.740><c> library</c><00:02:24.100><c> that</c><00:02:24.700><c> can</c><00:02:24.850><c> train</c><00:02:25.150><c> an</c><00:02:25.390><c> SVM</c>
+
+00:02:25.770 --> 00:02:25.780 align:start position:0%
+software library that can train an SVM
+ 
+
+00:02:25.780 --> 00:02:28.110 align:start position:0%
+software library that can train an SVM
+without<00:02:26.080><c> using</c><00:02:26.740><c> a</c><00:02:26.830><c> kernel</c><00:02:26.980><c> also</c><00:02:27.760><c> called</c><00:02:28.030><c> a</c>
+
+00:02:28.110 --> 00:02:28.120 align:start position:0%
+without using a kernel also called a
+ 
+
+00:02:28.120 --> 00:02:30.480 align:start position:0%
+without using a kernel also called a
+linear<00:02:28.270><c> kernel</c><00:02:28.620><c> so</c><00:02:29.620><c> when</c><00:02:30.040><c> would</c><00:02:30.160><c> you</c><00:02:30.190><c> want</c><00:02:30.280><c> to</c>
+
+00:02:30.480 --> 00:02:30.490 align:start position:0%
+linear kernel so when would you want to
+ 
+
+00:02:30.490 --> 00:02:32.490 align:start position:0%
+linear kernel so when would you want to
+do<00:02:30.580><c> this</c><00:02:30.730><c> well</c><00:02:31.030><c> if</c><00:02:31.390><c> you</c><00:02:31.690><c> have</c><00:02:31.930><c> a</c><00:02:31.960><c> large</c><00:02:32.380><c> number</c>
+
+00:02:32.490 --> 00:02:32.500 align:start position:0%
+do this well if you have a large number
+ 
+
+00:02:32.500 --> 00:02:37.890 align:start position:0%
+do this well if you have a large number
+of<00:02:32.890><c> features</c><00:02:33.340><c> if</c><00:02:33.610><c> n</c><00:02:34.270><c> is</c><00:02:34.420><c> large</c><00:02:34.630><c> and</c><00:02:35.310><c> M</c><00:02:36.900><c> the</c>
+
+00:02:37.890 --> 00:02:37.900 align:start position:0%
+of features if n is large and M the
+ 
+
+00:02:37.900 --> 00:02:40.020 align:start position:0%
+of features if n is large and M the
+number<00:02:38.650><c> of</c><00:02:38.709><c> training</c><00:02:38.920><c> examples</c><00:02:39.100><c> is</c><00:02:39.730><c> small</c>
+
+00:02:40.020 --> 00:02:40.030 align:start position:0%
+number of training examples is small
+ 
+
+00:02:40.030 --> 00:02:42.330 align:start position:0%
+number of training examples is small
+then<00:02:40.810><c> you</c><00:02:40.840><c> know</c><00:02:41.200><c> you</c><00:02:41.260><c> have</c><00:02:41.560><c> a</c><00:02:41.590><c> huge</c><00:02:41.980><c> number</c><00:02:42.040><c> of</c>
+
+00:02:42.330 --> 00:02:42.340 align:start position:0%
+then you know you have a huge number of
+ 
+
+00:02:42.340 --> 00:02:44.850 align:start position:0%
+then you know you have a huge number of
+features<00:02:42.490><c> that</c><00:02:42.910><c> X</c><00:02:43.360><c> differ</c><00:02:43.750><c> this</c><00:02:44.230><c> is</c><00:02:44.380><c> an</c><00:02:44.530><c> X</c><00:02:44.740><c> in</c>
+
+00:02:44.850 --> 00:02:44.860 align:start position:0%
+features that X differ this is an X in
+ 
+
+00:02:44.860 --> 00:02:47.250 align:start position:0%
+features that X differ this is an X in
+RN<00:02:45.250><c> RN</c><00:02:46.030><c> plus</c><00:02:46.240><c> 1</c><00:02:46.270><c> so</c><00:02:46.690><c> you</c><00:02:46.780><c> have</c><00:02:46.930><c> a</c><00:02:46.959><c> huge</c><00:02:47.230><c> number</c>
+
+00:02:47.250 --> 00:02:47.260 align:start position:0%
+RN RN plus 1 so you have a huge number
+ 
+
+00:02:47.260 --> 00:02:49.110 align:start position:0%
+RN RN plus 1 so you have a huge number
+of<00:02:47.530><c> features</c><00:02:47.680><c> already</c><00:02:48.010><c> but</c><00:02:48.820><c> the</c><00:02:48.910><c> small</c>
+
+00:02:49.110 --> 00:02:49.120 align:start position:0%
+of features already but the small
+ 
+
+00:02:49.120 --> 00:02:50.850 align:start position:0%
+of features already but the small
+training<00:02:49.360><c> set</c><00:02:49.510><c> you</c><00:02:50.140><c> know</c><00:02:50.260><c> maybe</c><00:02:50.500><c> you</c><00:02:50.680><c> want</c><00:02:50.770><c> to</c>
+
+00:02:50.850 --> 00:02:50.860 align:start position:0%
+training set you know maybe you want to
+ 
+
+00:02:50.860 --> 00:02:52.650 align:start position:0%
+training set you know maybe you want to
+just<00:02:51.070><c> fit</c><00:02:51.220><c> a</c><00:02:51.250><c> linear</c><00:02:51.610><c> decision</c><00:02:51.820><c> boundary</c><00:02:52.390><c> and</c>
+
+00:02:52.650 --> 00:02:52.660 align:start position:0%
+just fit a linear decision boundary and
+ 
+
+00:02:52.660 --> 00:02:53.900 align:start position:0%
+just fit a linear decision boundary and
+not<00:02:52.870><c> try</c><00:02:53.080><c> to</c><00:02:53.110><c> fit</c><00:02:53.350><c> a</c><00:02:53.380><c> very</c><00:02:53.500><c> complicated</c>
+
+00:02:53.900 --> 00:02:53.910 align:start position:0%
+not try to fit a very complicated
+ 
+
+00:02:53.910 --> 00:02:56.160 align:start position:0%
+not try to fit a very complicated
+nonlinear<00:02:54.910><c> function</c><00:02:55.300><c> because</c><00:02:55.660><c> you</c><00:02:55.690><c> might</c><00:02:55.989><c> not</c>
+
+00:02:56.160 --> 00:02:56.170 align:start position:0%
+nonlinear function because you might not
+ 
+
+00:02:56.170 --> 00:02:58.110 align:start position:0%
+nonlinear function because you might not
+have<00:02:56.620><c> enough</c><00:02:56.800><c> data</c><00:02:57.190><c> you</c><00:02:57.700><c> might</c><00:02:57.850><c> risk</c>
+
+00:02:58.110 --> 00:02:58.120 align:start position:0%
+have enough data you might risk
+ 
+
+00:02:58.120 --> 00:02:59.910 align:start position:0%
+have enough data you might risk
+overfitting<00:02:58.810><c> maybe</c><00:02:59.170><c> trying</c><00:02:59.410><c> to</c><00:02:59.470><c> fit</c><00:02:59.620><c> a</c><00:02:59.650><c> very</c>
+
+00:02:59.910 --> 00:02:59.920 align:start position:0%
+overfitting maybe trying to fit a very
+ 
+
+00:02:59.920 --> 00:03:02.100 align:start position:0%
+overfitting maybe trying to fit a very
+complicated<00:03:00.310><c> function</c><00:03:00.730><c> in</c><00:03:01.510><c> a</c><00:03:01.720><c> very</c><00:03:01.900><c> high</c>
+
+00:03:02.100 --> 00:03:02.110 align:start position:0%
+complicated function in a very high
+ 
+
+00:03:02.110 --> 00:03:04.470 align:start position:0%
+complicated function in a very high
+dimensional<00:03:02.380><c> feature</c><00:03:03.160><c> space</c><00:03:03.310><c> but</c><00:03:04.150><c> if</c><00:03:04.330><c> your</c>
+
+00:03:04.470 --> 00:03:04.480 align:start position:0%
+dimensional feature space but if your
+ 
+
+00:03:04.480 --> 00:03:07.020 align:start position:0%
+dimensional feature space but if your
+training<00:03:04.660><c> set</c><00:03:04.959><c> is</c><00:03:04.989><c> soft</c><00:03:05.410><c> this</c><00:03:05.590><c> is</c><00:03:05.830><c> small</c><00:03:06.100><c> so</c>
+
+00:03:07.020 --> 00:03:07.030 align:start position:0%
+training set is soft this is small so
+ 
+
+00:03:07.030 --> 00:03:08.520 align:start position:0%
+training set is soft this is small so
+this<00:03:07.300><c> would</c><00:03:07.480><c> be</c><00:03:07.570><c> one</c><00:03:07.750><c> reasonable</c><00:03:08.080><c> setting</c>
+
+00:03:08.520 --> 00:03:08.530 align:start position:0%
+this would be one reasonable setting
+ 
+
+00:03:08.530 --> 00:03:10.259 align:start position:0%
+this would be one reasonable setting
+where<00:03:08.739><c> you</c><00:03:08.860><c> might</c><00:03:09.040><c> decide</c><00:03:09.580><c> to</c><00:03:09.640><c> not</c><00:03:09.940><c> just</c><00:03:10.150><c> use</c>
+
+00:03:10.259 --> 00:03:10.269 align:start position:0%
+where you might decide to not just use
+ 
+
+00:03:10.269 --> 00:03:12.479 align:start position:0%
+where you might decide to not just use
+to<00:03:10.540><c> just</c><00:03:10.720><c> not</c><00:03:10.870><c> use</c><00:03:11.080><c> a</c><00:03:11.110><c> kernel</c><00:03:11.380><c> or</c><00:03:11.739><c> equivalent</c>
+
+00:03:12.479 --> 00:03:12.489 align:start position:0%
+to just not use a kernel or equivalent
+ 
+
+00:03:12.489 --> 00:03:14.780 align:start position:0%
+to just not use a kernel or equivalent
+to<00:03:12.550><c> use</c><00:03:12.760><c> what's</c><00:03:13.030><c> called</c><00:03:13.090><c> a</c><00:03:13.330><c> linear</c><00:03:13.480><c> kernel</c><00:03:13.630><c> a</c>
+
+00:03:14.780 --> 00:03:14.790 align:start position:0%
+to use what's called a linear kernel a
+ 
+
+00:03:14.790 --> 00:03:17.070 align:start position:0%
+to use what's called a linear kernel a
+second<00:03:15.790><c> choice</c><00:03:15.970><c> for</c><00:03:16.269><c> the</c><00:03:16.330><c> kernel</c><00:03:16.720><c> of</c><00:03:16.750><c> the</c><00:03:16.810><c> UN</c>
+
+00:03:17.070 --> 00:03:17.080 align:start position:0%
+second choice for the kernel of the UN
+ 
+
+00:03:17.080 --> 00:03:19.380 align:start position:0%
+second choice for the kernel of the UN
+make<00:03:17.260><c> is</c><00:03:17.470><c> this</c><00:03:17.680><c> Gaussian</c><00:03:18.250><c> kernel</c><00:03:18.850><c> and</c><00:03:18.880><c> this</c><00:03:19.269><c> is</c>
+
+00:03:19.380 --> 00:03:19.390 align:start position:0%
+make is this Gaussian kernel and this is
+ 
+
+00:03:19.390 --> 00:03:21.780 align:start position:0%
+make is this Gaussian kernel and this is
+what<00:03:19.630><c> we</c><00:03:19.720><c> had</c><00:03:19.900><c> previously</c><00:03:20.200><c> and</c><00:03:20.950><c> if</c><00:03:21.549><c> you</c><00:03:21.640><c> do</c>
+
+00:03:21.780 --> 00:03:21.790 align:start position:0%
+what we had previously and if you do
+ 
+
+00:03:21.790 --> 00:03:23.100 align:start position:0%
+what we had previously and if you do
+this<00:03:21.940><c> then</c><00:03:22.269><c> the</c><00:03:22.450><c> other</c><00:03:22.570><c> choice</c><00:03:22.780><c> you</c><00:03:22.840><c> need</c><00:03:23.049><c> to</c>
+
+00:03:23.100 --> 00:03:23.110 align:start position:0%
+this then the other choice you need to
+ 
+
+00:03:23.110 --> 00:03:26.009 align:start position:0%
+this then the other choice you need to
+make<00:03:23.230><c> is</c><00:03:23.560><c> to</c><00:03:23.590><c> choose</c><00:03:23.980><c> this</c><00:03:24.280><c> parameter</c><00:03:25.019><c> Sigma</c>
+
+00:03:26.009 --> 00:03:26.019 align:start position:0%
+make is to choose this parameter Sigma
+ 
+
+00:03:26.019 --> 00:03:27.840 align:start position:0%
+make is to choose this parameter Sigma
+squared<00:03:26.049><c> when</c><00:03:26.680><c> we</c><00:03:26.980><c> also</c><00:03:27.130><c> talked</c><00:03:27.489><c> a</c><00:03:27.519><c> little</c><00:03:27.670><c> bit</c>
+
+00:03:27.840 --> 00:03:27.850 align:start position:0%
+squared when we also talked a little bit
+ 
+
+00:03:27.850 --> 00:03:30.660 align:start position:0%
+squared when we also talked a little bit
+about<00:03:28.030><c> the</c><00:03:28.390><c> bias</c><00:03:29.230><c> variance</c><00:03:29.470><c> trade-offs</c><00:03:30.280><c> of</c>
+
+00:03:30.660 --> 00:03:30.670 align:start position:0%
+about the bias variance trade-offs of
+ 
+
+00:03:30.670 --> 00:03:33.900 align:start position:0%
+about the bias variance trade-offs of
+how<00:03:31.030><c> if</c><00:03:31.510><c> Sigma</c><00:03:31.989><c> squared</c><00:03:32.019><c> is</c><00:03:32.470><c> large</c><00:03:32.700><c> then</c><00:03:33.700><c> you</c>
+
+00:03:33.900 --> 00:03:33.910 align:start position:0%
+how if Sigma squared is large then you
+ 
+
+00:03:33.910 --> 00:03:35.729 align:start position:0%
+how if Sigma squared is large then you
+tend<00:03:34.180><c> to</c><00:03:34.269><c> have</c><00:03:34.540><c> a</c><00:03:34.570><c> higher</c><00:03:35.049><c> bias</c><00:03:35.350><c> lower</c>
+
+00:03:35.729 --> 00:03:35.739 align:start position:0%
+tend to have a higher bias lower
+ 
+
+00:03:35.739 --> 00:03:38.039 align:start position:0%
+tend to have a higher bias lower
+variance<00:03:35.920><c> classifier</c><00:03:36.700><c> but</c><00:03:37.630><c> if</c><00:03:37.750><c> Sigma</c><00:03:38.019><c> squared</c>
+
+00:03:38.039 --> 00:03:38.049 align:start position:0%
+variance classifier but if Sigma squared
+ 
+
+00:03:38.049 --> 00:03:41.490 align:start position:0%
+variance classifier but if Sigma squared
+is<00:03:38.500><c> small</c><00:03:38.739><c> then</c><00:03:39.489><c> you</c><00:03:39.910><c> have</c><00:03:40.330><c> a</c><00:03:40.570><c> higher</c><00:03:40.930><c> variance</c>
+
+00:03:41.490 --> 00:03:41.500 align:start position:0%
+is small then you have a higher variance
+ 
+
+00:03:41.500 --> 00:03:44.580 align:start position:0%
+is small then you have a higher variance
+lower<00:03:41.980><c> bias</c><00:03:42.250><c> classifier</c><00:03:42.790><c> so</c><00:03:43.410><c> when</c><00:03:44.410><c> might</c><00:03:44.560><c> you</c>
+
+00:03:44.580 --> 00:03:44.590 align:start position:0%
+lower bias classifier so when might you
+ 
+
+00:03:44.590 --> 00:03:47.100 align:start position:0%
+lower bias classifier so when might you
+choose<00:03:44.860><c> the</c><00:03:45.010><c> Gaussian</c><00:03:45.400><c> kernel</c><00:03:45.580><c> well</c><00:03:46.420><c> if</c><00:03:46.750><c> you</c>
+
+00:03:47.100 --> 00:03:47.110 align:start position:0%
+choose the Gaussian kernel well if you
+ 
+
+00:03:47.110 --> 00:03:49.979 align:start position:0%
+choose the Gaussian kernel well if you
+if<00:03:47.739><c> your</c><00:03:47.920><c> original</c><00:03:48.459><c> features</c><00:03:48.880><c> X</c><00:03:49.269><c> Arbonne</c><00:03:49.840><c> are</c>
+
+00:03:49.979 --> 00:03:49.989 align:start position:0%
+if your original features X Arbonne are
+ 
+
+00:03:49.989 --> 00:03:52.050 align:start position:0%
+if your original features X Arbonne are
+N<00:03:50.260><c> and</c><00:03:50.530><c> if</c><00:03:51.250><c> n</c><00:03:51.519><c> is</c><00:03:51.670><c> small</c>
+
+00:03:52.050 --> 00:03:52.060 align:start position:0%
+N and if n is small
+ 
+
+00:03:52.060 --> 00:03:56.590 align:start position:0%
+N and if n is small
+oh<00:03:52.620><c> and</c><00:03:53.620><c> ideally</c><00:03:54.750><c> you</c><00:03:55.750><c> know</c><00:03:55.870><c> if</c><00:03:56.080><c> n</c>
+
+00:03:56.590 --> 00:03:56.600 align:start position:0%
+oh and ideally you know if n
+ 
+
+00:03:56.600 --> 00:04:00.160 align:start position:0%
+oh and ideally you know if n
+is<00:03:56.900><c> large</c><00:03:57.370><c> right</c><00:03:58.370><c> so</c><00:03:58.700><c> that's</c><00:03:59.030><c> if</c><00:03:59.300><c> you</c><00:03:59.870><c> know</c><00:03:59.990><c> we</c>
+
+00:04:00.160 --> 00:04:00.170 align:start position:0%
+is large right so that's if you know we
+ 
+
+00:04:00.170 --> 00:04:02.560 align:start position:0%
+is large right so that's if you know we
+have<00:04:00.200><c> say</c><00:04:00.650><c> a</c><00:04:00.680><c> two</c><00:04:01.400><c> dimensional</c><00:04:01.910><c> training</c><00:04:02.330><c> set</c>
+
+00:04:02.560 --> 00:04:02.570 align:start position:0%
+have say a two dimensional training set
+ 
+
+00:04:02.570 --> 00:04:04.840 align:start position:0%
+have say a two dimensional training set
+like<00:04:03.350><c> you're</c><00:04:03.500><c> not</c><00:04:03.620><c> like</c><00:04:04.040><c> the</c><00:04:04.220><c> example</c><00:04:04.610><c> I</c><00:04:04.640><c> drew</c>
+
+00:04:04.840 --> 00:04:04.850 align:start position:0%
+like you're not like the example I drew
+ 
+
+00:04:04.850 --> 00:04:07.330 align:start position:0%
+like you're not like the example I drew
+earlier<00:04:04.910><c> so</c><00:04:05.600><c> then</c><00:04:05.840><c> it's</c><00:04:06.020><c> equal</c><00:04:06.140><c> to</c><00:04:06.290><c> two</c><00:04:06.560><c> but</c><00:04:07.250><c> we</c>
+
+00:04:07.330 --> 00:04:07.340 align:start position:0%
+earlier so then it's equal to two but we
+ 
+
+00:04:07.340 --> 00:04:09.070 align:start position:0%
+earlier so then it's equal to two but we
+have<00:04:07.490><c> a</c><00:04:07.520><c> pretty</c><00:04:07.790><c> large</c><00:04:07.940><c> training</c><00:04:08.240><c> set</c><00:04:08.570><c> so</c><00:04:08.840><c> you</c>
+
+00:04:09.070 --> 00:04:09.080 align:start position:0%
+have a pretty large training set so you
+ 
+
+00:04:09.080 --> 00:04:10.300 align:start position:0%
+have a pretty large training set so you
+know<00:04:09.170><c> I've</c><00:04:09.350><c> drawn</c><00:04:09.620><c> in</c><00:04:09.770><c> the</c><00:04:09.860><c> fairly</c><00:04:10.130><c> large</c>
+
+00:04:10.300 --> 00:04:10.310 align:start position:0%
+know I've drawn in the fairly large
+ 
+
+00:04:10.310 --> 00:04:11.980 align:start position:0%
+know I've drawn in the fairly large
+number<00:04:10.580><c> of</c><00:04:10.610><c> training</c><00:04:10.760><c> examples</c><00:04:10.880><c> then</c><00:04:11.810><c> maybe</c>
+
+00:04:11.980 --> 00:04:11.990 align:start position:0%
+number of training examples then maybe
+ 
+
+00:04:11.990 --> 00:04:13.720 align:start position:0%
+number of training examples then maybe
+you<00:04:12.140><c> want</c><00:04:12.320><c> to</c><00:04:12.350><c> use</c><00:04:12.410><c> the</c><00:04:12.590><c> kernel</c><00:04:12.980><c> to</c><00:04:13.160><c> fit</c><00:04:13.340><c> a</c><00:04:13.520><c> more</c>
+
+00:04:13.720 --> 00:04:13.730 align:start position:0%
+you want to use the kernel to fit a more
+ 
+
+00:04:13.730 --> 00:04:16.720 align:start position:0%
+you want to use the kernel to fit a more
+complex<00:04:14.350><c> nonlinear</c><00:04:15.350><c> decision</c><00:04:15.980><c> boundary</c><00:04:16.489><c> and</c>
+
+00:04:16.720 --> 00:04:16.730 align:start position:0%
+complex nonlinear decision boundary and
+ 
+
+00:04:16.730 --> 00:04:18.370 align:start position:0%
+complex nonlinear decision boundary and
+the<00:04:16.850><c> Gaussian</c><00:04:17.270><c> kernel</c><00:04:17.450><c> would</c><00:04:17.750><c> be</c><00:04:17.870><c> a</c><00:04:17.900><c> fine</c><00:04:18.200><c> way</c>
+
+00:04:18.370 --> 00:04:18.380 align:start position:0%
+the Gaussian kernel would be a fine way
+ 
+
+00:04:18.380 --> 00:04:20.650 align:start position:0%
+the Gaussian kernel would be a fine way
+to<00:04:18.410><c> do</c><00:04:18.709><c> this</c><00:04:18.890><c> I'll</c><00:04:19.550><c> say</c><00:04:19.850><c> more</c><00:04:20.060><c> towards</c><00:04:20.420><c> the</c><00:04:20.480><c> end</c>
+
+00:04:20.650 --> 00:04:20.660 align:start position:0%
+to do this I'll say more towards the end
+ 
+
+00:04:20.660 --> 00:04:22.990 align:start position:0%
+to do this I'll say more towards the end
+of<00:04:20.810><c> video</c><00:04:21.140><c> a</c><00:04:21.890><c> little</c><00:04:22.220><c> bit</c><00:04:22.310><c> more</c><00:04:22.550><c> about</c><00:04:22.730><c> when</c>
+
+00:04:22.990 --> 00:04:23.000 align:start position:0%
+of video a little bit more about when
+ 
+
+00:04:23.000 --> 00:04:24.970 align:start position:0%
+of video a little bit more about when
+you<00:04:23.180><c> might</c><00:04:23.330><c> choose</c><00:04:23.630><c> the</c><00:04:23.870><c> linear</c><00:04:24.230><c> kernel</c><00:04:24.500><c> or</c><00:04:24.920><c> a</c>
+
+00:04:24.970 --> 00:04:24.980 align:start position:0%
+you might choose the linear kernel or a
+ 
+
+00:04:24.980 --> 00:04:28.590 align:start position:0%
+you might choose the linear kernel or a
+Gaussian<00:04:25.400><c> kernel</c><00:04:25.820><c> and</c><00:04:25.850><c> so</c><00:04:26.060><c> on</c><00:04:27.040><c> but</c><00:04:28.040><c> if</c>
+
+00:04:28.590 --> 00:04:28.600 align:start position:0%
+Gaussian kernel and so on but if
+ 
+
+00:04:28.600 --> 00:04:31.180 align:start position:0%
+Gaussian kernel and so on but if
+concretely<00:04:29.600><c> if</c><00:04:29.840><c> you</c><00:04:29.930><c> decide</c><00:04:30.410><c> to</c><00:04:30.680><c> use</c><00:04:30.920><c> a</c>
+
+00:04:31.180 --> 00:04:31.190 align:start position:0%
+concretely if you decide to use a
+ 
+
+00:04:31.190 --> 00:04:33.610 align:start position:0%
+concretely if you decide to use a
+Gaussian<00:04:31.430><c> kernel</c><00:04:31.900><c> then</c><00:04:32.900><c> here's</c><00:04:33.230><c> what</c><00:04:33.470><c> you</c>
+
+00:04:33.610 --> 00:04:33.620 align:start position:0%
+Gaussian kernel then here's what you
+ 
+
+00:04:33.620 --> 00:04:36.160 align:start position:0%
+Gaussian kernel then here's what you
+need<00:04:33.770><c> to</c><00:04:33.920><c> do</c><00:04:34.480><c> depending</c><00:04:35.480><c> on</c><00:04:35.570><c> what</c><00:04:35.810><c> support</c>
+
+00:04:36.160 --> 00:04:36.170 align:start position:0%
+need to do depending on what support
+ 
+
+00:04:36.170 --> 00:04:38.290 align:start position:0%
+need to do depending on what support
+vector<00:04:36.440><c> machine</c><00:04:36.740><c> software</c><00:04:37.130><c> package</c><00:04:38.090><c> you</c><00:04:38.120><c> use</c>
+
+00:04:38.290 --> 00:04:38.300 align:start position:0%
+vector machine software package you use
+ 
+
+00:04:38.300 --> 00:04:40.930 align:start position:0%
+vector machine software package you use
+it<00:04:39.050><c> may</c><00:04:39.230><c> ask</c><00:04:39.470><c> you</c><00:04:39.830><c> to</c><00:04:40.070><c> implement</c><00:04:40.250><c> a</c><00:04:40.880><c> kernel</c>
+
+00:04:40.930 --> 00:04:40.940 align:start position:0%
+it may ask you to implement a kernel
+ 
+
+00:04:40.940 --> 00:04:43.870 align:start position:0%
+it may ask you to implement a kernel
+function<00:04:41.570><c> or</c><00:04:42.110><c> to</c><00:04:42.230><c> implement</c><00:04:42.500><c> the</c><00:04:43.160><c> similarity</c>
+
+00:04:43.870 --> 00:04:43.880 align:start position:0%
+function or to implement the similarity
+ 
+
+00:04:43.880 --> 00:04:47.380 align:start position:0%
+function or to implement the similarity
+function<00:04:44.300><c> so</c><00:04:45.200><c> if</c><00:04:45.500><c> you</c><00:04:45.710><c> are</c><00:04:45.770><c> using</c><00:04:46.610><c> an</c><00:04:46.880><c> octave</c>
+
+00:04:47.380 --> 00:04:47.390 align:start position:0%
+function so if you are using an octave
+ 
+
+00:04:47.390 --> 00:04:50.140 align:start position:0%
+function so if you are using an octave
+or<00:04:47.660><c> MATLAB</c><00:04:48.310><c> implementation</c><00:04:49.310><c> of</c><00:04:49.400><c> an</c><00:04:49.490><c> SVM</c><00:04:49.880><c> it</c>
+
+00:04:50.140 --> 00:04:50.150 align:start position:0%
+or MATLAB implementation of an SVM it
+ 
+
+00:04:50.150 --> 00:04:52.720 align:start position:0%
+or MATLAB implementation of an SVM it
+may<00:04:50.240><c> ask</c><00:04:50.420><c> you</c><00:04:50.600><c> to</c><00:04:50.960><c> provide</c><00:04:51.170><c> a</c><00:04:51.380><c> function</c><00:04:51.800><c> to</c>
+
+00:04:52.720 --> 00:04:52.730 align:start position:0%
+may ask you to provide a function to
+ 
+
+00:04:52.730 --> 00:04:54.730 align:start position:0%
+may ask you to provide a function to
+compute<00:04:53.120><c> a</c><00:04:53.360><c> particular</c><00:04:53.600><c> feature</c><00:04:54.200><c> of</c><00:04:54.380><c> the</c>
+
+00:04:54.730 --> 00:04:54.740 align:start position:0%
+compute a particular feature of the
+ 
+
+00:04:54.740 --> 00:04:56.590 align:start position:0%
+compute a particular feature of the
+kernel<00:04:54.770><c> so</c><00:04:55.220><c> this</c><00:04:55.460><c> is</c><00:04:55.580><c> really</c><00:04:55.760><c> computing</c><00:04:56.360><c> f</c>
+
+00:04:56.590 --> 00:04:56.600 align:start position:0%
+kernel so this is really computing f
+ 
+
+00:04:56.600 --> 00:04:58.780 align:start position:0%
+kernel so this is really computing f
+subscript<00:04:57.080><c> I</c><00:04:57.440><c> for</c><00:04:57.800><c> one</c><00:04:58.100><c> particular</c><00:04:58.250><c> value</c><00:04:58.730><c> of</c>
+
+00:04:58.780 --> 00:04:58.790 align:start position:0%
+subscript I for one particular value of
+ 
+
+00:04:58.790 --> 00:05:02.770 align:start position:0%
+subscript I for one particular value of
+I<00:04:59.000><c> where</c><00:04:59.720><c> F</c><00:05:00.140><c> here</c><00:05:01.040><c> is</c><00:05:01.090><c> just</c><00:05:02.090><c> a</c><00:05:02.210><c> single</c><00:05:02.540><c> real</c>
+
+00:05:02.770 --> 00:05:02.780 align:start position:0%
+I where F here is just a single real
+ 
+
+00:05:02.780 --> 00:05:04.510 align:start position:0%
+I where F here is just a single real
+number<00:05:02.810><c> so</c><00:05:03.530><c> maybe</c><00:05:03.740><c> I</c><00:05:03.890><c> should</c><00:05:04.130><c> make</c><00:05:04.340><c> this</c>
+
+00:05:04.510 --> 00:05:04.520 align:start position:0%
+number so maybe I should make this
+ 
+
+00:05:04.520 --> 00:05:07.630 align:start position:0%
+number so maybe I should make this
+better<00:05:04.790><c> written</c><00:05:05.000><c> FY</c><00:05:05.630><c> but</c><00:05:06.050><c> what</c><00:05:06.680><c> you</c><00:05:07.370><c> need</c><00:05:07.550><c> to</c>
+
+00:05:07.630 --> 00:05:07.640 align:start position:0%
+better written FY but what you need to
+ 
+
+00:05:07.640 --> 00:05:09.280 align:start position:0%
+better written FY but what you need to
+do<00:05:07.790><c> is</c><00:05:07.910><c> write</c><00:05:08.120><c> a</c><00:05:08.150><c> kernel</c><00:05:08.540><c> function</c><00:05:08.570><c> that</c><00:05:09.110><c> takes</c>
+
+00:05:09.280 --> 00:05:09.290 align:start position:0%
+do is write a kernel function that takes
+ 
+
+00:05:09.290 --> 00:05:11.620 align:start position:0%
+do is write a kernel function that takes
+this<00:05:09.440><c> input</c><00:05:09.500><c> you</c><00:05:10.430><c> know</c><00:05:10.550><c> a</c><00:05:10.580><c> training</c><00:05:11.000><c> example</c>
+
+00:05:11.620 --> 00:05:11.630 align:start position:0%
+this input you know a training example
+ 
+
+00:05:11.630 --> 00:05:13.390 align:start position:0%
+this input you know a training example
+or<00:05:12.020><c> a</c><00:05:12.080><c> test</c><00:05:12.290><c> example</c><00:05:12.740><c> whatever</c><00:05:12.890><c> it</c><00:05:13.100><c> takes</c><00:05:13.280><c> in</c>
+
+00:05:13.390 --> 00:05:13.400 align:start position:0%
+or a test example whatever it takes in
+ 
+
+00:05:13.400 --> 00:05:16.120 align:start position:0%
+or a test example whatever it takes in
+some<00:05:13.610><c> vector</c><00:05:13.940><c> X</c><00:05:14.060><c> and</c><00:05:14.330><c> takes</c><00:05:14.990><c> this</c><00:05:15.110><c> input</c><00:05:15.290><c> one</c>
+
+00:05:16.120 --> 00:05:16.130 align:start position:0%
+some vector X and takes this input one
+ 
+
+00:05:16.130 --> 00:05:19.840 align:start position:0%
+some vector X and takes this input one
+of<00:05:16.160><c> the</c><00:05:16.280><c> landmarks</c><00:05:16.400><c> and</c><00:05:18.010><c> but</c><00:05:19.010><c> only</c><00:05:19.040><c> up</c><00:05:19.370><c> calling</c>
+
+00:05:19.840 --> 00:05:19.850 align:start position:0%
+of the landmarks and but only up calling
+ 
+
+00:05:19.850 --> 00:05:21.940 align:start position:0%
+of the landmarks and but only up calling
+them<00:05:20.000><c> x1</c><00:05:20.510><c> and</c><00:05:20.990><c> x2</c><00:05:21.200><c> here</c><00:05:21.500><c> because</c><00:05:21.830><c> the</c>
+
+00:05:21.940 --> 00:05:21.950 align:start position:0%
+them x1 and x2 here because the
+ 
+
+00:05:21.950 --> 00:05:23.530 align:start position:0%
+them x1 and x2 here because the
+landmarks<00:05:22.460><c> are</c><00:05:22.580><c> really</c><00:05:22.790><c> training</c><00:05:23.030><c> examples</c>
+
+00:05:23.530 --> 00:05:23.540 align:start position:0%
+landmarks are really training examples
+ 
+
+00:05:23.540 --> 00:05:27.040 align:start position:0%
+landmarks are really training examples
+as<00:05:23.660><c> well</c><00:05:23.810><c> but</c><00:05:25.180><c> what</c><00:05:26.180><c> you</c><00:05:26.300><c> need</c><00:05:26.450><c> to</c><00:05:26.540><c> do</c><00:05:26.690><c> is</c><00:05:26.840><c> write</c>
+
+00:05:27.040 --> 00:05:27.050 align:start position:0%
+as well but what you need to do is write
+ 
+
+00:05:27.050 --> 00:05:28.570 align:start position:0%
+as well but what you need to do is write
+software<00:05:27.260><c> that</c><00:05:27.710><c> takes</c><00:05:27.800><c> as</c><00:05:28.010><c> input</c><00:05:28.340><c> you</c><00:05:28.460><c> know</c><00:05:28.520><c> x1</c>
+
+00:05:28.570 --> 00:05:28.580 align:start position:0%
+software that takes as input you know x1
+ 
+
+00:05:28.580 --> 00:05:31.270 align:start position:0%
+software that takes as input you know x1
+x2<00:05:29.120><c> and</c><00:05:29.480><c> confuse</c><00:05:30.140><c> this</c><00:05:30.320><c> sort</c><00:05:30.530><c> of</c><00:05:30.590><c> similarity</c>
+
+00:05:31.270 --> 00:05:31.280 align:start position:0%
+x2 and confuse this sort of similarity
+ 
+
+00:05:31.280 --> 00:05:33.460 align:start position:0%
+x2 and confuse this sort of similarity
+function<00:05:31.670><c> between</c><00:05:31.790><c> them</c><00:05:32.120><c> and</c><00:05:32.360><c> return</c><00:05:32.930><c> a</c><00:05:33.200><c> real</c>
+
+00:05:33.460 --> 00:05:33.470 align:start position:0%
+function between them and return a real
+ 
+
+00:05:33.470 --> 00:05:37.330 align:start position:0%
+function between them and return a real
+number<00:05:33.710><c> and</c><00:05:35.380><c> so</c><00:05:36.380><c> what</c><00:05:36.620><c> some</c><00:05:36.830><c> support</c><00:05:37.130><c> vector</c>
+
+00:05:37.330 --> 00:05:37.340 align:start position:0%
+number and so what some support vector
+ 
+
+00:05:37.340 --> 00:05:39.640 align:start position:0%
+number and so what some support vector
+machine<00:05:37.580><c> packages</c><00:05:38.060><c> will</c><00:05:38.240><c> do</c><00:05:38.690><c> is</c><00:05:38.990><c> expect</c><00:05:39.470><c> you</c>
+
+00:05:39.640 --> 00:05:39.650 align:start position:0%
+machine packages will do is expect you
+ 
+
+00:05:39.650 --> 00:05:41.530 align:start position:0%
+machine packages will do is expect you
+to<00:05:39.860><c> provide</c><00:05:40.220><c> this</c><00:05:40.460><c> kernel</c><00:05:40.880><c> function</c><00:05:41.300><c> that</c>
+
+00:05:41.530 --> 00:05:41.540 align:start position:0%
+to provide this kernel function that
+ 
+
+00:05:41.540 --> 00:05:43.780 align:start position:0%
+to provide this kernel function that
+takes<00:05:41.780><c> us</c><00:05:41.990><c> input</c><00:05:42.440><c> you</c><00:05:42.980><c> know</c><00:05:43.010><c> x1</c><00:05:43.100><c> x2</c><00:05:43.640><c> and</c>
+
+00:05:43.780 --> 00:05:43.790 align:start position:0%
+takes us input you know x1 x2 and
+ 
+
+00:05:43.790 --> 00:05:46.060 align:start position:0%
+takes us input you know x1 x2 and
+returns<00:05:44.300><c> a</c><00:05:44.420><c> real</c><00:05:44.600><c> number</c><00:05:44.960><c> and</c><00:05:45.140><c> then</c><00:05:45.740><c> it</c><00:05:45.920><c> will</c>
+
+00:05:46.060 --> 00:05:46.070 align:start position:0%
+returns a real number and then it will
+ 
+
+00:05:46.070 --> 00:05:47.050 align:start position:0%
+returns a real number and then it will
+take<00:05:46.160><c> it</c><00:05:46.340><c> from</c><00:05:46.430><c> there</c><00:05:46.520><c> and</c><00:05:46.700><c> it</c><00:05:46.970><c> will</c>
+
+00:05:47.050 --> 00:05:47.060 align:start position:0%
+take it from there and it will
+ 
+
+00:05:47.060 --> 00:05:49.360 align:start position:0%
+take it from there and it will
+automatically<00:05:47.660><c> generate</c><00:05:47.750><c> all</c><00:05:48.500><c> the</c><00:05:49.010><c> features</c>
+
+00:05:49.360 --> 00:05:49.370 align:start position:0%
+automatically generate all the features
+ 
+
+00:05:49.370 --> 00:05:51.790 align:start position:0%
+automatically generate all the features
+so<00:05:49.610><c> automatically</c><00:05:50.150><c> you</c><00:05:50.450><c> know</c><00:05:50.750><c> take</c><00:05:50.960><c> X</c><00:05:51.200><c> and</c><00:05:51.530><c> map</c>
+
+00:05:51.790 --> 00:05:51.800 align:start position:0%
+so automatically you know take X and map
+ 
+
+00:05:51.800 --> 00:05:54.880 align:start position:0%
+so automatically you know take X and map
+it<00:05:51.950><c> into</c><00:05:52.040><c> f1</c><00:05:52.310><c> f2</c><00:05:52.820><c> down</c><00:05:53.750><c> to</c><00:05:53.900><c> FM</c><00:05:54.260><c> using</c><00:05:54.770><c> this</c>
+
+00:05:54.880 --> 00:05:54.890 align:start position:0%
+it into f1 f2 down to FM using this
+ 
+
+00:05:54.890 --> 00:05:56.770 align:start position:0%
+it into f1 f2 down to FM using this
+function<00:05:55.280><c> that</c><00:05:55.310><c> you</c><00:05:55.520><c> write</c><00:05:55.550><c> and</c><00:05:56.000><c> generate</c><00:05:56.630><c> all</c>
+
+00:05:56.770 --> 00:05:56.780 align:start position:0%
+function that you write and generate all
+ 
+
+00:05:56.780 --> 00:05:58.360 align:start position:0%
+function that you write and generate all
+the<00:05:56.900><c> features</c><00:05:57.260><c> and</c><00:05:57.590><c> train</c><00:05:57.920><c> the</c><00:05:58.070><c> support</c>
+
+00:05:58.360 --> 00:05:58.370 align:start position:0%
+the features and train the support
+ 
+
+00:05:58.370 --> 00:06:00.310 align:start position:0%
+the features and train the support
+vector<00:05:58.610><c> machine</c><00:05:58.850><c> from</c><00:05:59.060><c> there</c><00:05:59.300><c> but</c><00:05:59.810><c> sometimes</c>
+
+00:06:00.310 --> 00:06:00.320 align:start position:0%
+vector machine from there but sometimes
+ 
+
+00:06:00.320 --> 00:06:01.780 align:start position:0%
+vector machine from there but sometimes
+you<00:06:00.500><c> do</c><00:06:00.650><c> need</c><00:06:00.800><c> to</c><00:06:00.920><c> provide</c><00:06:01.130><c> this</c><00:06:01.430><c> function</c>
+
+00:06:01.780 --> 00:06:01.790 align:start position:0%
+you do need to provide this function
+ 
+
+00:06:01.790 --> 00:06:02.770 align:start position:0%
+you do need to provide this function
+yourself
+
+00:06:02.770 --> 00:06:02.780 align:start position:0%
+yourself
+ 
+
+00:06:02.780 --> 00:06:04.480 align:start position:0%
+yourself
+although<00:06:03.620><c> if</c><00:06:03.740><c> you</c><00:06:03.830><c> are</c><00:06:03.889><c> using</c><00:06:04.070><c> the</c><00:06:04.280><c> Gaussian</c>
+
+00:06:04.480 --> 00:06:04.490 align:start position:0%
+although if you are using the Gaussian
+ 
+
+00:06:04.490 --> 00:06:07.120 align:start position:0%
+although if you are using the Gaussian
+kernel<00:06:04.850><c> some</c><00:06:05.420><c> some</c><00:06:05.840><c> SVM</c><00:06:06.380><c> implementations</c>
+
+00:06:07.120 --> 00:06:07.130 align:start position:0%
+kernel some some SVM implementations
+ 
+
+00:06:07.130 --> 00:06:09.760 align:start position:0%
+kernel some some SVM implementations
+will<00:06:07.340><c> also</c><00:06:07.840><c> include</c><00:06:08.840><c> the</c><00:06:08.960><c> Gaussian</c><00:06:09.380><c> kernel</c>
+
+00:06:09.760 --> 00:06:09.770 align:start position:0%
+will also include the Gaussian kernel
+ 
+
+00:06:09.770 --> 00:06:11.200 align:start position:0%
+will also include the Gaussian kernel
+and<00:06:09.800><c> a</c><00:06:10.010><c> few</c><00:06:10.130><c> other</c><00:06:10.280><c> kernels</c><00:06:10.490><c> as</c><00:06:10.790><c> well</c><00:06:11.000><c> since</c>
+
+00:06:11.200 --> 00:06:11.210 align:start position:0%
+and a few other kernels as well since
+ 
+
+00:06:11.210 --> 00:06:12.909 align:start position:0%
+and a few other kernels as well since
+the<00:06:11.330><c> Gaussian</c><00:06:11.480><c> kernel</c><00:06:11.900><c> is</c><00:06:12.200><c> probably</c><00:06:12.590><c> the</c><00:06:12.800><c> most</c>
+
+00:06:12.909 --> 00:06:12.919 align:start position:0%
+the Gaussian kernel is probably the most
+ 
+
+00:06:12.919 --> 00:06:15.850 align:start position:0%
+the Gaussian kernel is probably the most
+common<00:06:13.550><c> kernel</c><00:06:14.320><c> Gaussian</c><00:06:15.320><c> and</c><00:06:15.410><c> linear</c>
+
+00:06:15.850 --> 00:06:15.860 align:start position:0%
+common kernel Gaussian and linear
+ 
+
+00:06:15.860 --> 00:06:17.680 align:start position:0%
+common kernel Gaussian and linear
+kernels<00:06:16.280><c> are</c><00:06:16.430><c> related</c><00:06:16.760><c> to</c><00:06:16.940><c> most</c><00:06:17.150><c> popular</c>
+
+00:06:17.680 --> 00:06:17.690 align:start position:0%
+kernels are related to most popular
+ 
+
+00:06:17.690 --> 00:06:18.730 align:start position:0%
+kernels are related to most popular
+kernels<00:06:18.110><c> by</c><00:06:18.200><c> far</c>
+
+00:06:18.730 --> 00:06:18.740 align:start position:0%
+kernels by far
+ 
+
+00:06:18.740 --> 00:06:21.010 align:start position:0%
+kernels by far
+just<00:06:19.190><c> one</c><00:06:19.370><c> implementation</c><00:06:19.700><c> note</c><00:06:20.419><c> if</c><00:06:20.780><c> you</c><00:06:20.990><c> have</c>
+
+00:06:21.010 --> 00:06:21.020 align:start position:0%
+just one implementation note if you have
+ 
+
+00:06:21.020 --> 00:06:23.560 align:start position:0%
+just one implementation note if you have
+features<00:06:21.620><c> are</c><00:06:21.830><c> very</c><00:06:21.980><c> different</c><00:06:22.430><c> scales</c><00:06:22.760><c> it</c><00:06:23.360><c> is</c>
+
+00:06:23.560 --> 00:06:23.570 align:start position:0%
+features are very different scales it is
+ 
+
+00:06:23.570 --> 00:06:25.990 align:start position:0%
+features are very different scales it is
+important<00:06:24.169><c> to</c><00:06:24.410><c> perform</c><00:06:25.190><c> feature</c><00:06:25.639><c> scaling</c>
+
+00:06:25.990 --> 00:06:26.000 align:start position:0%
+important to perform feature scaling
+ 
+
+00:06:26.000 --> 00:06:28.450 align:start position:0%
+important to perform feature scaling
+before<00:06:26.600><c> using</c><00:06:26.840><c> the</c><00:06:27.050><c> Gaussian</c><00:06:27.740><c> kernel</c><00:06:28.250><c> and</c>
+
+00:06:28.450 --> 00:06:28.460 align:start position:0%
+before using the Gaussian kernel and
+ 
+
+00:06:28.460 --> 00:06:32.409 align:start position:0%
+before using the Gaussian kernel and
+here's<00:06:29.120><c> why</c><00:06:29.360><c> if</c><00:06:29.810><c> you</c><00:06:30.740><c> imagine</c><00:06:30.880><c> computing</c><00:06:31.880><c> the</c>
+
+00:06:32.409 --> 00:06:32.419 align:start position:0%
+here's why if you imagine computing the
+ 
+
+00:06:32.419 --> 00:06:34.840 align:start position:0%
+here's why if you imagine computing the
+norm<00:06:32.720><c> between</c><00:06:33.080><c> X</c><00:06:33.500><c> and</c><00:06:33.680><c> L</c><00:06:33.919><c> right</c><00:06:34.220><c> so</c><00:06:34.430><c> this</c><00:06:34.610><c> term</c>
+
+00:06:34.840 --> 00:06:34.850 align:start position:0%
+norm between X and L right so this term
+ 
+
+00:06:34.850 --> 00:06:36.580 align:start position:0%
+norm between X and L right so this term
+here<00:06:35.150><c> instead</c><00:06:35.510><c> like</c><00:06:35.660><c> the</c><00:06:35.780><c> numerator</c><00:06:36.260><c> term</c>
+
+00:06:36.580 --> 00:06:36.590 align:start position:0%
+here instead like the numerator term
+ 
+
+00:06:36.590 --> 00:06:40.030 align:start position:0%
+here instead like the numerator term
+over<00:06:36.800><c> there</c><00:06:37.540><c> what</c><00:06:38.540><c> this</c><00:06:38.720><c> is</c><00:06:38.930><c> doing</c><00:06:39.169><c> the</c><00:06:39.770><c> norm</c>
+
+00:06:40.030 --> 00:06:40.040 align:start position:0%
+over there what this is doing the norm
+ 
+
+00:06:40.040 --> 00:06:41.320 align:start position:0%
+over there what this is doing the norm
+between<00:06:40.220><c> X</c><00:06:40.490><c> and</c><00:06:40.580><c> now</c><00:06:40.700><c> that's</c><00:06:40.910><c> really</c><00:06:41.090><c> saying</c>
+
+00:06:41.320 --> 00:06:41.330 align:start position:0%
+between X and now that's really saying
+ 
+
+00:06:41.330 --> 00:06:42.700 align:start position:0%
+between X and now that's really saying
+you<00:06:41.419><c> know</c><00:06:41.570><c> let's</c><00:06:41.810><c> compute</c><00:06:42.080><c> the</c><00:06:42.169><c> vector</c><00:06:42.350><c> V</c>
+
+00:06:42.700 --> 00:06:42.710 align:start position:0%
+you know let's compute the vector V
+ 
+
+00:06:42.710 --> 00:06:45.130 align:start position:0%
+you know let's compute the vector V
+which<00:06:43.010><c> is</c><00:06:43.040><c> equal</c><00:06:43.370><c> to</c><00:06:43.400><c> X</c><00:06:43.610><c> minus</c><00:06:43.700><c> L</c><00:06:44.150><c> and</c><00:06:44.390><c> then</c>
+
+00:06:45.130 --> 00:06:45.140 align:start position:0%
+which is equal to X minus L and then
+ 
+
+00:06:45.140 --> 00:06:48.070 align:start position:0%
+which is equal to X minus L and then
+let's<00:06:45.470><c> compute</c><00:06:45.919><c> write</c><00:06:46.610><c> the</c><00:06:46.790><c> norm</c><00:06:47.090><c> of</c><00:06:47.450><c> this</c>
+
+00:06:48.070 --> 00:06:48.080 align:start position:0%
+let's compute write the norm of this
+ 
+
+00:06:48.080 --> 00:06:49.840 align:start position:0%
+let's compute write the norm of this
+vector<00:06:48.140><c> V</c><00:06:48.680><c> which</c><00:06:48.950><c> is</c><00:06:49.100><c> the</c><00:06:49.220><c> difference</c><00:06:49.550><c> Union</c>
+
+00:06:49.840 --> 00:06:49.850 align:start position:0%
+vector V which is the difference Union
+ 
+
+00:06:49.850 --> 00:06:51.760 align:start position:0%
+vector V which is the difference Union
+exit<00:06:50.120><c> and</c><00:06:50.300><c> so</c><00:06:50.480><c> the</c><00:06:50.630><c> norm</c><00:06:50.870><c> of</c><00:06:51.020><c> V</c><00:06:51.260><c> is</c><00:06:51.470><c> really</c>
+
+00:06:51.760 --> 00:06:51.770 align:start position:0%
+exit and so the norm of V is really
+ 
+
+00:06:51.770 --> 00:06:55.780 align:start position:0%
+exit and so the norm of V is really
+equal<00:06:52.130><c> to</c><00:06:52.480><c> v1</c><00:06:53.480><c> squared</c><00:06:54.169><c> plus</c><00:06:54.290><c> v2</c><00:06:54.530><c> squared</c><00:06:55.520><c> plus</c>
+
+00:06:55.780 --> 00:06:55.790 align:start position:0%
+equal to v1 squared plus v2 squared plus
+ 
+
+00:06:55.790 --> 00:06:59.980 align:start position:0%
+equal to v1 squared plus v2 squared plus
+dot<00:06:55.970><c> dot</c><00:06:56.210><c> plus</c><00:06:56.360><c> VN</c><00:06:57.760><c> squared</c><00:06:58.760><c> because</c><00:06:59.210><c> here</c><00:06:59.660><c> X</c>
+
+00:06:59.980 --> 00:06:59.990 align:start position:0%
+dot dot plus VN squared because here X
+ 
+
+00:06:59.990 --> 00:07:03.280 align:start position:0%
+dot dot plus VN squared because here X
+is<00:07:00.320><c> in</c><00:07:00.470><c> R</c><00:07:01.070><c> and</c><00:07:01.520><c> no</c><00:07:01.940><c> RN</c><00:07:02.330><c> plus</c><00:07:02.510><c> 1</c><00:07:02.720><c> but</c><00:07:02.960><c> I'm</c><00:07:03.110><c> going</c>
+
+00:07:03.280 --> 00:07:03.290 align:start position:0%
+is in R and no RN plus 1 but I'm going
+ 
+
+00:07:03.290 --> 00:07:07.690 align:start position:0%
+is in R and no RN plus 1 but I'm going
+to<00:07:03.350><c> ignore</c><00:07:03.620><c> you</c><00:07:03.919><c> know</c><00:07:04.490><c> X</c><00:07:05.000><c> 0</c><00:07:06.520><c> because</c><00:07:07.520><c> let's</c>
+
+00:07:07.690 --> 00:07:07.700 align:start position:0%
+to ignore you know X 0 because let's
+ 
+
+00:07:07.700 --> 00:07:10.930 align:start position:0%
+to ignore you know X 0 because let's
+pretend<00:07:08.210><c> X</c><00:07:08.390><c> is</c><00:07:08.510><c> an</c><00:07:08.630><c> RN</c><00:07:09.020><c> for</c><00:07:09.830><c> square</c><00:07:10.220><c> square</c><00:07:10.820><c> on</c>
+
+00:07:10.930 --> 00:07:10.940 align:start position:0%
+pretend X is an RN for square square on
+ 
+
+00:07:10.940 --> 00:07:12.070 align:start position:0%
+pretend X is an RN for square square on
+the<00:07:11.030><c> left</c><00:07:11.210><c> side</c><00:07:11.419><c> so</c><00:07:11.600><c> what</c><00:07:11.720><c> it</c><00:07:11.870><c> means</c><00:07:11.900><c> is</c>
+
+00:07:12.070 --> 00:07:12.080 align:start position:0%
+the left side so what it means is
+ 
+
+00:07:12.080 --> 00:07:14.940 align:start position:0%
+the left side so what it means is
+correct<00:07:12.410><c> and</c><00:07:12.590><c> so</c><00:07:12.800><c> you</c><00:07:13.280><c> know</c><00:07:13.400><c> this</c><00:07:13.669><c> is</c><00:07:13.970><c> equal</c><00:07:14.390><c> to</c>
+
+00:07:14.940 --> 00:07:14.950 align:start position:0%
+correct and so you know this is equal to
+ 
+
+00:07:14.950 --> 00:07:18.340 align:start position:0%
+correct and so you know this is equal to
+that's<00:07:15.950><c> right</c><00:07:16.310><c> and</c><00:07:16.580><c> so</c><00:07:17.450><c> written</c><00:07:17.840><c> differently</c>
+
+00:07:18.340 --> 00:07:18.350 align:start position:0%
+that's right and so written differently
+ 
+
+00:07:18.350 --> 00:07:21.610 align:start position:0%
+that's right and so written differently
+this<00:07:18.560><c> is</c><00:07:18.620><c> going</c><00:07:18.890><c> to</c><00:07:18.979><c> be</c><00:07:19.100><c> x1</c><00:07:19.640><c> minus</c><00:07:20.060><c> l1</c><00:07:20.620><c> squared</c>
+
+00:07:21.610 --> 00:07:21.620 align:start position:0%
+this is going to be x1 minus l1 squared
+ 
+
+00:07:21.620 --> 00:07:25.390 align:start position:0%
+this is going to be x1 minus l1 squared
+plus<00:07:22.000><c> x2</c><00:07:23.000><c> minus</c><00:07:23.030><c> l2</c><00:07:23.630><c> squared</c><00:07:24.500><c> plus</c><00:07:24.890><c> 1</c><00:07:25.130><c> divided</c>
+
+00:07:25.390 --> 00:07:25.400 align:start position:0%
+plus x2 minus l2 squared plus 1 divided
+ 
+
+00:07:25.400 --> 00:07:30.700 align:start position:0%
+plus x2 minus l2 squared plus 1 divided
+by<00:07:25.430><c> X</c><00:07:26.360><c> n</c><00:07:26.600><c> minus</c><00:07:27.080><c> Ln</c><00:07:28.000><c> squared</c><00:07:29.000><c> and</c><00:07:29.240><c> now</c><00:07:29.990><c> if</c><00:07:30.380><c> your</c>
+
+00:07:30.700 --> 00:07:30.710 align:start position:0%
+by X n minus Ln squared and now if your
+ 
+
+00:07:30.710 --> 00:07:32.980 align:start position:0%
+by X n minus Ln squared and now if your
+features<00:07:30.740><c> take</c><00:07:31.550><c> on</c><00:07:32.180><c> very</c><00:07:32.240><c> different</c><00:07:32.810><c> ranges</c>
+
+00:07:32.980 --> 00:07:32.990 align:start position:0%
+features take on very different ranges
+ 
+
+00:07:32.990 --> 00:07:35.920 align:start position:0%
+features take on very different ranges
+of<00:07:33.410><c> values</c><00:07:33.950><c> so</c><00:07:34.250><c> take</c><00:07:34.789><c> a</c><00:07:34.820><c> housing</c><00:07:35.390><c> prediction</c>
+
+00:07:35.920 --> 00:07:35.930 align:start position:0%
+of values so take a housing prediction
+ 
+
+00:07:35.930 --> 00:07:38.950 align:start position:0%
+of values so take a housing prediction
+example<00:07:36.590><c> when</c><00:07:36.740><c> you</c><00:07:36.830><c> try</c><00:07:37.160><c> to</c><00:07:37.190><c> if</c><00:07:38.090><c> your</c><00:07:38.510><c> data</c><00:07:38.780><c> is</c>
+
+00:07:38.950 --> 00:07:38.960 align:start position:0%
+example when you try to if your data is
+ 
+
+00:07:38.960 --> 00:07:42.520 align:start position:0%
+example when you try to if your data is
+some<00:07:39.830><c> data</c><00:07:40.039><c> about</c><00:07:40.310><c> houses</c><00:07:40.940><c> and</c><00:07:41.180><c> if</c><00:07:41.720><c> X</c><00:07:41.990><c> is</c><00:07:42.289><c> in</c>
+
+00:07:42.520 --> 00:07:42.530 align:start position:0%
+some data about houses and if X is in
+ 
+
+00:07:42.530 --> 00:07:44.680 align:start position:0%
+some data about houses and if X is in
+the<00:07:43.130><c> range</c><00:07:43.370><c> of</c><00:07:43.729><c> you</c><00:07:43.880><c> know</c><00:07:44.000><c> thousands</c><00:07:44.570><c> of</c>
+
+00:07:44.680 --> 00:07:44.690 align:start position:0%
+the range of you know thousands of
+ 
+
+00:07:44.690 --> 00:07:48.310 align:start position:0%
+the range of you know thousands of
+square<00:07:44.870><c> feet</c><00:07:45.910><c> right</c><00:07:46.910><c> to</c><00:07:46.970><c> put</c><00:07:47.990><c> for</c><00:07:48.229><c> the</c>
+
+00:07:48.310 --> 00:07:48.320 align:start position:0%
+square feet right to put for the
+ 
+
+00:07:48.320 --> 00:07:50.650 align:start position:0%
+square feet right to put for the
+first<00:07:48.530><c> few</c><00:07:48.710><c> x1</c><00:07:49.220><c> but</c><00:07:49.850><c> if</c><00:07:50.000><c> your</c><00:07:50.150><c> second</c><00:07:50.510><c> feature</c>
+
+00:07:50.650 --> 00:07:50.660 align:start position:0%
+first few x1 but if your second feature
+ 
+
+00:07:50.660 --> 00:07:52.990 align:start position:0%
+first few x1 but if your second feature
+x2<00:07:50.870><c> is</c><00:07:51.440><c> the</c><00:07:51.650><c> number</c><00:07:51.919><c> of</c><00:07:51.950><c> bedrooms</c><00:07:52.190><c> so</c><00:07:52.729><c> if</c><00:07:52.850><c> this</c>
+
+00:07:52.990 --> 00:07:53.000 align:start position:0%
+x2 is the number of bedrooms so if this
+ 
+
+00:07:53.000 --> 00:07:54.430 align:start position:0%
+x2 is the number of bedrooms so if this
+is<00:07:53.180><c> you</c><00:07:53.270><c> know</c><00:07:53.360><c> in</c><00:07:53.539><c> the</c><00:07:53.600><c> range</c><00:07:53.810><c> of</c><00:07:53.930><c> one</c><00:07:54.140><c> to</c><00:07:54.169><c> five</c>
+
+00:07:54.430 --> 00:07:54.440 align:start position:0%
+is you know in the range of one to five
+ 
+
+00:07:54.440 --> 00:07:59.350 align:start position:0%
+is you know in the range of one to five
+bedrooms<00:07:55.930><c> then</c><00:07:57.130><c> x1</c><00:07:58.130><c> minus</c><00:07:58.490><c> l1</c><00:07:58.669><c> is</c><00:07:59.030><c> going</c><00:07:59.210><c> to</c><00:07:59.270><c> be</c>
+
+00:07:59.350 --> 00:07:59.360 align:start position:0%
+bedrooms then x1 minus l1 is going to be
+ 
+
+00:07:59.360 --> 00:08:00.850 align:start position:0%
+bedrooms then x1 minus l1 is going to be
+huge<00:07:59.720><c> this</c><00:07:59.930><c> could</c><00:08:00.080><c> be</c><00:08:00.140><c> like</c><00:08:00.289><c> a</c><00:08:00.320><c> thousand</c>
+
+00:08:00.850 --> 00:08:00.860 align:start position:0%
+huge this could be like a thousand
+ 
+
+00:08:00.860 --> 00:08:03.490 align:start position:0%
+huge this could be like a thousand
+squared<00:08:01.280><c> whereas</c><00:08:02.030><c> x2</c><00:08:02.390><c> minus</c><00:08:02.750><c> l2</c><00:08:02.900><c> is</c><00:08:03.289><c> going</c><00:08:03.440><c> to</c>
+
+00:08:03.490 --> 00:08:03.500 align:start position:0%
+squared whereas x2 minus l2 is going to
+ 
+
+00:08:03.500 --> 00:08:05.320 align:start position:0%
+squared whereas x2 minus l2 is going to
+be<00:08:03.560><c> much</c><00:08:03.740><c> smaller</c><00:08:04.070><c> and</c><00:08:04.580><c> if</c><00:08:04.760><c> that's</c><00:08:04.910><c> the</c><00:08:05.120><c> case</c>
+
+00:08:05.320 --> 00:08:05.330 align:start position:0%
+be much smaller and if that's the case
+ 
+
+00:08:05.330 --> 00:08:06.460 align:start position:0%
+be much smaller and if that's the case
+then
+
+00:08:06.460 --> 00:08:06.470 align:start position:0%
+then
+ 
+
+00:08:06.470 --> 00:08:09.550 align:start position:0%
+then
+in<00:08:06.530><c> this</c><00:08:06.770><c> term</c><00:08:07.480><c> those</c><00:08:08.480><c> distances</c><00:08:09.200><c> will</c><00:08:09.440><c> be</c>
+
+00:08:09.550 --> 00:08:09.560 align:start position:0%
+in this term those distances will be
+ 
+
+00:08:09.560 --> 00:08:11.620 align:start position:0%
+in this term those distances will be
+almost<00:08:10.040><c> essentially</c><00:08:10.580><c> dominated</c><00:08:11.330><c> by</c><00:08:11.570><c> two</c>
+
+00:08:11.620 --> 00:08:11.630 align:start position:0%
+almost essentially dominated by two
+ 
+
+00:08:11.630 --> 00:08:14.620 align:start position:0%
+almost essentially dominated by two
+sizes<00:08:12.200><c> by</c><00:08:12.500><c> the</c><00:08:12.530><c> sizes</c><00:08:13.130><c> of</c><00:08:13.160><c> the</c><00:08:13.400><c> houses</c><00:08:13.850><c> and</c><00:08:14.030><c> the</c>
+
+00:08:14.620 --> 00:08:14.630 align:start position:0%
+sizes by the sizes of the houses and the
+ 
+
+00:08:14.630 --> 00:08:15.970 align:start position:0%
+sizes by the sizes of the houses and the
+number<00:08:14.870><c> of</c><00:08:14.960><c> bedrooms</c><00:08:15.110><c> will</c><00:08:15.560><c> be</c><00:08:15.680><c> largely</c>
+
+00:08:15.970 --> 00:08:15.980 align:start position:0%
+number of bedrooms will be largely
+ 
+
+00:08:15.980 --> 00:08:18.580 align:start position:0%
+number of bedrooms will be largely
+ignored<00:08:16.430><c> and</c><00:08:16.640><c> so</c><00:08:17.240><c> to</c><00:08:17.300><c> avoid</c><00:08:17.480><c> this</c><00:08:17.930><c> in</c><00:08:18.230><c> order</c><00:08:18.470><c> to</c>
+
+00:08:18.580 --> 00:08:18.590 align:start position:0%
+ignored and so to avoid this in order to
+ 
+
+00:08:18.590 --> 00:08:21.730 align:start position:0%
+ignored and so to avoid this in order to
+make<00:08:18.710><c> an</c><00:08:18.830><c> NCO</c><00:08:19.070><c> work</c><00:08:19.280><c> well</c><00:08:20.020><c> doing</c><00:08:21.020><c> perform</c><00:08:21.410><c> do</c>
+
+00:08:21.730 --> 00:08:21.740 align:start position:0%
+make an NCO work well doing perform do
+ 
+
+00:08:21.740 --> 00:08:23.800 align:start position:0%
+make an NCO work well doing perform do
+perform<00:08:22.160><c> feature</c><00:08:22.370><c> scaling</c><00:08:22.760><c> and</c><00:08:23.150><c> that</c><00:08:23.690><c> will</c>
+
+00:08:23.800 --> 00:08:23.810 align:start position:0%
+perform feature scaling and that will
+ 
+
+00:08:23.810 --> 00:08:25.990 align:start position:0%
+perform feature scaling and that will
+make<00:08:23.930><c> sure</c><00:08:23.960><c> that</c><00:08:24.380><c> the</c><00:08:24.530><c> SVM</c><00:08:24.920><c> gives</c><00:08:25.220><c> you</c><00:08:25.910><c> no</c>
+
+00:08:25.990 --> 00:08:26.000 align:start position:0%
+make sure that the SVM gives you no
+ 
+
+00:08:26.000 --> 00:08:28.270 align:start position:0%
+make sure that the SVM gives you no
+comparable<00:08:26.630><c> amount</c><00:08:26.900><c> of</c><00:08:27.050><c> attention</c><00:08:27.410><c> to</c><00:08:27.770><c> all</c><00:08:28.100><c> of</c>
+
+00:08:28.270 --> 00:08:28.280 align:start position:0%
+comparable amount of attention to all of
+ 
+
+00:08:28.280 --> 00:08:30.190 align:start position:0%
+comparable amount of attention to all of
+your<00:08:28.550><c> different</c><00:08:28.880><c> features</c><00:08:29.240><c> and</c><00:08:29.570><c> not</c><00:08:29.690><c> just</c><00:08:30.020><c> two</c>
+
+00:08:30.190 --> 00:08:30.200 align:start position:0%
+your different features and not just two
+ 
+
+00:08:30.200 --> 00:08:32.589 align:start position:0%
+your different features and not just two
+in<00:08:30.590><c> this</c><00:08:30.740><c> example</c><00:08:31.100><c> the</c><00:08:31.460><c> size</c><00:08:31.700><c> of</c><00:08:31.880><c> houses</c><00:08:32.120><c> while</c>
+
+00:08:32.589 --> 00:08:32.599 align:start position:0%
+in this example the size of houses while
+ 
+
+00:08:32.599 --> 00:08:34.870 align:start position:0%
+in this example the size of houses while
+big<00:08:32.870><c> norming</c><00:08:33.229><c> the</c><00:08:33.320><c> other</c><00:08:33.440><c> features</c><00:08:33.880><c> when</c>
+
+00:08:34.870 --> 00:08:34.880 align:start position:0%
+big norming the other features when
+ 
+
+00:08:34.880 --> 00:08:36.490 align:start position:0%
+big norming the other features when
+you're<00:08:35.060><c> applying</c><00:08:35.330><c> a</c><00:08:35.510><c> support</c><00:08:35.840><c> vector</c><00:08:36.140><c> machine</c>
+
+00:08:36.490 --> 00:08:36.500 align:start position:0%
+you're applying a support vector machine
+ 
+
+00:08:36.500 --> 00:08:40.450 align:start position:0%
+you're applying a support vector machine
+chances<00:08:37.340><c> are</c><00:08:37.900><c> by</c><00:08:38.900><c> far</c><00:08:39.260><c> the</c><00:08:39.320><c> two</c><00:08:39.560><c> most</c><00:08:39.979><c> common</c>
+
+00:08:40.450 --> 00:08:40.460 align:start position:0%
+chances are by far the two most common
+ 
+
+00:08:40.460 --> 00:08:42.219 align:start position:0%
+chances are by far the two most common
+kernels<00:08:41.000><c> you</c><00:08:41.150><c> use</c><00:08:41.539><c> will</c><00:08:41.840><c> be</c><00:08:41.870><c> the</c><00:08:41.960><c> linear</c>
+
+00:08:42.219 --> 00:08:42.229 align:start position:0%
+kernels you use will be the linear
+ 
+
+00:08:42.229 --> 00:08:44.590 align:start position:0%
+kernels you use will be the linear
+kernel<00:08:42.590><c> meaning</c><00:08:43.159><c> no</c><00:08:43.310><c> kernel</c><00:08:43.760><c> or</c><00:08:44.000><c> the</c><00:08:44.120><c> Gaussian</c>
+
+00:08:44.590 --> 00:08:44.600 align:start position:0%
+kernel meaning no kernel or the Gaussian
+ 
+
+00:08:44.600 --> 00:08:47.110 align:start position:0%
+kernel meaning no kernel or the Gaussian
+kernel<00:08:44.840><c> that</c><00:08:45.140><c> we</c><00:08:45.230><c> talked</c><00:08:45.470><c> about</c><00:08:45.620><c> and</c><00:08:46.070><c> just</c><00:08:46.880><c> one</c>
+
+00:08:47.110 --> 00:08:47.120 align:start position:0%
+kernel that we talked about and just one
+ 
+
+00:08:47.120 --> 00:08:49.000 align:start position:0%
+kernel that we talked about and just one
+note<00:08:47.150><c> of</c><00:08:47.330><c> warning</c><00:08:47.570><c> which</c><00:08:47.990><c> is</c><00:08:48.110><c> that</c><00:08:48.290><c> not</c><00:08:48.770><c> all</c>
+
+00:08:49.000 --> 00:08:49.010 align:start position:0%
+note of warning which is that not all
+ 
+
+00:08:49.010 --> 00:08:50.710 align:start position:0%
+note of warning which is that not all
+similarity<00:08:49.610><c> functions</c><00:08:50.060><c> you</c><00:08:50.180><c> might</c><00:08:50.330><c> come</c><00:08:50.570><c> up</c>
+
+00:08:50.710 --> 00:08:50.720 align:start position:0%
+similarity functions you might come up
+ 
+
+00:08:50.720 --> 00:08:53.770 align:start position:0%
+similarity functions you might come up
+with<00:08:50.750><c> are</c><00:08:51.230><c> valid</c><00:08:51.800><c> kernels</c><00:08:52.280><c> and</c><00:08:52.580><c> the</c><00:08:53.570><c> Gaussian</c>
+
+00:08:53.770 --> 00:08:53.780 align:start position:0%
+with are valid kernels and the Gaussian
+ 
+
+00:08:53.780 --> 00:08:55.660 align:start position:0%
+with are valid kernels and the Gaussian
+kernel<00:08:54.170><c> and</c><00:08:54.380><c> the</c><00:08:54.560><c> linear</c><00:08:54.830><c> kernel</c><00:08:55.070><c> and</c><00:08:55.490><c> other</c>
+
+00:08:55.660 --> 00:08:55.670 align:start position:0%
+kernel and the linear kernel and other
+ 
+
+00:08:55.670 --> 00:08:57.580 align:start position:0%
+kernel and the linear kernel and other
+kernels<00:08:56.180><c> that</c><00:08:56.240><c> you</c><00:08:56.540><c> sometimes</c><00:08:57.110><c> others</c><00:08:57.440><c> will</c>
+
+00:08:57.580 --> 00:08:57.590 align:start position:0%
+kernels that you sometimes others will
+ 
+
+00:08:57.590 --> 00:08:59.290 align:start position:0%
+kernels that you sometimes others will
+use<00:08:57.740><c> all</c><00:08:57.950><c> of</c><00:08:58.010><c> them</c><00:08:58.280><c> need</c><00:08:58.430><c> to</c><00:08:58.490><c> satisfy</c><00:08:58.760><c> a</c>
+
+00:08:59.290 --> 00:08:59.300 align:start position:0%
+use all of them need to satisfy a
+ 
+
+00:08:59.300 --> 00:09:01.420 align:start position:0%
+use all of them need to satisfy a
+technical<00:08:59.840><c> condition</c><00:09:00.350><c> it's</c><00:09:00.800><c> called</c><00:09:01.010><c> vs.</c>
+
+00:09:01.420 --> 00:09:01.430 align:start position:0%
+technical condition it's called vs.
+ 
+
+00:09:01.430 --> 00:09:03.550 align:start position:0%
+technical condition it's called vs.
+theorem<00:09:01.880><c> and</c><00:09:02.060><c> the</c><00:09:02.720><c> reason</c><00:09:03.050><c> you</c><00:09:03.110><c> need</c><00:09:03.260><c> to</c><00:09:03.410><c> do</c>
+
+00:09:03.550 --> 00:09:03.560 align:start position:0%
+theorem and the reason you need to do
+ 
+
+00:09:03.560 --> 00:09:05.590 align:start position:0%
+theorem and the reason you need to do
+this<00:09:03.710><c> is</c><00:09:03.950><c> because</c><00:09:04.100><c> support</c><00:09:05.060><c> vector</c><00:09:05.300><c> machine</c>
+
+00:09:05.590 --> 00:09:05.600 align:start position:0%
+this is because support vector machine
+ 
+
+00:09:05.600 --> 00:09:08.200 align:start position:0%
+this is because support vector machine
+of<00:09:06.110><c> algorithms</c><00:09:06.860><c> or</c><00:09:07.040><c> implementations</c><00:09:07.090><c> of</c><00:09:08.090><c> the</c>
+
+00:09:08.200 --> 00:09:08.210 align:start position:0%
+of algorithms or implementations of the
+ 
+
+00:09:08.210 --> 00:09:10.630 align:start position:0%
+of algorithms or implementations of the
+SVM<00:09:08.480><c> have</c><00:09:09.080><c> lots</c><00:09:09.350><c> of</c><00:09:09.530><c> clever</c><00:09:09.860><c> numerical</c>
+
+00:09:10.630 --> 00:09:10.640 align:start position:0%
+SVM have lots of clever numerical
+ 
+
+00:09:10.640 --> 00:09:13.090 align:start position:0%
+SVM have lots of clever numerical
+optimization<00:09:10.820><c> tricks</c><00:09:11.750><c> in</c><00:09:11.930><c> order</c><00:09:12.440><c> to</c><00:09:12.680><c> solve</c>
+
+00:09:13.090 --> 00:09:13.100 align:start position:0%
+optimization tricks in order to solve
+ 
+
+00:09:13.100 --> 00:09:15.280 align:start position:0%
+optimization tricks in order to solve
+for<00:09:13.310><c> the</c><00:09:13.400><c> parameters</c><00:09:13.550><c> data</c><00:09:14.210><c> efficiently</c><00:09:14.690><c> and</c>
+
+00:09:15.280 --> 00:09:15.290 align:start position:0%
+for the parameters data efficiently and
+ 
+
+00:09:15.290 --> 00:09:19.090 align:start position:0%
+for the parameters data efficiently and
+in<00:09:16.280><c> the</c><00:09:17.089><c> original</c><00:09:17.720><c> design</c><00:09:18.020><c> of</c><00:09:18.050><c> SDS</c><00:09:18.620><c> there</c><00:09:18.980><c> was</c>
+
+00:09:19.090 --> 00:09:19.100 align:start position:0%
+in the original design of SDS there was
+ 
+
+00:09:19.100 --> 00:09:21.520 align:start position:0%
+in the original design of SDS there was
+a<00:09:19.130><c> there</c><00:09:19.520><c> was</c><00:09:19.550><c> a</c><00:09:19.640><c> decision</c><00:09:20.030><c> made</c><00:09:20.420><c> to</c><00:09:20.660><c> restrict</c>
+
+00:09:21.520 --> 00:09:21.530 align:start position:0%
+a there was a decision made to restrict
+ 
+
+00:09:21.530 --> 00:09:23.650 align:start position:0%
+a there was a decision made to restrict
+our<00:09:21.710><c> attention</c><00:09:22.250><c> only</c><00:09:22.460><c> to</c><00:09:22.730><c> kernels</c><00:09:23.450><c> that</c>
+
+00:09:23.650 --> 00:09:23.660 align:start position:0%
+our attention only to kernels that
+ 
+
+00:09:23.660 --> 00:09:25.480 align:start position:0%
+our attention only to kernels that
+satisfy<00:09:24.140><c> this</c><00:09:24.200><c> technical</c><00:09:24.830><c> condition</c><00:09:25.220><c> called</c>
+
+00:09:25.480 --> 00:09:25.490 align:start position:0%
+satisfy this technical condition called
+ 
+
+00:09:25.490 --> 00:09:27.370 align:start position:0%
+satisfy this technical condition called
+Mercer's<00:09:25.700><c> theorem</c><00:09:26.089><c> and</c><00:09:26.630><c> what</c><00:09:26.810><c> that</c><00:09:26.960><c> does</c><00:09:27.080><c> is</c>
+
+00:09:27.370 --> 00:09:27.380 align:start position:0%
+Mercer's theorem and what that does is
+ 
+
+00:09:27.380 --> 00:09:28.960 align:start position:0%
+Mercer's theorem and what that does is
+that<00:09:27.530><c> make</c><00:09:27.740><c> sure</c><00:09:27.950><c> that</c><00:09:28.220><c> all</c><00:09:28.430><c> of</c><00:09:28.580><c> these</c><00:09:28.670><c> SVM</c>
+
+00:09:28.960 --> 00:09:28.970 align:start position:0%
+that make sure that all of these SVM
+ 
+
+00:09:28.970 --> 00:09:30.940 align:start position:0%
+that make sure that all of these SVM
+packages<00:09:29.270><c> all</c><00:09:29.960><c> of</c><00:09:29.990><c> these</c><00:09:30.110><c> SVM</c><00:09:30.320><c> software</c>
+
+00:09:30.940 --> 00:09:30.950 align:start position:0%
+packages all of these SVM software
+ 
+
+00:09:30.950 --> 00:09:32.890 align:start position:0%
+packages all of these SVM software
+packages<00:09:31.400><c> can</c><00:09:32.030><c> use</c><00:09:32.210><c> a</c><00:09:32.240><c> large</c><00:09:32.570><c> class</c><00:09:32.870><c> of</c>
+
+00:09:32.890 --> 00:09:32.900 align:start position:0%
+packages can use a large class of
+ 
+
+00:09:32.900 --> 00:09:36.220 align:start position:0%
+packages can use a large class of
+optimizations<00:09:33.890><c> and</c><00:09:34.450><c> get</c><00:09:35.450><c> the</c><00:09:35.630><c> parameter</c><00:09:36.080><c> beta</c>
+
+00:09:36.220 --> 00:09:36.230 align:start position:0%
+optimizations and get the parameter beta
+ 
+
+00:09:36.230 --> 00:09:40.060 align:start position:0%
+optimizations and get the parameter beta
+theta<00:09:36.470><c> very</c><00:09:37.430><c> quickly</c><00:09:37.760><c> so</c><00:09:38.720><c> what</c><00:09:39.500><c> most</c><00:09:39.710><c> people</c>
+
+00:09:40.060 --> 00:09:40.070 align:start position:0%
+theta very quickly so what most people
+ 
+
+00:09:40.070 --> 00:09:42.400 align:start position:0%
+theta very quickly so what most people
+end<00:09:40.220><c> up</c><00:09:40.339><c> doing</c><00:09:40.700><c> is</c><00:09:40.910><c> using</c><00:09:41.540><c> either</c><00:09:41.870><c> the</c><00:09:42.110><c> linear</c>
+
+00:09:42.400 --> 00:09:42.410 align:start position:0%
+end up doing is using either the linear
+ 
+
+00:09:42.410 --> 00:09:44.680 align:start position:0%
+end up doing is using either the linear
+the<00:09:42.560><c> Gaussian</c><00:09:42.920><c> kernel</c><00:09:43.210><c> but</c><00:09:44.210><c> there</c><00:09:44.360><c> are</c><00:09:44.480><c> a</c><00:09:44.510><c> few</c>
+
+00:09:44.680 --> 00:09:44.690 align:start position:0%
+the Gaussian kernel but there are a few
+ 
+
+00:09:44.690 --> 00:09:46.720 align:start position:0%
+the Gaussian kernel but there are a few
+other<00:09:44.900><c> kernels</c><00:09:45.170><c> that</c><00:09:45.500><c> also</c><00:09:45.950><c> satisfy</c><00:09:46.520><c> Mercer's</c>
+
+00:09:46.720 --> 00:09:46.730 align:start position:0%
+other kernels that also satisfy Mercer's
+ 
+
+00:09:46.730 --> 00:09:48.250 align:start position:0%
+other kernels that also satisfy Mercer's
+theorem<00:09:47.240><c> and</c><00:09:47.510><c> that</c><00:09:47.570><c> you</c><00:09:47.810><c> may</c><00:09:47.990><c> run</c><00:09:48.200><c> across</c>
+
+00:09:48.250 --> 00:09:48.260 align:start position:0%
+theorem and that you may run across
+ 
+
+00:09:48.260 --> 00:09:50.620 align:start position:0%
+theorem and that you may run across
+other<00:09:48.830><c> people</c><00:09:49.190><c> using</c><00:09:49.400><c> although</c><00:09:49.880><c> I</c><00:09:49.910><c> Percy</c><00:09:50.450><c> end</c>
+
+00:09:50.620 --> 00:09:50.630 align:start position:0%
+other people using although I Percy end
+ 
+
+00:09:50.630 --> 00:09:52.690 align:start position:0%
+other people using although I Percy end
+up<00:09:50.780><c> using</c><00:09:50.960><c> other</c><00:09:51.290><c> kernels</c><00:09:51.560><c> you</c><00:09:52.280><c> know</c><00:09:52.400><c> very</c>
+
+00:09:52.690 --> 00:09:52.700 align:start position:0%
+up using other kernels you know very
+ 
+
+00:09:52.700 --> 00:09:55.270 align:start position:0%
+up using other kernels you know very
+very<00:09:53.000><c> rarely</c><00:09:53.300><c> if</c><00:09:53.660><c> at</c><00:09:53.780><c> all</c><00:09:54.010><c> just</c><00:09:55.010><c> to</c><00:09:55.100><c> mention</c>
+
+00:09:55.270 --> 00:09:55.280 align:start position:0%
+very rarely if at all just to mention
+ 
+
+00:09:55.280 --> 00:09:56.890 align:start position:0%
+very rarely if at all just to mention
+some<00:09:55.490><c> of</c><00:09:55.730><c> the</c><00:09:55.910><c> other</c><00:09:55.940><c> kernels</c><00:09:56.270><c> that</c><00:09:56.660><c> you</c><00:09:56.750><c> may</c>
+
+00:09:56.890 --> 00:09:56.900 align:start position:0%
+some of the other kernels that you may
+ 
+
+00:09:56.900 --> 00:10:00.340 align:start position:0%
+some of the other kernels that you may
+run<00:09:57.050><c> across</c><00:09:57.190><c> one</c><00:09:58.190><c> is</c><00:09:58.570><c> the</c><00:09:59.570><c> polynomial</c><00:10:00.320><c> kernel</c>
+
+00:10:00.340 --> 00:10:00.350 align:start position:0%
+run across one is the polynomial kernel
+ 
+
+00:10:00.350 --> 00:10:03.970 align:start position:0%
+run across one is the polynomial kernel
+and<00:10:00.970><c> for</c><00:10:01.970><c> that</c><00:10:02.120><c> the</c><00:10:02.540><c> similarity</c><00:10:02.750><c> between</c><00:10:03.290><c> X</c>
+
+00:10:03.970 --> 00:10:03.980 align:start position:0%
+and for that the similarity between X
+ 
+
+00:10:03.980 --> 00:10:07.780 align:start position:0%
+and for that the similarity between X
+and<00:10:04.190><c> L</c><00:10:04.880><c> is</c><00:10:05.630><c> defined</c><00:10:05.930><c> as</c><00:10:06.440><c> there</c><00:10:07.130><c> lot</c><00:10:07.280><c> of</c><00:10:07.310><c> options</c>
+
+00:10:07.780 --> 00:10:07.790 align:start position:0%
+and L is defined as there lot of options
+ 
+
+00:10:07.790 --> 00:10:10.000 align:start position:0%
+and L is defined as there lot of options
+I<00:10:07.910><c> guess</c><00:10:08.089><c> you</c><00:10:08.570><c> can</c><00:10:08.720><c> take</c><00:10:08.870><c> X</c><00:10:09.080><c> transpose</c><00:10:09.770><c> L</c>
+
+00:10:10.000 --> 00:10:10.010 align:start position:0%
+I guess you can take X transpose L
+ 
+
+00:10:10.010 --> 00:10:12.040 align:start position:0%
+I guess you can take X transpose L
+squared<00:10:10.670><c> so</c><00:10:11.089><c> you</c><00:10:11.150><c> know</c><00:10:11.390><c> here's</c><00:10:11.630><c> one</c><00:10:11.810><c> measure</c>
+
+00:10:12.040 --> 00:10:12.050 align:start position:0%
+squared so you know here's one measure
+ 
+
+00:10:12.050 --> 00:10:13.390 align:start position:0%
+squared so you know here's one measure
+of<00:10:12.140><c> how</c><00:10:12.410><c> similar</c><00:10:12.440><c> X</c>
+
+00:10:13.390 --> 00:10:13.400 align:start position:0%
+of how similar X
+ 
+
+00:10:13.400 --> 00:10:15.610 align:start position:0%
+of how similar X
+right<00:10:13.550><c> if</c><00:10:13.730><c> X</c><00:10:13.970><c> and</c><00:10:14.150><c> L</c><00:10:14.270><c> are</c><00:10:14.810><c> very</c><00:10:15.110><c> close</c><00:10:15.410><c> to</c><00:10:15.590><c> each</c>
+
+00:10:15.610 --> 00:10:15.620 align:start position:0%
+right if X and L are very close to each
+ 
+
+00:10:15.620 --> 00:10:17.920 align:start position:0%
+right if X and L are very close to each
+other<00:10:15.890><c> then</c><00:10:16.580><c> the</c><00:10:16.820><c> inner</c><00:10:17.150><c> product</c><00:10:17.390><c> will</c><00:10:17.720><c> tend</c>
+
+00:10:17.920 --> 00:10:17.930 align:start position:0%
+other then the inner product will tend
+ 
+
+00:10:17.930 --> 00:10:22.060 align:start position:0%
+other then the inner product will tend
+to<00:10:17.990><c> be</c><00:10:18.170><c> large</c><00:10:18.640><c> and</c><00:10:19.750><c> and</c><00:10:20.750><c> so</c><00:10:21.230><c> you</c><00:10:21.500><c> know</c><00:10:21.710><c> this</c><00:10:21.950><c> is</c>
+
+00:10:22.060 --> 00:10:22.070 align:start position:0%
+to be large and and so you know this is
+ 
+
+00:10:22.070 --> 00:10:24.310 align:start position:0%
+to be large and and so you know this is
+a<00:10:22.100><c> slightly</c><00:10:22.610><c> unusual</c><00:10:23.030><c> kernel</c><00:10:23.960><c> that's</c><00:10:24.110><c> not</c>
+
+00:10:24.310 --> 00:10:24.320 align:start position:0%
+a slightly unusual kernel that's not
+ 
+
+00:10:24.320 --> 00:10:26.920 align:start position:0%
+a slightly unusual kernel that's not
+used<00:10:24.590><c> that</c><00:10:24.650><c> often</c><00:10:24.920><c> but</c><00:10:25.310><c> it</c><00:10:25.490><c> works</c><00:10:25.730><c> but</c><00:10:26.600><c> you</c><00:10:26.780><c> may</c>
+
+00:10:26.920 --> 00:10:26.930 align:start position:0%
+used that often but it works but you may
+ 
+
+00:10:26.930 --> 00:10:30.550 align:start position:0%
+used that often but it works but you may
+run<00:10:27.110><c> across</c><00:10:27.440><c> some</c><00:10:28.430><c> people</c><00:10:28.610><c> using</c><00:10:29.180><c> it</c><00:10:29.380><c> this</c><00:10:30.380><c> is</c>
+
+00:10:30.550 --> 00:10:30.560 align:start position:0%
+run across some people using it this is
+ 
+
+00:10:30.560 --> 00:10:32.440 align:start position:0%
+run across some people using it this is
+one<00:10:30.740><c> version</c><00:10:30.920><c> of</c><00:10:31.250><c> polynomial</c><00:10:31.880><c> kernel</c><00:10:32.060><c> and</c>
+
+00:10:32.440 --> 00:10:32.450 align:start position:0%
+one version of polynomial kernel and
+ 
+
+00:10:32.450 --> 00:10:36.850 align:start position:0%
+one version of polynomial kernel and
+other<00:10:32.570><c> is</c><00:10:32.930><c> an</c><00:10:33.500><c> X</c><00:10:33.890><c> transpose</c><00:10:34.370><c> L</c><00:10:34.610><c> cubed</c><00:10:35.270><c> or</c><00:10:35.860><c> these</c>
+
+00:10:36.850 --> 00:10:36.860 align:start position:0%
+other is an X transpose L cubed or these
+ 
+
+00:10:36.860 --> 00:10:38.800 align:start position:0%
+other is an X transpose L cubed or these
+are<00:10:37.040><c> all</c><00:10:37.190><c> examples</c><00:10:37.640><c> of</c><00:10:38.060><c> the</c><00:10:38.180><c> polynomial</c>
+
+00:10:38.800 --> 00:10:38.810 align:start position:0%
+are all examples of the polynomial
+ 
+
+00:10:38.810 --> 00:10:41.590 align:start position:0%
+are all examples of the polynomial
+kernel<00:10:39.020><c> which</c><00:10:39.290><c> runs</c><00:10:39.560><c> develop</c><00:10:39.980><c> last</c><00:10:40.190><c> one</c><00:10:40.600><c> cubed</c>
+
+00:10:41.590 --> 00:10:41.600 align:start position:0%
+kernel which runs develop last one cubed
+ 
+
+00:10:41.600 --> 00:10:44.200 align:start position:0%
+kernel which runs develop last one cubed
+x<00:10:42.320><c> transpose</c><00:10:42.710><c> L</c><00:10:43.190><c> plus</c><00:10:43.220><c> may</c><00:10:43.760><c> be</c><00:10:43.820><c> number</c>
+
+00:10:44.200 --> 00:10:44.210 align:start position:0%
+x transpose L plus may be number
+ 
+
+00:10:44.210 --> 00:10:46.480 align:start position:0%
+x transpose L plus may be number
+different<00:10:44.570><c> than</c><00:10:44.720><c> 1</c><00:10:44.930><c> by</c><00:10:45.170><c> 5</c><00:10:45.500><c> and</c><00:10:45.890><c> n</c><00:10:45.980><c> notes</c><00:10:46.280><c> in</c>
+
+00:10:46.480 --> 00:10:46.490 align:start position:0%
+different than 1 by 5 and n notes in
+ 
+
+00:10:46.490 --> 00:10:48.610 align:start position:0%
+different than 1 by 5 and n notes in
+power<00:10:46.730><c> of</c><00:10:46.880><c> 4</c><00:10:47.210><c> and</c><00:10:47.450><c> so</c><00:10:47.870><c> the</c><00:10:47.900><c> polynomial</c><00:10:48.200><c> kernel</c>
+
+00:10:48.610 --> 00:10:48.620 align:start position:0%
+power of 4 and so the polynomial kernel
+ 
+
+00:10:48.620 --> 00:10:51.550 align:start position:0%
+power of 4 and so the polynomial kernel
+actually<00:10:49.310><c> has</c><00:10:49.520><c> two</c><00:10:49.850><c> parameters</c><00:10:50.060><c> one</c><00:10:50.750><c> is</c><00:10:50.810><c> what</c>
+
+00:10:51.550 --> 00:10:51.560 align:start position:0%
+actually has two parameters one is what
+ 
+
+00:10:51.560 --> 00:10:53.830 align:start position:0%
+actually has two parameters one is what
+number<00:10:51.950><c> do</c><00:10:52.280><c> you</c><00:10:52.340><c> add</c><00:10:52.400><c> over</c><00:10:53.060><c> here</c><00:10:53.330><c> it</c><00:10:53.630><c> could</c><00:10:53.780><c> be</c>
+
+00:10:53.830 --> 00:10:53.840 align:start position:0%
+number do you add over here it could be
+ 
+
+00:10:53.840 --> 00:10:57.160 align:start position:0%
+number do you add over here it could be
+0<00:10:54.290><c> this</c><00:10:54.590><c> is</c><00:10:54.740><c> really</c><00:10:55.010><c> at</c><00:10:55.370><c> 1</c><00:10:55.730><c> 0</c><00:10:55.760><c> over</c><00:10:56.330><c> there</c><00:10:56.510><c> as</c>
+
+00:10:57.160 --> 00:10:57.170 align:start position:0%
+0 this is really at 1 0 over there as
+ 
+
+00:10:57.170 --> 00:10:58.720 align:start position:0%
+0 this is really at 1 0 over there as
+well<00:10:57.380><c> as</c><00:10:57.620><c> what's</c><00:10:57.980><c> the</c><00:10:58.160><c> degree</c><00:10:58.340><c> of</c><00:10:58.610><c> the</c>
+
+00:10:58.720 --> 00:10:58.730 align:start position:0%
+well as what's the degree of the
+ 
+
+00:10:58.730 --> 00:11:01.060 align:start position:0%
+well as what's the degree of the
+polynomial<00:10:58.910><c> so</c><00:10:59.690><c> the</c><00:10:59.840><c> degree</c><00:11:00.170><c> the</c><00:11:00.410><c> power</c><00:11:00.440><c> and</c>
+
+00:11:01.060 --> 00:11:01.070 align:start position:0%
+polynomial so the degree the power and
+ 
+
+00:11:01.070 --> 00:11:03.010 align:start position:0%
+polynomial so the degree the power and
+this<00:11:01.640><c> number</c><00:11:01.880><c> is</c><00:11:02.150><c> in</c><00:11:02.330><c> the</c><00:11:02.420><c> more</c><00:11:02.570><c> general</c><00:11:02.990><c> form</c>
+
+00:11:03.010 --> 00:11:03.020 align:start position:0%
+this number is in the more general form
+ 
+
+00:11:03.020 --> 00:11:05.680 align:start position:0%
+this number is in the more general form
+with<00:11:03.410><c> this</c><00:11:03.590><c> of</c><00:11:03.950><c> the</c><00:11:04.310><c> polynomial</c><00:11:04.880><c> kernel</c><00:11:04.910><c> is</c><00:11:05.450><c> X</c>
+
+00:11:05.680 --> 00:11:05.690 align:start position:0%
+with this of the polynomial kernel is X
+ 
+
+00:11:05.690 --> 00:11:11.680 align:start position:0%
+with this of the polynomial kernel is X
+transpose<00:11:06.170><c> L</c><00:11:06.410><c> plus</c><00:11:06.880><c> some</c><00:11:07.880><c> constant</c><00:11:10.360><c> and</c><00:11:11.360><c> then</c>
+
+00:11:11.680 --> 00:11:11.690 align:start position:0%
+transpose L plus some constant and then
+ 
+
+00:11:11.690 --> 00:11:16.210 align:start position:0%
+transpose L plus some constant and then
+to<00:11:12.020><c> some</c><00:11:12.350><c> degree</c><00:11:12.820><c> in</c><00:11:14.020><c> the</c><00:11:15.020><c> exponent</c><00:11:15.800><c> and</c><00:11:15.980><c> so</c>
+
+00:11:16.210 --> 00:11:16.220 align:start position:0%
+to some degree in the exponent and so
+ 
+
+00:11:16.220 --> 00:11:19.060 align:start position:0%
+to some degree in the exponent and so
+both<00:11:16.880><c> of</c><00:11:16.910><c> these</c><00:11:17.240><c> are</c><00:11:17.510><c> parameters</c><00:11:18.410><c> for</c><00:11:18.980><c> the</c>
+
+00:11:19.060 --> 00:11:19.070 align:start position:0%
+both of these are parameters for the
+ 
+
+00:11:19.070 --> 00:11:20.920 align:start position:0%
+both of these are parameters for the
+polynomial<00:11:19.430><c> kernel</c><00:11:19.880><c> so</c><00:11:20.660><c> the</c><00:11:20.750><c> polynomial</c>
+
+00:11:20.920 --> 00:11:20.930 align:start position:0%
+polynomial kernel so the polynomial
+ 
+
+00:11:20.930 --> 00:11:24.400 align:start position:0%
+polynomial kernel so the polynomial
+kernel<00:11:21.520><c> almost</c><00:11:22.520><c> always</c><00:11:22.940><c> or</c><00:11:23.240><c> usually</c><00:11:23.510><c> performs</c>
+
+00:11:24.400 --> 00:11:24.410 align:start position:0%
+kernel almost always or usually performs
+ 
+
+00:11:24.410 --> 00:11:25.930 align:start position:0%
+kernel almost always or usually performs
+worse<00:11:24.620><c> than</c><00:11:24.920><c> the</c><00:11:25.010><c> Gaussian</c><00:11:25.340><c> kernel</c><00:11:25.520><c> and</c><00:11:25.730><c> is</c>
+
+00:11:25.930 --> 00:11:25.940 align:start position:0%
+worse than the Gaussian kernel and is
+ 
+
+00:11:25.940 --> 00:11:27.490 align:start position:0%
+worse than the Gaussian kernel and is
+not<00:11:26.180><c> used</c><00:11:26.480><c> that</c><00:11:26.570><c> much</c><00:11:26.720><c> but</c><00:11:27.230><c> it's</c><00:11:27.410><c> just</c>
+
+00:11:27.490 --> 00:11:27.500 align:start position:0%
+not used that much but it's just
+ 
+
+00:11:27.500 --> 00:11:28.710 align:start position:0%
+not used that much but it's just
+something<00:11:27.860><c> that</c><00:11:27.890><c> you</c><00:11:28.070><c> may</c><00:11:28.190><c> run</c><00:11:28.340><c> across</c>
+
+00:11:28.710 --> 00:11:28.720 align:start position:0%
+something that you may run across
+ 
+
+00:11:28.720 --> 00:11:31.480 align:start position:0%
+something that you may run across
+usually<00:11:29.720><c> is</c><00:11:29.840><c> used</c><00:11:30.080><c> only</c><00:11:30.320><c> for</c><00:11:30.440><c> data</c><00:11:30.770><c> where</c><00:11:31.250><c> X</c>
+
+00:11:31.480 --> 00:11:31.490 align:start position:0%
+usually is used only for data where X
+ 
+
+00:11:31.490 --> 00:11:33.820 align:start position:0%
+usually is used only for data where X
+and<00:11:31.670><c> L</c><00:11:31.850><c> are</c><00:11:32.150><c> all</c><00:11:32.420><c> strictly</c><00:11:32.870><c> non-negative</c><00:11:33.170><c> and</c>
+
+00:11:33.820 --> 00:11:33.830 align:start position:0%
+and L are all strictly non-negative and
+ 
+
+00:11:33.830 --> 00:11:35.080 align:start position:0%
+and L are all strictly non-negative and
+so<00:11:34.010><c> that</c><00:11:34.220><c> ensures</c><00:11:34.400><c> that</c><00:11:34.550><c> these</c><00:11:34.850><c> inner</c>
+
+00:11:35.080 --> 00:11:35.090 align:start position:0%
+so that ensures that these inner
+ 
+
+00:11:35.090 --> 00:11:38.710 align:start position:0%
+so that ensures that these inner
+products<00:11:35.570><c> are</c><00:11:35.870><c> never</c><00:11:36.710><c> negative</c><00:11:36.970><c> but</c><00:11:37.970><c> this</c><00:11:38.540><c> is</c>
+
+00:11:38.710 --> 00:11:38.720 align:start position:0%
+products are never negative but this is
+ 
+
+00:11:38.720 --> 00:11:40.720 align:start position:0%
+products are never negative but this is
+the<00:11:38.900><c> captaincies</c><00:11:39.410><c> intuition</c><00:11:39.920><c> that</c><00:11:40.190><c> if</c><00:11:40.340><c> X</c><00:11:40.550><c> and</c>
+
+00:11:40.720 --> 00:11:40.730 align:start position:0%
+the captaincies intuition that if X and
+ 
+
+00:11:40.730 --> 00:11:42.280 align:start position:0%
+the captaincies intuition that if X and
+O<00:11:40.850><c> are</c><00:11:41.030><c> very</c><00:11:41.180><c> similar</c><00:11:41.540><c> to</c><00:11:41.630><c> each</c><00:11:41.660><c> other</c><00:11:41.870><c> that</c>
+
+00:11:42.280 --> 00:11:42.290 align:start position:0%
+O are very similar to each other that
+ 
+
+00:11:42.290 --> 00:11:43.660 align:start position:0%
+O are very similar to each other that
+maybe<00:11:42.500><c> the</c><00:11:42.680><c> inner</c><00:11:42.920><c> product</c><00:11:43.280><c> between</c><00:11:43.310><c> them</c>
+
+00:11:43.660 --> 00:11:43.670 align:start position:0%
+maybe the inner product between them
+ 
+
+00:11:43.670 --> 00:11:44.950 align:start position:0%
+maybe the inner product between them
+will<00:11:43.850><c> be</c><00:11:43.940><c> large</c><00:11:44.180><c> and</c><00:11:44.420><c> then</c><00:11:44.570><c> has</c><00:11:44.660><c> some</c><00:11:44.840><c> other</c>
+
+00:11:44.950 --> 00:11:44.960 align:start position:0%
+will be large and then has some other
+ 
+
+00:11:44.960 --> 00:11:47.380 align:start position:0%
+will be large and then has some other
+properties<00:11:45.380><c> as</c><00:11:45.530><c> well</c><00:11:45.740><c> but</c><00:11:46.370><c> people</c><00:11:46.550><c> then</c><00:11:46.880><c> tend</c>
+
+00:11:47.380 --> 00:11:47.390 align:start position:0%
+properties as well but people then tend
+ 
+
+00:11:47.390 --> 00:11:49.990 align:start position:0%
+properties as well but people then tend
+not<00:11:47.450><c> to</c><00:11:47.570><c> use</c><00:11:47.720><c> it</c><00:11:47.870><c> much</c><00:11:48.140><c> and</c><00:11:48.500><c> then</c><00:11:49.430><c> depending</c><00:11:49.790><c> on</c>
+
+00:11:49.990 --> 00:11:50.000 align:start position:0%
+not to use it much and then depending on
+ 
+
+00:11:50.000 --> 00:11:52.210 align:start position:0%
+not to use it much and then depending on
+what<00:11:50.060><c> you're</c><00:11:50.300><c> doing</c><00:11:50.600><c> there</c><00:11:51.080><c> are</c><00:11:51.200><c> other</c><00:11:51.440><c> more</c>
+
+00:11:52.210 --> 00:11:52.220 align:start position:0%
+what you're doing there are other more
+ 
+
+00:11:52.220 --> 00:11:54.730 align:start position:0%
+what you're doing there are other more
+esoteric<00:11:52.580><c> kernels</c><00:11:53.480><c> as</c><00:11:53.810><c> well</c><00:11:54.020><c> that</c><00:11:54.410><c> you</c><00:11:54.560><c> may</c>
+
+00:11:54.730 --> 00:11:54.740 align:start position:0%
+esoteric kernels as well that you may
+ 
+
+00:11:54.740 --> 00:11:56.740 align:start position:0%
+esoteric kernels as well that you may
+come<00:11:54.950><c> across</c><00:11:55.010><c> so</c><00:11:55.550><c> there's</c><00:11:55.880><c> a</c><00:11:56.000><c> string</c><00:11:56.600><c> kernel</c>
+
+00:11:56.740 --> 00:11:56.750 align:start position:0%
+come across so there's a string kernel
+ 
+
+00:11:56.750 --> 00:11:59.020 align:start position:0%
+come across so there's a string kernel
+this<00:11:57.320><c> is</c><00:11:57.470><c> sometimes</c><00:11:57.830><c> use</c><00:11:58.130><c> if</c><00:11:58.340><c> your</c><00:11:58.550><c> input</c><00:11:58.880><c> data</c>
+
+00:11:59.020 --> 00:11:59.030 align:start position:0%
+this is sometimes use if your input data
+ 
+
+00:11:59.030 --> 00:12:01.150 align:start position:0%
+this is sometimes use if your input data
+is<00:11:59.480><c> you</c><00:11:59.690><c> know</c><00:11:59.750><c> text</c><00:12:00.170><c> strings</c><00:12:00.470><c> or</c><00:12:00.710><c> other</c><00:12:00.860><c> types</c>
+
+00:12:01.150 --> 00:12:01.160 align:start position:0%
+is you know text strings or other types
+ 
+
+00:12:01.160 --> 00:12:03.040 align:start position:0%
+is you know text strings or other types
+of<00:12:01.250><c> strings</c><00:12:01.420><c> there</c><00:12:02.420><c> are</c><00:12:02.540><c> things</c><00:12:02.780><c> like</c><00:12:02.870><c> the</c>
+
+00:12:03.040 --> 00:12:03.050 align:start position:0%
+of strings there are things like the
+ 
+
+00:12:03.050 --> 00:12:05.320 align:start position:0%
+of strings there are things like the
+chi-square<00:12:03.200><c> kernel</c><00:12:03.500><c> the</c><00:12:04.370><c> histogram</c><00:12:04.820><c> section</c>
+
+00:12:05.320 --> 00:12:05.330 align:start position:0%
+chi-square kernel the histogram section
+ 
+
+00:12:05.330 --> 00:12:07.210 align:start position:0%
+chi-square kernel the histogram section
+kernel<00:12:05.690><c> and</c><00:12:05.840><c> so</c><00:12:05.990><c> on</c><00:12:06.170><c> there</c><00:12:06.830><c> are</c><00:12:06.860><c> sort</c><00:12:07.040><c> of</c><00:12:07.070><c> more</c>
+
+00:12:07.210 --> 00:12:07.220 align:start position:0%
+kernel and so on there are sort of more
+ 
+
+00:12:07.220 --> 00:12:09.520 align:start position:0%
+kernel and so on there are sort of more
+esoteric<00:12:07.400><c> kernels</c><00:12:08.030><c> that</c><00:12:08.810><c> you</c><00:12:08.930><c> can</c><00:12:09.080><c> use</c><00:12:09.260><c> to</c>
+
+00:12:09.520 --> 00:12:09.530 align:start position:0%
+esoteric kernels that you can use to
+ 
+
+00:12:09.530 --> 00:12:11.380 align:start position:0%
+esoteric kernels that you can use to
+measure<00:12:09.710><c> similarity</c><00:12:10.370><c> between</c><00:12:10.910><c> different</c>
+
+00:12:11.380 --> 00:12:11.390 align:start position:0%
+measure similarity between different
+ 
+
+00:12:11.390 --> 00:12:13.600 align:start position:0%
+measure similarity between different
+objects<00:12:11.750><c> so</c><00:12:12.170><c> for</c><00:12:12.830><c> example</c><00:12:13.220><c> if</c><00:12:13.370><c> you're</c><00:12:13.490><c> trying</c>
+
+00:12:13.600 --> 00:12:13.610 align:start position:0%
+objects so for example if you're trying
+ 
+
+00:12:13.610 --> 00:12:15.640 align:start position:0%
+objects so for example if you're trying
+to<00:12:13.910><c> do</c><00:12:14.510><c> some</c><00:12:14.750><c> sort</c><00:12:14.990><c> of</c><00:12:15.080><c> text</c><00:12:15.500><c> classification</c>
+
+00:12:15.640 --> 00:12:15.650 align:start position:0%
+to do some sort of text classification
+ 
+
+00:12:15.650 --> 00:12:18.020 align:start position:0%
+to do some sort of text classification
+problem<00:12:16.610><c> we</c><00:12:16.820><c> were</c><00:12:17.120><c> XD</c>
+
+00:12:18.020 --> 00:12:18.030 align:start position:0%
+problem we were XD
+ 
+
+00:12:18.030 --> 00:12:20.060 align:start position:0%
+problem we were XD
+xs/s<00:12:18.450><c> string</c><00:12:18.780><c> then</c><00:12:19.440><c> maybe</c><00:12:19.710><c> you</c><00:12:19.830><c> want</c><00:12:20.010><c> to</c>
+
+00:12:20.060 --> 00:12:20.070 align:start position:0%
+xs/s string then maybe you want to
+ 
+
+00:12:20.070 --> 00:12:22.010 align:start position:0%
+xs/s string then maybe you want to
+define<00:12:20.370><c> the</c><00:12:20.610><c> similarity</c><00:12:20.820><c> between</c><00:12:21.510><c> two</c>
+
+00:12:22.010 --> 00:12:22.020 align:start position:0%
+define the similarity between two
+ 
+
+00:12:22.020 --> 00:12:24.200 align:start position:0%
+define the similarity between two
+strings<00:12:22.350><c> using</c><00:12:22.650><c> the</c><00:12:22.770><c> strengths</c><00:12:23.130><c> kernel</c><00:12:23.520><c> but</c><00:12:24.180><c> I</c>
+
+00:12:24.200 --> 00:12:24.210 align:start position:0%
+strings using the strengths kernel but I
+ 
+
+00:12:24.210 --> 00:12:26.600 align:start position:0%
+strings using the strengths kernel but I
+personally<00:12:24.930><c> you</c><00:12:25.470><c> know</c><00:12:25.530><c> end</c><00:12:25.830><c> up</c><00:12:25.980><c> very</c><00:12:26.220><c> rarely</c>
+
+00:12:26.600 --> 00:12:26.610 align:start position:0%
+personally you know end up very rarely
+ 
+
+00:12:26.610 --> 00:12:29.000 align:start position:0%
+personally you know end up very rarely
+if<00:12:27.090><c> at</c><00:12:27.240><c> all</c><00:12:27.480><c> using</c><00:12:28.140><c> these</c><00:12:28.410><c> more</c><00:12:28.650><c> esoteric</c>
+
+00:12:29.000 --> 00:12:29.010 align:start position:0%
+if at all using these more esoteric
+ 
+
+00:12:29.010 --> 00:12:30.740 align:start position:0%
+if at all using these more esoteric
+kernels<00:12:29.340><c> I</c><00:12:29.910><c> think</c><00:12:30.120><c> I</c><00:12:30.180><c> might</c><00:12:30.360><c> have</c><00:12:30.390><c> used</c><00:12:30.660><c> the</c>
+
+00:12:30.740 --> 00:12:30.750 align:start position:0%
+kernels I think I might have used the
+ 
+
+00:12:30.750 --> 00:12:32.690 align:start position:0%
+kernels I think I might have used the
+chi-square<00:12:31.200><c> kernel</c><00:12:31.230><c> may</c><00:12:31.800><c> be</c><00:12:31.830><c> once</c><00:12:31.980><c> in</c><00:12:32.370><c> my</c><00:12:32.490><c> life</c>
+
+00:12:32.690 --> 00:12:32.700 align:start position:0%
+chi-square kernel may be once in my life
+ 
+
+00:12:32.700 --> 00:12:34.940 align:start position:0%
+chi-square kernel may be once in my life
+in<00:12:32.970><c> the</c><00:12:33.150><c> histogram</c><00:12:33.450><c> kernel</c><00:12:34.080><c> maybe</c><00:12:34.590><c> once</c><00:12:34.860><c> or</c>
+
+00:12:34.940 --> 00:12:34.950 align:start position:0%
+in the histogram kernel maybe once or
+ 
+
+00:12:34.950 --> 00:12:36.710 align:start position:0%
+in the histogram kernel maybe once or
+twice<00:12:35.010><c> in</c><00:12:35.190><c> my</c><00:12:35.340><c> life</c><00:12:35.580><c> and</c><00:12:35.820><c> I've</c><00:12:36.300><c> actually</c><00:12:36.450><c> never</c>
+
+00:12:36.710 --> 00:12:36.720 align:start position:0%
+twice in my life and I've actually never
+ 
+
+00:12:36.720 --> 00:12:39.530 align:start position:0%
+twice in my life and I've actually never
+used<00:12:36.870><c> a</c><00:12:37.110><c> sweet</c><00:12:37.290><c> kernel</c><00:12:37.470><c> myself</c><00:12:37.950><c> but</c><00:12:38.610><c> in</c><00:12:39.270><c> case</c>
+
+00:12:39.530 --> 00:12:39.540 align:start position:0%
+used a sweet kernel myself but in case
+ 
+
+00:12:39.540 --> 00:12:41.170 align:start position:0%
+used a sweet kernel myself but in case
+you<00:12:39.720><c> run</c><00:12:39.840><c> across</c><00:12:39.990><c> this</c><00:12:40.470><c> in</c><00:12:40.710><c> other</c>
+
+00:12:41.170 --> 00:12:41.180 align:start position:0%
+you run across this in other
+ 
+
+00:12:41.180 --> 00:12:43.520 align:start position:0%
+you run across this in other
+applications<00:12:42.180><c> you</c><00:12:42.720><c> know</c><00:12:42.840><c> if</c><00:12:42.990><c> you</c><00:12:43.050><c> do</c><00:12:43.200><c> a</c><00:12:43.230><c> quick</c>
+
+00:12:43.520 --> 00:12:43.530 align:start position:0%
+applications you know if you do a quick
+ 
+
+00:12:43.530 --> 00:12:45.080 align:start position:0%
+applications you know if you do a quick
+web<00:12:43.830><c> search</c><00:12:43.860><c> we</c><00:12:44.310><c> do</c><00:12:44.430><c> a</c><00:12:44.460><c> quick</c><00:12:44.730><c> Google</c><00:12:44.880><c> search</c>
+
+00:12:45.080 --> 00:12:45.090 align:start position:0%
+web search we do a quick Google search
+ 
+
+00:12:45.090 --> 00:12:47.210 align:start position:0%
+web search we do a quick Google search
+or<00:12:45.480><c> quick</c><00:12:45.750><c> bing</c><00:12:45.960><c> search</c><00:12:46.290><c> you</c><00:12:46.680><c> should</c><00:12:46.890><c> find</c>
+
+00:12:47.210 --> 00:12:47.220 align:start position:0%
+or quick bing search you should find
+ 
+
+00:12:47.220 --> 00:12:48.860 align:start position:0%
+or quick bing search you should find
+definitions<00:12:47.850><c> of</c><00:12:48.000><c> these</c><00:12:48.120><c> other</c><00:12:48.330><c> kernels</c><00:12:48.780><c> as</c>
+
+00:12:48.860 --> 00:12:48.870 align:start position:0%
+definitions of these other kernels as
+ 
+
+00:12:48.870 --> 00:12:50.620 align:start position:0%
+definitions of these other kernels as
+well
+
+00:12:50.620 --> 00:12:50.630 align:start position:0%
+well
+ 
+
+00:12:50.630 --> 00:12:53.379 align:start position:0%
+well
+so<00:12:51.620><c> just</c><00:12:52.009><c> two</c><00:12:52.220><c> last</c><00:12:52.370><c> details</c><00:12:52.819><c> I</c><00:12:53.029><c> want</c><00:12:53.180><c> to</c><00:12:53.240><c> talk</c>
+
+00:12:53.379 --> 00:12:53.389 align:start position:0%
+so just two last details I want to talk
+ 
+
+00:12:53.389 --> 00:12:54.519 align:start position:0%
+so just two last details I want to talk
+about<00:12:53.480><c> in</c><00:12:54.019><c> this</c><00:12:54.139><c> video</c>
+
+00:12:54.519 --> 00:12:54.529 align:start position:0%
+about in this video
+ 
+
+00:12:54.529 --> 00:12:56.530 align:start position:0%
+about in this video
+one<00:12:54.740><c> is</c><00:12:54.889><c> multi-class</c><00:12:55.490><c> classification</c><00:12:55.730><c> so</c><00:12:56.449><c> if</c>
+
+00:12:56.530 --> 00:12:56.540 align:start position:0%
+one is multi-class classification so if
+ 
+
+00:12:56.540 --> 00:12:58.569 align:start position:0%
+one is multi-class classification so if
+you<00:12:56.600><c> have</c><00:12:56.690><c> four</c><00:12:56.899><c> classes</c><00:12:57.079><c> or</c><00:12:57.680><c> more</c><00:12:57.829><c> general</c><00:12:58.220><c> UK</c>
+
+00:12:58.569 --> 00:12:58.579 align:start position:0%
+you have four classes or more general UK
+ 
+
+00:12:58.579 --> 00:13:01.269 align:start position:0%
+you have four classes or more general UK
+classes<00:12:59.060><c> how</c><00:12:59.600><c> do</c><00:12:59.660><c> you</c><00:12:59.839><c> get</c><00:13:00.019><c> an</c><00:13:00.170><c> SEM</c><00:13:00.589><c> to</c><00:13:00.829><c> output</c>
+
+00:13:01.269 --> 00:13:01.279 align:start position:0%
+classes how do you get an SEM to output
+ 
+
+00:13:01.279 --> 00:13:03.249 align:start position:0%
+classes how do you get an SEM to output
+some<00:13:01.639><c> appropriate</c><00:13:02.240><c> decision</c><00:13:02.930><c> boundary</c>
+
+00:13:03.249 --> 00:13:03.259 align:start position:0%
+some appropriate decision boundary
+ 
+
+00:13:03.259 --> 00:13:06.400 align:start position:0%
+some appropriate decision boundary
+between<00:13:03.529><c> your</c><00:13:03.740><c> multiple</c><00:13:04.069><c> classes</c><00:13:04.660><c> most</c><00:13:05.660><c> SVM</c>
+
+00:13:06.400 --> 00:13:06.410 align:start position:0%
+between your multiple classes most SVM
+ 
+
+00:13:06.410 --> 00:13:08.680 align:start position:0%
+between your multiple classes most SVM
+well<00:13:06.589><c> many</c><00:13:07.009><c> SVM</c><00:13:07.459><c> packages</c><00:13:07.490><c> already</c><00:13:08.209><c> have</c>
+
+00:13:08.680 --> 00:13:08.690 align:start position:0%
+well many SVM packages already have
+ 
+
+00:13:08.690 --> 00:13:09.910 align:start position:0%
+well many SVM packages already have
+built-in<00:13:09.079><c> multi-class</c><00:13:09.680><c> classification</c>
+
+00:13:09.910 --> 00:13:09.920 align:start position:0%
+built-in multi-class classification
+ 
+
+00:13:09.920 --> 00:13:12.309 align:start position:0%
+built-in multi-class classification
+functionality<00:13:10.399><c> so</c><00:13:11.389><c> you're</c><00:13:11.600><c> using</c><00:13:11.779><c> a</c><00:13:11.959><c> package</c>
+
+00:13:12.309 --> 00:13:12.319 align:start position:0%
+functionality so you're using a package
+ 
+
+00:13:12.319 --> 00:13:13.900 align:start position:0%
+functionality so you're using a package
+like<00:13:12.350><c> that</c><00:13:12.620><c> you</c><00:13:12.769><c> just</c><00:13:13.009><c> use</c><00:13:13.220><c> that</c><00:13:13.430><c> built-in</c>
+
+00:13:13.900 --> 00:13:13.910 align:start position:0%
+like that you just use that built-in
+ 
+
+00:13:13.910 --> 00:13:16.120 align:start position:0%
+like that you just use that built-in
+functionality<00:13:14.360><c> and</c><00:13:14.870><c> that</c><00:13:14.930><c> you'll</c><00:13:15.740><c> find</c>
+
+00:13:16.120 --> 00:13:16.130 align:start position:0%
+functionality and that you'll find
+ 
+
+00:13:16.130 --> 00:13:17.860 align:start position:0%
+functionality and that you'll find
+otherwise
+
+00:13:17.860 --> 00:13:17.870 align:start position:0%
+otherwise
+ 
+
+00:13:17.870 --> 00:13:19.930 align:start position:0%
+otherwise
+one<00:13:18.290><c> way</c><00:13:18.440><c> to</c><00:13:18.500><c> do</c><00:13:18.769><c> this</c><00:13:18.949><c> is</c><00:13:19.160><c> to</c><00:13:19.310><c> use</c><00:13:19.490><c> the</c><00:13:19.699><c> one</c>
+
+00:13:19.930 --> 00:13:19.940 align:start position:0%
+one way to do this is to use the one
+ 
+
+00:13:19.940 --> 00:13:21.790 align:start position:0%
+one way to do this is to use the one
+versus<00:13:20.420><c> all</c><00:13:20.600><c> method</c><00:13:20.959><c> that</c><00:13:21.319><c> we</c><00:13:21.410><c> talked</c><00:13:21.649><c> about</c>
+
+00:13:21.790 --> 00:13:21.800 align:start position:0%
+versus all method that we talked about
+ 
+
+00:13:21.800 --> 00:13:23.680 align:start position:0%
+versus all method that we talked about
+when<00:13:22.250><c> we're</c><00:13:22.399><c> developing</c><00:13:22.699><c> logistic</c>
+
+00:13:23.680 --> 00:13:23.690 align:start position:0%
+when we're developing logistic
+ 
+
+00:13:23.690 --> 00:13:25.749 align:start position:0%
+when we're developing logistic
+regression<00:13:24.170><c> so</c><00:13:24.740><c> what</c><00:13:24.889><c> you</c><00:13:24.980><c> do</c><00:13:25.160><c> is</c><00:13:25.279><c> you</c><00:13:25.399><c> train</c>
+
+00:13:25.749 --> 00:13:25.759 align:start position:0%
+regression so what you do is you train
+ 
+
+00:13:25.759 --> 00:13:29.230 align:start position:0%
+regression so what you do is you train
+KS<00:13:26.660><c> VMs</c><00:13:27.230><c> if</c><00:13:27.410><c> you</c><00:13:27.529><c> have</c><00:13:27.620><c> K</c><00:13:27.860><c> classes</c><00:13:28.160><c> want</c><00:13:29.120><c> to</c>
+
+00:13:29.230 --> 00:13:29.240 align:start position:0%
+KS VMs if you have K classes want to
+ 
+
+00:13:29.240 --> 00:13:30.970 align:start position:0%
+KS VMs if you have K classes want to
+distinguish<00:13:29.779><c> each</c><00:13:29.930><c> of</c><00:13:30.050><c> the</c><00:13:30.290><c> classes</c><00:13:30.350><c> from</c><00:13:30.889><c> the</c>
+
+00:13:30.970 --> 00:13:30.980 align:start position:0%
+distinguish each of the classes from the
+ 
+
+00:13:30.980 --> 00:13:33.519 align:start position:0%
+distinguish each of the classes from the
+rest<00:13:31.279><c> and</c><00:13:31.490><c> this</c><00:13:32.120><c> would</c><00:13:32.269><c> give</c><00:13:32.449><c> you</c><00:13:32.569><c> K</c><00:13:32.899><c> parameter</c>
+
+00:13:33.519 --> 00:13:33.529 align:start position:0%
+rest and this would give you K parameter
+ 
+
+00:13:33.529 --> 00:13:35.530 align:start position:0%
+rest and this would give you K parameter
+vectors<00:13:33.949><c> so</c><00:13:34.339><c> this</c><00:13:34.550><c> will</c><00:13:34.699><c> give</c><00:13:34.850><c> you</c><00:13:34.970><c> you</c><00:13:35.480><c> know</c>
+
+00:13:35.530 --> 00:13:35.540 align:start position:0%
+vectors so this will give you you know
+ 
+
+00:13:35.540 --> 00:13:37.329 align:start position:0%
+vectors so this will give you you know
+theta<00:13:35.750><c> one</c><00:13:36.110><c> which</c><00:13:36.319><c> is</c><00:13:36.440><c> trying</c><00:13:36.649><c> to</c><00:13:36.740><c> distinguish</c>
+
+00:13:37.329 --> 00:13:37.339 align:start position:0%
+theta one which is trying to distinguish
+ 
+
+00:13:37.339 --> 00:13:40.420 align:start position:0%
+theta one which is trying to distinguish
+class<00:13:37.759><c> y</c><00:13:38.060><c> equals</c><00:13:38.509><c> one</c><00:13:38.829><c> from</c><00:13:39.829><c> all</c><00:13:39.980><c> the</c><00:13:40.130><c> other</c>
+
+00:13:40.420 --> 00:13:40.430 align:start position:0%
+class y equals one from all the other
+ 
+
+00:13:40.430 --> 00:13:41.889 align:start position:0%
+class y equals one from all the other
+classes<00:13:40.639><c> then</c><00:13:41.209><c> you</c><00:13:41.300><c> get</c><00:13:41.480><c> a</c><00:13:41.509><c> separate</c>
+
+00:13:41.889 --> 00:13:41.899 align:start position:0%
+classes then you get a separate
+ 
+
+00:13:41.899 --> 00:13:44.050 align:start position:0%
+classes then you get a separate
+parameter<00:13:42.319><c> vector</c><00:13:42.949><c> theta</c><00:13:42.980><c> two</c><00:13:43.459><c> which</c><00:13:43.790><c> is</c><00:13:43.910><c> what</c>
+
+00:13:44.050 --> 00:13:44.060 align:start position:0%
+parameter vector theta two which is what
+ 
+
+00:13:44.060 --> 00:13:46.180 align:start position:0%
+parameter vector theta two which is what
+you<00:13:44.180><c> get</c><00:13:44.389><c> when</c><00:13:44.569><c> you</c><00:13:44.810><c> you</c><00:13:45.350><c> know</c><00:13:45.380><c> have</c><00:13:45.649><c> y</c><00:13:45.860><c> equals</c>
+
+00:13:46.180 --> 00:13:46.190 align:start position:0%
+you get when you you know have y equals
+ 
+
+00:13:46.190 --> 00:13:47.829 align:start position:0%
+you get when you you know have y equals
+two<00:13:46.399><c> as</c><00:13:46.610><c> the</c><00:13:46.730><c> positive</c><00:13:46.940><c> class</c><00:13:47.149><c> and</c><00:13:47.600><c> all</c><00:13:47.690><c> the</c>
+
+00:13:47.829 --> 00:13:47.839 align:start position:0%
+two as the positive class and all the
+ 
+
+00:13:47.839 --> 00:13:50.499 align:start position:0%
+two as the positive class and all the
+others<00:13:48.050><c> as</c><00:13:48.230><c> negative</c><00:13:48.649><c> parts</c><00:13:48.980><c> and</c><00:13:49.190><c> so</c><00:13:49.699><c> on</c><00:13:49.759><c> up</c><00:13:50.300><c> to</c>
+
+00:13:50.499 --> 00:13:50.509 align:start position:0%
+others as negative parts and so on up to
+ 
+
+00:13:50.509 --> 00:13:53.290 align:start position:0%
+others as negative parts and so on up to
+a<00:13:50.959><c> parameter</c><00:13:51.529><c> vector</c><00:13:51.889><c> theta</c><00:13:52.130><c> K</c><00:13:52.670><c> which</c><00:13:52.970><c> is</c><00:13:53.000><c> the</c>
+
+00:13:53.290 --> 00:13:53.300 align:start position:0%
+a parameter vector theta K which is the
+ 
+
+00:13:53.300 --> 00:13:56.350 align:start position:0%
+a parameter vector theta K which is the
+parameter<00:13:53.509><c> vector</c><00:13:53.870><c> for</c><00:13:54.680><c> distinguishing</c><00:13:55.360><c> the</c>
+
+00:13:56.350 --> 00:13:56.360 align:start position:0%
+parameter vector for distinguishing the
+ 
+
+00:13:56.360 --> 00:13:58.480 align:start position:0%
+parameter vector for distinguishing the
+final<00:13:56.720><c> class</c><00:13:56.959><c> of</c><00:13:56.990><c> class</c><00:13:57.620><c> K</c><00:13:57.920><c> for</c><00:13:58.130><c> everything</c>
+
+00:13:58.480 --> 00:13:58.490 align:start position:0%
+final class of class K for everything
+ 
+
+00:13:58.490 --> 00:14:01.179 align:start position:0%
+final class of class K for everything
+else<00:13:58.639><c> and</c><00:13:58.880><c> then</c><00:13:59.630><c> lastly</c><00:13:59.990><c> this</c><00:14:00.319><c> is</c><00:14:00.470><c> are</c><00:14:00.620><c> exactly</c>
+
+00:14:01.179 --> 00:14:01.189 align:start position:0%
+else and then lastly this is are exactly
+ 
+
+00:14:01.189 --> 00:14:03.040 align:start position:0%
+else and then lastly this is are exactly
+the<00:14:01.399><c> same</c><00:14:01.610><c> as</c><00:14:01.819><c> a</c><00:14:01.850><c> one</c><00:14:02.089><c> versus</c><00:14:02.449><c> all</c><00:14:02.540><c> method</c><00:14:02.779><c> we</c>
+
+00:14:03.040 --> 00:14:03.050 align:start position:0%
+the same as a one versus all method we
+ 
+
+00:14:03.050 --> 00:14:04.840 align:start position:0%
+the same as a one versus all method we
+have<00:14:03.259><c> for</c><00:14:03.410><c> logistic</c><00:14:03.470><c> regression</c><00:14:03.829><c> really</c><00:14:04.490><c> you</c>
+
+00:14:04.840 --> 00:14:04.850 align:start position:0%
+have for logistic regression really you
+ 
+
+00:14:04.850 --> 00:14:07.120 align:start position:0%
+have for logistic regression really you
+just<00:14:05.089><c> predict</c><00:14:05.810><c> the</c><00:14:05.959><c> class</c><00:14:06.170><c> I</c><00:14:06.380><c> with</c><00:14:06.980><c> the</c>
+
+00:14:07.120 --> 00:14:07.130 align:start position:0%
+just predict the class I with the
+ 
+
+00:14:07.130 --> 00:14:09.540 align:start position:0%
+just predict the class I with the
+largest<00:14:07.459><c> theater</c><00:14:08.000><c> translator</c><00:14:08.569><c> R</c><00:14:08.779><c> transpose</c><00:14:08.990><c> X</c>
+
+00:14:09.540 --> 00:14:09.550 align:start position:0%
+largest theater translator R transpose X
+ 
+
+00:14:09.550 --> 00:14:11.439 align:start position:0%
+largest theater translator R transpose X
+so<00:14:10.550><c> let's</c><00:14:10.790><c> multi-class</c><00:14:11.240><c> classification</c>
+
+00:14:11.439 --> 00:14:11.449 align:start position:0%
+so let's multi-class classification
+ 
+
+00:14:11.449 --> 00:14:14.019 align:start position:0%
+so let's multi-class classification
+Bayes<00:14:12.139><c> nets</c><00:14:12.439><c> for</c><00:14:13.100><c> the</c><00:14:13.160><c> more</c><00:14:13.370><c> common</c><00:14:13.670><c> cases</c>
+
+00:14:14.019 --> 00:14:14.029 align:start position:0%
+Bayes nets for the more common cases
+ 
+
+00:14:14.029 --> 00:14:16.030 align:start position:0%
+Bayes nets for the more common cases
+that<00:14:14.480><c> there's</c><00:14:15.019><c> a</c><00:14:15.079><c> good</c><00:14:15.230><c> chance</c><00:14:15.470><c> that</c><00:14:15.649><c> whatever</c>
+
+00:14:16.030 --> 00:14:16.040 align:start position:0%
+that there's a good chance that whatever
+ 
+
+00:14:16.040 --> 00:14:17.379 align:start position:0%
+that there's a good chance that whatever
+software<00:14:16.310><c> package</c><00:14:16.819><c> you</c><00:14:16.850><c> use</c><00:14:16.970><c> you</c><00:14:17.329><c> know</c>
+
+00:14:17.379 --> 00:14:17.389 align:start position:0%
+software package you use you know
+ 
+
+00:14:17.389 --> 00:14:19.030 align:start position:0%
+software package you use you know
+there'll<00:14:18.019><c> be</c><00:14:18.050><c> a</c><00:14:18.170><c> reasonable</c><00:14:18.560><c> chance</c><00:14:18.740><c> that</c>
+
+00:14:19.030 --> 00:14:19.040 align:start position:0%
+there'll be a reasonable chance that
+ 
+
+00:14:19.040 --> 00:14:21.040 align:start position:0%
+there'll be a reasonable chance that
+will<00:14:19.490><c> already</c><00:14:19.790><c> have</c><00:14:19.939><c> built</c><00:14:20.360><c> in</c><00:14:20.540><c> multi-class</c>
+
+00:14:21.040 --> 00:14:21.050 align:start position:0%
+will already have built in multi-class
+ 
+
+00:14:21.050 --> 00:14:23.139 align:start position:0%
+will already have built in multi-class
+classification<00:14:21.380><c> functionality</c><00:14:21.829><c> and</c><00:14:22.759><c> so</c><00:14:23.089><c> you</c>
+
+00:14:23.139 --> 00:14:23.149 align:start position:0%
+classification functionality and so you
+ 
+
+00:14:23.149 --> 00:14:24.400 align:start position:0%
+classification functionality and so you
+don't<00:14:23.360><c> even</c><00:14:23.480><c> need</c><00:14:23.660><c> to</c><00:14:23.810><c> worry</c><00:14:23.930><c> about</c><00:14:24.110><c> this</c>
+
+00:14:24.400 --> 00:14:24.410 align:start position:0%
+don't even need to worry about this
+ 
+
+00:14:24.410 --> 00:14:26.800 align:start position:0%
+don't even need to worry about this
+result<00:14:24.790><c> finally</c><00:14:25.790><c> we</c><00:14:26.000><c> developed</c><00:14:26.269><c> support</c>
+
+00:14:26.800 --> 00:14:26.810 align:start position:0%
+result finally we developed support
+ 
+
+00:14:26.810 --> 00:14:28.540 align:start position:0%
+result finally we developed support
+vector<00:14:27.079><c> machines</c><00:14:27.380><c> starting</c><00:14:28.009><c> off</c><00:14:28.250><c> with</c>
+
+00:14:28.540 --> 00:14:28.550 align:start position:0%
+vector machines starting off with
+ 
+
+00:14:28.550 --> 00:14:30.400 align:start position:0%
+vector machines starting off with
+logistic<00:14:29.089><c> regression</c><00:14:29.569><c> and</c><00:14:29.779><c> then</c><00:14:29.870><c> modifying</c>
+
+00:14:30.400 --> 00:14:30.410 align:start position:0%
+logistic regression and then modifying
+ 
+
+00:14:30.410 --> 00:14:32.559 align:start position:0%
+logistic regression and then modifying
+the<00:14:30.529><c> cost</c><00:14:30.769><c> function</c><00:14:30.980><c> a</c><00:14:31.339><c> little</c><00:14:31.490><c> bit</c><00:14:31.639><c> so</c><00:14:32.089><c> the</c>
+
+00:14:32.559 --> 00:14:32.569 align:start position:0%
+the cost function a little bit so the
+ 
+
+00:14:32.569 --> 00:14:33.730 align:start position:0%
+the cost function a little bit so the
+last<00:14:32.689><c> thing</c><00:14:32.870><c> I</c><00:14:32.899><c> want</c><00:14:33.019><c> to</c><00:14:33.079><c> do</c><00:14:33.170><c> in</c><00:14:33.319><c> this</c><00:14:33.410><c> video</c><00:14:33.560><c> is</c>
+
+00:14:33.730 --> 00:14:33.740 align:start position:0%
+last thing I want to do in this video is
+ 
+
+00:14:33.740 --> 00:14:35.740 align:start position:0%
+last thing I want to do in this video is
+just<00:14:34.189><c> say</c><00:14:34.459><c> a</c><00:14:34.490><c> little</c><00:14:34.670><c> bit</c><00:14:34.880><c> about</c><00:14:35.149><c> when</c><00:14:35.720><c> you</c>
+
+00:14:35.740 --> 00:14:35.750 align:start position:0%
+just say a little bit about when you
+ 
+
+00:14:35.750 --> 00:14:38.590 align:start position:0%
+just say a little bit about when you
+would<00:14:36.110><c> use</c><00:14:36.319><c> one</c><00:14:36.529><c> of</c><00:14:36.589><c> these</c><00:14:36.829><c> two</c><00:14:37.040><c> algorithms</c><00:14:37.600><c> so</c>
+
+00:14:38.590 --> 00:14:38.600 align:start position:0%
+would use one of these two algorithms so
+ 
+
+00:14:38.600 --> 00:14:40.420 align:start position:0%
+would use one of these two algorithms so
+let's<00:14:39.050><c> say</c><00:14:39.230><c> n</c><00:14:39.439><c> is</c><00:14:39.500><c> the</c><00:14:39.920><c> number</c><00:14:40.069><c> of</c><00:14:40.220><c> features</c>
+
+00:14:40.420 --> 00:14:40.430 align:start position:0%
+let's say n is the number of features
+ 
+
+00:14:40.430 --> 00:14:42.300 align:start position:0%
+let's say n is the number of features
+and<00:14:40.910><c> M</c><00:14:41.149><c> is</c><00:14:41.389><c> the</c><00:14:41.480><c> number</c><00:14:41.509><c> of</c><00:14:41.779><c> training</c><00:14:42.110><c> examples</c>
+
+00:14:42.300 --> 00:14:42.310 align:start position:0%
+and M is the number of training examples
+ 
+
+00:14:42.310 --> 00:14:44.800 align:start position:0%
+and M is the number of training examples
+so<00:14:43.310><c> when</c><00:14:43.730><c> should</c><00:14:43.910><c> we</c><00:14:44.029><c> use</c><00:14:44.209><c> one</c><00:14:44.420><c> algorithm</c>
+
+00:14:44.800 --> 00:14:44.810 align:start position:0%
+so when should we use one algorithm
+ 
+
+00:14:44.810 --> 00:14:48.610 align:start position:0%
+so when should we use one algorithm
+versus<00:14:45.110><c> the</c><00:14:45.259><c> other</c><00:14:45.490><c> well</c><00:14:46.490><c> if</c><00:14:46.759><c> n</c><00:14:47.509><c> is</c><00:14:48.350><c> large</c>
+
+00:14:48.610 --> 00:14:48.620 align:start position:0%
+versus the other well if n is large
+ 
+
+00:14:48.620 --> 00:14:51.189 align:start position:0%
+versus the other well if n is large
+relative<00:14:49.430><c> to</c><00:14:49.459><c> your</c><00:14:49.819><c> training</c><00:14:50.089><c> set</c><00:14:50.389><c> size</c><00:14:50.600><c> so</c>
+
+00:14:51.189 --> 00:14:51.199 align:start position:0%
+relative to your training set size so
+ 
+
+00:14:51.199 --> 00:14:54.069 align:start position:0%
+relative to your training set size so
+for<00:14:51.470><c> example</c><00:14:51.970><c> if</c><00:14:52.970><c> you</c><00:14:53.360><c> think</c><00:14:53.689><c> of</c><00:14:53.779><c> this</c><00:14:53.899><c> as</c><00:14:54.050><c> if</c>
+
+00:14:54.069 --> 00:14:54.079 align:start position:0%
+for example if you think of this as if
+ 
+
+00:14:54.079 --> 00:14:55.870 align:start position:0%
+for example if you think of this as if
+the<00:14:54.380><c> number</c><00:14:54.620><c> of</c><00:14:54.709><c> features</c><00:14:54.889><c> is</c><00:14:55.310><c> much</c><00:14:55.490><c> larger</c>
+
+00:14:55.870 --> 00:14:55.880 align:start position:0%
+the number of features is much larger
+ 
+
+00:14:55.880 --> 00:14:56.550 align:start position:0%
+the number of features is much larger
+than<00:14:56.029><c> M</c>
+
+00:14:56.550 --> 00:14:56.560 align:start position:0%
+than M
+ 
+
+00:14:56.560 --> 00:14:58.319 align:start position:0%
+than M
+and<00:14:56.920><c> this</c><00:14:57.129><c> might</c><00:14:57.310><c> be</c><00:14:57.430><c> for</c><00:14:57.730><c> example</c><00:14:57.759><c> if</c><00:14:58.240><c> you</c>
+
+00:14:58.319 --> 00:14:58.329 align:start position:0%
+and this might be for example if you
+ 
+
+00:14:58.329 --> 00:15:00.749 align:start position:0%
+and this might be for example if you
+have<00:14:58.420><c> a</c><00:14:58.449><c> text</c><00:14:58.779><c> classification</c><00:14:59.009><c> problem</c><00:15:00.009><c> where</c>
+
+00:15:00.749 --> 00:15:00.759 align:start position:0%
+have a text classification problem where
+ 
+
+00:15:00.759 --> 00:15:02.639 align:start position:0%
+have a text classification problem where
+you<00:15:01.629><c> know</c><00:15:01.720><c> the</c><00:15:01.839><c> dimension</c><00:15:01.870><c> of</c><00:15:02.350><c> your</c><00:15:02.410><c> feature</c>
+
+00:15:02.639 --> 00:15:02.649 align:start position:0%
+you know the dimension of your feature
+ 
+
+00:15:02.649 --> 00:15:04.410 align:start position:0%
+you know the dimension of your feature
+vectors<00:15:03.129><c> don't</c><00:15:03.430><c> know</c><00:15:03.519><c> maybe</c><00:15:03.730><c> ten</c><00:15:03.999><c> thousand</c>
+
+00:15:04.410 --> 00:15:04.420 align:start position:0%
+vectors don't know maybe ten thousand
+ 
+
+00:15:04.420 --> 00:15:08.249 align:start position:0%
+vectors don't know maybe ten thousand
+and<00:15:05.160><c> if</c><00:15:06.160><c> your</c><00:15:06.339><c> training</c><00:15:06.759><c> set</c><00:15:06.939><c> size</c><00:15:07.149><c> is</c><00:15:07.569><c> maybe</c>
+
+00:15:08.249 --> 00:15:08.259 align:start position:0%
+and if your training set size is maybe
+ 
+
+00:15:08.259 --> 00:15:11.369 align:start position:0%
+and if your training set size is maybe
+ten<00:15:08.620><c> you</c><00:15:09.040><c> know</c><00:15:09.069><c> maybe</c><00:15:09.459><c> up</c><00:15:09.819><c> to</c><00:15:09.850><c> one</c><00:15:10.449><c> thousand</c><00:15:10.959><c> to</c>
+
+00:15:11.369 --> 00:15:11.379 align:start position:0%
+ten you know maybe up to one thousand to
+ 
+
+00:15:11.379 --> 00:15:13.350 align:start position:0%
+ten you know maybe up to one thousand to
+imagine<00:15:11.889><c> the</c><00:15:12.040><c> spam</c><00:15:12.279><c> classification</c><00:15:12.730><c> problem</c>
+
+00:15:13.350 --> 00:15:13.360 align:start position:0%
+imagine the spam classification problem
+ 
+
+00:15:13.360 --> 00:15:15.600 align:start position:0%
+imagine the spam classification problem
+where<00:15:13.569><c> email</c><00:15:14.529><c> spam</c><00:15:14.800><c> where</c><00:15:15.100><c> you</c><00:15:15.189><c> have</c><00:15:15.370><c> ten</c>
+
+00:15:15.600 --> 00:15:15.610 align:start position:0%
+where email spam where you have ten
+ 
+
+00:15:15.610 --> 00:15:17.519 align:start position:0%
+where email spam where you have ten
+thousand<00:15:16.029><c> features</c><00:15:16.389><c> corresponding</c><00:15:17.199><c> to</c><00:15:17.319><c> ten</c>
+
+00:15:17.519 --> 00:15:17.529 align:start position:0%
+thousand features corresponding to ten
+ 
+
+00:15:17.529 --> 00:15:19.259 align:start position:0%
+thousand features corresponding to ten
+thousand<00:15:17.949><c> words</c><00:15:18.040><c> but</c><00:15:18.399><c> you</c><00:15:18.490><c> have</c><00:15:18.670><c> you</c><00:15:19.120><c> know</c>
+
+00:15:19.259 --> 00:15:19.269 align:start position:0%
+thousand words but you have you know
+ 
+
+00:15:19.269 --> 00:15:21.030 align:start position:0%
+thousand words but you have you know
+maybe<00:15:19.509><c> 10</c><00:15:19.809><c> training</c><00:15:20.019><c> examples</c><00:15:20.139><c> or</c><00:15:20.709><c> maybe</c><00:15:20.860><c> up</c>
+
+00:15:21.030 --> 00:15:21.040 align:start position:0%
+maybe 10 training examples or maybe up
+ 
+
+00:15:21.040 --> 00:15:23.160 align:start position:0%
+maybe 10 training examples or maybe up
+to<00:15:21.069><c> a</c><00:15:21.189><c> thousand</c><00:15:21.610><c> examples</c><00:15:21.670><c> so</c><00:15:22.600><c> if</c><00:15:22.689><c> n</c><00:15:22.870><c> is</c><00:15:22.990><c> large</c>
+
+00:15:23.160 --> 00:15:23.170 align:start position:0%
+to a thousand examples so if n is large
+ 
+
+00:15:23.170 --> 00:15:25.530 align:start position:0%
+to a thousand examples so if n is large
+relative<00:15:23.379><c> to</c><00:15:23.740><c> M</c><00:15:23.889><c> then</c><00:15:24.759><c> what</c><00:15:25.089><c> I</c><00:15:25.149><c> would</c><00:15:25.269><c> usually</c>
+
+00:15:25.530 --> 00:15:25.540 align:start position:0%
+relative to M then what I would usually
+ 
+
+00:15:25.540 --> 00:15:28.079 align:start position:0%
+relative to M then what I would usually
+do<00:15:25.870><c> is</c><00:15:25.899><c> use</c><00:15:26.410><c> logistic</c><00:15:26.889><c> regression</c><00:15:27.370><c> or</c><00:15:27.730><c> use</c><00:15:27.939><c> an</c>
+
+00:15:28.079 --> 00:15:28.089 align:start position:0%
+do is use logistic regression or use an
+ 
+
+00:15:28.089 --> 00:15:30.420 align:start position:0%
+do is use logistic regression or use an
+SVM<00:15:28.420><c> without</c><00:15:28.660><c> a</c><00:15:28.839><c> kernel</c><00:15:28.930><c> or</c><00:15:29.470><c> use</c><00:15:29.620><c> it</c><00:15:29.769><c> with</c><00:15:30.399><c> a</c>
+
+00:15:30.420 --> 00:15:30.430 align:start position:0%
+SVM without a kernel or use it with a
+ 
+
+00:15:30.430 --> 00:15:32.429 align:start position:0%
+SVM without a kernel or use it with a
+linear<00:15:30.699><c> kernel</c><00:15:30.910><c> because</c><00:15:31.749><c> if</c><00:15:32.050><c> you</c><00:15:32.139><c> have</c><00:15:32.259><c> so</c>
+
+00:15:32.429 --> 00:15:32.439 align:start position:0%
+linear kernel because if you have so
+ 
+
+00:15:32.439 --> 00:15:34.199 align:start position:0%
+linear kernel because if you have so
+many<00:15:32.529><c> features</c><00:15:32.949><c> but</c><00:15:33.160><c> smaller</c><00:15:33.519><c> training</c><00:15:33.819><c> set</c>
+
+00:15:34.199 --> 00:15:34.209 align:start position:0%
+many features but smaller training set
+ 
+
+00:15:34.209 --> 00:15:36.329 align:start position:0%
+many features but smaller training set
+you<00:15:34.449><c> know</c><00:15:34.749><c> a</c><00:15:34.990><c> linear</c><00:15:35.350><c> function</c><00:15:35.800><c> will</c><00:15:35.949><c> probably</c>
+
+00:15:36.329 --> 00:15:36.339 align:start position:0%
+you know a linear function will probably
+ 
+
+00:15:36.339 --> 00:15:38.040 align:start position:0%
+you know a linear function will probably
+do<00:15:36.490><c> fine</c><00:15:36.759><c> and</c><00:15:37.029><c> you</c><00:15:37.089><c> don't</c><00:15:37.269><c> have</c><00:15:37.540><c> really</c><00:15:37.870><c> enough</c>
+
+00:15:38.040 --> 00:15:38.050 align:start position:0%
+do fine and you don't have really enough
+ 
+
+00:15:38.050 --> 00:15:40.769 align:start position:0%
+do fine and you don't have really enough
+data<00:15:38.290><c> to</c><00:15:38.709><c> fit</c><00:15:39.189><c> a</c><00:15:39.220><c> very</c><00:15:39.399><c> complicated</c><00:15:39.850><c> nonlinear</c>
+
+00:15:40.769 --> 00:15:40.779 align:start position:0%
+data to fit a very complicated nonlinear
+ 
+
+00:15:40.779 --> 00:15:44.100 align:start position:0%
+data to fit a very complicated nonlinear
+function<00:15:41.139><c> now</c><00:15:41.499><c> if</c><00:15:41.740><c> n</c><00:15:42.279><c> is</c><00:15:42.550><c> small</c><00:15:42.579><c> and</c><00:15:43.180><c> M</c><00:15:43.720><c> is</c>
+
+00:15:44.100 --> 00:15:44.110 align:start position:0%
+function now if n is small and M is
+ 
+
+00:15:44.110 --> 00:15:46.379 align:start position:0%
+function now if n is small and M is
+intermediate<00:15:44.829><c> so</c><00:15:45.430><c> what</c><00:15:45.759><c> I</c><00:15:45.790><c> mean</c><00:15:45.939><c> by</c><00:15:45.999><c> this</c><00:15:46.149><c> is</c>
+
+00:15:46.379 --> 00:15:46.389 align:start position:0%
+intermediate so what I mean by this is
+ 
+
+00:15:46.389 --> 00:15:48.720 align:start position:0%
+intermediate so what I mean by this is
+if<00:15:46.540><c> you</c><00:15:46.689><c> know</c><00:15:46.809><c> if</c><00:15:46.899><c> n</c><00:15:47.079><c> is</c><00:15:47.529><c> it</c><00:15:47.980><c> may</c><00:15:48.220><c> be</c><00:15:48.279><c> anywhere</c>
+
+00:15:48.720 --> 00:15:48.730 align:start position:0%
+if you know if n is it may be anywhere
+ 
+
+00:15:48.730 --> 00:15:51.809 align:start position:0%
+if you know if n is it may be anywhere
+from<00:15:48.790><c> one</c><00:15:49.300><c> to</c><00:15:50.170><c> a</c><00:15:50.199><c> thousand</c><00:15:50.769><c> one</c><00:15:51.370><c> would</c><00:15:51.519><c> be</c><00:15:51.610><c> very</c>
+
+00:15:51.809 --> 00:15:51.819 align:start position:0%
+from one to a thousand one would be very
+ 
+
+00:15:51.819 --> 00:15:53.579 align:start position:0%
+from one to a thousand one would be very
+small<00:15:52.059><c> but</c><00:15:52.240><c> me</c><00:15:52.389><c> up</c><00:15:52.540><c> to</c><00:15:52.689><c> a</c><00:15:52.720><c> thousand</c><00:15:53.230><c> features</c>
+
+00:15:53.579 --> 00:15:53.589 align:start position:0%
+small but me up to a thousand features
+ 
+
+00:15:53.589 --> 00:15:56.429 align:start position:0%
+small but me up to a thousand features
+and<00:15:53.829><c> if</c><00:15:54.809><c> the</c><00:15:55.809><c> number</c><00:15:56.079><c> of</c><00:15:56.139><c> training</c><00:15:56.350><c> examples</c>
+
+00:15:56.429 --> 00:15:56.439 align:start position:0%
+and if the number of training examples
+ 
+
+00:15:56.439 --> 00:15:59.040 align:start position:0%
+and if the number of training examples
+it's<00:15:57.069><c> may</c><00:15:57.189><c> be</c><00:15:57.220><c> anywhere</c><00:15:57.639><c> from</c><00:15:57.759><c> you</c><00:15:58.089><c> know</c><00:15:58.149><c> 10</c><00:15:58.509><c> 10</c>
+
+00:15:59.040 --> 00:15:59.050 align:start position:0%
+it's may be anywhere from you know 10 10
+ 
+
+00:15:59.050 --> 00:16:01.079 align:start position:0%
+it's may be anywhere from you know 10 10
+to<00:15:59.319><c> maybe</c><00:15:59.589><c> up</c><00:15:59.949><c> to</c><00:16:00.009><c> ten</c><00:16:00.430><c> thousand</c><00:16:00.850><c> examples</c>
+
+00:16:01.079 --> 00:16:01.089 align:start position:0%
+to maybe up to ten thousand examples
+ 
+
+00:16:01.089 --> 00:16:03.509 align:start position:0%
+to maybe up to ten thousand examples
+maybe<00:16:01.600><c> up</c><00:16:01.870><c> to</c><00:16:01.899><c> 50</c><00:16:02.319><c> thousand</c><00:16:02.649><c> examples</c><00:16:02.889><c> so</c><00:16:03.250><c> if</c><00:16:03.309><c> M</c>
+
+00:16:03.509 --> 00:16:03.519 align:start position:0%
+maybe up to 50 thousand examples so if M
+ 
+
+00:16:03.519 --> 00:16:05.549 align:start position:0%
+maybe up to 50 thousand examples so if M
+is<00:16:03.550><c> pretty</c><00:16:04.240><c> big</c><00:16:04.449><c> like</c><00:16:04.720><c> maybe</c><00:16:04.899><c> ten</c><00:16:05.110><c> thousand</c>
+
+00:16:05.549 --> 00:16:05.559 align:start position:0%
+is pretty big like maybe ten thousand
+ 
+
+00:16:05.559 --> 00:16:08.189 align:start position:0%
+is pretty big like maybe ten thousand
+but<00:16:05.829><c> not</c><00:16:06.009><c> a</c><00:16:06.339><c> million</c><00:16:06.759><c> active</c><00:16:07.360><c> so</c><00:16:07.959><c> if</c><00:16:08.019><c> M</c><00:16:08.170><c> is</c>
+
+00:16:08.189 --> 00:16:08.199 align:start position:0%
+but not a million active so if M is
+ 
+
+00:16:08.199 --> 00:16:11.549 align:start position:0%
+but not a million active so if M is
+intermediate<00:16:08.680><c> size</c><00:16:09.009><c> then</c><00:16:09.459><c> often</c><00:16:10.360><c> an</c><00:16:10.569><c> SVM</c><00:16:11.259><c> with</c>
+
+00:16:11.549 --> 00:16:11.559 align:start position:0%
+intermediate size then often an SVM with
+ 
+
+00:16:11.559 --> 00:16:13.650 align:start position:0%
+intermediate size then often an SVM with
+a<00:16:11.589><c> linear</c><00:16:11.889><c> current</c><00:16:12.339><c> won't</c><00:16:12.639><c> work</c><00:16:12.819><c> well</c><00:16:13.149><c> we</c>
+
+00:16:13.650 --> 00:16:13.660 align:start position:0%
+a linear current won't work well we
+ 
+
+00:16:13.660 --> 00:16:15.150 align:start position:0%
+a linear current won't work well we
+talked<00:16:13.899><c> about</c><00:16:14.019><c> this</c><00:16:14.290><c> earlier</c><00:16:14.620><c> as</c><00:16:14.680><c> well</c><00:16:14.889><c> of</c><00:16:15.040><c> a</c>
+
+00:16:15.150 --> 00:16:15.160 align:start position:0%
+talked about this earlier as well of a
+ 
+
+00:16:15.160 --> 00:16:16.769 align:start position:0%
+talked about this earlier as well of a
+one<00:16:15.370><c> country</c><00:16:15.790><c> the</c><00:16:15.910><c> example</c><00:16:16.300><c> of</c><00:16:16.389><c> this</c><00:16:16.509><c> would</c><00:16:16.750><c> be</c>
+
+00:16:16.769 --> 00:16:16.779 align:start position:0%
+one country the example of this would be
+ 
+
+00:16:16.779 --> 00:16:18.720 align:start position:0%
+one country the example of this would be
+if<00:16:17.050><c> you</c><00:16:17.170><c> have</c><00:16:17.379><c> a</c><00:16:17.589><c> two</c><00:16:17.860><c> dimensional</c><00:16:18.009><c> training</c>
+
+00:16:18.720 --> 00:16:18.730 align:start position:0%
+if you have a two dimensional training
+ 
+
+00:16:18.730 --> 00:16:21.480 align:start position:0%
+if you have a two dimensional training
+set<00:16:18.939><c> so</c><00:16:19.509><c> if</c><00:16:19.629><c> n</c><00:16:19.779><c> is</c><00:16:20.019><c> equal</c><00:16:20.259><c> to</c><00:16:20.290><c> two</c><00:16:20.589><c> but</c><00:16:21.189><c> you</c><00:16:21.309><c> have</c>
+
+00:16:21.480 --> 00:16:21.490 align:start position:0%
+set so if n is equal to two but you have
+ 
+
+00:16:21.490 --> 00:16:23.069 align:start position:0%
+set so if n is equal to two but you have
+you<00:16:21.699><c> know</c><00:16:21.819><c> drawing</c><00:16:22.389><c> in</c><00:16:22.569><c> a</c><00:16:22.629><c> pretty</c><00:16:22.839><c> large</c>
+
+00:16:23.069 --> 00:16:23.079 align:start position:0%
+you know drawing in a pretty large
+ 
+
+00:16:23.079 --> 00:16:24.299 align:start position:0%
+you know drawing in a pretty large
+number<00:16:23.170><c> of</c><00:16:23.470><c> training</c><00:16:23.740><c> examples</c>
+
+00:16:24.299 --> 00:16:24.309 align:start position:0%
+number of training examples
+ 
+
+00:16:24.309 --> 00:16:26.670 align:start position:0%
+number of training examples
+so<00:16:24.879><c> Gaussian</c><00:16:25.360><c> kernel</c><00:16:25.750><c> would</c><00:16:25.899><c> do</c><00:16:26.019><c> a</c><00:16:26.050><c> pretty</c>
+
+00:16:26.670 --> 00:16:26.680 align:start position:0%
+so Gaussian kernel would do a pretty
+ 
+
+00:16:26.680 --> 00:16:28.319 align:start position:0%
+so Gaussian kernel would do a pretty
+good<00:16:26.800><c> job</c><00:16:26.920><c> separating</c><00:16:27.490><c> positive</c><00:16:28.240><c> a</c><00:16:28.300><c> negative</c>
+
+00:16:28.319 --> 00:16:28.329 align:start position:0%
+good job separating positive a negative
+ 
+
+00:16:28.329 --> 00:16:30.990 align:start position:0%
+good job separating positive a negative
+horses<00:16:29.019><c> one</c><00:16:29.949><c> third</c><00:16:30.279><c> setting</c><00:16:30.550><c> does</c><00:16:30.850><c> of</c>
+
+00:16:30.990 --> 00:16:31.000 align:start position:0%
+horses one third setting does of
+ 
+
+00:16:31.000 --> 00:16:34.499 align:start position:0%
+horses one third setting does of
+interest<00:16:31.389><c> is</c><00:16:31.569><c> if</c><00:16:32.019><c> n</c><00:16:32.230><c> is</c><00:16:32.559><c> small</c><00:16:32.589><c> but</c><00:16:33.220><c> M</c><00:16:33.399><c> is</c><00:16:34.000><c> large</c>
+
+00:16:34.499 --> 00:16:34.509 align:start position:0%
+interest is if n is small but M is large
+ 
+
+00:16:34.509 --> 00:16:37.860 align:start position:0%
+interest is if n is small but M is large
+so<00:16:35.079><c> if</c><00:16:35.379><c> n</c><00:16:35.620><c> is</c><00:16:36.189><c> you</c><00:16:36.670><c> know</c><00:16:36.759><c> gain</c><00:16:37.029><c> maybe</c><00:16:37.269><c> one</c><00:16:37.569><c> to</c><00:16:37.839><c> a</c>
+
+00:16:37.860 --> 00:16:37.870 align:start position:0%
+so if n is you know gain maybe one to a
+ 
+
+00:16:37.870 --> 00:16:41.790 align:start position:0%
+so if n is you know gain maybe one to a
+thousand<00:16:38.439><c> could</c><00:16:39.189><c> be</c><00:16:39.309><c> larger</c><00:16:39.699><c> but</c><00:16:40.360><c> ever</c><00:16:40.569><c> M</c><00:16:40.959><c> was</c>
+
+00:16:41.790 --> 00:16:41.800 align:start position:0%
+thousand could be larger but ever M was
+ 
+
+00:16:41.800 --> 00:16:46.379 align:start position:0%
+thousand could be larger but ever M was
+on<00:16:42.160><c> you</c><00:16:42.850><c> know</c><00:16:42.879><c> maybe</c><00:16:43.209><c> 50,000</c><00:16:44.079><c> and</c><00:16:44.759><c> greater</c><00:16:45.759><c> to</c>
+
+00:16:46.379 --> 00:16:46.389 align:start position:0%
+on you know maybe 50,000 and greater to
+ 
+
+00:16:46.389 --> 00:16:49.139 align:start position:0%
+on you know maybe 50,000 and greater to
+millions<00:16:46.929><c> it's</c><00:16:47.589><c> a</c><00:16:47.740><c> fifty</c><00:16:48.009><c> thousand</c><00:16:48.490><c> a</c><00:16:48.639><c> hundred</c>
+
+00:16:49.139 --> 00:16:49.149 align:start position:0%
+millions it's a fifty thousand a hundred
+ 
+
+00:16:49.149 --> 00:16:51.420 align:start position:0%
+millions it's a fifty thousand a hundred
+thousand<00:16:49.689><c> million</c><00:16:50.050><c> Julianne</c>
+
+00:16:51.420 --> 00:16:51.430 align:start position:0%
+thousand million Julianne
+ 
+
+00:16:51.430 --> 00:16:53.250 align:start position:0%
+thousand million Julianne
+and<00:16:51.520><c> have</c><00:16:51.640><c> very</c><00:16:52.149><c> very</c><00:16:52.390><c> large</c><00:16:52.660><c> training</c><00:16:52.839><c> set</c>
+
+00:16:53.250 --> 00:16:53.260 align:start position:0%
+and have very very large training set
+ 
+
+00:16:53.260 --> 00:16:57.150 align:start position:0%
+and have very very large training set
+sizes<00:16:53.470><c> right</c><00:16:54.360><c> so</c><00:16:55.360><c> this</c><00:16:55.690><c> is</c><00:16:55.839><c> the</c><00:16:55.960><c> case</c><00:16:56.140><c> then</c><00:16:56.589><c> an</c>
+
+00:16:57.150 --> 00:16:57.160 align:start position:0%
+sizes right so this is the case then an
+ 
+
+00:16:57.160 --> 00:16:58.980 align:start position:0%
+sizes right so this is the case then an
+SVM<00:16:57.580><c> with</c><00:16:57.790><c> a</c><00:16:57.850><c> Gaussian</c><00:16:58.270><c> kernel</c><00:16:58.300><c> will</c><00:16:58.899><c> be</c>
+
+00:16:58.980 --> 00:16:58.990 align:start position:0%
+SVM with a Gaussian kernel will be
+ 
+
+00:16:58.990 --> 00:17:00.840 align:start position:0%
+SVM with a Gaussian kernel will be
+somewhat<00:16:59.350><c> slow</c><00:16:59.589><c> to</c><00:16:59.649><c> run</c><00:16:59.980><c> today's</c><00:17:00.520><c> SVM</c>
+
+00:17:00.840 --> 00:17:00.850 align:start position:0%
+somewhat slow to run today's SVM
+ 
+
+00:17:00.850 --> 00:17:03.000 align:start position:0%
+somewhat slow to run today's SVM
+packages<00:17:01.089><c> if</c><00:17:02.080><c> you're</c><00:17:02.440><c> using</c><00:17:02.620><c> a</c><00:17:02.800><c> Gaussian</c>
+
+00:17:03.000 --> 00:17:03.010 align:start position:0%
+packages if you're using a Gaussian
+ 
+
+00:17:03.010 --> 00:17:05.280 align:start position:0%
+packages if you're using a Gaussian
+kernel<00:17:03.279><c> tend</c><00:17:04.120><c> to</c><00:17:04.240><c> struggle</c><00:17:04.750><c> a</c><00:17:04.780><c> bit</c><00:17:04.990><c> if</c><00:17:05.170><c> you</c>
+
+00:17:05.280 --> 00:17:05.290 align:start position:0%
+kernel tend to struggle a bit if you
+ 
+
+00:17:05.290 --> 00:17:07.319 align:start position:0%
+kernel tend to struggle a bit if you
+have<00:17:05.470><c> you</c><00:17:05.679><c> know</c><00:17:05.829><c> maybe</c><00:17:06.189><c> 50,000</c><00:17:06.910><c> is</c><00:17:06.970><c> okay</c><00:17:07.270><c> but</c>
+
+00:17:07.319 --> 00:17:07.329 align:start position:0%
+have you know maybe 50,000 is okay but
+ 
+
+00:17:07.329 --> 00:17:09.439 align:start position:0%
+have you know maybe 50,000 is okay but
+if<00:17:07.569><c> you</c><00:17:07.630><c> have</c><00:17:07.720><c> a</c><00:17:07.780><c> million</c><00:17:08.020><c> training</c><00:17:08.530><c> examples</c>
+
+00:17:09.439 --> 00:17:09.449 align:start position:0%
+if you have a million training examples
+ 
+
+00:17:09.449 --> 00:17:12.059 align:start position:0%
+if you have a million training examples
+maybe<00:17:10.449><c> even</c><00:17:10.689><c> a</c><00:17:10.750><c> hundred</c><00:17:10.929><c> thousand</c><00:17:11.470><c> with</c><00:17:11.949><c> your</c>
+
+00:17:12.059 --> 00:17:12.069 align:start position:0%
+maybe even a hundred thousand with your
+ 
+
+00:17:12.069 --> 00:17:14.579 align:start position:0%
+maybe even a hundred thousand with your
+massive<00:17:12.579><c> value</c><00:17:12.760><c> of</c><00:17:13.000><c> em</c><00:17:13.120><c> today's</c><00:17:14.110><c> SVM</c><00:17:14.350><c> packages</c>
+
+00:17:14.579 --> 00:17:14.589 align:start position:0%
+massive value of em today's SVM packages
+ 
+
+00:17:14.589 --> 00:17:17.010 align:start position:0%
+massive value of em today's SVM packages
+are<00:17:15.220><c> very</c><00:17:15.520><c> good</c><00:17:15.819><c> but</c><00:17:16.420><c> they</c><00:17:16.510><c> can</c><00:17:16.839><c> still</c>
+
+00:17:17.010 --> 00:17:17.020 align:start position:0%
+are very good but they can still
+ 
+
+00:17:17.020 --> 00:17:18.390 align:start position:0%
+are very good but they can still
+struggle<00:17:17.410><c> a</c><00:17:17.620><c> little</c><00:17:17.740><c> bit</c><00:17:17.920><c> when</c><00:17:18.160><c> you</c><00:17:18.250><c> have</c><00:17:18.370><c> a</c>
+
+00:17:18.390 --> 00:17:18.400 align:start position:0%
+struggle a little bit when you have a
+ 
+
+00:17:18.400 --> 00:17:20.160 align:start position:0%
+struggle a little bit when you have a
+massive<00:17:18.850><c> massive</c><00:17:19.030><c> training</c><00:17:19.420><c> set</c><00:17:19.540><c> size</c><00:17:19.870><c> and</c>
+
+00:17:20.160 --> 00:17:20.170 align:start position:0%
+massive massive training set size and
+ 
+
+00:17:20.170 --> 00:17:22.710 align:start position:0%
+massive massive training set size and
+using<00:17:20.589><c> a</c><00:17:20.650><c> thousand</c><00:17:21.010><c> kernel</c><00:17:21.339><c> so</c><00:17:22.240><c> in</c><00:17:22.300><c> that</c><00:17:22.480><c> case</c>
+
+00:17:22.710 --> 00:17:22.720 align:start position:0%
+using a thousand kernel so in that case
+ 
+
+00:17:22.720 --> 00:17:25.319 align:start position:0%
+using a thousand kernel so in that case
+what<00:17:22.990><c> I</c><00:17:23.020><c> would</c><00:17:23.230><c> usually</c><00:17:23.350><c> do</c><00:17:23.709><c> is</c><00:17:23.949><c> try</c><00:17:24.939><c> to</c><00:17:25.000><c> just</c>
+
+00:17:25.319 --> 00:17:25.329 align:start position:0%
+what I would usually do is try to just
+ 
+
+00:17:25.329 --> 00:17:28.140 align:start position:0%
+what I would usually do is try to just
+manually<00:17:25.780><c> create</c><00:17:26.290><c> or</c><00:17:26.439><c> add</c><00:17:26.559><c> more</c><00:17:26.829><c> features</c><00:17:27.150><c> and</c>
+
+00:17:28.140 --> 00:17:28.150 align:start position:0%
+manually create or add more features and
+ 
+
+00:17:28.150 --> 00:17:30.180 align:start position:0%
+manually create or add more features and
+then<00:17:28.510><c> use</c><00:17:28.809><c> logistic</c><00:17:29.080><c> regression</c><00:17:29.770><c> or</c><00:17:29.950><c> an</c><00:17:30.040><c> SVM</c>
+
+00:17:30.180 --> 00:17:30.190 align:start position:0%
+then use logistic regression or an SVM
+ 
+
+00:17:30.190 --> 00:17:34.049 align:start position:0%
+then use logistic regression or an SVM
+without<00:17:30.790><c> a</c><00:17:30.970><c> kernel</c><00:17:31.090><c> and</c><00:17:31.950><c> in</c><00:17:32.950><c> case</c><00:17:33.550><c> you</c><00:17:33.730><c> look</c><00:17:33.880><c> at</c>
+
+00:17:34.049 --> 00:17:34.059 align:start position:0%
+without a kernel and in case you look at
+ 
+
+00:17:34.059 --> 00:17:35.880 align:start position:0%
+without a kernel and in case you look at
+this<00:17:34.179><c> slide</c><00:17:34.420><c> and</c><00:17:34.690><c> you</c><00:17:34.809><c> see</c><00:17:34.900><c> logistic</c>
+
+00:17:35.880 --> 00:17:35.890 align:start position:0%
+this slide and you see logistic
+ 
+
+00:17:35.890 --> 00:17:38.190 align:start position:0%
+this slide and you see logistic
+regression<00:17:36.429><c> or</c><00:17:36.670><c> SVM</c><00:17:37.120><c> without</c><00:17:37.240><c> a</c><00:17:37.450><c> kernel</c><00:17:37.540><c> in</c>
+
+00:17:38.190 --> 00:17:38.200 align:start position:0%
+regression or SVM without a kernel in
+ 
+
+00:17:38.200 --> 00:17:40.620 align:start position:0%
+regression or SVM without a kernel in
+both<00:17:38.890><c> of</c><00:17:39.040><c> these</c><00:17:39.130><c> places</c><00:17:39.370><c> I</c><00:17:39.940><c> kind</c><00:17:40.240><c> of</c><00:17:40.330><c> paired</c>
+
+00:17:40.620 --> 00:17:40.630 align:start position:0%
+both of these places I kind of paired
+ 
+
+00:17:40.630 --> 00:17:42.600 align:start position:0%
+both of these places I kind of paired
+them<00:17:40.780><c> together</c><00:17:40.960><c> well</c><00:17:41.890><c> does</c><00:17:42.070><c> the</c><00:17:42.160><c> reason</c><00:17:42.460><c> for</c>
+
+00:17:42.600 --> 00:17:42.610 align:start position:0%
+them together well does the reason for
+ 
+
+00:17:42.610 --> 00:17:45.330 align:start position:0%
+them together well does the reason for
+that<00:17:42.670><c> is</c><00:17:43.000><c> that</c><00:17:43.230><c> logistic</c><00:17:44.230><c> regression</c><00:17:44.710><c> and</c><00:17:44.920><c> svm</c>
+
+00:17:45.330 --> 00:17:45.340 align:start position:0%
+that is that logistic regression and svm
+ 
+
+00:17:45.340 --> 00:17:47.160 align:start position:0%
+that is that logistic regression and svm
+without<00:17:45.790><c> a</c><00:17:45.970><c> kernel</c><00:17:46.270><c> those</c><00:17:46.690><c> are</c><00:17:46.870><c> really</c><00:17:47.080><c> pretty</c>
+
+00:17:47.160 --> 00:17:47.170 align:start position:0%
+without a kernel those are really pretty
+ 
+
+00:17:47.170 --> 00:17:49.530 align:start position:0%
+without a kernel those are really pretty
+similar<00:17:47.770><c> algorithms</c><00:17:48.340><c> and</c><00:17:48.670><c> you</c><00:17:49.179><c> know</c><00:17:49.300><c> either</c>
+
+00:17:49.530 --> 00:17:49.540 align:start position:0%
+similar algorithms and you know either
+ 
+
+00:17:49.540 --> 00:17:51.840 align:start position:0%
+similar algorithms and you know either
+logistic<00:17:50.140><c> regression</c><00:17:50.620><c> or</c><00:17:51.070><c> SVM</c><00:17:51.550><c> without</c><00:17:51.670><c> a</c>
+
+00:17:51.840 --> 00:17:51.850 align:start position:0%
+logistic regression or SVM without a
+ 
+
+00:17:51.850 --> 00:17:54.120 align:start position:0%
+logistic regression or SVM without a
+kernel<00:17:51.940><c> we</c><00:17:52.750><c> usually</c><00:17:53.170><c> do</c><00:17:53.350><c> pretty</c><00:17:53.380><c> similar</c>
+
+00:17:54.120 --> 00:17:54.130 align:start position:0%
+kernel we usually do pretty similar
+ 
+
+00:17:54.130 --> 00:17:55.350 align:start position:0%
+kernel we usually do pretty similar
+things<00:17:54.340><c> and</c><00:17:54.490><c> give</c><00:17:54.700><c> pretty</c><00:17:55.000><c> similar</c>
+
+00:17:55.350 --> 00:17:55.360 align:start position:0%
+things and give pretty similar
+ 
+
+00:17:55.360 --> 00:17:57.240 align:start position:0%
+things and give pretty similar
+performance<00:17:55.960><c> but</c><00:17:56.500><c> depending</c><00:17:57.070><c> on</c><00:17:57.190><c> your</c>
+
+00:17:57.240 --> 00:17:57.250 align:start position:0%
+performance but depending on your
+ 
+
+00:17:57.250 --> 00:17:59.370 align:start position:0%
+performance but depending on your
+implementational<00:17:57.420><c> details</c><00:17:58.420><c> one</c><00:17:59.050><c> may</c><00:17:59.200><c> be</c><00:17:59.260><c> more</c>
+
+00:17:59.370 --> 00:17:59.380 align:start position:0%
+implementational details one may be more
+ 
+
+00:17:59.380 --> 00:18:02.220 align:start position:0%
+implementational details one may be more
+efficient<00:17:59.980><c> than</c><00:18:00.040><c> the</c><00:18:00.280><c> other</c><00:18:00.429><c> but</c><00:18:01.090><c> where</c><00:18:02.020><c> one</c>
+
+00:18:02.220 --> 00:18:02.230 align:start position:0%
+efficient than the other but where one
+ 
+
+00:18:02.230 --> 00:18:03.690 align:start position:0%
+efficient than the other but where one
+of<00:18:02.260><c> these</c><00:18:02.440><c> algorithms</c><00:18:02.740><c> applies</c><00:18:03.220><c> they're</c><00:18:03.520><c> just</c>
+
+00:18:03.690 --> 00:18:03.700 align:start position:0%
+of these algorithms applies they're just
+ 
+
+00:18:03.700 --> 00:18:05.400 align:start position:0%
+of these algorithms applies they're just
+regression<00:18:04.150><c> well</c><00:18:04.420><c> as</c><00:18:04.630><c> we</c><00:18:04.780><c> would</c><00:18:04.990><c> all</c><00:18:05.110><c> occur</c>
+
+00:18:05.400 --> 00:18:05.410 align:start position:0%
+regression well as we would all occur
+ 
+
+00:18:05.410 --> 00:18:06.960 align:start position:0%
+regression well as we would all occur
+and<00:18:05.530><c> all</c><00:18:05.620><c> the</c><00:18:05.830><c> other</c><00:18:06.010><c> one</c><00:18:06.160><c> is</c><00:18:06.309><c> likely</c><00:18:06.520><c> to</c><00:18:06.730><c> work</c>
+
+00:18:06.960 --> 00:18:06.970 align:start position:0%
+and all the other one is likely to work
+ 
+
+00:18:06.970 --> 00:18:09.240 align:start position:0%
+and all the other one is likely to work
+pretty<00:18:07.150><c> well</c><00:18:07.240><c> as</c><00:18:07.570><c> well</c><00:18:07.780><c> but</c><00:18:08.679><c> a</c><00:18:08.860><c> lot</c><00:18:09.010><c> of</c><00:18:09.160><c> the</c>
+
+00:18:09.240 --> 00:18:09.250 align:start position:0%
+pretty well as well but a lot of the
+ 
+
+00:18:09.250 --> 00:18:12.060 align:start position:0%
+pretty well as well but a lot of the
+power<00:18:09.460><c> of</c><00:18:09.670><c> the</c><00:18:09.880><c> SVM</c><00:18:10.300><c> is</c><00:18:10.570><c> when</c><00:18:11.050><c> you</c><00:18:11.830><c> use</c>
+
+00:18:12.060 --> 00:18:12.070 align:start position:0%
+power of the SVM is when you use
+ 
+
+00:18:12.070 --> 00:18:14.910 align:start position:0%
+power of the SVM is when you use
+different<00:18:12.340><c> kernels</c><00:18:12.550><c> to</c><00:18:13.300><c> learn</c><00:18:14.260><c> complex</c>
+
+00:18:14.910 --> 00:18:14.920 align:start position:0%
+different kernels to learn complex
+ 
+
+00:18:14.920 --> 00:18:17.370 align:start position:0%
+different kernels to learn complex
+nonlinear<00:18:15.670><c> functions</c><00:18:15.910><c> and</c><00:18:16.630><c> then</c><00:18:16.809><c> this</c><00:18:16.960><c> this</c>
+
+00:18:17.370 --> 00:18:17.380 align:start position:0%
+nonlinear functions and then this this
+ 
+
+00:18:17.380 --> 00:18:19.860 align:start position:0%
+nonlinear functions and then this this
+regime<00:18:17.770><c> you</c><00:18:17.950><c> know</c><00:18:18.070><c> when</c><00:18:18.309><c> you</c><00:18:18.400><c> have</c><00:18:18.610><c> not</c><00:18:19.360><c> when</c>
+
+00:18:19.860 --> 00:18:19.870 align:start position:0%
+regime you know when you have not when
+ 
+
+00:18:19.870 --> 00:18:21.299 align:start position:0%
+regime you know when you have not when
+you<00:18:19.929><c> have</c><00:18:19.990><c> maybe</c><00:18:20.350><c> up</c><00:18:20.500><c> to</c><00:18:20.650><c> 10,000</c><00:18:21.250><c> examples</c>
+
+00:18:21.299 --> 00:18:21.309 align:start position:0%
+you have maybe up to 10,000 examples
+ 
+
+00:18:21.309 --> 00:18:24.780 align:start position:0%
+you have maybe up to 10,000 examples
+maybe<00:18:21.940><c> up</c><00:18:22.150><c> to</c><00:18:22.300><c> 50,000</c><00:18:23.020><c> and</c><00:18:23.860><c> and</c><00:18:24.460><c> and</c><00:18:24.670><c> your</c>
+
+00:18:24.780 --> 00:18:24.790 align:start position:0%
+maybe up to 50,000 and and and your
+ 
+
+00:18:24.790 --> 00:18:27.419 align:start position:0%
+maybe up to 50,000 and and and your
+number<00:18:25.030><c> of</c><00:18:25.059><c> features</c><00:18:25.710><c> this</c><00:18:26.710><c> is</c><00:18:26.920><c> reasonably</c>
+
+00:18:27.419 --> 00:18:27.429 align:start position:0%
+number of features this is reasonably
+ 
+
+00:18:27.429 --> 00:18:29.580 align:start position:0%
+number of features this is reasonably
+large<00:18:27.550><c> maybe</c><00:18:28.030><c> that's</c><00:18:28.480><c> a</c><00:18:28.600><c> very</c><00:18:28.809><c> common</c><00:18:29.140><c> regime</c>
+
+00:18:29.580 --> 00:18:29.590 align:start position:0%
+large maybe that's a very common regime
+ 
+
+00:18:29.590 --> 00:18:31.560 align:start position:0%
+large maybe that's a very common regime
+and<00:18:29.800><c> maybe</c><00:18:29.950><c> that's</c><00:18:30.220><c> a</c><00:18:30.460><c> regime</c><00:18:30.730><c> where</c><00:18:31.510><c> a</c>
+
+00:18:31.560 --> 00:18:31.570 align:start position:0%
+and maybe that's a regime where a
+ 
+
+00:18:31.570 --> 00:18:33.060 align:start position:0%
+and maybe that's a regime where a
+support<00:18:31.960><c> vector</c><00:18:32.230><c> machine</c><00:18:32.559><c> with</c><00:18:32.710><c> a</c><00:18:32.830><c> Gaussian</c>
+
+00:18:33.060 --> 00:18:33.070 align:start position:0%
+support vector machine with a Gaussian
+ 
+
+00:18:33.070 --> 00:18:35.160 align:start position:0%
+support vector machine with a Gaussian
+kernel<00:18:33.309><c> will</c><00:18:33.910><c> shine</c><00:18:34.120><c> you</c><00:18:34.360><c> can</c><00:18:34.420><c> do</c><00:18:34.690><c> things</c><00:18:34.870><c> the</c>
+
+00:18:35.160 --> 00:18:35.170 align:start position:0%
+kernel will shine you can do things the
+ 
+
+00:18:35.170 --> 00:18:37.230 align:start position:0%
+kernel will shine you can do things the
+harder<00:18:36.130><c> to</c><00:18:36.250><c> do</c><00:18:36.400><c> that</c>
+
+00:18:37.230 --> 00:18:37.240 align:start position:0%
+harder to do that
+ 
+
+00:18:37.240 --> 00:18:40.320 align:start position:0%
+harder to do that
+rushon<00:18:37.930><c> and</c><00:18:38.520><c> finally</c><00:18:39.520><c> whether</c><00:18:39.970><c> neural</c>
+
+00:18:40.320 --> 00:18:40.330 align:start position:0%
+rushon and finally whether neural
+ 
+
+00:18:40.330 --> 00:18:42.390 align:start position:0%
+rushon and finally whether neural
+networks<00:18:40.780><c> fit</c><00:18:40.960><c> in</c><00:18:41.080><c> well</c><00:18:41.290><c> for</c><00:18:41.830><c> all</c><00:18:42.070><c> of</c><00:18:42.280><c> these</c>
+
+00:18:42.390 --> 00:18:42.400 align:start position:0%
+networks fit in well for all of these
+ 
+
+00:18:42.400 --> 00:18:44.160 align:start position:0%
+networks fit in well for all of these
+problems<00:18:42.730><c> both</c><00:18:43.180><c> of</c><00:18:43.540><c> all</c><00:18:43.780><c> of</c><00:18:43.990><c> these</c><00:18:44.110><c> different</c>
+
+00:18:44.160 --> 00:18:44.170 align:start position:0%
+problems both of all of these different
+ 
+
+00:18:44.170 --> 00:18:46.380 align:start position:0%
+problems both of all of these different
+regimes<00:18:44.920><c> a</c><00:18:45.220><c> neural</c><00:18:45.850><c> network</c><00:18:46.270><c> or</c>
+
+00:18:46.380 --> 00:18:46.390 align:start position:0%
+regimes a neural network or
+ 
+
+00:18:46.390 --> 00:18:48.030 align:start position:0%
+regimes a neural network or
+well-designed<00:18:46.900><c> neural</c><00:18:47.170><c> network</c><00:18:47.530><c> is</c><00:18:47.830><c> likely</c>
+
+00:18:48.030 --> 00:18:48.040 align:start position:0%
+well-designed neural network is likely
+ 
+
+00:18:48.040 --> 00:18:50.820 align:start position:0%
+well-designed neural network is likely
+to<00:18:48.310><c> work</c><00:18:48.490><c> well</c><00:18:48.790><c> as</c><00:18:48.970><c> well</c><00:18:49.470><c> the</c><00:18:50.470><c> one</c>
+
+00:18:50.820 --> 00:18:50.830 align:start position:0%
+to work well as well the one
+ 
+
+00:18:50.830 --> 00:18:52.590 align:start position:0%
+to work well as well the one
+disadvantage<00:18:51.010><c> one</c><00:18:51.850><c> reason</c><00:18:52.180><c> that</c><00:18:52.270><c> might</c><00:18:52.420><c> not</c>
+
+00:18:52.590 --> 00:18:52.600 align:start position:0%
+disadvantage one reason that might not
+ 
+
+00:18:52.600 --> 00:18:54.870 align:start position:0%
+disadvantage one reason that might not
+sometimes<00:18:52.870><c> use</c><00:18:53.140><c> the</c><00:18:53.350><c> neural</c><00:18:53.710><c> network</c><00:18:54.070><c> is</c><00:18:54.310><c> that</c>
+
+00:18:54.870 --> 00:18:54.880 align:start position:0%
+sometimes use the neural network is that
+ 
+
+00:18:54.880 --> 00:18:56.400 align:start position:0%
+sometimes use the neural network is that
+for<00:18:55.120><c> some</c><00:18:55.270><c> of</c><00:18:55.360><c> these</c><00:18:55.450><c> problems</c><00:18:55.990><c> the</c><00:18:56.140><c> neural</c>
+
+00:18:56.400 --> 00:18:56.410 align:start position:0%
+for some of these problems the neural
+ 
+
+00:18:56.410 --> 00:18:58.530 align:start position:0%
+for some of these problems the neural
+network<00:18:56.800><c> might</c><00:18:57.040><c> be</c><00:18:57.130><c> slower</c><00:18:57.430><c> to</c><00:18:57.460><c> train</c><00:18:57.850><c> but</c><00:18:58.360><c> if</c>
+
+00:18:58.530 --> 00:18:58.540 align:start position:0%
+network might be slower to train but if
+ 
+
+00:18:58.540 --> 00:19:00.450 align:start position:0%
+network might be slower to train but if
+you<00:18:58.600><c> have</c><00:18:58.750><c> a</c><00:18:58.780><c> very</c><00:18:59.050><c> good</c><00:18:59.320><c> SVM</c><00:18:59.800><c> implementation</c>
+
+00:19:00.450 --> 00:19:00.460 align:start position:0%
+you have a very good SVM implementation
+ 
+
+00:19:00.460 --> 00:19:02.730 align:start position:0%
+you have a very good SVM implementation
+package<00:19:01.000><c> that</c><00:19:01.450><c> could</c><00:19:01.630><c> run</c><00:19:01.780><c> faster</c><00:19:02.290><c> quite</c><00:19:02.710><c> a</c>
+
+00:19:02.730 --> 00:19:02.740 align:start position:0%
+package that could run faster quite a
+ 
+
+00:19:02.740 --> 00:19:04.640 align:start position:0%
+package that could run faster quite a
+bit<00:19:02.920><c> faster</c><00:19:03.310><c> of</c><00:19:03.430><c> the</c><00:19:03.550><c> new</c><00:19:03.700><c> neural</c><00:19:03.970><c> network</c><00:19:04.330><c> and</c>
+
+00:19:04.640 --> 00:19:04.650 align:start position:0%
+bit faster of the new neural network and
+ 
+
+00:19:04.650 --> 00:19:06.990 align:start position:0%
+bit faster of the new neural network and
+although<00:19:05.650><c> we</c><00:19:05.800><c> didn't</c><00:19:06.010><c> show</c><00:19:06.160><c> this</c><00:19:06.340><c> earlier</c><00:19:06.700><c> it</c>
+
+00:19:06.990 --> 00:19:07.000 align:start position:0%
+although we didn't show this earlier it
+ 
+
+00:19:07.000 --> 00:19:09.000 align:start position:0%
+although we didn't show this earlier it
+turns<00:19:07.240><c> out</c><00:19:07.450><c> that</c><00:19:07.690><c> the</c><00:19:07.960><c> optimization</c><00:19:08.470><c> problem</c>
+
+00:19:09.000 --> 00:19:09.010 align:start position:0%
+turns out that the optimization problem
+ 
+
+00:19:09.010 --> 00:19:11.670 align:start position:0%
+turns out that the optimization problem
+that<00:19:09.700><c> the</c><00:19:09.820><c> SVM</c><00:19:10.210><c> has</c><00:19:10.570><c> is</c><00:19:10.870><c> a</c><00:19:10.930><c> convex</c>
+
+00:19:11.670 --> 00:19:11.680 align:start position:0%
+that the SVM has is a convex
+ 
+
+00:19:11.680 --> 00:19:14.880 align:start position:0%
+that the SVM has is a convex
+optimization<00:19:11.980><c> problem</c><00:19:12.880><c> and</c><00:19:13.060><c> so</c><00:19:13.780><c> the</c><00:19:13.810><c> good</c><00:19:14.110><c> SVM</c>
+
+00:19:14.880 --> 00:19:14.890 align:start position:0%
+optimization problem and so the good SVM
+ 
+
+00:19:14.890 --> 00:19:17.100 align:start position:0%
+optimization problem and so the good SVM
+optimization<00:19:15.000><c> software</c><00:19:16.000><c> packages</c><00:19:16.660><c> will</c>
+
+00:19:17.100 --> 00:19:17.110 align:start position:0%
+optimization software packages will
+ 
+
+00:19:17.110 --> 00:19:20.160 align:start position:0%
+optimization software packages will
+always<00:19:17.440><c> find</c><00:19:18.070><c> a</c><00:19:18.400><c> global</c><00:19:19.270><c> minimum</c><00:19:19.930><c> or</c>
+
+00:19:20.160 --> 00:19:20.170 align:start position:0%
+always find a global minimum or
+ 
+
+00:19:20.170 --> 00:19:22.770 align:start position:0%
+always find a global minimum or
+something<00:19:21.010><c> close</c><00:19:21.250><c> to</c><00:19:21.280><c> it</c><00:19:21.550><c> and</c><00:19:21.700><c> so</c><00:19:21.910><c> for</c><00:19:22.360><c> the</c><00:19:22.450><c> SVM</c>
+
+00:19:22.770 --> 00:19:22.780 align:start position:0%
+something close to it and so for the SVM
+ 
+
+00:19:22.780 --> 00:19:24.210 align:start position:0%
+something close to it and so for the SVM
+you<00:19:22.960><c> don't</c><00:19:23.140><c> need</c><00:19:23.290><c> to</c><00:19:23.410><c> worry</c><00:19:23.590><c> about</c><00:19:23.650><c> local</c>
+
+00:19:24.210 --> 00:19:24.220 align:start position:0%
+you don't need to worry about local
+ 
+
+00:19:24.220 --> 00:19:26.880 align:start position:0%
+you don't need to worry about local
+optima<00:19:24.640><c> in</c><00:19:25.360><c> practice</c><00:19:25.810><c> local</c><00:19:26.110><c> Opterons</c><00:19:26.530><c> a</c><00:19:26.650><c> huge</c>
+
+00:19:26.880 --> 00:19:26.890 align:start position:0%
+optima in practice local Opterons a huge
+ 
+
+00:19:26.890 --> 00:19:28.440 align:start position:0%
+optima in practice local Opterons a huge
+problem<00:19:27.130><c> for</c><00:19:27.340><c> new</c><00:19:27.550><c> networks</c><00:19:28.000><c> but</c><00:19:28.240><c> they</c><00:19:28.270><c> all</c>
+
+00:19:28.440 --> 00:19:28.450 align:start position:0%
+problem for new networks but they all
+ 
+
+00:19:28.450 --> 00:19:30.690 align:start position:0%
+problem for new networks but they all
+also<00:19:29.080><c> use</c><00:19:29.290><c> one</c><00:19:29.950><c> less</c><00:19:30.130><c> thing</c><00:19:30.160><c> to</c><00:19:30.340><c> worry</c><00:19:30.460><c> about</c>
+
+00:19:30.690 --> 00:19:30.700 align:start position:0%
+also use one less thing to worry about
+ 
+
+00:19:30.700 --> 00:19:33.840 align:start position:0%
+also use one less thing to worry about
+if<00:19:31.060><c> you're</c><00:19:31.150><c> using</c><00:19:31.330><c> an</c><00:19:31.510><c> SVM</c><00:19:31.690><c> and</c><00:19:32.730><c> depending</c><00:19:33.730><c> on</c>
+
+00:19:33.840 --> 00:19:33.850 align:start position:0%
+if you're using an SVM and depending on
+ 
+
+00:19:33.850 --> 00:19:35.730 align:start position:0%
+if you're using an SVM and depending on
+your<00:19:33.970><c> problems</c><00:19:34.390><c> in</c><00:19:34.540><c> your</c><00:19:34.660><c> network</c><00:19:35.110><c> may</c><00:19:35.680><c> be</c>
+
+00:19:35.730 --> 00:19:35.740 align:start position:0%
+your problems in your network may be
+ 
+
+00:19:35.740 --> 00:19:39.030 align:start position:0%
+your problems in your network may be
+slower<00:19:36.190><c> especially</c><00:19:37.120><c> in</c><00:19:37.750><c> this</c><00:19:37.960><c> sort</c><00:19:38.170><c> of</c><00:19:38.230><c> regime</c>
+
+00:19:39.030 --> 00:19:39.040 align:start position:0%
+slower especially in this sort of regime
+ 
+
+00:19:39.040 --> 00:19:42.180 align:start position:0%
+slower especially in this sort of regime
+than<00:19:39.700><c> the</c><00:19:39.940><c> SVM</c><00:19:40.330><c> in</c><00:19:41.050><c> case</c><00:19:41.350><c> the</c><00:19:41.530><c> guidelines</c><00:19:42.010><c> I</c>
+
+00:19:42.180 --> 00:19:42.190 align:start position:0%
+than the SVM in case the guidelines I
+ 
+
+00:19:42.190 --> 00:19:44.130 align:start position:0%
+than the SVM in case the guidelines I
+gave<00:19:42.400><c> here</c><00:19:42.700><c> seem</c><00:19:43.000><c> a</c><00:19:43.030><c> little</c><00:19:43.360><c> bit</c><00:19:43.480><c> again</c><00:19:43.990><c> if</c><00:19:44.080><c> you</c>
+
+00:19:44.130 --> 00:19:44.140 align:start position:0%
+gave here seem a little bit again if you
+ 
+
+00:19:44.140 --> 00:19:45.870 align:start position:0%
+gave here seem a little bit again if you
+look<00:19:44.290><c> at</c><00:19:44.470><c> some</c><00:19:44.650><c> problems</c><00:19:44.860><c> and</c><00:19:45.340><c> you</c><00:19:45.460><c> see</c><00:19:45.700><c> if</c><00:19:45.760><c> you</c>
+
+00:19:45.870 --> 00:19:45.880 align:start position:0%
+look at some problems and you see if you
+ 
+
+00:19:45.880 --> 00:19:48.360 align:start position:0%
+look at some problems and you see if you
+like<00:19:46.060><c> you</c><00:19:47.020><c> know</c><00:19:47.140><c> the</c><00:19:47.350><c> guidelines</c><00:19:47.800><c> of</c><00:19:48.010><c> the</c><00:19:48.130><c> day</c>
+
+00:19:48.360 --> 00:19:48.370 align:start position:0%
+like you know the guidelines of the day
+ 
+
+00:19:48.370 --> 00:19:50.280 align:start position:0%
+like you know the guidelines of the day
+I'm<00:19:48.700><c> still</c><00:19:48.970><c> not</c><00:19:49.180><c> entirely</c><00:19:49.510><c> sure</c><00:19:49.660><c> should</c><00:19:50.050><c> I</c><00:19:50.110><c> use</c>
+
+00:19:50.280 --> 00:19:50.290 align:start position:0%
+I'm still not entirely sure should I use
+ 
+
+00:19:50.290 --> 00:19:52.020 align:start position:0%
+I'm still not entirely sure should I use
+this<00:19:50.470><c> algorithm</c><00:19:50.770><c> or</c><00:19:50.950><c> that</c><00:19:51.100><c> algorithm</c><00:19:51.370><c> that's</c>
+
+00:19:52.020 --> 00:19:52.030 align:start position:0%
+this algorithm or that algorithm that's
+ 
+
+00:19:52.030 --> 00:19:53.640 align:start position:0%
+this algorithm or that algorithm that's
+that's<00:19:52.330><c> actually</c><00:19:52.450><c> ok</c><00:19:52.930><c> when</c><00:19:53.170><c> I</c><00:19:53.260><c> face</c><00:19:53.500><c> the</c>
+
+00:19:53.640 --> 00:19:53.650 align:start position:0%
+that's actually ok when I face the
+ 
+
+00:19:53.650 --> 00:19:54.840 align:start position:0%
+that's actually ok when I face the
+machine<00:19:53.890><c> learning</c><00:19:53.980><c> problem</c><00:19:54.550><c> you</c><00:19:54.730><c> know</c>
+
+00:19:54.840 --> 00:19:54.850 align:start position:0%
+machine learning problem you know
+ 
+
+00:19:54.850 --> 00:19:56.340 align:start position:0%
+machine learning problem you know
+sometimes<00:19:55.330><c> it's</c><00:19:55.510><c> actually</c><00:19:55.600><c> just</c><00:19:55.900><c> not</c><00:19:56.080><c> clear</c>
+
+00:19:56.340 --> 00:19:56.350 align:start position:0%
+sometimes it's actually just not clear
+ 
+
+00:19:56.350 --> 00:19:58.800 align:start position:0%
+sometimes it's actually just not clear
+what<00:19:56.740><c> is</c><00:19:56.890><c> the</c><00:19:57.010><c> best</c><00:19:57.160><c> algorithm</c><00:19:57.580><c> to</c><00:19:57.670><c> use</c><00:19:57.700><c> but</c><00:19:58.630><c> so</c>
+
+00:19:58.800 --> 00:19:58.810 align:start position:0%
+what is the best algorithm to use but so
+ 
+
+00:19:58.810 --> 00:20:01.320 align:start position:0%
+what is the best algorithm to use but so
+as<00:19:59.050><c> you</c><00:19:59.680><c> saw</c><00:19:59.800><c> in</c><00:19:59.830><c> earlier</c><00:20:00.190><c> videos</c><00:20:00.520><c> really</c><00:20:00.850><c> you</c>
+
+00:20:01.320 --> 00:20:01.330 align:start position:0%
+as you saw in earlier videos really you
+ 
+
+00:20:01.330 --> 00:20:03.510 align:start position:0%
+as you saw in earlier videos really you
+know<00:20:01.450><c> the</c><00:20:02.050><c> algorithm</c><00:20:02.380><c> does</c><00:20:02.680><c> matter</c><00:20:02.920><c> but</c><00:20:03.340><c> what</c>
+
+00:20:03.510 --> 00:20:03.520 align:start position:0%
+know the algorithm does matter but what
+ 
+
+00:20:03.520 --> 00:20:05.400 align:start position:0%
+know the algorithm does matter but what
+often<00:20:03.760><c> matters</c><00:20:04.270><c> even</c><00:20:04.420><c> more</c><00:20:04.570><c> is</c><00:20:05.020><c> things</c><00:20:05.320><c> like</c>
+
+00:20:05.400 --> 00:20:05.410 align:start position:0%
+often matters even more is things like
+ 
+
+00:20:05.410 --> 00:20:07.410 align:start position:0%
+often matters even more is things like
+how<00:20:05.770><c> much</c><00:20:05.890><c> data</c><00:20:06.130><c> do</c><00:20:06.340><c> you</c><00:20:06.430><c> have</c><00:20:06.520><c> and</c><00:20:06.970><c> how</c>
+
+00:20:07.410 --> 00:20:07.420 align:start position:0%
+how much data do you have and how
+ 
+
+00:20:07.420 --> 00:20:09.060 align:start position:0%
+how much data do you have and how
+skilled<00:20:07.840><c> are</c><00:20:07.990><c> you</c><00:20:08.200><c> how</c><00:20:08.470><c> good</c><00:20:08.650><c> are</c><00:20:08.740><c> you</c><00:20:08.890><c> doing</c>
+
+00:20:09.060 --> 00:20:09.070 align:start position:0%
+skilled are you how good are you doing
+ 
+
+00:20:09.070 --> 00:20:11.460 align:start position:0%
+skilled are you how good are you doing
+error<00:20:09.640><c> analysis</c><00:20:10.330><c> and</c><00:20:10.360><c> debugging</c><00:20:11.140><c> learning</c>
+
+00:20:11.460 --> 00:20:11.470 align:start position:0%
+error analysis and debugging learning
+ 
+
+00:20:11.470 --> 00:20:13.710 align:start position:0%
+error analysis and debugging learning
+algorithms<00:20:11.920><c> figuring</c><00:20:12.880><c> out</c><00:20:13.000><c> how</c><00:20:13.240><c> to</c><00:20:13.270><c> design</c>
+
+00:20:13.710 --> 00:20:13.720 align:start position:0%
+algorithms figuring out how to design
+ 
+
+00:20:13.720 --> 00:20:15.750 align:start position:0%
+algorithms figuring out how to design
+new<00:20:13.930><c> features</c><00:20:14.410><c> or</c><00:20:14.680><c> figure</c><00:20:15.340><c> out</c><00:20:15.400><c> what</c><00:20:15.640><c> other</c>
+
+00:20:15.750 --> 00:20:15.760 align:start position:0%
+new features or figure out what other
+ 
+
+00:20:15.760 --> 00:20:17.340 align:start position:0%
+new features or figure out what other
+features<00:20:16.210><c> to</c><00:20:16.360><c> give</c><00:20:16.510><c> you</c><00:20:16.630><c> learning</c><00:20:16.870><c> error</c><00:20:17.140><c> and</c>
+
+00:20:17.340 --> 00:20:17.350 align:start position:0%
+features to give you learning error and
+ 
+
+00:20:17.350 --> 00:20:19.110 align:start position:0%
+features to give you learning error and
+so<00:20:17.470><c> on</c><00:20:17.650><c> and</c><00:20:17.950><c> often</c><00:20:18.190><c> those</c><00:20:18.520><c> things</c><00:20:18.790><c> will</c><00:20:18.940><c> matter</c>
+
+00:20:19.110 --> 00:20:19.120 align:start position:0%
+so on and often those things will matter
+ 
+
+00:20:19.120 --> 00:20:21.390 align:start position:0%
+so on and often those things will matter
+more<00:20:19.810><c> than</c><00:20:19.870><c> you're</c><00:20:20.440><c> using</c><00:20:20.770><c> a</c><00:20:20.980><c> logistic</c>
+
+00:20:21.390 --> 00:20:21.400 align:start position:0%
+more than you're using a logistic
+ 
+
+00:20:21.400 --> 00:20:24.570 align:start position:0%
+more than you're using a logistic
+regression<00:20:21.820><c> or</c><00:20:21.940><c> an</c><00:20:22.000><c> SVM</c><00:20:23.100><c> but</c><00:20:24.100><c> having</c><00:20:24.430><c> said</c>
+
+00:20:24.570 --> 00:20:24.580 align:start position:0%
+regression or an SVM but having said
+ 
+
+00:20:24.580 --> 00:20:27.420 align:start position:0%
+regression or an SVM but having said
+that<00:20:24.640><c> the</c><00:20:25.120><c> SVM</c><00:20:25.150><c> is</c><00:20:25.870><c> the</c><00:20:26.200><c> widely</c><00:20:26.620><c> perceived</c><00:20:26.890><c> as</c>
+
+00:20:27.420 --> 00:20:27.430 align:start position:0%
+that the SVM is the widely perceived as
+ 
+
+00:20:27.430 --> 00:20:28.860 align:start position:0%
+that the SVM is the widely perceived as
+one<00:20:27.850><c> of</c><00:20:27.910><c> the</c><00:20:28.090><c> most</c><00:20:28.180><c> powerful</c><00:20:28.750><c> learning</c>
+
+00:20:28.860 --> 00:20:28.870 align:start position:0%
+one of the most powerful learning
+ 
+
+00:20:28.870 --> 00:20:30.600 align:start position:0%
+one of the most powerful learning
+algorithms<00:20:29.320><c> and</c><00:20:29.740><c> there</c><00:20:29.860><c> is</c><00:20:29.980><c> this</c><00:20:30.160><c> regime</c>
+
+00:20:30.600 --> 00:20:30.610 align:start position:0%
+algorithms and there is this regime
+ 
+
+00:20:30.610 --> 00:20:32.820 align:start position:0%
+algorithms and there is this regime
+when<00:20:31.600><c> there's</c><00:20:31.780><c> a</c><00:20:31.870><c> very</c><00:20:32.080><c> effective</c><00:20:32.230><c> way</c><00:20:32.800><c> to</c>
+
+00:20:32.820 --> 00:20:32.830 align:start position:0%
+when there's a very effective way to
+ 
+
+00:20:32.830 --> 00:20:35.010 align:start position:0%
+when there's a very effective way to
+learn<00:20:33.190><c> complex</c><00:20:33.340><c> nonlinear</c><00:20:34.240><c> functions</c><00:20:34.270><c> and</c><00:20:34.900><c> so</c>
+
+00:20:35.010 --> 00:20:35.020 align:start position:0%
+learn complex nonlinear functions and so
+ 
+
+00:20:35.020 --> 00:20:37.440 align:start position:0%
+learn complex nonlinear functions and so
+I<00:20:35.050><c> actually</c><00:20:35.820><c> together</c><00:20:36.820><c> with</c><00:20:37.030><c> logistic</c>
+
+00:20:37.440 --> 00:20:37.450 align:start position:0%
+I actually together with logistic
+ 
+
+00:20:37.450 --> 00:20:39.570 align:start position:0%
+I actually together with logistic
+regression<00:20:37.900><c> neural</c><00:20:38.080><c> networks</c><00:20:38.650><c> SVM's</c>
+
+00:20:39.570 --> 00:20:39.580 align:start position:0%
+regression neural networks SVM's
+ 
+
+00:20:39.580 --> 00:20:41.520 align:start position:0%
+regression neural networks SVM's
+using<00:20:40.270><c> those</c><00:20:40.450><c> to</c><00:20:40.600><c> be</c><00:20:40.720><c> learning</c><00:20:40.930><c> algorithms</c>
+
+00:20:41.520 --> 00:20:41.530 align:start position:0%
+using those to be learning algorithms
+ 
+
+00:20:41.530 --> 00:20:43.500 align:start position:0%
+using those to be learning algorithms
+you're<00:20:41.770><c> I</c><00:20:41.800><c> think</c><00:20:42.220><c> very</c><00:20:42.610><c> well</c><00:20:42.760><c> positioned</c><00:20:43.420><c> to</c>
+
+00:20:43.500 --> 00:20:43.510 align:start position:0%
+you're I think very well positioned to
+ 
+
+00:20:43.510 --> 00:20:43.930 align:start position:0%
+you're I think very well positioned to
+bill
+
+00:20:43.930 --> 00:20:43.940 align:start position:0%
+bill
+ 
+
+00:20:43.940 --> 00:20:45.490 align:start position:0%
+bill
+state-of-the-art<00:20:44.629><c> you</c><00:20:45.080><c> know</c><00:20:45.139><c> machine</c>
+
+00:20:45.490 --> 00:20:45.500 align:start position:0%
+state-of-the-art you know machine
+ 
+
+00:20:45.500 --> 00:20:47.379 align:start position:0%
+state-of-the-art you know machine
+learning<00:20:45.559><c> systems</c><00:20:46.220><c> but</c><00:20:46.519><c> wide</c><00:20:46.850><c> range</c><00:20:47.240><c> of</c>
+
+00:20:47.379 --> 00:20:47.389 align:start position:0%
+learning systems but wide range of
+ 
+
+00:20:47.389 --> 00:20:50.350 align:start position:0%
+learning systems but wide range of
+applications<00:20:48.379><c> and</c><00:20:48.769><c> this</c><00:20:49.279><c> is</c><00:20:49.460><c> another</c><00:20:49.759><c> very</c>
+
+00:20:50.350 --> 00:20:50.360 align:start position:0%
+applications and this is another very
+ 
+
+00:20:50.360 --> 00:20:52.360 align:start position:0%
+applications and this is another very
+powerful<00:20:50.750><c> tool</c><00:20:51.350><c> to</c><00:20:51.529><c> have</c><00:20:51.769><c> in</c><00:20:52.039><c> your</c><00:20:52.070><c> arsenal</c>
+
+00:20:52.360 --> 00:20:52.370 align:start position:0%
+powerful tool to have in your arsenal
+ 
+
+00:20:52.370 --> 00:20:55.210 align:start position:0%
+powerful tool to have in your arsenal
+one<00:20:53.330><c> that</c><00:20:53.570><c> is</c><00:20:53.870><c> used</c><00:20:54.200><c> all</c><00:20:54.440><c> over</c><00:20:54.470><c> the</c><00:20:54.710><c> place</c><00:20:54.889><c> in</c>
+
+00:20:55.210 --> 00:20:55.220 align:start position:0%
+one that is used all over the place in
+ 
+
+00:20:55.220 --> 00:20:58.119 align:start position:0%
+one that is used all over the place in
+Silicon<00:20:55.879><c> Valley</c><00:20:56.090><c> or</c><00:20:56.480><c> in</c><00:20:56.600><c> industry</c><00:20:57.139><c> and</c><00:20:57.320><c> in</c>
+
+00:20:58.119 --> 00:20:58.129 align:start position:0%
+Silicon Valley or in industry and in
+ 
+
+00:20:58.129 --> 00:21:00.909 align:start position:0%
+Silicon Valley or in industry and in
+academia<00:20:58.820><c> to</c><00:20:59.570><c> build</c><00:20:59.809><c> many</c><00:21:00.049><c> high-performance</c>
+
+00:21:00.909 --> 00:21:00.919 align:start position:0%
+academia to build many high-performance
+ 
+
+00:21:00.919 --> 00:21:04.090 align:start position:0%
+academia to build many high-performance
+machine<00:21:01.399><c> learning</c><00:21:01.700><c> systems</c>
+

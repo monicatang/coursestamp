@@ -1,0 +1,1448 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:01.400 align:start position:0%
+ 
+we've<00:00:00.420><c> talked</c><00:00:00.690><c> about</c><00:00:00.900><c> how</c><00:00:01.079><c> to</c><00:00:01.140><c> evaluate</c>
+
+00:00:01.400 --> 00:00:01.410 align:start position:0%
+we've talked about how to evaluate
+ 
+
+00:00:01.410 --> 00:00:03.409 align:start position:0%
+we've talked about how to evaluate
+learning<00:00:02.070><c> algorithms</c><00:00:02.700><c> thoughtful</c><00:00:03.030><c> normal</c>
+
+00:00:03.409 --> 00:00:03.419 align:start position:0%
+learning algorithms thoughtful normal
+ 
+
+00:00:03.419 --> 00:00:05.420 align:start position:0%
+learning algorithms thoughtful normal
+selection<00:00:03.750><c> tougher</c><00:00:04.410><c> more</c><00:00:04.589><c> about</c><00:00:04.890><c> buyers</c><00:00:05.130><c> in</c>
+
+00:00:05.420 --> 00:00:05.430 align:start position:0%
+selection tougher more about buyers in
+ 
+
+00:00:05.430 --> 00:00:07.849 align:start position:0%
+selection tougher more about buyers in
+theory<00:00:05.670><c> ins</c><00:00:05.879><c> so</c><00:00:06.660><c> how</c><00:00:07.140><c> does</c><00:00:07.200><c> this</c><00:00:07.470><c> help</c><00:00:07.649><c> us</c>
+
+00:00:07.849 --> 00:00:07.859 align:start position:0%
+theory ins so how does this help us
+ 
+
+00:00:07.859 --> 00:00:10.220 align:start position:0%
+theory ins so how does this help us
+figure<00:00:08.250><c> out</c><00:00:08.370><c> what</c><00:00:08.730><c> a</c><00:00:08.760><c> potentially</c><00:00:09.719><c> fruitful</c>
+
+00:00:10.220 --> 00:00:10.230 align:start position:0%
+figure out what a potentially fruitful
+ 
+
+00:00:10.230 --> 00:00:11.900 align:start position:0%
+figure out what a potentially fruitful
+potentially<00:00:10.860><c> not</c><00:00:11.040><c> through</c><00:00:11.280><c> full</c><00:00:11.490><c> things</c><00:00:11.730><c> to</c>
+
+00:00:11.900 --> 00:00:11.910 align:start position:0%
+potentially not through full things to
+ 
+
+00:00:11.910 --> 00:00:13.970 align:start position:0%
+potentially not through full things to
+try<00:00:12.179><c> to</c><00:00:12.210><c> do</c><00:00:12.509><c> to</c><00:00:12.750><c> improve</c><00:00:12.780><c> the</c><00:00:13.290><c> performance</c><00:00:13.410><c> of</c>
+
+00:00:13.970 --> 00:00:13.980 align:start position:0%
+try to do to improve the performance of
+ 
+
+00:00:13.980 --> 00:00:16.279 align:start position:0%
+try to do to improve the performance of
+a<00:00:14.099><c> learning</c><00:00:14.280><c> algorithm</c><00:00:14.700><c> let's</c><00:00:15.660><c> go</c><00:00:15.839><c> back</c><00:00:16.080><c> to</c>
+
+00:00:16.279 --> 00:00:16.289 align:start position:0%
+a learning algorithm let's go back to
+ 
+
+00:00:16.289 --> 00:00:18.470 align:start position:0%
+a learning algorithm let's go back to
+our<00:00:16.320><c> original</c><00:00:16.650><c> motivating</c><00:00:17.580><c> example</c><00:00:18.060><c> and</c><00:00:18.359><c> go</c>
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+our original motivating example and go
+ 
+
+00:00:18.480 --> 00:00:22.279 align:start position:0%
+our original motivating example and go
+for<00:00:18.690><c> the</c><00:00:18.779><c> result</c><00:00:20.210><c> so</c><00:00:21.210><c> here</c><00:00:21.570><c> is</c><00:00:21.660><c> our</c><00:00:21.810><c> earlier</c>
+
+00:00:22.279 --> 00:00:22.289 align:start position:0%
+for the result so here is our earlier
+ 
+
+00:00:22.289 --> 00:00:24.560 align:start position:0%
+for the result so here is our earlier
+example<00:00:22.830><c> of</c><00:00:22.859><c> maybe</c><00:00:23.490><c> having</c><00:00:23.820><c> fits</c><00:00:24.119><c> regularized</c>
+
+00:00:24.560 --> 00:00:24.570 align:start position:0%
+example of maybe having fits regularized
+ 
+
+00:00:24.570 --> 00:00:26.390 align:start position:0%
+example of maybe having fits regularized
+linear<00:00:24.840><c> regression</c><00:00:25.019><c> and</c><00:00:25.710><c> finding</c><00:00:26.189><c> that</c><00:00:26.340><c> it</c>
+
+00:00:26.390 --> 00:00:26.400 align:start position:0%
+linear regression and finding that it
+ 
+
+00:00:26.400 --> 00:00:28.400 align:start position:0%
+linear regression and finding that it
+doesn't<00:00:26.789><c> work</c><00:00:26.910><c> as</c><00:00:27.119><c> well</c><00:00:27.150><c> as</c><00:00:27.480><c> we're</c><00:00:27.689><c> hoping</c><00:00:28.050><c> we</c>
+
+00:00:28.400 --> 00:00:28.410 align:start position:0%
+doesn't work as well as we're hoping we
+ 
+
+00:00:28.410 --> 00:00:31.040 align:start position:0%
+doesn't work as well as we're hoping we
+said<00:00:28.650><c> that</c><00:00:28.859><c> we</c><00:00:29.070><c> had</c><00:00:29.250><c> this</c><00:00:29.429><c> menu</c><00:00:29.880><c> of</c><00:00:30.090><c> options</c><00:00:30.330><c> so</c>
+
+00:00:31.040 --> 00:00:31.050 align:start position:0%
+said that we had this menu of options so
+ 
+
+00:00:31.050 --> 00:00:33.530 align:start position:0%
+said that we had this menu of options so
+is<00:00:31.410><c> there</c><00:00:31.560><c> some</c><00:00:31.800><c> way</c><00:00:32.009><c> to</c><00:00:32.610><c> figure</c><00:00:32.820><c> out</c><00:00:33.030><c> which</c><00:00:33.510><c> of</c>
+
+00:00:33.530 --> 00:00:33.540 align:start position:0%
+is there some way to figure out which of
+ 
+
+00:00:33.540 --> 00:00:35.600 align:start position:0%
+is there some way to figure out which of
+these<00:00:33.750><c> might</c><00:00:34.020><c> be</c><00:00:34.140><c> fruitful</c><00:00:34.590><c> options</c><00:00:35.010><c> the</c>
+
+00:00:35.600 --> 00:00:35.610 align:start position:0%
+these might be fruitful options the
+ 
+
+00:00:35.610 --> 00:00:37.400 align:start position:0%
+these might be fruitful options the
+first<00:00:35.880><c> thing</c><00:00:36.059><c> long</c><00:00:36.239><c> list</c><00:00:36.540><c> was</c><00:00:36.840><c> getting</c><00:00:37.290><c> more</c>
+
+00:00:37.400 --> 00:00:37.410 align:start position:0%
+first thing long list was getting more
+ 
+
+00:00:37.410 --> 00:00:40.369 align:start position:0%
+first thing long list was getting more
+training<00:00:37.710><c> examples</c><00:00:37.980><c> and</c><00:00:38.760><c> what</c><00:00:39.750><c> this</c><00:00:39.989><c> is</c><00:00:40.170><c> good</c>
+
+00:00:40.369 --> 00:00:40.379 align:start position:0%
+training examples and what this is good
+ 
+
+00:00:40.379 --> 00:00:44.290 align:start position:0%
+training examples and what this is good
+for<00:00:40.410><c> this</c><00:00:40.950><c> this</c><00:00:41.190><c> helps</c><00:00:41.640><c> to</c><00:00:41.790><c> fix</c><00:00:42.059><c> high</c><00:00:42.809><c> variance</c>
+
+00:00:44.290 --> 00:00:44.300 align:start position:0%
+for this this helps to fix high variance
+ 
+
+00:00:44.300 --> 00:00:47.330 align:start position:0%
+for this this helps to fix high variance
+and<00:00:45.300><c> concretely</c><00:00:45.840><c> if</c><00:00:46.289><c> you</c><00:00:46.410><c> instead</c><00:00:46.770><c> have</c><00:00:47.309><c> a</c>
+
+00:00:47.330 --> 00:00:47.340 align:start position:0%
+and concretely if you instead have a
+ 
+
+00:00:47.340 --> 00:00:49.160 align:start position:0%
+and concretely if you instead have a
+high<00:00:47.550><c> bias</c><00:00:47.879><c> problem</c><00:00:48.120><c> and</c><00:00:48.719><c> don't</c><00:00:48.809><c> have</c><00:00:49.020><c> any</c>
+
+00:00:49.160 --> 00:00:49.170 align:start position:0%
+high bias problem and don't have any
+ 
+
+00:00:49.170 --> 00:00:51.590 align:start position:0%
+high bias problem and don't have any
+variance<00:00:49.379><c> problem</c><00:00:50.070><c> then</c><00:00:50.100><c> we</c><00:00:50.969><c> saw</c><00:00:51.239><c> in</c><00:00:51.510><c> the</c>
+
+00:00:51.590 --> 00:00:51.600 align:start position:0%
+variance problem then we saw in the
+ 
+
+00:00:51.600 --> 00:00:53.209 align:start position:0%
+variance problem then we saw in the
+previous<00:00:51.780><c> video</c><00:00:52.140><c> that</c><00:00:52.680><c> getting</c><00:00:53.039><c> more</c>
+
+00:00:53.209 --> 00:00:53.219 align:start position:0%
+previous video that getting more
+ 
+
+00:00:53.219 --> 00:00:55.850 align:start position:0%
+previous video that getting more
+training<00:00:53.489><c> examples</c><00:00:53.809><c> well</c><00:00:54.809><c> maybe</c><00:00:55.110><c> just</c><00:00:55.199><c> isn't</c>
+
+00:00:55.850 --> 00:00:55.860 align:start position:0%
+training examples well maybe just isn't
+ 
+
+00:00:55.860 --> 00:00:57.830 align:start position:0%
+training examples well maybe just isn't
+going<00:00:55.980><c> to</c><00:00:56.039><c> help</c><00:00:56.100><c> much</c><00:00:56.309><c> at</c><00:00:56.430><c> all</c><00:00:56.550><c> so</c><00:00:57.510><c> the</c><00:00:57.600><c> first</c>
+
+00:00:57.830 --> 00:00:57.840 align:start position:0%
+going to help much at all so the first
+ 
+
+00:00:57.840 --> 00:01:00.470 align:start position:0%
+going to help much at all so the first
+option<00:00:58.079><c> is</c><00:00:58.320><c> useful</c><00:00:58.739><c> only</c><00:00:58.980><c> if</c><00:00:59.489><c> you</c><00:00:59.730><c> say</c><00:01:00.239><c> plot</c>
+
+00:01:00.470 --> 00:01:00.480 align:start position:0%
+option is useful only if you say plot
+ 
+
+00:01:00.480 --> 00:01:01.939 align:start position:0%
+option is useful only if you say plot
+the<00:01:00.660><c> learning</c><00:01:00.780><c> curves</c><00:01:00.989><c> and</c><00:01:01.410><c> figure</c><00:01:01.710><c> out</c><00:01:01.800><c> that</c>
+
+00:01:01.939 --> 00:01:01.949 align:start position:0%
+the learning curves and figure out that
+ 
+
+00:01:01.949 --> 00:01:03.500 align:start position:0%
+the learning curves and figure out that
+you<00:01:02.100><c> have</c><00:01:02.309><c> at</c><00:01:02.430><c> least</c><00:01:02.609><c> a</c><00:01:02.730><c> bit</c><00:01:02.879><c> of</c><00:01:02.910><c> a</c><00:01:03.090><c> variance</c>
+
+00:01:03.500 --> 00:01:03.510 align:start position:0%
+you have at least a bit of a variance
+ 
+
+00:01:03.510 --> 00:01:05.359 align:start position:0%
+you have at least a bit of a variance
+meaning<00:01:03.780><c> that</c><00:01:04.110><c> if</c><00:01:04.680><c> the</c><00:01:04.979><c> cross-validation</c>
+
+00:01:05.359 --> 00:01:05.369 align:start position:0%
+meaning that if the cross-validation
+ 
+
+00:01:05.369 --> 00:01:07.340 align:start position:0%
+meaning that if the cross-validation
+error<00:01:05.939><c> is</c><00:01:06.330><c> you</c><00:01:06.540><c> know</c><00:01:06.659><c> quite</c><00:01:06.930><c> a</c><00:01:06.960><c> bit</c><00:01:07.049><c> bigger</c>
+
+00:01:07.340 --> 00:01:07.350 align:start position:0%
+error is you know quite a bit bigger
+ 
+
+00:01:07.350 --> 00:01:09.050 align:start position:0%
+error is you know quite a bit bigger
+than<00:01:07.530><c> your</c><00:01:07.770><c> training</c><00:01:08.130><c> center</c><00:01:08.490><c> how</c><00:01:08.880><c> about</c>
+
+00:01:09.050 --> 00:01:09.060 align:start position:0%
+than your training center how about
+ 
+
+00:01:09.060 --> 00:01:11.120 align:start position:0%
+than your training center how about
+trying<00:01:09.390><c> a</c><00:01:09.630><c> smaller</c><00:01:09.990><c> set</c><00:01:10.350><c> of</c><00:01:10.380><c> features</c><00:01:10.619><c> well</c>
+
+00:01:11.120 --> 00:01:11.130 align:start position:0%
+trying a smaller set of features well
+ 
+
+00:01:11.130 --> 00:01:13.490 align:start position:0%
+trying a smaller set of features well
+trying<00:01:11.850><c> to</c><00:01:11.939><c> smaller</c><00:01:12.270><c> set</c><00:01:12.570><c> of</c><00:01:12.600><c> features</c><00:01:12.720><c> that's</c>
+
+00:01:13.490 --> 00:01:13.500 align:start position:0%
+trying to smaller set of features that's
+ 
+
+00:01:13.500 --> 00:01:16.070 align:start position:0%
+trying to smaller set of features that's
+again<00:01:13.890><c> something</c><00:01:13.920><c> that</c><00:01:14.700><c> fixes</c><00:01:15.180><c> high</c><00:01:16.049><c> variance</c>
+
+00:01:16.070 --> 00:01:16.080 align:start position:0%
+again something that fixes high variance
+ 
+
+00:01:16.080 --> 00:01:18.770 align:start position:0%
+again something that fixes high variance
+and<00:01:16.920><c> in</c><00:01:17.340><c> other</c><00:01:17.490><c> words</c><00:01:17.729><c> if</c><00:01:18.000><c> you</c><00:01:18.090><c> figure</c><00:01:18.420><c> out</c><00:01:18.450><c> by</c>
+
+00:01:18.770 --> 00:01:18.780 align:start position:0%
+and in other words if you figure out by
+ 
+
+00:01:18.780 --> 00:01:20.210 align:start position:0%
+and in other words if you figure out by
+looking<00:01:18.960><c> learning</c><00:01:19.500><c> curves</c><00:01:19.830><c> or</c><00:01:19.950><c> something</c>
+
+00:01:20.210 --> 00:01:20.220 align:start position:0%
+looking learning curves or something
+ 
+
+00:01:20.220 --> 00:01:21.740 align:start position:0%
+looking learning curves or something
+else<00:01:20.369><c> that</c><00:01:20.670><c> in</c><00:01:20.820><c> you</c><00:01:21.060><c> instead</c><00:01:21.180><c> have</c><00:01:21.540><c> a</c><00:01:21.570><c> high</c>
+
+00:01:21.740 --> 00:01:21.750 align:start position:0%
+else that in you instead have a high
+ 
+
+00:01:21.750 --> 00:01:23.870 align:start position:0%
+else that in you instead have a high
+bias<00:01:22.020><c> problem</c><00:01:22.409><c> then</c><00:01:23.189><c> for</c><00:01:23.430><c> goodness</c><00:01:23.670><c> sakes</c>
+
+00:01:23.870 --> 00:01:23.880 align:start position:0%
+bias problem then for goodness sakes
+ 
+
+00:01:23.880 --> 00:01:25.910 align:start position:0%
+bias problem then for goodness sakes
+don't<00:01:24.000><c> waste</c><00:01:24.570><c> your</c><00:01:24.780><c> time</c><00:01:25.080><c> trying</c><00:01:25.799><c> to</c>
+
+00:01:25.910 --> 00:01:25.920 align:start position:0%
+don't waste your time trying to
+ 
+
+00:01:25.920 --> 00:01:28.249 align:start position:0%
+don't waste your time trying to
+carefully<00:01:26.640><c> select</c><00:01:27.150><c> out</c><00:01:27.420><c> a</c><00:01:27.450><c> smaller</c><00:01:27.600><c> set</c><00:01:28.229><c> of</c>
+
+00:01:28.249 --> 00:01:28.259 align:start position:0%
+carefully select out a smaller set of
+ 
+
+00:01:28.259 --> 00:01:29.810 align:start position:0%
+carefully select out a smaller set of
+features<00:01:28.380><c> to</c><00:01:28.710><c> use</c><00:01:29.009><c> because</c><00:01:29.280><c> if</c><00:01:29.610><c> there's</c><00:01:29.759><c> a</c>
+
+00:01:29.810 --> 00:01:29.820 align:start position:0%
+features to use because if there's a
+ 
+
+00:01:29.820 --> 00:01:32.270 align:start position:0%
+features to use because if there's a
+high<00:01:30.000><c> bias</c><00:01:30.210><c> problem</c><00:01:30.600><c> using</c><00:01:31.380><c> future</c><00:01:31.890><c> fewer</c>
+
+00:01:32.270 --> 00:01:32.280 align:start position:0%
+high bias problem using future fewer
+ 
+
+00:01:32.280 --> 00:01:34.130 align:start position:0%
+high bias problem using future fewer
+features<00:01:32.520><c> it's</c><00:01:32.909><c> not</c><00:01:33.090><c> going</c><00:01:33.329><c> to</c><00:01:33.450><c> help</c><00:01:33.659><c> whereas</c>
+
+00:01:34.130 --> 00:01:34.140 align:start position:0%
+features it's not going to help whereas
+ 
+
+00:01:34.140 --> 00:01:36.289 align:start position:0%
+features it's not going to help whereas
+in<00:01:34.290><c> contrast</c><00:01:34.470><c> if</c><00:01:34.979><c> you</c><00:01:35.159><c> look</c><00:01:35.670><c> at</c><00:01:35.909><c> the</c><00:01:35.970><c> learning</c>
+
+00:01:36.289 --> 00:01:36.299 align:start position:0%
+in contrast if you look at the learning
+ 
+
+00:01:36.299 --> 00:01:37.640 align:start position:0%
+in contrast if you look at the learning
+curves<00:01:36.570><c> or</c><00:01:36.689><c> something</c><00:01:36.930><c> else</c><00:01:37.110><c> and</c><00:01:37.320><c> figure</c><00:01:37.590><c> out</c>
+
+00:01:37.640 --> 00:01:37.650 align:start position:0%
+curves or something else and figure out
+ 
+
+00:01:37.650 --> 00:01:39.289 align:start position:0%
+curves or something else and figure out
+that<00:01:37.979><c> you</c><00:01:38.400><c> have</c><00:01:38.579><c> a</c><00:01:38.610><c> high</c><00:01:38.820><c> variance</c><00:01:39.210><c> problem</c>
+
+00:01:39.289 --> 00:01:39.299 align:start position:0%
+that you have a high variance problem
+ 
+
+00:01:39.299 --> 00:01:42.380 align:start position:0%
+that you have a high variance problem
+then<00:01:39.990><c> indeed</c><00:01:40.710><c> try</c><00:01:41.610><c> to</c><00:01:41.670><c> select</c><00:01:42.090><c> on</c><00:01:42.299><c> the</c>
+
+00:01:42.380 --> 00:01:42.390 align:start position:0%
+then indeed try to select on the
+ 
+
+00:01:42.390 --> 00:01:43.850 align:start position:0%
+then indeed try to select on the
+smallest<00:01:42.659><c> of</c><00:01:42.960><c> the</c><00:01:43.020><c> features</c><00:01:43.380><c> that</c><00:01:43.409><c> might</c>
+
+00:01:43.850 --> 00:01:43.860 align:start position:0%
+smallest of the features that might
+ 
+
+00:01:43.860 --> 00:01:45.950 align:start position:0%
+smallest of the features that might
+indeed<00:01:44.220><c> be</c><00:01:44.430><c> a</c><00:01:44.460><c> very</c><00:01:44.700><c> good</c><00:01:44.909><c> user</c><00:01:45.149><c> your</c><00:01:45.479><c> time</c><00:01:45.630><c> how</c>
+
+00:01:45.950 --> 00:01:45.960 align:start position:0%
+indeed be a very good user your time how
+ 
+
+00:01:45.960 --> 00:01:48.080 align:start position:0%
+indeed be a very good user your time how
+about<00:01:46.140><c> trying</c><00:01:46.560><c> to</c><00:01:46.799><c> get</c><00:01:46.979><c> additional</c><00:01:47.670><c> features</c>
+
+00:01:48.080 --> 00:01:48.090 align:start position:0%
+about trying to get additional features
+ 
+
+00:01:48.090 --> 00:01:50.569 align:start position:0%
+about trying to get additional features
+so<00:01:48.360><c> adding</c><00:01:48.810><c> features</c><00:01:49.320><c> usually</c><00:01:49.829><c> not</c><00:01:50.369><c> always</c>
+
+00:01:50.569 --> 00:01:50.579 align:start position:0%
+so adding features usually not always
+ 
+
+00:01:50.579 --> 00:01:52.639 align:start position:0%
+so adding features usually not always
+but<00:01:50.820><c> usually</c><00:01:51.000><c> we</c><00:01:51.509><c> think</c><00:01:51.750><c> of</c><00:01:51.869><c> this</c><00:01:52.049><c> as</c><00:01:52.380><c> a</c>
+
+00:01:52.639 --> 00:01:52.649 align:start position:0%
+but usually we think of this as a
+ 
+
+00:01:52.649 --> 00:01:57.380 align:start position:0%
+but usually we think of this as a
+solution<00:01:53.430><c> for</c><00:01:54.240><c> fixing</c><00:01:54.799><c> high</c><00:01:55.799><c> bias</c><00:01:56.700><c> problems</c>
+
+00:01:57.380 --> 00:01:57.390 align:start position:0%
+solution for fixing high bias problems
+ 
+
+00:01:57.390 --> 00:01:59.450 align:start position:0%
+solution for fixing high bias problems
+so<00:01:57.810><c> that</c><00:01:57.960><c> if</c><00:01:58.140><c> you're</c><00:01:58.290><c> adding</c><00:01:58.680><c> extra</c><00:01:59.040><c> features</c>
+
+00:01:59.450 --> 00:01:59.460 align:start position:0%
+so that if you're adding extra features
+ 
+
+00:01:59.460 --> 00:02:01.530 align:start position:0%
+so that if you're adding extra features
+is<00:01:59.759><c> usually</c><00:02:00.540><c> because</c>
+
+00:02:01.530 --> 00:02:01.540 align:start position:0%
+is usually because
+ 
+
+00:02:01.540 --> 00:02:03.660 align:start position:0%
+is usually because
+your<00:02:01.900><c> current</c><00:02:02.290><c> hypothesis</c><00:02:02.950><c> is</c><00:02:03.100><c> too</c><00:02:03.280><c> simple</c>
+
+00:02:03.660 --> 00:02:03.670 align:start position:0%
+your current hypothesis is too simple
+ 
+
+00:02:03.670 --> 00:02:05.160 align:start position:0%
+your current hypothesis is too simple
+and<00:02:03.940><c> so</c><00:02:04.150><c> we</c><00:02:04.330><c> want</c><00:02:04.510><c> to</c><00:02:04.570><c> try</c><00:02:04.720><c> to</c><00:02:04.780><c> get</c><00:02:04.990><c> additional</c>
+
+00:02:05.160 --> 00:02:05.170 align:start position:0%
+and so we want to try to get additional
+ 
+
+00:02:05.170 --> 00:02:08.460 align:start position:0%
+and so we want to try to get additional
+features<00:02:05.980><c> to</c><00:02:06.160><c> make</c><00:02:06.970><c> our</c><00:02:07.330><c> hypothesis</c><00:02:08.140><c> better</c>
+
+00:02:08.460 --> 00:02:08.470 align:start position:0%
+features to make our hypothesis better
+ 
+
+00:02:08.470 --> 00:02:10.820 align:start position:0%
+features to make our hypothesis better
+able<00:02:08.830><c> to</c><00:02:09.070><c> fit</c><00:02:09.460><c> the</c><00:02:09.580><c> training</c><00:02:09.759><c> set</c><00:02:09.970><c> and</c>
+
+00:02:10.820 --> 00:02:10.830 align:start position:0%
+able to fit the training set and
+ 
+
+00:02:10.830 --> 00:02:13.620 align:start position:0%
+able to fit the training set and
+similarly<00:02:11.830><c> adding</c><00:02:12.790><c> polynomial</c><00:02:13.450><c> features</c>
+
+00:02:13.620 --> 00:02:13.630 align:start position:0%
+similarly adding polynomial features
+ 
+
+00:02:13.630 --> 00:02:15.390 align:start position:0%
+similarly adding polynomial features
+this<00:02:14.110><c> is</c><00:02:14.230><c> another</c><00:02:14.530><c> way</c><00:02:14.740><c> of</c><00:02:14.890><c> adding</c><00:02:15.100><c> features</c>
+
+00:02:15.390 --> 00:02:15.400 align:start position:0%
+this is another way of adding features
+ 
+
+00:02:15.400 --> 00:02:18.810 align:start position:0%
+this is another way of adding features
+and<00:02:15.850><c> so</c><00:02:16.420><c> that's</c><00:02:16.660><c> another</c><00:02:16.810><c> way</c><00:02:17.620><c> to</c><00:02:18.250><c> try</c><00:02:18.460><c> to</c><00:02:18.490><c> fix</c>
+
+00:02:18.810 --> 00:02:18.820 align:start position:0%
+and so that's another way to try to fix
+ 
+
+00:02:18.820 --> 00:02:22.920 align:start position:0%
+and so that's another way to try to fix
+a<00:02:19.150><c> high</c><00:02:19.450><c> bias</c><00:02:19.780><c> problem</c><00:02:19.930><c> and</c><00:02:20.670><c> if</c><00:02:21.670><c> concretely</c><00:02:22.630><c> if</c>
+
+00:02:22.920 --> 00:02:22.930 align:start position:0%
+a high bias problem and if concretely if
+ 
+
+00:02:22.930 --> 00:02:24.750 align:start position:0%
+a high bias problem and if concretely if
+your<00:02:23.380><c> learning</c><00:02:23.710><c> curves</c><00:02:24.070><c> show</c><00:02:24.340><c> you</c><00:02:24.400><c> that</c>
+
+00:02:24.750 --> 00:02:24.760 align:start position:0%
+your learning curves show you that
+ 
+
+00:02:24.760 --> 00:02:26.370 align:start position:0%
+your learning curves show you that
+instead<00:02:25.090><c> of</c><00:02:25.150><c> a</c><00:02:25.360><c> high</c><00:02:25.510><c> variance</c><00:02:25.900><c> problem</c><00:02:25.990><c> then</c>
+
+00:02:26.370 --> 00:02:26.380 align:start position:0%
+instead of a high variance problem then
+ 
+
+00:02:26.380 --> 00:02:28.950 align:start position:0%
+instead of a high variance problem then
+you<00:02:26.890><c> know</c><00:02:26.950><c> doing</c><00:02:27.220><c> this</c><00:02:27.550><c> is</c><00:02:27.670><c> maybe</c><00:02:27.910><c> a</c><00:02:28.000><c> less</c><00:02:28.690><c> good</c>
+
+00:02:28.950 --> 00:02:28.960 align:start position:0%
+you know doing this is maybe a less good
+ 
+
+00:02:28.960 --> 00:02:30.060 align:start position:0%
+you know doing this is maybe a less good
+use<00:02:29.140><c> of</c><00:02:29.170><c> your</c><00:02:29.380><c> time</c>
+
+00:02:30.060 --> 00:02:30.070 align:start position:0%
+use of your time
+ 
+
+00:02:30.070 --> 00:02:32.370 align:start position:0%
+use of your time
+and<00:02:30.510><c> finally</c><00:02:31.510><c> decreasing</c><00:02:32.170><c> and</c><00:02:32.260><c> increasing</c>
+
+00:02:32.370 --> 00:02:32.380 align:start position:0%
+and finally decreasing and increasing
+ 
+
+00:02:32.380 --> 00:02:34.350 align:start position:0%
+and finally decreasing and increasing
+longer<00:02:33.130><c> these</c><00:02:33.370><c> are</c><00:02:33.520><c> quick</c><00:02:33.670><c> and</c><00:02:33.790><c> easy</c><00:02:33.910><c> to</c><00:02:34.150><c> try</c>
+
+00:02:34.350 --> 00:02:34.360 align:start position:0%
+longer these are quick and easy to try
+ 
+
+00:02:34.360 --> 00:02:36.330 align:start position:0%
+longer these are quick and easy to try
+because<00:02:34.690><c> these</c><00:02:34.870><c> are</c><00:02:35.050><c> less</c><00:02:35.200><c> likely</c><00:02:35.500><c> to</c><00:02:35.920><c> be</c><00:02:36.310><c> a</c>
+
+00:02:36.330 --> 00:02:36.340 align:start position:0%
+because these are less likely to be a
+ 
+
+00:02:36.340 --> 00:02:38.010 align:start position:0%
+because these are less likely to be a
+ways<00:02:36.580><c> of</c><00:02:36.850><c> you</c><00:02:37.030><c> know</c><00:02:37.150><c> many</c><00:02:37.390><c> months</c><00:02:37.750><c> of</c><00:02:37.870><c> your</c>
+
+00:02:38.010 --> 00:02:38.020 align:start position:0%
+ways of you know many months of your
+ 
+
+00:02:38.020 --> 00:02:41.940 align:start position:0%
+ways of you know many months of your
+life<00:02:38.250><c> but</c><00:02:39.630><c> decreasing</c><00:02:40.630><c> lambda</c><00:02:40.840><c> you</c><00:02:41.650><c> already</c>
+
+00:02:41.940 --> 00:02:41.950 align:start position:0%
+life but decreasing lambda you already
+ 
+
+00:02:41.950 --> 00:02:46.020 align:start position:0%
+life but decreasing lambda you already
+know<00:02:42.130><c> fixes</c><00:02:42.940><c> high</c><00:02:43.270><c> bias</c><00:02:44.430><c> in</c><00:02:45.430><c> case</c><00:02:45.670><c> this</c><00:02:45.820><c> isn't</c>
+
+00:02:46.020 --> 00:02:46.030 align:start position:0%
+know fixes high bias in case this isn't
+ 
+
+00:02:46.030 --> 00:02:47.820 align:start position:0%
+know fixes high bias in case this isn't
+clear<00:02:46.360><c> to</c><00:02:46.420><c> you</c><00:02:46.660><c> you</c><00:02:46.990><c> have</c><00:02:47.110><c> do</c><00:02:47.350><c> encourage</c><00:02:47.709><c> you</c>
+
+00:02:47.820 --> 00:02:47.830 align:start position:0%
+clear to you you have do encourage you
+ 
+
+00:02:47.830 --> 00:02:49.440 align:start position:0%
+clear to you you have do encourage you
+to<00:02:48.040><c> pause</c><00:02:48.310><c> the</c><00:02:48.490><c> video</c><00:02:48.790><c> and</c><00:02:48.970><c> think</c><00:02:49.030><c> through</c>
+
+00:02:49.440 --> 00:02:49.450 align:start position:0%
+to pause the video and think through
+ 
+
+00:02:49.450 --> 00:02:51.900 align:start position:0%
+to pause the video and think through
+this<00:02:49.630><c> that</c><00:02:50.470><c> convince</c><00:02:51.370><c> yourself</c><00:02:51.760><c> that</c>
+
+00:02:51.900 --> 00:02:51.910 align:start position:0%
+this that convince yourself that
+ 
+
+00:02:51.910 --> 00:02:54.570 align:start position:0%
+this that convince yourself that
+decreasing<00:02:52.810><c> lambda</c><00:02:52.959><c> helps</c><00:02:53.890><c> fix</c><00:02:54.040><c> high</c><00:02:54.280><c> bias</c>
+
+00:02:54.570 --> 00:02:54.580 align:start position:0%
+decreasing lambda helps fix high bias
+ 
+
+00:02:54.580 --> 00:02:57.240 align:start position:0%
+decreasing lambda helps fix high bias
+whereas<00:02:55.090><c> increasing</c><00:02:55.690><c> around</c><00:02:55.930><c> there</c><00:02:56.250><c> fixes</c>
+
+00:02:57.240 --> 00:02:57.250 align:start position:0%
+whereas increasing around there fixes
+ 
+
+00:02:57.250 --> 00:03:01.170 align:start position:0%
+whereas increasing around there fixes
+high<00:02:57.430><c> variance</c><00:02:57.459><c> and</c><00:02:58.950><c> if</c><00:02:59.950><c> you</c><00:03:00.250><c> aren't</c><00:03:00.730><c> sure</c><00:03:00.790><c> why</c>
+
+00:03:01.170 --> 00:03:01.180 align:start position:0%
+high variance and if you aren't sure why
+ 
+
+00:03:01.180 --> 00:03:04.260 align:start position:0%
+high variance and if you aren't sure why
+this<00:03:01.420><c> is</c><00:03:01.600><c> a</c><00:03:01.630><c> case</c><00:03:01.959><c> do</c><00:03:02.590><c> post</c><00:03:02.890><c> a</c><00:03:03.040><c> video</c><00:03:03.160><c> and</c><00:03:03.670><c> make</c>
+
+00:03:04.260 --> 00:03:04.270 align:start position:0%
+this is a case do post a video and make
+ 
+
+00:03:04.270 --> 00:03:05.670 align:start position:0%
+this is a case do post a video and make
+sure<00:03:04.300><c> you</c><00:03:04.450><c> can</c><00:03:04.630><c> convince</c><00:03:05.020><c> yourself</c><00:03:05.170><c> and</c><00:03:05.590><c> this</c>
+
+00:03:05.670 --> 00:03:05.680 align:start position:0%
+sure you can convince yourself and this
+ 
+
+00:03:05.680 --> 00:03:07.380 align:start position:0%
+sure you can convince yourself and this
+is<00:03:05.739><c> the</c><00:03:05.890><c> case</c><00:03:06.130><c> well</c><00:03:06.640><c> take</c><00:03:06.880><c> a</c><00:03:06.910><c> look</c><00:03:07.150><c> at</c><00:03:07.300><c> the</c>
+
+00:03:07.380 --> 00:03:07.390 align:start position:0%
+is the case well take a look at the
+ 
+
+00:03:07.390 --> 00:03:09.270 align:start position:0%
+is the case well take a look at the
+curves<00:03:07.690><c> that</c><00:03:07.810><c> we</c><00:03:07.930><c> were</c><00:03:08.019><c> plotting</c><00:03:08.140><c> at</c><00:03:08.950><c> the</c><00:03:09.100><c> end</c>
+
+00:03:09.270 --> 00:03:09.280 align:start position:0%
+curves that we were plotting at the end
+ 
+
+00:03:09.280 --> 00:03:11.310 align:start position:0%
+curves that we were plotting at the end
+of<00:03:09.459><c> the</c><00:03:09.550><c> previous</c><00:03:09.760><c> video</c><00:03:10.120><c> and</c><00:03:10.450><c> try</c><00:03:10.630><c> to</c><00:03:10.690><c> make</c>
+
+00:03:11.310 --> 00:03:11.320 align:start position:0%
+of the previous video and try to make
+ 
+
+00:03:11.320 --> 00:03:13.680 align:start position:0%
+of the previous video and try to make
+sure<00:03:11.350><c> you</c><00:03:11.530><c> understand</c><00:03:12.130><c> why</c><00:03:12.310><c> these</c><00:03:12.420><c> is</c><00:03:13.420><c> not</c><00:03:13.600><c> the</c>
+
+00:03:13.680 --> 00:03:13.690 align:start position:0%
+sure you understand why these is not the
+ 
+
+00:03:13.690 --> 00:03:16.650 align:start position:0%
+sure you understand why these is not the
+case<00:03:14.580><c> finally</c><00:03:15.580><c> let's</c><00:03:15.910><c> take</c><00:03:16.090><c> everything</c><00:03:16.269><c> we've</c>
+
+00:03:16.650 --> 00:03:16.660 align:start position:0%
+case finally let's take everything we've
+ 
+
+00:03:16.660 --> 00:03:18.960 align:start position:0%
+case finally let's take everything we've
+learned<00:03:16.840><c> and</c><00:03:17.290><c> related</c><00:03:17.799><c> back</c><00:03:18.040><c> to</c><00:03:18.070><c> neural</c>
+
+00:03:18.960 --> 00:03:18.970 align:start position:0%
+learned and related back to neural
+ 
+
+00:03:18.970 --> 00:03:21.180 align:start position:0%
+learned and related back to neural
+networks<00:03:19.480><c> and</c><00:03:19.780><c> here</c><00:03:20.440><c> just</c><00:03:20.650><c> give</c><00:03:20.980><c> some</c>
+
+00:03:21.180 --> 00:03:21.190 align:start position:0%
+networks and here just give some
+ 
+
+00:03:21.190 --> 00:03:22.890 align:start position:0%
+networks and here just give some
+practical<00:03:21.400><c> advice</c><00:03:22.030><c> for</c><00:03:22.180><c> how</c><00:03:22.450><c> I</c><00:03:22.480><c> usually</c>
+
+00:03:22.890 --> 00:03:22.900 align:start position:0%
+practical advice for how I usually
+ 
+
+00:03:22.900 --> 00:03:25.250 align:start position:0%
+practical advice for how I usually
+choose<00:03:23.830><c> the</c><00:03:24.100><c> architecture</c><00:03:24.850><c> or</c><00:03:25.090><c> the</c>
+
+00:03:25.250 --> 00:03:25.260 align:start position:0%
+choose the architecture or the
+ 
+
+00:03:25.260 --> 00:03:27.990 align:start position:0%
+choose the architecture or the
+connectivity<00:03:26.260><c> pattern</c><00:03:26.530><c> of</c><00:03:27.040><c> the</c><00:03:27.670><c> neural</c>
+
+00:03:27.990 --> 00:03:28.000 align:start position:0%
+connectivity pattern of the neural
+ 
+
+00:03:28.000 --> 00:03:31.500 align:start position:0%
+connectivity pattern of the neural
+networks<00:03:28.420><c> I</c><00:03:28.630><c> use</c><00:03:29.370><c> so</c><00:03:30.370><c> if</c><00:03:30.850><c> you</c><00:03:30.970><c> fit</c><00:03:31.150><c> in</c><00:03:31.299><c> your</c>
+
+00:03:31.500 --> 00:03:31.510 align:start position:0%
+networks I use so if you fit in your
+ 
+
+00:03:31.510 --> 00:03:34.470 align:start position:0%
+networks I use so if you fit in your
+network<00:03:31.959><c> one</c><00:03:32.530><c> option</c><00:03:33.070><c> would</c><00:03:33.340><c> be</c><00:03:33.400><c> to</c><00:03:33.610><c> fit</c><00:03:33.850><c> say</c><00:03:34.450><c> a</c>
+
+00:03:34.470 --> 00:03:34.480 align:start position:0%
+network one option would be to fit say a
+ 
+
+00:03:34.480 --> 00:03:36.600 align:start position:0%
+network one option would be to fit say a
+pretty<00:03:34.810><c> small</c><00:03:35.230><c> neural</c><00:03:35.650><c> network</c><00:03:36.070><c> with</c><00:03:36.430><c> you</c>
+
+00:03:36.600 --> 00:03:36.610 align:start position:0%
+pretty small neural network with you
+ 
+
+00:03:36.610 --> 00:03:38.580 align:start position:0%
+pretty small neural network with you
+know<00:03:36.730><c> relatively</c><00:03:37.330><c> few</c><00:03:37.750><c> hidden</c><00:03:38.049><c> units</c><00:03:38.380><c> maybe</c>
+
+00:03:38.580 --> 00:03:38.590 align:start position:0%
+know relatively few hidden units maybe
+ 
+
+00:03:38.590 --> 00:03:41.039 align:start position:0%
+know relatively few hidden units maybe
+just<00:03:38.920><c> one</c><00:03:39.100><c> hidden</c><00:03:39.340><c> you</c><00:03:39.580><c> if</c><00:03:40.390><c> you're</c><00:03:40.600><c> fitting</c><00:03:40.930><c> on</c>
+
+00:03:41.039 --> 00:03:41.049 align:start position:0%
+just one hidden you if you're fitting on
+ 
+
+00:03:41.049 --> 00:03:43.140 align:start position:0%
+just one hidden you if you're fitting on
+your<00:03:41.170><c> network</c><00:03:41.620><c> one</c><00:03:42.130><c> option</c><00:03:42.610><c> would</c><00:03:42.820><c> be</c><00:03:42.880><c> to</c><00:03:43.000><c> fit</c>
+
+00:03:43.140 --> 00:03:43.150 align:start position:0%
+your network one option would be to fit
+ 
+
+00:03:43.150 --> 00:03:46.440 align:start position:0%
+your network one option would be to fit
+a<00:03:43.360><c> relatively</c><00:03:43.989><c> small</c><00:03:44.860><c> neural</c><00:03:45.250><c> network</c><00:03:45.640><c> with</c>
+
+00:03:46.440 --> 00:03:46.450 align:start position:0%
+a relatively small neural network with
+ 
+
+00:03:46.450 --> 00:03:50.340 align:start position:0%
+a relatively small neural network with
+say<00:03:47.549><c> relatively</c><00:03:48.549><c> few</c><00:03:48.820><c> maybe</c><00:03:49.120><c> only</c><00:03:49.570><c> one</c><00:03:50.049><c> hidden</c>
+
+00:03:50.340 --> 00:03:50.350 align:start position:0%
+say relatively few maybe only one hidden
+ 
+
+00:03:50.350 --> 00:03:53.100 align:start position:0%
+say relatively few maybe only one hidden
+layer<00:03:50.680><c> and</c><00:03:51.000><c> maybe</c><00:03:52.000><c> only</c><00:03:52.239><c> a</c><00:03:52.390><c> relatively</c><00:03:53.019><c> few</c>
+
+00:03:53.100 --> 00:03:53.110 align:start position:0%
+layer and maybe only a relatively few
+ 
+
+00:03:53.110 --> 00:03:55.860 align:start position:0%
+layer and maybe only a relatively few
+number<00:03:53.410><c> of</c><00:03:53.830><c> hidden</c><00:03:53.980><c> units</c><00:03:54.239><c> so</c><00:03:55.239><c> a</c><00:03:55.269><c> network</c><00:03:55.540><c> like</c>
+
+00:03:55.860 --> 00:03:55.870 align:start position:0%
+number of hidden units so a network like
+ 
+
+00:03:55.870 --> 00:03:57.180 align:start position:0%
+number of hidden units so a network like
+this<00:03:56.049><c> might</c><00:03:56.350><c> have</c><00:03:56.530><c> relatively</c><00:03:57.040><c> few</c>
+
+00:03:57.180 --> 00:03:57.190 align:start position:0%
+this might have relatively few
+ 
+
+00:03:57.190 --> 00:03:59.130 align:start position:0%
+this might have relatively few
+parameters<00:03:57.549><c> and</c><00:03:58.209><c> be</c><00:03:58.390><c> more</c><00:03:58.540><c> prone</c><00:03:58.930><c> to</c>
+
+00:03:59.130 --> 00:03:59.140 align:start position:0%
+parameters and be more prone to
+ 
+
+00:03:59.140 --> 00:04:01.680 align:start position:0%
+parameters and be more prone to
+underfitting<00:03:59.580><c> the</c><00:04:00.580><c> main</c><00:04:00.760><c> advantage</c><00:04:01.299><c> of</c><00:04:01.540><c> these</c>
+
+00:04:01.680 --> 00:04:01.690 align:start position:0%
+underfitting the main advantage of these
+ 
+
+00:04:01.690 --> 00:04:03.100 align:start position:0%
+underfitting the main advantage of these
+small<00:04:02.200><c> neural</c><00:04:02.410><c> networks</c>
+
+00:04:03.100 --> 00:04:03.110 align:start position:0%
+small neural networks
+ 
+
+00:04:03.110 --> 00:04:05.580 align:start position:0%
+small neural networks
+that<00:04:03.350><c> the</c><00:04:03.800><c> computationally</c><00:04:04.760><c> cheaper</c><00:04:05.240><c> an</c>
+
+00:04:05.580 --> 00:04:05.590 align:start position:0%
+that the computationally cheaper an
+ 
+
+00:04:05.590 --> 00:04:07.840 align:start position:0%
+that the computationally cheaper an
+alternative<00:04:06.590><c> would</c><00:04:06.800><c> be</c><00:04:06.860><c> to</c><00:04:07.070><c> fit</c><00:04:07.280><c> a</c><00:04:07.310><c> maybe</c>
+
+00:04:07.840 --> 00:04:07.850 align:start position:0%
+alternative would be to fit a maybe
+ 
+
+00:04:07.850 --> 00:04:09.850 align:start position:0%
+alternative would be to fit a maybe
+relatively<00:04:08.450><c> large</c><00:04:08.720><c> neural</c><00:04:09.080><c> network</c><00:04:09.440><c> with</c>
+
+00:04:09.850 --> 00:04:09.860 align:start position:0%
+relatively large neural network with
+ 
+
+00:04:09.860 --> 00:04:12.280 align:start position:0%
+relatively large neural network with
+either<00:04:10.310><c> a</c><00:04:10.580><c> more</c><00:04:10.970><c> hidden</c><00:04:11.210><c> unit</c><00:04:11.630><c> so</c><00:04:11.870><c> if</c><00:04:11.990><c> that's</c><00:04:12.140><c> a</c>
+
+00:04:12.280 --> 00:04:12.290 align:start position:0%
+either a more hidden unit so if that's a
+ 
+
+00:04:12.290 --> 00:04:14.380 align:start position:0%
+either a more hidden unit so if that's a
+lot<00:04:12.470><c> of</c><00:04:12.500><c> hidden</c><00:04:12.800><c> units</c><00:04:12.830><c> in</c><00:04:13.220><c> one</c><00:04:13.370><c> layer</c><00:04:13.550><c> or</c><00:04:14.000><c> with</c>
+
+00:04:14.380 --> 00:04:14.390 align:start position:0%
+lot of hidden units in one layer or with
+ 
+
+00:04:14.390 --> 00:04:17.199 align:start position:0%
+lot of hidden units in one layer or with
+more<00:04:14.630><c> hidden</c><00:04:14.840><c> layers</c><00:04:14.960><c> and</c><00:04:15.549><c> so</c><00:04:16.549><c> these</c><00:04:16.820><c> neural</c>
+
+00:04:17.199 --> 00:04:17.209 align:start position:0%
+more hidden layers and so these neural
+ 
+
+00:04:17.209 --> 00:04:18.699 align:start position:0%
+more hidden layers and so these neural
+networks<00:04:17.660><c> tend</c><00:04:18.049><c> to</c><00:04:18.140><c> have</c><00:04:18.290><c> more</c><00:04:18.470><c> parameters</c>
+
+00:04:18.699 --> 00:04:18.709 align:start position:0%
+networks tend to have more parameters
+ 
+
+00:04:18.709 --> 00:04:20.620 align:start position:0%
+networks tend to have more parameters
+and<00:04:19.459><c> therefore</c><00:04:19.700><c> be</c><00:04:20.090><c> more</c><00:04:20.299><c> prone</c><00:04:20.600><c> to</c>
+
+00:04:20.620 --> 00:04:20.630 align:start position:0%
+and therefore be more prone to
+ 
+
+00:04:20.630 --> 00:04:21.580 align:start position:0%
+and therefore be more prone to
+overfitting
+
+00:04:21.580 --> 00:04:21.590 align:start position:0%
+overfitting
+ 
+
+00:04:21.590 --> 00:04:24.610 align:start position:0%
+overfitting
+what<00:04:22.580><c> does</c><00:04:22.760><c> advantage</c><00:04:23.360><c> often</c><00:04:23.900><c> on</c><00:04:24.020><c> a</c><00:04:24.050><c> major</c><00:04:24.320><c> one</c>
+
+00:04:24.610 --> 00:04:24.620 align:start position:0%
+what does advantage often on a major one
+ 
+
+00:04:24.620 --> 00:04:26.380 align:start position:0%
+what does advantage often on a major one
+but<00:04:24.770><c> something</c><00:04:25.070><c> to</c><00:04:25.250><c> think</c><00:04:25.280><c> about</c><00:04:25.610><c> is</c><00:04:25.850><c> that</c><00:04:25.880><c> if</c>
+
+00:04:26.380 --> 00:04:26.390 align:start position:0%
+but something to think about is that if
+ 
+
+00:04:26.390 --> 00:04:29.080 align:start position:0%
+but something to think about is that if
+you<00:04:26.480><c> have</c><00:04:26.690><c> a</c><00:04:26.720><c> large</c><00:04:27.470><c> number</c><00:04:27.590><c> of</c><00:04:27.920><c> neurons</c><00:04:28.610><c> in</c>
+
+00:04:29.080 --> 00:04:29.090 align:start position:0%
+you have a large number of neurons in
+ 
+
+00:04:29.090 --> 00:04:30.640 align:start position:0%
+you have a large number of neurons in
+your<00:04:29.270><c> network</c><00:04:29.720><c> then</c><00:04:29.990><c> they</c><00:04:30.110><c> can</c><00:04:30.260><c> be</c><00:04:30.440><c> more</c>
+
+00:04:30.640 --> 00:04:30.650 align:start position:0%
+your network then they can be more
+ 
+
+00:04:30.650 --> 00:04:33.340 align:start position:0%
+your network then they can be more
+computationally<00:04:31.370><c> expensive</c><00:04:32.350><c> although</c>
+
+00:04:33.340 --> 00:04:33.350 align:start position:0%
+computationally expensive although
+ 
+
+00:04:33.350 --> 00:04:35.230 align:start position:0%
+computationally expensive although
+within<00:04:33.560><c> reason</c><00:04:34.040><c> this</c><00:04:34.220><c> is</c><00:04:34.400><c> often</c><00:04:34.610><c> hopefully</c>
+
+00:04:35.230 --> 00:04:35.240 align:start position:0%
+within reason this is often hopefully
+ 
+
+00:04:35.240 --> 00:04:37.690 align:start position:0%
+within reason this is often hopefully
+not<00:04:35.450><c> a</c><00:04:35.480><c> huge</c><00:04:35.780><c> problem</c><00:04:36.020><c> the</c><00:04:36.980><c> main</c><00:04:37.220><c> potential</c>
+
+00:04:37.690 --> 00:04:37.700 align:start position:0%
+not a huge problem the main potential
+ 
+
+00:04:37.700 --> 00:04:39.490 align:start position:0%
+not a huge problem the main potential
+problem<00:04:38.360><c> of</c><00:04:38.540><c> these</c><00:04:38.690><c> much</c><00:04:38.930><c> larger</c><00:04:38.960><c> neural</c>
+
+00:04:39.490 --> 00:04:39.500 align:start position:0%
+problem of these much larger neural
+ 
+
+00:04:39.500 --> 00:04:40.930 align:start position:0%
+problem of these much larger neural
+networks<00:04:40.070><c> is</c><00:04:40.220><c> that</c><00:04:40.370><c> they</c><00:04:40.460><c> could</c><00:04:40.610><c> be</c><00:04:40.760><c> more</c>
+
+00:04:40.930 --> 00:04:40.940 align:start position:0%
+networks is that they could be more
+ 
+
+00:04:40.940 --> 00:04:43.780 align:start position:0%
+networks is that they could be more
+prone<00:04:41.210><c> to</c><00:04:41.240><c> overfitting</c><00:04:41.419><c> and</c><00:04:42.400><c> it</c><00:04:43.400><c> turns</c><00:04:43.610><c> out</c>
+
+00:04:43.780 --> 00:04:43.790 align:start position:0%
+prone to overfitting and it turns out
+ 
+
+00:04:43.790 --> 00:04:46.030 align:start position:0%
+prone to overfitting and it turns out
+that<00:04:44.000><c> if</c><00:04:44.150><c> you</c><00:04:44.210><c> apply</c><00:04:44.390><c> in</c><00:04:44.630><c> neural</c><00:04:44.870><c> network</c><00:04:45.260><c> very</c>
+
+00:04:46.030 --> 00:04:46.040 align:start position:0%
+that if you apply in neural network very
+ 
+
+00:04:46.040 --> 00:04:48.490 align:start position:0%
+that if you apply in neural network very
+often<00:04:46.669><c> using</c><00:04:47.270><c> a</c><00:04:47.360><c> larger</c><00:04:47.750><c> neural</c><00:04:48.020><c> network</c>
+
+00:04:48.490 --> 00:04:48.500 align:start position:0%
+often using a larger neural network
+ 
+
+00:04:48.500 --> 00:04:50.050 align:start position:0%
+often using a larger neural network
+often<00:04:48.919><c> is</c><00:04:49.040><c> actually</c><00:04:49.340><c> the</c><00:04:49.460><c> larger</c><00:04:49.790><c> the</c><00:04:49.910><c> better</c>
+
+00:04:50.050 --> 00:04:50.060 align:start position:0%
+often is actually the larger the better
+ 
+
+00:04:50.060 --> 00:04:52.060 align:start position:0%
+often is actually the larger the better
+but<00:04:50.720><c> the</c><00:04:50.840><c> result</c><00:04:51.110><c> of</c><00:04:51.230><c> fitting</c><00:04:51.530><c> you</c><00:04:51.740><c> can</c><00:04:51.919><c> then</c>
+
+00:04:52.060 --> 00:04:52.070 align:start position:0%
+but the result of fitting you can then
+ 
+
+00:04:52.070 --> 00:04:54.159 align:start position:0%
+but the result of fitting you can then
+use<00:04:52.250><c> regularization</c><00:04:52.750><c> to</c><00:04:53.750><c> address</c>
+
+00:04:54.159 --> 00:04:54.169 align:start position:0%
+use regularization to address
+ 
+
+00:04:54.169 --> 00:04:57.400 align:start position:0%
+use regularization to address
+overfitting<00:04:54.710><c> and</c><00:04:55.480><c> usually</c><00:04:56.480><c> using</c><00:04:56.930><c> a</c><00:04:57.020><c> larger</c>
+
+00:04:57.400 --> 00:04:57.410 align:start position:0%
+overfitting and usually using a larger
+ 
+
+00:04:57.410 --> 00:04:59.170 align:start position:0%
+overfitting and usually using a larger
+neural<00:04:57.650><c> network</c><00:04:58.010><c> but</c><00:04:58.490><c> using</c><00:04:58.790><c> regularization</c>
+
+00:04:59.170 --> 00:04:59.180 align:start position:0%
+neural network but using regularization
+ 
+
+00:04:59.180 --> 00:05:02.080 align:start position:0%
+neural network but using regularization
+to<00:04:59.690><c> address</c><00:05:00.050><c> overfitting</c><00:05:00.500><c> that's</c><00:05:01.130><c> often</c><00:05:01.610><c> more</c>
+
+00:05:02.080 --> 00:05:02.090 align:start position:0%
+to address overfitting that's often more
+ 
+
+00:05:02.090 --> 00:05:04.060 align:start position:0%
+to address overfitting that's often more
+effective<00:05:02.390><c> than</c><00:05:02.900><c> using</c><00:05:03.110><c> a</c><00:05:03.380><c> smaller</c><00:05:03.710><c> neural</c>
+
+00:05:04.060 --> 00:05:04.070 align:start position:0%
+effective than using a smaller neural
+ 
+
+00:05:04.070 --> 00:05:06.190 align:start position:0%
+effective than using a smaller neural
+network<00:05:04.430><c> and</c><00:05:04.760><c> the</c><00:05:05.450><c> main</c><00:05:05.630><c> possible</c>
+
+00:05:06.190 --> 00:05:06.200 align:start position:0%
+network and the main possible
+ 
+
+00:05:06.200 --> 00:05:07.630 align:start position:0%
+network and the main possible
+disadvantage<00:05:06.800><c> is</c><00:05:07.040><c> that</c><00:05:07.070><c> it</c><00:05:07.250><c> can</c><00:05:07.310><c> be</c><00:05:07.430><c> more</c>
+
+00:05:07.630 --> 00:05:07.640 align:start position:0%
+disadvantage is that it can be more
+ 
+
+00:05:07.640 --> 00:05:10.090 align:start position:0%
+disadvantage is that it can be more
+computationally<00:05:07.910><c> expensive</c><00:05:08.450><c> and</c><00:05:09.440><c> finally</c>
+
+00:05:10.090 --> 00:05:10.100 align:start position:0%
+computationally expensive and finally
+ 
+
+00:05:10.100 --> 00:05:12.430 align:start position:0%
+computationally expensive and finally
+one<00:05:10.640><c> of</c><00:05:10.669><c> the</c><00:05:10.910><c> other</c><00:05:10.940><c> decisions</c><00:05:11.630><c> is</c><00:05:11.930><c> say</c><00:05:12.260><c> the</c>
+
+00:05:12.430 --> 00:05:12.440 align:start position:0%
+one of the other decisions is say the
+ 
+
+00:05:12.440 --> 00:05:14.200 align:start position:0%
+one of the other decisions is say the
+number<00:05:12.800><c> of</c><00:05:12.890><c> hidden</c><00:05:13.130><c> you</c><00:05:13.430><c> the</c><00:05:13.820><c> number</c><00:05:14.120><c> of</c>
+
+00:05:14.200 --> 00:05:14.210 align:start position:0%
+number of hidden you the number of
+ 
+
+00:05:14.210 --> 00:05:16.150 align:start position:0%
+number of hidden you the number of
+hidden<00:05:14.390><c> layers</c><00:05:14.570><c> you</c><00:05:15.169><c> want</c><00:05:15.320><c> to</c><00:05:15.500><c> have</c><00:05:15.650><c> right</c><00:05:15.950><c> so</c>
+
+00:05:16.150 --> 00:05:16.160 align:start position:0%
+hidden layers you want to have right so
+ 
+
+00:05:16.160 --> 00:05:18.550 align:start position:0%
+hidden layers you want to have right so
+do<00:05:16.310><c> you</c><00:05:16.370><c> want</c><00:05:16.640><c> one</c><00:05:17.240><c> hidden</c><00:05:17.479><c> layer</c><00:05:17.600><c> or</c><00:05:18.110><c> do</c><00:05:18.500><c> you</c>
+
+00:05:18.550 --> 00:05:18.560 align:start position:0%
+do you want one hidden layer or do you
+ 
+
+00:05:18.560 --> 00:05:20.200 align:start position:0%
+do you want one hidden layer or do you
+want<00:05:18.770><c> three</c><00:05:19.040><c> hidden</c><00:05:19.250><c> layers</c><00:05:19.400><c> as</c><00:05:19.820><c> we</c><00:05:20.000><c> have</c>
+
+00:05:20.200 --> 00:05:20.210 align:start position:0%
+want three hidden layers as we have
+ 
+
+00:05:20.210 --> 00:05:21.730 align:start position:0%
+want three hidden layers as we have
+shown<00:05:20.450><c> here</c><00:05:20.690><c> or</c><00:05:20.960><c> do</c><00:05:21.080><c> you</c><00:05:21.169><c> want</c><00:05:21.380><c> two</c><00:05:21.560><c> hidden</c>
+
+00:05:21.730 --> 00:05:21.740 align:start position:0%
+shown here or do you want two hidden
+ 
+
+00:05:21.740 --> 00:05:25.780 align:start position:0%
+shown here or do you want two hidden
+layers<00:05:22.040><c> and</c><00:05:23.080><c> usually</c><00:05:24.080><c> I</c><00:05:24.350><c> think</c><00:05:25.100><c> I</c><00:05:25.310><c> said</c><00:05:25.550><c> in</c><00:05:25.700><c> the</c>
+
+00:05:25.780 --> 00:05:25.790 align:start position:0%
+layers and usually I think I said in the
+ 
+
+00:05:25.790 --> 00:05:27.790 align:start position:0%
+layers and usually I think I said in the
+previous<00:05:26.000><c> video</c><00:05:26.330><c> using</c><00:05:27.050><c> a</c><00:05:27.290><c> single</c><00:05:27.620><c> hidden</c>
+
+00:05:27.790 --> 00:05:27.800 align:start position:0%
+previous video using a single hidden
+ 
+
+00:05:27.800 --> 00:05:30.010 align:start position:0%
+previous video using a single hidden
+layer<00:05:27.950><c> as</c><00:05:28.250><c> a</c><00:05:28.280><c> reasonable</c><00:05:28.669><c> default</c><00:05:29.180><c> but</c><00:05:29.750><c> if</c><00:05:29.930><c> you</c>
+
+00:05:30.010 --> 00:05:30.020 align:start position:0%
+layer as a reasonable default but if you
+ 
+
+00:05:30.020 --> 00:05:31.480 align:start position:0%
+layer as a reasonable default but if you
+want<00:05:30.229><c> to</c><00:05:30.380><c> choose</c><00:05:30.650><c> the</c><00:05:30.710><c> number</c><00:05:31.100><c> of</c><00:05:31.340><c> hidden</c>
+
+00:05:31.480 --> 00:05:31.490 align:start position:0%
+want to choose the number of hidden
+ 
+
+00:05:31.490 --> 00:05:33.700 align:start position:0%
+want to choose the number of hidden
+layers<00:05:31.640><c> one</c><00:05:32.570><c> other</c><00:05:32.750><c> thing</c><00:05:32.960><c> you</c><00:05:33.020><c> can</c><00:05:33.140><c> try</c><00:05:33.410><c> is</c>
+
+00:05:33.700 --> 00:05:33.710 align:start position:0%
+layers one other thing you can try is
+ 
+
+00:05:33.710 --> 00:05:35.710 align:start position:0%
+layers one other thing you can try is
+find<00:05:34.520><c> yourself</c><00:05:34.910><c> a</c><00:05:35.150><c> training</c>
+
+00:05:35.710 --> 00:05:35.720 align:start position:0%
+find yourself a training
+ 
+
+00:05:35.720 --> 00:05:38.020 align:start position:0%
+find yourself a training
+cross-validation<00:05:36.080><c> and</c><00:05:36.950><c> test</c><00:05:37.280><c> set</c><00:05:37.460><c> split</c><00:05:37.790><c> and</c>
+
+00:05:38.020 --> 00:05:38.030 align:start position:0%
+cross-validation and test set split and
+ 
+
+00:05:38.030 --> 00:05:40.270 align:start position:0%
+cross-validation and test set split and
+try<00:05:38.720><c> training</c><00:05:39.200><c> neural</c><00:05:39.350><c> networks</c><00:05:39.919><c> with</c><00:05:40.100><c> one</c>
+
+00:05:40.270 --> 00:05:40.280 align:start position:0%
+try training neural networks with one
+ 
+
+00:05:40.280 --> 00:05:41.890 align:start position:0%
+try training neural networks with one
+hidden<00:05:40.460><c> layer</c><00:05:40.610><c> or</c><00:05:41.090><c> two</c><00:05:41.240><c> hidden</c><00:05:41.419><c> layers</c><00:05:41.630><c> with</c>
+
+00:05:41.890 --> 00:05:41.900 align:start position:0%
+hidden layer or two hidden layers with
+ 
+
+00:05:41.900 --> 00:05:43.870 align:start position:0%
+hidden layer or two hidden layers with
+three<00:05:42.140><c> hidden</c><00:05:42.260><c> layers</c><00:05:42.410><c> and</c><00:05:42.890><c> see</c><00:05:43.580><c> which</c><00:05:43.850><c> of</c>
+
+00:05:43.870 --> 00:05:43.880 align:start position:0%
+three hidden layers and see which of
+ 
+
+00:05:43.880 --> 00:05:46.240 align:start position:0%
+three hidden layers and see which of
+those<00:05:44.180><c> neural</c><00:05:44.570><c> networks</c><00:05:44.930><c> performs</c><00:05:45.680><c> best</c><00:05:46.010><c> on</c>
+
+00:05:46.240 --> 00:05:46.250 align:start position:0%
+those neural networks performs best on
+ 
+
+00:05:46.250 --> 00:05:48.670 align:start position:0%
+those neural networks performs best on
+the<00:05:46.820><c> cross-validation</c><00:05:47.270><c> set</c><00:05:48.050><c> so</c><00:05:48.200><c> you</c><00:05:48.320><c> take</c><00:05:48.530><c> you</c>
+
+00:05:48.670 --> 00:05:48.680 align:start position:0%
+the cross-validation set so you take you
+ 
+
+00:05:48.680 --> 00:05:50.230 align:start position:0%
+the cross-validation set so you take you
+know<00:05:48.770><c> three</c><00:05:48.979><c> neural</c><00:05:49.220><c> networks</c><00:05:49.640><c> with</c><00:05:49.790><c> one</c><00:05:50.030><c> two</c>
+
+00:05:50.230 --> 00:05:50.240 align:start position:0%
+know three neural networks with one two
+ 
+
+00:05:50.240 --> 00:05:52.360 align:start position:0%
+know three neural networks with one two
+and<00:05:50.360><c> three</c><00:05:50.540><c> hidden</c><00:05:50.690><c> layers</c><00:05:50.840><c> and</c><00:05:51.340><c> compute</c><00:05:52.340><c> the</c>
+
+00:05:52.360 --> 00:05:52.370 align:start position:0%
+and three hidden layers and compute the
+ 
+
+00:05:52.370 --> 00:05:55.150 align:start position:0%
+and three hidden layers and compute the
+cross-validation<00:05:52.729><c> error</c><00:05:53.570><c> and</c><00:05:53.900><c> jzd</c><00:05:54.620><c> on</c><00:05:54.800><c> all</c><00:05:54.979><c> of</c>
+
+00:05:55.150 --> 00:05:55.160 align:start position:0%
+cross-validation error and jzd on all of
+ 
+
+00:05:55.160 --> 00:05:58.090 align:start position:0%
+cross-validation error and jzd on all of
+them<00:05:55.310><c> and</c><00:05:55.520><c> use</c><00:05:56.060><c> that</c><00:05:56.300><c> to</c><00:05:56.780><c> select</c><00:05:57.200><c> which</c><00:05:58.070><c> of</c>
+
+00:05:58.090 --> 00:05:58.100 align:start position:0%
+them and use that to select which of
+ 
+
+00:05:58.100 --> 00:06:00.159 align:start position:0%
+them and use that to select which of
+these<00:05:58.490><c> is</c><00:05:58.850><c> you</c><00:05:59.060><c> think</c><00:05:59.300><c> the</c><00:05:59.540><c> best</c><00:05:59.720><c> neural</c>
+
+00:06:00.159 --> 00:06:00.169 align:start position:0%
+these is you think the best neural
+ 
+
+00:06:00.169 --> 00:06:01.930 align:start position:0%
+these is you think the best neural
+network
+
+00:06:01.930 --> 00:06:01.940 align:start position:0%
+network
+ 
+
+00:06:01.940 --> 00:06:05.680 align:start position:0%
+network
+so<00:06:02.900><c> that's</c><00:06:03.530><c> it</c><00:06:03.800><c> for</c><00:06:03.980><c> bias-variance</c><00:06:04.550><c> and</c><00:06:05.360><c> waste</c>
+
+00:06:05.680 --> 00:06:05.690 align:start position:0%
+so that's it for bias-variance and waste
+ 
+
+00:06:05.690 --> 00:06:07.930 align:start position:0%
+so that's it for bias-variance and waste
+like<00:06:05.930><c> learning</c><00:06:06.170><c> Carosa</c><00:06:06.860><c> try</c><00:06:07.310><c> to</c><00:06:07.370><c> diagnose</c>
+
+00:06:07.930 --> 00:06:07.940 align:start position:0%
+like learning Carosa try to diagnose
+ 
+
+00:06:07.940 --> 00:06:09.910 align:start position:0%
+like learning Carosa try to diagnose
+these<00:06:08.150><c> problems</c><00:06:08.470><c> that's</c><00:06:09.470><c> all</c><00:06:09.620><c> that's</c><00:06:09.740><c> what</c>
+
+00:06:09.910 --> 00:06:09.920 align:start position:0%
+these problems that's all that's what
+ 
+
+00:06:09.920 --> 00:06:11.530 align:start position:0%
+these problems that's all that's what
+these<00:06:10.100><c> things</c><00:06:10.340><c> imply</c><00:06:10.700><c> for</c><00:06:10.760><c> what</c><00:06:11.240><c> might</c><00:06:11.420><c> be</c>
+
+00:06:11.530 --> 00:06:11.540 align:start position:0%
+these things imply for what might be
+ 
+
+00:06:11.540 --> 00:06:13.690 align:start position:0%
+these things imply for what might be
+fruitful<00:06:12.050><c> or</c><00:06:12.260><c> not</c><00:06:12.560><c> for</c><00:06:12.830><c> full</c><00:06:13.010><c> things</c><00:06:13.250><c> to</c><00:06:13.430><c> try</c>
+
+00:06:13.690 --> 00:06:13.700 align:start position:0%
+fruitful or not for full things to try
+ 
+
+00:06:13.700 --> 00:06:15.490 align:start position:0%
+fruitful or not for full things to try
+to<00:06:13.760><c> improve</c><00:06:14.060><c> the</c><00:06:14.600><c> performance</c><00:06:15.140><c> of</c><00:06:15.260><c> a</c><00:06:15.380><c> learning</c>
+
+00:06:15.490 --> 00:06:15.500 align:start position:0%
+to improve the performance of a learning
+ 
+
+00:06:15.500 --> 00:06:18.610 align:start position:0%
+to improve the performance of a learning
+algorithm<00:06:16.120><c> if</c><00:06:17.120><c> you</c><00:06:17.330><c> understood</c><00:06:17.900><c> the</c><00:06:18.050><c> content</c>
+
+00:06:18.610 --> 00:06:18.620 align:start position:0%
+algorithm if you understood the content
+ 
+
+00:06:18.620 --> 00:06:21.130 align:start position:0%
+algorithm if you understood the content
+of<00:06:18.920><c> the</c><00:06:19.070><c> last</c><00:06:19.310><c> few</c><00:06:19.580><c> videos</c><00:06:19.940><c> and</c><00:06:20.420><c> if</c><00:06:20.840><c> you</c><00:06:20.900><c> apply</c>
+
+00:06:21.130 --> 00:06:21.140 align:start position:0%
+of the last few videos and if you apply
+ 
+
+00:06:21.140 --> 00:06:23.290 align:start position:0%
+of the last few videos and if you apply
+them<00:06:21.500><c> you</c><00:06:22.040><c> actually</c><00:06:22.460><c> be</c><00:06:22.610><c> much</c><00:06:22.850><c> more</c><00:06:23.030><c> effective</c>
+
+00:06:23.290 --> 00:06:23.300 align:start position:0%
+them you actually be much more effective
+ 
+
+00:06:23.300 --> 00:06:25.540 align:start position:0%
+them you actually be much more effective
+already<00:06:23.840><c> and</c><00:06:24.350><c> getting</c><00:06:24.620><c> learning</c><00:06:25.130><c> algorithms</c>
+
+00:06:25.540 --> 00:06:25.550 align:start position:0%
+already and getting learning algorithms
+ 
+
+00:06:25.550 --> 00:06:27.880 align:start position:0%
+already and getting learning algorithms
+to<00:06:25.580><c> work</c><00:06:25.790><c> on</c><00:06:26.000><c> problems</c><00:06:26.240><c> than</c><00:06:26.720><c> even</c><00:06:27.110><c> a</c><00:06:27.290><c> large</c>
+
+00:06:27.880 --> 00:06:27.890 align:start position:0%
+to work on problems than even a large
+ 
+
+00:06:27.890 --> 00:06:29.620 align:start position:0%
+to work on problems than even a large
+fraction<00:06:28.460><c> maybe</c><00:06:28.790><c> the</c><00:06:29.000><c> majority</c><00:06:29.360><c> of</c>
+
+00:06:29.620 --> 00:06:29.630 align:start position:0%
+fraction maybe the majority of
+ 
+
+00:06:29.630 --> 00:06:31.780 align:start position:0%
+fraction maybe the majority of
+practitioners<00:06:30.020><c> and</c><00:06:30.710><c> machine</c><00:06:30.950><c> learning</c><00:06:30.980><c> here</c>
+
+00:06:31.780 --> 00:06:31.790 align:start position:0%
+practitioners and machine learning here
+ 
+
+00:06:31.790 --> 00:06:33.670 align:start position:0%
+practitioners and machine learning here
+at<00:06:31.910><c> Silicon</c><00:06:32.300><c> Valley</c><00:06:32.510><c> today</c><00:06:32.900><c> doing</c><00:06:33.410><c> these</c>
+
+00:06:33.670 --> 00:06:33.680 align:start position:0%
+at Silicon Valley today doing these
+ 
+
+00:06:33.680 --> 00:06:36.640 align:start position:0%
+at Silicon Valley today doing these
+things<00:06:33.950><c> as</c><00:06:34.220><c> their</c><00:06:34.370><c> full-time</c><00:06:34.520><c> jobs</c><00:06:35.080><c> so</c><00:06:36.080><c> I</c><00:06:36.350><c> hope</c>
+
+00:06:36.640 --> 00:06:36.650 align:start position:0%
+things as their full-time jobs so I hope
+ 
+
+00:06:36.650 --> 00:06:39.700 align:start position:0%
+things as their full-time jobs so I hope
+that<00:06:36.920><c> this</c><00:06:37.700><c> he</c><00:06:38.120><c> said</c><00:06:38.420><c> pieces</c><00:06:38.990><c> of</c><00:06:39.110><c> advice</c><00:06:39.260><c> on</c>
+
+00:06:39.700 --> 00:06:39.710 align:start position:0%
+that this he said pieces of advice on
+ 
+
+00:06:39.710 --> 00:06:41.710 align:start position:0%
+that this he said pieces of advice on
+bias-variance<00:06:40.330><c> learning</c><00:06:41.330><c> curves</c><00:06:41.630><c> and</c>
+
+00:06:41.710 --> 00:06:41.720 align:start position:0%
+bias-variance learning curves and
+ 
+
+00:06:41.720 --> 00:06:44.170 align:start position:0%
+bias-variance learning curves and
+Diagnostics<00:06:42.380><c> will</c><00:06:42.890><c> help</c><00:06:43.100><c> you</c><00:06:43.310><c> to</c><00:06:43.610><c> much</c><00:06:43.970><c> more</c>
+
+00:06:44.170 --> 00:06:44.180 align:start position:0%
+Diagnostics will help you to much more
+ 
+
+00:06:44.180 --> 00:06:46.060 align:start position:0%
+Diagnostics will help you to much more
+effectively<00:06:44.750><c> and</c><00:06:44.870><c> powerfully</c><00:06:45.070><c> apply</c>
+
+00:06:46.060 --> 00:06:46.070 align:start position:0%
+effectively and powerfully apply
+ 
+
+00:06:46.070 --> 00:06:48.760 align:start position:0%
+effectively and powerfully apply
+learning<00:06:46.310><c> algorithms</c><00:06:47.000><c> and</c><00:06:47.240><c> get</c><00:06:48.170><c> them</c><00:06:48.380><c> to</c><00:06:48.560><c> work</c>
+
+00:06:48.760 --> 00:06:48.770 align:start position:0%
+learning algorithms and get them to work
+ 
+
+00:06:48.770 --> 00:06:51.310 align:start position:0%
+learning algorithms and get them to work
+right<00:06:48.950><c> well</c>
+

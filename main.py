@@ -21,7 +21,7 @@ def home():
     search = QueryForm(request.form)
     if request.method == 'POST':
         search_string = request.form['query']
-        data = find_occurances(search_string, "andrew_ng.json")
+        data = find_occurances(search_string, "examples/andrew_ng/andrew_ng.json")
         return render_template('index.html', form=search, name=search_string, data=data)
     return render_template('index.html', form=search)
 

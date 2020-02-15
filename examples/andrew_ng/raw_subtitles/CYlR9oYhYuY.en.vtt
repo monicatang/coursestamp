@@ -1,0 +1,1792 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:02.060 align:start position:0%
+ 
+in<00:00:00.299><c> this</c><00:00:00.719><c> video</c><00:00:01.020><c> I</c><00:00:01.230><c> want</c><00:00:01.410><c> to</c><00:00:01.469><c> give</c><00:00:01.740><c> you</c><00:00:01.860><c> more</c>
+
+00:00:02.060 --> 00:00:02.070 align:start position:0%
+in this video I want to give you more
+ 
+
+00:00:02.070 --> 00:00:03.889 align:start position:0%
+in this video I want to give you more
+practical<00:00:02.760><c> tips</c><00:00:03.030><c> for</c><00:00:03.240><c> getting</c><00:00:03.360><c> gradient</c>
+
+00:00:03.889 --> 00:00:03.899 align:start position:0%
+practical tips for getting gradient
+ 
+
+00:00:03.899 --> 00:00:06.200 align:start position:0%
+practical tips for getting gradient
+descent<00:00:04.200><c> to</c><00:00:04.319><c> work</c><00:00:04.500><c> the</c><00:00:05.220><c> ideas</c><00:00:05.580><c> in</c><00:00:05.759><c> this</c><00:00:05.879><c> video</c>
+
+00:00:06.200 --> 00:00:06.210 align:start position:0%
+descent to work the ideas in this video
+ 
+
+00:00:06.210 --> 00:00:08.059 align:start position:0%
+descent to work the ideas in this video
+will<00:00:06.450><c> center</c><00:00:06.839><c> around</c><00:00:07.049><c> the</c><00:00:07.440><c> learning</c><00:00:07.830><c> rate</c>
+
+00:00:08.059 --> 00:00:08.069 align:start position:0%
+will center around the learning rate
+ 
+
+00:00:08.069 --> 00:00:11.660 align:start position:0%
+will center around the learning rate
+alpha<00:00:09.440><c> concretely</c><00:00:10.440><c> here's</c><00:00:11.070><c> the</c><00:00:11.280><c> gradient</c>
+
+00:00:11.660 --> 00:00:11.670 align:start position:0%
+alpha concretely here's the gradient
+ 
+
+00:00:11.670 --> 00:00:13.970 align:start position:0%
+alpha concretely here's the gradient
+descent<00:00:11.969><c> update</c><00:00:12.090><c> rule</c><00:00:12.630><c> and</c><00:00:12.870><c> what</c><00:00:13.679><c> I</c><00:00:13.710><c> want</c><00:00:13.950><c> to</c>
+
+00:00:13.970 --> 00:00:13.980 align:start position:0%
+descent update rule and what I want to
+ 
+
+00:00:13.980 --> 00:00:16.790 align:start position:0%
+descent update rule and what I want to
+do<00:00:14.160><c> in</c><00:00:14.280><c> this</c><00:00:14.429><c> video</c><00:00:14.580><c> is</c><00:00:14.969><c> tell</c><00:00:15.420><c> you</c><00:00:15.660><c> about</c><00:00:16.320><c> what</c>
+
+00:00:16.790 --> 00:00:16.800 align:start position:0%
+do in this video is tell you about what
+ 
+
+00:00:16.800 --> 00:00:18.830 align:start position:0%
+do in this video is tell you about what
+I<00:00:16.830><c> think</c><00:00:16.949><c> of</c><00:00:17.160><c> as</c><00:00:17.279><c> debugging</c><00:00:17.940><c> and</c><00:00:18.180><c> some</c><00:00:18.630><c> tips</c>
+
+00:00:18.830 --> 00:00:18.840 align:start position:0%
+I think of as debugging and some tips
+ 
+
+00:00:18.840 --> 00:00:20.750 align:start position:0%
+I think of as debugging and some tips
+for<00:00:18.990><c> making</c><00:00:19.109><c> sure</c><00:00:19.350><c> that</c><00:00:19.560><c> gradient</c><00:00:20.250><c> descent</c><00:00:20.580><c> is</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+for making sure that gradient descent is
+ 
+
+00:00:20.760 --> 00:00:23.390 align:start position:0%
+for making sure that gradient descent is
+working<00:00:20.820><c> correctly</c><00:00:21.510><c> and</c><00:00:21.949><c> ii</c><00:00:22.949><c> want</c><00:00:23.100><c> to</c><00:00:23.250><c> tell</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+working correctly and ii want to tell
+ 
+
+00:00:23.400 --> 00:00:25.700 align:start position:0%
+working correctly and ii want to tell
+you<00:00:23.550><c> how</c><00:00:23.880><c> to</c><00:00:23.939><c> choose</c><00:00:24.420><c> the</c><00:00:25.199><c> learning</c><00:00:25.529><c> rate</c>
+
+00:00:25.700 --> 00:00:25.710 align:start position:0%
+you how to choose the learning rate
+ 
+
+00:00:25.710 --> 00:00:28.160 align:start position:0%
+you how to choose the learning rate
+alpha<00:00:25.949><c> at</c><00:00:26.580><c> least</c><00:00:26.760><c> how</c><00:00:26.939><c> i</c><00:00:26.970><c> go</c><00:00:27.480><c> about</c><00:00:27.510><c> choosing</c>
+
+00:00:28.160 --> 00:00:28.170 align:start position:0%
+alpha at least how i go about choosing
+ 
+
+00:00:28.170 --> 00:00:30.620 align:start position:0%
+alpha at least how i go about choosing
+it<00:00:28.470><c> here's</c><00:00:29.400><c> something</c><00:00:29.760><c> that</c><00:00:29.939><c> i</c><00:00:29.970><c> often</c><00:00:30.269><c> do</c><00:00:30.599><c> to</c>
+
+00:00:30.620 --> 00:00:30.630 align:start position:0%
+it here's something that i often do to
+ 
+
+00:00:30.630 --> 00:00:32.269 align:start position:0%
+it here's something that i often do to
+make<00:00:30.990><c> sure</c><00:00:31.230><c> the</c><00:00:31.410><c> gradient</c><00:00:31.800><c> descent</c><00:00:32.130><c> is</c>
+
+00:00:32.269 --> 00:00:32.279 align:start position:0%
+make sure the gradient descent is
+ 
+
+00:00:32.279 --> 00:00:35.060 align:start position:0%
+make sure the gradient descent is
+working<00:00:32.309><c> correctly</c><00:00:33.230><c> the</c><00:00:34.230><c> job</c><00:00:34.500><c> of</c><00:00:34.680><c> gradient</c>
+
+00:00:35.060 --> 00:00:35.070 align:start position:0%
+working correctly the job of gradient
+ 
+
+00:00:35.070 --> 00:00:37.160 align:start position:0%
+working correctly the job of gradient
+descent<00:00:35.399><c> is</c><00:00:35.610><c> to</c><00:00:36.059><c> find</c><00:00:36.510><c> the</c><00:00:36.660><c> value</c><00:00:37.020><c> of</c><00:00:37.079><c> theta</c>
+
+00:00:37.160 --> 00:00:37.170 align:start position:0%
+descent is to find the value of theta
+ 
+
+00:00:37.170 --> 00:00:38.900 align:start position:0%
+descent is to find the value of theta
+for<00:00:37.800><c> you</c><00:00:37.950><c> that</c><00:00:38.309><c> you</c><00:00:38.640><c> know</c><00:00:38.730><c> hopefully</c>
+
+00:00:38.900 --> 00:00:38.910 align:start position:0%
+for you that you know hopefully
+ 
+
+00:00:38.910 --> 00:00:41.830 align:start position:0%
+for you that you know hopefully
+minimizes<00:00:39.690><c> the</c><00:00:39.780><c> cost</c><00:00:39.809><c> function</c><00:00:40.110><c> J</c><00:00:40.440><c> of</c><00:00:40.800><c> theta</c>
+
+00:00:41.830 --> 00:00:41.840 align:start position:0%
+minimizes the cost function J of theta
+ 
+
+00:00:41.840 --> 00:00:45.110 align:start position:0%
+minimizes the cost function J of theta
+what<00:00:42.840><c> I</c><00:00:42.870><c> often</c><00:00:43.230><c> do</c><00:00:43.440><c> is</c><00:00:43.739><c> therefore</c><00:00:44.309><c> plot</c><00:00:44.670><c> the</c>
+
+00:00:45.110 --> 00:00:45.120 align:start position:0%
+what I often do is therefore plot the
+ 
+
+00:00:45.120 --> 00:00:48.529 align:start position:0%
+what I often do is therefore plot the
+cost<00:00:45.390><c> function</c><00:00:45.840><c> J</c><00:00:46.110><c> of</c><00:00:46.140><c> theta</c><00:00:46.289><c> as</c><00:00:47.420><c> creating</c><00:00:48.420><c> the</c>
+
+00:00:48.529 --> 00:00:48.539 align:start position:0%
+cost function J of theta as creating the
+ 
+
+00:00:48.539 --> 00:00:51.410 align:start position:0%
+cost function J of theta as creating the
+center<00:00:48.870><c> runs</c><00:00:49.079><c> so</c><00:00:49.890><c> the</c><00:00:49.920><c> x-axis</c><00:00:50.460><c> here</c><00:00:50.910><c> is</c><00:00:51.180><c> the</c>
+
+00:00:51.410 --> 00:00:51.420 align:start position:0%
+center runs so the x-axis here is the
+ 
+
+00:00:51.420 --> 00:00:52.880 align:start position:0%
+center runs so the x-axis here is the
+number<00:00:51.600><c> of</c><00:00:51.809><c> iterations</c><00:00:52.350><c> of</c><00:00:52.469><c> gradient</c><00:00:52.530><c> descent</c>
+
+00:00:52.880 --> 00:00:52.890 align:start position:0%
+number of iterations of gradient descent
+ 
+
+00:00:52.890 --> 00:00:54.950 align:start position:0%
+number of iterations of gradient descent
+and<00:00:53.430><c> is</c><00:00:53.610><c> creating</c><00:00:53.940><c> descent</c><00:00:54.270><c> runs</c><00:00:54.480><c> you</c>
+
+00:00:54.950 --> 00:00:54.960 align:start position:0%
+and is creating descent runs you
+ 
+
+00:00:54.960 --> 00:00:57.889 align:start position:0%
+and is creating descent runs you
+hopefully<00:00:55.530><c> get</c><00:00:55.770><c> a</c><00:00:55.800><c> plot</c><00:00:56.100><c> that</c><00:00:56.629><c> maybe</c><00:00:57.629><c> look</c>
+
+00:00:57.889 --> 00:00:57.899 align:start position:0%
+hopefully get a plot that maybe look
+ 
+
+00:00:57.899 --> 00:00:59.020 align:start position:0%
+hopefully get a plot that maybe look
+like<00:00:58.140><c> this</c>
+
+00:00:59.020 --> 00:00:59.030 align:start position:0%
+like this
+ 
+
+00:00:59.030 --> 00:01:01.819 align:start position:0%
+like this
+notice<00:01:00.030><c> that</c><00:01:00.239><c> the</c><00:01:00.359><c> x-axis</c><00:01:01.020><c> is</c><00:01:01.050><c> number</c><00:01:01.800><c> of</c>
+
+00:01:01.819 --> 00:01:01.829 align:start position:0%
+notice that the x-axis is number of
+ 
+
+00:01:01.829 --> 00:01:04.189 align:start position:0%
+notice that the x-axis is number of
+iterations<00:01:02.550><c> previously</c><00:01:03.510><c> we</c><00:01:03.690><c> were</c><00:01:03.809><c> looking</c><00:01:04.140><c> at</c>
+
+00:01:04.189 --> 00:01:04.199 align:start position:0%
+iterations previously we were looking at
+ 
+
+00:01:04.199 --> 00:01:07.399 align:start position:0%
+iterations previously we were looking at
+plots<00:01:04.530><c> of</c><00:01:04.830><c> J</c><00:01:05.280><c> of</c><00:01:05.430><c> theta</c><00:01:05.659><c> where</c><00:01:06.659><c> the</c><00:01:06.750><c> x-axis</c>
+
+00:01:07.399 --> 00:01:07.409 align:start position:0%
+plots of J of theta where the x-axis
+ 
+
+00:01:07.409 --> 00:01:09.260 align:start position:0%
+plots of J of theta where the x-axis
+where<00:01:07.590><c> the</c><00:01:07.650><c> horizontal</c><00:01:08.189><c> axis</c><00:01:08.580><c> was</c><00:01:09.119><c> the</c>
+
+00:01:09.260 --> 00:01:09.270 align:start position:0%
+where the horizontal axis was the
+ 
+
+00:01:09.270 --> 00:01:11.750 align:start position:0%
+where the horizontal axis was the
+parameter<00:01:09.780><c> vector</c><00:01:09.960><c> theta</c><00:01:10.320><c> but</c><00:01:11.189><c> this</c><00:01:11.430><c> is</c><00:01:11.580><c> not</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+parameter vector theta but this is not
+ 
+
+00:01:11.760 --> 00:01:14.960 align:start position:0%
+parameter vector theta but this is not
+what<00:01:12.000><c> this</c><00:01:12.150><c> is</c><00:01:12.560><c> concretely</c><00:01:13.560><c> what</c><00:01:14.310><c> this</c><00:01:14.670><c> point</c>
+
+00:01:14.960 --> 00:01:14.970 align:start position:0%
+what this is concretely what this point
+ 
+
+00:01:14.970 --> 00:01:18.679 align:start position:0%
+what this is concretely what this point
+is<00:01:15.210><c> is</c><00:01:16.340><c> I'm</c><00:01:17.340><c> going</c><00:01:17.939><c> to</c><00:01:18.030><c> run</c><00:01:18.270><c> gradient</c><00:01:18.479><c> descent</c>
+
+00:01:18.679 --> 00:01:18.689 align:start position:0%
+is is I'm going to run gradient descent
+ 
+
+00:01:18.689 --> 00:01:21.830 align:start position:0%
+is is I'm going to run gradient descent
+for<00:01:19.140><c> 100</c><00:01:19.530><c> iterations</c><00:01:19.680><c> and</c><00:01:20.340><c> whatever</c><00:01:21.299><c> value</c><00:01:21.810><c> I</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+for 100 iterations and whatever value I
+ 
+
+00:01:21.840 --> 00:01:25.280 align:start position:0%
+for 100 iterations and whatever value I
+get<00:01:22.380><c> for</c><00:01:22.799><c> theta</c><00:01:23.100><c> after</c><00:01:23.729><c> 100</c><00:01:24.119><c> iterations</c><00:01:24.290><c> I'm</c>
+
+00:01:25.280 --> 00:01:25.290 align:start position:0%
+get for theta after 100 iterations I'm
+ 
+
+00:01:25.290 --> 00:01:26.600 align:start position:0%
+get for theta after 100 iterations I'm
+going<00:01:25.409><c> to</c><00:01:25.470><c> get</c><00:01:25.619><c> you</c><00:01:25.770><c> know</c><00:01:25.860><c> some</c><00:01:26.100><c> value</c><00:01:26.549><c> of</c>
+
+00:01:26.600 --> 00:01:26.610 align:start position:0%
+going to get you know some value of
+ 
+
+00:01:26.610 --> 00:01:26.990 align:start position:0%
+going to get you know some value of
+theta
+
+00:01:26.990 --> 00:01:27.000 align:start position:0%
+theta
+ 
+
+00:01:27.000 --> 00:01:29.359 align:start position:0%
+theta
+after<00:01:27.390><c> 100</c><00:01:27.720><c> iterations</c><00:01:27.780><c> and</c><00:01:28.439><c> I'm</c><00:01:29.070><c> going</c><00:01:29.310><c> to</c>
+
+00:01:29.359 --> 00:01:29.369 align:start position:0%
+after 100 iterations and I'm going to
+ 
+
+00:01:29.369 --> 00:01:31.840 align:start position:0%
+after 100 iterations and I'm going to
+evaluate<00:01:29.820><c> the</c><00:01:30.390><c> cost</c><00:01:30.630><c> function</c><00:01:30.840><c> J</c><00:01:31.110><c> of</c><00:01:31.439><c> theta</c>
+
+00:01:31.840 --> 00:01:31.850 align:start position:0%
+evaluate the cost function J of theta
+ 
+
+00:01:31.850 --> 00:01:34.310 align:start position:0%
+evaluate the cost function J of theta
+fold<00:01:32.850><c> the</c><00:01:33.000><c> value</c><00:01:33.299><c> of</c><00:01:33.390><c> theta</c><00:01:33.570><c> I</c><00:01:33.750><c> get</c><00:01:34.020><c> after</c>
+
+00:01:34.310 --> 00:01:34.320 align:start position:0%
+fold the value of theta I get after
+ 
+
+00:01:34.320 --> 00:01:36.740 align:start position:0%
+fold the value of theta I get after
+hundred<00:01:34.619><c> iterations</c><00:01:34.770><c> and</c><00:01:35.340><c> this</c><00:01:36.180><c> vertical</c>
+
+00:01:36.740 --> 00:01:36.750 align:start position:0%
+hundred iterations and this vertical
+ 
+
+00:01:36.750 --> 00:01:39.890 align:start position:0%
+hundred iterations and this vertical
+height<00:01:36.990><c> is</c><00:01:37.259><c> the</c><00:01:37.740><c> value</c><00:01:38.070><c> of</c><00:01:38.130><c> J</c><00:01:38.340><c> of</c><00:01:38.460><c> theta</c><00:01:38.900><c> for</c>
+
+00:01:39.890 --> 00:01:39.900 align:start position:0%
+height is the value of J of theta for
+ 
+
+00:01:39.900 --> 00:01:41.690 align:start position:0%
+height is the value of J of theta for
+the<00:01:40.049><c> value</c><00:01:40.350><c> of</c><00:01:40.439><c> theta</c><00:01:40.619><c> I</c><00:01:40.770><c> got</c><00:01:41.009><c> after</c><00:01:41.220><c> 100</c>
+
+00:01:41.690 --> 00:01:41.700 align:start position:0%
+the value of theta I got after 100
+ 
+
+00:01:41.700 --> 00:01:43.999 align:start position:0%
+the value of theta I got after 100
+iterations<00:01:41.790><c> of</c><00:01:42.240><c> green</c><00:01:42.450><c> descent</c><00:01:42.750><c> and</c><00:01:43.009><c> this</c>
+
+00:01:43.999 --> 00:01:44.009 align:start position:0%
+iterations of green descent and this
+ 
+
+00:01:44.009 --> 00:01:46.940 align:start position:0%
+iterations of green descent and this
+point<00:01:44.280><c> here</c><00:01:44.490><c> that</c><00:01:45.350><c> corresponds</c><00:01:46.350><c> to</c><00:01:46.380><c> the</c><00:01:46.799><c> value</c>
+
+00:01:46.940 --> 00:01:46.950 align:start position:0%
+point here that corresponds to the value
+ 
+
+00:01:46.950 --> 00:01:50.780 align:start position:0%
+point here that corresponds to the value
+of<00:01:47.490><c> J</c><00:01:48.149><c> of</c><00:01:48.270><c> theta</c><00:01:48.560><c> for</c><00:01:49.560><c> the</c><00:01:49.740><c> theta</c><00:01:49.920><c> that</c><00:01:50.399><c> I</c><00:01:50.520><c> get</c>
+
+00:01:50.780 --> 00:01:50.790 align:start position:0%
+of J of theta for the theta that I get
+ 
+
+00:01:50.790 --> 00:01:53.600 align:start position:0%
+of J of theta for the theta that I get
+after<00:01:51.030><c> I've</c><00:01:51.689><c> run</c><00:01:52.200><c> gradient</c><00:01:52.409><c> descent</c><00:01:52.890><c> for</c><00:01:52.950><c> 200</c>
+
+00:01:53.600 --> 00:01:53.610 align:start position:0%
+after I've run gradient descent for 200
+ 
+
+00:01:53.610 --> 00:01:56.480 align:start position:0%
+after I've run gradient descent for 200
+iterations<00:01:54.149><c> so</c><00:01:54.590><c> what</c><00:01:55.590><c> this</c><00:01:55.770><c> plot</c><00:01:55.979><c> is</c><00:01:56.219><c> showing</c>
+
+00:01:56.480 --> 00:01:56.490 align:start position:0%
+iterations so what this plot is showing
+ 
+
+00:01:56.490 --> 00:01:58.580 align:start position:0%
+iterations so what this plot is showing
+is<00:01:56.820><c> assuring</c><00:01:57.329><c> the</c><00:01:57.570><c> value</c><00:01:57.960><c> of</c><00:01:58.229><c> your</c><00:01:58.350><c> cost</c>
+
+00:01:58.580 --> 00:01:58.590 align:start position:0%
+is assuring the value of your cost
+ 
+
+00:01:58.590 --> 00:02:00.649 align:start position:0%
+is assuring the value of your cost
+function<00:01:58.799><c> after</c><00:01:59.219><c> each</c><00:01:59.729><c> iteration</c><00:02:00.030><c> of</c>
+
+00:02:00.649 --> 00:02:00.659 align:start position:0%
+function after each iteration of
+ 
+
+00:02:00.659 --> 00:02:03.080 align:start position:0%
+function after each iteration of
+gradient<00:02:00.750><c> descent</c><00:02:01.170><c> and</c><00:02:01.649><c> a</c><00:02:02.369><c> gradient</c><00:02:02.670><c> descent</c>
+
+00:02:03.080 --> 00:02:03.090 align:start position:0%
+gradient descent and a gradient descent
+ 
+
+00:02:03.090 --> 00:02:05.359 align:start position:0%
+gradient descent and a gradient descent
+is<00:02:03.270><c> working</c><00:02:03.299><c> properly</c><00:02:04.020><c> then</c><00:02:04.920><c> J</c><00:02:05.189><c> of</c><00:02:05.340><c> theta</c>
+
+00:02:05.359 --> 00:02:05.369 align:start position:0%
+is working properly then J of theta
+ 
+
+00:02:05.369 --> 00:02:14.930 align:start position:0%
+is working properly then J of theta
+should<00:02:06.030><c> decrease</c><00:02:07.520><c> after</c><00:02:09.470><c> every</c><00:02:10.470><c> iteration</c>
+
+00:02:14.930 --> 00:02:14.940 align:start position:0%
+ 
+ 
+
+00:02:14.940 --> 00:02:20.160 align:start position:0%
+ 
+and<00:02:17.820><c> one</c><00:02:18.820><c> useful</c><00:02:19.270><c> thing</c><00:02:19.540><c> that</c><00:02:19.570><c> this</c><00:02:19.870><c> sorta</c>
+
+00:02:20.160 --> 00:02:20.170 align:start position:0%
+and one useful thing that this sorta
+ 
+
+00:02:20.170 --> 00:02:22.710 align:start position:0%
+and one useful thing that this sorta
+plug<00:02:20.380><c> can</c><00:02:20.560><c> tell</c><00:02:20.740><c> you</c><00:02:20.890><c> also</c><00:02:21.070><c> is</c><00:02:21.610><c> that</c><00:02:21.640><c> if</c><00:02:22.600><c> you</c>
+
+00:02:22.710 --> 00:02:22.720 align:start position:0%
+plug can tell you also is that if you
+ 
+
+00:02:22.720 --> 00:02:24.390 align:start position:0%
+plug can tell you also is that if you
+look<00:02:22.870><c> at</c><00:02:23.020><c> the</c><00:02:23.170><c> specific</c><00:02:23.770><c> figure</c><00:02:24.190><c> that</c><00:02:24.340><c> I've</c>
+
+00:02:24.390 --> 00:02:24.400 align:start position:0%
+look at the specific figure that I've
+ 
+
+00:02:24.400 --> 00:02:26.550 align:start position:0%
+look at the specific figure that I've
+drawn<00:02:24.640><c> you</c><00:02:24.880><c> know</c><00:02:24.970><c> it</c><00:02:25.150><c> looks</c><00:02:25.360><c> like</c><00:02:25.450><c> by</c><00:02:26.170><c> the</c><00:02:26.230><c> time</c>
+
+00:02:26.550 --> 00:02:26.560 align:start position:0%
+drawn you know it looks like by the time
+ 
+
+00:02:26.560 --> 00:02:28.500 align:start position:0%
+drawn you know it looks like by the time
+you've<00:02:26.770><c> gotten</c><00:02:27.070><c> out</c><00:02:27.520><c> two</c><00:02:27.820><c> maybe</c><00:02:28.180><c> three</c>
+
+00:02:28.500 --> 00:02:28.510 align:start position:0%
+you've gotten out two maybe three
+ 
+
+00:02:28.510 --> 00:02:31.020 align:start position:0%
+you've gotten out two maybe three
+hundred<00:02:28.570><c> iterations</c><00:02:29.320><c> between</c><00:02:29.890><c> 300</c><00:02:30.670><c> and</c><00:02:30.700><c> 400</c>
+
+00:02:31.020 --> 00:02:31.030 align:start position:0%
+hundred iterations between 300 and 400
+ 
+
+00:02:31.030 --> 00:02:33.240 align:start position:0%
+hundred iterations between 300 and 400
+iterations<00:02:31.450><c> in</c><00:02:32.110><c> this</c><00:02:32.320><c> segment</c><00:02:32.830><c> it</c><00:02:32.920><c> looks</c><00:02:33.100><c> like</c>
+
+00:02:33.240 --> 00:02:33.250 align:start position:0%
+iterations in this segment it looks like
+ 
+
+00:02:33.250 --> 00:02:35.940 align:start position:0%
+iterations in this segment it looks like
+J<00:02:33.520><c> of</c><00:02:33.640><c> theta</c><00:02:33.780><c> hasn't</c><00:02:34.780><c> gone</c><00:02:34.900><c> down</c><00:02:34.960><c> much</c><00:02:35.380><c> more</c><00:02:35.680><c> so</c>
+
+00:02:35.940 --> 00:02:35.950 align:start position:0%
+J of theta hasn't gone down much more so
+ 
+
+00:02:35.950 --> 00:02:38.550 align:start position:0%
+J of theta hasn't gone down much more so
+by<00:02:36.190><c> the</c><00:02:36.250><c> time</c><00:02:36.520><c> you</c><00:02:36.730><c> get</c><00:02:36.880><c> to</c><00:02:36.940><c> 400</c><00:02:37.270><c> iterations</c><00:02:38.050><c> it</c>
+
+00:02:38.550 --> 00:02:38.560 align:start position:0%
+by the time you get to 400 iterations it
+ 
+
+00:02:38.560 --> 00:02:40.560 align:start position:0%
+by the time you get to 400 iterations it
+looks<00:02:38.800><c> like</c><00:02:38.950><c> this</c><00:02:39.160><c> curve</c><00:02:39.490><c> has</c><00:02:39.700><c> flattened</c><00:02:40.510><c> out</c>
+
+00:02:40.560 --> 00:02:40.570 align:start position:0%
+looks like this curve has flattened out
+ 
+
+00:02:40.570 --> 00:02:43.800 align:start position:0%
+looks like this curve has flattened out
+here<00:02:41.050><c> and</c><00:02:41.200><c> so</c><00:02:42.150><c> way</c><00:02:43.150><c> out</c><00:02:43.300><c> here</c><00:02:43.510><c> for</c><00:02:43.660><c> one</c>
+
+00:02:43.800 --> 00:02:43.810 align:start position:0%
+here and so way out here for one
+ 
+
+00:02:43.810 --> 00:02:45.210 align:start position:0%
+here and so way out here for one
+generations<00:02:44.350><c> it</c><00:02:44.530><c> looks</c><00:02:44.710><c> like</c><00:02:44.860><c> gradient</c>
+
+00:02:45.210 --> 00:02:45.220 align:start position:0%
+generations it looks like gradient
+ 
+
+00:02:45.220 --> 00:02:46.680 align:start position:0%
+generations it looks like gradient
+descent<00:02:45.280><c> has</c><00:02:45.790><c> more</c><00:02:46.060><c> or</c><00:02:46.090><c> less</c><00:02:46.150><c> converged</c>
+
+00:02:46.680 --> 00:02:46.690 align:start position:0%
+descent has more or less converged
+ 
+
+00:02:46.690 --> 00:02:49.080 align:start position:0%
+descent has more or less converged
+because<00:02:47.140><c> your</c><00:02:47.890><c> cost</c><00:02:48.160><c> function</c><00:02:48.310><c> isn't</c><00:02:48.880><c> going</c>
+
+00:02:49.080 --> 00:02:49.090 align:start position:0%
+because your cost function isn't going
+ 
+
+00:02:49.090 --> 00:02:51.300 align:start position:0%
+because your cost function isn't going
+down<00:02:49.150><c> much</c><00:02:49.510><c> more</c><00:02:49.620><c> so</c><00:02:50.620><c> looking</c><00:02:50.920><c> at</c><00:02:51.010><c> this</c><00:02:51.100><c> figure</c>
+
+00:02:51.300 --> 00:02:51.310 align:start position:0%
+down much more so looking at this figure
+ 
+
+00:02:51.310 --> 00:02:53.910 align:start position:0%
+down much more so looking at this figure
+can<00:02:51.640><c> also</c><00:02:51.820><c> help</c><00:02:52.570><c> you</c><00:02:52.810><c> judge</c><00:02:53.260><c> whether</c><00:02:53.590><c> or</c><00:02:53.710><c> not</c>
+
+00:02:53.910 --> 00:02:53.920 align:start position:0%
+can also help you judge whether or not
+ 
+
+00:02:53.920 --> 00:02:57.750 align:start position:0%
+can also help you judge whether or not
+gradient<00:02:54.430><c> descent</c><00:02:54.730><c> has</c><00:02:55.000><c> converged</c><00:02:56.700><c> by</c><00:02:57.700><c> the</c>
+
+00:02:57.750 --> 00:02:57.760 align:start position:0%
+gradient descent has converged by the
+ 
+
+00:02:57.760 --> 00:02:59.640 align:start position:0%
+gradient descent has converged by the
+way<00:02:57.970><c> the</c><00:02:58.210><c> number</c><00:02:58.510><c> of</c><00:02:58.600><c> iterations</c><00:02:59.440><c> that</c>
+
+00:02:59.640 --> 00:02:59.650 align:start position:0%
+way the number of iterations that
+ 
+
+00:02:59.650 --> 00:03:01.650 align:start position:0%
+way the number of iterations that
+gradient<00:03:00.010><c> descent</c><00:03:00.340><c> takes</c><00:03:00.550><c> to</c><00:03:00.910><c> converge</c><00:03:01.330><c> for</c><00:03:01.600><c> a</c>
+
+00:03:01.650 --> 00:03:01.660 align:start position:0%
+gradient descent takes to converge for a
+ 
+
+00:03:01.660 --> 00:03:04.320 align:start position:0%
+gradient descent takes to converge for a
+particular<00:03:01.900><c> application</c><00:03:02.170><c> can</c><00:03:03.160><c> vary</c><00:03:03.490><c> a</c><00:03:03.610><c> lot</c><00:03:03.880><c> so</c>
+
+00:03:04.320 --> 00:03:04.330 align:start position:0%
+particular application can vary a lot so
+ 
+
+00:03:04.330 --> 00:03:06.030 align:start position:0%
+particular application can vary a lot so
+maybe<00:03:04.510><c> for</c><00:03:04.780><c> one</c><00:03:04.960><c> application</c><00:03:05.110><c> gradient</c>
+
+00:03:06.030 --> 00:03:06.040 align:start position:0%
+maybe for one application gradient
+ 
+
+00:03:06.040 --> 00:03:08.040 align:start position:0%
+maybe for one application gradient
+descent<00:03:06.310><c> be</c><00:03:06.430><c> conversion</c><00:03:06.940><c> after</c><00:03:07.030><c> just</c><00:03:07.810><c> thirty</c>
+
+00:03:08.040 --> 00:03:08.050 align:start position:0%
+descent be conversion after just thirty
+ 
+
+00:03:08.050 --> 00:03:10.860 align:start position:0%
+descent be conversion after just thirty
+iterations<00:03:08.710><c> for</c><00:03:09.340><c> a</c><00:03:09.400><c> different</c><00:03:09.730><c> in</c><00:03:10.180><c> for</c><00:03:10.660><c> your</c>
+
+00:03:10.860 --> 00:03:10.870 align:start position:0%
+iterations for a different in for your
+ 
+
+00:03:10.870 --> 00:03:12.570 align:start position:0%
+iterations for a different in for your
+different<00:03:11.320><c> application</c><00:03:11.860><c> gradient</c><00:03:12.310><c> descent</c>
+
+00:03:12.570 --> 00:03:12.580 align:start position:0%
+different application gradient descent
+ 
+
+00:03:12.580 --> 00:03:15.530 align:start position:0%
+different application gradient descent
+may<00:03:12.730><c> take</c><00:03:12.970><c> 3,000</c><00:03:13.720><c> iterations</c><00:03:14.650><c> for</c><00:03:15.250><c> another</c>
+
+00:03:15.530 --> 00:03:15.540 align:start position:0%
+may take 3,000 iterations for another
+ 
+
+00:03:15.540 --> 00:03:17.940 align:start position:0%
+may take 3,000 iterations for another
+algorithm<00:03:16.540><c> for</c><00:03:16.959><c> another</c><00:03:17.200><c> learning</c><00:03:17.560><c> algorithm</c>
+
+00:03:17.940 --> 00:03:17.950 align:start position:0%
+algorithm for another learning algorithm
+ 
+
+00:03:17.950 --> 00:03:20.070 align:start position:0%
+algorithm for another learning algorithm
+it<00:03:18.130><c> may</c><00:03:18.250><c> take</c><00:03:18.490><c> three</c><00:03:18.520><c> million</c><00:03:19.120><c> iterations</c><00:03:19.690><c> it</c>
+
+00:03:20.070 --> 00:03:20.080 align:start position:0%
+it may take three million iterations it
+ 
+
+00:03:20.080 --> 00:03:22.199 align:start position:0%
+it may take three million iterations it
+turns<00:03:20.350><c> out</c><00:03:20.530><c> to</c><00:03:20.650><c> be</c><00:03:20.680><c> very</c><00:03:20.770><c> difficult</c><00:03:21.580><c> to</c><00:03:22.000><c> tell</c>
+
+00:03:22.199 --> 00:03:22.209 align:start position:0%
+turns out to be very difficult to tell
+ 
+
+00:03:22.209 --> 00:03:24.240 align:start position:0%
+turns out to be very difficult to tell
+in<00:03:22.330><c> advance</c><00:03:22.420><c> how</c><00:03:23.020><c> many</c><00:03:23.170><c> iterations</c><00:03:23.350><c> gradient</c>
+
+00:03:24.240 --> 00:03:24.250 align:start position:0%
+in advance how many iterations gradient
+ 
+
+00:03:24.250 --> 00:03:26.340 align:start position:0%
+in advance how many iterations gradient
+descent<00:03:24.550><c> needs</c><00:03:24.700><c> to</c><00:03:24.790><c> converge</c><00:03:25.180><c> and</c><00:03:25.450><c> it's</c>
+
+00:03:26.340 --> 00:03:26.350 align:start position:0%
+descent needs to converge and it's
+ 
+
+00:03:26.350 --> 00:03:28.230 align:start position:0%
+descent needs to converge and it's
+usually<00:03:26.770><c> by</c><00:03:27.010><c> plotting</c><00:03:27.280><c> this</c><00:03:27.700><c> sort</c><00:03:27.910><c> of</c><00:03:28.000><c> plot</c>
+
+00:03:28.230 --> 00:03:28.240 align:start position:0%
+usually by plotting this sort of plot
+ 
+
+00:03:28.240 --> 00:03:31.380 align:start position:0%
+usually by plotting this sort of plot
+plotting<00:03:29.170><c> the</c><00:03:29.380><c> cost</c><00:03:29.620><c> function</c><00:03:29.770><c> as</c><00:03:30.220><c> as</c><00:03:30.520><c> being</c>
+
+00:03:31.380 --> 00:03:31.390 align:start position:0%
+plotting the cost function as as being
+ 
+
+00:03:31.390 --> 00:03:32.940 align:start position:0%
+plotting the cost function as as being
+increasing<00:03:31.870><c> number</c><00:03:32.110><c> of</c><00:03:32.140><c> iterations</c><00:03:32.709><c> is</c>
+
+00:03:32.940 --> 00:03:32.950 align:start position:0%
+increasing number of iterations is
+ 
+
+00:03:32.950 --> 00:03:34.500 align:start position:0%
+increasing number of iterations is
+usually<00:03:33.250><c> by</c><00:03:33.370><c> looking</c><00:03:33.670><c> at</c><00:03:33.730><c> these</c><00:03:33.910><c> parts</c><00:03:34.300><c> like</c>
+
+00:03:34.500 --> 00:03:34.510 align:start position:0%
+usually by looking at these parts like
+ 
+
+00:03:34.510 --> 00:03:36.390 align:start position:0%
+usually by looking at these parts like
+that<00:03:34.840><c> I</c><00:03:34.870><c> try</c><00:03:35.140><c> to</c><00:03:35.170><c> tell</c><00:03:35.470><c> if</c><00:03:35.709><c> gradient</c><00:03:36.100><c> descent</c>
+
+00:03:36.390 --> 00:03:36.400 align:start position:0%
+that I try to tell if gradient descent
+ 
+
+00:03:36.400 --> 00:03:39.690 align:start position:0%
+that I try to tell if gradient descent
+has<00:03:36.580><c> converged</c><00:03:37.480><c> it</c><00:03:38.110><c> is</c><00:03:38.770><c> also</c><00:03:39.070><c> possible</c><00:03:39.640><c> to</c>
+
+00:03:39.690 --> 00:03:39.700 align:start position:0%
+has converged it is also possible to
+ 
+
+00:03:39.700 --> 00:03:41.910 align:start position:0%
+has converged it is also possible to
+come<00:03:40.090><c> up</c><00:03:40.120><c> with</c><00:03:40.360><c> automatic</c><00:03:40.930><c> convergence</c><00:03:41.590><c> test</c>
+
+00:03:41.910 --> 00:03:41.920 align:start position:0%
+come up with automatic convergence test
+ 
+
+00:03:41.920 --> 00:03:44.670 align:start position:0%
+come up with automatic convergence test
+namely<00:03:42.730><c> to</c><00:03:42.940><c> have</c><00:03:43.060><c> an</c><00:03:43.180><c> algorithm</c><00:03:43.450><c> try</c><00:03:44.320><c> to</c><00:03:44.380><c> tell</c>
+
+00:03:44.670 --> 00:03:44.680 align:start position:0%
+namely to have an algorithm try to tell
+ 
+
+00:03:44.680 --> 00:03:47.310 align:start position:0%
+namely to have an algorithm try to tell
+you<00:03:44.860><c> if</c><00:03:45.330><c> gradient</c><00:03:46.330><c> descent</c><00:03:46.630><c> has</c><00:03:46.840><c> converged</c>
+
+00:03:47.310 --> 00:03:47.320 align:start position:0%
+you if gradient descent has converged
+ 
+
+00:03:47.320 --> 00:03:49.230 align:start position:0%
+you if gradient descent has converged
+and<00:03:47.590><c> here's</c><00:03:47.980><c> that</c><00:03:48.190><c> may</c><00:03:48.520><c> be</c><00:03:48.580><c> a</c><00:03:48.670><c> pretty</c><00:03:49.000><c> typical</c>
+
+00:03:49.230 --> 00:03:49.240 align:start position:0%
+and here's that may be a pretty typical
+ 
+
+00:03:49.240 --> 00:03:51.540 align:start position:0%
+and here's that may be a pretty typical
+example<00:03:50.050><c> of</c><00:03:50.110><c> an</c><00:03:50.260><c> automatic</c><00:03:50.440><c> convergence</c><00:03:51.220><c> test</c>
+
+00:03:51.540 --> 00:03:51.550 align:start position:0%
+example of an automatic convergence test
+ 
+
+00:03:51.550 --> 00:03:54.840 align:start position:0%
+example of an automatic convergence test
+and<00:03:52.030><c> such</c><00:03:52.630><c> a</c><00:03:52.660><c> test</c><00:03:53.020><c> may</c><00:03:53.230><c> declare</c><00:03:54.220><c> convergence</c>
+
+00:03:54.840 --> 00:03:54.850 align:start position:0%
+and such a test may declare convergence
+ 
+
+00:03:54.850 --> 00:03:56.370 align:start position:0%
+and such a test may declare convergence
+if<00:03:55.150><c> your</c><00:03:55.420><c> cost</c><00:03:55.660><c> function</c><00:03:55.810><c> J</c><00:03:56.230><c> of</c><00:03:56.260><c> theta</c>
+
+00:03:56.370 --> 00:03:56.380 align:start position:0%
+if your cost function J of theta
+ 
+
+00:03:56.380 --> 00:03:59.310 align:start position:0%
+if your cost function J of theta
+decreases<00:03:57.220><c> by</c><00:03:57.910><c> less</c><00:03:58.180><c> than</c><00:03:58.209><c> some</c><00:03:58.630><c> small</c><00:03:58.990><c> value</c>
+
+00:03:59.310 --> 00:03:59.320 align:start position:0%
+decreases by less than some small value
+ 
+
+00:03:59.320 --> 00:04:01.440 align:start position:0%
+decreases by less than some small value
+some<00:03:59.860><c> small</c><00:04:00.160><c> value</c><00:04:00.310><c> epsilon</c><00:04:01.000><c> some</c><00:04:01.420><c> small</c>
+
+00:04:01.440 --> 00:04:01.450 align:start position:0%
+some small value epsilon some small
+ 
+
+00:04:01.450 --> 00:04:03.810 align:start position:0%
+some small value epsilon some small
+value<00:04:01.900><c> ten</c><00:04:02.290><c> to</c><00:04:02.380><c> the</c><00:04:02.440><c> minus</c><00:04:02.500><c> three</c><00:04:02.950><c> in</c><00:04:03.250><c> one</c>
+
+00:04:03.810 --> 00:04:03.820 align:start position:0%
+value ten to the minus three in one
+ 
+
+00:04:03.820 --> 00:04:07.080 align:start position:0%
+value ten to the minus three in one
+iteration<00:04:04.410><c> but</c><00:04:05.410><c> I</c><00:04:05.770><c> find</c><00:04:06.250><c> that</c><00:04:06.370><c> usually</c>
+
+00:04:07.080 --> 00:04:07.090 align:start position:0%
+iteration but I find that usually
+ 
+
+00:04:07.090 --> 00:04:09.270 align:start position:0%
+iteration but I find that usually
+choosing<00:04:07.600><c> what</c><00:04:08.110><c> this</c><00:04:08.320><c> threshold</c><00:04:08.620><c> is</c><00:04:09.070><c> is</c>
+
+00:04:09.270 --> 00:04:09.280 align:start position:0%
+choosing what this threshold is is
+ 
+
+00:04:09.280 --> 00:04:11.820 align:start position:0%
+choosing what this threshold is is
+pretty<00:04:09.459><c> difficult</c><00:04:09.790><c> and</c><00:04:10.270><c> so</c><00:04:10.900><c> in</c><00:04:11.200><c> order</c><00:04:11.590><c> to</c>
+
+00:04:11.820 --> 00:04:11.830 align:start position:0%
+pretty difficult and so in order to
+ 
+
+00:04:11.830 --> 00:04:12.900 align:start position:0%
+pretty difficult and so in order to
+check<00:04:12.010><c> your</c><00:04:12.070><c> gradient</c><00:04:12.220><c> descent</c><00:04:12.790><c> this</c>
+
+00:04:12.900 --> 00:04:12.910 align:start position:0%
+check your gradient descent this
+ 
+
+00:04:12.910 --> 00:04:15.240 align:start position:0%
+check your gradient descent this
+converge<00:04:13.270><c> I</c><00:04:13.540><c> actually</c><00:04:14.260><c> tend</c><00:04:14.620><c> to</c><00:04:14.800><c> look</c><00:04:15.040><c> at</c>
+
+00:04:15.240 --> 00:04:15.250 align:start position:0%
+converge I actually tend to look at
+ 
+
+00:04:15.250 --> 00:04:17.580 align:start position:0%
+converge I actually tend to look at
+plots<00:04:15.640><c> like</c><00:04:15.880><c> these</c><00:04:16.150><c> like</c><00:04:16.900><c> this</c><00:04:17.080><c> figure</c><00:04:17.380><c> on</c><00:04:17.440><c> the</c>
+
+00:04:17.580 --> 00:04:17.590 align:start position:0%
+plots like these like this figure on the
+ 
+
+00:04:17.590 --> 00:04:19.370 align:start position:0%
+plots like these like this figure on the
+left<00:04:17.799><c> rather</c><00:04:18.070><c> than</c><00:04:18.310><c> rely</c><00:04:18.580><c> on</c><00:04:18.609><c> and</c><00:04:19.030><c> what</c>
+
+00:04:19.370 --> 00:04:19.380 align:start position:0%
+left rather than rely on and what
+ 
+
+00:04:19.380 --> 00:04:22.250 align:start position:0%
+left rather than rely on and what
+Mattek<00:04:19.680><c> convergence</c><00:04:20.610><c> test</c><00:04:20.989><c> looking</c><00:04:21.989><c> at</c><00:04:22.110><c> this</c>
+
+00:04:22.250 --> 00:04:22.260 align:start position:0%
+Mattek convergence test looking at this
+ 
+
+00:04:22.260 --> 00:04:24.350 align:start position:0%
+Mattek convergence test looking at this
+older<00:04:22.530><c> figure</c><00:04:22.830><c> can</c><00:04:23.130><c> also</c><00:04:23.280><c> tell</c><00:04:23.730><c> you</c><00:04:23.970><c> or</c><00:04:24.180><c> give</c>
+
+00:04:24.350 --> 00:04:24.360 align:start position:0%
+older figure can also tell you or give
+ 
+
+00:04:24.360 --> 00:04:26.270 align:start position:0%
+older figure can also tell you or give
+you<00:04:24.390><c> an</c><00:04:24.540><c> advance</c><00:04:24.810><c> warning</c><00:04:24.960><c> if</c><00:04:25.470><c> maybe</c><00:04:25.710><c> gradient</c>
+
+00:04:26.270 --> 00:04:26.280 align:start position:0%
+you an advance warning if maybe gradient
+ 
+
+00:04:26.280 --> 00:04:28.330 align:start position:0%
+you an advance warning if maybe gradient
+descent<00:04:26.580><c> is</c><00:04:26.790><c> not</c><00:04:26.820><c> working</c><00:04:27.540><c> correctly</c>
+
+00:04:28.330 --> 00:04:28.340 align:start position:0%
+descent is not working correctly
+ 
+
+00:04:28.340 --> 00:04:31.130 align:start position:0%
+descent is not working correctly
+concretely<00:04:29.340><c> if</c><00:04:29.610><c> you</c><00:04:29.670><c> plot</c><00:04:30.030><c> J</c><00:04:30.060><c> of</c><00:04:30.420><c> theta</c><00:04:30.450><c> as</c><00:04:30.870><c> a</c>
+
+00:04:31.130 --> 00:04:31.140 align:start position:0%
+concretely if you plot J of theta as a
+ 
+
+00:04:31.140 --> 00:04:32.740 align:start position:0%
+concretely if you plot J of theta as a
+function<00:04:31.650><c> of</c><00:04:31.740><c> the</c><00:04:31.860><c> number</c><00:04:32.010><c> of</c><00:04:32.160><c> iterations</c>
+
+00:04:32.740 --> 00:04:32.750 align:start position:0%
+function of the number of iterations
+ 
+
+00:04:32.750 --> 00:04:35.480 align:start position:0%
+function of the number of iterations
+then<00:04:33.750><c> and</c><00:04:34.140><c> if</c><00:04:34.650><c> you</c><00:04:34.770><c> see</c><00:04:34.980><c> a</c><00:04:35.010><c> figure</c><00:04:35.220><c> like</c><00:04:35.340><c> this</c>
+
+00:04:35.480 --> 00:04:35.490 align:start position:0%
+then and if you see a figure like this
+ 
+
+00:04:35.490 --> 00:04:37.520 align:start position:0%
+then and if you see a figure like this
+where<00:04:35.970><c> J</c><00:04:36.180><c> of</c><00:04:36.300><c> theta</c><00:04:36.330><c> is</c><00:04:36.780><c> actually</c><00:04:37.080><c> increasing</c>
+
+00:04:37.520 --> 00:04:37.530 align:start position:0%
+where J of theta is actually increasing
+ 
+
+00:04:37.530 --> 00:04:40.250 align:start position:0%
+where J of theta is actually increasing
+then<00:04:38.400><c> that</c><00:04:38.820><c> gives</c><00:04:39.030><c> you</c><00:04:39.210><c> a</c><00:04:39.270><c> clear</c><00:04:39.570><c> sign</c><00:04:39.900><c> that</c>
+
+00:04:40.250 --> 00:04:40.260 align:start position:0%
+then that gives you a clear sign that
+ 
+
+00:04:40.260 --> 00:04:43.460 align:start position:0%
+then that gives you a clear sign that
+gradient<00:04:40.710><c> descent</c><00:04:41.040><c> is</c><00:04:41.280><c> not</c><00:04:41.310><c> working</c><00:04:42.180><c> and</c><00:04:42.470><c> I</c>
+
+00:04:43.460 --> 00:04:43.470 align:start position:0%
+gradient descent is not working and I
+ 
+
+00:04:43.470 --> 00:04:45.410 align:start position:0%
+gradient descent is not working and I
+figured<00:04:43.920><c> like</c><00:04:44.010><c> this</c><00:04:44.250><c> usually</c><00:04:44.940><c> means</c><00:04:45.180><c> that</c><00:04:45.270><c> you</c>
+
+00:04:45.410 --> 00:04:45.420 align:start position:0%
+figured like this usually means that you
+ 
+
+00:04:45.420 --> 00:04:48.230 align:start position:0%
+figured like this usually means that you
+should<00:04:45.750><c> be</c><00:04:45.870><c> using</c><00:04:45.900><c> a</c><00:04:46.320><c> learning</c><00:04:46.500><c> rate</c><00:04:46.800><c> alpha</c><00:04:47.240><c> if</c>
+
+00:04:48.230 --> 00:04:48.240 align:start position:0%
+should be using a learning rate alpha if
+ 
+
+00:04:48.240 --> 00:04:50.990 align:start position:0%
+should be using a learning rate alpha if
+J<00:04:48.750><c> of</c><00:04:48.870><c> theta</c><00:04:48.900><c> is</c><00:04:49.290><c> actually</c><00:04:49.440><c> increasing</c><00:04:50.070><c> the</c>
+
+00:04:50.990 --> 00:04:51.000 align:start position:0%
+J of theta is actually increasing the
+ 
+
+00:04:51.000 --> 00:04:53.420 align:start position:0%
+J of theta is actually increasing the
+most<00:04:51.210><c> common</c><00:04:51.630><c> cause</c><00:04:51.870><c> for</c><00:04:51.900><c> that</c><00:04:52.140><c> is</c><00:04:52.620><c> if</c><00:04:53.010><c> you</c><00:04:53.370><c> are</c>
+
+00:04:53.420 --> 00:04:53.430 align:start position:0%
+most common cause for that is if you are
+ 
+
+00:04:53.430 --> 00:04:55.190 align:start position:0%
+most common cause for that is if you are
+maybe<00:04:53.850><c> trying</c><00:04:54.240><c> to</c><00:04:54.390><c> minimize</c><00:04:54.780><c> the</c><00:04:55.020><c> function</c>
+
+00:04:55.190 --> 00:04:55.200 align:start position:0%
+maybe trying to minimize the function
+ 
+
+00:04:55.200 --> 00:04:59.660 align:start position:0%
+maybe trying to minimize the function
+that<00:04:55.620><c> Tom</c><00:04:56.450><c> maybe</c><00:04:57.450><c> looks</c><00:04:57.720><c> like</c><00:04:57.870><c> this</c><00:04:58.490><c> but</c><00:04:59.490><c> if</c>
+
+00:04:59.660 --> 00:04:59.670 align:start position:0%
+that Tom maybe looks like this but if
+ 
+
+00:04:59.670 --> 00:05:01.490 align:start position:0%
+that Tom maybe looks like this but if
+your<00:04:59.790><c> learning</c><00:04:59.940><c> rate</c><00:05:00.270><c> is</c><00:05:00.300><c> too</c><00:05:00.480><c> big</c><00:05:00.870><c> then</c><00:05:01.170><c> if</c>
+
+00:05:01.490 --> 00:05:01.500 align:start position:0%
+your learning rate is too big then if
+ 
+
+00:05:01.500 --> 00:05:03.320 align:start position:0%
+your learning rate is too big then if
+you<00:05:01.620><c> start</c><00:05:01.890><c> off</c><00:05:02.070><c> their</c><00:05:02.370><c> grading</c><00:05:02.910><c> descent</c><00:05:03.150><c> may</c>
+
+00:05:03.320 --> 00:05:03.330 align:start position:0%
+you start off their grading descent may
+ 
+
+00:05:03.330 --> 00:05:05.570 align:start position:0%
+you start off their grading descent may
+overshoots<00:05:03.990><c> the</c><00:05:04.260><c> minimum</c><00:05:04.650><c> and</c><00:05:04.890><c> send</c><00:05:05.460><c> you</c>
+
+00:05:05.570 --> 00:05:05.580 align:start position:0%
+overshoots the minimum and send you
+ 
+
+00:05:05.580 --> 00:05:07.460 align:start position:0%
+overshoots the minimum and send you
+there<00:05:05.790><c> and</c><00:05:05.970><c> if</c><00:05:06.450><c> the</c><00:05:06.780><c> learner</c><00:05:06.960><c> is</c><00:05:07.140><c> too</c><00:05:07.290><c> big</c><00:05:07.440><c> you</c>
+
+00:05:07.460 --> 00:05:07.470 align:start position:0%
+there and if the learner is too big you
+ 
+
+00:05:07.470 --> 00:05:09.080 align:start position:0%
+there and if the learner is too big you
+may<00:05:07.620><c> overshoot</c><00:05:08.100><c> again</c><00:05:08.430><c> and</c><00:05:08.700><c> then</c><00:05:08.820><c> send</c><00:05:09.060><c> you</c>
+
+00:05:09.080 --> 00:05:09.090 align:start position:0%
+may overshoot again and then send you
+ 
+
+00:05:09.090 --> 00:05:12.410 align:start position:0%
+may overshoot again and then send you
+there<00:05:09.360><c> and</c><00:05:10.230><c> so</c><00:05:10.650><c> on</c><00:05:10.860><c> so</c><00:05:11.670><c> that</c><00:05:11.700><c> you</c><00:05:12.150><c> know</c><00:05:12.240><c> well</c>
+
+00:05:12.410 --> 00:05:12.420 align:start position:0%
+there and so on so that you know well
+ 
+
+00:05:12.420 --> 00:05:13.970 align:start position:0%
+there and so on so that you know well
+what<00:05:12.540><c> you</c><00:05:12.690><c> really</c><00:05:12.840><c> wanted</c><00:05:13.290><c> was</c><00:05:13.410><c> really</c><00:05:13.710><c> start</c>
+
+00:05:13.970 --> 00:05:13.980 align:start position:0%
+what you really wanted was really start
+ 
+
+00:05:13.980 --> 00:05:16.640 align:start position:0%
+what you really wanted was really start
+here<00:05:14.310><c> and</c><00:05:14.460><c> for</c><00:05:15.090><c> it</c><00:05:15.180><c> to</c><00:05:15.240><c> slowly</c><00:05:16.080><c> go</c><00:05:16.350><c> downhill</c>
+
+00:05:16.640 --> 00:05:16.650 align:start position:0%
+here and for it to slowly go downhill
+ 
+
+00:05:16.650 --> 00:05:19.700 align:start position:0%
+here and for it to slowly go downhill
+right<00:05:17.490><c> but</c><00:05:18.090><c> the</c><00:05:18.360><c> learning</c><00:05:18.570><c> rate</c><00:05:18.780><c> is</c><00:05:18.840><c> too</c><00:05:18.990><c> big</c>
+
+00:05:19.700 --> 00:05:19.710 align:start position:0%
+right but the learning rate is too big
+ 
+
+00:05:19.710 --> 00:05:21.950 align:start position:0%
+right but the learning rate is too big
+then<00:05:20.100><c> gradient</c><00:05:20.370><c> descent</c><00:05:20.820><c> can</c><00:05:21.060><c> instead</c><00:05:21.450><c> you</c>
+
+00:05:21.950 --> 00:05:21.960 align:start position:0%
+then gradient descent can instead you
+ 
+
+00:05:21.960 --> 00:05:24.440 align:start position:0%
+then gradient descent can instead you
+know<00:05:22.050><c> keep</c><00:05:22.350><c> on</c><00:05:22.470><c> overshooting</c><00:05:23.100><c> the</c><00:05:23.460><c> minimum</c><00:05:24.210><c> so</c>
+
+00:05:24.440 --> 00:05:24.450 align:start position:0%
+know keep on overshooting the minimum so
+ 
+
+00:05:24.450 --> 00:05:26.660 align:start position:0%
+know keep on overshooting the minimum so
+that<00:05:24.480><c> you</c><00:05:25.110><c> actually</c><00:05:25.260><c> end</c><00:05:25.620><c> up</c><00:05:25.800><c> getting</c><00:05:26.010><c> worse</c>
+
+00:05:26.660 --> 00:05:26.670 align:start position:0%
+that you actually end up getting worse
+ 
+
+00:05:26.670 --> 00:05:28.100 align:start position:0%
+that you actually end up getting worse
+and<00:05:26.880><c> worse</c><00:05:26.940><c> sort</c><00:05:27.450><c> of</c><00:05:27.510><c> getting</c><00:05:27.720><c> to</c><00:05:27.780><c> higher</c>
+
+00:05:28.100 --> 00:05:28.110 align:start position:0%
+and worse sort of getting to higher
+ 
+
+00:05:28.110 --> 00:05:29.900 align:start position:0%
+and worse sort of getting to higher
+values<00:05:28.680><c> of</c><00:05:28.710><c> the</c><00:05:28.890><c> cost</c><00:05:28.950><c> function</c><00:05:29.550><c> J</c><00:05:29.700><c> of</c><00:05:29.730><c> theta</c>
+
+00:05:29.900 --> 00:05:29.910 align:start position:0%
+values of the cost function J of theta
+ 
+
+00:05:29.910 --> 00:05:32.000 align:start position:0%
+values of the cost function J of theta
+so<00:05:30.840><c> do</c><00:05:30.990><c> you</c><00:05:31.050><c> end</c><00:05:31.200><c> up</c><00:05:31.350><c> with</c><00:05:31.500><c> a</c><00:05:31.590><c> plot</c><00:05:31.740><c> like</c><00:05:31.980><c> this</c>
+
+00:05:32.000 --> 00:05:32.010 align:start position:0%
+so do you end up with a plot like this
+ 
+
+00:05:32.010 --> 00:05:34.280 align:start position:0%
+so do you end up with a plot like this
+and<00:05:32.400><c> if</c><00:05:33.150><c> you</c><00:05:33.270><c> see</c><00:05:33.450><c> a</c><00:05:33.480><c> plot</c><00:05:33.690><c> like</c><00:05:33.840><c> this</c><00:05:33.870><c> the</c><00:05:34.050><c> fix</c>
+
+00:05:34.280 --> 00:05:34.290 align:start position:0%
+and if you see a plot like this the fix
+ 
+
+00:05:34.290 --> 00:05:37.190 align:start position:0%
+and if you see a plot like this the fix
+usually<00:05:34.920><c> is</c><00:05:35.160><c> to</c><00:05:35.460><c> just</c><00:05:36.090><c> use</c><00:05:36.270><c> a</c><00:05:36.300><c> smaller</c><00:05:36.900><c> value</c>
+
+00:05:37.190 --> 00:05:37.200 align:start position:0%
+usually is to just use a smaller value
+ 
+
+00:05:37.200 --> 00:05:39.860 align:start position:0%
+usually is to just use a smaller value
+of<00:05:37.470><c> alpha</c><00:05:37.710><c> oh</c><00:05:38.340><c> and</c><00:05:38.910><c> also</c><00:05:39.030><c> of</c><00:05:39.360><c> course</c><00:05:39.390><c> make</c><00:05:39.660><c> sure</c>
+
+00:05:39.860 --> 00:05:39.870 align:start position:0%
+of alpha oh and also of course make sure
+ 
+
+00:05:39.870 --> 00:05:41.690 align:start position:0%
+of alpha oh and also of course make sure
+that<00:05:40.170><c> your</c><00:05:40.410><c> code</c><00:05:40.620><c> does</c><00:05:40.860><c> not</c><00:05:40.890><c> have</c><00:05:41.160><c> a</c><00:05:41.190><c> bug</c><00:05:41.430><c> in</c><00:05:41.610><c> it</c>
+
+00:05:41.690 --> 00:05:41.700 align:start position:0%
+that your code does not have a bug in it
+ 
+
+00:05:41.700 --> 00:05:43.820 align:start position:0%
+that your code does not have a bug in it
+but<00:05:41.970><c> usually</c><00:05:42.570><c> to</c><00:05:42.600><c> watch</c><00:05:43.050><c> a</c><00:05:43.230><c> value</c><00:05:43.500><c> of</c><00:05:43.590><c> alpha</c>
+
+00:05:43.820 --> 00:05:43.830 align:start position:0%
+but usually to watch a value of alpha
+ 
+
+00:05:43.830 --> 00:05:46.010 align:start position:0%
+but usually to watch a value of alpha
+this<00:05:44.250><c> is</c><00:05:44.520><c> the</c><00:05:44.670><c> most</c><00:05:44.820><c> common</c><00:05:45.180><c> but</c><00:05:45.300><c> it</c><00:05:45.570><c> could</c><00:05:45.930><c> be</c>
+
+00:05:46.010 --> 00:05:46.020 align:start position:0%
+this is the most common but it could be
+ 
+
+00:05:46.020 --> 00:05:50.450 align:start position:0%
+this is the most common but it could be
+a<00:05:46.050><c> common</c><00:05:46.380><c> problem</c><00:05:48.530><c> similarly</c><00:05:49.530><c> sometimes</c><00:05:50.040><c> you</c>
+
+00:05:50.450 --> 00:05:50.460 align:start position:0%
+a common problem similarly sometimes you
+ 
+
+00:05:50.460 --> 00:05:52.640 align:start position:0%
+a common problem similarly sometimes you
+may<00:05:50.550><c> also</c><00:05:50.790><c> see</c><00:05:51.300><c> J</c><00:05:51.570><c> of</c><00:05:51.690><c> theta</c><00:05:51.720><c> do</c><00:05:52.320><c> something</c>
+
+00:05:52.640 --> 00:05:52.650 align:start position:0%
+may also see J of theta do something
+ 
+
+00:05:52.650 --> 00:05:53.960 align:start position:0%
+may also see J of theta do something
+like<00:05:52.770><c> this</c><00:05:52.920><c> and</c><00:05:53.160><c> we</c><00:05:53.220><c> go</c><00:05:53.370><c> down</c><00:05:53.550><c> for</c><00:05:53.790><c> a</c><00:05:53.820><c> while</c>
+
+00:05:53.960 --> 00:05:53.970 align:start position:0%
+like this and we go down for a while
+ 
+
+00:05:53.970 --> 00:05:55.970 align:start position:0%
+like this and we go down for a while
+then<00:05:54.210><c> go</c><00:05:54.360><c> up</c><00:05:54.540><c> then</c><00:05:54.900><c> go</c><00:05:55.050><c> down</c><00:05:55.200><c> for</c><00:05:55.470><c> a</c><00:05:55.500><c> while</c><00:05:55.650><c> and</c>
+
+00:05:55.970 --> 00:05:55.980 align:start position:0%
+then go up then go down for a while and
+ 
+
+00:05:55.980 --> 00:05:58.070 align:start position:0%
+then go up then go down for a while and
+go<00:05:56.100><c> up</c><00:05:56.280><c> go</c><00:05:56.490><c> down</c><00:05:56.670><c> for</c><00:05:56.940><c> a</c><00:05:56.970><c> while</c><00:05:57.120><c> go</c><00:05:57.360><c> up</c><00:05:57.510><c> and</c><00:05:57.810><c> so</c>
+
+00:05:58.070 --> 00:05:58.080 align:start position:0%
+go up go down for a while go up and so
+ 
+
+00:05:58.080 --> 00:06:00.260 align:start position:0%
+go up go down for a while go up and so
+on<00:05:58.260><c> and</c><00:05:58.500><c> the</c><00:05:59.280><c> fix</c><00:05:59.520><c> for</c><00:05:59.610><c> something</c><00:06:00.000><c> like</c><00:06:00.120><c> this</c>
+
+00:06:00.260 --> 00:06:00.270 align:start position:0%
+on and the fix for something like this
+ 
+
+00:06:00.270 --> 00:06:03.010 align:start position:0%
+on and the fix for something like this
+is<00:06:00.510><c> also</c><00:06:00.960><c> to</c><00:06:01.620><c> use</c><00:06:01.800><c> a</c><00:06:01.830><c> smaller</c><00:06:02.220><c> value</c><00:06:02.370><c> of</c><00:06:02.760><c> alpha</c>
+
+00:06:03.010 --> 00:06:03.020 align:start position:0%
+is also to use a smaller value of alpha
+ 
+
+00:06:03.020 --> 00:06:05.870 align:start position:0%
+is also to use a smaller value of alpha
+I'm<00:06:04.020><c> not</c><00:06:04.410><c> going</c><00:06:04.620><c> to</c><00:06:04.710><c> prove</c><00:06:04.920><c> it</c><00:06:05.070><c> here</c><00:06:05.310><c> but</c><00:06:05.520><c> under</c>
+
+00:06:05.870 --> 00:06:05.880 align:start position:0%
+I'm not going to prove it here but under
+ 
+
+00:06:05.880 --> 00:06:07.430 align:start position:0%
+I'm not going to prove it here but under
+mouth<00:06:06.090><c> assumptions</c><00:06:06.660><c> about</c><00:06:06.930><c> the</c><00:06:07.230><c> cost</c>
+
+00:06:07.430 --> 00:06:07.440 align:start position:0%
+mouth assumptions about the cost
+ 
+
+00:06:07.440 --> 00:06:09.560 align:start position:0%
+mouth assumptions about the cost
+function<00:06:07.620><c> J</c><00:06:07.890><c> which</c><00:06:08.670><c> that's</c><00:06:08.850><c> how</c><00:06:09.060><c> true</c><00:06:09.330><c> for</c>
+
+00:06:09.560 --> 00:06:09.570 align:start position:0%
+function J which that's how true for
+ 
+
+00:06:09.570 --> 00:06:11.750 align:start position:0%
+function J which that's how true for
+linear<00:06:09.810><c> regression</c><00:06:10.290><c> you</c><00:06:10.980><c> can</c><00:06:11.220><c> show</c><00:06:11.490><c> what</c>
+
+00:06:11.750 --> 00:06:11.760 align:start position:0%
+linear regression you can show what
+ 
+
+00:06:11.760 --> 00:06:13.580 align:start position:0%
+linear regression you can show what
+mathematicians<00:06:12.480><c> have</c><00:06:12.630><c> shown</c><00:06:12.870><c> that</c><00:06:13.170><c> if</c><00:06:13.440><c> your</c>
+
+00:06:13.580 --> 00:06:13.590 align:start position:0%
+mathematicians have shown that if your
+ 
+
+00:06:13.590 --> 00:06:15.950 align:start position:0%
+mathematicians have shown that if your
+learning<00:06:13.620><c> rate</c><00:06:14.100><c> alpha</c><00:06:14.340><c> is</c><00:06:14.760><c> small</c><00:06:15.060><c> enough</c><00:06:15.180><c> then</c>
+
+00:06:15.950 --> 00:06:15.960 align:start position:0%
+learning rate alpha is small enough then
+ 
+
+00:06:15.960 --> 00:06:18.110 align:start position:0%
+learning rate alpha is small enough then
+J<00:06:16.350><c> of</c><00:06:16.470><c> theta</c><00:06:16.500><c> should</c><00:06:17.100><c> decrease</c><00:06:17.160><c> on</c><00:06:17.790><c> every</c>
+
+00:06:18.110 --> 00:06:18.120 align:start position:0%
+J of theta should decrease on every
+ 
+
+00:06:18.120 --> 00:06:19.760 align:start position:0%
+J of theta should decrease on every
+single<00:06:18.330><c> iteration</c><00:06:18.960><c> so</c><00:06:19.200><c> if</c><00:06:19.320><c> this</c><00:06:19.500><c> doesn't</c>
+
+00:06:19.760 --> 00:06:19.770 align:start position:0%
+single iteration so if this doesn't
+ 
+
+00:06:19.770 --> 00:06:22.190 align:start position:0%
+single iteration so if this doesn't
+happen<00:06:20.060><c> probably</c><00:06:21.060><c> means</c><00:06:21.390><c> alpha</c><00:06:21.810><c> is</c><00:06:21.870><c> too</c><00:06:22.020><c> big</c>
+
+00:06:22.190 --> 00:06:22.200 align:start position:0%
+happen probably means alpha is too big
+ 
+
+00:06:22.200 --> 00:06:24.020 align:start position:0%
+happen probably means alpha is too big
+mean<00:06:22.350><c> you</c><00:06:22.410><c> should</c><00:06:22.560><c> send</c><00:06:22.740><c> a</c><00:06:22.830><c> smaller</c><00:06:23.100><c> but</c><00:06:23.940><c> of</c>
+
+00:06:24.020 --> 00:06:24.030 align:start position:0%
+mean you should send a smaller but of
+ 
+
+00:06:24.030 --> 00:06:25.430 align:start position:0%
+mean you should send a smaller but of
+course<00:06:24.210><c> you</c><00:06:24.360><c> also</c><00:06:24.510><c> don't</c><00:06:24.870><c> want</c><00:06:25.080><c> your</c><00:06:25.170><c> learning</c>
+
+00:06:25.430 --> 00:06:25.440 align:start position:0%
+course you also don't want your learning
+ 
+
+00:06:25.440 --> 00:06:27.320 align:start position:0%
+course you also don't want your learning
+rate<00:06:25.530><c> to</c><00:06:25.680><c> be</c><00:06:25.770><c> too</c><00:06:25.920><c> small</c><00:06:26.190><c> because</c><00:06:26.550><c> if</c><00:06:27.000><c> you</c><00:06:27.120><c> do</c>
+
+00:06:27.320 --> 00:06:27.330 align:start position:0%
+rate to be too small because if you do
+ 
+
+00:06:27.330 --> 00:06:28.820 align:start position:0%
+rate to be too small because if you do
+that<00:06:27.540><c> if</c><00:06:27.840><c> you</c><00:06:27.930><c> were</c><00:06:28.080><c> to</c><00:06:28.229><c> do</c><00:06:28.350><c> that</c><00:06:28.530><c> then</c>
+
+00:06:28.820 --> 00:06:28.830 align:start position:0%
+that if you were to do that then
+ 
+
+00:06:28.830 --> 00:06:29.360 align:start position:0%
+that if you were to do that then
+gradient
+
+00:06:29.360 --> 00:06:29.370 align:start position:0%
+gradient
+ 
+
+00:06:29.370 --> 00:06:32.420 align:start position:0%
+gradient
+can<00:06:29.699><c> be</c><00:06:29.820><c> slow</c><00:06:30.060><c> to</c><00:06:30.090><c> converge</c><00:06:30.330><c> and</c><00:06:31.100><c> if</c><00:06:32.100><c> alpha</c>
+
+00:06:32.420 --> 00:06:32.430 align:start position:0%
+can be slow to converge and if alpha
+ 
+
+00:06:32.430 --> 00:06:35.120 align:start position:0%
+can be slow to converge and if alpha
+were<00:06:32.550><c> too</c><00:06:32.729><c> small</c><00:06:33.030><c> you</c><00:06:33.600><c> might</c><00:06:33.780><c> end</c><00:06:33.990><c> up</c><00:06:34.169><c> starting</c>
+
+00:06:35.120 --> 00:06:35.130 align:start position:0%
+were too small you might end up starting
+ 
+
+00:06:35.130 --> 00:06:37.730 align:start position:0%
+were too small you might end up starting
+out<00:06:35.250><c> hero</c><00:06:35.610><c> say</c><00:06:35.880><c> and</c><00:06:36.120><c> you</c><00:06:37.110><c> know</c><00:06:37.139><c> end</c><00:06:37.410><c> up</c><00:06:37.530><c> taking</c>
+
+00:06:37.730 --> 00:06:37.740 align:start position:0%
+out hero say and you know end up taking
+ 
+
+00:06:37.740 --> 00:06:39.950 align:start position:0%
+out hero say and you know end up taking
+just<00:06:38.160><c> minuscule</c><00:06:38.790><c> minuscule</c><00:06:38.820><c> baby</c><00:06:39.540><c> steps</c>
+
+00:06:39.950 --> 00:06:39.960 align:start position:0%
+just minuscule minuscule baby steps
+ 
+
+00:06:39.960 --> 00:06:42.560 align:start position:0%
+just minuscule minuscule baby steps
+right<00:06:40.860><c> and</c><00:06:41.040><c> just</c><00:06:41.220><c> taking</c><00:06:41.400><c> a</c><00:06:41.699><c> lot</c><00:06:42.030><c> a</c><00:06:42.060><c> lot</c><00:06:42.330><c> of</c>
+
+00:06:42.560 --> 00:06:42.570 align:start position:0%
+right and just taking a lot a lot of
+ 
+
+00:06:42.570 --> 00:06:45.170 align:start position:0%
+right and just taking a lot a lot of
+taking<00:06:43.229><c> a</c><00:06:43.290><c> lot</c><00:06:43.500><c> of</c><00:06:43.650><c> iterations</c><00:06:44.190><c> before</c><00:06:44.880><c> you</c>
+
+00:06:45.170 --> 00:06:45.180 align:start position:0%
+taking a lot of iterations before you
+ 
+
+00:06:45.180 --> 00:06:47.510 align:start position:0%
+taking a lot of iterations before you
+finally<00:06:45.570><c> get</c><00:06:45.840><c> to</c><00:06:45.990><c> the</c><00:06:46.020><c> minimum</c><00:06:46.710><c> and</c><00:06:46.979><c> sort</c><00:06:47.490><c> of</c>
+
+00:06:47.510 --> 00:06:47.520 align:start position:0%
+finally get to the minimum and sort of
+ 
+
+00:06:47.520 --> 00:06:49.460 align:start position:0%
+finally get to the minimum and sort of
+alpha<00:06:47.850><c> is</c><00:06:47.940><c> too</c><00:06:48.120><c> small</c><00:06:48.360><c> green</c><00:06:48.990><c> descent</c><00:06:49.290><c> can</c>
+
+00:06:49.460 --> 00:06:49.470 align:start position:0%
+alpha is too small green descent can
+ 
+
+00:06:49.470 --> 00:06:51.320 align:start position:0%
+alpha is too small green descent can
+make<00:06:49.650><c> very</c><00:06:50.040><c> slow</c><00:06:50.310><c> progress</c><00:06:50.550><c> and</c><00:06:51.000><c> be</c><00:06:51.090><c> slow</c><00:06:51.300><c> to</c>
+
+00:06:51.320 --> 00:06:51.330 align:start position:0%
+make very slow progress and be slow to
+ 
+
+00:06:51.330 --> 00:06:53.870 align:start position:0%
+make very slow progress and be slow to
+converge<00:06:51.600><c> to</c><00:06:52.500><c> summarize</c><00:06:52.949><c> if</c><00:06:53.340><c> the</c><00:06:53.610><c> learning</c>
+
+00:06:53.870 --> 00:06:53.880 align:start position:0%
+converge to summarize if the learning
+ 
+
+00:06:53.880 --> 00:06:54.950 align:start position:0%
+converge to summarize if the learning
+rate<00:06:54.000><c> is</c><00:06:54.060><c> too</c><00:06:54.210><c> small</c>
+
+00:06:54.950 --> 00:06:54.960 align:start position:0%
+rate is too small
+ 
+
+00:06:54.960 --> 00:06:57.260 align:start position:0%
+rate is too small
+you<00:06:55.560><c> can</c><00:06:55.770><c> have</c><00:06:55.949><c> a</c><00:06:55.979><c> slow</c><00:06:56.250><c> convergence</c><00:06:56.880><c> problem</c>
+
+00:06:57.260 --> 00:06:57.270 align:start position:0%
+you can have a slow convergence problem
+ 
+
+00:06:57.270 --> 00:07:00.409 align:start position:0%
+you can have a slow convergence problem
+and<00:06:57.560><c> then</c><00:06:58.560><c> learning</c><00:06:58.979><c> rate</c><00:06:59.100><c> is</c><00:06:59.130><c> too</c><00:06:59.250><c> large</c><00:06:59.610><c> J</c><00:07:00.300><c> of</c>
+
+00:07:00.409 --> 00:07:00.419 align:start position:0%
+and then learning rate is too large J of
+ 
+
+00:07:00.419 --> 00:07:01.730 align:start position:0%
+and then learning rate is too large J of
+theta<00:07:00.449><c> may</c><00:07:01.020><c> not</c><00:07:01.050><c> decrease</c><00:07:01.199><c> on</c><00:07:01.710><c> every</c>
+
+00:07:01.730 --> 00:07:01.740 align:start position:0%
+theta may not decrease on every
+ 
+
+00:07:01.740 --> 00:07:04.520 align:start position:0%
+theta may not decrease on every
+iteration<00:07:02.010><c> and</c><00:07:02.639><c> they</c><00:07:03.270><c> may</c><00:07:03.449><c> not</c><00:07:03.660><c> even</c><00:07:03.720><c> converge</c>
+
+00:07:04.520 --> 00:07:04.530 align:start position:0%
+iteration and they may not even converge
+ 
+
+00:07:04.530 --> 00:07:07.400 align:start position:0%
+iteration and they may not even converge
+in<00:07:04.979><c> some</c><00:07:05.970><c> cases</c><00:07:06.240><c> the</c><00:07:06.720><c> learning</c><00:07:07.020><c> rate</c><00:07:07.199><c> is</c><00:07:07.229><c> too</c>
+
+00:07:07.400 --> 00:07:07.410 align:start position:0%
+in some cases the learning rate is too
+ 
+
+00:07:07.410 --> 00:07:10.600 align:start position:0%
+in some cases the learning rate is too
+large<00:07:07.800><c> slow</c><00:07:08.580><c> convergence</c><00:07:08.970><c> is</c><00:07:09.539><c> also</c><00:07:10.020><c> possible</c>
+
+00:07:10.600 --> 00:07:10.610 align:start position:0%
+large slow convergence is also possible
+ 
+
+00:07:10.610 --> 00:07:14.870 align:start position:0%
+large slow convergence is also possible
+but<00:07:12.320><c> the</c><00:07:13.320><c> more</c><00:07:13.530><c> common</c><00:07:13.889><c> problem</c><00:07:14.310><c> you</c><00:07:14.340><c> see</c><00:07:14.669><c> is</c>
+
+00:07:14.870 --> 00:07:14.880 align:start position:0%
+but the more common problem you see is
+ 
+
+00:07:14.880 --> 00:07:16.580 align:start position:0%
+but the more common problem you see is
+that<00:07:15.120><c> just</c><00:07:15.449><c> that</c><00:07:15.539><c> J</c><00:07:15.870><c> of</c><00:07:15.990><c> theta</c><00:07:16.020><c> may</c><00:07:16.560><c> not</c>
+
+00:07:16.580 --> 00:07:16.590 align:start position:0%
+that just that J of theta may not
+ 
+
+00:07:16.590 --> 00:07:19.700 align:start position:0%
+that just that J of theta may not
+decrease<00:07:16.770><c> on</c><00:07:17.280><c> every</c><00:07:17.310><c> iteration</c><00:07:17.910><c> and</c><00:07:18.690><c> in</c><00:07:19.380><c> order</c>
+
+00:07:19.700 --> 00:07:19.710 align:start position:0%
+decrease on every iteration and in order
+ 
+
+00:07:19.710 --> 00:07:21.640 align:start position:0%
+decrease on every iteration and in order
+to<00:07:20.010><c> debug</c><00:07:20.190><c> all</c><00:07:20.580><c> of</c><00:07:20.699><c> these</c><00:07:20.820><c> things</c><00:07:21.120><c> often</c>
+
+00:07:21.640 --> 00:07:21.650 align:start position:0%
+to debug all of these things often
+ 
+
+00:07:21.650 --> 00:07:24.469 align:start position:0%
+to debug all of these things often
+plotting<00:07:22.650><c> that</c><00:07:22.860><c> J</c><00:07:23.130><c> of</c><00:07:23.250><c> theta</c><00:07:23.280><c> as</c><00:07:23.880><c> a</c><00:07:23.940><c> function</c>
+
+00:07:24.469 --> 00:07:24.479 align:start position:0%
+plotting that J of theta as a function
+ 
+
+00:07:24.479 --> 00:07:26.240 align:start position:0%
+plotting that J of theta as a function
+of<00:07:24.630><c> the</c><00:07:24.780><c> number</c><00:07:24.930><c> of</c><00:07:25.139><c> innovations</c><00:07:25.800><c> can</c><00:07:26.010><c> help</c>
+
+00:07:26.240 --> 00:07:26.250 align:start position:0%
+of the number of innovations can help
+ 
+
+00:07:26.250 --> 00:07:27.430 align:start position:0%
+of the number of innovations can help
+you<00:07:26.400><c> figure</c><00:07:26.610><c> out</c><00:07:26.729><c> what's</c><00:07:26.940><c> going</c><00:07:27.210><c> on</c>
+
+00:07:27.430 --> 00:07:27.440 align:start position:0%
+you figure out what's going on
+ 
+
+00:07:27.440 --> 00:07:30.620 align:start position:0%
+you figure out what's going on
+concretely<00:07:28.440><c> what</c><00:07:28.979><c> I</c><00:07:29.160><c> actually</c><00:07:29.460><c> do</c><00:07:29.910><c> when</c><00:07:30.240><c> I</c><00:07:30.270><c> run</c>
+
+00:07:30.620 --> 00:07:30.630 align:start position:0%
+concretely what I actually do when I run
+ 
+
+00:07:30.630 --> 00:07:32.840 align:start position:0%
+concretely what I actually do when I run
+gradient<00:07:30.840><c> descent</c><00:07:31.350><c> is</c><00:07:31.560><c> I</c><00:07:31.889><c> would</c><00:07:32.160><c> try</c><00:07:32.490><c> a</c><00:07:32.520><c> range</c>
+
+00:07:32.840 --> 00:07:32.850 align:start position:0%
+gradient descent is I would try a range
+ 
+
+00:07:32.850 --> 00:07:34.730 align:start position:0%
+gradient descent is I would try a range
+of<00:07:33.060><c> values</c><00:07:33.450><c> so</c><00:07:33.630><c> just</c><00:07:33.840><c> try</c><00:07:34.050><c> running</c><00:07:34.080><c> gradient</c>
+
+00:07:34.730 --> 00:07:34.740 align:start position:0%
+of values so just try running gradient
+ 
+
+00:07:34.740 --> 00:07:36.500 align:start position:0%
+of values so just try running gradient
+descent<00:07:35.039><c> with</c><00:07:35.250><c> a</c><00:07:35.280><c> range</c><00:07:35.580><c> of</c><00:07:35.760><c> values</c><00:07:36.210><c> for</c><00:07:36.360><c> alpha</c>
+
+00:07:36.500 --> 00:07:36.510 align:start position:0%
+descent with a range of values for alpha
+ 
+
+00:07:36.510 --> 00:07:39.379 align:start position:0%
+descent with a range of values for alpha
+at<00:07:36.840><c> like</c><00:07:36.960><c> four</c><00:07:37.169><c> point</c><00:07:37.410><c> zero</c><00:07:37.440><c> one</c><00:07:37.860><c> 0.01</c><00:07:38.610><c> so</c>
+
+00:07:39.379 --> 00:07:39.389 align:start position:0%
+at like four point zero one 0.01 so
+ 
+
+00:07:39.389 --> 00:07:41.180 align:start position:0%
+at like four point zero one 0.01 so
+these<00:07:39.539><c> are</c><00:07:39.750><c> factor</c><00:07:40.080><c> of</c><00:07:40.169><c> ten</c><00:07:40.410><c> differences</c><00:07:40.800><c> and</c>
+
+00:07:41.180 --> 00:07:41.190 align:start position:0%
+these are factor of ten differences and
+ 
+
+00:07:41.190 --> 00:07:43.640 align:start position:0%
+these are factor of ten differences and
+for<00:07:41.940><c> these</c><00:07:42.210><c> different</c><00:07:42.599><c> values</c><00:07:42.930><c> of</c><00:07:42.960><c> alpha</c><00:07:43.200><c> just</c>
+
+00:07:43.640 --> 00:07:43.650 align:start position:0%
+for these different values of alpha just
+ 
+
+00:07:43.650 --> 00:07:45.469 align:start position:0%
+for these different values of alpha just
+plot<00:07:43.919><c> J</c><00:07:44.130><c> of</c><00:07:44.250><c> theta</c><00:07:44.280><c> as</c><00:07:44.700><c> a</c><00:07:44.760><c> function</c><00:07:45.120><c> of</c><00:07:45.150><c> number</c>
+
+00:07:45.469 --> 00:07:45.479 align:start position:0%
+plot J of theta as a function of number
+ 
+
+00:07:45.479 --> 00:07:48.260 align:start position:0%
+plot J of theta as a function of number
+of<00:07:45.570><c> iterations</c><00:07:46.110><c> and</c><00:07:46.260><c> then</c><00:07:46.700><c> pick</c><00:07:47.700><c> the</c><00:07:47.820><c> value</c><00:07:47.970><c> of</c>
+
+00:07:48.260 --> 00:07:48.270 align:start position:0%
+of iterations and then pick the value of
+ 
+
+00:07:48.270 --> 00:07:50.870 align:start position:0%
+of iterations and then pick the value of
+alpha<00:07:48.479><c> that</c><00:07:49.020><c> you</c><00:07:49.560><c> know</c><00:07:49.680><c> seems</c><00:07:50.039><c> to</c><00:07:50.190><c> be</c><00:07:50.310><c> causing</c>
+
+00:07:50.870 --> 00:07:50.880 align:start position:0%
+alpha that you know seems to be causing
+ 
+
+00:07:50.880 --> 00:07:54.469 align:start position:0%
+alpha that you know seems to be causing
+J<00:07:51.450><c> of</c><00:07:51.570><c> theta</c><00:07:51.660><c> to</c><00:07:52.229><c> decrease</c><00:07:52.650><c> rapidly</c><00:07:52.919><c> in</c><00:07:53.550><c> fact</c>
+
+00:07:54.469 --> 00:07:54.479 align:start position:0%
+J of theta to decrease rapidly in fact
+ 
+
+00:07:54.479 --> 00:07:56.629 align:start position:0%
+J of theta to decrease rapidly in fact
+what<00:07:54.720><c> I</c><00:07:54.750><c> do</c><00:07:54.870><c> actually</c><00:07:55.410><c> isn't</c><00:07:55.620><c> these</c><00:07:55.919><c> steps</c><00:07:56.460><c> of</c>
+
+00:07:56.629 --> 00:07:56.639 align:start position:0%
+what I do actually isn't these steps of
+ 
+
+00:07:56.639 --> 00:07:58.820 align:start position:0%
+what I do actually isn't these steps of
+ten<00:07:56.849><c> so</c><00:07:57.300><c> this</c><00:07:57.479><c> is</c><00:07:57.599><c> zero</c><00:07:57.780><c> this</c><00:07:57.990><c> is</c><00:07:58.139><c> a</c><00:07:58.169><c> scale</c>
+
+00:07:58.820 --> 00:07:58.830 align:start position:0%
+ten so this is zero this is a scale
+ 
+
+00:07:58.830 --> 00:08:01.100 align:start position:0%
+ten so this is zero this is a scale
+factor<00:07:59.039><c> of</c><00:07:59.280><c> ten</c><00:07:59.580><c> of</c><00:07:59.880><c> each</c><00:08:00.060><c> step</c><00:08:00.300><c> up</c><00:08:00.510><c> what</c><00:08:01.080><c> I</c>
+
+00:08:01.100 --> 00:08:01.110 align:start position:0%
+factor of ten of each step up what I
+ 
+
+00:08:01.110 --> 00:08:04.689 align:start position:0%
+factor of ten of each step up what I
+actually<00:08:01.380><c> do</c><00:08:01.740><c> is</c><00:08:01.979><c> try</c><00:08:02.310><c> this</c><00:08:02.610><c> range</c><00:08:02.880><c> of</c><00:08:03.060><c> values</c>
+
+00:08:04.689 --> 00:08:04.699 align:start position:0%
+actually do is try this range of values
+ 
+
+00:08:04.699 --> 00:08:09.560 align:start position:0%
+actually do is try this range of values
+and<00:08:06.260><c> so</c><00:08:07.260><c> on</c><00:08:07.470><c> where</c><00:08:07.770><c> this</c><00:08:08.250><c> is</c><00:08:08.430><c> you</c><00:08:08.610><c> know</c><00:08:08.729><c> 0.001</c>
+
+00:08:09.560 --> 00:08:09.570 align:start position:0%
+and so on where this is you know 0.001
+ 
+
+00:08:09.570 --> 00:08:11.629 align:start position:0%
+and so on where this is you know 0.001
+I'll<00:08:09.780><c> then</c><00:08:10.440><c> increase</c><00:08:10.949><c> the</c><00:08:11.160><c> learning</c><00:08:11.280><c> rate</c>
+
+00:08:11.629 --> 00:08:11.639 align:start position:0%
+I'll then increase the learning rate
+ 
+
+00:08:11.639 --> 00:08:14.390 align:start position:0%
+I'll then increase the learning rate
+threefold<00:08:12.180><c> to</c><00:08:12.419><c> get</c><00:08:12.570><c> 0.03</c><00:08:13.320><c> and</c><00:08:13.560><c> then</c><00:08:13.979><c> this</c><00:08:14.160><c> step</c>
+
+00:08:14.390 --> 00:08:14.400 align:start position:0%
+threefold to get 0.03 and then this step
+ 
+
+00:08:14.400 --> 00:08:16.730 align:start position:0%
+threefold to get 0.03 and then this step
+up<00:08:14.610><c> this</c><00:08:14.789><c> is</c><00:08:14.970><c> another</c><00:08:15.330><c> roughly</c><00:08:16.139><c> three-fold</c>
+
+00:08:16.730 --> 00:08:16.740 align:start position:0%
+up this is another roughly three-fold
+ 
+
+00:08:16.740 --> 00:08:20.750 align:start position:0%
+up this is another roughly three-fold
+increase<00:08:16.830><c> point</c><00:08:17.430><c> from</c><00:08:17.639><c> 0.03</c><00:08:18.539><c> to</c><00:08:18.690><c> 0.01</c><00:08:19.410><c> and</c><00:08:19.889><c> and</c>
+
+00:08:20.750 --> 00:08:20.760 align:start position:0%
+increase point from 0.03 to 0.01 and and
+ 
+
+00:08:20.760 --> 00:08:24.920 align:start position:0%
+increase point from 0.03 to 0.01 and and
+so<00:08:20.940><c> these</c><00:08:21.180><c> are</c><00:08:21.419><c> roughly</c><00:08:22.349><c> you</c><00:08:23.340><c> know</c><00:08:23.810><c> trying</c><00:08:24.810><c> out</c>
+
+00:08:24.920 --> 00:08:24.930 align:start position:0%
+so these are roughly you know trying out
+ 
+
+00:08:24.930 --> 00:08:27.290 align:start position:0%
+so these are roughly you know trying out
+gradient<00:08:25.320><c> descents</c><00:08:25.680><c> with</c><00:08:25.889><c> each</c><00:08:26.370><c> value</c><00:08:26.789><c> I</c><00:08:26.940><c> try</c>
+
+00:08:27.290 --> 00:08:27.300 align:start position:0%
+gradient descents with each value I try
+ 
+
+00:08:27.300 --> 00:08:29.089 align:start position:0%
+gradient descents with each value I try
+being<00:08:27.599><c> about</c><00:08:27.840><c> 3x</c><00:08:28.349><c> bigger</c><00:08:28.620><c> than</c><00:08:28.889><c> the</c><00:08:28.979><c> previous</c>
+
+00:08:29.089 --> 00:08:29.099 align:start position:0%
+being about 3x bigger than the previous
+ 
+
+00:08:29.099 --> 00:08:32.000 align:start position:0%
+being about 3x bigger than the previous
+value<00:08:29.789><c> so</c><00:08:30.750><c> what</c><00:08:30.990><c> I'll</c><00:08:31.080><c> do</c><00:08:31.229><c> is</c><00:08:31.260><c> try</c><00:08:31.680><c> range</c><00:08:31.889><c> of</c>
+
+00:08:32.000 --> 00:08:32.010 align:start position:0%
+value so what I'll do is try range of
+ 
+
+00:08:32.010 --> 00:08:33.620 align:start position:0%
+value so what I'll do is try range of
+values<00:08:32.339><c> until</c><00:08:32.669><c> I</c><00:08:32.760><c> have</c><00:08:32.849><c> made</c><00:08:33.060><c> sure</c><00:08:33.330><c> that</c><00:08:33.360><c> I</c>
+
+00:08:33.620 --> 00:08:33.630 align:start position:0%
+values until I have made sure that I
+ 
+
+00:08:33.630 --> 00:08:35.329 align:start position:0%
+values until I have made sure that I
+found<00:08:33.870><c> one</c><00:08:34.080><c> value</c><00:08:34.469><c> that's</c><00:08:34.500><c> too</c><00:08:34.830><c> small</c><00:08:34.979><c> and</c>
+
+00:08:35.329 --> 00:08:35.339 align:start position:0%
+found one value that's too small and
+ 
+
+00:08:35.339 --> 00:08:36.709 align:start position:0%
+found one value that's too small and
+make<00:08:35.459><c> sure</c><00:08:35.580><c> I</c><00:08:35.610><c> found</c><00:08:35.880><c> one</c><00:08:36.060><c> value</c><00:08:36.390><c> that's</c><00:08:36.419><c> too</c>
+
+00:08:36.709 --> 00:08:36.719 align:start position:0%
+make sure I found one value that's too
+ 
+
+00:08:36.719 --> 00:08:39.230 align:start position:0%
+make sure I found one value that's too
+vomiting<00:08:37.200><c> they're</c><00:08:37.349><c> not</c><00:08:37.469><c> sort</c><00:08:38.099><c> of</c><00:08:38.159><c> try</c><00:08:38.400><c> to</c><00:08:38.430><c> pick</c>
+
+00:08:39.230 --> 00:08:39.240 align:start position:0%
+vomiting they're not sort of try to pick
+ 
+
+00:08:39.240 --> 00:08:41.000 align:start position:0%
+vomiting they're not sort of try to pick
+the<00:08:39.450><c> largest</c><00:08:39.690><c> possible</c><00:08:40.140><c> value</c><00:08:40.500><c> or</c><00:08:40.979><c> just</c>
+
+00:08:41.000 --> 00:08:41.010 align:start position:0%
+the largest possible value or just
+ 
+
+00:08:41.010 --> 00:08:43.000 align:start position:0%
+the largest possible value or just
+something<00:08:41.400><c> slightly</c><00:08:42.180><c> too</c><00:08:42.390><c> small</c>
+
+00:08:43.000 --> 00:08:43.010 align:start position:0%
+something slightly too small
+ 
+
+00:08:43.010 --> 00:08:45.220 align:start position:0%
+something slightly too small
+then<00:08:43.580><c> the</c><00:08:43.729><c> largest</c><00:08:44.030><c> reasonable</c><00:08:44.750><c> value</c><00:08:45.080><c> to</c>
+
+00:08:45.220 --> 00:08:45.230 align:start position:0%
+then the largest reasonable value to
+ 
+
+00:08:45.230 --> 00:08:48.190 align:start position:0%
+then the largest reasonable value to
+that<00:08:45.380><c> found</c><00:08:45.620><c> and</c><00:08:46.030><c> when</c><00:08:47.030><c> I</c><00:08:47.060><c> do</c><00:08:47.180><c> that</c><00:08:47.330><c> usually</c>
+
+00:08:48.190 --> 00:08:48.200 align:start position:0%
+that found and when I do that usually
+ 
+
+00:08:48.200 --> 00:08:50.560 align:start position:0%
+that found and when I do that usually
+disgust<00:08:48.740><c> me</c><00:08:48.950><c> a</c><00:08:48.980><c> good</c><00:08:49.490><c> learning</c><00:08:49.880><c> rate</c><00:08:50.060><c> for</c><00:08:50.450><c> my</c>
+
+00:08:50.560 --> 00:08:50.570 align:start position:0%
+disgust me a good learning rate for my
+ 
+
+00:08:50.570 --> 00:08:53.290 align:start position:0%
+disgust me a good learning rate for my
+problem<00:08:50.960><c> and</c><00:08:51.190><c> if</c><00:08:52.190><c> you</c><00:08:52.310><c> do</c><00:08:52.430><c> this</c><00:08:52.550><c> to</c><00:08:52.760><c> hopefully</c>
+
+00:08:53.290 --> 00:08:53.300 align:start position:0%
+problem and if you do this to hopefully
+ 
+
+00:08:53.300 --> 00:08:55.150 align:start position:0%
+problem and if you do this to hopefully
+you'll<00:08:53.510><c> be</c><00:08:53.540><c> able</c><00:08:53.660><c> to</c><00:08:54.140><c> choose</c><00:08:54.470><c> a</c><00:08:54.530><c> good</c><00:08:54.860><c> learning</c>
+
+00:08:55.150 --> 00:08:55.160 align:start position:0%
+you'll be able to choose a good learning
+ 
+
+00:08:55.160 --> 00:08:57.400 align:start position:0%
+you'll be able to choose a good learning
+rate<00:08:55.310><c> for</c><00:08:55.700><c> your</c><00:08:56.120><c> implementation</c><00:08:56.990><c> of</c><00:08:57.140><c> gradient</c>
+
+00:08:57.400 --> 00:08:57.410 align:start position:0%
+rate for your implementation of gradient
+ 
+
+00:08:57.410 --> 00:08:59.890 align:start position:0%
+rate for your implementation of gradient
+descent
+

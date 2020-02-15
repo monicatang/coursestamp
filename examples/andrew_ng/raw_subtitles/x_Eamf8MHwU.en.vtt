@@ -1,0 +1,2144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:01.969 align:start position:0%
+ 
+in<00:00:00.149><c> the</c><00:00:00.299><c> previous</c><00:00:00.719><c> video</c><00:00:01.050><c> we</c><00:00:01.290><c> talked</c><00:00:01.530><c> about</c><00:00:01.800><c> a</c>
+
+00:00:01.969 --> 00:00:01.979 align:start position:0%
+in the previous video we talked about a
+ 
+
+00:00:01.979 --> 00:00:03.980 align:start position:0%
+in the previous video we talked about a
+cost<00:00:02.250><c> function</c><00:00:02.520><c> for</c><00:00:03.000><c> the</c><00:00:03.060><c> neural</c><00:00:03.389><c> network</c><00:00:03.750><c> in</c>
+
+00:00:03.980 --> 00:00:03.990 align:start position:0%
+cost function for the neural network in
+ 
+
+00:00:03.990 --> 00:00:06.440 align:start position:0%
+cost function for the neural network in
+this<00:00:04.680><c> video</c><00:00:05.040><c> let's</c><00:00:05.430><c> start</c><00:00:05.460><c> to</c><00:00:05.790><c> talk</c><00:00:05.970><c> about</c><00:00:06.150><c> an</c>
+
+00:00:06.440 --> 00:00:06.450 align:start position:0%
+this video let's start to talk about an
+ 
+
+00:00:06.450 --> 00:00:08.150 align:start position:0%
+this video let's start to talk about an
+algorithm<00:00:06.750><c> for</c><00:00:07.230><c> trying</c><00:00:07.470><c> to</c><00:00:07.529><c> minimize</c><00:00:07.980><c> the</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+algorithm for trying to minimize the
+ 
+
+00:00:08.160 --> 00:00:10.070 align:start position:0%
+algorithm for trying to minimize the
+cost<00:00:08.309><c> function</c><00:00:08.460><c> in</c><00:00:09.090><c> particular</c><00:00:09.630><c> we'll</c><00:00:10.050><c> talk</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+cost function in particular we'll talk
+ 
+
+00:00:10.080 --> 00:00:13.240 align:start position:0%
+cost function in particular we'll talk
+about<00:00:10.500><c> the</c><00:00:10.740><c> back</c><00:00:10.950><c> propagation</c><00:00:11.550><c> algorithm</c>
+
+00:00:13.240 --> 00:00:13.250 align:start position:0%
+about the back propagation algorithm
+ 
+
+00:00:13.250 --> 00:00:15.709 align:start position:0%
+about the back propagation algorithm
+here's<00:00:14.250><c> the</c><00:00:14.429><c> cost</c><00:00:14.670><c> function</c><00:00:14.910><c> that</c><00:00:15.210><c> we</c><00:00:15.450><c> wrote</c>
+
+00:00:15.709 --> 00:00:15.719 align:start position:0%
+here's the cost function that we wrote
+ 
+
+00:00:15.719 --> 00:00:18.260 align:start position:0%
+here's the cost function that we wrote
+down<00:00:15.929><c> in</c><00:00:16.289><c> the</c><00:00:16.560><c> previous</c><00:00:17.100><c> video</c><00:00:17.430><c> what</c><00:00:18.119><c> we'd</c>
+
+00:00:18.260 --> 00:00:18.270 align:start position:0%
+down in the previous video what we'd
+ 
+
+00:00:18.270 --> 00:00:20.420 align:start position:0%
+down in the previous video what we'd
+like<00:00:18.390><c> to</c><00:00:18.539><c> do</c><00:00:18.690><c> is</c><00:00:19.080><c> try</c><00:00:19.410><c> to</c><00:00:19.439><c> find</c><00:00:19.770><c> parameters</c>
+
+00:00:20.420 --> 00:00:20.430 align:start position:0%
+like to do is try to find parameters
+ 
+
+00:00:20.430 --> 00:00:23.570 align:start position:0%
+like to do is try to find parameters
+theta<00:00:20.699><c> to</c><00:00:21.119><c> try</c><00:00:21.300><c> to</c><00:00:21.359><c> minimize</c><00:00:21.600><c> J</c><00:00:21.900><c> of</c><00:00:22.199><c> theta</c><00:00:22.580><c> in</c>
+
+00:00:23.570 --> 00:00:23.580 align:start position:0%
+theta to try to minimize J of theta in
+ 
+
+00:00:23.580 --> 00:00:25.730 align:start position:0%
+theta to try to minimize J of theta in
+order<00:00:24.029><c> to</c><00:00:24.210><c> use</c><00:00:24.390><c> either</c><00:00:24.660><c> gradient</c><00:00:25.199><c> descent</c><00:00:25.560><c> or</c>
+
+00:00:25.730 --> 00:00:25.740 align:start position:0%
+order to use either gradient descent or
+ 
+
+00:00:25.740 --> 00:00:27.250 align:start position:0%
+order to use either gradient descent or
+one<00:00:26.160><c> of</c><00:00:26.279><c> the</c><00:00:26.400><c> advanced</c><00:00:26.849><c> optimization</c>
+
+00:00:27.250 --> 00:00:27.260 align:start position:0%
+one of the advanced optimization
+ 
+
+00:00:27.260 --> 00:00:29.630 align:start position:0%
+one of the advanced optimization
+algorithms<00:00:28.260><c> what</c><00:00:28.800><c> we</c><00:00:28.920><c> need</c><00:00:29.099><c> to</c><00:00:29.220><c> do</c><00:00:29.310><c> therefore</c>
+
+00:00:29.630 --> 00:00:29.640 align:start position:0%
+algorithms what we need to do therefore
+ 
+
+00:00:29.640 --> 00:00:32.359 align:start position:0%
+algorithms what we need to do therefore
+is<00:00:30.090><c> to</c><00:00:30.119><c> my</c><00:00:30.810><c> code</c><00:00:31.170><c> that</c><00:00:31.439><c> takes</c><00:00:31.590><c> us</c><00:00:31.800><c> input</c><00:00:32.219><c> the</c>
+
+00:00:32.359 --> 00:00:32.369 align:start position:0%
+is to my code that takes us input the
+ 
+
+00:00:32.369 --> 00:00:34.430 align:start position:0%
+is to my code that takes us input the
+parameters<00:00:32.489><c> theta</c><00:00:32.969><c> and</c><00:00:33.390><c> computes</c><00:00:34.079><c> J</c><00:00:34.290><c> of</c><00:00:34.350><c> theta</c>
+
+00:00:34.430 --> 00:00:34.440 align:start position:0%
+parameters theta and computes J of theta
+ 
+
+00:00:34.440 --> 00:00:36.760 align:start position:0%
+parameters theta and computes J of theta
+and<00:00:34.950><c> these</c><00:00:35.460><c> partial</c><00:00:35.540><c> derivative</c><00:00:36.540><c> terms</c>
+
+00:00:36.760 --> 00:00:36.770 align:start position:0%
+and these partial derivative terms
+ 
+
+00:00:36.770 --> 00:00:38.930 align:start position:0%
+and these partial derivative terms
+remember<00:00:37.770><c> that</c><00:00:38.160><c> the</c><00:00:38.250><c> parameters</c><00:00:38.700><c> of</c><00:00:38.850><c> the</c>
+
+00:00:38.930 --> 00:00:38.940 align:start position:0%
+remember that the parameters of the
+ 
+
+00:00:38.940 --> 00:00:40.880 align:start position:0%
+remember that the parameters of the
+neural<00:00:39.210><c> network</c><00:00:39.239><c> of</c><00:00:39.809><c> these</c><00:00:40.079><c> things</c><00:00:40.410><c> theta</c>
+
+00:00:40.880 --> 00:00:40.890 align:start position:0%
+neural network of these things theta
+ 
+
+00:00:40.890 --> 00:00:43.850 align:start position:0%
+neural network of these things theta
+superscript<00:00:41.309><c> L</c><00:00:41.910><c> subscript</c><00:00:42.020><c> IJ</c><00:00:43.020><c> that</c><00:00:43.530><c> that's</c><00:00:43.710><c> a</c>
+
+00:00:43.850 --> 00:00:43.860 align:start position:0%
+superscript L subscript IJ that that's a
+ 
+
+00:00:43.860 --> 00:00:46.279 align:start position:0%
+superscript L subscript IJ that that's a
+real<00:00:44.040><c> number</c><00:00:44.250><c> and</c><00:00:44.610><c> so</c><00:00:45.300><c> these</c><00:00:45.750><c> are</c><00:00:45.989><c> the</c><00:00:46.079><c> partial</c>
+
+00:00:46.279 --> 00:00:46.289 align:start position:0%
+real number and so these are the partial
+ 
+
+00:00:46.289 --> 00:00:48.950 align:start position:0%
+real number and so these are the partial
+derivative<00:00:46.890><c> terms</c><00:00:47.129><c> we</c><00:00:47.309><c> need</c><00:00:47.460><c> to</c><00:00:47.550><c> compute</c><00:00:47.960><c> in</c>
+
+00:00:48.950 --> 00:00:48.960 align:start position:0%
+derivative terms we need to compute in
+ 
+
+00:00:48.960 --> 00:00:50.959 align:start position:0%
+derivative terms we need to compute in
+order<00:00:49.410><c> to</c><00:00:49.530><c> compute</c><00:00:49.890><c> the</c><00:00:50.039><c> cost</c><00:00:50.219><c> function</c><00:00:50.489><c> J</c><00:00:50.940><c> of</c>
+
+00:00:50.959 --> 00:00:50.969 align:start position:0%
+order to compute the cost function J of
+ 
+
+00:00:50.969 --> 00:00:53.569 align:start position:0%
+order to compute the cost function J of
+theta<00:00:51.120><c> we</c><00:00:51.960><c> just</c><00:00:52.230><c> use</c><00:00:52.440><c> this</c><00:00:52.649><c> formula</c><00:00:52.949><c> up</c><00:00:53.309><c> here</c>
+
+00:00:53.569 --> 00:00:53.579 align:start position:0%
+theta we just use this formula up here
+ 
+
+00:00:53.579 --> 00:00:56.060 align:start position:0%
+theta we just use this formula up here
+and<00:00:53.789><c> so</c><00:00:54.570><c> what</c><00:00:54.960><c> I</c><00:00:54.989><c> want</c><00:00:55.230><c> to</c><00:00:55.260><c> do</c><00:00:55.440><c> for</c><00:00:55.739><c> most</c><00:00:55.860><c> of</c>
+
+00:00:56.060 --> 00:00:56.070 align:start position:0%
+and so what I want to do for most of
+ 
+
+00:00:56.070 --> 00:00:58.549 align:start position:0%
+and so what I want to do for most of
+this<00:00:56.190><c> video</c><00:00:56.340><c> is</c><00:00:56.760><c> focused</c><00:00:57.239><c> on</c><00:00:57.510><c> talking</c><00:00:58.350><c> about</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+this video is focused on talking about
+ 
+
+00:00:58.559 --> 00:00:59.860 align:start position:0%
+this video is focused on talking about
+how<00:00:58.770><c> we</c><00:00:58.829><c> can</c><00:00:59.070><c> compute</c><00:00:59.309><c> these</c><00:00:59.699><c> partial</c>
+
+00:00:59.860 --> 00:00:59.870 align:start position:0%
+how we can compute these partial
+ 
+
+00:00:59.870 --> 00:01:02.869 align:start position:0%
+how we can compute these partial
+derivative<00:01:00.870><c> terms</c><00:01:01.399><c> let's</c><00:01:02.399><c> start</c><00:01:02.699><c> by</c><00:01:02.820><c> talking</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+derivative terms let's start by talking
+ 
+
+00:01:02.879 --> 00:01:05.690 align:start position:0%
+derivative terms let's start by talking
+about<00:01:03.359><c> the</c><00:01:03.930><c> case</c><00:01:04.199><c> of</c><00:01:04.470><c> when</c><00:01:04.680><c> we</c><00:01:04.799><c> have</c><00:01:05.040><c> only</c><00:01:05.339><c> one</c>
+
+00:01:05.690 --> 00:01:05.700 align:start position:0%
+about the case of when we have only one
+ 
+
+00:01:05.700 --> 00:01:07.940 align:start position:0%
+about the case of when we have only one
+training<00:01:05.909><c> example</c><00:01:06.210><c> so</c><00:01:06.930><c> imagine</c><00:01:07.590><c> if</c><00:01:07.710><c> you</c><00:01:07.799><c> will</c>
+
+00:01:07.940 --> 00:01:07.950 align:start position:0%
+training example so imagine if you will
+ 
+
+00:01:07.950 --> 00:01:10.670 align:start position:0%
+training example so imagine if you will
+that<00:01:08.189><c> our</c><00:01:08.939><c> entire</c><00:01:09.299><c> training</c><00:01:09.630><c> set</c><00:01:09.930><c> comprises</c>
+
+00:01:10.670 --> 00:01:10.680 align:start position:0%
+that our entire training set comprises
+ 
+
+00:01:10.680 --> 00:01:12.890 align:start position:0%
+that our entire training set comprises
+only<00:01:10.860><c> one</c><00:01:11.280><c> training</c><00:01:11.580><c> example</c><00:01:11.760><c> which</c><00:01:12.720><c> is</c><00:01:12.869><c> a</c>
+
+00:01:12.890 --> 00:01:12.900 align:start position:0%
+only one training example which is a
+ 
+
+00:01:12.900 --> 00:01:15.770 align:start position:0%
+only one training example which is a
+pair<00:01:13.260><c> XY</c><00:01:13.710><c> not</c><00:01:14.250><c> going</c><00:01:14.430><c> to</c><00:01:14.520><c> write</c><00:01:14.610><c> x1</c><00:01:14.939><c> y1</c><00:01:15.270><c> just</c>
+
+00:01:15.770 --> 00:01:15.780 align:start position:0%
+pair XY not going to write x1 y1 just
+ 
+
+00:01:15.780 --> 00:01:17.810 align:start position:0%
+pair XY not going to write x1 y1 just
+writers<00:01:15.960><c> right</c><00:01:16.560><c> at</c><00:01:16.680><c> one</c><00:01:16.860><c> training</c><00:01:17.130><c> example</c><00:01:17.250><c> s</c>
+
+00:01:17.810 --> 00:01:17.820 align:start position:0%
+writers right at one training example s
+ 
+
+00:01:17.820 --> 00:01:20.510 align:start position:0%
+writers right at one training example s
+XY<00:01:18.150><c> and</c><00:01:18.570><c> let's</c><00:01:19.290><c> step</c><00:01:19.560><c> through</c><00:01:19.770><c> the</c><00:01:19.860><c> sequence</c>
+
+00:01:20.510 --> 00:01:20.520 align:start position:0%
+XY and let's step through the sequence
+ 
+
+00:01:20.520 --> 00:01:22.190 align:start position:0%
+XY and let's step through the sequence
+of<00:01:20.640><c> calculations</c><00:01:21.360><c> we</c><00:01:21.540><c> would</c><00:01:21.689><c> do</c><00:01:21.869><c> with</c><00:01:22.170><c> this</c>
+
+00:01:22.190 --> 00:01:22.200 align:start position:0%
+of calculations we would do with this
+ 
+
+00:01:22.200 --> 00:01:24.899 align:start position:0%
+of calculations we would do with this
+one<00:01:22.650><c> training</c><00:01:22.950><c> example</c>
+
+00:01:24.899 --> 00:01:24.909 align:start position:0%
+one training example
+ 
+
+00:01:24.909 --> 00:01:27.520 align:start position:0%
+one training example
+the<00:01:25.909><c> first</c><00:01:26.150><c> thing</c><00:01:26.330><c> we</c><00:01:26.450><c> do</c><00:01:26.659><c> is</c><00:01:26.960><c> we</c><00:01:27.229><c> apply</c>
+
+00:01:27.520 --> 00:01:27.530 align:start position:0%
+the first thing we do is we apply
+ 
+
+00:01:27.530 --> 00:01:30.430 align:start position:0%
+the first thing we do is we apply
+forward<00:01:28.190><c> propagation</c><00:01:28.670><c> in</c><00:01:29.120><c> order</c><00:01:29.540><c> to</c><00:01:29.780><c> compute</c>
+
+00:01:30.430 --> 00:01:30.440 align:start position:0%
+forward propagation in order to compute
+ 
+
+00:01:30.440 --> 00:01:32.650 align:start position:0%
+forward propagation in order to compute
+what<00:01:30.740><c> our</c><00:01:30.890><c> hypothesis</c><00:01:31.610><c> actually</c><00:01:32.180><c> outputs</c>
+
+00:01:32.650 --> 00:01:32.660 align:start position:0%
+what our hypothesis actually outputs
+ 
+
+00:01:32.660 --> 00:01:36.010 align:start position:0%
+what our hypothesis actually outputs
+given<00:01:32.930><c> this</c><00:01:33.229><c> input</c><00:01:33.500><c> X</c><00:01:34.060><c> concretely</c><00:01:35.060><c> remember</c>
+
+00:01:36.010 --> 00:01:36.020 align:start position:0%
+given this input X concretely remember
+ 
+
+00:01:36.020 --> 00:01:38.290 align:start position:0%
+given this input X concretely remember
+recall<00:01:36.290><c> that</c><00:01:36.650><c> a1</c><00:01:37.130><c> is</c><00:01:37.340><c> the</c><00:01:37.430><c> activation</c><00:01:38.270><c> values</c>
+
+00:01:38.290 --> 00:01:38.300 align:start position:0%
+recall that a1 is the activation values
+ 
+
+00:01:38.300 --> 00:01:41.170 align:start position:0%
+recall that a1 is the activation values
+of<00:01:38.990><c> this</c><00:01:39.200><c> first</c><00:01:39.920><c> layer</c><00:01:40.400><c> that</c><00:01:40.729><c> is</c><00:01:40.910><c> the</c><00:01:41.030><c> input</c>
+
+00:01:41.170 --> 00:01:41.180 align:start position:0%
+of this first layer that is the input
+ 
+
+00:01:41.180 --> 00:01:42.910 align:start position:0%
+of this first layer that is the input
+layer<00:01:41.479><c> so</c><00:01:41.720><c> I'm</c><00:01:41.780><c> going</c><00:01:41.900><c> to</c><00:01:41.930><c> set</c><00:01:42.140><c> that</c><00:01:42.290><c> to</c><00:01:42.440><c> X</c><00:01:42.650><c> and</c>
+
+00:01:42.910 --> 00:01:42.920 align:start position:0%
+layer so I'm going to set that to X and
+ 
+
+00:01:42.920 --> 00:01:46.540 align:start position:0%
+layer so I'm going to set that to X and
+then<00:01:43.880><c> we're</c><00:01:44.119><c> going</c><00:01:44.330><c> to</c><00:01:44.479><c> compute</c><00:01:45.290><c> Z</c><00:01:45.590><c> 2</c><00:01:45.830><c> equals</c>
+
+00:01:46.540 --> 00:01:46.550 align:start position:0%
+then we're going to compute Z 2 equals
+ 
+
+00:01:46.550 --> 00:01:49.990 align:start position:0%
+then we're going to compute Z 2 equals
+theta<00:01:46.670><c> 1</c><00:01:46.910><c> a</c><00:01:46.940><c> 1</c><00:01:47.240><c> and</c><00:01:47.450><c> a</c><00:01:47.960><c> 2</c><00:01:47.990><c> equals</c><00:01:48.920><c> G</c><00:01:49.340><c> the</c><00:01:49.610><c> sigmoid</c>
+
+00:01:49.990 --> 00:01:50.000 align:start position:0%
+theta 1 a 1 and a 2 equals G the sigmoid
+ 
+
+00:01:50.000 --> 00:01:52.060 align:start position:0%
+theta 1 a 1 and a 2 equals G the sigmoid
+activation<00:01:50.119><c> function</c><00:01:50.540><c> applied</c><00:01:51.050><c> to</c><00:01:51.320><c> Z</c><00:01:51.650><c> 2</c><00:01:51.890><c> and</c>
+
+00:01:52.060 --> 00:01:52.070 align:start position:0%
+activation function applied to Z 2 and
+ 
+
+00:01:52.070 --> 00:01:54.640 align:start position:0%
+activation function applied to Z 2 and
+this<00:01:52.700><c> will</c><00:01:52.880><c> give</c><00:01:53.060><c> us</c><00:01:53.090><c> our</c><00:01:53.450><c> activations</c><00:01:54.259><c> for</c>
+
+00:01:54.640 --> 00:01:54.650 align:start position:0%
+this will give us our activations for
+ 
+
+00:01:54.650 --> 00:01:56.740 align:start position:0%
+this will give us our activations for
+the<00:01:55.250><c> first</c><00:01:55.550><c> hidden</c><00:01:55.759><c> layer</c><00:01:55.880><c> that</c><00:01:56.240><c> is</c><00:01:56.300><c> for</c><00:01:56.600><c> layer</c>
+
+00:01:56.740 --> 00:01:56.750 align:start position:0%
+the first hidden layer that is for layer
+ 
+
+00:01:56.750 --> 00:01:59.230 align:start position:0%
+the first hidden layer that is for layer
+2<00:01:57.050><c> of</c><00:01:57.080><c> the</c><00:01:57.380><c> network</c><00:01:57.800><c> and</c><00:01:58.250><c> we</c><00:01:58.369><c> also</c><00:01:58.520><c> add</c><00:01:58.970><c> those</c>
+
+00:01:59.230 --> 00:01:59.240 align:start position:0%
+2 of the network and we also add those
+ 
+
+00:01:59.240 --> 00:02:02.859 align:start position:0%
+2 of the network and we also add those
+bias<00:01:59.539><c> terms</c><00:02:00.490><c> next</c><00:02:01.490><c> we</c><00:02:01.789><c> apply</c><00:02:02.090><c> two</c><00:02:02.450><c> more</c><00:02:02.630><c> steps</c>
+
+00:02:02.859 --> 00:02:02.869 align:start position:0%
+bias terms next we apply two more steps
+ 
+
+00:02:02.869 --> 00:02:05.680 align:start position:0%
+bias terms next we apply two more steps
+of<00:02:03.200><c> this</c><00:02:03.500><c> forward</c><00:02:03.800><c> propagation</c><00:02:04.340><c> to</c><00:02:05.119><c> compute</c><00:02:05.149><c> a</c>
+
+00:02:05.680 --> 00:02:05.690 align:start position:0%
+of this forward propagation to compute a
+ 
+
+00:02:05.690 --> 00:02:11.560 align:start position:0%
+of this forward propagation to compute a
+3<00:02:06.050><c> and</c><00:02:06.289><c> a</c><00:02:07.130><c> 4</c><00:02:07.720><c> which</c><00:02:08.720><c> is</c><00:02:09.320><c> also</c><00:02:09.709><c> the</c><00:02:10.250><c> output</c><00:02:10.820><c> of</c><00:02:11.480><c> a</c>
+
+00:02:11.560 --> 00:02:11.570 align:start position:0%
+3 and a 4 which is also the output of a
+ 
+
+00:02:11.570 --> 00:02:15.640 align:start position:0%
+3 and a 4 which is also the output of a
+hypothesis<00:02:12.290><c> it</c><00:02:12.560><c> connects</c><00:02:13.989><c> so</c><00:02:14.989><c> this</c><00:02:15.290><c> is</c><00:02:15.470><c> our</c>
+
+00:02:15.640 --> 00:02:15.650 align:start position:0%
+hypothesis it connects so this is our
+ 
+
+00:02:15.650 --> 00:02:18.340 align:start position:0%
+hypothesis it connects so this is our
+vectorized<00:02:16.370><c> implementation</c><00:02:17.239><c> of</c><00:02:17.480><c> forward</c>
+
+00:02:18.340 --> 00:02:18.350 align:start position:0%
+vectorized implementation of forward
+ 
+
+00:02:18.350 --> 00:02:20.890 align:start position:0%
+vectorized implementation of forward
+propagation<00:02:18.830><c> and</c><00:02:19.040><c> allows</c><00:02:19.700><c> us</c><00:02:19.970><c> to</c><00:02:20.239><c> compute</c><00:02:20.660><c> the</c>
+
+00:02:20.890 --> 00:02:20.900 align:start position:0%
+propagation and allows us to compute the
+ 
+
+00:02:20.900 --> 00:02:23.860 align:start position:0%
+propagation and allows us to compute the
+activation<00:02:21.019><c> values</c><00:02:21.739><c> for</c><00:02:22.459><c> all</c><00:02:22.640><c> of</c><00:02:22.940><c> the</c><00:02:23.150><c> neurons</c>
+
+00:02:23.860 --> 00:02:23.870 align:start position:0%
+activation values for all of the neurons
+ 
+
+00:02:23.870 --> 00:02:29.110 align:start position:0%
+activation values for all of the neurons
+in<00:02:24.170><c> our</c><00:02:24.320><c> neural</c><00:02:24.650><c> network</c><00:02:27.340><c> next</c><00:02:28.340><c> in</c><00:02:28.489><c> order</c><00:02:28.730><c> to</c>
+
+00:02:29.110 --> 00:02:29.120 align:start position:0%
+in our neural network next in order to
+ 
+
+00:02:29.120 --> 00:02:30.729 align:start position:0%
+in our neural network next in order to
+compute<00:02:29.420><c> the</c><00:02:29.570><c> derivatives</c><00:02:30.140><c> we're</c><00:02:30.440><c> going</c><00:02:30.620><c> to</c>
+
+00:02:30.729 --> 00:02:30.739 align:start position:0%
+compute the derivatives we're going to
+ 
+
+00:02:30.739 --> 00:02:34.080 align:start position:0%
+compute the derivatives we're going to
+use<00:02:30.950><c> an</c><00:02:31.100><c> algorithm</c><00:02:31.370><c> called</c><00:02:31.850><c> back</c><00:02:32.120><c> propagation</c>
+
+00:02:34.080 --> 00:02:34.090 align:start position:0%
+use an algorithm called back propagation
+ 
+
+00:02:34.090 --> 00:02:36.729 align:start position:0%
+use an algorithm called back propagation
+the<00:02:35.090><c> intuition</c><00:02:35.810><c> of</c><00:02:35.989><c> the</c><00:02:36.290><c> back</c><00:02:36.470><c> propagation</c>
+
+00:02:36.729 --> 00:02:36.739 align:start position:0%
+the intuition of the back propagation
+ 
+
+00:02:36.739 --> 00:02:39.490 align:start position:0%
+the intuition of the back propagation
+algorithm<00:02:37.400><c> is</c><00:02:37.790><c> that</c><00:02:37.850><c> for</c><00:02:38.510><c> each</c><00:02:38.720><c> node</c><00:02:39.049><c> we're</c>
+
+00:02:39.490 --> 00:02:39.500 align:start position:0%
+algorithm is that for each node we're
+ 
+
+00:02:39.500 --> 00:02:41.500 align:start position:0%
+algorithm is that for each node we're
+going<00:02:39.709><c> to</c><00:02:39.799><c> compute</c><00:02:40.160><c> the</c><00:02:40.310><c> term</c><00:02:40.610><c> Delta</c>
+
+00:02:41.500 --> 00:02:41.510 align:start position:0%
+going to compute the term Delta
+ 
+
+00:02:41.510 --> 00:02:44.289 align:start position:0%
+going to compute the term Delta
+superscript<00:02:41.810><c> L</c><00:02:42.350><c> subscript</c><00:02:42.380><c> J</c><00:02:43.310><c> that's</c><00:02:44.030><c> going</c>
+
+00:02:44.289 --> 00:02:44.299 align:start position:0%
+superscript L subscript J that's going
+ 
+
+00:02:44.299 --> 00:02:47.020 align:start position:0%
+superscript L subscript J that's going
+to<00:02:44.480><c> somehow</c><00:02:44.750><c> represent</c><00:02:45.320><c> the</c><00:02:45.739><c> error</c><00:02:46.010><c> of</c><00:02:46.370><c> node</c><00:02:46.730><c> J</c>
+
+00:02:47.020 --> 00:02:47.030 align:start position:0%
+to somehow represent the error of node J
+ 
+
+00:02:47.030 --> 00:02:49.810 align:start position:0%
+to somehow represent the error of node J
+in<00:02:47.269><c> layer</c><00:02:47.299><c> L</c><00:02:47.810><c> so</c><00:02:48.799><c> recall</c><00:02:49.190><c> that</c><00:02:49.549><c> any</c>
+
+00:02:49.810 --> 00:02:49.820 align:start position:0%
+in layer L so recall that any
+ 
+
+00:02:49.820 --> 00:02:52.900 align:start position:0%
+in layer L so recall that any
+superscript<00:02:50.630><c> L</c><00:02:50.810><c> subscript</c><00:02:51.040><c> J</c><00:02:52.040><c> that</c><00:02:52.700><c> that's</c>
+
+00:02:52.900 --> 00:02:52.910 align:start position:0%
+superscript L subscript J that that's
+ 
+
+00:02:52.910 --> 00:02:55.780 align:start position:0%
+superscript L subscript J that that's
+the<00:02:53.090><c> activation</c><00:02:53.810><c> of</c><00:02:54.019><c> the</c><00:02:54.260><c> JV</c><00:02:54.500><c> unit</c><00:02:54.980><c> in</c><00:02:55.190><c> layer</c><00:02:55.430><c> L</c>
+
+00:02:55.780 --> 00:02:55.790 align:start position:0%
+the activation of the JV unit in layer L
+ 
+
+00:02:55.790 --> 00:02:58.810 align:start position:0%
+the activation of the JV unit in layer L
+and<00:02:56.090><c> so</c><00:02:56.930><c> this</c><00:02:57.200><c> Delta</c><00:02:57.620><c> term</c><00:02:57.650><c> is</c><00:02:58.190><c> in</c><00:02:58.430><c> some</c><00:02:58.640><c> sense</c>
+
+00:02:58.810 --> 00:02:58.820 align:start position:0%
+and so this Delta term is in some sense
+ 
+
+00:02:58.820 --> 00:03:01.060 align:start position:0%
+and so this Delta term is in some sense
+going<00:02:59.209><c> to</c><00:02:59.329><c> capture</c><00:02:59.780><c> our</c><00:02:59.959><c> error</c><00:03:00.620><c> in</c><00:03:01.010><c> the</c>
+
+00:03:01.060 --> 00:03:01.070 align:start position:0%
+going to capture our error in the
+ 
+
+00:03:01.070 --> 00:03:04.150 align:start position:0%
+going to capture our error in the
+activation<00:03:01.579><c> of</c><00:03:02.390><c> that</c><00:03:02.690><c> node</c><00:03:02.989><c> or</c><00:03:03.290><c> so</c><00:03:03.769><c> how</c><00:03:04.100><c> we</c>
+
+00:03:04.150 --> 00:03:04.160 align:start position:0%
+activation of that node or so how we
+ 
+
+00:03:04.160 --> 00:03:06.310 align:start position:0%
+activation of that node or so how we
+might<00:03:04.430><c> wish</c><00:03:04.700><c> the</c><00:03:05.150><c> activation</c><00:03:05.720><c> of</c><00:03:05.900><c> that</c><00:03:06.079><c> node</c>
+
+00:03:06.310 --> 00:03:06.320 align:start position:0%
+might wish the activation of that node
+ 
+
+00:03:06.320 --> 00:03:08.680 align:start position:0%
+might wish the activation of that node
+were<00:03:06.530><c> slightly</c><00:03:06.860><c> different</c><00:03:07.690><c> concretely</c>
+
+00:03:08.680 --> 00:03:08.690 align:start position:0%
+were slightly different concretely
+ 
+
+00:03:08.690 --> 00:03:11.050 align:start position:0%
+were slightly different concretely
+taking<00:03:09.590><c> the</c><00:03:09.709><c> example</c><00:03:10.040><c> neural</c><00:03:10.549><c> network</c><00:03:10.910><c> that</c>
+
+00:03:11.050 --> 00:03:11.060 align:start position:0%
+taking the example neural network that
+ 
+
+00:03:11.060 --> 00:03:12.699 align:start position:0%
+taking the example neural network that
+we<00:03:11.150><c> have</c><00:03:11.180><c> on</c><00:03:11.510><c> the</c><00:03:11.600><c> right</c><00:03:11.810><c> which</c><00:03:12.140><c> has</c><00:03:12.350><c> four</c>
+
+00:03:12.699 --> 00:03:12.709 align:start position:0%
+we have on the right which has four
+ 
+
+00:03:12.709 --> 00:03:15.360 align:start position:0%
+we have on the right which has four
+layers<00:03:12.980><c> and</c><00:03:13.370><c> so</c><00:03:13.579><c> capital</c><00:03:14.150><c> L</c><00:03:14.299><c> is</c><00:03:14.510><c> equal</c><00:03:14.780><c> to</c><00:03:14.870><c> four</c>
+
+00:03:15.360 --> 00:03:15.370 align:start position:0%
+layers and so capital L is equal to four
+ 
+
+00:03:15.370 --> 00:03:17.740 align:start position:0%
+layers and so capital L is equal to four
+for<00:03:16.370><c> each</c><00:03:16.519><c> output</c><00:03:16.820><c> unit</c><00:03:17.329><c> we're</c><00:03:17.510><c> going</c><00:03:17.660><c> to</c>
+
+00:03:17.740 --> 00:03:17.750 align:start position:0%
+for each output unit we're going to
+ 
+
+00:03:17.750 --> 00:03:20.289 align:start position:0%
+for each output unit we're going to
+compute<00:03:18.079><c> this</c><00:03:18.260><c> Delta</c><00:03:18.739><c> term</c><00:03:19.130><c> so</c><00:03:19.430><c> Delta</c><00:03:19.910><c> for</c><00:03:20.209><c> the</c>
+
+00:03:20.289 --> 00:03:20.299 align:start position:0%
+compute this Delta term so Delta for the
+ 
+
+00:03:20.299 --> 00:03:22.690 align:start position:0%
+compute this Delta term so Delta for the
+JV<00:03:20.540><c> unit</c><00:03:20.930><c> in</c><00:03:21.140><c> the</c><00:03:21.260><c> fourth</c><00:03:21.500><c> layer</c><00:03:21.709><c> is</c><00:03:21.769><c> equal</c><00:03:22.340><c> to</c>
+
+00:03:22.690 --> 00:03:22.700 align:start position:0%
+JV unit in the fourth layer is equal to
+ 
+
+00:03:22.700 --> 00:03:25.140 align:start position:0%
+JV unit in the fourth layer is equal to
+just<00:03:22.910><c> the</c><00:03:23.690><c> activation</c><00:03:23.780><c> of</c><00:03:24.500><c> that</c><00:03:24.650><c> unit</c>
+
+00:03:25.140 --> 00:03:25.150 align:start position:0%
+just the activation of that unit
+ 
+
+00:03:25.150 --> 00:03:27.929 align:start position:0%
+just the activation of that unit
+-<00:03:25.629><c> what</c><00:03:26.140><c> was</c><00:03:26.260><c> the</c><00:03:26.409><c> actual</c><00:03:26.739><c> value</c><00:03:27.220><c> observed</c><00:03:27.640><c> in</c>
+
+00:03:27.929 --> 00:03:27.939 align:start position:0%
+- what was the actual value observed in
+ 
+
+00:03:27.939 --> 00:03:31.020 align:start position:0%
+- what was the actual value observed in
+our<00:03:28.150><c> training</c><00:03:28.720><c> example</c><00:03:29.230><c> so</c><00:03:30.010><c> this</c><00:03:30.280><c> term</c><00:03:30.579><c> here</c>
+
+00:03:31.020 --> 00:03:31.030 align:start position:0%
+our training example so this term here
+ 
+
+00:03:31.030 --> 00:03:36.210 align:start position:0%
+our training example so this term here
+is<00:03:31.590><c> can</c><00:03:32.590><c> also</c><00:03:32.739><c> be</c><00:03:33.099><c> written</c><00:03:33.250><c> H</c><00:03:33.700><c> of</c><00:03:34.540><c> X</c><00:03:35.220><c> subscript</c>
+
+00:03:36.210 --> 00:03:36.220 align:start position:0%
+is can also be written H of X subscript
+ 
+
+00:03:36.220 --> 00:03:39.929 align:start position:0%
+is can also be written H of X subscript
+J<00:03:37.200><c> right</c><00:03:38.200><c> so</c><00:03:38.530><c> this</c><00:03:38.769><c> Delta</c><00:03:39.129><c> term</c><00:03:39.340><c> is</c><00:03:39.610><c> just</c><00:03:39.849><c> the</c>
+
+00:03:39.929 --> 00:03:39.939 align:start position:0%
+J right so this Delta term is just the
+ 
+
+00:03:39.939 --> 00:03:41.699 align:start position:0%
+J right so this Delta term is just the
+difference<00:03:40.390><c> between</c><00:03:40.510><c> what</c><00:03:40.930><c> our</c><00:03:40.959><c> hypothesis</c>
+
+00:03:41.699 --> 00:03:41.709 align:start position:0%
+difference between what our hypothesis
+ 
+
+00:03:41.709 --> 00:03:45.390 align:start position:0%
+difference between what our hypothesis
+outputs<00:03:41.920><c> and</c><00:03:42.400><c> what</c><00:03:43.359><c> was</c><00:03:43.599><c> the</c><00:03:43.900><c> value</c><00:03:44.379><c> of</c><00:03:44.650><c> y</c><00:03:45.069><c> in</c>
+
+00:03:45.390 --> 00:03:45.400 align:start position:0%
+outputs and what was the value of y in
+ 
+
+00:03:45.400 --> 00:03:47.819 align:start position:0%
+outputs and what was the value of y in
+our<00:03:46.000><c> training</c><00:03:46.569><c> set</c><00:03:46.810><c> where</c><00:03:47.079><c> this</c><00:03:47.200><c> Y</c><00:03:47.439><c> subscript</c>
+
+00:03:47.819 --> 00:03:47.829 align:start position:0%
+our training set where this Y subscript
+ 
+
+00:03:47.829 --> 00:03:50.220 align:start position:0%
+our training set where this Y subscript
+J<00:03:48.220><c> is</c><00:03:48.430><c> the</c><00:03:48.879><c> jave</c><00:03:49.120><c> element</c><00:03:49.659><c> of</c><00:03:49.840><c> the</c><00:03:50.049><c> vector</c>
+
+00:03:50.220 --> 00:03:50.230 align:start position:0%
+J is the jave element of the vector
+ 
+
+00:03:50.230 --> 00:03:55.729 align:start position:0%
+J is the jave element of the vector
+value<00:03:50.829><c> Y</c><00:03:51.069><c> in</c><00:03:51.430><c> our</c><00:03:52.090><c> labeled</c><00:03:52.989><c> training</c><00:03:53.230><c> set</c><00:03:53.590><c> and</c>
+
+00:03:55.729 --> 00:03:55.739 align:start position:0%
+value Y in our labeled training set and
+ 
+
+00:03:55.739 --> 00:04:00.780 align:start position:0%
+value Y in our labeled training set and
+by<00:03:56.739><c> the</c><00:03:56.799><c> way</c><00:03:57.040><c> if</c><00:03:57.250><c> you</c><00:03:57.909><c> think</c><00:03:57.940><c> of</c><00:03:58.420><c> Delta</c><00:03:59.230><c> a</c><00:03:59.500><c> and</c><00:04:00.069><c> Y</c>
+
+00:04:00.780 --> 00:04:00.790 align:start position:0%
+by the way if you think of Delta a and Y
+ 
+
+00:04:00.790 --> 00:04:03.449 align:start position:0%
+by the way if you think of Delta a and Y
+as<00:04:01.090><c> vectors</c><00:04:01.599><c> then</c><00:04:02.260><c> you</c><00:04:02.379><c> can</c><00:04:02.560><c> also</c><00:04:02.709><c> take</c><00:04:03.280><c> this</c>
+
+00:04:03.449 --> 00:04:03.459 align:start position:0%
+as vectors then you can also take this
+ 
+
+00:04:03.459 --> 00:04:04.879 align:start position:0%
+as vectors then you can also take this
+and<00:04:03.730><c> come</c><00:04:04.030><c> up</c><00:04:04.150><c> with</c><00:04:04.269><c> a</c><00:04:04.329><c> vectorized</c>
+
+00:04:04.879 --> 00:04:04.889 align:start position:0%
+and come up with a vectorized
+ 
+
+00:04:04.889 --> 00:04:08.160 align:start position:0%
+and come up with a vectorized
+implementation<00:04:05.889><c> of</c><00:04:06.010><c> it</c><00:04:06.159><c> which</c><00:04:07.150><c> is</c><00:04:07.299><c> just</c><00:04:07.329><c> Delta</c>
+
+00:04:08.160 --> 00:04:08.170 align:start position:0%
+implementation of it which is just Delta
+ 
+
+00:04:08.170 --> 00:04:14.819 align:start position:0%
+implementation of it which is just Delta
+for<00:04:08.470><c> get</c><00:04:09.340><c> set</c><00:04:09.670><c> as</c><00:04:09.939><c> a</c><00:04:10.269><c> for</c><00:04:11.489><c> -</c><00:04:12.569><c> why</c><00:04:13.569><c> we're</c><00:04:14.500><c> here</c>
+
+00:04:14.819 --> 00:04:14.829 align:start position:0%
+for get set as a for - why we're here
+ 
+
+00:04:14.829 --> 00:04:17.250 align:start position:0%
+for get set as a for - why we're here
+each<00:04:15.129><c> of</c><00:04:15.189><c> these</c><00:04:15.370><c> Delta</c><00:04:15.790><c> for</c><00:04:16.389><c> a</c><00:04:16.599><c> for</c><00:04:16.900><c> and</c><00:04:17.079><c> why</c>
+
+00:04:17.250 --> 00:04:17.260 align:start position:0%
+each of these Delta for a for and why
+ 
+
+00:04:17.260 --> 00:04:20.000 align:start position:0%
+each of these Delta for a for and why
+each<00:04:17.979><c> of</c><00:04:18.010><c> these</c><00:04:18.340><c> is</c><00:04:18.669><c> a</c><00:04:18.729><c> vector</c><00:04:19.329><c> whose</c>
+
+00:04:20.000 --> 00:04:20.010 align:start position:0%
+each of these is a vector whose
+ 
+
+00:04:20.010 --> 00:04:22.950 align:start position:0%
+each of these is a vector whose
+dimension<00:04:21.010><c> is</c><00:04:21.220><c> equal</c><00:04:22.030><c> to</c><00:04:22.240><c> the</c><00:04:22.389><c> number</c><00:04:22.599><c> of</c>
+
+00:04:22.950 --> 00:04:22.960 align:start position:0%
+dimension is equal to the number of
+ 
+
+00:04:22.960 --> 00:04:24.749 align:start position:0%
+dimension is equal to the number of
+output<00:04:23.410><c> units</c><00:04:23.590><c> in</c><00:04:24.009><c> your</c><00:04:24.130><c> network</c>
+
+00:04:24.749 --> 00:04:24.759 align:start position:0%
+output units in your network
+ 
+
+00:04:24.759 --> 00:04:28.439 align:start position:0%
+output units in your network
+so<00:04:25.419><c> we've</c><00:04:25.780><c> now</c><00:04:25.930><c> computed</c><00:04:26.620><c> the</c><00:04:27.610><c> error</c><00:04:28.000><c> terms</c>
+
+00:04:28.439 --> 00:04:28.449 align:start position:0%
+so we've now computed the error terms
+ 
+
+00:04:28.449 --> 00:04:31.890 align:start position:0%
+so we've now computed the error terms
+Delta<00:04:29.050><c> for</c><00:04:29.380><c> for</c><00:04:29.889><c> our</c><00:04:30.099><c> network</c><00:04:30.630><c> what</c><00:04:31.630><c> we</c><00:04:31.720><c> do</c>
+
+00:04:31.890 --> 00:04:31.900 align:start position:0%
+Delta for for our network what we do
+ 
+
+00:04:31.900 --> 00:04:34.890 align:start position:0%
+Delta for for our network what we do
+next<00:04:32.110><c> is</c><00:04:32.500><c> compute</c><00:04:33.400><c> the</c><00:04:33.760><c> Delta</c><00:04:33.940><c> terms</c><00:04:34.300><c> for</c><00:04:34.750><c> the</c>
+
+00:04:34.890 --> 00:04:34.900 align:start position:0%
+next is compute the Delta terms for the
+ 
+
+00:04:34.900 --> 00:04:37.560 align:start position:0%
+next is compute the Delta terms for the
+earlier<00:04:35.380><c> layers</c><00:04:35.680><c> in</c><00:04:35.979><c> our</c><00:04:36.099><c> network</c><00:04:36.490><c> here's</c><00:04:37.389><c> the</c>
+
+00:04:37.560 --> 00:04:37.570 align:start position:0%
+earlier layers in our network here's the
+ 
+
+00:04:37.570 --> 00:04:39.960 align:start position:0%
+earlier layers in our network here's the
+formula<00:04:37.870><c> for</c><00:04:38.050><c> computing</c><00:04:38.320><c> Delta</c><00:04:39.039><c> 3</c><00:04:39.280><c> is</c><00:04:39.430><c> Delta</c><00:04:39.760><c> 3</c>
+
+00:04:39.960 --> 00:04:39.970 align:start position:0%
+formula for computing Delta 3 is Delta 3
+ 
+
+00:04:39.970 --> 00:04:41.760 align:start position:0%
+formula for computing Delta 3 is Delta 3
+is<00:04:40.120><c> equal</c><00:04:40.330><c> to</c><00:04:40.419><c> theta</c><00:04:40.659><c> 3</c><00:04:40.870><c> transpose</c><00:04:41.080><c> times</c>
+
+00:04:41.760 --> 00:04:41.770 align:start position:0%
+is equal to theta 3 transpose times
+ 
+
+00:04:41.770 --> 00:04:44.670 align:start position:0%
+is equal to theta 3 transpose times
+Delta<00:04:42.099><c> 4</c><00:04:42.340><c> and</c><00:04:42.550><c> this</c><00:04:43.210><c> dot</c><00:04:43.599><c> times</c><00:04:43.960><c> this</c><00:04:44.349><c> is</c><00:04:44.500><c> the</c>
+
+00:04:44.670 --> 00:04:44.680 align:start position:0%
+Delta 4 and this dot times this is the
+ 
+
+00:04:44.680 --> 00:04:47.040 align:start position:0%
+Delta 4 and this dot times this is the
+element<00:04:45.190><c> wise</c><00:04:45.370><c> multiplication</c><00:04:46.050><c> operation</c>
+
+00:04:47.040 --> 00:04:47.050 align:start position:0%
+element wise multiplication operation
+ 
+
+00:04:47.050 --> 00:04:49.920 align:start position:0%
+element wise multiplication operation
+that<00:04:47.710><c> we</c><00:04:47.889><c> know</c><00:04:48.070><c> from</c><00:04:48.280><c> MATLAB</c><00:04:48.550><c> so</c><00:04:49.180><c> Delta</c><00:04:49.720><c> 3</c>
+
+00:04:49.920 --> 00:04:49.930 align:start position:0%
+that we know from MATLAB so Delta 3
+ 
+
+00:04:49.930 --> 00:04:53.159 align:start position:0%
+that we know from MATLAB so Delta 3
+transpose<00:04:50.560><c> Delta</c><00:04:51.070><c> fold</c><00:04:51.340><c> as</c><00:04:51.520><c> a</c><00:04:51.550><c> vector</c><00:04:51.849><c> Z</c><00:04:52.840><c> prime</c>
+
+00:04:53.159 --> 00:04:53.169 align:start position:0%
+transpose Delta fold as a vector Z prime
+ 
+
+00:04:53.169 --> 00:04:57.210 align:start position:0%
+transpose Delta fold as a vector Z prime
+Z<00:04:53.199><c> 3</c><00:04:53.860><c> that's</c><00:04:54.190><c> also</c><00:04:54.729><c> a</c><00:04:54.760><c> vector</c><00:04:55.030><c> and</c><00:04:55.449><c> so</c><00:04:56.320><c> that</c><00:04:56.889><c> x</c>
+
+00:04:57.210 --> 00:04:57.220 align:start position:0%
+Z 3 that's also a vector and so that x
+ 
+
+00:04:57.220 --> 00:04:58.230 align:start position:0%
+Z 3 that's also a vector and so that x
+is<00:04:57.520><c> an</c><00:04:57.639><c> element</c><00:04:58.000><c> wise</c><00:04:58.210><c> multiplication</c>
+
+00:04:58.230 --> 00:04:58.240 align:start position:0%
+is an element wise multiplication
+ 
+
+00:04:58.240 --> 00:05:00.990 align:start position:0%
+is an element wise multiplication
+between<00:04:59.199><c> these</c><00:04:59.530><c> two</c><00:04:59.680><c> vectors</c>
+
+00:05:00.990 --> 00:05:01.000 align:start position:0%
+between these two vectors
+ 
+
+00:05:01.000 --> 00:05:04.320 align:start position:0%
+between these two vectors
+this<00:05:01.630><c> term</c><00:05:01.930><c> G</c><00:05:02.200><c> prime</c><00:05:02.530><c> of</c><00:05:02.560><c> Z</c><00:05:02.950><c> 3</c><00:05:03.280><c> that</c><00:05:03.640><c> formally</c>
+
+00:05:04.320 --> 00:05:04.330 align:start position:0%
+this term G prime of Z 3 that formally
+ 
+
+00:05:04.330 --> 00:05:06.090 align:start position:0%
+this term G prime of Z 3 that formally
+is<00:05:04.540><c> actually</c><00:05:04.930><c> the</c><00:05:05.080><c> derivative</c><00:05:05.380><c> of</c><00:05:05.920><c> the</c>
+
+00:05:06.090 --> 00:05:06.100 align:start position:0%
+is actually the derivative of the
+ 
+
+00:05:06.100 --> 00:05:08.910 align:start position:0%
+is actually the derivative of the
+activation<00:05:06.220><c> function</c><00:05:06.730><c> G</c><00:05:07.590><c> evaluated</c><00:05:08.590><c> at</c><00:05:08.800><c> the</c>
+
+00:05:08.910 --> 00:05:08.920 align:start position:0%
+activation function G evaluated at the
+ 
+
+00:05:08.920 --> 00:05:12.000 align:start position:0%
+activation function G evaluated at the
+input<00:05:09.310><c> values</c><00:05:09.700><c> given</c><00:05:10.090><c> by</c><00:05:10.210><c> Z</c><00:05:10.480><c> 3</c><00:05:10.810><c> if</c><00:05:11.740><c> you</c><00:05:11.800><c> know</c>
+
+00:05:12.000 --> 00:05:12.010 align:start position:0%
+input values given by Z 3 if you know
+ 
+
+00:05:12.010 --> 00:05:13.410 align:start position:0%
+input values given by Z 3 if you know
+calculus<00:05:12.220><c> you</c><00:05:12.640><c> can</c><00:05:12.760><c> try</c><00:05:12.970><c> to</c><00:05:13.030><c> work</c><00:05:13.240><c> it</c><00:05:13.360><c> out</c>
+
+00:05:13.410 --> 00:05:13.420 align:start position:0%
+calculus you can try to work it out
+ 
+
+00:05:13.420 --> 00:05:15.000 align:start position:0%
+calculus you can try to work it out
+yourself<00:05:13.570><c> and</c><00:05:14.020><c> see</c><00:05:14.170><c> if</c><00:05:14.200><c> you</c><00:05:14.350><c> can</c><00:05:14.500><c> simplify</c><00:05:14.710><c> it</c>
+
+00:05:15.000 --> 00:05:15.010 align:start position:0%
+yourself and see if you can simplify it
+ 
+
+00:05:15.010 --> 00:05:16.500 align:start position:0%
+yourself and see if you can simplify it
+in<00:05:15.220><c> the</c><00:05:15.280><c> same</c><00:05:15.460><c> answer</c><00:05:15.820><c> that</c><00:05:15.850><c> I</c><00:05:16.060><c> get</c>
+
+00:05:16.500 --> 00:05:16.510 align:start position:0%
+in the same answer that I get
+ 
+
+00:05:16.510 --> 00:05:19.200 align:start position:0%
+in the same answer that I get
+but<00:05:17.020><c> so</c><00:05:17.230><c> I'll</c><00:05:17.650><c> just</c><00:05:17.950><c> tell</c><00:05:18.220><c> you</c><00:05:18.640><c> pragmatically</c>
+
+00:05:19.200 --> 00:05:19.210 align:start position:0%
+but so I'll just tell you pragmatically
+ 
+
+00:05:19.210 --> 00:05:21.000 align:start position:0%
+but so I'll just tell you pragmatically
+what<00:05:19.420><c> that</c><00:05:19.600><c> means</c><00:05:19.840><c> what</c><00:05:20.140><c> you</c><00:05:20.260><c> do</c><00:05:20.440><c> to</c><00:05:20.650><c> compute</c>
+
+00:05:21.000 --> 00:05:21.010 align:start position:0%
+what that means what you do to compute
+ 
+
+00:05:21.010 --> 00:05:23.370 align:start position:0%
+what that means what you do to compute
+this<00:05:21.220><c> G</c><00:05:21.460><c> prime</c><00:05:21.730><c> these</c><00:05:22.000><c> derivative</c><00:05:22.600><c> terms</c><00:05:22.840><c> is</c>
+
+00:05:23.370 --> 00:05:23.380 align:start position:0%
+this G prime these derivative terms is
+ 
+
+00:05:23.380 --> 00:05:28.590 align:start position:0%
+this G prime these derivative terms is
+just<00:05:23.440><c> a</c><00:05:23.920><c> 3</c><00:05:24.340><c> dot</c><00:05:24.940><c> times</c><00:05:25.270><c> 1</c><00:05:25.780><c> minus</c><00:05:26.200><c> 8</c><00:05:26.410><c> 3</c><00:05:26.740><c> where</c><00:05:27.730><c> a</c><00:05:27.970><c> 3</c>
+
+00:05:28.590 --> 00:05:28.600 align:start position:0%
+just a 3 dot times 1 minus 8 3 where a 3
+ 
+
+00:05:28.600 --> 00:05:31.110 align:start position:0%
+just a 3 dot times 1 minus 8 3 where a 3
+is<00:05:28.810><c> the</c><00:05:28.930><c> vector</c><00:05:29.290><c> of</c><00:05:29.320><c> activations</c><00:05:30.070><c> 1</c><00:05:30.790><c> is</c><00:05:31.090><c> a</c>
+
+00:05:31.110 --> 00:05:31.120 align:start position:0%
+is the vector of activations 1 is a
+ 
+
+00:05:31.120 --> 00:05:34.370 align:start position:0%
+is the vector of activations 1 is a
+vector<00:05:31.480><c> once</c><00:05:31.840><c> and</c><00:05:32.140><c> a</c><00:05:32.890><c> 3</c><00:05:33.340><c> is</c><00:05:33.669><c> again</c>
+
+00:05:34.370 --> 00:05:34.380 align:start position:0%
+vector once and a 3 is again
+ 
+
+00:05:34.380 --> 00:05:37.500 align:start position:0%
+vector once and a 3 is again
+deactivation<00:05:35.410><c> the</c><00:05:35.800><c> vector</c><00:05:36.730><c> of</c><00:05:36.760><c> activation</c>
+
+00:05:37.500 --> 00:05:37.510 align:start position:0%
+deactivation the vector of activation
+ 
+
+00:05:37.510 --> 00:05:39.960 align:start position:0%
+deactivation the vector of activation
+values<00:05:37.960><c> for</c><00:05:38.620><c> that</c><00:05:38.800><c> layer</c><00:05:39.010><c> next</c><00:05:39.520><c> you</c><00:05:39.669><c> apply</c><00:05:39.940><c> a</c>
+
+00:05:39.960 --> 00:05:39.970 align:start position:0%
+values for that layer next you apply a
+ 
+
+00:05:39.970 --> 00:05:43.530 align:start position:0%
+values for that layer next you apply a
+similar<00:05:40.480><c> formula</c><00:05:41.110><c> to</c><00:05:41.350><c> compute</c><00:05:41.530><c> Delta</c><00:05:42.280><c> 2</c><00:05:42.700><c> where</c>
+
+00:05:43.530 --> 00:05:43.540 align:start position:0%
+similar formula to compute Delta 2 where
+ 
+
+00:05:43.540 --> 00:05:46.860 align:start position:0%
+similar formula to compute Delta 2 where
+again<00:05:43.840><c> that</c><00:05:44.260><c> can</c><00:05:45.250><c> be</c><00:05:45.280><c> computed</c><00:05:46.180><c> using</c><00:05:46.330><c> a</c>
+
+00:05:46.860 --> 00:05:46.870 align:start position:0%
+again that can be computed using a
+ 
+
+00:05:46.870 --> 00:05:49.470 align:start position:0%
+again that can be computed using a
+similar<00:05:47.410><c> formula</c><00:05:47.770><c> or</c><00:05:48.220><c> you</c><00:05:48.460><c> know</c><00:05:48.880><c> this</c><00:05:49.180><c> a</c><00:05:49.360><c> 2</c>
+
+00:05:49.470 --> 00:05:49.480 align:start position:0%
+similar formula or you know this a 2
+ 
+
+00:05:49.480 --> 00:05:54.960 align:start position:0%
+similar formula or you know this a 2
+like<00:05:50.260><c> so</c><00:05:50.760><c> and</c><00:05:52.830><c> I</c><00:05:53.830><c> didn't</c><00:05:54.220><c> prove</c><00:05:54.400><c> it</c><00:05:54.550><c> here</c><00:05:54.730><c> but</c>
+
+00:05:54.960 --> 00:05:54.970 align:start position:0%
+like so and I didn't prove it here but
+ 
+
+00:05:54.970 --> 00:05:57.060 align:start position:0%
+like so and I didn't prove it here but
+you<00:05:55.150><c> can</c><00:05:55.360><c> actually</c><00:05:55.570><c> possible</c><00:05:56.410><c> to</c><00:05:56.470><c> prove</c><00:05:56.740><c> you</c>
+
+00:05:57.060 --> 00:05:57.070 align:start position:0%
+you can actually possible to prove you
+ 
+
+00:05:57.070 --> 00:05:59.370 align:start position:0%
+you can actually possible to prove you
+know<00:05:57.100><c> calculus</c><00:05:57.820><c> that</c><00:05:58.360><c> this</c><00:05:58.570><c> expression</c><00:05:59.200><c> is</c>
+
+00:05:59.370 --> 00:05:59.380 align:start position:0%
+know calculus that this expression is
+ 
+
+00:05:59.380 --> 00:06:01.860 align:start position:0%
+know calculus that this expression is
+equal<00:05:59.590><c> to</c><00:05:59.890><c> mathematically</c><00:06:00.820><c> the</c><00:06:01.270><c> derivative</c>
+
+00:06:01.860 --> 00:06:01.870 align:start position:0%
+equal to mathematically the derivative
+ 
+
+00:06:01.870 --> 00:06:03.900 align:start position:0%
+equal to mathematically the derivative
+of<00:06:02.110><c> the</c><00:06:02.320><c> G</c><00:06:02.530><c> function</c><00:06:02.919><c> of</c><00:06:03.310><c> the</c><00:06:03.520><c> activation</c>
+
+00:06:03.900 --> 00:06:03.910 align:start position:0%
+of the G function of the activation
+ 
+
+00:06:03.910 --> 00:06:06.600 align:start position:0%
+of the G function of the activation
+function<00:06:04.320><c> which</c><00:06:05.320><c> I'm</c><00:06:05.470><c> denoting</c><00:06:05.620><c> by</c><00:06:06.100><c> G</c><00:06:06.340><c> Prime</c>
+
+00:06:06.600 --> 00:06:06.610 align:start position:0%
+function which I'm denoting by G Prime
+ 
+
+00:06:06.610 --> 00:06:11.040 align:start position:0%
+function which I'm denoting by G Prime
+and<00:06:08.070><c> finally</c><00:06:09.070><c> that's</c><00:06:09.490><c> it</c><00:06:09.729><c> and</c><00:06:10.000><c> there</c><00:06:10.690><c> is</c><00:06:10.840><c> no</c>
+
+00:06:11.040 --> 00:06:11.050 align:start position:0%
+and finally that's it and there is no
+ 
+
+00:06:11.050 --> 00:06:14.250 align:start position:0%
+and finally that's it and there is no
+delta<00:06:11.530><c> 1</c><00:06:11.740><c> term</c><00:06:12.030><c> because</c><00:06:13.030><c> the</c><00:06:13.750><c> first</c><00:06:14.020><c> layer</c>
+
+00:06:14.250 --> 00:06:14.260 align:start position:0%
+delta 1 term because the first layer
+ 
+
+00:06:14.260 --> 00:06:16.320 align:start position:0%
+delta 1 term because the first layer
+corresponds<00:06:15.100><c> to</c><00:06:15.250><c> the</c><00:06:15.430><c> input</c><00:06:15.820><c> layer</c><00:06:15.970><c> and</c>
+
+00:06:16.320 --> 00:06:16.330 align:start position:0%
+corresponds to the input layer and
+ 
+
+00:06:16.330 --> 00:06:18.210 align:start position:0%
+corresponds to the input layer and
+that's<00:06:16.570><c> just</c><00:06:16.930><c> the</c><00:06:17.080><c> features</c><00:06:17.290><c> we</c><00:06:17.680><c> observed</c><00:06:18.040><c> in</c>
+
+00:06:18.210 --> 00:06:18.220 align:start position:0%
+that's just the features we observed in
+ 
+
+00:06:18.220 --> 00:06:19.800 align:start position:0%
+that's just the features we observed in
+our<00:06:18.310><c> training</c><00:06:18.729><c> set</c><00:06:18.940><c> so</c><00:06:19.210><c> that</c><00:06:19.390><c> doesn't</c><00:06:19.600><c> have</c>
+
+00:06:19.800 --> 00:06:19.810 align:start position:0%
+our training set so that doesn't have
+ 
+
+00:06:19.810 --> 00:06:21.330 align:start position:0%
+our training set so that doesn't have
+any<00:06:19.930><c> error</c><00:06:20.169><c> associated</c><00:06:20.560><c> with</c><00:06:20.950><c> it</c><00:06:21.130><c> it's</c><00:06:21.310><c> not</c>
+
+00:06:21.330 --> 00:06:21.340 align:start position:0%
+any error associated with it it's not
+ 
+
+00:06:21.340 --> 00:06:23.100 align:start position:0%
+any error associated with it it's not
+like<00:06:21.640><c> we</c><00:06:22.210><c> don't</c><00:06:22.330><c> really</c><00:06:22.450><c> want</c><00:06:22.750><c> to</c><00:06:22.840><c> try</c><00:06:23.050><c> to</c>
+
+00:06:23.100 --> 00:06:23.110 align:start position:0%
+like we don't really want to try to
+ 
+
+00:06:23.110 --> 00:06:25.380 align:start position:0%
+like we don't really want to try to
+change<00:06:23.440><c> those</c><00:06:23.680><c> values</c><00:06:23.770><c> and</c><00:06:24.580><c> so</c><00:06:24.910><c> we</c><00:06:25.060><c> have</c><00:06:25.240><c> Delta</c>
+
+00:06:25.380 --> 00:06:25.390 align:start position:0%
+change those values and so we have Delta
+ 
+
+00:06:25.390 --> 00:06:28.080 align:start position:0%
+change those values and so we have Delta
+terms<00:06:25.780><c> only</c><00:06:26.080><c> for</c><00:06:26.410><c> layers</c><00:06:26.680><c> 2</c><00:06:26.950><c> 3</c><00:06:27.310><c> &amp;</c><00:06:27.520><c> 4</c><00:06:27.550><c> in</c><00:06:27.850><c> this</c>
+
+00:06:28.080 --> 00:06:28.090 align:start position:0%
+terms only for layers 2 3 &amp; 4 in this
+ 
+
+00:06:28.090 --> 00:06:29.749 align:start position:0%
+terms only for layers 2 3 &amp; 4 in this
+example
+
+00:06:29.749 --> 00:06:29.759 align:start position:0%
+example
+ 
+
+00:06:29.759 --> 00:06:32.269 align:start position:0%
+example
+the<00:06:30.300><c> name</c><00:06:30.479><c> backpropagation</c><00:06:31.349><c> comes</c><00:06:31.949><c> from</c><00:06:32.159><c> the</c>
+
+00:06:32.269 --> 00:06:32.279 align:start position:0%
+the name backpropagation comes from the
+ 
+
+00:06:32.279 --> 00:06:34.040 align:start position:0%
+the name backpropagation comes from the
+fact<00:06:32.520><c> that</c><00:06:32.699><c> we</c><00:06:32.939><c> start</c><00:06:33.240><c> with</c><00:06:33.419><c> computing</c><00:06:33.900><c> the</c>
+
+00:06:34.040 --> 00:06:34.050 align:start position:0%
+fact that we start with computing the
+ 
+
+00:06:34.050 --> 00:06:36.350 align:start position:0%
+fact that we start with computing the
+Delta<00:06:34.229><c> term</c><00:06:34.620><c> for</c><00:06:34.830><c> the</c><00:06:34.919><c> output</c><00:06:35.219><c> layer</c><00:06:35.370><c> and</c><00:06:35.699><c> then</c>
+
+00:06:36.350 --> 00:06:36.360 align:start position:0%
+Delta term for the output layer and then
+ 
+
+00:06:36.360 --> 00:06:38.390 align:start position:0%
+Delta term for the output layer and then
+we<00:06:36.539><c> go</c><00:06:36.749><c> back</c><00:06:36.960><c> a</c><00:06:36.990><c> layer</c><00:06:37.319><c> and</c><00:06:37.680><c> compute</c><00:06:38.129><c> the</c><00:06:38.219><c> Delta</c>
+
+00:06:38.390 --> 00:06:38.400 align:start position:0%
+we go back a layer and compute the Delta
+ 
+
+00:06:38.400 --> 00:06:40.760 align:start position:0%
+we go back a layer and compute the Delta
+terms<00:06:38.759><c> for</c><00:06:39.180><c> the</c><00:06:39.599><c> third</c><00:06:39.839><c> hidden</c><00:06:40.169><c> layer</c><00:06:40.349><c> and</c>
+
+00:06:40.760 --> 00:06:40.770 align:start position:0%
+terms for the third hidden layer and
+ 
+
+00:06:40.770 --> 00:06:42.799 align:start position:0%
+terms for the third hidden layer and
+then<00:06:41.039><c> we</c><00:06:41.069><c> go</c><00:06:41.370><c> back</c><00:06:41.400><c> another</c><00:06:41.879><c> step</c><00:06:42.029><c> to</c><00:06:42.389><c> compute</c>
+
+00:06:42.799 --> 00:06:42.809 align:start position:0%
+then we go back another step to compute
+ 
+
+00:06:42.809 --> 00:06:44.689 align:start position:0%
+then we go back another step to compute
+Delta<00:06:42.960><c> 2</c><00:06:43.349><c> and</c><00:06:43.559><c> so</c><00:06:43.710><c> we're</c><00:06:43.919><c> sort</c><00:06:44.099><c> of</c><00:06:44.189><c> back</c>
+
+00:06:44.689 --> 00:06:44.699 align:start position:0%
+Delta 2 and so we're sort of back
+ 
+
+00:06:44.699 --> 00:06:46.640 align:start position:0%
+Delta 2 and so we're sort of back
+propagating<00:06:45.509><c> the</c><00:06:45.629><c> errors</c><00:06:45.659><c> from</c><00:06:46.020><c> the</c><00:06:46.259><c> output</c>
+
+00:06:46.640 --> 00:06:46.650 align:start position:0%
+propagating the errors from the output
+ 
+
+00:06:46.650 --> 00:06:49.369 align:start position:0%
+propagating the errors from the output
+layer<00:06:46.830><c> to</c><00:06:47.069><c> layer</c><00:06:47.219><c> 3</c><00:06:47.460><c> to</c><00:06:48.059><c> layer</c><00:06:48.270><c> 2</c><00:06:48.569><c> hence</c><00:06:49.139><c> the</c>
+
+00:06:49.369 --> 00:06:49.379 align:start position:0%
+layer to layer 3 to layer 2 hence the
+ 
+
+00:06:49.379 --> 00:06:52.249 align:start position:0%
+layer to layer 3 to layer 2 hence the
+name<00:06:49.529><c> back</c><00:06:49.860><c> propagation</c><00:06:50.809><c> finally</c><00:06:51.809><c> the</c>
+
+00:06:52.249 --> 00:06:52.259 align:start position:0%
+name back propagation finally the
+ 
+
+00:06:52.259 --> 00:06:54.439 align:start position:0%
+name back propagation finally the
+derivation<00:06:52.770><c> is</c><00:06:53.249><c> um</c><00:06:53.550><c> surprisingly</c>
+
+00:06:54.439 --> 00:06:54.449 align:start position:0%
+derivation is um surprisingly
+ 
+
+00:06:54.449 --> 00:06:56.209 align:start position:0%
+derivation is um surprisingly
+complicated<00:06:54.839><c> and</c><00:06:55.199><c> surprisingly</c><00:06:55.680><c> involved</c>
+
+00:06:56.209 --> 00:06:56.219 align:start position:0%
+complicated and surprisingly involved
+ 
+
+00:06:56.219 --> 00:06:58.549 align:start position:0%
+complicated and surprisingly involved
+but<00:06:56.669><c> if</c><00:06:56.939><c> you</c><00:06:57.029><c> just</c><00:06:57.240><c> do</c><00:06:57.479><c> these</c><00:06:57.689><c> few</c><00:06:58.110><c> steps</c><00:06:58.379><c> of</c>
+
+00:06:58.549 --> 00:06:58.559 align:start position:0%
+but if you just do these few steps of
+ 
+
+00:06:58.559 --> 00:07:01.459 align:start position:0%
+but if you just do these few steps of
+computation<00:06:58.909><c> is</c><00:06:59.909><c> possible</c><00:07:00.629><c> to</c><00:07:00.809><c> prove</c><00:07:01.169><c> very</c>
+
+00:07:01.459 --> 00:07:01.469 align:start position:0%
+computation is possible to prove very
+ 
+
+00:07:01.469 --> 00:07:03.769 align:start position:0%
+computation is possible to prove very
+frankly<00:07:02.279><c> somewhat</c><00:07:02.939><c> complicated</c>
+
+00:07:03.769 --> 00:07:03.779 align:start position:0%
+frankly somewhat complicated
+ 
+
+00:07:03.779 --> 00:07:05.899 align:start position:0%
+frankly somewhat complicated
+mathematical<00:07:04.499><c> proof</c><00:07:04.740><c> it's</c><00:07:05.309><c> possible</c><00:07:05.789><c> to</c>
+
+00:07:05.899 --> 00:07:05.909 align:start position:0%
+mathematical proof it's possible to
+ 
+
+00:07:05.909 --> 00:07:08.559 align:start position:0%
+mathematical proof it's possible to
+prove<00:07:06.149><c> that</c><00:07:06.539><c> if</c><00:07:07.499><c> you</c><00:07:07.710><c> ignore</c><00:07:07.889><c> regularization</c>
+
+00:07:08.559 --> 00:07:08.569 align:start position:0%
+prove that if you ignore regularization
+ 
+
+00:07:08.569 --> 00:07:11.089 align:start position:0%
+prove that if you ignore regularization
+then<00:07:09.569><c> the</c><00:07:09.839><c> partial</c><00:07:10.050><c> derivative</c><00:07:10.620><c> terms</c><00:07:10.889><c> you</c>
+
+00:07:11.089 --> 00:07:11.099 align:start position:0%
+then the partial derivative terms you
+ 
+
+00:07:11.099 --> 00:07:14.420 align:start position:0%
+then the partial derivative terms you
+want<00:07:11.249><c> are</c><00:07:11.939><c> exactly</c><00:07:12.899><c> given</c><00:07:13.349><c> by</c><00:07:13.589><c> the</c>
+
+00:07:14.420 --> 00:07:14.430 align:start position:0%
+want are exactly given by the
+ 
+
+00:07:14.430 --> 00:07:17.989 align:start position:0%
+want are exactly given by the
+activations<00:07:15.089><c> and</c><00:07:15.389><c> these</c><00:07:16.069><c> Delta</c><00:07:17.069><c> terms</c><00:07:17.309><c> this</c>
+
+00:07:17.989 --> 00:07:17.999 align:start position:0%
+activations and these Delta terms this
+ 
+
+00:07:17.999 --> 00:07:22.519 align:start position:0%
+activations and these Delta terms this
+is<00:07:18.180><c> ignoring</c><00:07:19.789><c> lambda</c><00:07:20.789><c> or</c><00:07:21.029><c> alternatively</c><00:07:21.960><c> if</c>
+
+00:07:22.519 --> 00:07:22.529 align:start position:0%
+is ignoring lambda or alternatively if
+ 
+
+00:07:22.529 --> 00:07:25.249 align:start position:0%
+is ignoring lambda or alternatively if
+the<00:07:22.770><c> regularization</c><00:07:23.370><c> term</c><00:07:23.789><c> lambda</c><00:07:24.749><c> will</c>
+
+00:07:25.249 --> 00:07:25.259 align:start position:0%
+the regularization term lambda will
+ 
+
+00:07:25.259 --> 00:07:27.320 align:start position:0%
+the regularization term lambda will
+equal<00:07:25.589><c> to</c><00:07:25.680><c> 0</c><00:07:26.009><c> will</c><00:07:26.219><c> fix</c><00:07:26.430><c> this</c><00:07:26.610><c> detail</c><00:07:27.120><c> later</c>
+
+00:07:27.320 --> 00:07:27.330 align:start position:0%
+equal to 0 will fix this detail later
+ 
+
+00:07:27.330 --> 00:07:29.989 align:start position:0%
+equal to 0 will fix this detail later
+about<00:07:27.659><c> the</c><00:07:27.809><c> regularization</c><00:07:28.169><c> term</c><00:07:28.580><c> but</c><00:07:29.580><c> so</c><00:07:29.789><c> by</c>
+
+00:07:29.989 --> 00:07:29.999 align:start position:0%
+about the regularization term but so by
+ 
+
+00:07:29.999 --> 00:07:31.639 align:start position:0%
+about the regularization term but so by
+performing<00:07:30.240><c> back</c><00:07:30.719><c> propagation</c><00:07:31.229><c> and</c>
+
+00:07:31.639 --> 00:07:31.649 align:start position:0%
+performing back propagation and
+ 
+
+00:07:31.649 --> 00:07:33.949 align:start position:0%
+performing back propagation and
+computing<00:07:32.309><c> these</c><00:07:32.460><c> Delta</c><00:07:32.520><c> terms</c><00:07:33.089><c> you</c><00:07:33.270><c> can</c><00:07:33.449><c> you</c>
+
+00:07:33.949 --> 00:07:33.959 align:start position:0%
+computing these Delta terms you can you
+ 
+
+00:07:33.959 --> 00:07:35.719 align:start position:0%
+computing these Delta terms you can you
+know<00:07:34.080><c> pretty</c><00:07:34.469><c> quickly</c><00:07:34.709><c> compute</c><00:07:35.459><c> these</c>
+
+00:07:35.719 --> 00:07:35.729 align:start position:0%
+know pretty quickly compute these
+ 
+
+00:07:35.729 --> 00:07:37.879 align:start position:0%
+know pretty quickly compute these
+partial<00:07:35.959><c> derivative</c><00:07:36.959><c> terms</c><00:07:36.990><c> for</c><00:07:37.469><c> all</c><00:07:37.620><c> of</c><00:07:37.770><c> your</c>
+
+00:07:37.879 --> 00:07:37.889 align:start position:0%
+partial derivative terms for all of your
+ 
+
+00:07:37.889 --> 00:07:40.369 align:start position:0%
+partial derivative terms for all of your
+parameters<00:07:38.189><c> so</c><00:07:39.149><c> this</c><00:07:39.509><c> is</c><00:07:39.659><c> a</c><00:07:39.689><c> lot</c><00:07:39.930><c> of</c><00:07:39.959><c> detail</c>
+
+00:07:40.369 --> 00:07:40.379 align:start position:0%
+parameters so this is a lot of detail
+ 
+
+00:07:40.379 --> 00:07:42.649 align:start position:0%
+parameters so this is a lot of detail
+let's<00:07:40.770><c> take</c><00:07:41.099><c> everything</c><00:07:41.279><c> and</c><00:07:41.699><c> put</c><00:07:42.419><c> it</c><00:07:42.539><c> all</c>
+
+00:07:42.649 --> 00:07:42.659 align:start position:0%
+let's take everything and put it all
+ 
+
+00:07:42.659 --> 00:07:45.050 align:start position:0%
+let's take everything and put it all
+together<00:07:42.870><c> to</c><00:07:43.169><c> talk</c><00:07:43.620><c> about</c><00:07:43.919><c> how</c><00:07:44.159><c> to</c><00:07:44.219><c> implement</c>
+
+00:07:45.050 --> 00:07:45.060 align:start position:0%
+together to talk about how to implement
+ 
+
+00:07:45.060 --> 00:07:47.300 align:start position:0%
+together to talk about how to implement
+back<00:07:45.479><c> propagation</c><00:07:45.839><c> to</c><00:07:46.709><c> compute</c><00:07:46.740><c> derivatives</c>
+
+00:07:47.300 --> 00:07:47.310 align:start position:0%
+back propagation to compute derivatives
+ 
+
+00:07:47.310 --> 00:07:50.119 align:start position:0%
+back propagation to compute derivatives
+with<00:07:47.939><c> respect</c><00:07:47.969><c> to</c><00:07:48.479><c> your</c><00:07:48.629><c> parameters</c><00:07:48.810><c> and</c><00:07:49.560><c> for</c>
+
+00:07:50.119 --> 00:07:50.129 align:start position:0%
+with respect to your parameters and for
+ 
+
+00:07:50.129 --> 00:07:52.369 align:start position:0%
+with respect to your parameters and for
+the<00:07:50.219><c> case</c><00:07:50.430><c> of</c><00:07:50.729><c> when</c><00:07:50.969><c> we</c><00:07:51.120><c> have</c><00:07:51.360><c> a</c><00:07:51.569><c> large</c>
+
+00:07:52.369 --> 00:07:52.379 align:start position:0%
+the case of when we have a large
+ 
+
+00:07:52.379 --> 00:07:54.320 align:start position:0%
+the case of when we have a large
+training<00:07:52.620><c> set</c><00:07:53.099><c> not</c><00:07:53.399><c> just</c><00:07:53.669><c> a</c><00:07:53.759><c> training</c><00:07:53.999><c> set</c><00:07:54.300><c> of</c>
+
+00:07:54.320 --> 00:07:54.330 align:start position:0%
+training set not just a training set of
+ 
+
+00:07:54.330 --> 00:07:57.769 align:start position:0%
+training set not just a training set of
+one<00:07:54.749><c> example</c><00:07:55.099><c> here's</c><00:07:56.099><c> what</c><00:07:56.249><c> we</c><00:07:56.370><c> do</c><00:07:56.629><c> suppose</c><00:07:57.629><c> we</c>
+
+00:07:57.769 --> 00:07:57.779 align:start position:0%
+one example here's what we do suppose we
+ 
+
+00:07:57.779 --> 00:07:59.899 align:start position:0%
+one example here's what we do suppose we
+have<00:07:57.870><c> a</c><00:07:57.930><c> training</c><00:07:58.169><c> set</c><00:07:58.469><c> of</c><00:07:58.499><c> M</c><00:07:58.830><c> examples</c><00:07:58.919><c> like</c>
+
+00:07:59.899 --> 00:07:59.909 align:start position:0%
+have a training set of M examples like
+ 
+
+00:07:59.909 --> 00:08:01.909 align:start position:0%
+have a training set of M examples like
+that<00:08:00.089><c> shown</c><00:08:00.360><c> here</c><00:08:00.659><c> the</c><00:08:01.439><c> first</c><00:08:01.680><c> thing</c><00:08:01.800><c> we're</c>
+
+00:08:01.909 --> 00:08:01.919 align:start position:0%
+that shown here the first thing we're
+ 
+
+00:08:01.919 --> 00:08:04.969 align:start position:0%
+that shown here the first thing we're
+going<00:08:02.039><c> to</c><00:08:02.099><c> do</c><00:08:02.249><c> is</c><00:08:02.520><c> going</c><00:08:02.729><c> to</c><00:08:02.849><c> set</c><00:08:03.089><c> these</c><00:08:03.979><c> Delta</c>
+
+00:08:04.969 --> 00:08:04.979 align:start position:0%
+going to do is going to set these Delta
+ 
+
+00:08:04.979 --> 00:08:07.730 align:start position:0%
+going to do is going to set these Delta
+L<00:08:05.219><c> subscript</c><00:08:05.610><c> IJ</c><00:08:05.969><c> so</c><00:08:06.479><c> this</c><00:08:06.629><c> triangle</c><00:08:07.319><c> symbol</c>
+
+00:08:07.730 --> 00:08:07.740 align:start position:0%
+L subscript IJ so this triangle symbol
+ 
+
+00:08:07.740 --> 00:08:10.159 align:start position:0%
+L subscript IJ so this triangle symbol
+that's<00:08:08.279><c> actually</c><00:08:08.759><c> the</c><00:08:08.939><c> capital</c><00:08:09.809><c> of</c><00:08:09.839><c> Greek</c>
+
+00:08:10.159 --> 00:08:10.169 align:start position:0%
+that's actually the capital of Greek
+ 
+
+00:08:10.169 --> 00:08:12.679 align:start position:0%
+that's actually the capital of Greek
+alphabet<00:08:10.770><c> Delta</c><00:08:11.189><c> the</c><00:08:11.459><c> symbol</c><00:08:12.240><c> we</c><00:08:12.330><c> had</c><00:08:12.509><c> on</c><00:08:12.599><c> the</c>
+
+00:08:12.679 --> 00:08:12.689 align:start position:0%
+alphabet Delta the symbol we had on the
+ 
+
+00:08:12.689 --> 00:08:14.299 align:start position:0%
+alphabet Delta the symbol we had on the
+previous<00:08:12.719><c> line</c><00:08:13.259><c> was</c><00:08:13.469><c> the</c><00:08:13.620><c> lower</c><00:08:13.800><c> case</c><00:08:14.069><c> Delta</c>
+
+00:08:14.299 --> 00:08:14.309 align:start position:0%
+previous line was the lower case Delta
+ 
+
+00:08:14.309 --> 00:08:17.480 align:start position:0%
+previous line was the lower case Delta
+so<00:08:15.120><c> the</c><00:08:15.209><c> triangle</c><00:08:15.479><c> is</c><00:08:15.689><c> capital</c><00:08:16.039><c> Delta</c><00:08:17.039><c> when</c><00:08:17.459><c> I</c>
+
+00:08:17.480 --> 00:08:17.490 align:start position:0%
+so the triangle is capital Delta when I
+ 
+
+00:08:17.490 --> 00:08:19.909 align:start position:0%
+so the triangle is capital Delta when I
+set<00:08:17.759><c> this</c><00:08:17.939><c> equal</c><00:08:18.120><c> to</c><00:08:18.330><c> 0</c><00:08:18.599><c> for</c><00:08:18.899><c> all</c><00:08:18.930><c> values</c><00:08:19.259><c> of</c><00:08:19.709><c> L</c>
+
+00:08:19.909 --> 00:08:19.919 align:start position:0%
+set this equal to 0 for all values of L
+ 
+
+00:08:19.919 --> 00:08:24.860 align:start position:0%
+set this equal to 0 for all values of L
+IJ<00:08:21.529><c> eventually</c><00:08:22.529><c> this</c><00:08:23.129><c> capital</c><00:08:23.819><c> Delta</c><00:08:24.059><c> L</c><00:08:24.539><c> IJ</c>
+
+00:08:24.860 --> 00:08:24.870 align:start position:0%
+IJ eventually this capital Delta L IJ
+ 
+
+00:08:24.870 --> 00:08:28.850 align:start position:0%
+IJ eventually this capital Delta L IJ
+will<00:08:25.709><c> be</c><00:08:25.830><c> used</c><00:08:26.129><c> to</c><00:08:26.539><c> compute</c>
+
+00:08:28.850 --> 00:08:28.860 align:start position:0%
+will be used to compute
+ 
+
+00:08:28.860 --> 00:08:31.500 align:start position:0%
+will be used to compute
+the<00:08:29.860><c> partial</c><00:08:30.370><c> derivative</c><00:08:30.880><c> term</c><00:08:31.120><c> partial</c>
+
+00:08:31.500 --> 00:08:31.510 align:start position:0%
+the partial derivative term partial
+ 
+
+00:08:31.510 --> 00:08:35.940 align:start position:0%
+the partial derivative term partial
+derivative<00:08:32.020><c> respect</c><00:08:32.289><c> to</c><00:08:32.650><c> theta</c><00:08:32.890><c> L</c><00:08:33.760><c> IJ</c><00:08:34.229><c> of</c><00:08:35.229><c> J</c><00:08:35.710><c> of</c>
+
+00:08:35.940 --> 00:08:35.950 align:start position:0%
+derivative respect to theta L IJ of J of
+ 
+
+00:08:35.950 --> 00:08:40.800 align:start position:0%
+derivative respect to theta L IJ of J of
+theta<00:08:38.219><c> so</c><00:08:39.219><c> as</c><00:08:39.460><c> we'll</c><00:08:39.700><c> see</c><00:08:39.849><c> in</c><00:08:39.880><c> a</c><00:08:40.000><c> second</c><00:08:40.419><c> these</c>
+
+00:08:40.800 --> 00:08:40.810 align:start position:0%
+theta so as we'll see in a second these
+ 
+
+00:08:40.810 --> 00:08:42.420 align:start position:0%
+theta so as we'll see in a second these
+deltas<00:08:41.409><c> are</c><00:08:41.620><c> going</c><00:08:41.800><c> to</c><00:08:41.890><c> be</c><00:08:41.979><c> used</c><00:08:42.190><c> as</c>
+
+00:08:42.420 --> 00:08:42.430 align:start position:0%
+deltas are going to be used as
+ 
+
+00:08:42.430 --> 00:08:45.210 align:start position:0%
+deltas are going to be used as
+accumulators<00:08:43.390><c> that</c><00:08:43.870><c> will</c><00:08:44.140><c> slowly</c><00:08:44.650><c> add</c><00:08:44.920><c> things</c>
+
+00:08:45.210 --> 00:08:45.220 align:start position:0%
+accumulators that will slowly add things
+ 
+
+00:08:45.220 --> 00:08:46.760 align:start position:0%
+accumulators that will slowly add things
+to<00:08:45.460><c> in</c><00:08:45.700><c> order</c><00:08:45.910><c> to</c><00:08:46.090><c> compute</c><00:08:46.540><c> these</c><00:08:46.660><c> partial</c>
+
+00:08:46.760 --> 00:08:46.770 align:start position:0%
+to in order to compute these partial
+ 
+
+00:08:46.770 --> 00:08:50.820 align:start position:0%
+to in order to compute these partial
+derivatives<00:08:48.900><c> next</c><00:08:49.900><c> we're</c><00:08:50.140><c> going</c><00:08:50.350><c> to</c><00:08:50.470><c> loop</c>
+
+00:08:50.820 --> 00:08:50.830 align:start position:0%
+derivatives next we're going to loop
+ 
+
+00:08:50.830 --> 00:08:52.650 align:start position:0%
+derivatives next we're going to loop
+through<00:08:51.100><c> our</c><00:08:51.370><c> training</c><00:08:51.700><c> set</c><00:08:52.090><c> so</c><00:08:52.330><c> we'll</c><00:08:52.420><c> say</c>
+
+00:08:52.650 --> 00:08:52.660 align:start position:0%
+through our training set so we'll say
+ 
+
+00:08:52.660 --> 00:08:55.920 align:start position:0%
+through our training set so we'll say
+for<00:08:52.720><c> I</c><00:08:53.110><c> equals</c><00:08:53.620><c> 1</c><00:08:53.860><c> through</c><00:08:54.100><c> m</c><00:08:54.340><c> and</c><00:08:54.630><c> so</c><00:08:55.630><c> for</c><00:08:55.840><c> the</c>
+
+00:08:55.920 --> 00:08:55.930 align:start position:0%
+for I equals 1 through m and so for the
+ 
+
+00:08:55.930 --> 00:08:58.080 align:start position:0%
+for I equals 1 through m and so for the
+iFit<00:08:56.530><c> eration</c><00:08:56.800><c> we're</c><00:08:57.400><c> going</c><00:08:57.610><c> to</c><00:08:57.730><c> be</c><00:08:57.790><c> working</c>
+
+00:08:58.080 --> 00:08:58.090 align:start position:0%
+iFit eration we're going to be working
+ 
+
+00:08:58.090 --> 00:09:02.390 align:start position:0%
+iFit eration we're going to be working
+with<00:08:58.600><c> the</c><00:08:58.750><c> training</c><00:08:59.140><c> example</c><00:08:59.770><c> X</c><00:09:00.070><c> I</c><00:09:00.610><c> comma</c><00:09:01.300><c> 1</c><00:09:01.600><c> I</c>
+
+00:09:02.390 --> 00:09:02.400 align:start position:0%
+with the training example X I comma 1 I
+ 
+
+00:09:02.400 --> 00:09:04.830 align:start position:0%
+with the training example X I comma 1 I
+so<00:09:03.400><c> the</c><00:09:03.880><c> first</c><00:09:04.090><c> thing</c><00:09:04.210><c> I'm</c><00:09:04.270><c> going</c><00:09:04.360><c> to</c><00:09:04.450><c> do</c><00:09:04.600><c> is</c>
+
+00:09:04.830 --> 00:09:04.840 align:start position:0%
+so the first thing I'm going to do is
+ 
+
+00:09:04.840 --> 00:09:07.440 align:start position:0%
+so the first thing I'm going to do is
+set<00:09:05.110><c> a</c><00:09:05.290><c> 1</c><00:09:05.680><c> which</c><00:09:05.950><c> is</c><00:09:06.100><c> the</c><00:09:06.250><c> activations</c><00:09:06.880><c> of</c><00:09:07.090><c> the</c>
+
+00:09:07.440 --> 00:09:07.450 align:start position:0%
+set a 1 which is the activations of the
+ 
+
+00:09:07.450 --> 00:09:09.900 align:start position:0%
+set a 1 which is the activations of the
+input<00:09:07.840><c> layer</c><00:09:07.990><c> set</c><00:09:08.410><c> that</c><00:09:08.620><c> to</c><00:09:08.800><c> equal</c><00:09:09.070><c> to</c><00:09:09.160><c> X</c><00:09:09.520><c> I</c>
+
+00:09:09.900 --> 00:09:09.910 align:start position:0%
+input layer set that to equal to X I
+ 
+
+00:09:09.910 --> 00:09:12.960 align:start position:0%
+input layer set that to equal to X I
+that<00:09:10.180><c> is</c><00:09:10.360><c> the</c><00:09:10.540><c> inputs</c><00:09:11.350><c> for</c><00:09:11.650><c> our</c><00:09:11.970><c> training</c>
+
+00:09:12.960 --> 00:09:12.970 align:start position:0%
+that is the inputs for our training
+ 
+
+00:09:12.970 --> 00:09:15.780 align:start position:0%
+that is the inputs for our training
+example<00:09:13.660><c> and</c><00:09:14.250><c> then</c><00:09:15.250><c> we're</c><00:09:15.400><c> going</c><00:09:15.520><c> to</c><00:09:15.610><c> perform</c>
+
+00:09:15.780 --> 00:09:15.790 align:start position:0%
+example and then we're going to perform
+ 
+
+00:09:15.790 --> 00:09:18.570 align:start position:0%
+example and then we're going to perform
+forward<00:09:16.270><c> propagation</c><00:09:16.740><c> to</c><00:09:17.740><c> compute</c><00:09:17.770><c> the</c>
+
+00:09:18.570 --> 00:09:18.580 align:start position:0%
+forward propagation to compute the
+ 
+
+00:09:18.580 --> 00:09:21.090 align:start position:0%
+forward propagation to compute the
+activations<00:09:19.300><c> for</c><00:09:19.570><c> layer</c><00:09:19.810><c> 2</c><00:09:20.080><c> layer</c><00:09:20.110><c> 3</c><00:09:20.470><c> and</c><00:09:20.890><c> so</c>
+
+00:09:21.090 --> 00:09:21.100 align:start position:0%
+activations for layer 2 layer 3 and so
+ 
+
+00:09:21.100 --> 00:09:24.350 align:start position:0%
+activations for layer 2 layer 3 and so
+on<00:09:21.160><c> up</c><00:09:21.670><c> to</c><00:09:21.730><c> the</c><00:09:22.090><c> final</c><00:09:22.510><c> layer</c><00:09:22.690><c> layer</c><00:09:23.020><c> capital</c><00:09:23.560><c> L</c>
+
+00:09:24.350 --> 00:09:24.360 align:start position:0%
+on up to the final layer layer capital L
+ 
+
+00:09:24.360 --> 00:09:27.450 align:start position:0%
+on up to the final layer layer capital L
+next<00:09:25.360><c> we're</c><00:09:25.720><c> going</c><00:09:25.900><c> to</c><00:09:26.050><c> use</c><00:09:26.320><c> the</c><00:09:26.590><c> output</c><00:09:27.280><c> label</c>
+
+00:09:27.450 --> 00:09:27.460 align:start position:0%
+next we're going to use the output label
+ 
+
+00:09:27.460 --> 00:09:30.000 align:start position:0%
+next we're going to use the output label
+Y<00:09:27.880><c> I</c><00:09:27.910><c> from</c><00:09:28.510><c> the</c><00:09:28.690><c> specific</c><00:09:29.200><c> example</c><00:09:29.740><c> that</c><00:09:29.890><c> we're</c>
+
+00:09:30.000 --> 00:09:30.010 align:start position:0%
+Y I from the specific example that we're
+ 
+
+00:09:30.010 --> 00:09:32.130 align:start position:0%
+Y I from the specific example that we're
+looking<00:09:30.100><c> at</c><00:09:30.400><c> to</c><00:09:30.700><c> compute</c><00:09:31.480><c> the</c><00:09:31.630><c> error</c><00:09:31.840><c> term</c>
+
+00:09:32.130 --> 00:09:32.140 align:start position:0%
+looking at to compute the error term
+ 
+
+00:09:32.140 --> 00:09:35.190 align:start position:0%
+looking at to compute the error term
+Delta<00:09:32.680><c> L</c><00:09:32.890><c> for</c><00:09:33.130><c> the</c><00:09:33.610><c> output</c><00:09:34.120><c> layer</c><00:09:34.300><c> so</c><00:09:34.660><c> Delta</c><00:09:35.020><c> L</c>
+
+00:09:35.190 --> 00:09:35.200 align:start position:0%
+Delta L for the output layer so Delta L
+ 
+
+00:09:35.200 --> 00:09:38.340 align:start position:0%
+Delta L for the output layer so Delta L
+is<00:09:35.440><c> what</c><00:09:35.890><c> our</c><00:09:35.980><c> hypotheses</c><00:09:36.640><c> output</c><00:09:36.960><c> minus</c><00:09:37.960><c> what</c>
+
+00:09:38.340 --> 00:09:38.350 align:start position:0%
+is what our hypotheses output minus what
+ 
+
+00:09:38.350 --> 00:09:42.300 align:start position:0%
+is what our hypotheses output minus what
+the<00:09:38.589><c> target</c><00:09:39.400><c> label</c><00:09:39.820><c> was</c><00:09:40.060><c> and</c><00:09:41.130><c> then</c><00:09:42.130><c> we're</c>
+
+00:09:42.300 --> 00:09:42.310 align:start position:0%
+the target label was and then we're
+ 
+
+00:09:42.310 --> 00:09:43.680 align:start position:0%
+the target label was and then we're
+going<00:09:42.460><c> to</c><00:09:42.610><c> use</c><00:09:42.790><c> the</c><00:09:43.000><c> back</c><00:09:43.180><c> propagation</c>
+
+00:09:43.680 --> 00:09:43.690 align:start position:0%
+going to use the back propagation
+ 
+
+00:09:43.690 --> 00:09:46.200 align:start position:0%
+going to use the back propagation
+algorithm<00:09:44.080><c> to</c><00:09:44.680><c> compute</c><00:09:45.190><c> Delta</c><00:09:45.580><c> L</c><00:09:45.700><c> minus</c><00:09:46.030><c> 1</c>
+
+00:09:46.200 --> 00:09:46.210 align:start position:0%
+algorithm to compute Delta L minus 1
+ 
+
+00:09:46.210 --> 00:09:48.900 align:start position:0%
+algorithm to compute Delta L minus 1
+Delta<00:09:46.570><c> L</c><00:09:46.750><c> minus</c><00:09:46.780><c> 2</c><00:09:47.080><c> and</c><00:09:47.410><c> so</c><00:09:47.560><c> on</c><00:09:47.710><c> down</c><00:09:48.250><c> to</c><00:09:48.310><c> Delta</c>
+
+00:09:48.900 --> 00:09:48.910 align:start position:0%
+Delta L minus 2 and so on down to Delta
+ 
+
+00:09:48.910 --> 00:09:51.540 align:start position:0%
+Delta L minus 2 and so on down to Delta
+2<00:09:49.120><c> and</c><00:09:49.420><c> once</c><00:09:49.870><c> again</c><00:09:50.020><c> there</c><00:09:50.470><c> is</c><00:09:50.500><c> no</c><00:09:50.620><c> Delta</c><00:09:51.160><c> 1</c>
+
+00:09:51.540 --> 00:09:51.550 align:start position:0%
+2 and once again there is no Delta 1
+ 
+
+00:09:51.550 --> 00:09:53.700 align:start position:0%
+2 and once again there is no Delta 1
+because<00:09:52.030><c> we</c><00:09:52.210><c> don't</c><00:09:52.450><c> associate</c><00:09:52.960><c> an</c><00:09:53.200><c> error</c><00:09:53.410><c> term</c>
+
+00:09:53.700 --> 00:09:53.710 align:start position:0%
+because we don't associate an error term
+ 
+
+00:09:53.710 --> 00:09:57.960 align:start position:0%
+because we don't associate an error term
+with<00:09:53.980><c> the</c><00:09:54.100><c> input</c><00:09:54.430><c> layer</c><00:09:54.610><c> and</c><00:09:56.370><c> finally</c><00:09:57.370><c> we're</c>
+
+00:09:57.960 --> 00:09:57.970 align:start position:0%
+with the input layer and finally we're
+ 
+
+00:09:57.970 --> 00:10:00.960 align:start position:0%
+with the input layer and finally we're
+going<00:09:58.150><c> to</c><00:09:58.330><c> use</c><00:09:58.570><c> these</c><00:09:58.870><c> capital</c><00:09:59.800><c> Delta</c><00:10:00.490><c> terms</c>
+
+00:10:00.960 --> 00:10:00.970 align:start position:0%
+going to use these capital Delta terms
+ 
+
+00:10:00.970 --> 00:10:03.450 align:start position:0%
+going to use these capital Delta terms
+to<00:10:01.330><c> accumulate</c><00:10:02.050><c> these</c><00:10:02.290><c> partial</c><00:10:02.890><c> derivative</c>
+
+00:10:03.450 --> 00:10:03.460 align:start position:0%
+to accumulate these partial derivative
+ 
+
+00:10:03.460 --> 00:10:05.160 align:start position:0%
+to accumulate these partial derivative
+terms<00:10:03.700><c> that</c><00:10:04.000><c> we</c><00:10:04.390><c> wrote</c><00:10:04.600><c> down</c><00:10:04.630><c> on</c><00:10:05.050><c> the</c><00:10:05.080><c> previous</c>
+
+00:10:05.160 --> 00:10:05.170 align:start position:0%
+terms that we wrote down on the previous
+ 
+
+00:10:05.170 --> 00:10:08.430 align:start position:0%
+terms that we wrote down on the previous
+line<00:10:05.910><c> and</c><00:10:06.910><c> by</c><00:10:07.120><c> the</c><00:10:07.180><c> way</c><00:10:07.390><c> if</c><00:10:07.690><c> you</c><00:10:07.990><c> look</c><00:10:08.110><c> at</c><00:10:08.260><c> this</c>
+
+00:10:08.430 --> 00:10:08.440 align:start position:0%
+line and by the way if you look at this
+ 
+
+00:10:08.440 --> 00:10:10.650 align:start position:0%
+line and by the way if you look at this
+expression<00:10:08.800><c> this</c><00:10:09.760><c> possible</c><00:10:10.300><c> to</c><00:10:10.480><c> vectorize</c>
+
+00:10:10.650 --> 00:10:10.660 align:start position:0%
+expression this possible to vectorize
+ 
+
+00:10:10.660 --> 00:10:13.680 align:start position:0%
+expression this possible to vectorize
+this<00:10:11.230><c> 2</c><00:10:11.670><c> concretely</c><00:10:12.700><c> if</c><00:10:12.910><c> you</c><00:10:13.089><c> think</c><00:10:13.330><c> of</c><00:10:13.450><c> Delta</c>
+
+00:10:13.680 --> 00:10:13.690 align:start position:0%
+this 2 concretely if you think of Delta
+ 
+
+00:10:13.690 --> 00:10:18.380 align:start position:0%
+this 2 concretely if you think of Delta
+IJ<00:10:14.080><c> as</c><00:10:14.650><c> a</c><00:10:15.130><c> matrix</c><00:10:15.930><c> indexed</c><00:10:16.930><c> by</c><00:10:17.320><c> subscript</c><00:10:17.770><c> IJ</c>
+
+00:10:18.380 --> 00:10:18.390 align:start position:0%
+IJ as a matrix indexed by subscript IJ
+ 
+
+00:10:18.390 --> 00:10:21.750 align:start position:0%
+IJ as a matrix indexed by subscript IJ
+then<00:10:19.390><c> if</c><00:10:19.750><c> Delta</c><00:10:20.260><c> L</c><00:10:20.440><c> is</c><00:10:20.740><c> a</c><00:10:20.770><c> matrix</c><00:10:20.920><c> so</c><00:10:21.550><c> you</c><00:10:21.610><c> can</c>
+
+00:10:21.750 --> 00:10:21.760 align:start position:0%
+then if Delta L is a matrix so you can
+ 
+
+00:10:21.760 --> 00:10:24.990 align:start position:0%
+then if Delta L is a matrix so you can
+rewrite<00:10:21.940><c> this</c><00:10:22.330><c> as</c><00:10:22.710><c> Delta</c><00:10:23.710><c> L</c><00:10:23.860><c> gets</c><00:10:23.890><c> updated</c><00:10:24.730><c> as</c>
+
+00:10:24.990 --> 00:10:25.000 align:start position:0%
+rewrite this as Delta L gets updated as
+ 
+
+00:10:25.000 --> 00:10:29.790 align:start position:0%
+rewrite this as Delta L gets updated as
+Delta<00:10:25.480><c> L</c><00:10:25.630><c> plus</c><00:10:26.970><c> lower</c><00:10:27.970><c> case</c><00:10:28.300><c> Delta</c><00:10:28.780><c> L</c><00:10:29.290><c> plus</c><00:10:29.350><c> 1</c>
+
+00:10:29.790 --> 00:10:29.800 align:start position:0%
+Delta L plus lower case Delta L plus 1
+ 
+
+00:10:29.800 --> 00:10:34.050 align:start position:0%
+Delta L plus lower case Delta L plus 1
+times<00:10:30.670><c> a</c><00:10:31.050><c> L</c><00:10:32.370><c> transpose</c><00:10:33.370><c> so</c><00:10:33.730><c> that's</c><00:10:33.940><c> a</c>
+
+00:10:34.050 --> 00:10:34.060 align:start position:0%
+times a L transpose so that's a
+ 
+
+00:10:34.060 --> 00:10:36.270 align:start position:0%
+times a L transpose so that's a
+vectorized<00:10:34.390><c> implementation</c><00:10:35.380><c> of</c><00:10:35.530><c> this</c><00:10:35.710><c> that</c>
+
+00:10:36.270 --> 00:10:36.280 align:start position:0%
+vectorized implementation of this that
+ 
+
+00:10:36.280 --> 00:10:38.340 align:start position:0%
+vectorized implementation of this that
+automatically<00:10:37.089><c> does</c><00:10:37.390><c> this</c><00:10:37.540><c> update</c><00:10:37.959><c> for</c><00:10:38.200><c> all</c>
+
+00:10:38.340 --> 00:10:38.350 align:start position:0%
+automatically does this update for all
+ 
+
+00:10:38.350 --> 00:10:41.250 align:start position:0%
+automatically does this update for all
+values<00:10:38.800><c> of</c><00:10:38.830><c> I</c><00:10:39.160><c> and</c><00:10:39.190><c> J</c><00:10:39.780><c> finally</c><00:10:40.780><c> after</c>
+
+00:10:41.250 --> 00:10:41.260 align:start position:0%
+values of I and J finally after
+ 
+
+00:10:41.260 --> 00:10:44.460 align:start position:0%
+values of I and J finally after
+executing<00:10:42.250><c> the</c><00:10:43.060><c> body</c><00:10:43.089><c> of</c><00:10:43.570><c> the</c><00:10:43.720><c> for</c><00:10:43.930><c> loop</c><00:10:43.990><c> we</c>
+
+00:10:44.460 --> 00:10:44.470 align:start position:0%
+executing the body of the for loop we
+ 
+
+00:10:44.470 --> 00:10:46.530 align:start position:0%
+executing the body of the for loop we
+did<00:10:44.680><c> go</c><00:10:45.250><c> outside</c><00:10:45.430><c> the</c><00:10:45.790><c> for</c><00:10:46.000><c> loop</c><00:10:46.180><c> and</c><00:10:46.420><c> we</c>
+
+00:10:46.530 --> 00:10:46.540 align:start position:0%
+did go outside the for loop and we
+ 
+
+00:10:46.540 --> 00:10:48.060 align:start position:0%
+did go outside the for loop and we
+compute<00:10:46.959><c> the</c><00:10:47.050><c> following</c><00:10:47.410><c> we'll</c><00:10:47.680><c> compute</c>
+
+00:10:48.060 --> 00:10:48.070 align:start position:0%
+compute the following we'll compute
+ 
+
+00:10:48.070 --> 00:10:51.570 align:start position:0%
+compute the following we'll compute
+capital<00:10:49.030><c> D</c><00:10:49.270><c> as</c><00:10:49.510><c> follows</c><00:10:50.260><c> and</c><00:10:50.530><c> we</c><00:10:51.280><c> have</c><00:10:51.370><c> two</c>
+
+00:10:51.570 --> 00:10:51.580 align:start position:0%
+capital D as follows and we have two
+ 
+
+00:10:51.580 --> 00:10:54.150 align:start position:0%
+capital D as follows and we have two
+separate<00:10:51.970><c> cases</c><00:10:52.150><c> for</c><00:10:52.720><c> J</c><00:10:52.990><c> equals</c><00:10:53.410><c> 0</c><00:10:53.740><c> and</c><00:10:53.980><c> J</c>
+
+00:10:54.150 --> 00:10:54.160 align:start position:0%
+separate cases for J equals 0 and J
+ 
+
+00:10:54.160 --> 00:10:57.570 align:start position:0%
+separate cases for J equals 0 and J
+naught<00:10:54.339><c> equals</c><00:10:54.700><c> 0</c><00:10:55.200><c> the</c><00:10:56.200><c> case</c><00:10:56.470><c> of</c><00:10:56.650><c> J</c><00:10:56.830><c> equals</c><00:10:56.860><c> 0</c>
+
+00:10:57.570 --> 00:10:57.580 align:start position:0%
+naught equals 0 the case of J equals 0
+ 
+
+00:10:57.580 --> 00:11:00.090 align:start position:0%
+naught equals 0 the case of J equals 0
+corresponds<00:10:58.420><c> to</c><00:10:58.480><c> the</c><00:10:58.750><c> bias</c><00:10:58.990><c> term</c><00:10:59.380><c> so</c><00:10:59.740><c> when</c><00:10:59.920><c> J</c>
+
+00:11:00.090 --> 00:11:00.100 align:start position:0%
+corresponds to the bias term so when J
+ 
+
+00:11:00.100 --> 00:11:01.860 align:start position:0%
+corresponds to the bias term so when J
+equals<00:11:00.400><c> 0</c><00:11:00.700><c> that's</c><00:11:00.940><c> why</c><00:11:01.150><c> we're</c><00:11:01.330><c> missing</c><00:11:01.660><c> this</c>
+
+00:11:01.860 --> 00:11:01.870 align:start position:0%
+equals 0 that's why we're missing this
+ 
+
+00:11:01.870 --> 00:11:06.270 align:start position:0%
+equals 0 that's why we're missing this
+extra<00:11:02.530><c> regularization</c><00:11:02.890><c> term</c><00:11:04.950><c> finally</c><00:11:05.950><c> while</c>
+
+00:11:06.270 --> 00:11:06.280 align:start position:0%
+extra regularization term finally while
+ 
+
+00:11:06.280 --> 00:11:08.010 align:start position:0%
+extra regularization term finally while
+the<00:11:06.430><c> formal</c><00:11:06.850><c> proof</c><00:11:07.089><c> is</c><00:11:07.330><c> pretty</c><00:11:07.630><c> complicated</c>
+
+00:11:08.010 --> 00:11:08.020 align:start position:0%
+the formal proof is pretty complicated
+ 
+
+00:11:08.020 --> 00:11:10.770 align:start position:0%
+the formal proof is pretty complicated
+what<00:11:08.980><c> you</c><00:11:09.070><c> can</c><00:11:09.250><c> show</c><00:11:09.280><c> is</c><00:11:09.850><c> that</c><00:11:09.910><c> once</c><00:11:10.600><c> you've</c>
+
+00:11:10.770 --> 00:11:10.780 align:start position:0%
+what you can show is that once you've
+ 
+
+00:11:10.780 --> 00:11:14.940 align:start position:0%
+what you can show is that once you've
+computed<00:11:11.200><c> these</c><00:11:11.709><c> D</c><00:11:12.459><c> terms</c><00:11:12.850><c> that</c><00:11:13.630><c> is</c><00:11:14.020><c> exactly</c>
+
+00:11:14.940 --> 00:11:14.950 align:start position:0%
+computed these D terms that is exactly
+ 
+
+00:11:14.950 --> 00:11:17.699 align:start position:0%
+computed these D terms that is exactly
+the<00:11:15.280><c> partial</c><00:11:15.700><c> derivative</c><00:11:16.240><c> of</c><00:11:16.450><c> the</c><00:11:17.350><c> cost</c>
+
+00:11:17.699 --> 00:11:17.709 align:start position:0%
+the partial derivative of the cost
+ 
+
+00:11:17.709 --> 00:11:19.650 align:start position:0%
+the partial derivative of the cost
+function<00:11:18.010><c> with</c><00:11:18.520><c> respect</c><00:11:19.030><c> to</c><00:11:19.089><c> each</c><00:11:19.390><c> of</c><00:11:19.570><c> your</c>
+
+00:11:19.650 --> 00:11:19.660 align:start position:0%
+function with respect to each of your
+ 
+
+00:11:19.660 --> 00:11:21.960 align:start position:0%
+function with respect to each of your
+parameters<00:11:20.290><c> and</c><00:11:20.530><c> so</c><00:11:20.890><c> you</c><00:11:20.950><c> can</c><00:11:21.220><c> use</c><00:11:21.400><c> those</c><00:11:21.670><c> in</c>
+
+00:11:21.960 --> 00:11:21.970 align:start position:0%
+parameters and so you can use those in
+ 
+
+00:11:21.970 --> 00:11:24.360 align:start position:0%
+parameters and so you can use those in
+either<00:11:22.360><c> gradient</c><00:11:22.750><c> descent</c><00:11:23.230><c> or</c><00:11:23.470><c> in</c><00:11:23.920><c> one</c><00:11:24.130><c> of</c><00:11:24.250><c> the</c>
+
+00:11:24.360 --> 00:11:24.370 align:start position:0%
+either gradient descent or in one of the
+ 
+
+00:11:24.370 --> 00:11:27.590 align:start position:0%
+either gradient descent or in one of the
+advanced<00:11:24.700><c> optimization</c><00:11:25.000><c> algorithms</c>
+
+00:11:27.590 --> 00:11:27.600 align:start position:0%
+advanced optimization algorithms
+ 
+
+00:11:27.600 --> 00:11:30.260 align:start position:0%
+advanced optimization algorithms
+so<00:11:28.410><c> that's</c><00:11:28.890><c> the</c><00:11:29.100><c> backpropagation</c><00:11:29.550><c> algorithm</c>
+
+00:11:30.260 --> 00:11:30.270 align:start position:0%
+so that's the backpropagation algorithm
+ 
+
+00:11:30.270 --> 00:11:32.360 align:start position:0%
+so that's the backpropagation algorithm
+and<00:11:30.750><c> how</c><00:11:30.900><c> you</c><00:11:30.960><c> compute</c><00:11:31.410><c> derivatives</c><00:11:31.620><c> of</c>
+
+00:11:32.360 --> 00:11:32.370 align:start position:0%
+and how you compute derivatives of
+ 
+
+00:11:32.370 --> 00:11:34.310 align:start position:0%
+and how you compute derivatives of
+movements<00:11:32.820><c> of</c><00:11:32.910><c> your</c><00:11:32.970><c> cost</c><00:11:33.330><c> function</c><00:11:33.780><c> for</c><00:11:33.960><c> a</c>
+
+00:11:34.310 --> 00:11:34.320 align:start position:0%
+movements of your cost function for a
+ 
+
+00:11:34.320 --> 00:11:36.440 align:start position:0%
+movements of your cost function for a
+neural<00:11:34.650><c> network</c><00:11:34.800><c> I</c><00:11:35.190><c> know</c><00:11:35.670><c> this</c><00:11:35.940><c> looks</c><00:11:36.180><c> like</c><00:11:36.330><c> it</c>
+
+00:11:36.440 --> 00:11:36.450 align:start position:0%
+neural network I know this looks like it
+ 
+
+00:11:36.450 --> 00:11:38.030 align:start position:0%
+neural network I know this looks like it
+was<00:11:36.510><c> a</c><00:11:36.570><c> lot</c><00:11:36.780><c> of</c><00:11:36.930><c> details</c><00:11:37.260><c> and</c><00:11:37.500><c> this</c><00:11:37.620><c> is</c><00:11:37.770><c> a</c><00:11:37.800><c> lot</c>
+
+00:11:38.030 --> 00:11:38.040 align:start position:0%
+was a lot of details and this is a lot
+ 
+
+00:11:38.040 --> 00:11:40.580 align:start position:0%
+was a lot of details and this is a lot
+of<00:11:38.160><c> steps</c><00:11:38.340><c> strung</c><00:11:38.640><c> together</c><00:11:38.820><c> but</c><00:11:39.630><c> both</c><00:11:40.200><c> in</c><00:11:40.380><c> the</c>
+
+00:11:40.580 --> 00:11:40.590 align:start position:0%
+of steps strung together but both in the
+ 
+
+00:11:40.590 --> 00:11:42.470 align:start position:0%
+of steps strung together but both in the
+programming<00:11:41.130><c> assignments</c><00:11:41.220><c> right</c><00:11:41.880><c> out</c><00:11:42.120><c> and</c>
+
+00:11:42.470 --> 00:11:42.480 align:start position:0%
+programming assignments right out and
+ 
+
+00:11:42.480 --> 00:11:44.930 align:start position:0%
+programming assignments right out and
+later<00:11:43.230><c> in</c><00:11:43.410><c> this</c><00:11:43.530><c> video</c><00:11:43.860><c> will</c><00:11:44.490><c> give</c><00:11:44.760><c> you</c><00:11:44.910><c> a</c>
+
+00:11:44.930 --> 00:11:44.940 align:start position:0%
+later in this video will give you a
+ 
+
+00:11:44.940 --> 00:11:46.820 align:start position:0%
+later in this video will give you a
+summary<00:11:45.480><c> of</c><00:11:45.630><c> this</c><00:11:45.780><c> so</c><00:11:46.050><c> you</c><00:11:46.200><c> can</c><00:11:46.380><c> have</c><00:11:46.500><c> all</c><00:11:46.680><c> the</c>
+
+00:11:46.820 --> 00:11:46.830 align:start position:0%
+summary of this so you can have all the
+ 
+
+00:11:46.830 --> 00:11:48.950 align:start position:0%
+summary of this so you can have all the
+pieces<00:11:47.070><c> in</c><00:11:47.250><c> the</c><00:11:47.400><c> algorithm</c><00:11:47.910><c> together</c><00:11:48.210><c> so</c><00:11:48.780><c> that</c>
+
+00:11:48.950 --> 00:11:48.960 align:start position:0%
+pieces in the algorithm together so that
+ 
+
+00:11:48.960 --> 00:11:50.690 align:start position:0%
+pieces in the algorithm together so that
+you<00:11:49.050><c> know</c><00:11:49.200><c> exactly</c><00:11:49.680><c> what</c><00:11:49.920><c> you</c><00:11:50.040><c> want</c><00:11:50.190><c> need</c><00:11:50.580><c> to</c>
+
+00:11:50.690 --> 00:11:50.700 align:start position:0%
+you know exactly what you want need to
+ 
+
+00:11:50.700 --> 00:11:52.610 align:start position:0%
+you know exactly what you want need to
+implement<00:11:50.970><c> if</c><00:11:51.330><c> you</c><00:11:51.750><c> want</c><00:11:51.930><c> to</c><00:11:52.020><c> implement</c><00:11:52.320><c> back</c>
+
+00:11:52.610 --> 00:11:52.620 align:start position:0%
+implement if you want to implement back
+ 
+
+00:11:52.620 --> 00:11:54.530 align:start position:0%
+implement if you want to implement back
+propagation<00:11:52.890><c> to</c><00:11:53.520><c> compute</c><00:11:53.550><c> the</c><00:11:53.970><c> derivatives</c>
+
+00:11:54.530 --> 00:11:54.540 align:start position:0%
+propagation to compute the derivatives
+ 
+
+00:11:54.540 --> 00:11:57.080 align:start position:0%
+propagation to compute the derivatives
+of<00:11:54.690><c> your</c><00:11:55.170><c> neural</c><00:11:55.440><c> networks</c><00:11:55.920><c> cost</c><00:11:56.670><c> function</c>
+
+00:11:57.080 --> 00:11:57.090 align:start position:0%
+of your neural networks cost function
+ 
+
+00:11:57.090 --> 00:12:00.830 align:start position:0%
+of your neural networks cost function
+with<00:11:57.510><c> respect</c><00:11:57.930><c> to</c><00:11:58.080><c> its</c><00:11:58.230><c> parameters</c>
+

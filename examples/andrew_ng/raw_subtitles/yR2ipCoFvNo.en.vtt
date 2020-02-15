@@ -1,0 +1,1736 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:01.670 align:start position:0%
+ 
+in<00:00:00.179><c> the</c><00:00:00.510><c> previous</c><00:00:00.900><c> video</c><00:00:01.199><c> we</c><00:00:01.380><c> gave</c><00:00:01.650><c> a</c>
+
+00:00:01.670 --> 00:00:01.680 align:start position:0%
+in the previous video we gave a
+ 
+
+00:00:01.680 --> 00:00:03.500 align:start position:0%
+in the previous video we gave a
+mathematical<00:00:02.520><c> definition</c><00:00:02.669><c> in</c><00:00:03.210><c> the</c><00:00:03.270><c> cost</c>
+
+00:00:03.500 --> 00:00:03.510 align:start position:0%
+mathematical definition in the cost
+ 
+
+00:00:03.510 --> 00:00:05.900 align:start position:0%
+mathematical definition in the cost
+function<00:00:03.990><c> in</c><00:00:04.710><c> this</c><00:00:04.890><c> video</c><00:00:05.220><c> let's</c><00:00:05.609><c> look</c><00:00:05.790><c> at</c>
+
+00:00:05.900 --> 00:00:05.910 align:start position:0%
+function in this video let's look at
+ 
+
+00:00:05.910 --> 00:00:07.670 align:start position:0%
+function in this video let's look at
+some<00:00:06.060><c> examples</c><00:00:06.600><c> to</c><00:00:06.899><c> get</c><00:00:07.049><c> better</c><00:00:07.259><c> intuition</c>
+
+00:00:07.670 --> 00:00:07.680 align:start position:0%
+some examples to get better intuition
+ 
+
+00:00:07.680 --> 00:00:09.500 align:start position:0%
+some examples to get better intuition
+about<00:00:08.130><c> what</c><00:00:08.429><c> the</c><00:00:08.460><c> cost</c><00:00:08.550><c> function</c><00:00:08.880><c> is</c><00:00:09.210><c> doing</c>
+
+00:00:09.500 --> 00:00:09.510 align:start position:0%
+about what the cost function is doing
+ 
+
+00:00:09.510 --> 00:00:15.259 align:start position:0%
+about what the cost function is doing
+and<00:00:09.660><c> why</c><00:00:10.050><c> we</c><00:00:10.260><c> want</c><00:00:10.440><c> to</c><00:00:10.469><c> use</c><00:00:10.590><c> it</c><00:00:13.280><c> to</c><00:00:14.280><c> recap</c><00:00:14.670><c> here</c>
+
+00:00:15.259 --> 00:00:15.269 align:start position:0%
+and why we want to use it to recap here
+ 
+
+00:00:15.269 --> 00:00:17.720 align:start position:0%
+and why we want to use it to recap here
+some<00:00:15.420><c> we</c><00:00:15.599><c> had</c><00:00:15.750><c> last</c><00:00:15.960><c> time</c><00:00:16.109><c> we</c><00:00:16.890><c> want</c><00:00:17.220><c> to</c><00:00:17.310><c> fit</c><00:00:17.699><c> a</c>
+
+00:00:17.720 --> 00:00:17.730 align:start position:0%
+some we had last time we want to fit a
+ 
+
+00:00:17.730 --> 00:00:19.910 align:start position:0%
+some we had last time we want to fit a
+straight<00:00:18.000><c> line</c><00:00:18.060><c> to</c><00:00:18.240><c> our</c><00:00:18.390><c> data</c><00:00:18.449><c> so</c><00:00:19.199><c> we</c><00:00:19.410><c> had</c><00:00:19.619><c> this</c>
+
+00:00:19.910 --> 00:00:19.920 align:start position:0%
+straight line to our data so we had this
+ 
+
+00:00:19.920 --> 00:00:21.620 align:start position:0%
+straight line to our data so we had this
+form<00:00:20.250><c> of</c><00:00:20.400><c> the</c><00:00:20.520><c> hypothesis</c><00:00:21.180><c> with</c><00:00:21.449><c> these</c>
+
+00:00:21.620 --> 00:00:21.630 align:start position:0%
+form of the hypothesis with these
+ 
+
+00:00:21.630 --> 00:00:24.290 align:start position:0%
+form of the hypothesis with these
+parameters<00:00:21.930><c> theta</c><00:00:22.439><c> 0</c><00:00:22.740><c> and</c><00:00:22.800><c> theta</c><00:00:22.920><c> 1</c><00:00:23.160><c> and</c><00:00:23.519><c> with</c>
+
+00:00:24.290 --> 00:00:24.300 align:start position:0%
+parameters theta 0 and theta 1 and with
+ 
+
+00:00:24.300 --> 00:00:26.179 align:start position:0%
+parameters theta 0 and theta 1 and with
+different<00:00:24.539><c> choices</c><00:00:24.840><c> of</c><00:00:25.109><c> the</c><00:00:25.470><c> parameters</c><00:00:25.590><c> we</c>
+
+00:00:26.179 --> 00:00:26.189 align:start position:0%
+different choices of the parameters we
+ 
+
+00:00:26.189 --> 00:00:28.160 align:start position:0%
+different choices of the parameters we
+end<00:00:26.340><c> up</c><00:00:26.550><c> with</c><00:00:26.820><c> different</c><00:00:27.150><c> straight</c><00:00:27.630><c> line</c><00:00:27.840><c> fits</c>
+
+00:00:28.160 --> 00:00:28.170 align:start position:0%
+end up with different straight line fits
+ 
+
+00:00:28.170 --> 00:00:29.599 align:start position:0%
+end up with different straight line fits
+to<00:00:28.890><c> the</c><00:00:29.010><c> data</c>
+
+00:00:29.599 --> 00:00:29.609 align:start position:0%
+to the data
+ 
+
+00:00:29.609 --> 00:00:32.269 align:start position:0%
+to the data
+each<00:00:29.880><c> event</c><00:00:30.210><c> like</c><00:00:30.390><c> so</c><00:00:30.599><c> and</c><00:00:30.890><c> there's</c><00:00:31.890><c> a</c><00:00:31.980><c> cost</c>
+
+00:00:32.269 --> 00:00:32.279 align:start position:0%
+each event like so and there's a cost
+ 
+
+00:00:32.279 --> 00:00:34.370 align:start position:0%
+each event like so and there's a cost
+function<00:00:32.520><c> and</c><00:00:33.000><c> that</c><00:00:33.420><c> was</c><00:00:33.600><c> our</c><00:00:33.780><c> optimization</c>
+
+00:00:34.370 --> 00:00:34.380 align:start position:0%
+function and that was our optimization
+ 
+
+00:00:34.380 --> 00:00:38.299 align:start position:0%
+function and that was our optimization
+objective<00:00:35.780><c> for</c><00:00:36.780><c> this</c><00:00:36.960><c> video</c><00:00:37.290><c> in</c><00:00:37.620><c> order</c><00:00:38.070><c> to</c>
+
+00:00:38.299 --> 00:00:38.309 align:start position:0%
+objective for this video in order to
+ 
+
+00:00:38.309 --> 00:00:40.610 align:start position:0%
+objective for this video in order to
+better<00:00:38.579><c> visualize</c><00:00:38.850><c> the</c><00:00:39.420><c> cost</c><00:00:39.629><c> function</c><00:00:39.840><c> J</c><00:00:40.110><c> I'm</c>
+
+00:00:40.610 --> 00:00:40.620 align:start position:0%
+better visualize the cost function J I'm
+ 
+
+00:00:40.620 --> 00:00:42.170 align:start position:0%
+better visualize the cost function J I'm
+going<00:00:40.920><c> to</c><00:00:41.010><c> work</c><00:00:41.190><c> with</c><00:00:41.430><c> a</c><00:00:41.460><c> simplified</c>
+
+00:00:42.170 --> 00:00:42.180 align:start position:0%
+going to work with a simplified
+ 
+
+00:00:42.180 --> 00:00:44.150 align:start position:0%
+going to work with a simplified
+hypothesis<00:00:42.930><c> function</c><00:00:43.379><c> like</c><00:00:43.590><c> that</c><00:00:43.620><c> shown</c><00:00:44.010><c> on</c>
+
+00:00:44.150 --> 00:00:44.160 align:start position:0%
+hypothesis function like that shown on
+ 
+
+00:00:44.160 --> 00:00:45.920 align:start position:0%
+hypothesis function like that shown on
+the<00:00:44.280><c> right</c><00:00:44.430><c> so</c><00:00:45.270><c> I'm</c><00:00:45.360><c> going</c><00:00:45.539><c> to</c><00:00:45.600><c> use</c><00:00:45.750><c> my</c>
+
+00:00:45.920 --> 00:00:45.930 align:start position:0%
+the right so I'm going to use my
+ 
+
+00:00:45.930 --> 00:00:48.080 align:start position:0%
+the right so I'm going to use my
+simplified<00:00:46.649><c> hypothesis</c><00:00:47.430><c> which</c><00:00:47.700><c> is</c><00:00:47.820><c> just</c>
+
+00:00:48.080 --> 00:00:48.090 align:start position:0%
+simplified hypothesis which is just
+ 
+
+00:00:48.090 --> 00:00:51.260 align:start position:0%
+simplified hypothesis which is just
+theta<00:00:48.420><c> 1</c><00:00:48.750><c> times</c><00:00:49.230><c> X</c><00:00:49.649><c> you</c><00:00:50.399><c> can</c><00:00:50.610><c> if</c><00:00:50.910><c> you</c><00:00:51.000><c> want</c><00:00:51.180><c> to</c>
+
+00:00:51.260 --> 00:00:51.270 align:start position:0%
+theta 1 times X you can if you want to
+ 
+
+00:00:51.270 --> 00:00:53.000 align:start position:0%
+theta 1 times X you can if you want to
+think<00:00:51.390><c> of</c><00:00:51.570><c> this</c><00:00:51.690><c> as</c><00:00:51.960><c> setting</c><00:00:52.350><c> the</c><00:00:52.379><c> parameter</c>
+
+00:00:53.000 --> 00:00:53.010 align:start position:0%
+think of this as setting the parameter
+ 
+
+00:00:53.010 --> 00:00:56.209 align:start position:0%
+think of this as setting the parameter
+theta<00:00:53.250><c> 0</c><00:00:53.789><c> equal</c><00:00:54.270><c> to</c><00:00:54.300><c> 0</c><00:00:54.719><c> so</c><00:00:55.620><c> I</c><00:00:55.649><c> have</c><00:00:55.680><c> only</c><00:00:55.920><c> one</c>
+
+00:00:56.209 --> 00:00:56.219 align:start position:0%
+theta 0 equal to 0 so I have only one
+ 
+
+00:00:56.219 --> 00:00:59.060 align:start position:0%
+theta 0 equal to 0 so I have only one
+parameter<00:00:56.370><c> theta</c><00:00:56.850><c> 1</c><00:00:57.210><c> and</c><00:00:57.449><c> my</c><00:00:58.320><c> cost</c><00:00:58.590><c> function</c>
+
+00:00:59.060 --> 00:00:59.070 align:start position:0%
+parameter theta 1 and my cost function
+ 
+
+00:00:59.070 --> 00:01:01.310 align:start position:0%
+parameter theta 1 and my cost function
+is<00:00:59.280><c> similar</c><00:00:59.820><c> to</c><00:01:00.000><c> before</c><00:01:00.329><c> except</c><00:01:00.780><c> that</c><00:01:00.899><c> now</c><00:01:01.050><c> H</c>
+
+00:01:01.310 --> 00:01:01.320 align:start position:0%
+is similar to before except that now H
+ 
+
+00:01:01.320 --> 00:01:04.490 align:start position:0%
+is similar to before except that now H
+of<00:01:01.559><c> X</c><00:01:01.739><c> that</c><00:01:02.399><c> is</c><00:01:02.760><c> now</c><00:01:02.940><c> equal</c><00:01:03.390><c> to</c><00:01:03.570><c> just</c><00:01:03.899><c> ADA</c><00:01:04.199><c> 1</c>
+
+00:01:04.490 --> 00:01:04.500 align:start position:0%
+of X that is now equal to just ADA 1
+ 
+
+00:01:04.500 --> 00:01:07.670 align:start position:0%
+of X that is now equal to just ADA 1
+times<00:01:05.070><c> X</c><00:01:05.369><c> and</c><00:01:05.900><c> I</c><00:01:06.900><c> have</c><00:01:06.990><c> only</c><00:01:07.260><c> one</c><00:01:07.500><c> parameter</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+times X and I have only one parameter
+ 
+
+00:01:07.680 --> 00:01:09.890 align:start position:0%
+times X and I have only one parameter
+theta<00:01:08.159><c> one</c><00:01:08.310><c> and</c><00:01:08.700><c> so</c><00:01:08.760><c> my</c><00:01:09.299><c> optimization</c>
+
+00:01:09.890 --> 00:01:09.900 align:start position:0%
+theta one and so my optimization
+ 
+
+00:01:09.900 --> 00:01:12.490 align:start position:0%
+theta one and so my optimization
+objective<00:01:10.619><c> is</c><00:01:10.830><c> the</c><00:01:10.950><c> minimize</c><00:01:11.280><c> J</c><00:01:11.310><c> of</c><00:01:11.909><c> theta</c><00:01:11.939><c> 1</c>
+
+00:01:12.490 --> 00:01:12.500 align:start position:0%
+objective is the minimize J of theta 1
+ 
+
+00:01:12.500 --> 00:01:16.340 align:start position:0%
+objective is the minimize J of theta 1
+in<00:01:13.500><c> pictures</c><00:01:14.100><c> what</c><00:01:15.000><c> this</c><00:01:15.180><c> means</c><00:01:15.420><c> is</c><00:01:15.750><c> that</c><00:01:15.780><c> if</c>
+
+00:01:16.340 --> 00:01:16.350 align:start position:0%
+in pictures what this means is that if
+ 
+
+00:01:16.350 --> 00:01:19.789 align:start position:0%
+in pictures what this means is that if
+theta<00:01:16.770><c> 0</c><00:01:17.340><c> equals</c><00:01:17.549><c> 0</c><00:01:17.850><c> that</c><00:01:18.810><c> corresponds</c><00:01:19.470><c> to</c>
+
+00:01:19.789 --> 00:01:19.799 align:start position:0%
+theta 0 equals 0 that corresponds to
+ 
+
+00:01:19.799 --> 00:01:22.789 align:start position:0%
+theta 0 equals 0 that corresponds to
+choosing<00:01:20.369><c> only</c><00:01:21.140><c> hypothesis</c><00:01:22.140><c> functions</c><00:01:22.560><c> that</c>
+
+00:01:22.789 --> 00:01:22.799 align:start position:0%
+choosing only hypothesis functions that
+ 
+
+00:01:22.799 --> 00:01:24.469 align:start position:0%
+choosing only hypothesis functions that
+pass<00:01:23.070><c> through</c><00:01:23.369><c> the</c><00:01:23.610><c> origin</c><00:01:23.790><c> that</c><00:01:24.270><c> pass</c>
+
+00:01:24.469 --> 00:01:24.479 align:start position:0%
+pass through the origin that pass
+ 
+
+00:01:24.479 --> 00:01:28.340 align:start position:0%
+pass through the origin that pass
+through<00:01:24.689><c> the</c><00:01:24.780><c> point</c><00:01:25.140><c> 0</c><00:01:25.560><c> 0</c><00:01:27.229><c> using</c><00:01:28.229><c> the</c>
+
+00:01:28.340 --> 00:01:28.350 align:start position:0%
+through the point 0 0 using the
+ 
+
+00:01:28.350 --> 00:01:30.319 align:start position:0%
+through the point 0 0 using the
+simplified<00:01:28.890><c> definition</c><00:01:29.100><c> of</c><00:01:29.579><c> hypothesis</c><00:01:30.240><c> and</c>
+
+00:01:30.319 --> 00:01:30.329 align:start position:0%
+simplified definition of hypothesis and
+ 
+
+00:01:30.329 --> 00:01:32.510 align:start position:0%
+simplified definition of hypothesis and
+cost<00:01:30.600><c> function</c><00:01:31.049><c> let's</c><00:01:31.619><c> try</c><00:01:31.860><c> to</c><00:01:31.920><c> understand</c>
+
+00:01:32.510 --> 00:01:32.520 align:start position:0%
+cost function let's try to understand
+ 
+
+00:01:32.520 --> 00:01:36.530 align:start position:0%
+cost function let's try to understand
+the<00:01:32.790><c> cost</c><00:01:33.030><c> function</c><00:01:33.240><c> concept</c><00:01:34.140><c> better</c><00:01:35.540><c> it</c>
+
+00:01:36.530 --> 00:01:36.540 align:start position:0%
+the cost function concept better it
+ 
+
+00:01:36.540 --> 00:01:38.270 align:start position:0%
+the cost function concept better it
+turns<00:01:36.810><c> out</c><00:01:36.990><c> the</c><00:01:37.110><c> two</c><00:01:37.320><c> key</c><00:01:37.590><c> functions</c><00:01:38.040><c> we</c><00:01:38.189><c> want</c>
+
+00:01:38.270 --> 00:01:38.280 align:start position:0%
+turns out the two key functions we want
+ 
+
+00:01:38.280 --> 00:01:40.520 align:start position:0%
+turns out the two key functions we want
+to<00:01:38.430><c> understand</c><00:01:38.820><c> the</c><00:01:39.450><c> first</c><00:01:39.750><c> is</c><00:01:40.049><c> the</c>
+
+00:01:40.520 --> 00:01:40.530 align:start position:0%
+to understand the first is the
+ 
+
+00:01:40.530 --> 00:01:42.889 align:start position:0%
+to understand the first is the
+hypothesis<00:01:41.369><c> function</c><00:01:41.520><c> the</c><00:01:42.060><c> second</c><00:01:42.509><c> is</c><00:01:42.630><c> the</c>
+
+00:01:42.889 --> 00:01:42.899 align:start position:0%
+hypothesis function the second is the
+ 
+
+00:01:42.899 --> 00:01:45.710 align:start position:0%
+hypothesis function the second is the
+cost<00:01:43.140><c> function</c><00:01:43.729><c> so</c><00:01:44.729><c> notice</c><00:01:45.479><c> that</c><00:01:45.540><c> the</c>
+
+00:01:45.710 --> 00:01:45.720 align:start position:0%
+cost function so notice that the
+ 
+
+00:01:45.720 --> 00:01:49.039 align:start position:0%
+cost function so notice that the
+hypothesis<00:01:46.470><c> right</c><00:01:47.220><c> H</c><00:01:47.369><c> of</c><00:01:47.549><c> X</c><00:01:47.780><c> for</c><00:01:48.780><c> a</c><00:01:48.810><c> fixed</c>
+
+00:01:49.039 --> 00:01:49.049 align:start position:0%
+hypothesis right H of X for a fixed
+ 
+
+00:01:49.049 --> 00:01:52.490 align:start position:0%
+hypothesis right H of X for a fixed
+value<00:01:49.170><c> of</c><00:01:49.409><c> theta</c><00:01:49.560><c> 1</c><00:01:49.890><c> this</c><00:01:50.100><c> is</c><00:01:50.579><c> a</c><00:01:50.729><c> function</c><00:01:51.270><c> of</c><00:01:51.500><c> X</c>
+
+00:01:52.490 --> 00:01:52.500 align:start position:0%
+value of theta 1 this is a function of X
+ 
+
+00:01:52.500 --> 00:01:55.940 align:start position:0%
+value of theta 1 this is a function of X
+so<00:01:53.220><c> the</c><00:01:53.399><c> hypothesis</c><00:01:54.060><c> is</c><00:01:54.270><c> a</c><00:01:54.299><c> function</c><00:01:54.810><c> of</c><00:01:54.990><c> what</c>
+
+00:01:55.940 --> 00:01:55.950 align:start position:0%
+so the hypothesis is a function of what
+ 
+
+00:01:55.950 --> 00:01:58.819 align:start position:0%
+so the hypothesis is a function of what
+is<00:01:56.070><c> the</c><00:01:56.189><c> size</c><00:01:56.430><c> of</c><00:01:56.579><c> the</c><00:01:56.700><c> house</c><00:01:56.850><c> X</c><00:01:57.259><c> and</c><00:01:58.259><c> contrast</c>
+
+00:01:58.819 --> 00:01:58.829 align:start position:0%
+is the size of the house X and contrast
+ 
+
+00:01:58.829 --> 00:02:02.480 align:start position:0%
+is the size of the house X and contrast
+the<00:01:58.979><c> cost</c><00:01:59.250><c> function</c><00:01:59.520><c> J</c><00:02:00.530><c> that's</c><00:02:01.530><c> a</c><00:02:01.799><c> function</c><00:02:02.040><c> of</c>
+
+00:02:02.480 --> 00:02:02.490 align:start position:0%
+the cost function J that's a function of
+ 
+
+00:02:02.490 --> 00:02:05.510 align:start position:0%
+the cost function J that's a function of
+the<00:02:02.670><c> parameter</c><00:02:03.329><c> theta</c><00:02:04.140><c> 1</c><00:02:04.500><c> which</c><00:02:04.799><c> controls</c><00:02:05.340><c> the</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+the parameter theta 1 which controls the
+ 
+
+00:02:05.520 --> 00:02:09.199 align:start position:0%
+the parameter theta 1 which controls the
+slope<00:02:05.850><c> of</c><00:02:06.060><c> the</c><00:02:06.479><c> straight</c><00:02:06.540><c> line</c><00:02:07.399><c> let's</c><00:02:08.399><c> plot</c>
+
+00:02:09.199 --> 00:02:09.209 align:start position:0%
+slope of the straight line let's plot
+ 
+
+00:02:09.209 --> 00:02:11.180 align:start position:0%
+slope of the straight line let's plot
+these<00:02:09.420><c> functions</c><00:02:09.929><c> and</c><00:02:10.200><c> try</c><00:02:10.470><c> to</c><00:02:10.590><c> understand</c>
+
+00:02:11.180 --> 00:02:11.190 align:start position:0%
+these functions and try to understand
+ 
+
+00:02:11.190 --> 00:02:12.580 align:start position:0%
+these functions and try to understand
+them<00:02:11.459><c> both</c><00:02:11.640><c> better</c>
+
+00:02:12.580 --> 00:02:12.590 align:start position:0%
+them both better
+ 
+
+00:02:12.590 --> 00:02:15.170 align:start position:0%
+them both better
+let's<00:02:13.590><c> start</c><00:02:13.800><c> with</c><00:02:13.920><c> the</c><00:02:14.010><c> hypothesis</c><00:02:14.670><c> on</c><00:02:14.909><c> the</c>
+
+00:02:15.170 --> 00:02:15.180 align:start position:0%
+let's start with the hypothesis on the
+ 
+
+00:02:15.180 --> 00:02:17.149 align:start position:0%
+let's start with the hypothesis on the
+left<00:02:15.390><c> let's</c><00:02:15.959><c> say</c><00:02:16.110><c> here's</c><00:02:16.379><c> my</c><00:02:16.560><c> training</c><00:02:16.799><c> set</c>
+
+00:02:17.149 --> 00:02:17.159 align:start position:0%
+left let's say here's my training set
+ 
+
+00:02:17.159 --> 00:02:20.660 align:start position:0%
+left let's say here's my training set
+with<00:02:17.459><c> three</c><00:02:17.700><c> points</c><00:02:18.120><c> at</c><00:02:18.209><c> 1</c><00:02:18.390><c> 1</c><00:02:18.599><c> 2</c><00:02:18.840><c> 2</c><00:02:19.019><c> &amp;</c><00:02:19.049><c> 3</c><00:02:19.260><c> 3</c><00:02:19.670><c> let's</c>
+
+00:02:20.660 --> 00:02:20.670 align:start position:0%
+with three points at 1 1 2 2 &amp; 3 3 let's
+ 
+
+00:02:20.670 --> 00:02:22.250 align:start position:0%
+with three points at 1 1 2 2 &amp; 3 3 let's
+pick<00:02:20.819><c> a</c><00:02:20.849><c> value</c><00:02:20.940><c> of</c><00:02:21.269><c> theta</c><00:02:21.390><c> one</c><00:02:21.629><c> so</c><00:02:21.840><c> one</c><00:02:21.989><c> set</c><00:02:22.170><c> of</c>
+
+00:02:22.250 --> 00:02:22.260 align:start position:0%
+pick a value of theta one so one set of
+ 
+
+00:02:22.260 --> 00:02:24.380 align:start position:0%
+pick a value of theta one so one set of
+theta<00:02:22.440><c> one</c><00:02:22.680><c> equals</c><00:02:22.860><c> one</c><00:02:23.400><c> and</c><00:02:23.670><c> if</c><00:02:24.090><c> that's</c><00:02:24.239><c> my</c>
+
+00:02:24.380 --> 00:02:24.390 align:start position:0%
+theta one equals one and if that's my
+ 
+
+00:02:24.390 --> 00:02:27.140 align:start position:0%
+theta one equals one and if that's my
+choice<00:02:24.690><c> for</c><00:02:25.019><c> theta</c><00:02:25.230><c> one</c><00:02:25.500><c> then</c><00:02:26.099><c> my</c><00:02:26.310><c> hypothesis</c>
+
+00:02:27.140 --> 00:02:27.150 align:start position:0%
+choice for theta one then my hypothesis
+ 
+
+00:02:27.150 --> 00:02:29.089 align:start position:0%
+choice for theta one then my hypothesis
+is<00:02:27.390><c> going</c><00:02:28.049><c> to</c><00:02:28.170><c> look</c><00:02:28.349><c> like</c><00:02:28.379><c> this</c><00:02:28.799><c> straight</c><00:02:29.069><c> line</c>
+
+00:02:29.089 --> 00:02:29.099 align:start position:0%
+is going to look like this straight line
+ 
+
+00:02:29.099 --> 00:02:32.150 align:start position:0%
+is going to look like this straight line
+over<00:02:29.549><c> here</c><00:02:29.580><c> okay</c><00:02:30.510><c> and</c><00:02:30.780><c> I</c><00:02:31.500><c> want</c><00:02:31.680><c> point</c><00:02:31.830><c> out</c><00:02:31.950><c> when</c>
+
+00:02:32.150 --> 00:02:32.160 align:start position:0%
+over here okay and I want point out when
+ 
+
+00:02:32.160 --> 00:02:34.759 align:start position:0%
+over here okay and I want point out when
+I'm<00:02:32.280><c> plotting</c><00:02:32.430><c> my</c><00:02:32.730><c> hypothesis</c><00:02:33.420><c> function</c><00:02:33.840><c> my</c>
+
+00:02:34.759 --> 00:02:34.769 align:start position:0%
+I'm plotting my hypothesis function my
+ 
+
+00:02:34.769 --> 00:02:36.770 align:start position:0%
+I'm plotting my hypothesis function my
+x-axis<00:02:35.250><c> my</c><00:02:35.610><c> horizontal</c><00:02:35.910><c> axis</c><00:02:36.269><c> is</c><00:02:36.599><c> labeled</c>
+
+00:02:36.770 --> 00:02:36.780 align:start position:0%
+x-axis my horizontal axis is labeled
+ 
+
+00:02:36.780 --> 00:02:38.660 align:start position:0%
+x-axis my horizontal axis is labeled
+axes<00:02:37.349><c> label</c><00:02:37.709><c> you</c><00:02:37.830><c> know</c><00:02:37.860><c> size</c><00:02:38.220><c> of</c><00:02:38.430><c> the</c><00:02:38.489><c> holes</c>
+
+00:02:38.660 --> 00:02:38.670 align:start position:0%
+axes label you know size of the holes
+ 
+
+00:02:38.670 --> 00:02:43.160 align:start position:0%
+axes label you know size of the holes
+over<00:02:38.879><c> here</c><00:02:39.680><c> now</c><00:02:40.680><c> I've</c><00:02:41.299><c> temporarily</c><00:02:42.299><c> set</c><00:02:42.930><c> theta</c>
+
+00:02:43.160 --> 00:02:43.170 align:start position:0%
+over here now I've temporarily set theta
+ 
+
+00:02:43.170 --> 00:02:46.190 align:start position:0%
+over here now I've temporarily set theta
+1<00:02:43.470><c> equals</c><00:02:43.860><c> 1</c><00:02:44.159><c> what</c><00:02:45.060><c> I</c><00:02:45.090><c> want</c><00:02:45.269><c> to</c><00:02:45.390><c> do</c><00:02:45.540><c> is</c><00:02:45.840><c> figure</c>
+
+00:02:46.190 --> 00:02:46.200 align:start position:0%
+1 equals 1 what I want to do is figure
+ 
+
+00:02:46.200 --> 00:02:50.089 align:start position:0%
+1 equals 1 what I want to do is figure
+out<00:02:46.379><c> you</c><00:02:46.860><c> know</c><00:02:46.980><c> what</c><00:02:47.220><c> is</c><00:02:47.519><c> J</c><00:02:48.150><c> of</c><00:02:48.420><c> theta</c><00:02:48.480><c> one</c><00:02:49.099><c> when</c>
+
+00:02:50.089 --> 00:02:50.099 align:start position:0%
+out you know what is J of theta one when
+ 
+
+00:02:50.099 --> 00:02:52.970 align:start position:0%
+out you know what is J of theta one when
+theta<00:02:50.430><c> 1</c><00:02:50.730><c> equals</c><00:02:51.599><c> 1</c><00:02:51.780><c> so</c><00:02:52.230><c> let's</c><00:02:52.500><c> go</c><00:02:52.620><c> ahead</c><00:02:52.739><c> and</c>
+
+00:02:52.970 --> 00:02:52.980 align:start position:0%
+theta 1 equals 1 so let's go ahead and
+ 
+
+00:02:52.980 --> 00:02:54.910 align:start position:0%
+theta 1 equals 1 so let's go ahead and
+compute<00:02:53.280><c> what</c><00:02:53.549><c> the</c><00:02:53.640><c> cost</c><00:02:53.879><c> function</c><00:02:54.060><c> is</c><00:02:54.450><c> for</c>
+
+00:02:54.910 --> 00:02:54.920 align:start position:0%
+compute what the cost function is for
+ 
+
+00:02:54.920 --> 00:02:58.910 align:start position:0%
+compute what the cost function is for
+the<00:02:55.920><c> value</c><00:02:56.400><c> 1</c><00:02:57.019><c> well</c><00:02:58.019><c> as</c><00:02:58.109><c> usual</c><00:02:58.470><c> my</c><00:02:58.650><c> cost</c>
+
+00:02:58.910 --> 00:02:58.920 align:start position:0%
+the value 1 well as usual my cost
+ 
+
+00:02:58.920 --> 00:03:02.089 align:start position:0%
+the value 1 well as usual my cost
+function<00:02:59.370><c> is</c><00:02:59.640><c> defined</c><00:02:59.849><c> as</c><00:03:00.359><c> follows</c><00:03:01.099><c> write</c>
+
+00:03:02.089 --> 00:03:02.099 align:start position:0%
+function is defined as follows write
+ 
+
+00:03:02.099 --> 00:03:05.270 align:start position:0%
+function is defined as follows write
+some<00:03:02.519><c> from</c><00:03:02.930><c> some</c><00:03:03.930><c> of</c><00:03:04.079><c> my</c><00:03:04.319><c> training</c><00:03:04.560><c> set</c><00:03:04.950><c> of</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+some from some of my training set of
+ 
+
+00:03:05.280 --> 00:03:09.860 align:start position:0%
+some from some of my training set of
+this<00:03:05.640><c> usual</c><00:03:06.209><c> squared</c><00:03:07.109><c> error</c><00:03:07.379><c> term</c><00:03:07.769><c> and</c><00:03:08.870><c> this</c>
+
+00:03:09.860 --> 00:03:09.870 align:start position:0%
+this usual squared error term and this
+ 
+
+00:03:09.870 --> 00:03:16.640 align:start position:0%
+this usual squared error term and this
+is<00:03:10.079><c> therefore</c><00:03:10.500><c> equal</c><00:03:10.709><c> to</c><00:03:11.569><c> this</c><00:03:13.280><c> of</c><00:03:14.900><c> theta</c><00:03:15.900><c> 1</c><00:03:16.230><c> X</c>
+
+00:03:16.640 --> 00:03:16.650 align:start position:0%
+is therefore equal to this of theta 1 X
+ 
+
+00:03:16.650 --> 00:03:21.860 align:start position:0%
+is therefore equal to this of theta 1 X
+I<00:03:17.239><c> -</c><00:03:18.239><c> why</c><00:03:18.450><c> I</c><00:03:18.750><c> and</c><00:03:19.730><c> if</c><00:03:20.730><c> you</c><00:03:20.790><c> simplify</c><00:03:21.120><c> this</c><00:03:21.299><c> turns</c>
+
+00:03:21.860 --> 00:03:21.870 align:start position:0%
+I - why I and if you simplify this turns
+ 
+
+00:03:21.870 --> 00:03:27.500 align:start position:0%
+I - why I and if you simplify this turns
+out<00:03:22.109><c> to</c><00:03:22.380><c> be</c><00:03:23.690><c> that</c><00:03:25.669><c> 0</c><00:03:26.669><c> squared</c><00:03:27.000><c> plus</c><00:03:27.150><c> 0</c><00:03:27.389><c> squared</c>
+
+00:03:27.500 --> 00:03:27.510 align:start position:0%
+out to be that 0 squared plus 0 squared
+ 
+
+00:03:27.510 --> 00:03:29.089 align:start position:0%
+out to be that 0 squared plus 0 squared
+is<00:03:27.750><c> 0</c><00:03:27.810><c> squared</c><00:03:28.109><c> which</c><00:03:28.410><c> is</c><00:03:28.620><c> of</c><00:03:28.769><c> course</c><00:03:29.010><c> just</c>
+
+00:03:29.089 --> 00:03:29.099 align:start position:0%
+is 0 squared which is of course just
+ 
+
+00:03:29.099 --> 00:03:32.420 align:start position:0%
+is 0 squared which is of course just
+equal<00:03:29.669><c> to</c><00:03:29.700><c> 0</c><00:03:30.200><c> now</c><00:03:31.200><c> inside</c><00:03:31.889><c> the</c><00:03:32.040><c> cost</c><00:03:32.250><c> function</c>
+
+00:03:32.420 --> 00:03:32.430 align:start position:0%
+equal to 0 now inside the cost function
+ 
+
+00:03:32.430 --> 00:03:34.789 align:start position:0%
+equal to 0 now inside the cost function
+it<00:03:32.880><c> turns</c><00:03:33.120><c> out</c><00:03:33.329><c> each</c><00:03:33.630><c> of</c><00:03:33.870><c> these</c><00:03:33.989><c> terms</c><00:03:34.290><c> here</c><00:03:34.560><c> is</c>
+
+00:03:34.789 --> 00:03:34.799 align:start position:0%
+it turns out each of these terms here is
+ 
+
+00:03:34.799 --> 00:03:37.610 align:start position:0%
+it turns out each of these terms here is
+equal<00:03:35.190><c> to</c><00:03:35.280><c> 0</c><00:03:35.609><c> because</c><00:03:36.180><c> for</c><00:03:37.109><c> the</c><00:03:37.200><c> specific</c>
+
+00:03:37.610 --> 00:03:37.620 align:start position:0%
+equal to 0 because for the specific
+ 
+
+00:03:37.620 --> 00:03:39.680 align:start position:0%
+equal to 0 because for the specific
+training<00:03:37.829><c> set</c><00:03:38.160><c> I</c><00:03:38.190><c> have</c><00:03:38.519><c> for</c><00:03:38.790><c> my</c><00:03:38.940><c> Damini</c>
+
+00:03:39.680 --> 00:03:39.690 align:start position:0%
+training set I have for my Damini
+ 
+
+00:03:39.690 --> 00:03:42.319 align:start position:0%
+training set I have for my Damini
+training<00:03:39.989><c> examples</c><00:03:40.410><c> are</c><00:03:40.590><c> 1</c><00:03:40.859><c> 1</c><00:03:40.889><c> 2</c><00:03:41.220><c> 2</c><00:03:41.370><c> 3</c><00:03:41.400><c> 3</c><00:03:41.669><c> if</c>
+
+00:03:42.319 --> 00:03:42.329 align:start position:0%
+training examples are 1 1 2 2 3 3 if
+ 
+
+00:03:42.329 --> 00:03:45.890 align:start position:0%
+training examples are 1 1 2 2 3 3 if
+theta<00:03:42.630><c> 1</c><00:03:42.930><c> is</c><00:03:43.169><c> equal</c><00:03:43.290><c> to</c><00:03:43.500><c> 1</c><00:03:43.799><c> then</c><00:03:44.549><c> you</c><00:03:45.180><c> know</c><00:03:45.299><c> H</c><00:03:45.540><c> of</c>
+
+00:03:45.890 --> 00:03:45.900 align:start position:0%
+theta 1 is equal to 1 then you know H of
+ 
+
+00:03:45.900 --> 00:03:53.599 align:start position:0%
+theta 1 is equal to 1 then you know H of
+X<00:03:47.000><c> where</c><00:03:48.000><c> H</c><00:03:48.209><c> of</c><00:03:48.389><c> X</c><00:03:48.569><c> I</c><00:03:50.090><c> is</c><00:03:51.090><c> equal</c><00:03:51.450><c> to</c><00:03:51.709><c> Y</c><00:03:52.709><c> I</c><00:03:52.739><c> exactly</c>
+
+00:03:53.599 --> 00:03:53.609 align:start position:0%
+X where H of X I is equal to Y I exactly
+ 
+
+00:03:53.609 --> 00:03:59.629 align:start position:0%
+X where H of X I is equal to Y I exactly
+right<00:03:54.599><c> is</c><00:03:54.780><c> better</c><00:03:56.150><c> right</c><00:03:57.150><c> and</c><00:03:57.450><c> so</c><00:03:58.109><c> H</c><00:03:58.709><c> of</c><00:03:59.459><c> X</c>
+
+00:03:59.629 --> 00:03:59.639 align:start position:0%
+right is better right and so H of X
+ 
+
+00:03:59.639 --> 00:04:02.839 align:start position:0%
+right is better right and so H of X
+minus<00:04:00.150><c> y</c><00:04:00.560><c> each</c><00:04:01.560><c> of</c><00:04:01.769><c> these</c><00:04:01.859><c> terms</c><00:04:02.280><c> is</c><00:04:02.430><c> equal</c><00:04:02.730><c> to</c>
+
+00:04:02.839 --> 00:04:02.849 align:start position:0%
+minus y each of these terms is equal to
+ 
+
+00:04:02.849 --> 00:04:06.830 align:start position:0%
+minus y each of these terms is equal to
+0<00:04:03.150><c> which</c><00:04:03.900><c> is</c><00:04:04.049><c> why</c><00:04:04.230><c> I</c><00:04:04.260><c> find</c><00:04:04.799><c> that</c><00:04:05.040><c> J</c><00:04:06.000><c> of</c><00:04:06.239><c> 1</c><00:04:06.599><c> is</c>
+
+00:04:06.830 --> 00:04:06.840 align:start position:0%
+0 which is why I find that J of 1 is
+ 
+
+00:04:06.840 --> 00:04:14.900 align:start position:0%
+0 which is why I find that J of 1 is
+equal<00:04:07.319><c> to</c><00:04:07.950><c> 0</c><00:04:08.690><c> so</c><00:04:09.690><c> we</c><00:04:09.930><c> now</c><00:04:10.049><c> know</c><00:04:10.260><c> that</c><00:04:10.650><c> J</c><00:04:11.489><c> of</c><00:04:11.730><c> 1</c><00:04:13.910><c> is</c>
+
+00:04:14.900 --> 00:04:14.910 align:start position:0%
+equal to 0 so we now know that J of 1 is
+ 
+
+00:04:14.910 --> 00:04:18.469 align:start position:0%
+equal to 0 so we now know that J of 1 is
+equal<00:04:15.060><c> to</c><00:04:15.329><c> 0</c><00:04:15.660><c> let's</c><00:04:16.560><c> plot</c><00:04:16.769><c> that</c><00:04:17.359><c> what</c><00:04:18.359><c> I'm</c>
+
+00:04:18.469 --> 00:04:18.479 align:start position:0%
+equal to 0 let's plot that what I'm
+ 
+
+00:04:18.479 --> 00:04:20.479 align:start position:0%
+equal to 0 let's plot that what I'm
+going<00:04:18.690><c> to</c><00:04:18.720><c> do</c><00:04:18.840><c> on</c><00:04:18.900><c> the</c><00:04:19.079><c> right</c><00:04:19.260><c> is</c><00:04:19.560><c> plot</c><00:04:20.010><c> my</c><00:04:20.459><c> cost</c>
+
+00:04:20.479 --> 00:04:20.489 align:start position:0%
+going to do on the right is plot my cost
+ 
+
+00:04:20.489 --> 00:04:23.750 align:start position:0%
+going to do on the right is plot my cost
+function<00:04:20.940><c> J</c><00:04:21.630><c> and</c><00:04:21.930><c> notice</c><00:04:22.800><c> because</c><00:04:23.130><c> my</c><00:04:23.490><c> cost</c>
+
+00:04:23.750 --> 00:04:23.760 align:start position:0%
+function J and notice because my cost
+ 
+
+00:04:23.760 --> 00:04:24.570 align:start position:0%
+function J and notice because my cost
+function
+
+00:04:24.570 --> 00:04:24.580 align:start position:0%
+function
+ 
+
+00:04:24.580 --> 00:04:27.059 align:start position:0%
+function
+function<00:04:24.970><c> of</c><00:04:25.120><c> my</c><00:04:25.270><c> parameter</c><00:04:25.810><c> theta</c><00:04:26.020><c> one</c><00:04:26.379><c> when</c>
+
+00:04:27.059 --> 00:04:27.069 align:start position:0%
+function of my parameter theta one when
+ 
+
+00:04:27.069 --> 00:04:29.520 align:start position:0%
+function of my parameter theta one when
+I<00:04:27.129><c> plot</c><00:04:27.370><c> my</c><00:04:27.520><c> cost</c><00:04:27.550><c> function</c><00:04:27.849><c> the</c><00:04:28.810><c> horizontal</c>
+
+00:04:29.520 --> 00:04:29.530 align:start position:0%
+I plot my cost function the horizontal
+ 
+
+00:04:29.530 --> 00:04:32.939 align:start position:0%
+I plot my cost function the horizontal
+axis<00:04:29.919><c> is</c><00:04:29.949><c> now</c><00:04:30.280><c> labeled</c><00:04:30.520><c> with</c><00:04:30.970><c> theta</c><00:04:31.509><c> one</c><00:04:31.919><c> so</c><00:04:32.919><c> I</c>
+
+00:04:32.939 --> 00:04:32.949 align:start position:0%
+axis is now labeled with theta one so I
+ 
+
+00:04:32.949 --> 00:04:35.129 align:start position:0%
+axis is now labeled with theta one so I
+have<00:04:33.159><c> J</c><00:04:33.430><c> of</c><00:04:33.550><c> one</c><00:04:33.580><c> is</c><00:04:33.879><c> equals</c><00:04:34.150><c> zero</c><00:04:34.479><c> so</c><00:04:34.629><c> let's</c><00:04:34.930><c> go</c>
+
+00:04:35.129 --> 00:04:35.139 align:start position:0%
+have J of one is equals zero so let's go
+ 
+
+00:04:35.139 --> 00:04:37.619 align:start position:0%
+have J of one is equals zero so let's go
+ahead<00:04:35.259><c> and</c><00:04:35.500><c> plot</c><00:04:35.770><c> that</c><00:04:36.090><c> you</c><00:04:37.090><c> can</c><00:04:37.210><c> end</c><00:04:37.419><c> up</c><00:04:37.569><c> with</c>
+
+00:04:37.619 --> 00:04:37.629 align:start position:0%
+ahead and plot that you can end up with
+ 
+
+00:04:37.629 --> 00:04:42.659 align:start position:0%
+ahead and plot that you can end up with
+an<00:04:38.639><c> x</c><00:04:39.639><c> over</c><00:04:39.789><c> there</c><00:04:40.949><c> now</c><00:04:41.949><c> let's</c><00:04:42.280><c> look</c><00:04:42.400><c> at</c><00:04:42.520><c> some</c>
+
+00:04:42.659 --> 00:04:42.669 align:start position:0%
+an x over there now let's look at some
+ 
+
+00:04:42.669 --> 00:04:45.360 align:start position:0%
+an x over there now let's look at some
+other<00:04:42.819><c> examples</c><00:04:43.349><c> theta</c><00:04:44.349><c> one</c><00:04:44.680><c> can</c><00:04:44.919><c> take</c><00:04:45.099><c> on</c><00:04:45.340><c> a</c>
+
+00:04:45.360 --> 00:04:45.370 align:start position:0%
+other examples theta one can take on a
+ 
+
+00:04:45.370 --> 00:04:47.490 align:start position:0%
+other examples theta one can take on a
+range<00:04:45.699><c> of</c><00:04:45.969><c> different</c><00:04:46.330><c> values</c><00:04:46.360><c> right</c><00:04:46.990><c> so</c><00:04:47.229><c> theta</c>
+
+00:04:47.490 --> 00:04:47.500 align:start position:0%
+range of different values right so theta
+ 
+
+00:04:47.500 --> 00:04:49.260 align:start position:0%
+range of different values right so theta
+one<00:04:47.770><c> can</c><00:04:47.979><c> take</c><00:04:48.159><c> on</c><00:04:48.340><c> your</c><00:04:48.460><c> negative</c><00:04:48.879><c> values</c>
+
+00:04:49.260 --> 00:04:49.270 align:start position:0%
+one can take on your negative values
+ 
+
+00:04:49.270 --> 00:04:52.110 align:start position:0%
+one can take on your negative values
+zero<00:04:49.569><c> positive</c><00:04:49.990><c> values</c><00:04:50.530><c> so</c><00:04:51.310><c> what</c><00:04:51.580><c> if</c><00:04:51.789><c> theta</c>
+
+00:04:52.110 --> 00:04:52.120 align:start position:0%
+zero positive values so what if theta
+ 
+
+00:04:52.120 --> 00:04:56.189 align:start position:0%
+zero positive values so what if theta
+one<00:04:52.479><c> is</c><00:04:52.780><c> equal</c><00:04:53.289><c> to</c><00:04:53.710><c> zero</c><00:04:54.669><c> point</c><00:04:54.699><c> five</c><00:04:55.210><c> what</c>
+
+00:04:56.189 --> 00:04:56.199 align:start position:0%
+one is equal to zero point five what
+ 
+
+00:04:56.199 --> 00:04:58.439 align:start position:0%
+one is equal to zero point five what
+happens<00:04:56.590><c> then</c><00:04:56.770><c> let's</c><00:04:57.669><c> go</c><00:04:57.849><c> ahead</c><00:04:58.000><c> and</c><00:04:58.240><c> plot</c>
+
+00:04:58.439 --> 00:04:58.449 align:start position:0%
+happens then let's go ahead and plot
+ 
+
+00:04:58.449 --> 00:05:00.719 align:start position:0%
+happens then let's go ahead and plot
+that<00:04:58.479><c> I'm</c><00:04:59.080><c> now</c><00:04:59.319><c> going</c><00:04:59.560><c> to</c><00:04:59.710><c> set</c><00:04:59.949><c> theta</c><00:05:00.430><c> one</c>
+
+00:05:00.719 --> 00:05:00.729 align:start position:0%
+that I'm now going to set theta one
+ 
+
+00:05:00.729 --> 00:05:02.610 align:start position:0%
+that I'm now going to set theta one
+equals<00:05:00.759><c> zero</c><00:05:01.150><c> point</c><00:05:01.599><c> five</c><00:05:01.780><c> and</c><00:05:02.080><c> in</c><00:05:02.199><c> that</c><00:05:02.379><c> case</c>
+
+00:05:02.610 --> 00:05:02.620 align:start position:0%
+equals zero point five and in that case
+ 
+
+00:05:02.620 --> 00:05:05.189 align:start position:0%
+equals zero point five and in that case
+my<00:05:02.860><c> hypothesis</c><00:05:03.550><c> now</c><00:05:03.789><c> looks</c><00:05:04.030><c> like</c><00:05:04.120><c> this</c><00:05:04.479><c> as</c><00:05:04.629><c> a</c>
+
+00:05:05.189 --> 00:05:05.199 align:start position:0%
+my hypothesis now looks like this as a
+ 
+
+00:05:05.199 --> 00:05:09.600 align:start position:0%
+my hypothesis now looks like this as a
+line<00:05:05.560><c> with</c><00:05:05.860><c> slope</c><00:05:05.889><c> equals</c><00:05:06.669><c> to</c><00:05:06.849><c> 0.5</c><00:05:07.419><c> and</c><00:05:08.610><c> let's</c>
+
+00:05:09.600 --> 00:05:09.610 align:start position:0%
+line with slope equals to 0.5 and let's
+ 
+
+00:05:09.610 --> 00:05:14.279 align:start position:0%
+line with slope equals to 0.5 and let's
+compute<00:05:09.969><c> J</c><00:05:10.360><c> of</c><00:05:10.770><c> 0.5</c><00:05:12.419><c> so</c><00:05:13.419><c> that</c><00:05:13.690><c> is</c><00:05:13.840><c> going</c><00:05:14.020><c> to</c><00:05:14.110><c> be</c>
+
+00:05:14.279 --> 00:05:14.289 align:start position:0%
+compute J of 0.5 so that is going to be
+ 
+
+00:05:14.289 --> 00:05:18.809 align:start position:0%
+compute J of 0.5 so that is going to be
+1<00:05:14.919><c> over</c><00:05:15.159><c> 2m</c><00:05:15.819><c> of</c><00:05:16.650><c> my</c><00:05:17.650><c> usual</c><00:05:17.830><c> cost</c><00:05:18.219><c> function</c><00:05:18.639><c> it</c>
+
+00:05:18.809 --> 00:05:18.819 align:start position:0%
+1 over 2m of my usual cost function it
+ 
+
+00:05:18.819 --> 00:05:20.189 align:start position:0%
+1 over 2m of my usual cost function it
+turns<00:05:19.029><c> out</c><00:05:19.180><c> that</c><00:05:19.300><c> the</c><00:05:19.419><c> cost</c><00:05:19.599><c> function</c><00:05:19.840><c> is</c>
+
+00:05:20.189 --> 00:05:20.199 align:start position:0%
+turns out that the cost function is
+ 
+
+00:05:20.199 --> 00:05:23.550 align:start position:0%
+turns out that the cost function is
+going<00:05:20.319><c> to</c><00:05:20.620><c> be</c><00:05:20.770><c> the</c><00:05:21.400><c> sum</c><00:05:22.210><c> of</c><00:05:22.240><c> squared</c><00:05:22.810><c> values</c><00:05:23.289><c> of</c>
+
+00:05:23.550 --> 00:05:23.560 align:start position:0%
+going to be the sum of squared values of
+ 
+
+00:05:23.560 --> 00:05:28.320 align:start position:0%
+going to be the sum of squared values of
+the<00:05:24.520><c> height</c><00:05:24.939><c> of</c><00:05:25.349><c> this</c><00:05:26.349><c> line</c><00:05:26.849><c> plus</c><00:05:27.849><c> the</c><00:05:28.060><c> summer</c>
+
+00:05:28.320 --> 00:05:28.330 align:start position:0%
+the height of this line plus the summer
+ 
+
+00:05:28.330 --> 00:05:30.450 align:start position:0%
+the height of this line plus the summer
+squared<00:05:28.750><c> of</c><00:05:28.930><c> the</c><00:05:29.020><c> height</c><00:05:29.229><c> of</c><00:05:29.379><c> that</c><00:05:29.409><c> line</c><00:05:29.590><c> plus</c>
+
+00:05:30.450 --> 00:05:30.460 align:start position:0%
+squared of the height of that line plus
+ 
+
+00:05:30.460 --> 00:05:32.010 align:start position:0%
+squared of the height of that line plus
+the<00:05:30.580><c> summer</c><00:05:30.819><c> square</c><00:05:31.210><c> of</c><00:05:31.509><c> the</c><00:05:31.629><c> height</c><00:05:31.840><c> of</c><00:05:31.990><c> that</c>
+
+00:05:32.010 --> 00:05:32.020 align:start position:0%
+the summer square of the height of that
+ 
+
+00:05:32.020 --> 00:05:33.839 align:start position:0%
+the summer square of the height of that
+line<00:05:32.409><c> right</c><00:05:32.650><c> because</c><00:05:32.889><c> this</c><00:05:33.129><c> is</c><00:05:33.219><c> this</c><00:05:33.370><c> vertical</c>
+
+00:05:33.839 --> 00:05:33.849 align:start position:0%
+line right because this is this vertical
+ 
+
+00:05:33.849 --> 00:05:35.700 align:start position:0%
+line right because this is this vertical
+distance<00:05:34.020><c> that's</c><00:05:35.020><c> the</c><00:05:35.259><c> difference</c><00:05:35.650><c> between</c>
+
+00:05:35.700 --> 00:05:35.710 align:start position:0%
+distance that's the difference between
+ 
+
+00:05:35.710 --> 00:05:42.300 align:start position:0%
+distance that's the difference between
+you<00:05:36.699><c> know</c><00:05:36.729><c> why</c><00:05:37.539><c> I</c><00:05:38.250><c> and</c><00:05:40.050><c> the</c><00:05:41.050><c> predicted</c><00:05:41.560><c> value</c><00:05:42.009><c> H</c>
+
+00:05:42.300 --> 00:05:42.310 align:start position:0%
+you know why I and the predicted value H
+ 
+
+00:05:42.310 --> 00:05:46.709 align:start position:0%
+you know why I and the predicted value H
+of<00:05:42.879><c> X</c><00:05:43.479><c> I</c><00:05:44.080><c> right</c><00:05:44.710><c> so</c><00:05:45.639><c> the</c><00:05:45.789><c> first</c><00:05:46.000><c> example</c><00:05:46.150><c> is</c>
+
+00:05:46.709 --> 00:05:46.719 align:start position:0%
+of X I right so the first example is
+ 
+
+00:05:46.719 --> 00:05:50.579 align:start position:0%
+of X I right so the first example is
+going<00:05:46.839><c> to</c><00:05:46.960><c> open</c><00:05:47.379><c> 5</c><00:05:47.650><c> minus</c><00:05:48.279><c> 1</c><00:05:48.490><c> squared</c><00:05:49.589><c> because</c>
+
+00:05:50.579 --> 00:05:50.589 align:start position:0%
+going to open 5 minus 1 squared because
+ 
+
+00:05:50.589 --> 00:05:53.909 align:start position:0%
+going to open 5 minus 1 squared because
+my<00:05:51.099><c> hypothesis</c><00:05:51.789><c> predicted</c><00:05:52.240><c> 0.5</c><00:05:52.810><c> whereas</c><00:05:53.710><c> the</c>
+
+00:05:53.909 --> 00:05:53.919 align:start position:0%
+my hypothesis predicted 0.5 whereas the
+ 
+
+00:05:53.919 --> 00:05:57.480 align:start position:0%
+my hypothesis predicted 0.5 whereas the
+actual<00:05:54.099><c> value</c><00:05:54.879><c> was</c><00:05:55.690><c> 1</c><00:05:56.110><c> so</c><00:05:56.800><c> my</c><00:05:56.919><c> second</c><00:05:57.190><c> example</c>
+
+00:05:57.480 --> 00:05:57.490 align:start position:0%
+actual value was 1 so my second example
+ 
+
+00:05:57.490 --> 00:06:01.589 align:start position:0%
+actual value was 1 so my second example
+I<00:05:57.940><c> get</c><00:05:58.240><c> 1</c><00:05:59.169><c> minus</c><00:05:59.620><c> 2</c><00:05:59.860><c> squared</c><00:06:00.449><c> because</c><00:06:01.449><c> my</c>
+
+00:06:01.589 --> 00:06:01.599 align:start position:0%
+I get 1 minus 2 squared because my
+ 
+
+00:06:01.599 --> 00:06:03.629 align:start position:0%
+I get 1 minus 2 squared because my
+hypothesis<00:06:02.139><c> predicted</c><00:06:02.680><c> 1</c><00:06:02.919><c> but</c><00:06:03.219><c> the</c><00:06:03.279><c> actual</c>
+
+00:06:03.629 --> 00:06:03.639 align:start position:0%
+hypothesis predicted 1 but the actual
+ 
+
+00:06:03.639 --> 00:06:06.749 align:start position:0%
+hypothesis predicted 1 but the actual
+housing<00:06:03.849><c> price</c><00:06:04.210><c> was</c><00:06:04.419><c> 2</c><00:06:04.719><c> and</c><00:06:05.250><c> then</c><00:06:06.250><c> finally</c>
+
+00:06:06.749 --> 00:06:06.759 align:start position:0%
+housing price was 2 and then finally
+ 
+
+00:06:06.759 --> 00:06:12.990 align:start position:0%
+housing price was 2 and then finally
+plus<00:06:07.889><c> 1.5</c><00:06:08.889><c> minus</c><00:06:09.729><c> 3</c><00:06:10.029><c> squared</c><00:06:10.990><c> and</c><00:06:11.729><c> so</c><00:06:12.729><c> that's</c>
+
+00:06:12.990 --> 00:06:13.000 align:start position:0%
+plus 1.5 minus 3 squared and so that's
+ 
+
+00:06:13.000 --> 00:06:17.550 align:start position:0%
+plus 1.5 minus 3 squared and so that's
+equal<00:06:13.360><c> to</c><00:06:13.569><c> 1</c><00:06:13.870><c> over</c><00:06:14.349><c> 2</c><00:06:14.650><c> times</c><00:06:15.099><c> 3</c><00:06:15.699><c> because</c><00:06:16.560><c> my</c>
+
+00:06:17.550 --> 00:06:17.560 align:start position:0%
+equal to 1 over 2 times 3 because my
+ 
+
+00:06:17.560 --> 00:06:20.249 align:start position:0%
+equal to 1 over 2 times 3 because my
+training<00:06:18.219><c> set</c><00:06:18.550><c> size</c><00:06:18.759><c> I</c><00:06:19.180><c> have</c><00:06:19.539><c> three</c><00:06:19.839><c> training</c>
+
+00:06:20.249 --> 00:06:20.259 align:start position:0%
+training set size I have three training
+ 
+
+00:06:20.259 --> 00:06:23.189 align:start position:0%
+training set size I have three training
+examples<00:06:20.770><c> and</c><00:06:21.479><c> then</c><00:06:22.479><c> that's</c><00:06:22.779><c> times</c>
+
+00:06:23.189 --> 00:06:23.199 align:start position:0%
+examples and then that's times
+ 
+
+00:06:23.199 --> 00:06:25.439 align:start position:0%
+examples and then that's times
+simplifying<00:06:24.190><c> within</c><00:06:24.490><c> the</c><00:06:24.580><c> parentheses</c><00:06:25.089><c> is</c>
+
+00:06:25.439 --> 00:06:25.449 align:start position:0%
+simplifying within the parentheses is
+ 
+
+00:06:25.449 --> 00:06:31.459 align:start position:0%
+simplifying within the parentheses is
+3.5<00:06:26.050><c> so</c><00:06:26.889><c> that's</c><00:06:27.129><c> 3.5</c><00:06:27.879><c> over</c><00:06:28.330><c> 6</c><00:06:28.569><c> which</c><00:06:29.440><c> is</c><00:06:29.500><c> about</c>
+
+00:06:31.459 --> 00:06:31.469 align:start position:0%
+3.5 so that's 3.5 over 6 which is about
+ 
+
+00:06:31.469 --> 00:06:32.640 align:start position:0%
+3.5 so that's 3.5 over 6 which is about
+0.6
+
+00:06:32.640 --> 00:06:32.650 align:start position:0%
+0.6
+ 
+
+00:06:32.650 --> 00:06:36.800 align:start position:0%
+0.6
+to<00:06:32.710><c> eight</c><00:06:32.830><c> so</c><00:06:33.639><c> now</c><00:06:33.850><c> we</c><00:06:33.910><c> know</c><00:06:34.270><c> that</c><00:06:34.660><c> J</c><00:06:34.990><c> of</c><00:06:35.229><c> 0.5</c><00:06:35.500><c> is</c>
+
+00:06:36.800 --> 00:06:36.810 align:start position:0%
+to eight so now we know that J of 0.5 is
+ 
+
+00:06:36.810 --> 00:06:41.240 align:start position:0%
+to eight so now we know that J of 0.5 is
+about<00:06:37.810><c> 0.68</c><00:06:38.790><c> let's</c><00:06:39.790><c> go</c><00:06:40.090><c> and</c><00:06:40.240><c> plot</c><00:06:40.449><c> that</c><00:06:40.750><c> I</c>
+
+00:06:41.240 --> 00:06:41.250 align:start position:0%
+about 0.68 let's go and plot that I
+ 
+
+00:06:41.250 --> 00:06:43.860 align:start position:0%
+about 0.68 let's go and plot that I
+always<00:06:42.250><c> used</c><00:06:42.580><c> to</c><00:06:42.639><c> be</c><00:06:42.729><c> mapper</c><00:06:43.120><c> does</c><00:06:43.660><c> actually</c>
+
+00:06:43.860 --> 00:06:43.870 align:start position:0%
+always used to be mapper does actually
+ 
+
+00:06:43.870 --> 00:06:46.650 align:start position:0%
+always used to be mapper does actually
+open<00:06:44.380><c> five</c><00:06:44.740><c> eight</c><00:06:45.210><c> so</c><00:06:46.210><c> I'm</c><00:06:46.270><c> going</c><00:06:46.419><c> to</c><00:06:46.479><c> plot</c>
+
+00:06:46.650 --> 00:06:46.660 align:start position:0%
+open five eight so I'm going to plot
+ 
+
+00:06:46.660 --> 00:06:50.340 align:start position:0%
+open five eight so I'm going to plot
+that<00:06:46.960><c> which</c><00:06:47.740><c> is</c><00:06:47.889><c> maybe</c><00:06:48.070><c> about</c><00:06:49.229><c> over</c><00:06:50.229><c> there</c>
+
+00:06:50.340 --> 00:06:50.350 align:start position:0%
+that which is maybe about over there
+ 
+
+00:06:50.350 --> 00:06:55.230 align:start position:0%
+that which is maybe about over there
+okay<00:06:52.650><c> now</c><00:06:53.650><c> let's</c><00:06:54.490><c> do</c><00:06:54.639><c> one</c><00:06:54.820><c> more</c>
+
+00:06:55.230 --> 00:06:55.240 align:start position:0%
+okay now let's do one more
+ 
+
+00:06:55.240 --> 00:06:59.850 align:start position:0%
+okay now let's do one more
+how<00:06:55.690><c> about</c><00:06:55.900><c> if</c><00:06:56.289><c> theta</c><00:06:57.280><c> one</c><00:06:57.729><c> is</c><00:06:58.169><c> equal</c><00:06:59.169><c> to</c><00:06:59.380><c> zero</c>
+
+00:06:59.850 --> 00:06:59.860 align:start position:0%
+how about if theta one is equal to zero
+ 
+
+00:06:59.860 --> 00:07:05.700 align:start position:0%
+how about if theta one is equal to zero
+what<00:07:00.100><c> is</c><00:07:00.310><c> J</c><00:07:01.030><c> of</c><00:07:01.300><c> zero</c><00:07:02.430><c> equal</c><00:07:03.430><c> to</c><00:07:04.229><c> it</c><00:07:05.229><c> turns</c><00:07:05.530><c> out</c>
+
+00:07:05.700 --> 00:07:05.710 align:start position:0%
+what is J of zero equal to it turns out
+ 
+
+00:07:05.710 --> 00:07:09.379 align:start position:0%
+what is J of zero equal to it turns out
+that<00:07:05.979><c> if</c><00:07:06.250><c> theta</c><00:07:06.880><c> one</c><00:07:07.150><c> is</c><00:07:07.180><c> equal</c><00:07:07.360><c> to</c><00:07:07.570><c> zero</c><00:07:08.280><c> then</c>
+
+00:07:09.379 --> 00:07:09.389 align:start position:0%
+that if theta one is equal to zero then
+ 
+
+00:07:09.389 --> 00:07:13.200 align:start position:0%
+that if theta one is equal to zero then
+H<00:07:10.389><c> of</c><00:07:10.900><c> X</c><00:07:11.229><c> is</c><00:07:11.500><c> just</c><00:07:11.979><c> equal</c><00:07:12.190><c> to</c><00:07:12.580><c> you</c><00:07:12.910><c> know</c><00:07:12.940><c> this</c>
+
+00:07:13.200 --> 00:07:13.210 align:start position:0%
+H of X is just equal to you know this
+ 
+
+00:07:13.210 --> 00:07:15.719 align:start position:0%
+H of X is just equal to you know this
+flat<00:07:13.600><c> line</c><00:07:14.220><c> right</c><00:07:15.220><c> there</c><00:07:15.400><c> just</c><00:07:15.490><c> goes</c>
+
+00:07:15.719 --> 00:07:15.729 align:start position:0%
+flat line right there just goes
+ 
+
+00:07:15.729 --> 00:07:18.930 align:start position:0%
+flat line right there just goes
+horizontally<00:07:16.360><c> like</c><00:07:16.449><c> this</c><00:07:16.510><c> and</c><00:07:16.979><c> so</c><00:07:17.979><c> measuring</c>
+
+00:07:18.930 --> 00:07:18.940 align:start position:0%
+horizontally like this and so measuring
+ 
+
+00:07:18.940 --> 00:07:25.020 align:start position:0%
+horizontally like this and so measuring
+the<00:07:19.210><c> errors</c><00:07:22.560><c> we</c><00:07:23.560><c> have</c><00:07:23.800><c> that</c><00:07:24.070><c> J</c><00:07:24.280><c> of</c><00:07:24.430><c> zero</c><00:07:24.820><c> is</c>
+
+00:07:25.020 --> 00:07:25.030 align:start position:0%
+the errors we have that J of zero is
+ 
+
+00:07:25.030 --> 00:07:27.960 align:start position:0%
+the errors we have that J of zero is
+equal<00:07:25.270><c> to</c><00:07:25.330><c> one</c><00:07:25.690><c> over</c><00:07:25.810><c> 2m</c><00:07:26.440><c> times</c><00:07:26.710><c> 1</c><00:07:27.580><c> squared</c>
+
+00:07:27.960 --> 00:07:27.970 align:start position:0%
+equal to one over 2m times 1 squared
+ 
+
+00:07:27.970 --> 00:07:31.790 align:start position:0%
+equal to one over 2m times 1 squared
+plus<00:07:28.330><c> 2</c><00:07:28.599><c> squared</c><00:07:29.370><c> plus</c><00:07:30.370><c> three</c><00:07:30.910><c> squared</c><00:07:31.330><c> which</c>
+
+00:07:31.790 --> 00:07:31.800 align:start position:0%
+plus 2 squared plus three squared which
+ 
+
+00:07:31.800 --> 00:07:37.830 align:start position:0%
+plus 2 squared plus three squared which
+is<00:07:34.080><c> 1/6</c><00:07:35.080><c> times</c><00:07:35.590><c> 14</c><00:07:36.190><c> which</c><00:07:36.520><c> is</c><00:07:37.150><c> about</c><00:07:37.360><c> two</c><00:07:37.599><c> point</c>
+
+00:07:37.830 --> 00:07:37.840 align:start position:0%
+is 1/6 times 14 which is about two point
+ 
+
+00:07:37.840 --> 00:07:40.710 align:start position:0%
+is 1/6 times 14 which is about two point
+three<00:07:38.020><c> so</c><00:07:38.919><c> let's</c><00:07:39.280><c> go</c><00:07:39.580><c> ahead</c><00:07:39.699><c> and</c><00:07:39.820><c> plot</c><00:07:40.150><c> that</c><00:07:40.210><c> as</c>
+
+00:07:40.710 --> 00:07:40.720 align:start position:0%
+three so let's go ahead and plot that as
+ 
+
+00:07:40.720 --> 00:07:44.490 align:start position:0%
+three so let's go ahead and plot that as
+well<00:07:40.960><c> you</c><00:07:41.740><c> end</c><00:07:41.889><c> up</c><00:07:42.039><c> with</c><00:07:42.190><c> a</c><00:07:42.220><c> value</c><00:07:42.430><c> around</c><00:07:43.500><c> 2.3</c>
+
+00:07:44.490 --> 00:07:44.500 align:start position:0%
+well you end up with a value around 2.3
+ 
+
+00:07:44.500 --> 00:07:47.250 align:start position:0%
+well you end up with a value around 2.3
+and<00:07:44.680><c> of</c><00:07:45.639><c> course</c><00:07:45.910><c> we</c><00:07:46.090><c> can</c><00:07:46.270><c> keep</c><00:07:46.479><c> on</c><00:07:46.810><c> doing</c><00:07:46.840><c> this</c>
+
+00:07:47.250 --> 00:07:47.260 align:start position:0%
+and of course we can keep on doing this
+ 
+
+00:07:47.260 --> 00:07:49.439 align:start position:0%
+and of course we can keep on doing this
+for<00:07:47.560><c> other</c><00:07:47.770><c> values</c><00:07:48.280><c> of</c><00:07:48.490><c> theta</c><00:07:48.729><c> one</c><00:07:48.970><c> it</c><00:07:49.240><c> turns</c>
+
+00:07:49.439 --> 00:07:49.449 align:start position:0%
+for other values of theta one it turns
+ 
+
+00:07:49.449 --> 00:07:51.689 align:start position:0%
+for other values of theta one it turns
+out<00:07:49.630><c> that</c><00:07:49.840><c> so</c><00:07:50.080><c> you</c><00:07:50.289><c> can</c><00:07:50.440><c> have</c><00:07:50.650><c> your</c><00:07:51.130><c> negative</c>
+
+00:07:51.689 --> 00:07:51.699 align:start position:0%
+out that so you can have your negative
+ 
+
+00:07:51.699 --> 00:07:54.480 align:start position:0%
+out that so you can have your negative
+values<00:07:52.090><c> of</c><00:07:52.240><c> theta</c><00:07:52.449><c> one</c><00:07:52.690><c> as</c><00:07:52.810><c> well</c><00:07:53.050><c> so</c><00:07:53.530><c> if</c><00:07:53.860><c> theta</c>
+
+00:07:54.480 --> 00:07:54.490 align:start position:0%
+values of theta one as well so if theta
+ 
+
+00:07:54.490 --> 00:07:58.230 align:start position:0%
+values of theta one as well so if theta
+one<00:07:54.729><c> is</c><00:07:54.970><c> negative</c><00:07:55.510><c> then</c><00:07:56.310><c> H</c><00:07:57.310><c> of</c><00:07:57.370><c> X</c><00:07:57.760><c> would</c><00:07:58.180><c> be</c>
+
+00:07:58.230 --> 00:07:58.240 align:start position:0%
+one is negative then H of X would be
+ 
+
+00:07:58.240 --> 00:08:02.100 align:start position:0%
+one is negative then H of X would be
+equal<00:07:58.330><c> to</c><00:07:58.780><c> say</c><00:07:59.080><c> minus</c><00:07:59.340><c> 0.5</c><00:08:00.340><c> times</c><00:08:01.210><c> X</c><00:08:01.510><c> right</c><00:08:01.870><c> if</c>
+
+00:08:02.100 --> 00:08:02.110 align:start position:0%
+equal to say minus 0.5 times X right if
+ 
+
+00:08:02.110 --> 00:08:04.890 align:start position:0%
+equal to say minus 0.5 times X right if
+theta<00:08:02.500><c> one</c><00:08:02.740><c> is</c><00:08:02.800><c> minus</c><00:08:03.250><c> 0.5</c><00:08:03.400><c> and</c><00:08:04.060><c> so</c><00:08:04.690><c> that</c>
+
+00:08:04.890 --> 00:08:04.900 align:start position:0%
+theta one is minus 0.5 and so that
+ 
+
+00:08:04.900 --> 00:08:07.080 align:start position:0%
+theta one is minus 0.5 and so that
+corresponds<00:08:05.380><c> to</c><00:08:05.530><c> a</c><00:08:05.620><c> hypothesis</c><00:08:06.370><c> you</c><00:08:06.970><c> know</c>
+
+00:08:07.080 --> 00:08:07.090 align:start position:0%
+corresponds to a hypothesis you know
+ 
+
+00:08:07.090 --> 00:08:10.980 align:start position:0%
+corresponds to a hypothesis you know
+with<00:08:07.270><c> a</c><00:08:07.300><c> slope</c><00:08:07.659><c> of</c><00:08:07.900><c> negative</c><00:08:08.770><c> 0.5</c><00:08:09.699><c> and</c><00:08:10.060><c> you</c><00:08:10.780><c> can</c>
+
+00:08:10.980 --> 00:08:10.990 align:start position:0%
+with a slope of negative 0.5 and you can
+ 
+
+00:08:10.990 --> 00:08:12.659 align:start position:0%
+with a slope of negative 0.5 and you can
+actually<00:08:11.169><c> keep</c><00:08:11.530><c> on</c><00:08:11.710><c> computing</c><00:08:12.010><c> these</c><00:08:12.340><c> errors</c>
+
+00:08:12.659 --> 00:08:12.669 align:start position:0%
+actually keep on computing these errors
+ 
+
+00:08:12.669 --> 00:08:15.810 align:start position:0%
+actually keep on computing these errors
+this<00:08:13.300><c> turns</c><00:08:13.539><c> out</c><00:08:13.720><c> to</c><00:08:13.780><c> be</c><00:08:13.960><c> for</c><00:08:14.889><c> 0.5</c><00:08:15.430><c> it</c><00:08:15.669><c> turns</c>
+
+00:08:15.810 --> 00:08:15.820 align:start position:0%
+this turns out to be for 0.5 it turns
+ 
+
+00:08:15.820 --> 00:08:18.420 align:start position:0%
+this turns out to be for 0.5 it turns
+out<00:08:16.000><c> to</c><00:08:16.180><c> really</c><00:08:16.720><c> high</c><00:08:16.900><c> ever</c><00:08:17.169><c> it</c><00:08:17.919><c> works</c><00:08:18.159><c> out</c><00:08:18.400><c> to</c>
+
+00:08:18.420 --> 00:08:18.430 align:start position:0%
+out to really high ever it works out to
+ 
+
+00:08:18.430 --> 00:08:20.370 align:start position:0%
+out to really high ever it works out to
+be<00:08:18.639><c> something</c><00:08:18.760><c> like</c><00:08:19.150><c> five</c><00:08:19.810><c> point</c><00:08:20.050><c> two</c><00:08:20.110><c> five</c>
+
+00:08:20.370 --> 00:08:20.380 align:start position:0%
+be something like five point two five
+ 
+
+00:08:20.380 --> 00:08:23.909 align:start position:0%
+be something like five point two five
+and<00:08:20.820><c> so</c><00:08:21.820><c> on</c><00:08:22.000><c> and</c><00:08:22.270><c> the</c><00:08:23.139><c> different</c><00:08:23.169><c> values</c><00:08:23.800><c> of</c>
+
+00:08:23.909 --> 00:08:23.919 align:start position:0%
+and so on and the different values of
+ 
+
+00:08:23.919 --> 00:08:27.170 align:start position:0%
+and so on and the different values of
+theta<00:08:24.099><c> one</c><00:08:24.370><c> you</c><00:08:25.120><c> can</c><00:08:25.500><c> compute</c><00:08:26.500><c> these</c><00:08:26.680><c> things</c>
+
+00:08:27.170 --> 00:08:27.180 align:start position:0%
+theta one you can compute these things
+ 
+
+00:08:27.180 --> 00:08:31.230 align:start position:0%
+theta one you can compute these things
+right<00:08:28.210><c> turns</c><00:08:29.050><c> out</c><00:08:29.229><c> the</c><00:08:29.789><c> computer</c><00:08:30.789><c> range</c><00:08:31.120><c> of</c>
+
+00:08:31.230 --> 00:08:31.240 align:start position:0%
+right turns out the computer range of
+ 
+
+00:08:31.240 --> 00:08:34.230 align:start position:0%
+right turns out the computer range of
+values<00:08:31.659><c> you</c><00:08:31.900><c> get</c><00:08:32.880><c> something</c><00:08:33.880><c> like</c><00:08:34.029><c> that</c>
+
+00:08:34.230 --> 00:08:34.240 align:start position:0%
+values you get something like that
+ 
+
+00:08:34.240 --> 00:08:37.170 align:start position:0%
+values you get something like that
+and<00:08:34.680><c> by</c><00:08:35.680><c> computing</c><00:08:36.250><c> the</c><00:08:36.430><c> range</c><00:08:36.640><c> of</c><00:08:36.820><c> values</c><00:08:36.909><c> you</c>
+
+00:08:37.170 --> 00:08:37.180 align:start position:0%
+and by computing the range of values you
+ 
+
+00:08:37.180 --> 00:08:42.150 align:start position:0%
+and by computing the range of values you
+can<00:08:37.450><c> actually</c><00:08:37.510><c> slowly</c><00:08:38.520><c> trace</c><00:08:39.520><c> out</c>
+
+00:08:42.150 --> 00:08:42.160 align:start position:0%
+ 
+ 
+
+00:08:42.160 --> 00:08:45.940 align:start position:0%
+ 
+what<00:08:43.160><c> this</c><00:08:43.310><c> function</c><00:08:43.520><c> J</c><00:08:44.420><c> of</c><00:08:44.450><c> theta</c><00:08:44.710><c> looks</c><00:08:45.710><c> like</c>
+
+00:08:45.940 --> 00:08:45.950 align:start position:0%
+what this function J of theta looks like
+ 
+
+00:08:45.950 --> 00:08:50.770 align:start position:0%
+what this function J of theta looks like
+and<00:08:46.190><c> that's</c><00:08:47.090><c> what</c><00:08:47.330><c> J</c><00:08:48.320><c> of</c><00:08:48.440><c> theta</c><00:08:48.470><c> is</c><00:08:49.300><c> to</c><00:08:50.300><c> recap</c>
+
+00:08:50.770 --> 00:08:50.780 align:start position:0%
+and that's what J of theta is to recap
+ 
+
+00:08:50.780 --> 00:08:53.920 align:start position:0%
+and that's what J of theta is to recap
+for<00:08:51.260><c> each</c><00:08:51.530><c> value</c><00:08:51.860><c> of</c><00:08:52.130><c> theta</c><00:08:52.370><c> one</c><00:08:52.790><c> right</c><00:08:53.630><c> each</c>
+
+00:08:53.920 --> 00:08:53.930 align:start position:0%
+for each value of theta one right each
+ 
+
+00:08:53.930 --> 00:08:57.010 align:start position:0%
+for each value of theta one right each
+value<00:08:54.230><c> of</c><00:08:54.500><c> theta</c><00:08:54.590><c> one</c><00:08:55.270><c> corresponds</c><00:08:56.270><c> to</c><00:08:56.630><c> a</c>
+
+00:08:57.010 --> 00:08:57.020 align:start position:0%
+value of theta one corresponds to a
+ 
+
+00:08:57.020 --> 00:08:59.770 align:start position:0%
+value of theta one corresponds to a
+different<00:08:57.790><c> hypothesis</c><00:08:58.790><c> or</c><00:08:59.060><c> to</c><00:08:59.360><c> a</c><00:08:59.390><c> different</c>
+
+00:08:59.770 --> 00:08:59.780 align:start position:0%
+different hypothesis or to a different
+ 
+
+00:08:59.780 --> 00:09:03.460 align:start position:0%
+different hypothesis or to a different
+straight<00:09:00.110><c> line</c><00:09:00.680><c> fit</c><00:09:01.010><c> on</c><00:09:01.310><c> the</c><00:09:02.180><c> left</c><00:09:02.360><c> and</c><00:09:02.660><c> for</c>
+
+00:09:03.460 --> 00:09:03.470 align:start position:0%
+straight line fit on the left and for
+ 
+
+00:09:03.470 --> 00:09:05.470 align:start position:0%
+straight line fit on the left and for
+each<00:09:03.620><c> value</c><00:09:03.650><c> of</c><00:09:04.040><c> theta</c><00:09:04.130><c> one</c><00:09:04.400><c> we</c><00:09:05.060><c> could</c><00:09:05.300><c> then</c>
+
+00:09:05.470 --> 00:09:05.480 align:start position:0%
+each value of theta one we could then
+ 
+
+00:09:05.480 --> 00:09:08.650 align:start position:0%
+each value of theta one we could then
+derive<00:09:05.900><c> a</c><00:09:06.260><c> different</c><00:09:06.680><c> value</c><00:09:07.100><c> of</c><00:09:07.280><c> J</c><00:09:08.030><c> of</c><00:09:08.300><c> theta</c>
+
+00:09:08.650 --> 00:09:08.660 align:start position:0%
+derive a different value of J of theta
+ 
+
+00:09:08.660 --> 00:09:14.830 align:start position:0%
+derive a different value of J of theta
+one<00:09:09.410><c> and</c><00:09:11.260><c> for</c><00:09:12.260><c> example</c><00:09:12.770><c> you</c><00:09:13.760><c> know</c><00:09:13.880><c> theta</c><00:09:14.480><c> one</c>
+
+00:09:14.830 --> 00:09:14.840 align:start position:0%
+one and for example you know theta one
+ 
+
+00:09:14.840 --> 00:09:17.980 align:start position:0%
+one and for example you know theta one
+equals<00:09:15.080><c> one</c><00:09:16.510><c> corresponding</c><00:09:17.510><c> to</c><00:09:17.540><c> this</c>
+
+00:09:17.980 --> 00:09:17.990 align:start position:0%
+equals one corresponding to this
+ 
+
+00:09:17.990 --> 00:09:19.740 align:start position:0%
+equals one corresponding to this
+straight<00:09:18.440><c> line</c><00:09:18.620><c> fit</c><00:09:18.800><c> through</c><00:09:19.040><c> the</c><00:09:19.160><c> data</c>
+
+00:09:19.740 --> 00:09:19.750 align:start position:0%
+straight line fit through the data
+ 
+
+00:09:19.750 --> 00:09:25.030 align:start position:0%
+straight line fit through the data
+whereas<00:09:21.640><c> theta</c><00:09:22.640><c> one</c><00:09:23.030><c> equals</c><00:09:23.270><c> 0.5</c><00:09:24.050><c> this</c><00:09:24.710><c> point</c>
+
+00:09:25.030 --> 00:09:25.040 align:start position:0%
+whereas theta one equals 0.5 this point
+ 
+
+00:09:25.040 --> 00:09:28.300 align:start position:0%
+whereas theta one equals 0.5 this point
+shown<00:09:25.700><c> in</c><00:09:25.820><c> magenta</c><00:09:26.440><c> responded</c><00:09:27.440><c> to</c><00:09:27.650><c> maybe</c><00:09:28.040><c> that</c>
+
+00:09:28.300 --> 00:09:28.310 align:start position:0%
+shown in magenta responded to maybe that
+ 
+
+00:09:28.310 --> 00:09:34.030 align:start position:0%
+shown in magenta responded to maybe that
+line<00:09:28.580><c> and</c><00:09:28.930><c> theta</c><00:09:29.930><c> one</c><00:09:30.260><c> equals</c><00:09:30.560><c> zero</c><00:09:33.040><c> which</c>
+
+00:09:34.030 --> 00:09:34.040 align:start position:0%
+line and theta one equals zero which
+ 
+
+00:09:34.040 --> 00:09:36.790 align:start position:0%
+line and theta one equals zero which
+will<00:09:34.280><c> show</c><00:09:35.090><c> in</c><00:09:35.210><c> blue</c><00:09:35.450><c> that</c><00:09:36.050><c> corresponds</c><00:09:36.740><c> to</c>
+
+00:09:36.790 --> 00:09:36.800 align:start position:0%
+will show in blue that corresponds to
+ 
+
+00:09:36.800 --> 00:09:40.570 align:start position:0%
+will show in blue that corresponds to
+this<00:09:37.730><c> horizontal</c><00:09:38.360><c> line</c><00:09:38.510><c> right</c><00:09:39.250><c> so</c><00:09:40.250><c> if</c><00:09:40.340><c> we</c><00:09:40.430><c> each</c>
+
+00:09:40.570 --> 00:09:40.580 align:start position:0%
+this horizontal line right so if we each
+ 
+
+00:09:40.580 --> 00:09:42.280 align:start position:0%
+this horizontal line right so if we each
+value<00:09:40.790><c> of</c><00:09:40.910><c> theta</c><00:09:40.970><c> one</c><00:09:41.300><c> we</c><00:09:41.540><c> wound</c><00:09:41.930><c> up</c><00:09:42.080><c> with</c><00:09:42.260><c> a</c>
+
+00:09:42.280 --> 00:09:42.290 align:start position:0%
+value of theta one we wound up with a
+ 
+
+00:09:42.290 --> 00:09:45.700 align:start position:0%
+value of theta one we wound up with a
+different<00:09:42.710><c> value</c><00:09:42.860><c> of</c><00:09:43.280><c> J</c><00:09:43.490><c> of</c><00:09:43.640><c> theta</c><00:09:43.670><c> one</c><00:09:44.090><c> and</c><00:09:44.710><c> we</c>
+
+00:09:45.700 --> 00:09:45.710 align:start position:0%
+different value of J of theta one and we
+ 
+
+00:09:45.710 --> 00:09:47.320 align:start position:0%
+different value of J of theta one and we
+could<00:09:45.890><c> then</c><00:09:45.950><c> use</c><00:09:46.100><c> this</c><00:09:46.460><c> to</c><00:09:46.520><c> trace</c><00:09:46.940><c> out</c><00:09:47.150><c> the</c>
+
+00:09:47.320 --> 00:09:47.330 align:start position:0%
+could then use this to trace out the
+ 
+
+00:09:47.330 --> 00:09:51.580 align:start position:0%
+could then use this to trace out the
+spot<00:09:47.630><c> on</c><00:09:47.900><c> the</c><00:09:48.050><c> right</c><00:09:48.430><c> now</c><00:09:49.430><c> you</c><00:09:49.850><c> remember</c><00:09:50.590><c> the</c>
+
+00:09:51.580 --> 00:09:51.590 align:start position:0%
+spot on the right now you remember the
+ 
+
+00:09:51.590 --> 00:09:54.160 align:start position:0%
+spot on the right now you remember the
+optimization<00:09:52.310><c> objective</c><00:09:52.460><c> for</c><00:09:53.420><c> our</c><00:09:53.690><c> learning</c>
+
+00:09:54.160 --> 00:09:54.170 align:start position:0%
+optimization objective for our learning
+ 
+
+00:09:54.170 --> 00:09:56.680 align:start position:0%
+optimization objective for our learning
+algorithm<00:09:54.680><c> is</c><00:09:54.920><c> we</c><00:09:55.790><c> want</c><00:09:56.060><c> to</c><00:09:56.210><c> choose</c><00:09:56.450><c> the</c><00:09:56.660><c> value</c>
+
+00:09:56.680 --> 00:09:56.690 align:start position:0%
+algorithm is we want to choose the value
+ 
+
+00:09:56.690 --> 00:10:01.900 align:start position:0%
+algorithm is we want to choose the value
+of<00:09:57.350><c> theta</c><00:09:57.530><c> one</c><00:09:59.290><c> that</c><00:10:00.290><c> minimizes</c><00:10:00.350><c> J</c><00:10:01.310><c> of</c><00:10:01.880><c> theta</c>
+
+00:10:01.900 --> 00:10:01.910 align:start position:0%
+of theta one that minimizes J of theta
+ 
+
+00:10:01.910 --> 00:10:04.390 align:start position:0%
+of theta one that minimizes J of theta
+one<00:10:02.210><c> right</c><00:10:02.690><c> this</c><00:10:03.140><c> was</c><00:10:04.040><c> our</c><00:10:04.250><c> objective</c>
+
+00:10:04.390 --> 00:10:04.400 align:start position:0%
+one right this was our objective
+ 
+
+00:10:04.400 --> 00:10:07.420 align:start position:0%
+one right this was our objective
+function<00:10:05.150><c> for</c><00:10:05.450><c> linear</c><00:10:05.630><c> regression</c><00:10:06.430><c> well</c>
+
+00:10:07.420 --> 00:10:07.430 align:start position:0%
+function for linear regression well
+ 
+
+00:10:07.430 --> 00:10:10.000 align:start position:0%
+function for linear regression well
+looking<00:10:07.970><c> at</c><00:10:08.030><c> this</c><00:10:08.150><c> curve</c><00:10:08.660><c> the</c><00:10:09.440><c> value</c><00:10:09.860><c> that</c>
+
+00:10:10.000 --> 00:10:10.010 align:start position:0%
+looking at this curve the value that
+ 
+
+00:10:10.010 --> 00:10:13.060 align:start position:0%
+looking at this curve the value that
+minimizes<00:10:10.160><c> J</c><00:10:10.670><c> of</c><00:10:11.030><c> theta</c><00:10:11.060><c> one</c><00:10:11.510><c> is</c><00:10:11.950><c> you</c><00:10:12.950><c> know</c>
+
+00:10:13.060 --> 00:10:13.070 align:start position:0%
+minimizes J of theta one is you know
+ 
+
+00:10:13.070 --> 00:10:16.270 align:start position:0%
+minimizes J of theta one is you know
+theta<00:10:13.490><c> one</c><00:10:13.790><c> equals</c><00:10:14.030><c> to</c><00:10:14.780><c> one</c><00:10:14.960><c> and</c><00:10:15.260><c> lo</c><00:10:16.130><c> and</c>
+
+00:10:16.270 --> 00:10:16.280 align:start position:0%
+theta one equals to one and lo and
+ 
+
+00:10:16.280 --> 00:10:19.630 align:start position:0%
+theta one equals to one and lo and
+behold<00:10:16.400><c> that</c><00:10:16.970><c> is</c><00:10:17.570><c> indeed</c><00:10:18.230><c> the</c><00:10:18.830><c> best</c><00:10:19.100><c> possible</c>
+
+00:10:19.630 --> 00:10:19.640 align:start position:0%
+behold that is indeed the best possible
+ 
+
+00:10:19.640 --> 00:10:21.430 align:start position:0%
+behold that is indeed the best possible
+straight<00:10:20.030><c> line</c><00:10:20.240><c> fit</c><00:10:20.510><c> through</c><00:10:20.750><c> our</c><00:10:20.840><c> data</c><00:10:21.050><c> by</c>
+
+00:10:21.430 --> 00:10:21.440 align:start position:0%
+straight line fit through our data by
+ 
+
+00:10:21.440 --> 00:10:23.350 align:start position:0%
+straight line fit through our data by
+setting<00:10:21.800><c> theta</c><00:10:21.980><c> one</c><00:10:22.310><c> equals</c><00:10:22.340><c> one</c><00:10:22.670><c> and</c><00:10:23.150><c> just</c>
+
+00:10:23.350 --> 00:10:23.360 align:start position:0%
+setting theta one equals one and just
+ 
+
+00:10:23.360 --> 00:10:25.330 align:start position:0%
+setting theta one equals one and just
+for<00:10:23.900><c> this</c><00:10:24.020><c> particular</c><00:10:24.140><c> training</c><00:10:24.260><c> set</c><00:10:24.680><c> we</c>
+
+00:10:25.330 --> 00:10:25.340 align:start position:0%
+for this particular training set we
+ 
+
+00:10:25.340 --> 00:10:27.460 align:start position:0%
+for this particular training set we
+actually<00:10:25.700><c> end</c><00:10:25.880><c> up</c><00:10:26.060><c> fitting</c><00:10:26.270><c> it</c><00:10:26.570><c> perfectly</c><00:10:26.720><c> and</c>
+
+00:10:27.460 --> 00:10:27.470 align:start position:0%
+actually end up fitting it perfectly and
+ 
+
+00:10:27.470 --> 00:10:30.070 align:start position:0%
+actually end up fitting it perfectly and
+that's<00:10:28.220><c> why</c><00:10:28.490><c> minimizing</c><00:10:29.330><c> J</c><00:10:29.360><c> of</c><00:10:29.750><c> theta</c><00:10:29.780><c> one</c>
+
+00:10:30.070 --> 00:10:30.080 align:start position:0%
+that's why minimizing J of theta one
+ 
+
+00:10:30.080 --> 00:10:33.130 align:start position:0%
+that's why minimizing J of theta one
+corresponds<00:10:31.010><c> to</c><00:10:31.360><c> finding</c><00:10:32.360><c> a</c><00:10:32.540><c> straight</c><00:10:32.900><c> line</c>
+
+00:10:33.130 --> 00:10:33.140 align:start position:0%
+corresponds to finding a straight line
+ 
+
+00:10:33.140 --> 00:10:38.200 align:start position:0%
+corresponds to finding a straight line
+that<00:10:33.830><c> fits</c><00:10:34.160><c> the</c><00:10:34.340><c> data</c><00:10:34.490><c> well</c><00:10:35.830><c> so</c><00:10:36.830><c> to</c><00:10:37.550><c> wrap</c><00:10:37.730><c> up</c><00:10:37.790><c> in</c>
+
+00:10:38.200 --> 00:10:38.210 align:start position:0%
+that fits the data well so to wrap up in
+ 
+
+00:10:38.210 --> 00:10:41.080 align:start position:0%
+that fits the data well so to wrap up in
+this<00:10:38.990><c> video</c><00:10:39.320><c> we</c><00:10:39.620><c> looked</c><00:10:39.890><c> at</c><00:10:40.010><c> some</c><00:10:40.250><c> plots</c><00:10:40.550><c> to</c>
+
+00:10:41.080 --> 00:10:41.090 align:start position:0%
+this video we looked at some plots to
+ 
+
+00:10:41.090 --> 00:10:43.840 align:start position:0%
+this video we looked at some plots to
+understand<00:10:41.630><c> the</c><00:10:41.780><c> cost</c><00:10:42.020><c> function</c><00:10:42.340><c> to</c><00:10:43.340><c> do</c><00:10:43.490><c> so</c><00:10:43.670><c> we</c>
+
+00:10:43.840 --> 00:10:43.850 align:start position:0%
+understand the cost function to do so we
+ 
+
+00:10:43.850 --> 00:10:45.730 align:start position:0%
+understand the cost function to do so we
+simplify<00:10:44.360><c> the</c><00:10:44.420><c> algorithm</c><00:10:45.020><c> so</c><00:10:45.260><c> that</c><00:10:45.470><c> it</c><00:10:45.590><c> had</c>
+
+00:10:45.730 --> 00:10:45.740 align:start position:0%
+simplify the algorithm so that it had
+ 
+
+00:10:45.740 --> 00:10:48.070 align:start position:0%
+simplify the algorithm so that it had
+only<00:10:46.040><c> one</c><00:10:46.250><c> parameter</c><00:10:46.460><c> theta</c><00:10:46.970><c> one</c><00:10:47.150><c> and</c><00:10:47.630><c> we</c><00:10:47.780><c> set</c>
+
+00:10:48.070 --> 00:10:48.080 align:start position:0%
+only one parameter theta one and we set
+ 
+
+00:10:48.080 --> 00:10:51.370 align:start position:0%
+only one parameter theta one and we set
+the<00:10:48.350><c> parameters</c><00:10:48.800><c> theta</c><00:10:48.980><c> zero</c><00:10:49.520><c> to</c><00:10:49.700><c> zero</c><00:10:50.330><c> in</c><00:10:51.050><c> the</c>
+
+00:10:51.370 --> 00:10:51.380 align:start position:0%
+the parameters theta zero to zero in the
+ 
+
+00:10:51.380 --> 00:10:53.410 align:start position:0%
+the parameters theta zero to zero in the
+next<00:10:51.650><c> video</c><00:10:51.920><c> we'll</c><00:10:52.160><c> go</c><00:10:52.310><c> back</c><00:10:52.520><c> to</c><00:10:52.760><c> the</c><00:10:52.880><c> original</c>
+
+00:10:53.410 --> 00:10:53.420 align:start position:0%
+next video we'll go back to the original
+ 
+
+00:10:53.420 --> 00:10:54.250 align:start position:0%
+next video we'll go back to the original
+problem<00:10:53.570><c> for</c><00:10:54.020><c> me</c>
+
+00:10:54.250 --> 00:10:54.260 align:start position:0%
+problem for me
+ 
+
+00:10:54.260 --> 00:10:56.160 align:start position:0%
+problem for me
+and<00:10:54.770><c> look</c><00:10:55.370><c> at</c><00:10:55.520><c> some</c><00:10:55.700><c> visualizations</c>
+
+00:10:56.160 --> 00:10:56.170 align:start position:0%
+and look at some visualizations
+ 
+
+00:10:56.170 --> 00:10:59.350 align:start position:0%
+and look at some visualizations
+involving<00:10:57.170><c> both</c><00:10:57.380><c> theta</c><00:10:57.710><c> 0</c><00:10:58.100><c> and</c><00:10:58.130><c> theta</c><00:10:58.370><c> 1</c><00:10:58.850><c> that</c>
+
+00:10:59.350 --> 00:10:59.360 align:start position:0%
+involving both theta 0 and theta 1 that
+ 
+
+00:10:59.360 --> 00:11:01.570 align:start position:0%
+involving both theta 0 and theta 1 that
+is<00:10:59.510><c> without</c><00:10:59.660><c> setting</c><00:11:00.170><c> theta</c><00:11:00.320><c> 0</c><00:11:00.770><c> 0</c><00:11:01.340><c> and</c>
+
+00:11:01.570 --> 00:11:01.580 align:start position:0%
+is without setting theta 0 0 and
+ 
+
+00:11:01.580 --> 00:11:03.550 align:start position:0%
+is without setting theta 0 0 and
+hopefully<00:11:02.390><c> that</c><00:11:02.570><c> would</c><00:11:02.690><c> give</c><00:11:02.840><c> you</c><00:11:02.990><c> an</c><00:11:03.200><c> even</c>
+
+00:11:03.550 --> 00:11:03.560 align:start position:0%
+hopefully that would give you an even
+ 
+
+00:11:03.560 --> 00:11:05.140 align:start position:0%
+hopefully that would give you an even
+better<00:11:03.740><c> sense</c><00:11:04.040><c> of</c><00:11:04.190><c> what</c><00:11:04.370><c> the</c><00:11:04.400><c> cost</c><00:11:04.610><c> function</c><00:11:04.880><c> J</c>
+
+00:11:05.140 --> 00:11:05.150 align:start position:0%
+better sense of what the cost function J
+ 
+
+00:11:05.150 --> 00:11:07.420 align:start position:0%
+better sense of what the cost function J
+is<00:11:05.450><c> doing</c><00:11:05.840><c> in</c><00:11:06.050><c> the</c><00:11:06.530><c> original</c><00:11:07.100><c> linear</c>
+
+00:11:07.420 --> 00:11:07.430 align:start position:0%
+is doing in the original linear
+ 
+
+00:11:07.430 --> 00:11:10.270 align:start position:0%
+is doing in the original linear
+regression<00:11:07.820><c> formulation</c>
+

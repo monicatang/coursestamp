@@ -1,0 +1,1488 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:01.939 align:start position:0%
+ 
+in<00:00:00.149><c> this</c><00:00:00.390><c> in</c><00:00:00.630><c> the</c><00:00:00.719><c> next</c><00:00:00.870><c> few</c><00:00:00.989><c> videos</c><00:00:01.230><c> I</c><00:00:01.469><c> wanted</c>
+
+00:00:01.939 --> 00:00:01.949 align:start position:0%
+in this in the next few videos I wanted
+ 
+
+00:00:01.949 --> 00:00:03.230 align:start position:0%
+in this in the next few videos I wanted
+to<00:00:02.010><c> tell</c><00:00:02.190><c> you</c><00:00:02.280><c> about</c><00:00:02.370><c> a</c><00:00:02.700><c> machine</c><00:00:03.090><c> learning</c>
+
+00:00:03.230 --> 00:00:03.240 align:start position:0%
+to tell you about a machine learning
+ 
+
+00:00:03.240 --> 00:00:05.120 align:start position:0%
+to tell you about a machine learning
+application<00:00:04.049><c> example</c><00:00:04.650><c> or</c><00:00:04.770><c> a</c><00:00:04.890><c> machine</c>
+
+00:00:05.120 --> 00:00:05.130 align:start position:0%
+application example or a machine
+ 
+
+00:00:05.130 --> 00:00:07.970 align:start position:0%
+application example or a machine
+learning<00:00:05.480><c> application</c><00:00:06.480><c> case</c><00:00:06.750><c> study</c><00:00:07.080><c> centered</c>
+
+00:00:07.970 --> 00:00:07.980 align:start position:0%
+learning application case study centered
+ 
+
+00:00:07.980 --> 00:00:10.299 align:start position:0%
+learning application case study centered
+around<00:00:08.099><c> an</c><00:00:08.519><c> application</c><00:00:09.210><c> called</c><00:00:09.510><c> photo</c><00:00:09.870><c> OCR</c>
+
+00:00:10.299 --> 00:00:10.309 align:start position:0%
+around an application called photo OCR
+ 
+
+00:00:10.309 --> 00:00:12.799 align:start position:0%
+around an application called photo OCR
+there<00:00:11.309><c> are</c><00:00:11.429><c> three</c><00:00:11.730><c> reasons</c><00:00:12.120><c> why</c><00:00:12.330><c> I</c><00:00:12.360><c> want</c><00:00:12.570><c> to</c><00:00:12.660><c> do</c>
+
+00:00:12.799 --> 00:00:12.809 align:start position:0%
+there are three reasons why I want to do
+ 
+
+00:00:12.809 --> 00:00:14.480 align:start position:0%
+there are three reasons why I want to do
+this<00:00:12.990><c> first</c><00:00:13.410><c> I</c><00:00:13.590><c> wanted</c><00:00:13.889><c> to</c><00:00:13.980><c> show</c><00:00:14.190><c> you</c><00:00:14.219><c> an</c>
+
+00:00:14.480 --> 00:00:14.490 align:start position:0%
+this first I wanted to show you an
+ 
+
+00:00:14.490 --> 00:00:16.400 align:start position:0%
+this first I wanted to show you an
+example<00:00:14.610><c> of</c><00:00:15.330><c> how</c><00:00:15.360><c> a</c><00:00:15.540><c> complex</c><00:00:16.109><c> machine</c>
+
+00:00:16.400 --> 00:00:16.410 align:start position:0%
+example of how a complex machine
+ 
+
+00:00:16.410 --> 00:00:18.519 align:start position:0%
+example of how a complex machine
+learning<00:00:16.920><c> system</c><00:00:17.340><c> to</c><00:00:17.760><c> be</c><00:00:17.850><c> pulled</c><00:00:18.060><c> together</c>
+
+00:00:18.519 --> 00:00:18.529 align:start position:0%
+learning system to be pulled together
+ 
+
+00:00:18.529 --> 00:00:21.170 align:start position:0%
+learning system to be pulled together
+second<00:00:19.529><c> let's</c><00:00:19.770><c> talk</c><00:00:20.010><c> about</c><00:00:20.220><c> the</c><00:00:20.400><c> concept</c><00:00:20.880><c> of</c><00:00:21.060><c> a</c>
+
+00:00:21.170 --> 00:00:21.180 align:start position:0%
+second let's talk about the concept of a
+ 
+
+00:00:21.180 --> 00:00:23.359 align:start position:0%
+second let's talk about the concept of a
+machine<00:00:21.510><c> learning</c><00:00:21.660><c> pipeline</c><00:00:22.410><c> and</c><00:00:22.769><c> how</c><00:00:23.310><c> to</c>
+
+00:00:23.359 --> 00:00:23.369 align:start position:0%
+machine learning pipeline and how to
+ 
+
+00:00:23.369 --> 00:00:25.189 align:start position:0%
+machine learning pipeline and how to
+allocate<00:00:23.640><c> resources</c><00:00:24.180><c> when</c><00:00:24.900><c> you</c><00:00:24.930><c> try</c><00:00:25.170><c> to</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+allocate resources when you try to
+ 
+
+00:00:25.199 --> 00:00:27.230 align:start position:0%
+allocate resources when you try to
+decide<00:00:25.650><c> what</c><00:00:25.890><c> to</c><00:00:26.010><c> do</c><00:00:26.189><c> next</c><00:00:26.369><c> and</c><00:00:26.640><c> this</c><00:00:26.939><c> can</c><00:00:27.119><c> be</c>
+
+00:00:27.230 --> 00:00:27.240 align:start position:0%
+decide what to do next and this can be
+ 
+
+00:00:27.240 --> 00:00:29.540 align:start position:0%
+decide what to do next and this can be
+either<00:00:27.510><c> in</c><00:00:27.689><c> the</c><00:00:27.840><c> context</c><00:00:28.260><c> of</c><00:00:28.470><c> you</c><00:00:28.920><c> working</c><00:00:29.369><c> by</c>
+
+00:00:29.540 --> 00:00:29.550 align:start position:0%
+either in the context of you working by
+ 
+
+00:00:29.550 --> 00:00:31.669 align:start position:0%
+either in the context of you working by
+yourself<00:00:29.910><c> on</c><00:00:30.179><c> the</c><00:00:30.269><c> big</c><00:00:30.449><c> application</c><00:00:30.599><c> or</c><00:00:31.470><c> it</c>
+
+00:00:31.669 --> 00:00:31.679 align:start position:0%
+yourself on the big application or it
+ 
+
+00:00:31.679 --> 00:00:33.229 align:start position:0%
+yourself on the big application or it
+can<00:00:31.800><c> be</c><00:00:31.890><c> in</c><00:00:31.949><c> the</c><00:00:32.040><c> context</c><00:00:32.460><c> of</c><00:00:32.730><c> a</c><00:00:32.820><c> team</c><00:00:33.059><c> of</c>
+
+00:00:33.229 --> 00:00:33.239 align:start position:0%
+can be in the context of a team of
+ 
+
+00:00:33.239 --> 00:00:35.209 align:start position:0%
+can be in the context of a team of
+developers<00:00:33.390><c> trying</c><00:00:34.079><c> to</c><00:00:34.200><c> build</c><00:00:34.380><c> a</c><00:00:34.590><c> complex</c>
+
+00:00:35.209 --> 00:00:35.219 align:start position:0%
+developers trying to build a complex
+ 
+
+00:00:35.219 --> 00:00:37.819 align:start position:0%
+developers trying to build a complex
+application<00:00:35.820><c> together</c><00:00:35.969><c> and</c><00:00:36.649><c> third</c><00:00:37.649><c> and</c>
+
+00:00:37.819 --> 00:00:37.829 align:start position:0%
+application together and third and
+ 
+
+00:00:37.829 --> 00:00:40.850 align:start position:0%
+application together and third and
+finally<00:00:37.950><c> the</c><00:00:38.640><c> photo</c><00:00:38.910><c> OCR</c><00:00:39.149><c> problem</c><00:00:40.020><c> also</c><00:00:40.469><c> gives</c>
+
+00:00:40.850 --> 00:00:40.860 align:start position:0%
+finally the photo OCR problem also gives
+ 
+
+00:00:40.860 --> 00:00:42.410 align:start position:0%
+finally the photo OCR problem also gives
+me<00:00:41.010><c> an</c><00:00:41.070><c> excuse</c><00:00:41.460><c> to</c><00:00:41.610><c> tell</c><00:00:41.760><c> you</c><00:00:41.910><c> about</c><00:00:42.000><c> just</c><00:00:42.270><c> a</c>
+
+00:00:42.410 --> 00:00:42.420 align:start position:0%
+me an excuse to tell you about just a
+ 
+
+00:00:42.420 --> 00:00:44.060 align:start position:0%
+me an excuse to tell you about just a
+couple<00:00:42.450><c> more</c><00:00:42.809><c> interesting</c><00:00:43.320><c> ideas</c><00:00:43.800><c> for</c>
+
+00:00:44.060 --> 00:00:44.070 align:start position:0%
+couple more interesting ideas for
+ 
+
+00:00:44.070 --> 00:00:46.459 align:start position:0%
+couple more interesting ideas for
+machine<00:00:44.370><c> learning</c><00:00:44.399><c> one</c><00:00:45.300><c> is</c><00:00:45.510><c> some</c><00:00:45.989><c> apps</c><00:00:46.140><c> some</c>
+
+00:00:46.459 --> 00:00:46.469 align:start position:0%
+machine learning one is some apps some
+ 
+
+00:00:46.469 --> 00:00:48.229 align:start position:0%
+machine learning one is some apps some
+ideas<00:00:47.309><c> on</c><00:00:47.430><c> how</c><00:00:47.550><c> to</c><00:00:47.610><c> apply</c><00:00:47.879><c> machine</c><00:00:48.120><c> learning</c>
+
+00:00:48.229 --> 00:00:48.239 align:start position:0%
+ideas on how to apply machine learning
+ 
+
+00:00:48.239 --> 00:00:50.450 align:start position:0%
+ideas on how to apply machine learning
+to<00:00:48.629><c> computer</c><00:00:48.960><c> vision</c><00:00:48.989><c> problems</c><00:00:49.620><c> and</c><00:00:50.039><c> second</c>
+
+00:00:50.450 --> 00:00:50.460 align:start position:0%
+to computer vision problems and second
+ 
+
+00:00:50.460 --> 00:00:52.729 align:start position:0%
+to computer vision problems and second
+is<00:00:50.640><c> the</c><00:00:50.760><c> idea</c><00:00:50.789><c> of</c><00:00:51.149><c> artificial</c><00:00:51.930><c> data</c><00:00:52.140><c> synthesis</c>
+
+00:00:52.729 --> 00:00:52.739 align:start position:0%
+is the idea of artificial data synthesis
+ 
+
+00:00:52.739 --> 00:00:54.979 align:start position:0%
+is the idea of artificial data synthesis
+which<00:00:53.010><c> we'll</c><00:00:53.219><c> see</c><00:00:53.370><c> in</c><00:00:53.399><c> a</c><00:00:53.520><c> couple</c><00:00:53.640><c> videos</c><00:00:53.989><c> so</c>
+
+00:00:54.979 --> 00:00:54.989 align:start position:0%
+which we'll see in a couple videos so
+ 
+
+00:00:54.989 --> 00:00:56.869 align:start position:0%
+which we'll see in a couple videos so
+let's<00:00:55.320><c> start</c><00:00:55.559><c> by</c><00:00:55.710><c> talking</c><00:00:55.949><c> about</c><00:00:56.160><c> what</c><00:00:56.520><c> is</c><00:00:56.699><c> the</c>
+
+00:00:56.869 --> 00:00:56.879 align:start position:0%
+let's start by talking about what is the
+ 
+
+00:00:56.879 --> 00:00:59.380 align:start position:0%
+let's start by talking about what is the
+photo<00:00:57.090><c> OCR</c><00:00:57.390><c> problem</c>
+
+00:00:59.380 --> 00:00:59.390 align:start position:0%
+photo OCR problem
+ 
+
+00:00:59.390 --> 00:01:03.110 align:start position:0%
+photo OCR problem
+photo<00:01:00.390><c> OCR</c><00:01:00.780><c> stands</c><00:01:01.620><c> for</c><00:01:01.770><c> photo</c><00:01:02.280><c> optical</c>
+
+00:01:03.110 --> 00:01:03.120 align:start position:0%
+photo OCR stands for photo optical
+ 
+
+00:01:03.120 --> 00:01:05.810 align:start position:0%
+photo OCR stands for photo optical
+character<00:01:03.780><c> recognition</c><00:01:04.369><c> with</c><00:01:05.369><c> a</c><00:01:05.400><c> group</c><00:01:05.790><c> of</c>
+
+00:01:05.810 --> 00:01:05.820 align:start position:0%
+character recognition with a group of
+ 
+
+00:01:05.820 --> 00:01:08.000 align:start position:0%
+character recognition with a group of
+digital<00:01:06.479><c> photography</c><00:01:06.630><c> and</c><00:01:07.409><c> more</c><00:01:07.560><c> recently</c>
+
+00:01:08.000 --> 00:01:08.010 align:start position:0%
+digital photography and more recently
+ 
+
+00:01:08.010 --> 00:01:10.609 align:start position:0%
+digital photography and more recently
+the<00:01:08.280><c> growth</c><00:01:08.520><c> of</c><00:01:08.549><c> cameras</c><00:01:09.479><c> in</c><00:01:09.750><c> our</c><00:01:10.020><c> cell</c><00:01:10.350><c> phones</c>
+
+00:01:10.609 --> 00:01:10.619 align:start position:0%
+the growth of cameras in our cell phones
+ 
+
+00:01:10.619 --> 00:01:12.859 align:start position:0%
+the growth of cameras in our cell phones
+we<00:01:11.250><c> now</c><00:01:11.430><c> have</c><00:01:11.670><c> tons</c><00:01:11.970><c> of</c><00:01:12.150><c> digital</c><00:01:12.540><c> pictures</c>
+
+00:01:12.859 --> 00:01:12.869 align:start position:0%
+we now have tons of digital pictures
+ 
+
+00:01:12.869 --> 00:01:15.080 align:start position:0%
+we now have tons of digital pictures
+that<00:01:13.080><c> we</c><00:01:13.170><c> take</c><00:01:13.290><c> all</c><00:01:13.439><c> over</c><00:01:13.470><c> the</c><00:01:13.770><c> place</c><00:01:14.010><c> and</c><00:01:14.280><c> one</c>
+
+00:01:15.080 --> 00:01:15.090 align:start position:0%
+that we take all over the place and one
+ 
+
+00:01:15.090 --> 00:01:17.120 align:start position:0%
+that we take all over the place and one
+of<00:01:15.240><c> the</c><00:01:15.330><c> things</c><00:01:15.509><c> that</c><00:01:15.900><c> has</c><00:01:16.320><c> interested</c><00:01:16.799><c> many</c>
+
+00:01:17.120 --> 00:01:17.130 align:start position:0%
+of the things that has interested many
+ 
+
+00:01:17.130 --> 00:01:19.280 align:start position:0%
+of the things that has interested many
+developers<00:01:17.670><c> is</c><00:01:17.970><c> how</c><00:01:18.210><c> to</c><00:01:18.270><c> get</c><00:01:18.600><c> our</c><00:01:18.720><c> computers</c>
+
+00:01:19.280 --> 00:01:19.290 align:start position:0%
+developers is how to get our computers
+ 
+
+00:01:19.290 --> 00:01:21.499 align:start position:0%
+developers is how to get our computers
+to<00:01:19.860><c> understand</c><00:01:20.549><c> the</c><00:01:20.729><c> content</c><00:01:21.240><c> of</c><00:01:21.360><c> these</c>
+
+00:01:21.499 --> 00:01:21.509 align:start position:0%
+to understand the content of these
+ 
+
+00:01:21.509 --> 00:01:23.480 align:start position:0%
+to understand the content of these
+pictures<00:01:21.930><c> a</c><00:01:21.960><c> little</c><00:01:22.200><c> bit</c><00:01:22.350><c> better</c><00:01:22.470><c> the</c><00:01:23.250><c> photo</c>
+
+00:01:23.480 --> 00:01:23.490 align:start position:0%
+pictures a little bit better the photo
+ 
+
+00:01:23.490 --> 00:01:26.060 align:start position:0%
+pictures a little bit better the photo
+OCR<00:01:23.790><c> problem</c><00:01:24.390><c> focuses</c><00:01:25.229><c> on</c><00:01:25.439><c> how</c><00:01:25.680><c> to</c><00:01:25.740><c> get</c>
+
+00:01:26.060 --> 00:01:26.070 align:start position:0%
+OCR problem focuses on how to get
+ 
+
+00:01:26.070 --> 00:01:27.950 align:start position:0%
+OCR problem focuses on how to get
+computers<00:01:26.610><c> to</c><00:01:26.670><c> meet</c><00:01:27.180><c> the</c><00:01:27.360><c> text</c><00:01:27.780><c> that</c><00:01:27.900><c> appears</c>
+
+00:01:27.950 --> 00:01:27.960 align:start position:0%
+computers to meet the text that appears
+ 
+
+00:01:27.960 --> 00:01:31.249 align:start position:0%
+computers to meet the text that appears
+in<00:01:28.590><c> images</c><00:01:29.100><c> that</c><00:01:29.130><c> we</c><00:01:29.430><c> take</c><00:01:29.990><c> given</c><00:01:30.990><c> an</c><00:01:31.110><c> image</c>
+
+00:01:31.249 --> 00:01:31.259 align:start position:0%
+in images that we take given an image
+ 
+
+00:01:31.259 --> 00:01:32.870 align:start position:0%
+in images that we take given an image
+like<00:01:31.530><c> this</c><00:01:31.590><c> it</c><00:01:32.100><c> might</c><00:01:32.220><c> be</c><00:01:32.280><c> nice</c><00:01:32.549><c> if</c><00:01:32.790><c> the</c>
+
+00:01:32.870 --> 00:01:32.880 align:start position:0%
+like this it might be nice if the
+ 
+
+00:01:32.880 --> 00:01:34.940 align:start position:0%
+like this it might be nice if the
+computer<00:01:33.420><c> can</c><00:01:33.720><c> read</c><00:01:33.869><c> the</c><00:01:34.079><c> text</c><00:01:34.439><c> in</c><00:01:34.500><c> this</c><00:01:34.619><c> image</c>
+
+00:01:34.940 --> 00:01:34.950 align:start position:0%
+computer can read the text in this image
+ 
+
+00:01:34.950 --> 00:01:36.890 align:start position:0%
+computer can read the text in this image
+so<00:01:35.220><c> that</c><00:01:35.430><c> if</c><00:01:35.579><c> you're</c><00:01:35.700><c> trying</c><00:01:35.970><c> to</c><00:01:36.119><c> look</c><00:01:36.840><c> for</c>
+
+00:01:36.890 --> 00:01:36.900 align:start position:0%
+so that if you're trying to look for
+ 
+
+00:01:36.900 --> 00:01:38.990 align:start position:0%
+so that if you're trying to look for
+this<00:01:37.200><c> picture</c><00:01:37.409><c> again</c><00:01:37.650><c> you</c><00:01:37.979><c> could</c><00:01:38.189><c> type</c><00:01:38.460><c> in</c><00:01:38.670><c> the</c>
+
+00:01:38.990 --> 00:01:39.000 align:start position:0%
+this picture again you could type in the
+ 
+
+00:01:39.000 --> 00:01:41.270 align:start position:0%
+this picture again you could type in the
+words<00:01:39.210><c> you're</c><00:01:39.570><c> Lulu</c><00:01:39.810><c> bees</c><00:01:40.049><c> and</c><00:01:40.350><c> Teemo</c><00:01:40.829><c> and</c>
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+words you're Lulu bees and Teemo and
+ 
+
+00:01:41.280 --> 00:01:43.580 align:start position:0%
+words you're Lulu bees and Teemo and
+have<00:01:41.549><c> it</c><00:01:41.670><c> automatically</c><00:01:42.450><c> pull</c><00:01:43.140><c> up</c><00:01:43.259><c> this</c>
+
+00:01:43.580 --> 00:01:43.590 align:start position:0%
+have it automatically pull up this
+ 
+
+00:01:43.590 --> 00:01:45.859 align:start position:0%
+have it automatically pull up this
+picture<00:01:43.979><c> so</c><00:01:44.220><c> that</c><00:01:44.369><c> you're</c><00:01:44.520><c> not</c><00:01:44.700><c> spending</c><00:01:45.570><c> lots</c>
+
+00:01:45.859 --> 00:01:45.869 align:start position:0%
+picture so that you're not spending lots
+ 
+
+00:01:45.869 --> 00:01:47.389 align:start position:0%
+picture so that you're not spending lots
+of<00:01:46.020><c> time</c><00:01:46.079><c> digging</c><00:01:46.680><c> through</c><00:01:46.950><c> your</c><00:01:47.159><c> photo</c>
+
+00:01:47.389 --> 00:01:47.399 align:start position:0%
+of time digging through your photo
+ 
+
+00:01:47.399 --> 00:01:49.370 align:start position:0%
+of time digging through your photo
+collection<00:01:47.850><c> of</c><00:01:48.450><c> maybe</c><00:01:48.810><c> hundreds</c><00:01:49.259><c> or</c>
+
+00:01:49.370 --> 00:01:49.380 align:start position:0%
+collection of maybe hundreds or
+ 
+
+00:01:49.380 --> 00:01:50.600 align:start position:0%
+collection of maybe hundreds or
+thousands<00:01:49.770><c> of</c><00:01:49.860><c> pictures</c><00:01:50.040><c> and</c><00:01:50.399><c> all</c><00:01:50.490><c> the</c>
+
+00:01:50.600 --> 00:01:50.610 align:start position:0%
+thousands of pictures and all the
+ 
+
+00:01:50.610 --> 00:01:53.060 align:start position:0%
+thousands of pictures and all the
+finder's<00:01:51.229><c> so</c><00:01:52.229><c> the</c><00:01:52.439><c> photo</c><00:01:52.649><c> will</c><00:01:52.829><c> see</c><00:01:52.950><c> our</c>
+
+00:01:53.060 --> 00:01:53.070 align:start position:0%
+finder's so the photo will see our
+ 
+
+00:01:53.070 --> 00:01:55.520 align:start position:0%
+finder's so the photo will see our
+problem<00:01:53.310><c> does</c><00:01:53.670><c> exactly</c><00:01:53.970><c> this</c><00:01:54.360><c> and</c><00:01:54.720><c> it</c><00:01:54.930><c> does</c><00:01:55.320><c> so</c>
+
+00:01:55.520 --> 00:01:55.530 align:start position:0%
+problem does exactly this and it does so
+ 
+
+00:01:55.530 --> 00:01:57.560 align:start position:0%
+problem does exactly this and it does so
+in<00:01:55.560><c> several</c><00:01:56.130><c> steps</c><00:01:56.340><c> for</c><00:01:57.119><c> us</c><00:01:57.210><c> given</c><00:01:57.540><c> the</c>
+
+00:01:57.560 --> 00:01:57.570 align:start position:0%
+in several steps for us given the
+ 
+
+00:01:57.570 --> 00:01:59.300 align:start position:0%
+in several steps for us given the
+picture<00:01:57.899><c> it</c><00:01:58.170><c> has</c><00:01:58.350><c> to</c><00:01:58.530><c> look</c><00:01:58.680><c> through</c><00:01:58.920><c> the</c><00:01:59.040><c> image</c>
+
+00:01:59.300 --> 00:01:59.310 align:start position:0%
+picture it has to look through the image
+ 
+
+00:01:59.310 --> 00:02:01.730 align:start position:0%
+picture it has to look through the image
+and<00:01:59.549><c> detect</c><00:02:00.030><c> where</c><00:02:00.689><c> is</c><00:02:00.899><c> their</c><00:02:01.170><c> text</c><00:02:01.590><c> in</c><00:02:01.680><c> the</c>
+
+00:02:01.730 --> 00:02:01.740 align:start position:0%
+and detect where is their text in the
+ 
+
+00:02:01.740 --> 00:02:04.670 align:start position:0%
+and detect where is their text in the
+picture<00:02:02.070><c> and</c><00:02:02.659><c> after</c><00:02:03.659><c> it</c><00:02:03.780><c> has</c><00:02:03.930><c> done</c><00:02:04.140><c> that</c><00:02:04.350><c> or</c><00:02:04.560><c> if</c>
+
+00:02:04.670 --> 00:02:04.680 align:start position:0%
+picture and after it has done that or if
+ 
+
+00:02:04.680 --> 00:02:06.889 align:start position:0%
+picture and after it has done that or if
+it<00:02:04.829><c> successfully</c><00:02:05.340><c> does</c><00:02:05.549><c> that</c><00:02:05.759><c> it</c><00:02:06.210><c> then</c><00:02:06.390><c> has</c><00:02:06.630><c> to</c>
+
+00:02:06.889 --> 00:02:06.899 align:start position:0%
+it successfully does that it then has to
+ 
+
+00:02:06.899 --> 00:02:07.810 align:start position:0%
+it successfully does that it then has to
+look<00:02:07.110><c> at</c><00:02:07.350><c> these</c>
+
+00:02:07.810 --> 00:02:07.820 align:start position:0%
+look at these
+ 
+
+00:02:07.820 --> 00:02:10.330 align:start position:0%
+look at these
+texts<00:02:08.090><c> medians</c><00:02:08.570><c> and</c><00:02:08.720><c> actually</c><00:02:09.530><c> meet</c><00:02:09.770><c> the</c><00:02:09.950><c> text</c>
+
+00:02:10.330 --> 00:02:10.340 align:start position:0%
+texts medians and actually meet the text
+ 
+
+00:02:10.340 --> 00:02:12.250 align:start position:0%
+texts medians and actually meet the text
+in<00:02:10.580><c> those</c><00:02:10.850><c> regions</c><00:02:11.120><c> and</c><00:02:11.600><c> hopefully</c><00:02:12.050><c> it</c>
+
+00:02:12.250 --> 00:02:12.260 align:start position:0%
+in those regions and hopefully it
+ 
+
+00:02:12.260 --> 00:02:14.080 align:start position:0%
+in those regions and hopefully it
+release<00:02:12.530><c> it</c><00:02:12.560><c> correctly</c><00:02:13.040><c> or</c><00:02:13.580><c> come</c><00:02:13.910><c> up</c><00:02:13.940><c> with</c>
+
+00:02:14.080 --> 00:02:14.090 align:start position:0%
+release it correctly or come up with
+ 
+
+00:02:14.090 --> 00:02:17.110 align:start position:0%
+release it correctly or come up with
+these<00:02:15.040><c> transcriptions</c><00:02:16.040><c> of</c><00:02:16.280><c> when</c><00:02:16.970><c> this</c>
+
+00:02:17.110 --> 00:02:17.120 align:start position:0%
+these transcriptions of when this
+ 
+
+00:02:17.120 --> 00:02:18.850 align:start position:0%
+these transcriptions of when this
+detects<00:02:17.510><c> that</c><00:02:17.660><c> appears</c><00:02:18.260><c> in</c><00:02:18.500><c> the</c><00:02:18.650><c> image</c>
+
+00:02:18.850 --> 00:02:18.860 align:start position:0%
+detects that appears in the image
+ 
+
+00:02:18.860 --> 00:02:21.910 align:start position:0%
+detects that appears in the image
+whereas<00:02:19.820><c> OCR</c><00:02:20.510><c> or</c><00:02:20.540><c> optical</c><00:02:20.920><c> character</c>
+
+00:02:21.910 --> 00:02:21.920 align:start position:0%
+whereas OCR or optical character
+ 
+
+00:02:21.920 --> 00:02:24.580 align:start position:0%
+whereas OCR or optical character
+recognition<00:02:21.950><c> of</c><00:02:22.730><c> scanned</c><00:02:23.350><c> documents</c><00:02:24.350><c> there's</c>
+
+00:02:24.580 --> 00:02:24.590 align:start position:0%
+recognition of scanned documents there's
+ 
+
+00:02:24.590 --> 00:02:27.760 align:start position:0%
+recognition of scanned documents there's
+a<00:02:24.650><c> relatively</c><00:02:25.580><c> easier</c><00:02:26.120><c> problem</c><00:02:26.630><c> doing</c><00:02:27.260><c> OCR</c>
+
+00:02:27.760 --> 00:02:27.770 align:start position:0%
+a relatively easier problem doing OCR
+ 
+
+00:02:27.770 --> 00:02:29.199 align:start position:0%
+a relatively easier problem doing OCR
+from<00:02:28.010><c> photographs</c><00:02:28.520><c> today</c><00:02:28.850><c> is</c><00:02:29.000><c> still</c>
+
+00:02:29.199 --> 00:02:29.209 align:start position:0%
+from photographs today is still
+ 
+
+00:02:29.209 --> 00:02:30.730 align:start position:0%
+from photographs today is still
+considered<00:02:29.660><c> a</c><00:02:29.750><c> very</c><00:02:29.959><c> difficult</c><00:02:30.230><c> machine</c>
+
+00:02:30.730 --> 00:02:30.740 align:start position:0%
+considered a very difficult machine
+ 
+
+00:02:30.740 --> 00:02:32.890 align:start position:0%
+considered a very difficult machine
+learning<00:02:31.040><c> problem</c><00:02:31.430><c> and</c><00:02:31.700><c> if</c><00:02:32.420><c> you</c><00:02:32.480><c> can</c><00:02:32.600><c> do</c><00:02:32.720><c> this</c>
+
+00:02:32.890 --> 00:02:32.900 align:start position:0%
+learning problem and if you can do this
+ 
+
+00:02:32.900 --> 00:02:35.860 align:start position:0%
+learning problem and if you can do this
+not<00:02:33.200><c> only</c><00:02:33.230><c> can</c><00:02:33.800><c> this</c><00:02:33.980><c> help</c><00:02:34.459><c> our</c><00:02:34.850><c> computers</c><00:02:35.450><c> to</c>
+
+00:02:35.860 --> 00:02:35.870 align:start position:0%
+not only can this help our computers to
+ 
+
+00:02:35.870 --> 00:02:38.500 align:start position:0%
+not only can this help our computers to
+understand<00:02:36.410><c> the</c><00:02:36.500><c> content</c><00:02:36.980><c> about</c><00:02:37.700><c> outdoor</c>
+
+00:02:38.500 --> 00:02:38.510 align:start position:0%
+understand the content about outdoor
+ 
+
+00:02:38.510 --> 00:02:40.210 align:start position:0%
+understand the content about outdoor
+images<00:02:38.930><c> whether</c><00:02:39.110><c> there</c><00:02:40.010><c> are</c><00:02:40.040><c> also</c>
+
+00:02:40.210 --> 00:02:40.220 align:start position:0%
+images whether there are also
+ 
+
+00:02:40.220 --> 00:02:42.850 align:start position:0%
+images whether there are also
+applications<00:02:40.910><c> like</c><00:02:41.480><c> helping</c><00:02:42.200><c> blind</c><00:02:42.440><c> people</c>
+
+00:02:42.850 --> 00:02:42.860 align:start position:0%
+applications like helping blind people
+ 
+
+00:02:42.860 --> 00:02:44.710 align:start position:0%
+applications like helping blind people
+or<00:02:42.980><c> for</c><00:02:43.130><c> example</c><00:02:43.550><c> if</c><00:02:43.820><c> you</c><00:02:44.030><c> could</c><00:02:44.209><c> provide</c><00:02:44.510><c> to</c><00:02:44.570><c> a</c>
+
+00:02:44.710 --> 00:02:44.720 align:start position:0%
+or for example if you could provide to a
+ 
+
+00:02:44.720 --> 00:02:47.560 align:start position:0%
+or for example if you could provide to a
+blind<00:02:44.930><c> person</c><00:02:45.080><c> a</c><00:02:45.560><c> camera</c><00:02:46.370><c> they</c><00:02:46.640><c> can</c><00:02:46.670><c> look</c><00:02:47.360><c> at</c>
+
+00:02:47.560 --> 00:02:47.570 align:start position:0%
+blind person a camera they can look at
+ 
+
+00:02:47.570 --> 00:02:49.360 align:start position:0%
+blind person a camera they can look at
+what's<00:02:48.140><c> in</c><00:02:48.260><c> front</c><00:02:48.290><c> of</c><00:02:48.530><c> them</c><00:02:48.590><c> and</c><00:02:48.920><c> just</c><00:02:49.130><c> tell</c>
+
+00:02:49.360 --> 00:02:49.370 align:start position:0%
+what's in front of them and just tell
+ 
+
+00:02:49.370 --> 00:02:50.830 align:start position:0%
+what's in front of them and just tell
+them<00:02:49.400><c> whether</c><00:02:49.760><c> the</c><00:02:49.940><c> words</c><00:02:50.180><c> that</c><00:02:50.480><c> may</c><00:02:50.570><c> be</c><00:02:50.630><c> on</c>
+
+00:02:50.830 --> 00:02:50.840 align:start position:0%
+them whether the words that may be on
+ 
+
+00:02:50.840 --> 00:02:53.020 align:start position:0%
+them whether the words that may be on
+the<00:02:50.870><c> street</c><00:02:51.200><c> sign</c><00:02:51.440><c> in</c><00:02:51.470><c> front</c><00:02:51.770><c> of</c><00:02:51.920><c> them</c><00:02:52.070><c> and</c>
+
+00:02:53.020 --> 00:02:53.030 align:start position:0%
+the street sign in front of them and
+ 
+
+00:02:53.030 --> 00:02:54.729 align:start position:0%
+the street sign in front of them and
+there<00:02:53.270><c> are</c><00:02:53.330><c> also</c><00:02:53.450><c> researchers</c><00:02:54.170><c> today</c><00:02:54.320><c> working</c>
+
+00:02:54.729 --> 00:02:54.739 align:start position:0%
+there are also researchers today working
+ 
+
+00:02:54.739 --> 00:02:57.250 align:start position:0%
+there are also researchers today working
+on<00:02:55.100><c> photo</c><00:02:55.459><c> OCR</c><00:02:55.730><c> to</c><00:02:56.270><c> help</c><00:02:56.510><c> with</c><00:02:56.720><c> car</c><00:02:57.050><c> navigation</c>
+
+00:02:57.250 --> 00:02:57.260 align:start position:0%
+on photo OCR to help with car navigation
+ 
+
+00:02:57.260 --> 00:03:00.250 align:start position:0%
+on photo OCR to help with car navigation
+systems<00:02:58.220><c> for</c><00:02:58.400><c> example</c><00:02:58.489><c> if</c><00:02:59.030><c> magic</c><00:02:59.630><c> if</c><00:02:59.810><c> your</c><00:02:59.930><c> car</c>
+
+00:03:00.250 --> 00:03:00.260 align:start position:0%
+systems for example if magic if your car
+ 
+
+00:03:00.260 --> 00:03:02.440 align:start position:0%
+systems for example if magic if your car
+could<00:03:00.530><c> meet</c><00:03:00.739><c> the</c><00:03:00.980><c> street</c><00:03:01.250><c> signs</c><00:03:01.519><c> and</c><00:03:01.790><c> help</c><00:03:02.330><c> you</c>
+
+00:03:02.440 --> 00:03:02.450 align:start position:0%
+could meet the street signs and help you
+ 
+
+00:03:02.450 --> 00:03:05.350 align:start position:0%
+could meet the street signs and help you
+navigate<00:03:02.660><c> to</c><00:03:03.110><c> your</c><00:03:03.170><c> destination</c><00:03:03.410><c> in</c><00:03:04.150><c> order</c><00:03:05.150><c> to</c>
+
+00:03:05.350 --> 00:03:05.360 align:start position:0%
+navigate to your destination in order to
+ 
+
+00:03:05.360 --> 00:03:07.420 align:start position:0%
+navigate to your destination in order to
+perform<00:03:05.510><c> photo</c><00:03:05.989><c> OCR</c><00:03:06.230><c> here's</c><00:03:06.920><c> what</c><00:03:07.130><c> we</c><00:03:07.190><c> can</c><00:03:07.310><c> do</c>
+
+00:03:07.420 --> 00:03:07.430 align:start position:0%
+perform photo OCR here's what we can do
+ 
+
+00:03:07.430 --> 00:03:09.759 align:start position:0%
+perform photo OCR here's what we can do
+first<00:03:08.209><c> when</c><00:03:08.420><c> go</c><00:03:08.600><c> through</c><00:03:08.840><c> the</c><00:03:08.959><c> image</c><00:03:09.230><c> and</c><00:03:09.470><c> find</c>
+
+00:03:09.759 --> 00:03:09.769 align:start position:0%
+first when go through the image and find
+ 
+
+00:03:09.769 --> 00:03:11.440 align:start position:0%
+first when go through the image and find
+the<00:03:09.920><c> regions</c><00:03:10.400><c> where</c><00:03:10.670><c> there's</c><00:03:10.880><c> text</c><00:03:11.239><c> in</c><00:03:11.360><c> the</c>
+
+00:03:11.440 --> 00:03:11.450 align:start position:0%
+the regions where there's text in the
+ 
+
+00:03:11.450 --> 00:03:15.400 align:start position:0%
+the regions where there's text in the
+image<00:03:11.660><c> so</c><00:03:12.019><c> so</c><00:03:13.010><c> here</c><00:03:13.340><c> is</c><00:03:13.549><c> one</c><00:03:13.790><c> example</c><00:03:13.910><c> of</c><00:03:14.570><c> text</c>
+
+00:03:15.400 --> 00:03:15.410 align:start position:0%
+image so so here is one example of text
+ 
+
+00:03:15.410 --> 00:03:17.199 align:start position:0%
+image so so here is one example of text
+in<00:03:15.560><c> the</c><00:03:15.650><c> image</c><00:03:15.890><c> that</c><00:03:16.070><c> the</c><00:03:16.190><c> photo</c><00:03:16.459><c> OCR</c><00:03:16.580><c> system</c>
+
+00:03:17.199 --> 00:03:17.209 align:start position:0%
+in the image that the photo OCR system
+ 
+
+00:03:17.209 --> 00:03:21.699 align:start position:0%
+in the image that the photo OCR system
+may<00:03:17.720><c> find</c><00:03:19.269><c> second</c><00:03:20.269><c> given</c><00:03:20.780><c> the</c><00:03:20.989><c> rectangle</c>
+
+00:03:21.699 --> 00:03:21.709 align:start position:0%
+may find second given the rectangle
+ 
+
+00:03:21.709 --> 00:03:24.160 align:start position:0%
+may find second given the rectangle
+around<00:03:22.190><c> that</c><00:03:22.370><c> text</c><00:03:22.730><c> region</c><00:03:22.880><c> we</c><00:03:23.360><c> can</c><00:03:23.600><c> then</c><00:03:23.900><c> do</c>
+
+00:03:24.160 --> 00:03:24.170 align:start position:0%
+around that text region we can then do
+ 
+
+00:03:24.170 --> 00:03:26.410 align:start position:0%
+around that text region we can then do
+character<00:03:24.980><c> segmentation</c><00:03:25.190><c> where</c><00:03:26.090><c> we</c><00:03:26.269><c> might</c>
+
+00:03:26.410 --> 00:03:26.420 align:start position:0%
+character segmentation where we might
+ 
+
+00:03:26.420 --> 00:03:29.470 align:start position:0%
+character segmentation where we might
+take<00:03:26.660><c> this</c><00:03:27.160><c> text</c><00:03:28.160><c> box</c><00:03:28.370><c> that</c><00:03:28.670><c> says</c><00:03:28.850><c> do</c><00:03:29.030><c> antique</c>
+
+00:03:29.470 --> 00:03:29.480 align:start position:0%
+take this text box that says do antique
+ 
+
+00:03:29.480 --> 00:03:32.620 align:start position:0%
+take this text box that says do antique
+mall<00:03:29.750><c> and</c><00:03:30.019><c> try</c><00:03:30.799><c> to</c><00:03:30.860><c> segment</c><00:03:31.400><c> it</c><00:03:31.790><c> out</c><00:03:31.910><c> into</c><00:03:32.269><c> the</c>
+
+00:03:32.620 --> 00:03:32.630 align:start position:0%
+mall and try to segment it out into the
+ 
+
+00:03:32.630 --> 00:03:34.630 align:start position:0%
+mall and try to segment it out into the
+locations<00:03:33.260><c> of</c><00:03:33.500><c> the</c><00:03:33.680><c> individual</c><00:03:34.190><c> characters</c>
+
+00:03:34.630 --> 00:03:34.640 align:start position:0%
+locations of the individual characters
+ 
+
+00:03:34.640 --> 00:03:37.750 align:start position:0%
+locations of the individual characters
+and<00:03:35.170><c> finally</c><00:03:36.170><c> having</c><00:03:36.620><c> segmented</c><00:03:37.310><c> out</c><00:03:37.400><c> into</c>
+
+00:03:37.750 --> 00:03:37.760 align:start position:0%
+and finally having segmented out into
+ 
+
+00:03:37.760 --> 00:03:40.120 align:start position:0%
+and finally having segmented out into
+individual<00:03:38.239><c> characters</c><00:03:38.660><c> we</c><00:03:39.170><c> can</c><00:03:39.350><c> then</c><00:03:39.530><c> run</c><00:03:39.829><c> a</c>
+
+00:03:40.120 --> 00:03:40.130 align:start position:0%
+individual characters we can then run a
+ 
+
+00:03:40.130 --> 00:03:42.729 align:start position:0%
+individual characters we can then run a
+classifier<00:03:40.760><c> which</c><00:03:41.209><c> looks</c><00:03:41.480><c> at</c><00:03:41.660><c> the</c><00:03:41.840><c> images</c><00:03:42.560><c> of</c>
+
+00:03:42.729 --> 00:03:42.739 align:start position:0%
+classifier which looks at the images of
+ 
+
+00:03:42.739 --> 00:03:44.680 align:start position:0%
+classifier which looks at the images of
+the<00:03:42.860><c> individual</c><00:03:43.340><c> characters</c><00:03:43.760><c> and</c><00:03:43.970><c> tries</c><00:03:44.540><c> to</c>
+
+00:03:44.680 --> 00:03:44.690 align:start position:0%
+the individual characters and tries to
+ 
+
+00:03:44.690 --> 00:03:46.120 align:start position:0%
+the individual characters and tries to
+figure<00:03:44.870><c> out</c><00:03:45.019><c> that</c><00:03:45.200><c> the</c><00:03:45.320><c> first</c><00:03:45.560><c> characters</c><00:03:45.950><c> in</c>
+
+00:03:46.120 --> 00:03:46.130 align:start position:0%
+figure out that the first characters in
+ 
+
+00:03:46.130 --> 00:03:47.680 align:start position:0%
+figure out that the first characters in
+a<00:03:46.280><c> the</c><00:03:46.519><c> second</c><00:03:46.760><c> characters</c><00:03:47.090><c> an</c><00:03:47.209><c> end</c><00:03:47.420><c> the</c><00:03:47.540><c> third</c>
+
+00:03:47.680 --> 00:03:47.690 align:start position:0%
+a the second characters an end the third
+ 
+
+00:03:47.690 --> 00:03:50.890 align:start position:0%
+a the second characters an end the third
+character<00:03:48.110><c> as</c><00:03:48.530><c> a</c><00:03:48.590><c> t</c><00:03:48.890><c> and</c><00:03:48.920><c> so</c><00:03:49.400><c> on</c><00:03:49.579><c> so</c><00:03:50.269><c> that</c><00:03:50.299><c> up</c><00:03:50.720><c> by</c>
+
+00:03:50.890 --> 00:03:50.900 align:start position:0%
+character as a t and so on so that up by
+ 
+
+00:03:50.900 --> 00:03:52.539 align:start position:0%
+character as a t and so on so that up by
+doing<00:03:50.959><c> all</c><00:03:51.290><c> that</c><00:03:51.530><c> hopefully</c><00:03:52.100><c> you</c><00:03:52.190><c> can</c><00:03:52.220><c> then</c>
+
+00:03:52.539 --> 00:03:52.549 align:start position:0%
+doing all that hopefully you can then
+ 
+
+00:03:52.549 --> 00:03:55.150 align:start position:0%
+doing all that hopefully you can then
+figure<00:03:52.730><c> out</c><00:03:52.940><c> that</c><00:03:53.209><c> this</c><00:03:53.510><c> phrase</c><00:03:54.019><c> is</c><00:03:54.320><c> Lulu</c><00:03:54.920><c> B's</c>
+
+00:03:55.150 --> 00:03:55.160 align:start position:0%
+figure out that this phrase is Lulu B's
+ 
+
+00:03:55.160 --> 00:03:57.880 align:start position:0%
+figure out that this phrase is Lulu B's
+antique<00:03:55.640><c> mall</c><00:03:55.880><c> and</c><00:03:56.170><c> similarly</c><00:03:57.170><c> for</c><00:03:57.560><c> some</c><00:03:57.769><c> of</c>
+
+00:03:57.880 --> 00:03:57.890 align:start position:0%
+antique mall and similarly for some of
+ 
+
+00:03:57.890 --> 00:03:59.440 align:start position:0%
+antique mall and similarly for some of
+the<00:03:58.010><c> other</c><00:03:58.160><c> words</c><00:03:58.610><c> that</c><00:03:58.790><c> appear</c><00:03:59.180><c> in</c><00:03:59.329><c> that</c>
+
+00:03:59.440 --> 00:03:59.450 align:start position:0%
+the other words that appear in that
+ 
+
+00:03:59.450 --> 00:04:01.390 align:start position:0%
+the other words that appear in that
+image<00:03:59.660><c> I</c><00:04:00.049><c> should</c><00:04:00.650><c> say</c><00:04:00.799><c> that</c><00:04:01.010><c> there's</c><00:04:01.220><c> some</c>
+
+00:04:01.390 --> 00:04:01.400 align:start position:0%
+image I should say that there's some
+ 
+
+00:04:01.400 --> 00:04:03.789 align:start position:0%
+image I should say that there's some
+photo<00:04:01.700><c> OCR</c><00:04:01.940><c> systems</c><00:04:02.840><c> that</c><00:04:03.079><c> do</c><00:04:03.230><c> even</c><00:04:03.620><c> more</c>
+
+00:04:03.789 --> 00:04:03.799 align:start position:0%
+photo OCR systems that do even more
+ 
+
+00:04:03.799 --> 00:04:05.560 align:start position:0%
+photo OCR systems that do even more
+complex<00:04:04.220><c> things</c><00:04:04.549><c> like</c><00:04:04.700><c> a</c><00:04:04.880><c> bit</c><00:04:05.120><c> of</c><00:04:05.239><c> spelling</c>
+
+00:04:05.560 --> 00:04:05.570 align:start position:0%
+complex things like a bit of spelling
+ 
+
+00:04:05.570 --> 00:04:07.690 align:start position:0%
+complex things like a bit of spelling
+correction<00:04:06.140><c> at</c><00:04:06.290><c> the</c><00:04:06.410><c> end</c><00:04:06.560><c> so</c><00:04:06.890><c> if</c><00:04:07.400><c> for</c><00:04:07.670><c> example</c>
+
+00:04:07.690 --> 00:04:07.700 align:start position:0%
+correction at the end so if for example
+ 
+
+00:04:07.700 --> 00:04:10.180 align:start position:0%
+correction at the end so if for example
+your<00:04:08.630><c> character</c><00:04:09.140><c> segmentation</c><00:04:09.380><c> and</c>
+
+00:04:10.180 --> 00:04:10.190 align:start position:0%
+your character segmentation and
+ 
+
+00:04:10.190 --> 00:04:12.400 align:start position:0%
+your character segmentation and
+character<00:04:10.790><c> classification</c><00:04:11.750><c> system</c><00:04:12.079><c> tells</c>
+
+00:04:12.400 --> 00:04:12.410 align:start position:0%
+character classification system tells
+ 
+
+00:04:12.410 --> 00:04:15.370 align:start position:0%
+character classification system tells
+you<00:04:12.590><c> that</c><00:04:12.769><c> the</c><00:04:12.890><c> season</c><00:04:13.310><c> worth</c><00:04:13.570><c> c1</c>
+
+00:04:15.370 --> 00:04:15.380 align:start position:0%
+you that the season worth c1
+ 
+
+00:04:15.380 --> 00:04:19.420 align:start position:0%
+you that the season worth c1
+a-and<00:04:16.280><c> I</c><00:04:16.700><c> energy</c><00:04:17.180><c> then</c><00:04:18.110><c> you</c><00:04:18.380><c> know</c><00:04:18.590><c> a</c><00:04:18.890><c> so</c><00:04:19.310><c> the</c>
+
+00:04:19.420 --> 00:04:19.430 align:start position:0%
+a-and I energy then you know a so the
+ 
+
+00:04:19.430 --> 00:04:22.300 align:start position:0%
+a-and I energy then you know a so the
+spelling<00:04:19.820><c> correction</c><00:04:20.300><c> system</c><00:04:20.780><c> might</c><00:04:21.740><c> tell</c>
+
+00:04:22.300 --> 00:04:22.310 align:start position:0%
+spelling correction system might tell
+ 
+
+00:04:22.310 --> 00:04:23.590 align:start position:0%
+spelling correction system might tell
+you<00:04:22.430><c> that</c><00:04:22.460><c> this</c><00:04:22.730><c> is</c><00:04:22.880><c> probably</c><00:04:23.090><c> the</c><00:04:23.300><c> word</c>
+
+00:04:23.590 --> 00:04:23.600 align:start position:0%
+you that this is probably the word
+ 
+
+00:04:23.600 --> 00:04:26.140 align:start position:0%
+you that this is probably the word
+cleaning<00:04:24.290><c> and</c><00:04:24.770><c> your</c><00:04:25.150><c> character</c>
+
+00:04:26.140 --> 00:04:26.150 align:start position:0%
+cleaning and your character
+ 
+
+00:04:26.150 --> 00:04:27.520 align:start position:0%
+cleaning and your character
+classification<00:04:26.420><c> algorithm</c><00:04:27.170><c> had</c><00:04:27.350><c> just</c>
+
+00:04:27.520 --> 00:04:27.530 align:start position:0%
+classification algorithm had just
+ 
+
+00:04:27.530 --> 00:04:30.520 align:start position:0%
+classification algorithm had just
+mistaken<00:04:27.920><c> the</c><00:04:28.220><c> one</c><00:04:28.430><c> for</c><00:04:28.820><c> the</c><00:04:29.180><c> L</c><00:04:29.360><c> for</c><00:04:29.690><c> one</c><00:04:29.930><c> but</c>
+
+00:04:30.520 --> 00:04:30.530 align:start position:0%
+mistaken the one for the L for one but
+ 
+
+00:04:30.530 --> 00:04:32.560 align:start position:0%
+mistaken the one for the L for one but
+for<00:04:30.560><c> the</c><00:04:30.800><c> purpose</c><00:04:31.160><c> of</c><00:04:31.280><c> what</c><00:04:31.490><c> we</c><00:04:31.760><c> want</c><00:04:32.240><c> to</c><00:04:32.330><c> do</c><00:04:32.480><c> in</c>
+
+00:04:32.560 --> 00:04:32.570 align:start position:0%
+for the purpose of what we want to do in
+ 
+
+00:04:32.570 --> 00:04:34.390 align:start position:0%
+for the purpose of what we want to do in
+this<00:04:32.690><c> video</c><00:04:32.870><c> let's</c><00:04:33.320><c> ignore</c><00:04:33.710><c> this</c><00:04:33.920><c> last</c><00:04:34.190><c> step</c>
+
+00:04:34.390 --> 00:04:34.400 align:start position:0%
+this video let's ignore this last step
+ 
+
+00:04:34.400 --> 00:04:37.270 align:start position:0%
+this video let's ignore this last step
+and<00:04:34.700><c> just</c><00:04:35.240><c> focus</c><00:04:35.690><c> on</c><00:04:35.810><c> the</c><00:04:35.900><c> system</c><00:04:36.260><c> that</c><00:04:36.680><c> does</c>
+
+00:04:37.270 --> 00:04:37.280 align:start position:0%
+and just focus on the system that does
+ 
+
+00:04:37.280 --> 00:04:39.280 align:start position:0%
+and just focus on the system that does
+these<00:04:37.460><c> three</c><00:04:37.700><c> steps</c><00:04:37.940><c> of</c><00:04:38.240><c> text</c><00:04:38.900><c> attention</c>
+
+00:04:39.280 --> 00:04:39.290 align:start position:0%
+these three steps of text attention
+ 
+
+00:04:39.290 --> 00:04:41.110 align:start position:0%
+these three steps of text attention
+interactive<00:04:39.770><c> segmentation</c><00:04:40.370><c> and</c><00:04:40.670><c> parenting</c>
+
+00:04:41.110 --> 00:04:41.120 align:start position:0%
+interactive segmentation and parenting
+ 
+
+00:04:41.120 --> 00:04:43.870 align:start position:0%
+interactive segmentation and parenting
+classification<00:04:41.720><c> a</c><00:04:42.220><c> system</c><00:04:43.220><c> like</c><00:04:43.340><c> this</c><00:04:43.580><c> is</c>
+
+00:04:43.870 --> 00:04:43.880 align:start position:0%
+classification a system like this is
+ 
+
+00:04:43.880 --> 00:04:46.680 align:start position:0%
+classification a system like this is
+what<00:04:44.300><c> we</c><00:04:44.450><c> call</c><00:04:44.780><c> a</c><00:04:45.080><c> machine</c><00:04:45.620><c> learning</c><00:04:46.040><c> pipeline</c>
+
+00:04:46.680 --> 00:04:46.690 align:start position:0%
+what we call a machine learning pipeline
+ 
+
+00:04:46.690 --> 00:04:50.230 align:start position:0%
+what we call a machine learning pipeline
+in<00:04:47.690><c> particular</c><00:04:48.050><c> here's</c><00:04:48.770><c> a</c><00:04:49.100><c> picture</c><00:04:49.520><c> showing</c>
+
+00:04:50.230 --> 00:04:50.240 align:start position:0%
+in particular here's a picture showing
+ 
+
+00:04:50.240 --> 00:04:53.830 align:start position:0%
+in particular here's a picture showing
+the<00:04:50.660><c> photo</c><00:04:51.500><c> OCR</c><00:04:51.830><c> pipeline</c><00:04:52.270><c> we</c><00:04:53.270><c> have</c><00:04:53.450><c> an</c><00:04:53.600><c> image</c>
+
+00:04:53.830 --> 00:04:53.840 align:start position:0%
+the photo OCR pipeline we have an image
+ 
+
+00:04:53.840 --> 00:04:55.330 align:start position:0%
+the photo OCR pipeline we have an image
+which<00:04:54.080><c> is</c><00:04:54.110><c> then</c><00:04:54.350><c> fed</c><00:04:54.620><c> to</c><00:04:54.680><c> the</c><00:04:54.860><c> text</c><00:04:54.980><c> detection</c>
+
+00:04:55.330 --> 00:04:55.340 align:start position:0%
+which is then fed to the text detection
+ 
+
+00:04:55.340 --> 00:04:58.240 align:start position:0%
+which is then fed to the text detection
+system<00:04:56.060><c> and</c><00:04:56.260><c> having</c><00:04:57.260><c> detected</c><00:04:57.560><c> the</c><00:04:57.920><c> text</c>
+
+00:04:58.240 --> 00:04:58.250 align:start position:0%
+system and having detected the text
+ 
+
+00:04:58.250 --> 00:04:59.740 align:start position:0%
+system and having detected the text
+regions<00:04:58.610><c> we</c><00:04:58.790><c> didn't</c><00:04:59.030><c> segment</c><00:04:59.480><c> out</c><00:04:59.570><c> the</c>
+
+00:04:59.740 --> 00:04:59.750 align:start position:0%
+regions we didn't segment out the
+ 
+
+00:04:59.750 --> 00:05:01.450 align:start position:0%
+regions we didn't segment out the
+characters<00:05:00.290><c> the</c><00:05:00.500><c> individual</c><00:05:00.920><c> characters</c><00:05:01.310><c> in</c>
+
+00:05:01.450 --> 00:05:01.460 align:start position:0%
+characters the individual characters in
+ 
+
+00:05:01.460 --> 00:05:03.790 align:start position:0%
+characters the individual characters in
+the<00:05:01.550><c> text</c><00:05:01.730><c> then</c><00:05:02.300><c> finally</c><00:05:02.840><c> we</c><00:05:03.080><c> recognize</c><00:05:03.560><c> the</c>
+
+00:05:03.790 --> 00:05:03.800 align:start position:0%
+the text then finally we recognize the
+ 
+
+00:05:03.800 --> 00:05:06.610 align:start position:0%
+the text then finally we recognize the
+individual<00:05:04.400><c> characters</c><00:05:04.940><c> in</c><00:05:05.810><c> many</c><00:05:06.080><c> complex</c>
+
+00:05:06.610 --> 00:05:06.620 align:start position:0%
+individual characters in many complex
+ 
+
+00:05:06.620 --> 00:05:09.100 align:start position:0%
+individual characters in many complex
+machine<00:05:07.160><c> learning</c><00:05:07.240><c> systems</c><00:05:08.240><c> these</c><00:05:08.660><c> sorts</c><00:05:09.020><c> of</c>
+
+00:05:09.100 --> 00:05:09.110 align:start position:0%
+machine learning systems these sorts of
+ 
+
+00:05:09.110 --> 00:05:12.220 align:start position:0%
+machine learning systems these sorts of
+pipelines<00:05:09.740><c> are</c><00:05:10.130><c> common</c><00:05:10.670><c> where</c><00:05:11.390><c> you</c><00:05:11.630><c> can</c><00:05:11.960><c> have</c>
+
+00:05:12.220 --> 00:05:12.230 align:start position:0%
+pipelines are common where you can have
+ 
+
+00:05:12.230 --> 00:05:14.350 align:start position:0%
+pipelines are common where you can have
+multiple<00:05:12.500><c> modules</c><00:05:12.980><c> in</c><00:05:13.550><c> this</c><00:05:13.700><c> example</c><00:05:14.030><c> the</c>
+
+00:05:14.350 --> 00:05:14.360 align:start position:0%
+multiple modules in this example the
+ 
+
+00:05:14.360 --> 00:05:15.430 align:start position:0%
+multiple modules in this example the
+text<00:05:14.570><c> affection</c><00:05:14.960><c> character</c><00:05:15.290><c> segmentation</c>
+
+00:05:15.430 --> 00:05:15.440 align:start position:0%
+text affection character segmentation
+ 
+
+00:05:15.440 --> 00:05:17.920 align:start position:0%
+text affection character segmentation
+character<00:05:16.160><c> recognition</c><00:05:16.310><c> modules</c><00:05:17.030><c> each</c><00:05:17.720><c> of</c>
+
+00:05:17.920 --> 00:05:17.930 align:start position:0%
+character recognition modules each of
+ 
+
+00:05:17.930 --> 00:05:19.210 align:start position:0%
+character recognition modules each of
+which<00:05:18.140><c> may</c><00:05:18.380><c> be</c><00:05:18.440><c> a</c><00:05:18.560><c> machine</c><00:05:18.890><c> learning</c>
+
+00:05:19.210 --> 00:05:19.220 align:start position:0%
+which may be a machine learning
+ 
+
+00:05:19.220 --> 00:05:21.130 align:start position:0%
+which may be a machine learning
+component<00:05:19.790><c> or</c><00:05:19.970><c> sometimes</c><00:05:20.390><c> it</c><00:05:20.600><c> may</c><00:05:20.750><c> not</c><00:05:20.930><c> be</c><00:05:21.110><c> a</c>
+
+00:05:21.130 --> 00:05:21.140 align:start position:0%
+component or sometimes it may not be a
+ 
+
+00:05:21.140 --> 00:05:23.170 align:start position:0%
+component or sometimes it may not be a
+machine<00:05:21.440><c> learning</c><00:05:21.710><c> component</c><00:05:22.220><c> but</c><00:05:22.820><c> to</c><00:05:22.970><c> have</c><00:05:23.150><c> a</c>
+
+00:05:23.170 --> 00:05:23.180 align:start position:0%
+machine learning component but to have a
+ 
+
+00:05:23.180 --> 00:05:25.360 align:start position:0%
+machine learning component but to have a
+set<00:05:23.570><c> of</c><00:05:23.660><c> modules</c><00:05:23.870><c> that</c><00:05:24.320><c> act</c><00:05:24.680><c> one</c><00:05:24.980><c> after</c>
+
+00:05:25.360 --> 00:05:25.370 align:start position:0%
+set of modules that act one after
+ 
+
+00:05:25.370 --> 00:05:27.970 align:start position:0%
+set of modules that act one after
+another<00:05:25.400><c> on</c><00:05:25.970><c> some</c><00:05:26.480><c> piece</c><00:05:26.690><c> of</c><00:05:26.720><c> data</c><00:05:26.870><c> in</c><00:05:27.440><c> order</c>
+
+00:05:27.970 --> 00:05:27.980 align:start position:0%
+another on some piece of data in order
+ 
+
+00:05:27.980 --> 00:05:30.010 align:start position:0%
+another on some piece of data in order
+to<00:05:28.310><c> produce</c><00:05:28.460><c> the</c><00:05:28.760><c> output</c><00:05:28.790><c> you</c><00:05:29.210><c> want</c><00:05:29.450><c> which</c><00:05:29.810><c> in</c>
+
+00:05:30.010 --> 00:05:30.020 align:start position:0%
+to produce the output you want which in
+ 
+
+00:05:30.020 --> 00:05:32.830 align:start position:0%
+to produce the output you want which in
+the<00:05:30.140><c> photo</c><00:05:30.320><c> OCR</c><00:05:30.590><c> example</c><00:05:31.460><c> is</c><00:05:31.700><c> the</c><00:05:32.450><c> final</c>
+
+00:05:32.830 --> 00:05:32.840 align:start position:0%
+the photo OCR example is the final
+ 
+
+00:05:32.840 --> 00:05:34.810 align:start position:0%
+the photo OCR example is the final
+transcription<00:05:33.500><c> of</c><00:05:33.710><c> the</c><00:05:33.860><c> text</c><00:05:34.160><c> appeared</c><00:05:34.640><c> in</c>
+
+00:05:34.810 --> 00:05:34.820 align:start position:0%
+transcription of the text appeared in
+ 
+
+00:05:34.820 --> 00:05:37.330 align:start position:0%
+transcription of the text appeared in
+the<00:05:34.970><c> image</c><00:05:35.210><c> if</c><00:05:35.870><c> you're</c><00:05:35.990><c> designing</c><00:05:36.170><c> a</c><00:05:36.770><c> machine</c>
+
+00:05:37.330 --> 00:05:37.340 align:start position:0%
+the image if you're designing a machine
+ 
+
+00:05:37.340 --> 00:05:39.460 align:start position:0%
+the image if you're designing a machine
+learning<00:05:37.520><c> system</c><00:05:37.870><c> one</c><00:05:38.870><c> of</c><00:05:38.900><c> the</c><00:05:39.230><c> most</c>
+
+00:05:39.460 --> 00:05:39.470 align:start position:0%
+learning system one of the most
+ 
+
+00:05:39.470 --> 00:05:41.470 align:start position:0%
+learning system one of the most
+important<00:05:40.070><c> decisions</c><00:05:40.370><c> will</c><00:05:40.850><c> often</c><00:05:41.270><c> be</c>
+
+00:05:41.470 --> 00:05:41.480 align:start position:0%
+important decisions will often be
+ 
+
+00:05:41.480 --> 00:05:43.900 align:start position:0%
+important decisions will often be
+exactly<00:05:42.410><c> what</c><00:05:42.710><c> is</c><00:05:42.920><c> the</c><00:05:43.130><c> pipeline</c><00:05:43.640><c> that</c><00:05:43.850><c> you</c>
+
+00:05:43.900 --> 00:05:43.910 align:start position:0%
+exactly what is the pipeline that you
+ 
+
+00:05:43.910 --> 00:05:45.460 align:start position:0%
+exactly what is the pipeline that you
+want<00:05:44.120><c> to</c><00:05:44.210><c> put</c><00:05:44.420><c> together</c><00:05:44.540><c> in</c><00:05:45.110><c> other</c><00:05:45.260><c> words</c>
+
+00:05:45.460 --> 00:05:45.470 align:start position:0%
+want to put together in other words
+ 
+
+00:05:45.470 --> 00:05:47.980 align:start position:0%
+want to put together in other words
+given<00:05:45.830><c> the</c><00:05:46.070><c> photo</c><00:05:46.310><c> OCR</c><00:05:46.550><c> problem</c><00:05:47.090><c> how</c><00:05:47.780><c> do</c><00:05:47.840><c> you</c>
+
+00:05:47.980 --> 00:05:47.990 align:start position:0%
+given the photo OCR problem how do you
+ 
+
+00:05:47.990 --> 00:05:50.290 align:start position:0%
+given the photo OCR problem how do you
+break<00:05:48.260><c> this</c><00:05:48.440><c> problem</c><00:05:48.770><c> down</c><00:05:48.980><c> into</c><00:05:49.580><c> a</c><00:05:49.760><c> sequence</c>
+
+00:05:50.290 --> 00:05:50.300 align:start position:0%
+break this problem down into a sequence
+ 
+
+00:05:50.300 --> 00:05:52.870 align:start position:0%
+break this problem down into a sequence
+of<00:05:50.540><c> different</c><00:05:50.960><c> modules</c><00:05:51.650><c> and</c><00:05:52.340><c> you</c><00:05:52.490><c> designed</c>
+
+00:05:52.870 --> 00:05:52.880 align:start position:0%
+of different modules and you designed
+ 
+
+00:05:52.880 --> 00:05:54.880 align:start position:0%
+of different modules and you designed
+that<00:05:52.940><c> the</c><00:05:53.090><c> pipeline</c><00:05:53.330><c> and</c><00:05:53.870><c> the</c><00:05:54.140><c> performance</c><00:05:54.710><c> of</c>
+
+00:05:54.880 --> 00:05:54.890 align:start position:0%
+that the pipeline and the performance of
+ 
+
+00:05:54.890 --> 00:05:56.530 align:start position:0%
+that the pipeline and the performance of
+each<00:05:55.130><c> of</c><00:05:55.370><c> the</c><00:05:55.490><c> modules</c><00:05:55.670><c> in</c><00:05:56.000><c> your</c><00:05:56.030><c> pipeline</c>
+
+00:05:56.530 --> 00:05:56.540 align:start position:0%
+each of the modules in your pipeline
+ 
+
+00:05:56.540 --> 00:05:58.750 align:start position:0%
+each of the modules in your pipeline
+will<00:05:56.810><c> often</c><00:05:57.170><c> have</c><00:05:57.380><c> a</c><00:05:57.410><c> big</c><00:05:57.710><c> impact</c><00:05:57.860><c> on</c><00:05:58.370><c> define</c>
+
+00:05:58.750 --> 00:05:58.760 align:start position:0%
+will often have a big impact on define
+ 
+
+00:05:58.760 --> 00:06:00.250 align:start position:0%
+will often have a big impact on define
+the<00:05:58.880><c> performance</c><00:05:59.420><c> of</c><00:05:59.660><c> your</c><00:05:59.900><c> overall</c>
+
+00:06:00.250 --> 00:06:00.260 align:start position:0%
+the performance of your overall
+ 
+
+00:06:00.260 --> 00:06:02.290 align:start position:0%
+the performance of your overall
+algorithm<00:06:00.620><c> if</c><00:06:01.580><c> you</c><00:06:01.700><c> have</c><00:06:01.880><c> a</c><00:06:01.910><c> team</c><00:06:02.270><c> of</c>
+
+00:06:02.290 --> 00:06:02.300 align:start position:0%
+algorithm if you have a team of
+ 
+
+00:06:02.300 --> 00:06:04.150 align:start position:0%
+algorithm if you have a team of
+engineers<00:06:03.050><c> working</c><00:06:03.260><c> on</c><00:06:03.560><c> the</c><00:06:03.620><c> problem</c><00:06:04.010><c> like</c>
+
+00:06:04.150 --> 00:06:04.160 align:start position:0%
+engineers working on the problem like
+ 
+
+00:06:04.160 --> 00:06:06.730 align:start position:0%
+engineers working on the problem like
+this<00:06:04.370><c> is</c><00:06:04.640><c> also</c><00:06:05.150><c> very</c><00:06:05.420><c> common</c><00:06:05.720><c> to</c><00:06:06.140><c> have</c>
+
+00:06:06.730 --> 00:06:06.740 align:start position:0%
+this is also very common to have
+ 
+
+00:06:06.740 --> 00:06:08.740 align:start position:0%
+this is also very common to have
+different<00:06:07.280><c> individuals</c><00:06:07.940><c> work</c><00:06:08.150><c> on</c><00:06:08.390><c> different</c>
+
+00:06:08.740 --> 00:06:08.750 align:start position:0%
+different individuals work on different
+ 
+
+00:06:08.750 --> 00:06:11.470 align:start position:0%
+different individuals work on different
+modules<00:06:09.260><c> so</c><00:06:09.650><c> I</c><00:06:09.680><c> could</c><00:06:10.100><c> easily</c><00:06:10.220><c> imagine</c><00:06:10.480><c> text</c>
+
+00:06:11.470 --> 00:06:11.480 align:start position:0%
+modules so I could easily imagine text
+ 
+
+00:06:11.480 --> 00:06:13.210 align:start position:0%
+modules so I could easily imagine text
+detection<00:06:11.600><c> easily</c><00:06:12.470><c> being</c><00:06:12.680><c> the</c><00:06:12.830><c> toss</c><00:06:13.040><c> of</c>
+
+00:06:13.210 --> 00:06:13.220 align:start position:0%
+detection easily being the toss of
+ 
+
+00:06:13.220 --> 00:06:14.920 align:start position:0%
+detection easily being the toss of
+anywhere<00:06:13.580><c> from</c><00:06:13.640><c> one</c><00:06:14.090><c> to</c><00:06:14.120><c> five</c><00:06:14.450><c> engineers</c>
+
+00:06:14.920 --> 00:06:14.930 align:start position:0%
+anywhere from one to five engineers
+ 
+
+00:06:14.930 --> 00:06:17.240 align:start position:0%
+anywhere from one to five engineers
+character<00:06:15.860><c> segmentation</c><00:06:16.070><c> maybe</c>
+
+00:06:17.240 --> 00:06:17.250 align:start position:0%
+character segmentation maybe
+ 
+
+00:06:17.250 --> 00:06:19.250 align:start position:0%
+character segmentation maybe
+one<00:06:17.490><c> two</c><00:06:17.610><c> five</c><00:06:17.760><c> engineers</c><00:06:18.240><c> and</c><00:06:18.870><c> character</c>
+
+00:06:19.250 --> 00:06:19.260 align:start position:0%
+one two five engineers and character
+ 
+
+00:06:19.260 --> 00:06:20.990 align:start position:0%
+one two five engineers and character
+recognition<00:06:19.440><c> being</c><00:06:20.100><c> another</c><00:06:20.400><c> one</c><00:06:20.730><c> two</c><00:06:20.850><c> five</c>
+
+00:06:20.990 --> 00:06:21.000 align:start position:0%
+recognition being another one two five
+ 
+
+00:06:21.000 --> 00:06:23.720 align:start position:0%
+recognition being another one two five
+engineers<00:06:21.450><c> and</c><00:06:21.780><c> so</c><00:06:22.410><c> having</c><00:06:22.980><c> a</c><00:06:23.100><c> pipeline</c><00:06:23.550><c> like</c>
+
+00:06:23.720 --> 00:06:23.730 align:start position:0%
+engineers and so having a pipeline like
+ 
+
+00:06:23.730 --> 00:06:25.970 align:start position:0%
+engineers and so having a pipeline like
+this<00:06:23.970><c> often</c><00:06:24.210><c> offers</c><00:06:24.810><c> a</c><00:06:24.840><c> natural</c><00:06:25.770><c> way</c><00:06:25.920><c> to</c>
+
+00:06:25.970 --> 00:06:25.980 align:start position:0%
+this often offers a natural way to
+ 
+
+00:06:25.980 --> 00:06:28.820 align:start position:0%
+this often offers a natural way to
+divide<00:06:26.550><c> up</c><00:06:26.880><c> the</c><00:06:27.240><c> workload</c><00:06:27.510><c> amongst</c><00:06:28.380><c> different</c>
+
+00:06:28.820 --> 00:06:28.830 align:start position:0%
+divide up the workload amongst different
+ 
+
+00:06:28.830 --> 00:06:30.500 align:start position:0%
+divide up the workload amongst different
+members<00:06:29.310><c> of</c><00:06:29.490><c> an</c><00:06:29.580><c> engineering</c><00:06:29.940><c> team</c><00:06:30.180><c> as</c><00:06:30.360><c> well</c>
+
+00:06:30.500 --> 00:06:30.510 align:start position:0%
+members of an engineering team as well
+ 
+
+00:06:30.510 --> 00:06:32.420 align:start position:0%
+members of an engineering team as well
+although<00:06:31.170><c> of</c><00:06:31.440><c> course</c><00:06:31.470><c> all</c><00:06:31.920><c> of</c><00:06:32.130><c> this</c><00:06:32.220><c> work</c>
+
+00:06:32.420 --> 00:06:32.430 align:start position:0%
+although of course all of this work
+ 
+
+00:06:32.430 --> 00:06:34.730 align:start position:0%
+although of course all of this work
+could<00:06:32.700><c> also</c><00:06:32.910><c> be</c><00:06:33.240><c> done</c><00:06:33.450><c> by</c><00:06:33.480><c> just</c><00:06:33.690><c> one</c><00:06:33.960><c> person</c><00:06:34.350><c> if</c>
+
+00:06:34.730 --> 00:06:34.740 align:start position:0%
+could also be done by just one person if
+ 
+
+00:06:34.740 --> 00:06:38.180 align:start position:0%
+could also be done by just one person if
+that's<00:06:35.190><c> how</c><00:06:35.430><c> you</c><00:06:35.490><c> want</c><00:06:35.760><c> to</c><00:06:35.790><c> do</c><00:06:35.940><c> it</c>
+
+00:06:38.180 --> 00:06:38.190 align:start position:0%
+ 
+ 
+
+00:06:38.190 --> 00:06:41.460 align:start position:0%
+ 
+in<00:06:39.190><c> complex</c><00:06:39.640><c> machine</c><00:06:40.090><c> learning</c><00:06:40.120><c> systems</c><00:06:40.840><c> the</c>
+
+00:06:41.460 --> 00:06:41.470 align:start position:0%
+in complex machine learning systems the
+ 
+
+00:06:41.470 --> 00:06:43.470 align:start position:0%
+in complex machine learning systems the
+idea<00:06:41.860><c> of</c><00:06:42.040><c> a</c><00:06:42.160><c> pipeline</c><00:06:42.430><c> of</c><00:06:42.850><c> a</c><00:06:42.940><c> machine</c><00:06:43.300><c> learning</c>
+
+00:06:43.470 --> 00:06:43.480 align:start position:0%
+idea of a pipeline of a machine learning
+ 
+
+00:06:43.480 --> 00:06:46.200 align:start position:0%
+idea of a pipeline of a machine learning
+pipeline<00:06:44.170><c> is</c><00:06:44.380><c> pretty</c><00:06:44.710><c> pervasive</c><00:06:44.950><c> and</c><00:06:45.550><c> what</c>
+
+00:06:46.200 --> 00:06:46.210 align:start position:0%
+pipeline is pretty pervasive and what
+ 
+
+00:06:46.210 --> 00:06:48.990 align:start position:0%
+pipeline is pretty pervasive and what
+you<00:06:46.330><c> just</c><00:06:46.450><c> saw</c><00:06:46.690><c> is</c><00:06:47.110><c> a</c><00:06:47.530><c> specific</c><00:06:48.100><c> example</c><00:06:48.250><c> of</c>
+
+00:06:48.990 --> 00:06:49.000 align:start position:0%
+you just saw is a specific example of
+ 
+
+00:06:49.000 --> 00:06:51.840 align:start position:0%
+you just saw is a specific example of
+how<00:06:49.360><c> a</c><00:06:49.390><c> photo</c><00:06:49.900><c> OCR</c><00:06:50.260><c> pipeline</c><00:06:50.650><c> might</c><00:06:51.310><c> work</c><00:06:51.490><c> in</c>
+
+00:06:51.840 --> 00:06:51.850 align:start position:0%
+how a photo OCR pipeline might work in
+ 
+
+00:06:51.850 --> 00:06:54.060 align:start position:0%
+how a photo OCR pipeline might work in
+the<00:06:52.660><c> next</c><00:06:52.990><c> few</c><00:06:53.140><c> videos</c><00:06:53.290><c> they'll</c><00:06:53.710><c> tell</c><00:06:53.950><c> you</c><00:06:54.040><c> a</c>
+
+00:06:54.060 --> 00:06:54.070 align:start position:0%
+the next few videos they'll tell you a
+ 
+
+00:06:54.070 --> 00:06:55.620 align:start position:0%
+the next few videos they'll tell you a
+little<00:06:54.160><c> bit</c><00:06:54.370><c> more</c><00:06:54.520><c> about</c><00:06:54.670><c> this</c><00:06:54.910><c> pipeline</c><00:06:55.120><c> and</c>
+
+00:06:55.620 --> 00:06:55.630 align:start position:0%
+little bit more about this pipeline and
+ 
+
+00:06:55.630 --> 00:06:57.480 align:start position:0%
+little bit more about this pipeline and
+we'll<00:06:55.810><c> continue</c><00:06:56.050><c> to</c><00:06:56.470><c> use</c><00:06:56.500><c> this</c><00:06:56.830><c> as</c><00:06:57.160><c> an</c><00:06:57.250><c> example</c>
+
+00:06:57.480 --> 00:06:57.490 align:start position:0%
+we'll continue to use this as an example
+ 
+
+00:06:57.490 --> 00:07:00.330 align:start position:0%
+we'll continue to use this as an example
+to<00:06:57.940><c> illustrate</c><00:06:58.600><c> I</c><00:06:59.200><c> think</c><00:06:59.470><c> a</c><00:06:59.590><c> few</c><00:06:59.890><c> more</c><00:07:00.070><c> key</c>
+
+00:07:00.330 --> 00:07:00.340 align:start position:0%
+to illustrate I think a few more key
+ 
+
+00:07:00.340 --> 00:07:03.540 align:start position:0%
+to illustrate I think a few more key
+concepts<00:07:00.850><c> of</c><00:07:01.030><c> machine</c><00:07:01.390><c> learning</c>
+

@@ -1,0 +1,2016 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.659 align:start position:0%
+ 
+in<00:00:00.870><c> this</c><00:00:01.199><c> video</c><00:00:01.530><c> I</c><00:00:01.829><c> want</c><00:00:02.100><c> to</c><00:00:02.190><c> start</c><00:00:02.399><c> telling</c>
+
+00:00:02.659 --> 00:00:02.669 align:start position:0%
+in this video I want to start telling
+ 
+
+00:00:02.669 --> 00:00:05.030 align:start position:0%
+in this video I want to start telling
+you<00:00:02.850><c> about</c><00:00:02.970><c> how</c><00:00:03.419><c> we</c><00:00:03.480><c> represent</c><00:00:04.040><c> neural</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+you about how we represent neural
+ 
+
+00:00:05.040 --> 00:00:06.680 align:start position:0%
+you about how we represent neural
+networks<00:00:05.430><c> in</c><00:00:05.640><c> other</c><00:00:05.790><c> words</c><00:00:06.029><c> how</c><00:00:06.299><c> we</c><00:00:06.359><c> represent</c>
+
+00:00:06.680 --> 00:00:06.690 align:start position:0%
+networks in other words how we represent
+ 
+
+00:00:06.690 --> 00:00:09.169 align:start position:0%
+networks in other words how we represent
+our<00:00:07.170><c> hypothesis</c><00:00:07.950><c> or</c><00:00:08.160><c> how</c><00:00:08.309><c> we</c><00:00:08.370><c> represent</c><00:00:08.670><c> our</c>
+
+00:00:09.169 --> 00:00:09.179 align:start position:0%
+our hypothesis or how we represent our
+ 
+
+00:00:09.179 --> 00:00:12.290 align:start position:0%
+our hypothesis or how we represent our
+model<00:00:09.660><c> when</c><00:00:10.170><c> using</c><00:00:10.590><c> neural</c><00:00:10.800><c> networks</c><00:00:11.300><c> neural</c>
+
+00:00:12.290 --> 00:00:12.300 align:start position:0%
+model when using neural networks neural
+ 
+
+00:00:12.300 --> 00:00:15.140 align:start position:0%
+model when using neural networks neural
+networks<00:00:12.719><c> were</c><00:00:12.990><c> developed</c><00:00:13.559><c> as</c><00:00:14.150><c> simulating</c>
+
+00:00:15.140 --> 00:00:15.150 align:start position:0%
+networks were developed as simulating
+ 
+
+00:00:15.150 --> 00:00:17.510 align:start position:0%
+networks were developed as simulating
+neurons<00:00:15.450><c> or</c><00:00:15.990><c> networks</c><00:00:16.529><c> of</c><00:00:16.770><c> neurons</c><00:00:16.949><c> in</c><00:00:17.490><c> the</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+neurons or networks of neurons in the
+ 
+
+00:00:17.520 --> 00:00:20.510 align:start position:0%
+neurons or networks of neurons in the
+brain<00:00:17.750><c> so</c><00:00:18.750><c> to</c><00:00:18.779><c> explain</c><00:00:19.380><c> the</c><00:00:19.710><c> hypothesis</c>
+
+00:00:20.510 --> 00:00:20.520 align:start position:0%
+brain so to explain the hypothesis
+ 
+
+00:00:20.520 --> 00:00:23.060 align:start position:0%
+brain so to explain the hypothesis
+representation<00:00:20.820><c> let's</c><00:00:21.600><c> start</c><00:00:22.020><c> by</c><00:00:22.470><c> looking</c><00:00:22.740><c> at</c>
+
+00:00:23.060 --> 00:00:23.070 align:start position:0%
+representation let's start by looking at
+ 
+
+00:00:23.070 --> 00:00:25.340 align:start position:0%
+representation let's start by looking at
+what<00:00:23.460><c> a</c><00:00:23.580><c> single</c><00:00:24.029><c> neuron</c><00:00:24.269><c> in</c><00:00:24.630><c> the</c><00:00:24.689><c> brain</c><00:00:24.990><c> looks</c>
+
+00:00:25.340 --> 00:00:25.350 align:start position:0%
+what a single neuron in the brain looks
+ 
+
+00:00:25.350 --> 00:00:27.890 align:start position:0%
+what a single neuron in the brain looks
+like<00:00:25.550><c> your</c><00:00:26.550><c> brain</c><00:00:26.820><c> and</c><00:00:27.060><c> mind</c><00:00:27.300><c> is</c><00:00:27.539><c> jam-packed</c>
+
+00:00:27.890 --> 00:00:27.900 align:start position:0%
+like your brain and mind is jam-packed
+ 
+
+00:00:27.900 --> 00:00:30.679 align:start position:0%
+like your brain and mind is jam-packed
+full<00:00:28.349><c> of</c><00:00:28.619><c> neurons</c><00:00:29.250><c> like</c><00:00:29.490><c> these</c><00:00:29.670><c> and</c><00:00:30.090><c> neurons</c>
+
+00:00:30.679 --> 00:00:30.689 align:start position:0%
+full of neurons like these and neurons
+ 
+
+00:00:30.689 --> 00:00:32.990 align:start position:0%
+full of neurons like these and neurons
+are<00:00:30.929><c> cells</c><00:00:31.140><c> in</c><00:00:31.439><c> the</c><00:00:31.500><c> brain</c><00:00:31.679><c> and</c><00:00:31.920><c> the</c><00:00:32.790><c> two</c>
+
+00:00:32.990 --> 00:00:33.000 align:start position:0%
+are cells in the brain and the two
+ 
+
+00:00:33.000 --> 00:00:34.520 align:start position:0%
+are cells in the brain and the two
+things<00:00:33.239><c> they</c><00:00:33.390><c> draw</c><00:00:33.540><c> to</c><00:00:33.870><c> draw</c><00:00:34.050><c> attention</c><00:00:34.200><c> to</c>
+
+00:00:34.520 --> 00:00:34.530 align:start position:0%
+things they draw to draw attention to
+ 
+
+00:00:34.530 --> 00:00:37.400 align:start position:0%
+things they draw to draw attention to
+are<00:00:34.920><c> that</c><00:00:35.130><c> first</c><00:00:35.520><c> that</c><00:00:36.480><c> the</c><00:00:36.690><c> neuron</c><00:00:37.110><c> has</c><00:00:37.290><c> a</c>
+
+00:00:37.400 --> 00:00:37.410 align:start position:0%
+are that first that the neuron has a
+ 
+
+00:00:37.410 --> 00:00:40.549 align:start position:0%
+are that first that the neuron has a
+cell<00:00:37.559><c> body</c><00:00:37.980><c> like</c><00:00:38.520><c> so</c><00:00:38.760><c> and</c><00:00:39.230><c> moreover</c><00:00:40.230><c> the</c>
+
+00:00:40.549 --> 00:00:40.559 align:start position:0%
+cell body like so and moreover the
+ 
+
+00:00:40.559 --> 00:00:42.770 align:start position:0%
+cell body like so and moreover the
+neuron<00:00:40.890><c> has</c><00:00:40.920><c> number</c><00:00:41.489><c> of</c><00:00:41.610><c> input</c><00:00:42.090><c> wires</c><00:00:42.329><c> and</c>
+
+00:00:42.770 --> 00:00:42.780 align:start position:0%
+neuron has number of input wires and
+ 
+
+00:00:42.780 --> 00:00:44.600 align:start position:0%
+neuron has number of input wires and
+these<00:00:42.989><c> are</c><00:00:43.200><c> called</c><00:00:43.500><c> the</c><00:00:43.620><c> dendrites</c><00:00:43.829><c> you</c><00:00:44.370><c> think</c>
+
+00:00:44.600 --> 00:00:44.610 align:start position:0%
+these are called the dendrites you think
+ 
+
+00:00:44.610 --> 00:00:48.709 align:start position:0%
+these are called the dendrites you think
+of<00:00:44.730><c> them</c><00:00:44.850><c> as</c><00:00:45.059><c> input</c><00:00:45.989><c> wires</c><00:00:46.500><c> and</c><00:00:47.329><c> these</c><00:00:48.329><c> receive</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+of them as input wires and these receive
+ 
+
+00:00:48.719 --> 00:00:51.110 align:start position:0%
+of them as input wires and these receive
+inputs<00:00:49.260><c> from</c><00:00:49.350><c> other</c><00:00:49.620><c> locations</c><00:00:50.010><c> and</c><00:00:50.430><c> the</c>
+
+00:00:51.110 --> 00:00:51.120 align:start position:0%
+inputs from other locations and the
+ 
+
+00:00:51.120 --> 00:00:53.930 align:start position:0%
+inputs from other locations and the
+neuron<00:00:51.510><c> also</c><00:00:51.960><c> has</c><00:00:52.320><c> an</c><00:00:52.620><c> output</c><00:00:52.860><c> wire</c><00:00:53.399><c> called</c>
+
+00:00:53.930 --> 00:00:53.940 align:start position:0%
+neuron also has an output wire called
+ 
+
+00:00:53.940 --> 00:00:57.799 align:start position:0%
+neuron also has an output wire called
+the<00:00:54.090><c> axon</c><00:00:54.570><c> and</c><00:00:55.219><c> this</c><00:00:56.219><c> output</c><00:00:56.489><c> wire</c><00:00:56.940><c> is</c><00:00:57.329><c> what</c><00:00:57.660><c> it</c>
+
+00:00:57.799 --> 00:00:57.809 align:start position:0%
+the axon and this output wire is what it
+ 
+
+00:00:57.809 --> 00:01:01.400 align:start position:0%
+the axon and this output wire is what it
+uses<00:00:58.050><c> to</c><00:00:58.260><c> send</c><00:00:59.129><c> signals</c><00:00:59.640><c> to</c><00:00:59.910><c> other</c><00:01:00.420><c> neurons</c><00:01:00.840><c> or</c>
+
+00:01:01.400 --> 00:01:01.410 align:start position:0%
+uses to send signals to other neurons or
+ 
+
+00:01:01.410 --> 00:01:05.810 align:start position:0%
+uses to send signals to other neurons or
+to<00:01:01.559><c> send</c><00:01:01.949><c> messages</c><00:01:02.430><c> to</c><00:01:02.489><c> other</c><00:01:03.470><c> neurons</c><00:01:04.489><c> so</c><00:01:05.489><c> at</c>
+
+00:01:05.810 --> 00:01:05.820 align:start position:0%
+to send messages to other neurons so at
+ 
+
+00:01:05.820 --> 00:01:08.330 align:start position:0%
+to send messages to other neurons so at
+a<00:01:05.880><c> simplistic</c><00:01:06.600><c> level</c><00:01:07.140><c> what</c><00:01:07.409><c> a</c><00:01:07.439><c> neuron</c><00:01:07.890><c> is</c><00:01:08.070><c> is</c><00:01:08.310><c> a</c>
+
+00:01:08.330 --> 00:01:08.340 align:start position:0%
+a simplistic level what a neuron is is a
+ 
+
+00:01:08.340 --> 00:01:10.640 align:start position:0%
+a simplistic level what a neuron is is a
+computational<00:01:09.240><c> unit</c><00:01:09.600><c> that</c><00:01:09.960><c> gets</c><00:01:10.260><c> a</c><00:01:10.350><c> number</c><00:01:10.530><c> of</c>
+
+00:01:10.640 --> 00:01:10.650 align:start position:0%
+computational unit that gets a number of
+ 
+
+00:01:10.650 --> 00:01:13.219 align:start position:0%
+computational unit that gets a number of
+inputs<00:01:10.740><c> through</c><00:01:11.460><c> its</c><00:01:11.610><c> input</c><00:01:11.970><c> wires</c><00:01:12.180><c> does</c><00:01:12.990><c> some</c>
+
+00:01:13.219 --> 00:01:13.229 align:start position:0%
+inputs through its input wires does some
+ 
+
+00:01:13.229 --> 00:01:15.560 align:start position:0%
+inputs through its input wires does some
+computation<00:01:13.619><c> and</c><00:01:14.159><c> then</c><00:01:14.610><c> it</c><00:01:14.790><c> sends</c><00:01:15.000><c> outputs</c>
+
+00:01:15.560 --> 00:01:15.570 align:start position:0%
+computation and then it sends outputs
+ 
+
+00:01:15.570 --> 00:01:18.380 align:start position:0%
+computation and then it sends outputs
+virus<00:01:16.170><c> axon</c><00:01:16.680><c> to</c><00:01:16.979><c> other</c><00:01:17.340><c> nodes</c><00:01:17.820><c> or</c><00:01:18.090><c> to</c><00:01:18.210><c> other</c>
+
+00:01:18.380 --> 00:01:18.390 align:start position:0%
+virus axon to other nodes or to other
+ 
+
+00:01:18.390 --> 00:01:19.969 align:start position:0%
+virus axon to other nodes or to other
+neurons<00:01:19.229><c> in</c><00:01:19.470><c> the</c><00:01:19.560><c> brain</c>
+
+00:01:19.969 --> 00:01:19.979 align:start position:0%
+neurons in the brain
+ 
+
+00:01:19.979 --> 00:01:23.330 align:start position:0%
+neurons in the brain
+here's<00:01:20.640><c> an</c><00:01:20.790><c> illustration</c><00:01:20.970><c> of</c><00:01:21.780><c> a</c><00:01:22.560><c> group</c><00:01:23.189><c> of</c>
+
+00:01:23.330 --> 00:01:23.340 align:start position:0%
+here's an illustration of a group of
+ 
+
+00:01:23.340 --> 00:01:25.609 align:start position:0%
+here's an illustration of a group of
+neurons<00:01:23.580><c> the</c><00:01:24.450><c> way</c><00:01:24.630><c> that</c><00:01:24.869><c> neurons</c><00:01:25.290><c> communicate</c>
+
+00:01:25.609 --> 00:01:25.619 align:start position:0%
+neurons the way that neurons communicate
+ 
+
+00:01:25.619 --> 00:01:28.370 align:start position:0%
+neurons the way that neurons communicate
+with<00:01:26.280><c> each</c><00:01:26.430><c> other</c><00:01:26.610><c> is</c><00:01:26.970><c> with</c><00:01:27.299><c> little</c><00:01:27.509><c> pulses</c><00:01:28.140><c> of</c>
+
+00:01:28.370 --> 00:01:28.380 align:start position:0%
+with each other is with little pulses of
+ 
+
+00:01:28.380 --> 00:01:30.289 align:start position:0%
+with each other is with little pulses of
+electricity<00:01:28.829><c> they're</c><00:01:29.400><c> also</c><00:01:29.610><c> called</c><00:01:29.909><c> spikes</c>
+
+00:01:30.289 --> 00:01:30.299 align:start position:0%
+electricity they're also called spikes
+ 
+
+00:01:30.299 --> 00:01:31.819 align:start position:0%
+electricity they're also called spikes
+but<00:01:30.509><c> that</c><00:01:30.659><c> just</c><00:01:30.810><c> means</c><00:01:30.990><c> a</c><00:01:31.140><c> lower</c><00:01:31.290><c> pulse</c><00:01:31.650><c> of</c>
+
+00:01:31.819 --> 00:01:31.829 align:start position:0%
+but that just means a lower pulse of
+ 
+
+00:01:31.829 --> 00:01:34.660 align:start position:0%
+but that just means a lower pulse of
+electricity<00:01:32.270><c> so</c><00:01:33.270><c> here's</c><00:01:33.540><c> one</c><00:01:33.750><c> neuron</c><00:01:33.990><c> and</c>
+
+00:01:34.660 --> 00:01:34.670 align:start position:0%
+electricity so here's one neuron and
+ 
+
+00:01:34.670 --> 00:01:38.090 align:start position:0%
+electricity so here's one neuron and
+what<00:01:35.670><c> it</c><00:01:35.790><c> does</c><00:01:35.970><c> is</c><00:01:36.360><c> if</c><00:01:37.049><c> it</c><00:01:37.229><c> wants</c><00:01:37.530><c> to</c><00:01:37.680><c> send</c><00:01:37.979><c> a</c>
+
+00:01:38.090 --> 00:01:38.100 align:start position:0%
+what it does is if it wants to send a
+ 
+
+00:01:38.100 --> 00:01:39.800 align:start position:0%
+what it does is if it wants to send a
+message<00:01:38.130><c> what</c><00:01:38.700><c> it</c><00:01:38.790><c> does</c><00:01:38.970><c> is</c><00:01:39.180><c> it</c><00:01:39.360><c> sends</c><00:01:39.600><c> the</c>
+
+00:01:39.800 --> 00:01:39.810 align:start position:0%
+message what it does is it sends the
+ 
+
+00:01:39.810 --> 00:01:42.560 align:start position:0%
+message what it does is it sends the
+little<00:01:40.079><c> pulse</c><00:01:40.290><c> of</c><00:01:40.470><c> electricity</c><00:01:41.030><c> various</c><00:01:42.030><c> axon</c>
+
+00:01:42.560 --> 00:01:42.570 align:start position:0%
+little pulse of electricity various axon
+ 
+
+00:01:42.570 --> 00:01:45.139 align:start position:0%
+little pulse of electricity various axon
+to<00:01:43.320><c> the</c><00:01:43.590><c> to</c><00:01:43.860><c> some</c><00:01:44.070><c> difference</c><00:01:44.520><c> neuron</c><00:01:44.939><c> and</c>
+
+00:01:45.139 --> 00:01:45.149 align:start position:0%
+to the to some difference neuron and
+ 
+
+00:01:45.149 --> 00:01:48.609 align:start position:0%
+to the to some difference neuron and
+here<00:01:45.990><c> this</c><00:01:46.470><c> axon</c><00:01:47.009><c> that</c><00:01:47.250><c> is</c><00:01:47.820><c> this</c><00:01:47.970><c> open</c><00:01:48.360><c> wire</c>
+
+00:01:48.609 --> 00:01:48.619 align:start position:0%
+here this axon that is this open wire
+ 
+
+00:01:48.619 --> 00:01:51.260 align:start position:0%
+here this axon that is this open wire
+connects<00:01:49.619><c> to</c><00:01:49.770><c> the</c><00:01:49.950><c> input</c><00:01:50.490><c> wire</c><00:01:50.670><c> connects</c><00:01:51.180><c> to</c>
+
+00:01:51.260 --> 00:01:51.270 align:start position:0%
+connects to the input wire connects to
+ 
+
+00:01:51.270 --> 00:01:53.600 align:start position:0%
+connects to the input wire connects to
+the<00:01:51.360><c> dendrite</c><00:01:51.960><c> of</c><00:01:52.259><c> this</c><00:01:52.409><c> second</c><00:01:52.979><c> neuron</c><00:01:53.189><c> over</c>
+
+00:01:53.600 --> 00:01:53.610 align:start position:0%
+the dendrite of this second neuron over
+ 
+
+00:01:53.610 --> 00:01:55.819 align:start position:0%
+the dendrite of this second neuron over
+here<00:01:53.880><c> which</c><00:01:54.479><c> then</c><00:01:54.750><c> accepts</c><00:01:55.259><c> this</c><00:01:55.409><c> incoming</c>
+
+00:01:55.819 --> 00:01:55.829 align:start position:0%
+here which then accepts this incoming
+ 
+
+00:01:55.829 --> 00:01:58.500 align:start position:0%
+here which then accepts this incoming
+message<00:01:56.250><c> that</c><00:01:56.759><c> some</c><00:01:57.030><c> computation</c>
+
+00:01:58.500 --> 00:01:58.510 align:start position:0%
+message that some computation
+ 
+
+00:01:58.510 --> 00:02:00.660 align:start position:0%
+message that some computation
+may<00:01:58.630><c> in</c><00:01:58.870><c> turn</c><00:01:59.080><c> decide</c><00:01:59.560><c> to</c><00:01:59.770><c> send</c><00:01:59.980><c> out</c><00:02:00.160><c> its</c><00:02:00.430><c> own</c>
+
+00:02:00.660 --> 00:02:00.670 align:start position:0%
+may in turn decide to send out its own
+ 
+
+00:02:00.670 --> 00:02:02.940 align:start position:0%
+may in turn decide to send out its own
+messages<00:02:01.210><c> on</c><00:02:01.420><c> its</c><00:02:01.660><c> axon</c><00:02:02.110><c> to</c><00:02:02.410><c> other</c><00:02:02.710><c> neurons</c>
+
+00:02:02.940 --> 00:02:02.950 align:start position:0%
+messages on its axon to other neurons
+ 
+
+00:02:02.950 --> 00:02:06.390 align:start position:0%
+messages on its axon to other neurons
+and<00:02:03.840><c> this</c><00:02:04.840><c> is</c><00:02:05.020><c> the</c><00:02:05.140><c> process</c><00:02:05.620><c> by</c><00:02:05.650><c> which</c><00:02:05.920><c> all</c>
+
+00:02:06.390 --> 00:02:06.400 align:start position:0%
+and this is the process by which all
+ 
+
+00:02:06.400 --> 00:02:08.040 align:start position:0%
+and this is the process by which all
+human<00:02:07.390><c> thoughts</c>
+
+00:02:08.040 --> 00:02:08.050 align:start position:0%
+human thoughts
+ 
+
+00:02:08.050 --> 00:02:09.780 align:start position:0%
+human thoughts
+happens<00:02:08.470><c> is</c><00:02:08.710><c> these</c><00:02:08.890><c> neurons</c><00:02:09.430><c> doing</c>
+
+00:02:09.780 --> 00:02:09.790 align:start position:0%
+happens is these neurons doing
+ 
+
+00:02:09.790 --> 00:02:11.760 align:start position:0%
+happens is these neurons doing
+computations<00:02:10.510><c> and</c><00:02:10.780><c> pulsing</c><00:02:11.200><c> messages</c><00:02:11.650><c> to</c>
+
+00:02:11.760 --> 00:02:11.770 align:start position:0%
+computations and pulsing messages to
+ 
+
+00:02:11.770 --> 00:02:14.220 align:start position:0%
+computations and pulsing messages to
+other<00:02:11.950><c> neurons</c><00:02:12.160><c> as</c><00:02:12.670><c> a</c><00:02:13.030><c> result</c><00:02:13.540><c> of</c><00:02:13.750><c> what</c><00:02:14.020><c> other</c>
+
+00:02:14.220 --> 00:02:14.230 align:start position:0%
+other neurons as a result of what other
+ 
+
+00:02:14.230 --> 00:02:17.490 align:start position:0%
+other neurons as a result of what other
+inputs<00:02:15.130><c> they</c><00:02:15.520><c> got</c><00:02:15.760><c> and</c><00:02:16.600><c> by</c><00:02:16.780><c> the</c><00:02:16.840><c> way</c><00:02:17.050><c> this</c><00:02:17.320><c> is</c>
+
+00:02:17.490 --> 00:02:17.500 align:start position:0%
+inputs they got and by the way this is
+ 
+
+00:02:17.500 --> 00:02:20.970 align:start position:0%
+inputs they got and by the way this is
+how<00:02:17.800><c> our</c><00:02:18.370><c> senses</c><00:02:19.060><c> and</c><00:02:19.330><c> our</c><00:02:19.810><c> muscles</c><00:02:20.500><c> work</c><00:02:20.740><c> as</c>
+
+00:02:20.970 --> 00:02:20.980 align:start position:0%
+how our senses and our muscles work as
+ 
+
+00:02:20.980 --> 00:02:23.100 align:start position:0%
+how our senses and our muscles work as
+well<00:02:21.220><c> if</c><00:02:21.460><c> you</c><00:02:22.030><c> want</c><00:02:22.270><c> to</c><00:02:22.360><c> remove</c><00:02:22.720><c> one</c><00:02:22.960><c> you've</c>
+
+00:02:23.100 --> 00:02:23.110 align:start position:0%
+well if you want to remove one you've
+ 
+
+00:02:23.110 --> 00:02:24.930 align:start position:0%
+well if you want to remove one you've
+one<00:02:23.500><c> of</c><00:02:23.620><c> your</c><00:02:23.740><c> muscles</c><00:02:24.130><c> the</c><00:02:24.310><c> way</c><00:02:24.430><c> that</c><00:02:24.670><c> works</c>
+
+00:02:24.930 --> 00:02:24.940 align:start position:0%
+one of your muscles the way that works
+ 
+
+00:02:24.940 --> 00:02:27.210 align:start position:0%
+one of your muscles the way that works
+is<00:02:25.150><c> that</c><00:02:25.210><c> the</c><00:02:25.420><c> neuron</c><00:02:25.780><c> may</c><00:02:26.260><c> send</c><00:02:26.560><c> these</c><00:02:26.710><c> pulses</c>
+
+00:02:27.210 --> 00:02:27.220 align:start position:0%
+is that the neuron may send these pulses
+ 
+
+00:02:27.220 --> 00:02:29.400 align:start position:0%
+is that the neuron may send these pulses
+of<00:02:27.400><c> electricity</c><00:02:27.730><c> to</c><00:02:28.600><c> your</c><00:02:28.750><c> muscle</c><00:02:29.140><c> and</c><00:02:29.380><c> that</c>
+
+00:02:29.400 --> 00:02:29.410 align:start position:0%
+of electricity to your muscle and that
+ 
+
+00:02:29.410 --> 00:02:32.610 align:start position:0%
+of electricity to your muscle and that
+causes<00:02:29.860><c> your</c><00:02:30.190><c> muscles</c><00:02:30.610><c> to</c><00:02:30.790><c> contract</c><00:02:30.910><c> and</c><00:02:31.620><c> your</c>
+
+00:02:32.610 --> 00:02:32.620 align:start position:0%
+causes your muscles to contract and your
+ 
+
+00:02:32.620 --> 00:02:35.010 align:start position:0%
+causes your muscles to contract and your
+eyes<00:02:32.890><c> it</c><00:02:33.340><c> just</c><00:02:33.790><c> if</c><00:02:34.120><c> some</c><00:02:34.330><c> sensor</c><00:02:34.690><c> like</c><00:02:34.870><c> your</c>
+
+00:02:35.010 --> 00:02:35.020 align:start position:0%
+eyes it just if some sensor like your
+ 
+
+00:02:35.020 --> 00:02:37.200 align:start position:0%
+eyes it just if some sensor like your
+eye<00:02:35.170><c> wants</c><00:02:35.800><c> to</c><00:02:35.890><c> send</c><00:02:36.070><c> a</c><00:02:36.190><c> message</c><00:02:36.580><c> to</c><00:02:36.790><c> your</c>
+
+00:02:37.200 --> 00:02:37.210 align:start position:0%
+eye wants to send a message to your
+ 
+
+00:02:37.210 --> 00:02:39.540 align:start position:0%
+eye wants to send a message to your
+brain<00:02:37.420><c> what</c><00:02:37.720><c> it</c><00:02:37.870><c> does</c><00:02:38.020><c> is</c><00:02:38.260><c> it</c><00:02:38.440><c> senses</c><00:02:39.010><c> pulses</c>
+
+00:02:39.540 --> 00:02:39.550 align:start position:0%
+brain what it does is it senses pulses
+ 
+
+00:02:39.550 --> 00:02:42.330 align:start position:0%
+brain what it does is it senses pulses
+of<00:02:39.700><c> electricity</c><00:02:40.000><c> to</c><00:02:40.900><c> a</c><00:02:40.930><c> neuron</c><00:02:41.680><c> in</c><00:02:41.920><c> your</c><00:02:42.100><c> brain</c>
+
+00:02:42.330 --> 00:02:42.340 align:start position:0%
+of electricity to a neuron in your brain
+ 
+
+00:02:42.340 --> 00:02:45.420 align:start position:0%
+of electricity to a neuron in your brain
+like<00:02:42.610><c> so</c><00:02:42.850><c> in</c><00:02:43.510><c> a</c><00:02:43.840><c> neuro</c><00:02:44.170><c> in</c><00:02:44.560><c> a</c><00:02:44.740><c> neural</c><00:02:45.250><c> network</c>
+
+00:02:45.420 --> 00:02:45.430 align:start position:0%
+like so in a neuro in a neural network
+ 
+
+00:02:45.430 --> 00:02:47.910 align:start position:0%
+like so in a neuro in a neural network
+or<00:02:45.850><c> rather</c><00:02:46.240><c> in</c><00:02:46.570><c> an</c><00:02:46.810><c> artificial</c><00:02:47.440><c> neural</c>
+
+00:02:47.910 --> 00:02:47.920 align:start position:0%
+or rather in an artificial neural
+ 
+
+00:02:47.920 --> 00:02:50.010 align:start position:0%
+or rather in an artificial neural
+network<00:02:48.460><c> that</c><00:02:48.670><c> we</c><00:02:48.760><c> implement</c><00:02:49.270><c> in</c><00:02:49.420><c> a</c><00:02:49.480><c> computer</c>
+
+00:02:50.010 --> 00:02:50.020 align:start position:0%
+network that we implement in a computer
+ 
+
+00:02:50.020 --> 00:02:52.740 align:start position:0%
+network that we implement in a computer
+we're<00:02:50.770><c> going</c><00:02:50.950><c> to</c><00:02:51.190><c> use</c><00:02:51.550><c> a</c><00:02:51.790><c> very</c><00:02:52.060><c> simple</c><00:02:52.330><c> model</c>
+
+00:02:52.740 --> 00:02:52.750 align:start position:0%
+we're going to use a very simple model
+ 
+
+00:02:52.750 --> 00:02:54.840 align:start position:0%
+we're going to use a very simple model
+of<00:02:53.230><c> what</c><00:02:53.470><c> a</c><00:02:53.500><c> neuron</c><00:02:53.590><c> does</c><00:02:54.190><c> we're</c><00:02:54.520><c> going</c><00:02:54.700><c> to</c>
+
+00:02:54.840 --> 00:02:54.850 align:start position:0%
+of what a neuron does we're going to
+ 
+
+00:02:54.850 --> 00:02:57.900 align:start position:0%
+of what a neuron does we're going to
+model<00:02:55.240><c> a</c><00:02:55.390><c> neuron</c><00:02:55.810><c> as</c><00:02:55.990><c> just</c><00:02:56.680><c> a</c><00:02:56.860><c> logistic</c><00:02:57.430><c> unit</c>
+
+00:02:57.900 --> 00:02:57.910 align:start position:0%
+model a neuron as just a logistic unit
+ 
+
+00:02:57.910 --> 00:03:00.390 align:start position:0%
+model a neuron as just a logistic unit
+so<00:02:58.690><c> when</c><00:02:58.990><c> I</c><00:02:59.020><c> draw</c><00:02:59.320><c> a</c><00:02:59.350><c> yellow</c><00:02:59.650><c> circle</c><00:03:00.010><c> like</c><00:03:00.370><c> that</c>
+
+00:03:00.390 --> 00:03:00.400 align:start position:0%
+so when I draw a yellow circle like that
+ 
+
+00:03:00.400 --> 00:03:03.330 align:start position:0%
+so when I draw a yellow circle like that
+think<00:03:01.120><c> of</c><00:03:01.270><c> that</c><00:03:01.450><c> as</c><00:03:01.860><c> playing</c><00:03:02.860><c> a</c><00:03:03.100><c> role</c>
+
+00:03:03.330 --> 00:03:03.340 align:start position:0%
+think of that as playing a role
+ 
+
+00:03:03.340 --> 00:03:05.490 align:start position:0%
+think of that as playing a role
+analogous<00:03:04.000><c> to</c><00:03:04.330><c> maybe</c><00:03:04.660><c> the</c><00:03:04.840><c> body</c><00:03:05.080><c> of</c><00:03:05.350><c> a</c><00:03:05.470><c> neuron</c>
+
+00:03:05.490 --> 00:03:05.500 align:start position:0%
+analogous to maybe the body of a neuron
+ 
+
+00:03:05.500 --> 00:03:10.140 align:start position:0%
+analogous to maybe the body of a neuron
+and<00:03:06.330><c> we</c><00:03:07.330><c> then</c><00:03:07.540><c> feed</c><00:03:07.890><c> the</c><00:03:08.890><c> neuron</c><00:03:09.340><c> a</c><00:03:09.610><c> few</c><00:03:09.940><c> inputs</c>
+
+00:03:10.140 --> 00:03:10.150 align:start position:0%
+and we then feed the neuron a few inputs
+ 
+
+00:03:10.150 --> 00:03:15.449 align:start position:0%
+and we then feed the neuron a few inputs
+various<00:03:10.959><c> dendrites</c><00:03:11.530><c> or</c><00:03:11.739><c> input</c><00:03:12.250><c> wires</c><00:03:12.459><c> and</c><00:03:14.459><c> the</c>
+
+00:03:15.449 --> 00:03:15.459 align:start position:0%
+various dendrites or input wires and the
+ 
+
+00:03:15.459 --> 00:03:17.940 align:start position:0%
+various dendrites or input wires and the
+neuron<00:03:15.820><c> does</c><00:03:16.000><c> some</c><00:03:16.209><c> computation</c><00:03:16.570><c> and</c><00:03:17.110><c> output</c>
+
+00:03:17.940 --> 00:03:17.950 align:start position:0%
+neuron does some computation and output
+ 
+
+00:03:17.950 --> 00:03:21.830 align:start position:0%
+neuron does some computation and output
+some<00:03:18.190><c> value</c><00:03:18.640><c> on</c><00:03:18.820><c> this</c><00:03:19.360><c> output</c><00:03:19.660><c> wire</c><00:03:20.110><c> or</c>
+
+00:03:21.830 --> 00:03:21.840 align:start position:0%
+some value on this output wire or
+ 
+
+00:03:21.840 --> 00:03:24.449 align:start position:0%
+some value on this output wire or
+biological<00:03:22.840><c> neuron</c><00:03:23.170><c> to</c><00:03:23.350><c> source</c><00:03:23.560><c> the</c><00:03:23.680><c> axon</c><00:03:24.220><c> and</c>
+
+00:03:24.449 --> 00:03:24.459 align:start position:0%
+biological neuron to source the axon and
+ 
+
+00:03:24.459 --> 00:03:26.820 align:start position:0%
+biological neuron to source the axon and
+whenever<00:03:24.850><c> I</c><00:03:25.090><c> draw</c><00:03:25.540><c> a</c><00:03:25.570><c> diagram</c><00:03:25.959><c> like</c><00:03:26.200><c> this</c><00:03:26.350><c> what</c>
+
+00:03:26.820 --> 00:03:26.830 align:start position:0%
+whenever I draw a diagram like this what
+ 
+
+00:03:26.830 --> 00:03:28.560 align:start position:0%
+whenever I draw a diagram like this what
+this<00:03:26.980><c> means</c><00:03:27.250><c> is</c><00:03:27.519><c> that</c><00:03:27.550><c> this</c><00:03:27.910><c> represents</c><00:03:28.150><c> a</c>
+
+00:03:28.560 --> 00:03:28.570 align:start position:0%
+this means is that this represents a
+ 
+
+00:03:28.570 --> 00:03:33.230 align:start position:0%
+this means is that this represents a
+computation<00:03:29.320><c> of</c><00:03:29.640><c> your</c><00:03:30.640><c> H</c><00:03:30.910><c> of</c><00:03:31.570><c> x</c><00:03:31.780><c> equals</c><00:03:32.110><c> one</c>
+
+00:03:33.230 --> 00:03:33.240 align:start position:0%
+computation of your H of x equals one
+ 
+
+00:03:33.240 --> 00:03:35.420 align:start position:0%
+computation of your H of x equals one
+one<00:03:33.420><c> plus</c><00:03:33.720><c> e</c><00:03:33.960><c> to</c><00:03:34.020><c> the</c><00:03:34.230><c> negative</c><00:03:34.430><c> theta</c>
+
+00:03:35.420 --> 00:03:35.430 align:start position:0%
+one plus e to the negative theta
+ 
+
+00:03:35.430 --> 00:03:39.470 align:start position:0%
+one plus e to the negative theta
+transpose<00:03:36.090><c> X</c><00:03:36.480><c> where</c><00:03:37.050><c> as</c><00:03:37.860><c> usual</c><00:03:38.160><c> X</c><00:03:38.700><c> and</c><00:03:39.180><c> theta</c>
+
+00:03:39.470 --> 00:03:39.480 align:start position:0%
+transpose X where as usual X and theta
+ 
+
+00:03:39.480 --> 00:03:41.770 align:start position:0%
+transpose X where as usual X and theta
+are<00:03:39.990><c> our</c><00:03:40.260><c> parameter</c><00:03:40.860><c> vectors</c><00:03:41.190><c> like</c><00:03:41.370><c> certainly</c>
+
+00:03:41.770 --> 00:03:41.780 align:start position:0%
+are our parameter vectors like certainly
+ 
+
+00:03:41.780 --> 00:03:45.140 align:start position:0%
+are our parameter vectors like certainly
+so<00:03:42.780><c> this</c><00:03:43.080><c> is</c><00:03:43.230><c> a</c><00:03:43.380><c> very</c><00:03:43.920><c> simple</c><00:03:44.370><c> maybe</c><00:03:44.640><c> vastly</c>
+
+00:03:45.140 --> 00:03:45.150 align:start position:0%
+so this is a very simple maybe vastly
+ 
+
+00:03:45.150 --> 00:03:47.570 align:start position:0%
+so this is a very simple maybe vastly
+oversimplified<00:03:45.630><c> model</c><00:03:46.380><c> of</c><00:03:46.620><c> the</c><00:03:46.800><c> computation</c>
+
+00:03:47.570 --> 00:03:47.580 align:start position:0%
+oversimplified model of the computation
+ 
+
+00:03:47.580 --> 00:03:49.310 align:start position:0%
+oversimplified model of the computation
+that<00:03:47.610><c> the</c><00:03:47.910><c> neuron</c><00:03:48.270><c> does</c><00:03:48.480><c> where</c><00:03:48.840><c> it</c><00:03:48.960><c> gets</c><00:03:49.230><c> a</c>
+
+00:03:49.310 --> 00:03:49.320 align:start position:0%
+that the neuron does where it gets a
+ 
+
+00:03:49.320 --> 00:03:52.220 align:start position:0%
+that the neuron does where it gets a
+number<00:03:49.470><c> of</c><00:03:49.590><c> inputs</c><00:03:49.820><c> x1</c><00:03:50.820><c> x2</c><00:03:51.090><c> x3</c><00:03:51.330><c> and</c><00:03:51.510><c> it</c><00:03:51.870><c> outputs</c>
+
+00:03:52.220 --> 00:03:52.230 align:start position:0%
+number of inputs x1 x2 x3 and it outputs
+ 
+
+00:03:52.230 --> 00:03:59.520 align:start position:0%
+number of inputs x1 x2 x3 and it outputs
+some<00:03:52.500><c> value</c><00:03:52.980><c> computed</c><00:03:53.730><c> like</c><00:03:53.970><c> so</c>
+
+00:03:59.520 --> 00:03:59.530 align:start position:0%
+ 
+ 
+
+00:03:59.530 --> 00:04:02.310 align:start position:0%
+ 
+when<00:04:00.130><c> I</c><00:04:00.160><c> draw</c><00:04:00.550><c> a</c><00:04:00.820><c> neural</c><00:04:01.300><c> network</c><00:04:01.480><c> usually</c>
+
+00:04:02.310 --> 00:04:02.320 align:start position:0%
+when I draw a neural network usually
+ 
+
+00:04:02.320 --> 00:04:05.750 align:start position:0%
+when I draw a neural network usually
+I'll<00:04:02.590><c> draw</c><00:04:02.890><c> only</c><00:04:03.130><c> the</c><00:04:03.580><c> input</c><00:04:03.850><c> notes</c><00:04:04.210><c> x1</c><00:04:04.720><c> x2</c><00:04:05.050><c> x3</c>
+
+00:04:05.750 --> 00:04:05.760 align:start position:0%
+I'll draw only the input notes x1 x2 x3
+ 
+
+00:04:05.760 --> 00:04:08.190 align:start position:0%
+I'll draw only the input notes x1 x2 x3
+sometimes<00:04:06.760><c> one</c><00:04:07.000><c> is</c><00:04:07.030><c> useful</c><00:04:07.480><c> to</c><00:04:07.600><c> do</c><00:04:07.750><c> so</c><00:04:07.990><c> I'll</c>
+
+00:04:08.190 --> 00:04:08.200 align:start position:0%
+sometimes one is useful to do so I'll
+ 
+
+00:04:08.200 --> 00:04:12.120 align:start position:0%
+sometimes one is useful to do so I'll
+draw<00:04:08.470><c> an</c><00:04:08.530><c> extra</c><00:04:08.950><c> node</c><00:04:09.130><c> for</c><00:04:09.490><c> x0</c><00:04:10.200><c> this</c><00:04:11.200><c> x0</c><00:04:11.590><c> node</c>
+
+00:04:12.120 --> 00:04:12.130 align:start position:0%
+draw an extra node for x0 this x0 node
+ 
+
+00:04:12.130 --> 00:04:15.120 align:start position:0%
+draw an extra node for x0 this x0 node
+is<00:04:12.340><c> sometimes</c><00:04:12.760><c> called</c><00:04:13.060><c> the</c><00:04:13.210><c> bias</c><00:04:13.630><c> unit</c><00:04:14.320><c> or</c><00:04:14.980><c> the</c>
+
+00:04:15.120 --> 00:04:15.130 align:start position:0%
+is sometimes called the bias unit or the
+ 
+
+00:04:15.130 --> 00:04:19.770 align:start position:0%
+is sometimes called the bias unit or the
+bias<00:04:15.370><c> neuron</c><00:04:16.920><c> but</c><00:04:17.920><c> because</c><00:04:18.310><c> x0</c><00:04:19.150><c> is</c><00:04:19.420><c> always</c>
+
+00:04:19.770 --> 00:04:19.780 align:start position:0%
+bias neuron but because x0 is always
+ 
+
+00:04:19.780 --> 00:04:22.380 align:start position:0%
+bias neuron but because x0 is always
+equal<00:04:19.959><c> to</c><00:04:20.260><c> one</c><00:04:20.700><c> sometimes</c><00:04:21.700><c> I</c><00:04:21.850><c> draw</c><00:04:22.120><c> it</c><00:04:22.180><c> and</c>
+
+00:04:22.380 --> 00:04:22.390 align:start position:0%
+equal to one sometimes I draw it and
+ 
+
+00:04:22.390 --> 00:04:23.940 align:start position:0%
+equal to one sometimes I draw it and
+sometimes<00:04:22.780><c> I</c><00:04:22.930><c> won't</c><00:04:23.080><c> just</c><00:04:23.410><c> depending</c><00:04:23.830><c> on</c>
+
+00:04:23.940 --> 00:04:23.950 align:start position:0%
+sometimes I won't just depending on
+ 
+
+00:04:23.950 --> 00:04:26.400 align:start position:0%
+sometimes I won't just depending on
+whatever<00:04:24.490><c> is</c><00:04:24.790><c> more</c><00:04:24.970><c> notationally</c><00:04:25.840><c> convenient</c>
+
+00:04:26.400 --> 00:04:26.410 align:start position:0%
+whatever is more notationally convenient
+ 
+
+00:04:26.410 --> 00:04:31.100 align:start position:0%
+whatever is more notationally convenient
+for<00:04:26.770><c> that</c><00:04:27.000><c> further</c><00:04:28.000><c> for</c><00:04:28.270><c> that</c><00:04:28.390><c> example</c>
+
+00:04:31.100 --> 00:04:31.110 align:start position:0%
+ 
+ 
+
+00:04:31.110 --> 00:04:34.800 align:start position:0%
+ 
+finally<00:04:32.110><c> one</c><00:04:32.980><c> last</c><00:04:33.010><c> bit</c><00:04:33.430><c> of</c><00:04:33.460><c> terminology</c><00:04:33.810><c> when</c>
+
+00:04:34.800 --> 00:04:34.810 align:start position:0%
+finally one last bit of terminology when
+ 
+
+00:04:34.810 --> 00:04:37.080 align:start position:0%
+finally one last bit of terminology when
+we<00:04:34.930><c> talk</c><00:04:35.140><c> about</c><00:04:35.320><c> neural</c><00:04:35.650><c> networks</c><00:04:36.090><c> sometimes</c>
+
+00:04:37.080 --> 00:04:37.090 align:start position:0%
+we talk about neural networks sometimes
+ 
+
+00:04:37.090 --> 00:04:40.440 align:start position:0%
+we talk about neural networks sometimes
+we'll<00:04:37.330><c> say</c><00:04:37.540><c> that</c><00:04:37.960><c> this</c><00:04:38.620><c> is</c><00:04:38.980><c> a</c><00:04:39.250><c> neuron</c><00:04:40.180><c> or</c><00:04:40.210><c> an</c>
+
+00:04:40.440 --> 00:04:40.450 align:start position:0%
+we'll say that this is a neuron or an
+ 
+
+00:04:40.450 --> 00:04:42.900 align:start position:0%
+we'll say that this is a neuron or an
+artificial<00:04:40.840><c> neuron</c><00:04:41.350><c> with</c><00:04:41.919><c> a</c><00:04:42.040><c> sigmoid</c><00:04:42.580><c> or</c><00:04:42.880><c> a</c>
+
+00:04:42.900 --> 00:04:42.910 align:start position:0%
+artificial neuron with a sigmoid or a
+ 
+
+00:04:42.910 --> 00:04:45.150 align:start position:0%
+artificial neuron with a sigmoid or a
+logistic<00:04:43.480><c> activation</c><00:04:44.200><c> function</c><00:04:44.650><c> so</c><00:04:44.919><c> this</c>
+
+00:04:45.150 --> 00:04:45.160 align:start position:0%
+logistic activation function so this
+ 
+
+00:04:45.160 --> 00:04:47.820 align:start position:0%
+logistic activation function so this
+activation<00:04:45.790><c> function</c><00:04:46.390><c> in</c><00:04:46.600><c> the</c><00:04:47.380><c> neural</c>
+
+00:04:47.820 --> 00:04:47.830 align:start position:0%
+activation function in the neural
+ 
+
+00:04:47.830 --> 00:04:49.740 align:start position:0%
+activation function in the neural
+network<00:04:48.160><c> terminology</c><00:04:48.850><c> this</c><00:04:49.090><c> is</c><00:04:49.180><c> just</c><00:04:49.450><c> another</c>
+
+00:04:49.740 --> 00:04:49.750 align:start position:0%
+network terminology this is just another
+ 
+
+00:04:49.750 --> 00:04:52.110 align:start position:0%
+network terminology this is just another
+term<00:04:50.440><c> for</c><00:04:50.800><c> that</c><00:04:51.160><c> function</c><00:04:51.610><c> for</c><00:04:52.090><c> that</c>
+
+00:04:52.110 --> 00:04:52.120 align:start position:0%
+term for that function for that
+ 
+
+00:04:52.120 --> 00:04:55.440 align:start position:0%
+term for that function for that
+non-linearity<00:04:53.080><c> g</c><00:04:53.410><c> of</c><00:04:53.530><c> z</c><00:04:53.760><c> equals</c><00:04:54.760><c> 1</c><00:04:54.970><c> over</c><00:04:55.270><c> 1</c>
+
+00:04:55.440 --> 00:04:55.450 align:start position:0%
+non-linearity g of z equals 1 over 1
+ 
+
+00:04:55.450 --> 00:04:58.350 align:start position:0%
+non-linearity g of z equals 1 over 1
+plus<00:04:55.690><c> e</c><00:04:55.720><c> to</c><00:04:55.840><c> the</c><00:04:56.050><c> negative</c><00:04:56.230><c> Z</c><00:04:56.530><c> and</c><00:04:57.000><c> whereas</c><00:04:58.000><c> so</c>
+
+00:04:58.350 --> 00:04:58.360 align:start position:0%
+plus e to the negative Z and whereas so
+ 
+
+00:04:58.360 --> 00:05:00.900 align:start position:0%
+plus e to the negative Z and whereas so
+far<00:04:58.630><c> up</c><00:04:58.840><c> in</c><00:04:59.050><c> calling</c><00:04:59.500><c> theta</c><00:04:59.830><c> the</c><00:05:00.250><c> parameters</c>
+
+00:05:00.900 --> 00:05:00.910 align:start position:0%
+far up in calling theta the parameters
+ 
+
+00:05:00.910 --> 00:05:03.270 align:start position:0%
+far up in calling theta the parameters
+of<00:05:01.090><c> the</c><00:05:01.180><c> model</c><00:05:01.210><c> I'll</c><00:05:01.780><c> mostly</c><00:05:02.470><c> continue</c><00:05:02.980><c> to</c><00:05:03.100><c> use</c>
+
+00:05:03.270 --> 00:05:03.280 align:start position:0%
+of the model I'll mostly continue to use
+ 
+
+00:05:03.280 --> 00:05:05.040 align:start position:0%
+of the model I'll mostly continue to use
+that<00:05:03.310><c> terminology</c><00:05:03.910><c> to</c><00:05:04.360><c> calculate</c><00:05:04.840><c> the</c>
+
+00:05:05.040 --> 00:05:05.050 align:start position:0%
+that terminology to calculate the
+ 
+
+00:05:05.050 --> 00:05:07.770 align:start position:0%
+that terminology to calculate the
+parameters<00:05:05.280><c> but</c><00:05:06.280><c> in</c><00:05:06.520><c> neural</c><00:05:06.820><c> networks</c><00:05:07.240><c> in</c><00:05:07.600><c> the</c>
+
+00:05:07.770 --> 00:05:07.780 align:start position:0%
+parameters but in neural networks in the
+ 
+
+00:05:07.780 --> 00:05:09.930 align:start position:0%
+parameters but in neural networks in the
+neural<00:05:08.050><c> network</c><00:05:08.380><c> literature</c><00:05:08.890><c> sometimes</c><00:05:09.760><c> you</c>
+
+00:05:09.930 --> 00:05:09.940 align:start position:0%
+neural network literature sometimes you
+ 
+
+00:05:09.940 --> 00:05:12.090 align:start position:0%
+neural network literature sometimes you
+might<00:05:10.090><c> hear</c><00:05:10.270><c> people</c><00:05:10.630><c> talk</c><00:05:10.870><c> about</c><00:05:10.900><c> weights</c><00:05:11.770><c> of</c>
+
+00:05:12.090 --> 00:05:12.100 align:start position:0%
+might hear people talk about weights of
+ 
+
+00:05:12.100 --> 00:05:14.250 align:start position:0%
+might hear people talk about weights of
+the<00:05:12.190><c> model</c><00:05:12.550><c> and</c><00:05:12.729><c> weights</c><00:05:13.360><c> just</c><00:05:13.690><c> means</c><00:05:13.930><c> exactly</c>
+
+00:05:14.250 --> 00:05:14.260 align:start position:0%
+the model and weights just means exactly
+ 
+
+00:05:14.260 --> 00:05:16.710 align:start position:0%
+the model and weights just means exactly
+the<00:05:14.620><c> same</c><00:05:14.800><c> thing</c><00:05:15.010><c> as</c><00:05:15.419><c> parameters</c><00:05:16.419><c> of</c><00:05:16.630><c> a</c><00:05:16.690><c> model</c>
+
+00:05:16.710 --> 00:05:16.720 align:start position:0%
+the same thing as parameters of a model
+ 
+
+00:05:16.720 --> 00:05:18.930 align:start position:0%
+the same thing as parameters of a model
+but<00:05:17.350><c> are</c><00:05:17.650><c> mostly</c><00:05:17.919><c> considered</c><00:05:18.280><c> to</c><00:05:18.520><c> use</c><00:05:18.700><c> the</c>
+
+00:05:18.930 --> 00:05:18.940 align:start position:0%
+but are mostly considered to use the
+ 
+
+00:05:18.940 --> 00:05:21.330 align:start position:0%
+but are mostly considered to use the
+terminology<00:05:19.560><c> parameters</c><00:05:20.560><c> in</c><00:05:20.800><c> these</c><00:05:20.950><c> videos</c>
+
+00:05:21.330 --> 00:05:21.340 align:start position:0%
+terminology parameters in these videos
+ 
+
+00:05:21.340 --> 00:05:23.710 align:start position:0%
+terminology parameters in these videos
+but<00:05:21.640><c> sometimes</c><00:05:22.060><c> you</c><00:05:22.240><c> may</c><00:05:22.360><c> hear</c><00:05:22.600><c> others</c><00:05:23.260><c> use</c>
+
+00:05:23.710 --> 00:05:23.720 align:start position:0%
+but sometimes you may hear others use
+ 
+
+00:05:23.720 --> 00:05:29.410 align:start position:0%
+but sometimes you may hear others use
+wayde's<00:05:24.050><c> terminology</c><00:05:27.100><c> so</c><00:05:28.100><c> this</c><00:05:29.090><c> little</c>
+
+00:05:29.410 --> 00:05:29.420 align:start position:0%
+wayde's terminology so this little
+ 
+
+00:05:29.420 --> 00:05:34.630 align:start position:0%
+wayde's terminology so this little
+diagram<00:05:29.660><c> represents</c><00:05:30.560><c> a</c><00:05:30.710><c> single</c><00:05:31.190><c> neuron</c><00:05:33.640><c> what</c>
+
+00:05:34.630 --> 00:05:34.640 align:start position:0%
+diagram represents a single neuron what
+ 
+
+00:05:34.640 --> 00:05:38.650 align:start position:0%
+diagram represents a single neuron what
+a<00:05:34.670><c> neural</c><00:05:35.090><c> network</c><00:05:35.690><c> is</c><00:05:35.990><c> is</c><00:05:36.260><c> just</c><00:05:37.100><c> a</c><00:05:37.360><c> group</c><00:05:38.360><c> of</c>
+
+00:05:38.650 --> 00:05:38.660 align:start position:0%
+a neural network is is just a group of
+ 
+
+00:05:38.660 --> 00:05:41.100 align:start position:0%
+a neural network is is just a group of
+these<00:05:38.960><c> different</c><00:05:39.440><c> neurons</c><00:05:39.890><c> strung</c><00:05:40.490><c> together</c>
+
+00:05:41.100 --> 00:05:41.110 align:start position:0%
+these different neurons strung together
+ 
+
+00:05:41.110 --> 00:05:44.830 align:start position:0%
+these different neurons strung together
+concretely<00:05:42.110><c> here</c><00:05:42.650><c> we</c><00:05:42.830><c> have</c><00:05:43.100><c> input</c><00:05:43.460><c> units</c><00:05:44.330><c> X</c><00:05:44.570><c> 1</c>
+
+00:05:44.830 --> 00:05:44.840 align:start position:0%
+concretely here we have input units X 1
+ 
+
+00:05:44.840 --> 00:05:48.490 align:start position:0%
+concretely here we have input units X 1
+X<00:05:45.200><c> 2</c><00:05:45.380><c> X</c><00:05:45.860><c> 3</c><00:05:46.040><c> and</c><00:05:47.000><c> once</c><00:05:47.180><c> again</c><00:05:47.300><c> sometimes</c><00:05:48.080><c> we</c><00:05:48.320><c> can</c>
+
+00:05:48.490 --> 00:05:48.500 align:start position:0%
+X 2 X 3 and once again sometimes we can
+ 
+
+00:05:48.500 --> 00:05:51.250 align:start position:0%
+X 2 X 3 and once again sometimes we can
+draw<00:05:49.100><c> this</c><00:05:49.250><c> extra</c><00:05:49.760><c> node</c><00:05:49.970><c> X</c><00:05:50.330><c> 0</c><00:05:50.690><c> and</c><00:05:50.870><c> sometimes</c>
+
+00:05:51.250 --> 00:05:51.260 align:start position:0%
+draw this extra node X 0 and sometimes
+ 
+
+00:05:51.260 --> 00:05:54.670 align:start position:0%
+draw this extra node X 0 and sometimes
+not<00:05:51.470><c> so</c><00:05:51.530><c> just</c><00:05:51.950><c> draw</c><00:05:52.100><c> that</c><00:05:52.280><c> in</c><00:05:52.460><c> here</c><00:05:52.490><c> and</c><00:05:53.680><c> here</c>
+
+00:05:54.670 --> 00:05:54.680 align:start position:0%
+not so just draw that in here and here
+ 
+
+00:05:54.680 --> 00:05:57.820 align:start position:0%
+not so just draw that in here and here
+we<00:05:54.950><c> have</c><00:05:55.160><c> 3</c><00:05:55.520><c> neurons</c><00:05:56.000><c> which</c><00:05:56.750><c> have</c><00:05:56.930><c> written</c><00:05:57.440><c> you</c>
+
+00:05:57.820 --> 00:05:57.830 align:start position:0%
+we have 3 neurons which have written you
+ 
+
+00:05:57.830 --> 00:05:59.980 align:start position:0%
+we have 3 neurons which have written you
+know<00:05:57.860><c> 81</c><00:05:58.460><c> 82</c><00:05:58.730><c> 83</c><00:05:58.850><c> you</c><00:05:59.420><c> have</c><00:05:59.600><c> talked</c><00:05:59.870><c> about</c>
+
+00:05:59.980 --> 00:05:59.990 align:start position:0%
+know 81 82 83 you have talked about
+ 
+
+00:05:59.990 --> 00:06:02.830 align:start position:0%
+know 81 82 83 you have talked about
+those<00:06:00.200><c> indices</c><00:06:00.620><c> later</c><00:06:00.890><c> and</c><00:06:01.310><c> once</c><00:06:02.150><c> again</c><00:06:02.270><c> you</c>
+
+00:06:02.830 --> 00:06:02.840 align:start position:0%
+those indices later and once again you
+ 
+
+00:06:02.840 --> 00:06:06.010 align:start position:0%
+those indices later and once again you
+know<00:06:02.960><c> we</c><00:06:03.260><c> can</c><00:06:03.500><c> we</c><00:06:03.740><c> want</c><00:06:03.950><c> add</c><00:06:04.400><c> in</c><00:06:04.760><c> this</c><00:06:04.940><c> a</c><00:06:05.090><c> 0</c><00:06:05.720><c> and</c>
+
+00:06:06.010 --> 00:06:06.020 align:start position:0%
+know we can we want add in this a 0 and
+ 
+
+00:06:06.020 --> 00:06:10.390 align:start position:0%
+know we can we want add in this a 0 and
+add<00:06:06.920><c> an</c><00:06:07.160><c> extra</c><00:06:07.490><c> bias</c><00:06:08.420><c> unit</c><00:06:08.840><c> there</c><00:06:09.400><c> there's</c>
+
+00:06:10.390 --> 00:06:10.400 align:start position:0%
+add an extra bias unit there there's
+ 
+
+00:06:10.400 --> 00:06:12.700 align:start position:0%
+add an extra bias unit there there's
+always<00:06:10.610><c> outputs</c><00:06:11.270><c> the</c><00:06:11.360><c> value</c><00:06:11.390><c> of</c><00:06:11.750><c> 1</c><00:06:11.960><c> and</c><00:06:12.200><c> then</c>
+
+00:06:12.700 --> 00:06:12.710 align:start position:0%
+always outputs the value of 1 and then
+ 
+
+00:06:12.710 --> 00:06:14.790 align:start position:0%
+always outputs the value of 1 and then
+finally<00:06:13.220><c> we</c><00:06:13.400><c> have</c><00:06:13.610><c> this</c><00:06:13.820><c> third</c><00:06:13.880><c> node</c><00:06:14.390><c> at</c><00:06:14.720><c> the</c>
+
+00:06:14.790 --> 00:06:14.800 align:start position:0%
+finally we have this third node at the
+ 
+
+00:06:14.800 --> 00:06:17.620 align:start position:0%
+finally we have this third node at the
+final<00:06:15.800><c> layer</c><00:06:15.980><c> and</c><00:06:16.310><c> is</c><00:06:16.790><c> the</c><00:06:16.910><c> sterno</c><00:06:17.390><c> that</c>
+
+00:06:17.620 --> 00:06:17.630 align:start position:0%
+final layer and is the sterno that
+ 
+
+00:06:17.630 --> 00:06:20.560 align:start position:0%
+final layer and is the sterno that
+outputs<00:06:18.110><c> the</c><00:06:18.620><c> value</c><00:06:18.650><c> that</c><00:06:19.400><c> our</c><00:06:19.580><c> hypothesis</c><00:06:20.300><c> H</c>
+
+00:06:20.560 --> 00:06:20.570 align:start position:0%
+outputs the value that our hypothesis H
+ 
+
+00:06:20.570 --> 00:06:23.650 align:start position:0%
+outputs the value that our hypothesis H
+of<00:06:20.750><c> X</c><00:06:20.930><c> computes</c><00:06:21.500><c> to</c><00:06:22.460><c> introduce</c><00:06:23.300><c> a</c><00:06:23.450><c> bit</c><00:06:23.630><c> more</c>
+
+00:06:23.650 --> 00:06:23.660 align:start position:0%
+of X computes to introduce a bit more
+ 
+
+00:06:23.660 --> 00:06:26.020 align:start position:0%
+of X computes to introduce a bit more
+terminology<00:06:23.840><c> in</c><00:06:24.800><c> a</c><00:06:25.250><c> neural</c><00:06:25.490><c> network</c><00:06:25.940><c> the</c>
+
+00:06:26.020 --> 00:06:26.030 align:start position:0%
+terminology in a neural network the
+ 
+
+00:06:26.030 --> 00:06:28.390 align:start position:0%
+terminology in a neural network the
+first<00:06:26.180><c> layer</c><00:06:26.720><c> this</c><00:06:27.470><c> is</c><00:06:27.590><c> also</c><00:06:27.800><c> called</c><00:06:28.250><c> the</c>
+
+00:06:28.390 --> 00:06:28.400 align:start position:0%
+first layer this is also called the
+ 
+
+00:06:28.400 --> 00:06:30.520 align:start position:0%
+first layer this is also called the
+input<00:06:28.970><c> layer</c><00:06:29.210><c> because</c><00:06:29.750><c> this</c><00:06:29.960><c> is</c><00:06:30.110><c> where</c><00:06:30.320><c> we</c>
+
+00:06:30.520 --> 00:06:30.530 align:start position:0%
+input layer because this is where we
+ 
+
+00:06:30.530 --> 00:06:34.990 align:start position:0%
+input layer because this is where we
+input<00:06:31.460><c> our</c><00:06:31.820><c> features</c><00:06:32.480><c> X</c><00:06:33.140><c> 1</c><00:06:33.320><c> X</c><00:06:33.470><c> 2</c><00:06:33.500><c> X</c><00:06:33.710><c> 3</c><00:06:33.800><c> the</c><00:06:34.790><c> final</c>
+
+00:06:34.990 --> 00:06:35.000 align:start position:0%
+input our features X 1 X 2 X 3 the final
+ 
+
+00:06:35.000 --> 00:06:37.330 align:start position:0%
+input our features X 1 X 2 X 3 the final
+layer<00:06:35.360><c> is</c><00:06:35.720><c> also</c><00:06:36.230><c> called</c><00:06:36.560><c> the</c><00:06:36.740><c> output</c><00:06:37.220><c> layer</c>
+
+00:06:37.330 --> 00:06:37.340 align:start position:0%
+layer is also called the output layer
+ 
+
+00:06:37.340 --> 00:06:40.750 align:start position:0%
+layer is also called the output layer
+because<00:06:38.080><c> that</c><00:06:39.080><c> layer</c><00:06:39.380><c> has</c><00:06:39.770><c> the</c><00:06:39.950><c> neuron</c><00:06:40.340><c> this</c>
+
+00:06:40.750 --> 00:06:40.760 align:start position:0%
+because that layer has the neuron this
+ 
+
+00:06:40.760 --> 00:06:42.880 align:start position:0%
+because that layer has the neuron this
+one<00:06:41.000><c> over</c><00:06:41.180><c> here</c><00:06:41.450><c> that</c><00:06:41.570><c> outputs</c><00:06:42.350><c> the</c><00:06:42.470><c> final</c>
+
+00:06:42.880 --> 00:06:42.890 align:start position:0%
+one over here that outputs the final
+ 
+
+00:06:42.890 --> 00:06:44.920 align:start position:0%
+one over here that outputs the final
+value<00:06:43.250><c> computed</c><00:06:43.640><c> by</c><00:06:43.910><c> our</c><00:06:44.030><c> hypothesis</c><00:06:44.690><c> and</c>
+
+00:06:44.920 --> 00:06:44.930 align:start position:0%
+value computed by our hypothesis and
+ 
+
+00:06:44.930 --> 00:06:48.310 align:start position:0%
+value computed by our hypothesis and
+then<00:06:45.710><c> layer</c><00:06:46.370><c> 2</c><00:06:46.700><c> in</c><00:06:46.940><c> between</c><00:06:47.090><c> this</c><00:06:47.810><c> is</c><00:06:48.020><c> called</c>
+
+00:06:48.310 --> 00:06:48.320 align:start position:0%
+then layer 2 in between this is called
+ 
+
+00:06:48.320 --> 00:06:50.800 align:start position:0%
+then layer 2 in between this is called
+the<00:06:48.500><c> hidden</c><00:06:48.860><c> layer</c><00:06:49.070><c> the</c><00:06:49.940><c> term</c><00:06:50.180><c> hidden</c><00:06:50.600><c> layer</c>
+
+00:06:50.800 --> 00:06:50.810 align:start position:0%
+the hidden layer the term hidden layer
+ 
+
+00:06:50.810 --> 00:06:54.250 align:start position:0%
+the hidden layer the term hidden layer
+isn't<00:06:51.350><c> a</c><00:06:51.410><c> great</c><00:06:51.680><c> terminology</c><00:06:52.580><c> but</c><00:06:53.240><c> this</c><00:06:53.780><c> India</c>
+
+00:06:54.250 --> 00:06:54.260 align:start position:0%
+isn't a great terminology but this India
+ 
+
+00:06:54.260 --> 00:06:56.500 align:start position:0%
+isn't a great terminology but this India
+tuition<00:06:54.770><c> is</c><00:06:55.040><c> that</c><00:06:55.250><c> you</c><00:06:55.760><c> know</c><00:06:55.880><c> in</c><00:06:56.090><c> supervised</c>
+
+00:06:56.500 --> 00:06:56.510 align:start position:0%
+tuition is that you know in supervised
+ 
+
+00:06:56.510 --> 00:06:58.510 align:start position:0%
+tuition is that you know in supervised
+learning<00:06:56.540><c> what</c><00:06:57.440><c> you</c><00:06:57.560><c> get</c><00:06:57.740><c> to</c><00:06:57.860><c> see</c><00:06:57.890><c> the</c><00:06:58.130><c> inputs</c>
+
+00:06:58.510 --> 00:06:58.520 align:start position:0%
+learning what you get to see the inputs
+ 
+
+00:06:58.520 --> 00:07:00.250 align:start position:0%
+learning what you get to see the inputs
+you<00:06:58.669><c> get</c><00:06:58.940><c> to</c><00:06:59.090><c> see</c><00:06:59.270><c> the</c><00:06:59.450><c> correct</c><00:06:59.750><c> outputs</c>
+
+00:07:00.250 --> 00:07:00.260 align:start position:0%
+you get to see the correct outputs
+ 
+
+00:07:00.260 --> 00:07:02.680 align:start position:0%
+you get to see the correct outputs
+whereas<00:07:00.890><c> the</c><00:07:00.979><c> hidden</c><00:07:01.280><c> layer</c><00:07:01.490><c> are</c><00:07:01.940><c> values</c><00:07:02.479><c> you</c>
+
+00:07:02.680 --> 00:07:02.690 align:start position:0%
+whereas the hidden layer are values you
+ 
+
+00:07:02.690 --> 00:07:04.500 align:start position:0%
+whereas the hidden layer are values you
+don't<00:07:02.870><c> get</c><00:07:03.020><c> to</c><00:07:03.169><c> observe</c><00:07:03.470><c> in</c><00:07:03.650><c> the</c><00:07:03.710><c> training</c><00:07:04.040><c> set</c>
+
+00:07:04.500 --> 00:07:04.510 align:start position:0%
+don't get to observe in the training set
+ 
+
+00:07:04.510 --> 00:07:06.960 align:start position:0%
+don't get to observe in the training set
+it's<00:07:04.690><c> not</c><00:07:04.870><c> X</c><00:07:05.140><c> and</c><00:07:05.380><c> it's</c><00:07:05.500><c> not</c><00:07:05.530><c> Y</c><00:07:05.650><c> and</c><00:07:06.250><c> so</c><00:07:06.580><c> we</c><00:07:06.760><c> call</c>
+
+00:07:06.960 --> 00:07:06.970 align:start position:0%
+it's not X and it's not Y and so we call
+ 
+
+00:07:06.970 --> 00:07:09.690 align:start position:0%
+it's not X and it's not Y and so we call
+those<00:07:07.120><c> hidden</c><00:07:07.180><c> and</c><00:07:08.250><c> later</c><00:07:09.250><c> on</c><00:07:09.460><c> we'll</c><00:07:09.670><c> see</c>
+
+00:07:09.690 --> 00:07:09.700 align:start position:0%
+those hidden and later on we'll see
+ 
+
+00:07:09.700 --> 00:07:11.430 align:start position:0%
+those hidden and later on we'll see
+neural<00:07:10.120><c> networks</c><00:07:10.510><c> with</c><00:07:10.690><c> more</c><00:07:11.050><c> than</c><00:07:11.200><c> one</c>
+
+00:07:11.430 --> 00:07:11.440 align:start position:0%
+neural networks with more than one
+ 
+
+00:07:11.440 --> 00:07:14.130 align:start position:0%
+neural networks with more than one
+hidden<00:07:11.680><c> layer</c><00:07:11.830><c> but</c><00:07:12.610><c> in</c><00:07:13.000><c> this</c><00:07:13.180><c> example</c><00:07:13.570><c> we</c><00:07:13.930><c> have</c>
+
+00:07:14.130 --> 00:07:14.140 align:start position:0%
+hidden layer but in this example we have
+ 
+
+00:07:14.140 --> 00:07:16.170 align:start position:0%
+hidden layer but in this example we have
+one<00:07:14.410><c> input</c><00:07:14.590><c> layer</c><00:07:14.980><c> they</c><00:07:15.280><c> are</c><00:07:15.370><c> one</c><00:07:15.580><c> one</c><00:07:15.850><c> hidden</c>
+
+00:07:16.170 --> 00:07:16.180 align:start position:0%
+one input layer they are one one hidden
+ 
+
+00:07:16.180 --> 00:07:18.360 align:start position:0%
+one input layer they are one one hidden
+layer<00:07:16.300><c> layer</c><00:07:16.750><c> two</c><00:07:16.960><c> and</c><00:07:17.170><c> one</c><00:07:17.650><c> output</c><00:07:17.920><c> there</c>
+
+00:07:18.360 --> 00:07:18.370 align:start position:0%
+layer layer two and one output there
+ 
+
+00:07:18.370 --> 00:07:20.190 align:start position:0%
+layer layer two and one output there
+they<00:07:18.820><c> are</c><00:07:18.940><c> three</c><00:07:19.270><c> but</c><00:07:19.570><c> basically</c><00:07:19.900><c> anything</c>
+
+00:07:20.190 --> 00:07:20.200 align:start position:0%
+they are three but basically anything
+ 
+
+00:07:20.200 --> 00:07:22.230 align:start position:0%
+they are three but basically anything
+that<00:07:20.380><c> isn't</c><00:07:20.860><c> an</c><00:07:20.980><c> input</c><00:07:21.280><c> layer</c><00:07:21.430><c> and</c><00:07:21.490><c> isn't</c><00:07:22.120><c> an</c>
+
+00:07:22.230 --> 00:07:22.240 align:start position:0%
+that isn't an input layer and isn't an
+ 
+
+00:07:22.240 --> 00:07:29.610 align:start position:0%
+that isn't an input layer and isn't an
+upper<00:07:22.570><c> layer</c><00:07:22.750><c> is</c><00:07:23.080><c> called</c><00:07:23.860><c> a</c><00:07:24.100><c> hidden</c><00:07:24.130><c> layer</c><00:07:28.620><c> so</c>
+
+00:07:29.610 --> 00:07:29.620 align:start position:0%
+upper layer is called a hidden layer so
+ 
+
+00:07:29.620 --> 00:07:31.380 align:start position:0%
+upper layer is called a hidden layer so
+I<00:07:29.890><c> want</c><00:07:30.070><c> to</c><00:07:30.130><c> be</c><00:07:30.220><c> really</c><00:07:30.610><c> clear</c><00:07:30.880><c> about</c><00:07:31.150><c> what</c>
+
+00:07:31.380 --> 00:07:31.390 align:start position:0%
+I want to be really clear about what
+ 
+
+00:07:31.390 --> 00:07:34.560 align:start position:0%
+I want to be really clear about what
+this<00:07:32.110><c> neural</c><00:07:32.500><c> network</c><00:07:32.530><c> is</c><00:07:33.070><c> doing</c><00:07:33.280><c> let's</c><00:07:34.180><c> step</c>
+
+00:07:34.560 --> 00:07:34.570 align:start position:0%
+this neural network is doing let's step
+ 
+
+00:07:34.570 --> 00:07:36.780 align:start position:0%
+this neural network is doing let's step
+through<00:07:34.750><c> the</c><00:07:34.840><c> computational</c><00:07:35.800><c> steps</c><00:07:36.040><c> that</c><00:07:36.490><c> are</c>
+
+00:07:36.780 --> 00:07:36.790 align:start position:0%
+through the computational steps that are
+ 
+
+00:07:36.790 --> 00:07:40.140 align:start position:0%
+through the computational steps that are
+embodied<00:07:37.690><c> by</c><00:07:38.200><c> this</c><00:07:38.940><c> represented</c><00:07:39.940><c> by</c><00:07:40.090><c> this</c>
+
+00:07:40.140 --> 00:07:40.150 align:start position:0%
+embodied by this represented by this
+ 
+
+00:07:40.150 --> 00:07:42.810 align:start position:0%
+embodied by this represented by this
+diagram<00:07:40.780><c> to</c><00:07:41.710><c> explain</c><00:07:41.740><c> the</c><00:07:42.370><c> specific</c>
+
+00:07:42.810 --> 00:07:42.820 align:start position:0%
+diagram to explain the specific
+ 
+
+00:07:42.820 --> 00:07:44.790 align:start position:0%
+diagram to explain the specific
+computation<00:07:43.360><c> is</c><00:07:43.660><c> represented</c><00:07:44.290><c> by</c><00:07:44.320><c> a</c><00:07:44.500><c> neural</c>
+
+00:07:44.790 --> 00:07:44.800 align:start position:0%
+computation is represented by a neural
+ 
+
+00:07:44.800 --> 00:07:46.530 align:start position:0%
+computation is represented by a neural
+network<00:07:44.950><c> here's</c><00:07:45.760><c> a</c><00:07:45.850><c> little</c><00:07:46.210><c> bit</c><00:07:46.300><c> more</c>
+
+00:07:46.530 --> 00:07:46.540 align:start position:0%
+network here's a little bit more
+ 
+
+00:07:46.540 --> 00:07:48.720 align:start position:0%
+network here's a little bit more
+notation<00:07:46.930><c> I'm</c><00:07:47.410><c> going</c><00:07:47.470><c> to</c><00:07:47.710><c> use</c><00:07:47.950><c> a</c><00:07:48.160><c> superscript</c>
+
+00:07:48.720 --> 00:07:48.730 align:start position:0%
+notation I'm going to use a superscript
+ 
+
+00:07:48.730 --> 00:07:51.990 align:start position:0%
+notation I'm going to use a superscript
+J<00:07:49.150><c> subscript</c><00:07:49.510><c> Y</c><00:07:49.840><c> to</c><00:07:50.530><c> denote</c><00:07:50.680><c> the</c><00:07:51.160><c> activation</c>
+
+00:07:51.990 --> 00:07:52.000 align:start position:0%
+J subscript Y to denote the activation
+ 
+
+00:07:52.000 --> 00:07:57.030 align:start position:0%
+J subscript Y to denote the activation
+of<00:07:52.500><c> neuron</c><00:07:53.500><c> I</c><00:07:53.710><c> or</c><00:07:54.160><c> of</c><00:07:54.310><c> Units</c><00:07:54.760><c> I</c><00:07:55.000><c> in</c><00:07:55.300><c> layer</c><00:07:55.570><c> J</c><00:07:56.040><c> so</c>
+
+00:07:57.030 --> 00:07:57.040 align:start position:0%
+of neuron I or of Units I in layer J so
+ 
+
+00:07:57.040 --> 00:08:00.450 align:start position:0%
+of neuron I or of Units I in layer J so
+concretely<00:07:57.700><c> this</c><00:07:58.480><c> a</c><00:07:59.250><c> superscript</c><00:08:00.250><c> to</c>
+
+00:08:00.450 --> 00:08:00.460 align:start position:0%
+concretely this a superscript to
+ 
+
+00:08:00.460 --> 00:08:03.050 align:start position:0%
+concretely this a superscript to
+subscript<00:08:01.240><c> one</c><00:08:01.420><c> that's</c><00:08:01.750><c> the</c><00:08:01.960><c> activation</c><00:08:02.650><c> of</c>
+
+00:08:03.050 --> 00:08:03.060 align:start position:0%
+subscript one that's the activation of
+ 
+
+00:08:03.060 --> 00:08:06.060 align:start position:0%
+subscript one that's the activation of
+the<00:08:04.060><c> first</c><00:08:04.330><c> unit</c><00:08:04.720><c> in</c><00:08:04.990><c> layer</c><00:08:05.230><c> two</c><00:08:05.530><c> in</c><00:08:05.770><c> our</c>
+
+00:08:06.060 --> 00:08:06.070 align:start position:0%
+the first unit in layer two in our
+ 
+
+00:08:06.070 --> 00:08:08.610 align:start position:0%
+the first unit in layer two in our
+hidden<00:08:06.310><c> layer</c><00:08:06.610><c> and</c><00:08:06.940><c> by</c><00:08:07.450><c> activation</c><00:08:07.960><c> I</c><00:08:08.350><c> just</c>
+
+00:08:08.610 --> 00:08:08.620 align:start position:0%
+hidden layer and by activation I just
+ 
+
+00:08:08.620 --> 00:08:10.680 align:start position:0%
+hidden layer and by activation I just
+mean<00:08:08.800><c> you</c><00:08:09.100><c> know</c><00:08:09.130><c> the</c><00:08:09.340><c> value</c><00:08:09.760><c> that</c><00:08:09.970><c> is</c><00:08:10.090><c> computed</c>
+
+00:08:10.680 --> 00:08:10.690 align:start position:0%
+mean you know the value that is computed
+ 
+
+00:08:10.690 --> 00:08:13.020 align:start position:0%
+mean you know the value that is computed
+by<00:08:10.870><c> and</c><00:08:11.200><c> that</c><00:08:11.380><c> is</c><00:08:11.500><c> output</c><00:08:11.920><c> by</c><00:08:11.950><c> a</c><00:08:12.190><c> specific</c><00:08:12.670><c> in</c>
+
+00:08:13.020 --> 00:08:13.030 align:start position:0%
+by and that is output by a specific in
+ 
+
+00:08:13.030 --> 00:08:15.690 align:start position:0%
+by and that is output by a specific in
+addition<00:08:13.840><c> on</c><00:08:14.050><c> your</c><00:08:14.110><c> network</c><00:08:14.770><c> is</c><00:08:14.980><c> parameterize</c>
+
+00:08:15.690 --> 00:08:15.700 align:start position:0%
+addition on your network is parameterize
+ 
+
+00:08:15.700 --> 00:08:18.690 align:start position:0%
+addition on your network is parameterize
+by<00:08:15.760><c> these</c><00:08:16.510><c> matrices</c><00:08:17.320><c> theta</c><00:08:17.770><c> a</c><00:08:17.980><c> superscript</c><00:08:18.640><c> j</c>
+
+00:08:18.690 --> 00:08:18.700 align:start position:0%
+by these matrices theta a superscript j
+ 
+
+00:08:18.700 --> 00:08:21.780 align:start position:0%
+by these matrices theta a superscript j
+where<00:08:19.660><c> theta</c><00:08:19.900><c> j</c><00:08:20.230><c> is</c><00:08:20.470><c> going</c><00:08:20.710><c> to</c><00:08:20.860><c> be</c><00:08:20.980><c> a</c><00:08:21.190><c> matrix</c><00:08:21.670><c> of</c>
+
+00:08:21.780 --> 00:08:21.790 align:start position:0%
+where theta j is going to be a matrix of
+ 
+
+00:08:21.790 --> 00:08:23.520 align:start position:0%
+where theta j is going to be a matrix of
+ways<00:08:22.030><c> controlling</c><00:08:22.720><c> the</c><00:08:22.840><c> function</c><00:08:23.200><c> mapping</c>
+
+00:08:23.520 --> 00:08:23.530 align:start position:0%
+ways controlling the function mapping
+ 
+
+00:08:23.530 --> 00:08:26.190 align:start position:0%
+ways controlling the function mapping
+from<00:08:23.980><c> one</c><00:08:24.280><c> layer</c><00:08:24.550><c> we</c><00:08:24.910><c> do</c><00:08:25.060><c> the</c><00:08:25.210><c> first</c><00:08:25.840><c> layer</c><00:08:26.080><c> to</c>
+
+00:08:26.190 --> 00:08:26.200 align:start position:0%
+from one layer we do the first layer to
+ 
+
+00:08:26.200 --> 00:08:27.900 align:start position:0%
+from one layer we do the first layer to
+the<00:08:26.500><c> second</c><00:08:26.860><c> layer</c><00:08:26.890><c> or</c><00:08:27.220><c> for</c><00:08:27.400><c> the</c><00:08:27.460><c> second</c><00:08:27.820><c> layer</c>
+
+00:08:27.900 --> 00:08:27.910 align:start position:0%
+the second layer or for the second layer
+ 
+
+00:08:27.910 --> 00:08:29.190 align:start position:0%
+the second layer or for the second layer
+to<00:08:28.150><c> the</c>
+
+00:08:29.190 --> 00:08:29.200 align:start position:0%
+to the
+ 
+
+00:08:29.200 --> 00:08:31.920 align:start position:0%
+to the
+so<00:08:30.190><c> here</c><00:08:30.610><c> are</c><00:08:30.700><c> the</c><00:08:30.760><c> computations</c><00:08:31.540><c> that</c><00:08:31.720><c> are</c>
+
+00:08:31.920 --> 00:08:31.930 align:start position:0%
+so here are the computations that are
+ 
+
+00:08:31.930 --> 00:08:35.100 align:start position:0%
+so here are the computations that are
+represented<00:08:32.590><c> by</c><00:08:32.620><c> this</c><00:08:32.830><c> diagram</c><00:08:33.720><c> this</c><00:08:34.720><c> first</c>
+
+00:08:35.100 --> 00:08:35.110 align:start position:0%
+represented by this diagram this first
+ 
+
+00:08:35.110 --> 00:08:38.370 align:start position:0%
+represented by this diagram this first
+hidden<00:08:35.350><c> unit</c><00:08:35.500><c> here</c><00:08:36.510><c> passes</c><00:08:37.510><c> value</c><00:08:37.930><c> computed</c>
+
+00:08:38.370 --> 00:08:38.380 align:start position:0%
+hidden unit here passes value computed
+ 
+
+00:08:38.380 --> 00:08:41.880 align:start position:0%
+hidden unit here passes value computed
+as<00:08:38.740><c> follows</c><00:08:38.770><c> as</c><00:08:39.580><c> a</c><00:08:39.610><c> a21</c><00:08:40.450><c> is</c><00:08:40.600><c> equal</c><00:08:40.930><c> to</c><00:08:41.080><c> the</c>
+
+00:08:41.880 --> 00:08:41.890 align:start position:0%
+as follows as a a21 is equal to the
+ 
+
+00:08:41.890 --> 00:08:43.410 align:start position:0%
+as follows as a a21 is equal to the
+sigmoid<00:08:42.400><c> function</c><00:08:42.820><c> of</c><00:08:42.970><c> the</c><00:08:43.060><c> sigmoid</c>
+
+00:08:43.410 --> 00:08:43.420 align:start position:0%
+sigmoid function of the sigmoid
+ 
+
+00:08:43.420 --> 00:08:45.480 align:start position:0%
+sigmoid function of the sigmoid
+activation<00:08:43.600><c> function</c><00:08:44.190><c> also</c><00:08:45.190><c> called</c><00:08:45.370><c> the</c>
+
+00:08:45.480 --> 00:08:45.490 align:start position:0%
+activation function also called the
+ 
+
+00:08:45.490 --> 00:08:48.620 align:start position:0%
+activation function also called the
+logistic<00:08:45.670><c> activation</c><00:08:46.540><c> function</c><00:08:47.160><c> apply</c><00:08:48.160><c> to</c>
+
+00:08:48.620 --> 00:08:48.630 align:start position:0%
+logistic activation function apply to
+ 
+
+00:08:48.630 --> 00:08:52.290 align:start position:0%
+logistic activation function apply to
+this<00:08:49.630><c> sort</c><00:08:49.960><c> of</c><00:08:50.110><c> a</c><00:08:50.350><c> linear</c><00:08:51.190><c> combination</c><00:08:51.430><c> of</c><00:08:51.910><c> as</c>
+
+00:08:52.290 --> 00:08:52.300 align:start position:0%
+this sort of a linear combination of as
+ 
+
+00:08:52.300 --> 00:08:56.870 align:start position:0%
+this sort of a linear combination of as
+inputs<00:08:52.810><c> and</c><00:08:53.220><c> then</c><00:08:54.270><c> this</c><00:08:55.440><c> second</c><00:08:56.440><c> hidden</c><00:08:56.560><c> unit</c>
+
+00:08:56.870 --> 00:08:56.880 align:start position:0%
+inputs and then this second hidden unit
+ 
+
+00:08:56.880 --> 00:09:00.390 align:start position:0%
+inputs and then this second hidden unit
+has<00:08:57.880><c> this</c><00:08:58.210><c> activation</c><00:08:58.930><c> value</c><00:08:59.410><c> computed</c><00:08:59.920><c> as</c>
+
+00:09:00.390 --> 00:09:00.400 align:start position:0%
+has this activation value computed as
+ 
+
+00:09:00.400 --> 00:09:04.230 align:start position:0%
+has this activation value computed as
+sigmoid<00:09:01.000><c> of</c><00:09:01.300><c> this</c><00:09:01.600><c> and</c><00:09:02.160><c> similarly</c><00:09:03.160><c> for</c><00:09:04.120><c> this</c>
+
+00:09:04.230 --> 00:09:04.240 align:start position:0%
+sigmoid of this and similarly for this
+ 
+
+00:09:04.240 --> 00:09:06.690 align:start position:0%
+sigmoid of this and similarly for this
+third<00:09:04.540><c> hidden</c><00:09:04.900><c> unit</c><00:09:05.260><c> is</c><00:09:05.500><c> computed</c><00:09:06.100><c> by</c><00:09:06.400><c> that</c>
+
+00:09:06.690 --> 00:09:06.700 align:start position:0%
+third hidden unit is computed by that
+ 
+
+00:09:06.700 --> 00:09:11.130 align:start position:0%
+third hidden unit is computed by that
+formula<00:09:07.000><c> so</c><00:09:07.890><c> here</c><00:09:08.890><c> we</c><00:09:09.160><c> have</c><00:09:09.400><c> three</c><00:09:10.360><c> input</c>
+
+00:09:11.130 --> 00:09:11.140 align:start position:0%
+formula so here we have three input
+ 
+
+00:09:11.140 --> 00:09:18.410 align:start position:0%
+formula so here we have three input
+units<00:09:11.560><c> and</c><00:09:12.360><c> three</c><00:09:13.360><c> hidden</c><00:09:13.810><c> units</c><00:09:14.520><c> and</c><00:09:16.800><c> so</c><00:09:17.800><c> the</c>
+
+00:09:18.410 --> 00:09:18.420 align:start position:0%
+units and three hidden units and so the
+ 
+
+00:09:18.420 --> 00:09:21.570 align:start position:0%
+units and three hidden units and so the
+dimension<00:09:19.420><c> of</c><00:09:19.630><c> theta</c><00:09:20.200><c> one</c><00:09:20.620><c> which</c><00:09:21.040><c> is</c><00:09:21.250><c> the</c>
+
+00:09:21.570 --> 00:09:21.580 align:start position:0%
+dimension of theta one which is the
+ 
+
+00:09:21.580 --> 00:09:23.730 align:start position:0%
+dimension of theta one which is the
+matrix<00:09:22.240><c> of</c><00:09:22.570><c> parameters</c><00:09:23.080><c> governing</c><00:09:23.620><c> our</c>
+
+00:09:23.730 --> 00:09:23.740 align:start position:0%
+matrix of parameters governing our
+ 
+
+00:09:23.740 --> 00:09:25.680 align:start position:0%
+matrix of parameters governing our
+mapping<00:09:24.160><c> from</c><00:09:24.370><c> all</c><00:09:24.610><c> three</c><00:09:24.880><c> input</c><00:09:25.210><c> units</c><00:09:25.540><c> the</c>
+
+00:09:25.680 --> 00:09:25.690 align:start position:0%
+mapping from all three input units the
+ 
+
+00:09:25.690 --> 00:09:28.200 align:start position:0%
+mapping from all three input units the
+three<00:09:25.930><c> hidden</c><00:09:26.110><c> units</c><00:09:26.500><c> theta</c><00:09:27.280><c> one</c><00:09:27.670><c> it</c><00:09:27.910><c> is</c><00:09:28.030><c> going</c>
+
+00:09:28.200 --> 00:09:28.210 align:start position:0%
+three hidden units theta one it is going
+ 
+
+00:09:28.210 --> 00:09:34.780 align:start position:0%
+three hidden units theta one it is going
+to<00:09:28.360><c> be</c><00:09:28.510><c> a</c><00:09:29.070><c> three</c>
+
+00:09:34.780 --> 00:09:34.790 align:start position:0%
+ 
+ 
+
+00:09:34.790 --> 00:09:39.670 align:start position:0%
+ 
+theta<00:09:35.790><c> one</c><00:09:36.090><c> is</c><00:09:36.330><c> going</c><00:09:36.870><c> to</c><00:09:37.050><c> be</c><00:09:37.170><c> a</c><00:09:37.410><c> three</c><00:09:38.310><c> by</c><00:09:38.340><c> four</c>
+
+00:09:39.670 --> 00:09:39.680 align:start position:0%
+theta one is going to be a three by four
+ 
+
+00:09:39.680 --> 00:09:43.400 align:start position:0%
+theta one is going to be a three by four
+dimensional<00:09:40.680><c> matrix</c><00:09:41.070><c> and</c><00:09:41.600><c> more</c><00:09:42.600><c> generally</c><00:09:43.200><c> if</c>
+
+00:09:43.400 --> 00:09:43.410 align:start position:0%
+dimensional matrix and more generally if
+ 
+
+00:09:43.410 --> 00:09:47.750 align:start position:0%
+dimensional matrix and more generally if
+a<00:09:44.280><c> network</c><00:09:44.640><c> has</c><00:09:45.150><c> SJ</c><00:09:45.870><c> units</c><00:09:46.350><c> in</c><00:09:46.500><c> layer</c><00:09:46.680><c> J</c><00:09:47.010><c> and</c><00:09:47.280><c> SJ</c>
+
+00:09:47.750 --> 00:09:47.760 align:start position:0%
+a network has SJ units in layer J and SJ
+ 
+
+00:09:47.760 --> 00:09:50.270 align:start position:0%
+a network has SJ units in layer J and SJ
+plus<00:09:48.000><c> one</c><00:09:48.180><c> units</c><00:09:48.600><c> in</c><00:09:48.780><c> layer</c><00:09:48.960><c> J</c><00:09:49.200><c> plus</c><00:09:49.410><c> one</c><00:09:49.620><c> then</c>
+
+00:09:50.270 --> 00:09:50.280 align:start position:0%
+plus one units in layer J plus one then
+ 
+
+00:09:50.280 --> 00:09:52.670 align:start position:0%
+plus one units in layer J plus one then
+a<00:09:50.340><c> matrix</c><00:09:50.850><c> theta</c><00:09:51.330><c> J</c><00:09:51.600><c> which</c><00:09:51.780><c> governs</c><00:09:52.350><c> the</c>
+
+00:09:52.670 --> 00:09:52.680 align:start position:0%
+a matrix theta J which governs the
+ 
+
+00:09:52.680 --> 00:09:54.950 align:start position:0%
+a matrix theta J which governs the
+function<00:09:53.130><c> mapping</c><00:09:53.400><c> from</c><00:09:53.700><c> layer</c><00:09:53.970><c> J</c><00:09:54.240><c> 2</c><00:09:54.300><c> layer</c><00:09:54.750><c> J</c>
+
+00:09:54.950 --> 00:09:54.960 align:start position:0%
+function mapping from layer J 2 layer J
+ 
+
+00:09:54.960 --> 00:09:57.950 align:start position:0%
+function mapping from layer J 2 layer J
+plus<00:09:55.170><c> 1</c><00:09:55.380><c> that</c><00:09:56.070><c> will</c><00:09:56.310><c> have</c><00:09:56.520><c> dimension</c><00:09:57.090><c> SJ</c><00:09:57.690><c> plus</c>
+
+00:09:57.950 --> 00:09:57.960 align:start position:0%
+plus 1 that will have dimension SJ plus
+ 
+
+00:09:57.960 --> 00:10:01.790 align:start position:0%
+plus 1 that will have dimension SJ plus
+1<00:09:58.200><c> by</c><00:09:58.800><c> SJ</c><00:09:59.370><c> plus</c><00:10:00.090><c> 1</c><00:10:00.360><c> just</c><00:10:00.990><c> be</c><00:10:01.170><c> clear</c><00:10:01.410><c> about</c><00:10:01.560><c> this</c>
+
+00:10:01.790 --> 00:10:01.800 align:start position:0%
+1 by SJ plus 1 just be clear about this
+ 
+
+00:10:01.800 --> 00:10:04.430 align:start position:0%
+1 by SJ plus 1 just be clear about this
+notation<00:10:02.160><c> right</c><00:10:02.400><c> this</c><00:10:02.730><c> is</c><00:10:02.880><c> s</c><00:10:03.120><c> subscript</c><00:10:03.990><c> J</c>
+
+00:10:04.430 --> 00:10:04.440 align:start position:0%
+notation right this is s subscript J
+ 
+
+00:10:04.440 --> 00:10:07.400 align:start position:0%
+notation right this is s subscript J
+plus<00:10:04.680><c> 1</c><00:10:04.710><c> and</c><00:10:05.190><c> that's</c><00:10:05.640><c> s</c><00:10:05.910><c> subscript</c><00:10:05.970><c> J</c><00:10:06.870><c> and</c><00:10:07.140><c> then</c>
+
+00:10:07.400 --> 00:10:07.410 align:start position:0%
+plus 1 and that's s subscript J and then
+ 
+
+00:10:07.410 --> 00:10:10.010 align:start position:0%
+plus 1 and that's s subscript J and then
+just<00:10:07.590><c> whole</c><00:10:07.800><c> thing</c><00:10:08.040><c> plus</c><00:10:08.940><c> 1</c><00:10:09.210><c> out</c><00:10:09.690><c> of</c><00:10:09.750><c> this</c>
+
+00:10:10.010 --> 00:10:10.020 align:start position:0%
+just whole thing plus 1 out of this
+ 
+
+00:10:10.020 --> 00:10:12.890 align:start position:0%
+just whole thing plus 1 out of this
+whole<00:10:10.410><c> thing</c><00:10:10.440><c> SJ</c><00:10:11.100><c> plus</c><00:10:11.460><c> 1</c><00:10:11.730><c> J</c><00:10:12.270><c> so</c><00:10:12.330><c> that's</c><00:10:12.660><c> s</c>
+
+00:10:12.890 --> 00:10:12.900 align:start position:0%
+whole thing SJ plus 1 J so that's s
+ 
+
+00:10:12.900 --> 00:10:23.000 align:start position:0%
+whole thing SJ plus 1 J so that's s
+subscript<00:10:12.930><c> J</c><00:10:13.680><c> plus</c><00:10:13.980><c> 1</c><00:10:14.220><c> plus</c><00:10:15.830><c> bi</c><00:10:21.560><c> so</c><00:10:22.560><c> that's</c><00:10:22.770><c> s</c>
+
+00:10:23.000 --> 00:10:23.010 align:start position:0%
+subscript J plus 1 plus bi so that's s
+ 
+
+00:10:23.010 --> 00:10:29.090 align:start position:0%
+subscript J plus 1 plus bi so that's s
+subscript<00:10:23.070><c> J</c><00:10:24.060><c> plus</c><00:10:24.300><c> 1</c><00:10:24.540><c> by</c><00:10:25.200><c> SJ</c><00:10:26.540><c> plus</c><00:10:27.540><c> 1</c><00:10:28.200><c> where</c>
+
+00:10:29.090 --> 00:10:29.100 align:start position:0%
+subscript J plus 1 by SJ plus 1 where
+ 
+
+00:10:29.100 --> 00:10:31.240 align:start position:0%
+subscript J plus 1 by SJ plus 1 where
+this<00:10:29.220><c> plus</c><00:10:29.520><c> 1</c><00:10:29.760><c> is</c><00:10:29.880><c> not</c><00:10:30.090><c> part</c><00:10:30.330><c> of</c><00:10:30.420><c> the</c><00:10:30.540><c> subscript</c>
+
+00:10:31.240 --> 00:10:31.250 align:start position:0%
+this plus 1 is not part of the subscript
+ 
+
+00:10:31.250 --> 00:10:33.950 align:start position:0%
+this plus 1 is not part of the subscript
+ok<00:10:32.250><c> so</c><00:10:32.610><c> we've</c><00:10:32.910><c> talked</c><00:10:33.150><c> about</c><00:10:33.300><c> what</c><00:10:33.480><c> the</c><00:10:33.810><c> three</c>
+
+00:10:33.950 --> 00:10:33.960 align:start position:0%
+ok so we've talked about what the three
+ 
+
+00:10:33.960 --> 00:10:36.670 align:start position:0%
+ok so we've talked about what the three
+hidden<00:10:34.260><c> units</c><00:10:34.410><c> do</c><00:10:35.010><c> to</c><00:10:35.280><c> compute</c><00:10:35.820><c> their</c><00:10:36.060><c> values</c>
+
+00:10:36.670 --> 00:10:36.680 align:start position:0%
+hidden units do to compute their values
+ 
+
+00:10:36.680 --> 00:10:40.700 align:start position:0%
+hidden units do to compute their values
+finally<00:10:37.680><c> there's</c><00:10:38.100><c> a</c><00:10:38.160><c> loss</c><00:10:38.700><c> of</c><00:10:39.050><c> this</c><00:10:40.050><c> final</c><00:10:40.500><c> in</c>
+
+00:10:40.700 --> 00:10:40.710 align:start position:0%
+finally there's a loss of this final in
+ 
+
+00:10:40.710 --> 00:10:42.860 align:start position:0%
+finally there's a loss of this final in
+the<00:10:40.890><c> upper</c><00:10:41.220><c> layer</c><00:10:41.430><c> we</c><00:10:41.940><c> have</c><00:10:41.970><c> one</c><00:10:42.300><c> more</c><00:10:42.510><c> unit</c>
+
+00:10:42.860 --> 00:10:42.870 align:start position:0%
+the upper layer we have one more unit
+ 
+
+00:10:42.870 --> 00:10:45.560 align:start position:0%
+the upper layer we have one more unit
+which<00:10:43.140><c> confuse</c><00:10:43.680><c> H</c><00:10:44.160><c> of</c><00:10:44.400><c> X</c><00:10:44.550><c> and</c><00:10:44.790><c> that's</c><00:10:45.300><c> equal</c>
+
+00:10:45.560 --> 00:10:45.570 align:start position:0%
+which confuse H of X and that's equal
+ 
+
+00:10:45.570 --> 00:10:49.130 align:start position:0%
+which confuse H of X and that's equal
+can<00:10:46.260><c> also</c><00:10:46.410><c> be</c><00:10:46.710><c> written</c><00:10:46.860><c> as</c><00:10:47.220><c> a</c><00:10:47.540><c> 3-1</c><00:10:48.540><c> and</c><00:10:48.780><c> that's</c>
+
+00:10:49.130 --> 00:10:49.140 align:start position:0%
+can also be written as a 3-1 and that's
+ 
+
+00:10:49.140 --> 00:10:53.270 align:start position:0%
+can also be written as a 3-1 and that's
+equal<00:10:49.740><c> to</c><00:10:50.100><c> this</c><00:10:51.380><c> and</c><00:10:52.380><c> you</c><00:10:52.530><c> notice</c><00:10:52.890><c> that</c><00:10:53.010><c> I've</c>
+
+00:10:53.270 --> 00:10:53.280 align:start position:0%
+equal to this and you notice that I've
+ 
+
+00:10:53.280 --> 00:10:55.310 align:start position:0%
+equal to this and you notice that I've
+written<00:10:53.430><c> this</c><00:10:53.730><c> with</c><00:10:53.940><c> a</c><00:10:54.060><c> superscript</c><00:10:54.540><c> 2</c><00:10:54.930><c> here</c>
+
+00:10:55.310 --> 00:10:55.320 align:start position:0%
+written this with a superscript 2 here
+ 
+
+00:10:55.320 --> 00:10:57.710 align:start position:0%
+written this with a superscript 2 here
+because<00:10:55.770><c> theta</c><00:10:56.130><c> superscript</c><00:10:56.580><c> 2</c><00:10:57.210><c> is</c><00:10:57.540><c> the</c>
+
+00:10:57.710 --> 00:10:57.720 align:start position:0%
+because theta superscript 2 is the
+ 
+
+00:10:57.720 --> 00:11:00.350 align:start position:0%
+because theta superscript 2 is the
+matrix<00:10:58.080><c> of</c><00:10:58.320><c> parameters</c><00:10:58.950><c> or</c><00:10:59.610><c> the</c><00:10:59.640><c> matrix</c><00:10:59.940><c> of</c>
+
+00:11:00.350 --> 00:11:00.360 align:start position:0%
+matrix of parameters or the matrix of
+ 
+
+00:11:00.360 --> 00:11:02.840 align:start position:0%
+matrix of parameters or the matrix of
+weights<00:11:00.600><c> that</c><00:11:01.290><c> controls</c><00:11:01.920><c> the</c><00:11:02.220><c> function</c><00:11:02.610><c> that</c>
+
+00:11:02.840 --> 00:11:02.850 align:start position:0%
+weights that controls the function that
+ 
+
+00:11:02.850 --> 00:11:05.480 align:start position:0%
+weights that controls the function that
+map's<00:11:03.090><c> from</c><00:11:03.480><c> the</c><00:11:04.050><c> hidden</c><00:11:04.440><c> units</c><00:11:04.830><c> that</c><00:11:05.220><c> is</c><00:11:05.460><c> the</c>
+
+00:11:05.480 --> 00:11:05.490 align:start position:0%
+map's from the hidden units that is the
+ 
+
+00:11:05.490 --> 00:11:09.890 align:start position:0%
+map's from the hidden units that is the
+layer<00:11:06.090><c> 2</c><00:11:06.690><c> units</c><00:11:07.170><c> to</c><00:11:07.410><c> the</c><00:11:07.920><c> one</c><00:11:08.910><c> layer</c><00:11:09.150><c> 3</c><00:11:09.510><c> unit</c>
+
+00:11:09.890 --> 00:11:09.900 align:start position:0%
+layer 2 units to the one layer 3 unit
+ 
+
+00:11:09.900 --> 00:11:12.980 align:start position:0%
+layer 2 units to the one layer 3 unit
+that<00:11:10.080><c> is</c><00:11:10.260><c> the</c><00:11:10.290><c> output</c><00:11:10.830><c> unit</c><00:11:11.700><c> to</c><00:11:12.480><c> summarize</c>
+
+00:11:12.980 --> 00:11:12.990 align:start position:0%
+that is the output unit to summarize
+ 
+
+00:11:12.990 --> 00:11:15.260 align:start position:0%
+that is the output unit to summarize
+what<00:11:13.290><c> we've</c><00:11:13.440><c> done</c><00:11:13.590><c> is</c><00:11:13.890><c> shown</c><00:11:14.190><c> how</c><00:11:14.580><c> a</c><00:11:14.610><c> picture</c>
+
+00:11:15.260 --> 00:11:15.270 align:start position:0%
+what we've done is shown how a picture
+ 
+
+00:11:15.270 --> 00:11:17.360 align:start position:0%
+what we've done is shown how a picture
+like<00:11:15.480><c> this</c><00:11:15.690><c> over</c><00:11:16.020><c> here</c><00:11:16.230><c> defines</c><00:11:17.100><c> an</c>
+
+00:11:17.360 --> 00:11:17.370 align:start position:0%
+like this over here defines an
+ 
+
+00:11:17.370 --> 00:11:20.660 align:start position:0%
+like this over here defines an
+artificial<00:11:17.970><c> neural</c><00:11:18.330><c> network</c><00:11:18.890><c> which</c><00:11:19.890><c> defines</c>
+
+00:11:20.660 --> 00:11:20.670 align:start position:0%
+artificial neural network which defines
+ 
+
+00:11:20.670 --> 00:11:23.449 align:start position:0%
+artificial neural network which defines
+a<00:11:21.000><c> function</c><00:11:21.270><c> H</c><00:11:21.690><c> that</c><00:11:22.140><c> maps</c><00:11:22.410><c> from</c><00:11:22.650><c> X's</c>
+
+00:11:23.449 --> 00:11:23.459 align:start position:0%
+a function H that maps from X's
+ 
+
+00:11:23.459 --> 00:11:25.939 align:start position:0%
+a function H that maps from X's
+input<00:11:23.879><c> values</c><00:11:24.269><c> to</c><00:11:24.839><c> hopefully</c><00:11:25.290><c> to</c><00:11:25.470><c> some</c><00:11:25.499><c> space</c>
+
+00:11:25.939 --> 00:11:25.949 align:start position:0%
+input values to hopefully to some space
+ 
+
+00:11:25.949 --> 00:11:28.850 align:start position:0%
+input values to hopefully to some space
+of<00:11:26.129><c> predictions</c><00:11:26.550><c> why</c><00:11:26.790><c> and</c><00:11:27.149><c> these</c><00:11:27.899><c> hypotheses</c>
+
+00:11:28.850 --> 00:11:28.860 align:start position:0%
+of predictions why and these hypotheses
+ 
+
+00:11:28.860 --> 00:11:31.759 align:start position:0%
+of predictions why and these hypotheses
+are<00:11:29.249><c> parametrized</c><00:11:30.029><c> by</c><00:11:30.240><c> parameters</c><00:11:31.050><c> that</c><00:11:31.589><c> I'm</c>
+
+00:11:31.759 --> 00:11:31.769 align:start position:0%
+are parametrized by parameters that I'm
+ 
+
+00:11:31.769 --> 00:11:35.090 align:start position:0%
+are parametrized by parameters that I'm
+denoting<00:11:32.160><c> with</c><00:11:32.610><c> a</c><00:11:32.639><c> capital</c><00:11:33.209><c> theta</c><00:11:33.740><c> so</c><00:11:34.740><c> that</c><00:11:34.920><c> as</c>
+
+00:11:35.090 --> 00:11:35.100 align:start position:0%
+denoting with a capital theta so that as
+ 
+
+00:11:35.100 --> 00:11:36.799 align:start position:0%
+denoting with a capital theta so that as
+we<00:11:35.279><c> vary</c><00:11:35.550><c> theta</c><00:11:35.730><c> we</c><00:11:36.389><c> get</c><00:11:36.569><c> different</c>
+
+00:11:36.799 --> 00:11:36.809 align:start position:0%
+we vary theta we get different
+ 
+
+00:11:36.809 --> 00:11:38.780 align:start position:0%
+we vary theta we get different
+hypotheses<00:11:37.529><c> or</c><00:11:37.769><c> get</c><00:11:38.009><c> different</c><00:11:38.369><c> functions</c>
+
+00:11:38.780 --> 00:11:38.790 align:start position:0%
+hypotheses or get different functions
+ 
+
+00:11:38.790 --> 00:11:41.930 align:start position:0%
+hypotheses or get different functions
+mapping<00:11:39.119><c> say</c><00:11:39.689><c> from</c><00:11:39.959><c> X</c><00:11:40.170><c> to</c><00:11:40.410><c> Y</c>
+
+00:11:41.930 --> 00:11:41.940 align:start position:0%
+mapping say from X to Y
+ 
+
+00:11:41.940 --> 00:11:44.750 align:start position:0%
+mapping say from X to Y
+so<00:11:42.750><c> this</c><00:11:43.140><c> gives</c><00:11:43.410><c> us</c><00:11:43.620><c> a</c><00:11:43.920><c> mathematical</c>
+
+00:11:44.750 --> 00:11:44.760 align:start position:0%
+so this gives us a mathematical
+ 
+
+00:11:44.760 --> 00:11:46.790 align:start position:0%
+so this gives us a mathematical
+definition<00:11:45.420><c> of</c><00:11:45.450><c> how</c><00:11:45.930><c> to</c><00:11:45.960><c> represent</c><00:11:46.140><c> the</c>
+
+00:11:46.790 --> 00:11:46.800 align:start position:0%
+definition of how to represent the
+ 
+
+00:11:46.800 --> 00:11:49.820 align:start position:0%
+definition of how to represent the
+hypothesis<00:11:47.520><c> in</c><00:11:47.820><c> a</c><00:11:48.060><c> neural</c><00:11:48.330><c> network</c><00:11:48.680><c> into</c><00:11:49.680><c> the</c>
+
+00:11:49.820 --> 00:11:49.830 align:start position:0%
+hypothesis in a neural network into the
+ 
+
+00:11:49.830 --> 00:11:51.740 align:start position:0%
+hypothesis in a neural network into the
+next<00:11:50.160><c> few</c><00:11:50.310><c> videos</c><00:11:50.460><c> what</c><00:11:50.970><c> I'd</c><00:11:51.060><c> like</c><00:11:51.120><c> to</c><00:11:51.270><c> do</c><00:11:51.450><c> is</c>
+
+00:11:51.740 --> 00:11:51.750 align:start position:0%
+next few videos what I'd like to do is
+ 
+
+00:11:51.750 --> 00:11:53.900 align:start position:0%
+next few videos what I'd like to do is
+give<00:11:52.080><c> you</c><00:11:52.260><c> more</c><00:11:52.470><c> intuition</c><00:11:52.830><c> about</c><00:11:53.340><c> what</c><00:11:53.730><c> these</c>
+
+00:11:53.900 --> 00:11:53.910 align:start position:0%
+give you more intuition about what these
+ 
+
+00:11:53.910 --> 00:11:56.750 align:start position:0%
+give you more intuition about what these
+hypothesis<00:11:54.630><c> representations</c><00:11:55.470><c> do</c><00:11:55.740><c> as</c><00:11:56.310><c> well</c><00:11:56.580><c> as</c>
+
+00:11:56.750 --> 00:11:56.760 align:start position:0%
+hypothesis representations do as well as
+ 
+
+00:11:56.760 --> 00:11:59.210 align:start position:0%
+hypothesis representations do as well as
+go<00:11:57.030><c> through</c><00:11:57.060><c> a</c><00:11:57.360><c> few</c><00:11:57.600><c> examples</c><00:11:57.630><c> and</c><00:11:58.470><c> talk</c><00:11:59.040><c> about</c>
+
+00:11:59.210 --> 00:11:59.220 align:start position:0%
+go through a few examples and talk about
+ 
+
+00:11:59.220 --> 00:12:02.870 align:start position:0%
+go through a few examples and talk about
+how<00:11:59.490><c> to</c><00:11:59.550><c> compute</c><00:12:00.060><c> them</c><00:12:00.270><c> efficiently</c>
+

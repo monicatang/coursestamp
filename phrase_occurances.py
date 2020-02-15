@@ -18,7 +18,7 @@ def find_occurances(phrase, filename):
       timestamps = list(video_data.keys())
       for index in range(len(timestamps)):
           if phrase in video_data[timestamps[index]]:
-            timestamp = video_data[timestamps[index]] if index == 0 else timestamps[index - 1]
+            timestamp = timestamps[index] if index == 0 else timestamps[index - 1]
             ret.append(youtube + video_code + "?t=" + timestamp)
   return ret
 

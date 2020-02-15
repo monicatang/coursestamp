@@ -1,0 +1,552 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.270 align:start position:0%
+ 
+our<00:00:00.780><c> other</c><00:00:01.020><c> topic</c><00:00:01.439><c> of</c><00:00:01.560><c> the</c><00:00:01.650><c> day</c><00:00:01.800><c> is</c><00:00:02.010><c> that</c><00:00:02.070><c> of</c>
+
+00:00:02.270 --> 00:00:02.280 align:start position:0%
+our other topic of the day is that of
+ 
+
+00:00:02.280 --> 00:00:05.539 align:start position:0%
+our other topic of the day is that of
+iteration<00:00:03.140><c> so</c><00:00:04.140><c> we</c><00:00:04.470><c> saw</c><00:00:04.650><c> before</c><00:00:04.859><c> that</c><00:00:05.100><c> Java</c>
+
+00:00:05.539 --> 00:00:05.549 align:start position:0%
+iteration so we saw before that Java
+ 
+
+00:00:05.549 --> 00:00:07.430 align:start position:0%
+iteration so we saw before that Java
+lets<00:00:05.790><c> us</c><00:00:05.940><c> iterate</c><00:00:06.330><c> through</c><00:00:06.540><c> lists</c><00:00:06.870><c> using</c><00:00:07.170><c> a</c>
+
+00:00:07.430 --> 00:00:07.440 align:start position:0%
+lets us iterate through lists using a
+ 
+
+00:00:07.440 --> 00:00:08.900 align:start position:0%
+lets us iterate through lists using a
+nice<00:00:07.649><c> little</c><00:00:07.890><c> shorthand</c><00:00:08.429><c> here</c><00:00:08.580><c> that</c>
+
+00:00:08.900 --> 00:00:08.910 align:start position:0%
+nice little shorthand here that
+ 
+
+00:00:08.910 --> 00:00:10.430 align:start position:0%
+nice little shorthand here that
+sometimes<00:00:09.300><c> known</c><00:00:09.540><c> as</c><00:00:09.570><c> an</c><00:00:09.780><c> enhanced</c><00:00:10.200><c> for</c><00:00:10.380><c> loop</c>
+
+00:00:10.430 --> 00:00:10.440 align:start position:0%
+sometimes known as an enhanced for loop
+ 
+
+00:00:10.440 --> 00:00:13.730 align:start position:0%
+sometimes known as an enhanced for loop
+or<00:00:10.740><c> a</c><00:00:10.830><c> for</c><00:00:11.099><c> each</c><00:00:11.580><c> loop</c><00:00:11.610><c> so</c><00:00:12.570><c> if</c><00:00:13.110><c> I</c><00:00:13.230><c> have</c><00:00:13.410><c> a</c><00:00:13.440><c> list</c>
+
+00:00:13.730 --> 00:00:13.740 align:start position:0%
+or a for each loop so if I have a list
+ 
+
+00:00:13.740 --> 00:00:15.530 align:start position:0%
+or a for each loop so if I have a list
+of<00:00:13.889><c> friends</c><00:00:14.490><c> in</c><00:00:14.639><c> this</c><00:00:14.730><c> case</c><00:00:14.969><c> the</c><00:00:15.150><c> friends</c><00:00:15.420><c> are</c>
+
+00:00:15.530 --> 00:00:15.540 align:start position:0%
+of friends in this case the friends are
+ 
+
+00:00:15.540 --> 00:00:17.930 align:start position:0%
+of friends in this case the friends are
+integers<00:00:15.960><c> then</c><00:00:16.590><c> if</c><00:00:16.859><c> I</c><00:00:17.039><c> enter</c><00:00:17.279><c> eighth</c><00:00:17.490><c> iterate</c>
+
+00:00:17.930 --> 00:00:17.940 align:start position:0%
+integers then if I enter eighth iterate
+ 
+
+00:00:17.940 --> 00:00:19.519 align:start position:0%
+integers then if I enter eighth iterate
+through<00:00:18.090><c> them</c><00:00:18.300><c> using</c><00:00:18.420><c> four</c><00:00:18.750><c> index</c><00:00:19.050><c> friends</c>
+
+00:00:19.519 --> 00:00:19.529 align:start position:0%
+through them using four index friends
+ 
+
+00:00:19.529 --> 00:00:23.779 align:start position:0%
+through them using four index friends
+then<00:00:20.340><c> we</c><00:00:20.490><c> get</c><00:00:20.609><c> the</c><00:00:20.760><c> output</c><00:00:20.789><c> 5</c><00:00:21.449><c> 23</c><00:00:22.050><c> 42</c><00:00:22.670><c> so</c><00:00:23.670><c> what</c>
+
+00:00:23.779 --> 00:00:23.789 align:start position:0%
+then we get the output 5 23 42 so what
+ 
+
+00:00:23.789 --> 00:00:25.099 align:start position:0%
+then we get the output 5 23 42 so what
+I'm<00:00:23.880><c> going</c><00:00:23.970><c> to</c><00:00:24.029><c> do</c><00:00:24.180><c> here</c><00:00:24.480><c> is</c><00:00:24.689><c> we're</c><00:00:24.930><c> going</c><00:00:25.050><c> to</c>
+
+00:00:25.099 --> 00:00:25.109 align:start position:0%
+I'm going to do here is we're going to
+ 
+
+00:00:25.109 --> 00:00:26.630 align:start position:0%
+I'm going to do here is we're going to
+strip<00:00:25.380><c> away</c><00:00:25.500><c> the</c><00:00:25.680><c> magic</c><00:00:25.859><c> that</c><00:00:26.279><c> makes</c><00:00:26.430><c> this</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+strip away the magic that makes this
+ 
+
+00:00:26.640 --> 00:00:29.089 align:start position:0%
+strip away the magic that makes this
+possible<00:00:26.849><c> so</c><00:00:27.630><c> that</c><00:00:27.810><c> our</c><00:00:27.990><c> classes</c><00:00:28.320><c> like</c><00:00:28.920><c> for</c>
+
+00:00:29.089 --> 00:00:29.099 align:start position:0%
+possible so that our classes like for
+ 
+
+00:00:29.099 --> 00:00:31.580 align:start position:0%
+possible so that our classes like for
+example<00:00:29.210><c> array</c><00:00:30.210><c> DAC</c><00:00:30.449><c> or</c><00:00:30.630><c> linked</c><00:00:30.840><c> list</c><00:00:31.019><c> deck</c><00:00:31.260><c> or</c>
+
+00:00:31.580 --> 00:00:31.590 align:start position:0%
+example array DAC or linked list deck or
+ 
+
+00:00:31.590 --> 00:00:33.530 align:start position:0%
+example array DAC or linked list deck or
+whatever<00:00:31.800><c> else</c><00:00:32.099><c> you</c><00:00:32.189><c> build</c><00:00:32.399><c> can</c><00:00:32.759><c> also</c><00:00:33.000><c> support</c>
+
+00:00:33.530 --> 00:00:33.540 align:start position:0%
+whatever else you build can also support
+ 
+
+00:00:33.540 --> 00:00:37.100 align:start position:0%
+whatever else you build can also support
+this<00:00:33.840><c> nice</c><00:00:34.050><c> syntax</c><00:00:34.910><c> so</c><00:00:35.910><c> an</c><00:00:36.030><c> alternate</c><00:00:36.600><c> uglier</c>
+
+00:00:37.100 --> 00:00:37.110 align:start position:0%
+this nice syntax so an alternate uglier
+ 
+
+00:00:37.110 --> 00:00:39.170 align:start position:0%
+this nice syntax so an alternate uglier
+way<00:00:37.320><c> to</c><00:00:37.800><c> iterate</c><00:00:37.950><c> through</c><00:00:38.160><c> a</c><00:00:38.340><c> list</c><00:00:38.520><c> is</c><00:00:38.760><c> to</c><00:00:39.000><c> use</c>
+
+00:00:39.170 --> 00:00:39.180 align:start position:0%
+way to iterate through a list is to use
+ 
+
+00:00:39.180 --> 00:00:41.840 align:start position:0%
+way to iterate through a list is to use
+what's<00:00:39.420><c> known</c><00:00:39.600><c> as</c><00:00:39.719><c> the</c><00:00:39.750><c> iterator</c><00:00:40.290><c> method</c><00:00:40.850><c> what</c>
+
+00:00:41.840 --> 00:00:41.850 align:start position:0%
+what's known as the iterator method what
+ 
+
+00:00:41.850 --> 00:00:44.180 align:start position:0%
+what's known as the iterator method what
+I<00:00:41.879><c> can</c><00:00:42.120><c> do</c><00:00:42.270><c> is</c><00:00:42.420><c> instead</c><00:00:42.660><c> of</c><00:00:43.140><c> saying</c><00:00:43.530><c> for</c><00:00:43.770><c> int</c><00:00:43.950><c> x</c>
+
+00:00:44.180 --> 00:00:44.190 align:start position:0%
+I can do is instead of saying for int x
+ 
+
+00:00:44.190 --> 00:00:46.729 align:start position:0%
+I can do is instead of saying for int x
+equals<00:00:44.370><c> friends</c><00:00:44.910><c> I</c><00:00:45.059><c> can</c><00:00:45.539><c> say</c><00:00:45.719><c> iterator</c><00:00:46.469><c> of</c>
+
+00:00:46.729 --> 00:00:46.739 align:start position:0%
+equals friends I can say iterator of
+ 
+
+00:00:46.739 --> 00:00:49.040 align:start position:0%
+equals friends I can say iterator of
+integers<00:00:47.340><c> seer</c><00:00:48.059><c> I'm</c><00:00:48.360><c> calling</c><00:00:48.629><c> it</c><00:00:48.750><c> the</c><00:00:48.780><c> seer</c>
+
+00:00:49.040 --> 00:00:49.050 align:start position:0%
+integers seer I'm calling it the seer
+ 
+
+00:00:49.050 --> 00:00:51.770 align:start position:0%
+integers seer I'm calling it the seer
+equals<00:00:49.710><c> friends</c><00:00:50.129><c> done</c><00:00:50.340><c> iterator</c><00:00:50.760><c> what</c><00:00:51.600><c> that</c>
+
+00:00:51.770 --> 00:00:51.780 align:start position:0%
+equals friends done iterator what that
+ 
+
+00:00:51.780 --> 00:00:53.930 align:start position:0%
+equals friends done iterator what that
+does<00:00:52.020><c> as</c><00:00:52.260><c> it</c><00:00:52.350><c> returns</c><00:00:52.649><c> an</c><00:00:52.920><c> object</c><00:00:53.399><c> that</c><00:00:53.789><c> is</c>
+
+00:00:53.930 --> 00:00:53.940 align:start position:0%
+does as it returns an object that is
+ 
+
+00:00:53.940 --> 00:00:56.090 align:start position:0%
+does as it returns an object that is
+able<00:00:54.120><c> to</c><00:00:54.239><c> return</c><00:00:54.899><c> the</c><00:00:55.199><c> entries</c><00:00:55.590><c> of</c><00:00:55.739><c> friends</c>
+
+00:00:56.090 --> 00:00:56.100 align:start position:0%
+able to return the entries of friends
+ 
+
+00:00:56.100 --> 00:00:59.840 align:start position:0%
+able to return the entries of friends
+one<00:00:56.370><c> by</c><00:00:56.399><c> one</c><00:00:56.850><c> the</c><00:00:57.809><c> API</c><00:00:58.170><c> the</c><00:00:58.320><c> interface</c><00:00:59.010><c> for</c>
+
+00:00:59.840 --> 00:00:59.850 align:start position:0%
+one by one the API the interface for
+ 
+
+00:00:59.850 --> 00:01:03.979 align:start position:0%
+one by one the API the interface for
+that<00:00:59.930><c> iterator</c><00:01:00.980><c> interface</c><00:01:02.750><c> yes</c><00:01:03.750><c> the</c>
+
+00:01:03.979 --> 00:01:03.989 align:start position:0%
+that iterator interface yes the
+ 
+
+00:01:03.989 --> 00:01:06.380 align:start position:0%
+that iterator interface yes the
+interface<00:01:04.350><c> or</c><00:01:04.530><c> that</c><00:01:04.650><c> interface</c><00:01:05.060><c> it</c><00:01:06.060><c> has</c><00:01:06.210><c> two</c>
+
+00:01:06.380 --> 00:01:06.390 align:start position:0%
+interface or that interface it has two
+ 
+
+00:01:06.390 --> 00:01:08.990 align:start position:0%
+interface or that interface it has two
+methods<00:01:06.750><c> hasnext</c><00:01:06.960><c> and</c><00:01:07.229><c> next</c><00:01:07.560><c> where</c><00:01:08.280><c> it</c><00:01:08.880><c> will</c>
+
+00:01:08.990 --> 00:01:09.000 align:start position:0%
+methods hasnext and next where it will
+ 
+
+00:01:09.000 --> 00:01:10.460 align:start position:0%
+methods hasnext and next where it will
+iterate<00:01:09.210><c> through</c><00:01:09.570><c> each</c><00:01:09.659><c> of</c><00:01:09.840><c> the</c><00:01:09.900><c> items</c><00:01:09.960><c> house</c>
+
+00:01:10.460 --> 00:01:10.470 align:start position:0%
+iterate through each of the items house
+ 
+
+00:01:10.470 --> 00:01:12.980 align:start position:0%
+iterate through each of the items house
+all<00:01:10.860><c> show</c><00:01:11.189><c> in</c><00:01:11.340><c> an</c><00:01:11.430><c> animation</c><00:01:11.790><c> a</c><00:01:12.030><c> moment</c><00:01:12.390><c> so</c><00:01:12.900><c> in</c>
+
+00:01:12.980 --> 00:01:12.990 align:start position:0%
+all show in an animation a moment so in
+ 
+
+00:01:12.990 --> 00:01:14.870 align:start position:0%
+all show in an animation a moment so in
+other<00:01:13.049><c> words</c><00:01:13.260><c> this</c><00:01:13.619><c> code</c><00:01:13.860><c> right</c><00:01:14.040><c> here</c><00:01:14.369><c> is</c>
+
+00:01:14.870 --> 00:01:14.880 align:start position:0%
+other words this code right here is
+ 
+
+00:01:14.880 --> 00:01:16.850 align:start position:0%
+other words this code right here is
+exactly<00:01:15.090><c> identical</c><00:01:15.600><c> to</c><00:01:16.259><c> this</c><00:01:16.350><c> code</c><00:01:16.619><c> on</c><00:01:16.770><c> the</c>
+
+00:01:16.850 --> 00:01:16.860 align:start position:0%
+exactly identical to this code on the
+ 
+
+00:01:16.860 --> 00:01:18.859 align:start position:0%
+exactly identical to this code on the
+right<00:01:16.979><c> they</c><00:01:17.460><c> have</c><00:01:17.580><c> no</c><00:01:17.729><c> difference</c><00:01:18.090><c> it's</c><00:01:18.780><c> just</c>
+
+00:01:18.859 --> 00:01:18.869 align:start position:0%
+right they have no difference it's just
+ 
+
+00:01:18.869 --> 00:01:20.570 align:start position:0%
+right they have no difference it's just
+that<00:01:19.110><c> this</c><00:01:19.259><c> is</c><00:01:19.409><c> shorthand</c><00:01:19.710><c> for</c><00:01:20.009><c> the</c><00:01:20.310><c> code</c><00:01:20.460><c> on</c>
+
+00:01:20.570 --> 00:01:20.580 align:start position:0%
+that this is shorthand for the code on
+ 
+
+00:01:20.580 --> 00:01:22.550 align:start position:0%
+that this is shorthand for the code on
+the<00:01:20.700><c> right</c><00:01:20.900><c> so</c><00:01:21.900><c> how</c><00:01:21.990><c> does</c><00:01:22.049><c> this</c><00:01:22.200><c> code</c><00:01:22.439><c> actually</c>
+
+00:01:22.550 --> 00:01:22.560 align:start position:0%
+the right so how does this code actually
+ 
+
+00:01:22.560 --> 00:01:25.340 align:start position:0%
+the right so how does this code actually
+run<00:01:22.860><c> well</c><00:01:23.610><c> here</c><00:01:23.790><c> are</c><00:01:23.939><c> the</c><00:01:24.030><c> friends</c><00:01:24.509><c> this</c><00:01:25.200><c> is</c>
+
+00:01:25.340 --> 00:01:25.350 align:start position:0%
+run well here are the friends this is
+ 
+
+00:01:25.350 --> 00:01:27.499 align:start position:0%
+run well here are the friends this is
+the<00:01:25.439><c> friends</c><00:01:25.710><c> list</c><00:01:25.920><c> and</c><00:01:26.130><c> when</c><00:01:27.090><c> we</c><00:01:27.180><c> iterate</c>
+
+00:01:27.499 --> 00:01:27.509 align:start position:0%
+the friends list and when we iterate
+ 
+
+00:01:27.509 --> 00:01:29.749 align:start position:0%
+the friends list and when we iterate
+through<00:01:27.689><c> it</c><00:01:27.810><c> the</c><00:01:28.200><c> seer</c><00:01:28.439><c> variable</c><00:01:29.070><c> initially</c>
+
+00:01:29.749 --> 00:01:29.759 align:start position:0%
+through it the seer variable initially
+ 
+
+00:01:29.759 --> 00:01:31.640 align:start position:0%
+through it the seer variable initially
+is<00:01:29.939><c> looking</c><00:01:30.420><c> when</c><00:01:30.600><c> we</c><00:01:30.689><c> say</c><00:01:30.840><c> iterator</c><00:01:31.259><c> see</c><00:01:31.530><c> your</c>
+
+00:01:31.640 --> 00:01:31.650 align:start position:0%
+is looking when we say iterator see your
+ 
+
+00:01:31.650 --> 00:01:33.590 align:start position:0%
+is looking when we say iterator see your
+equals<00:01:31.920><c> friends</c><00:01:32.250><c> iterator</c><00:01:32.670><c> it's</c><00:01:32.970><c> looking</c><00:01:33.479><c> at</c>
+
+00:01:33.590 --> 00:01:33.600 align:start position:0%
+equals friends iterator it's looking at
+ 
+
+00:01:33.600 --> 00:01:37.580 align:start position:0%
+equals friends iterator it's looking at
+this<00:01:33.750><c> first</c><00:01:34.079><c> entry</c><00:01:34.500><c> of</c><00:01:34.890><c> list</c><00:01:35.780><c> so</c><00:01:36.780><c> we</c><00:01:37.259><c> go</c><00:01:37.409><c> and</c><00:01:37.530><c> we</c>
+
+00:01:37.580 --> 00:01:37.590 align:start position:0%
+this first entry of list so we go and we
+ 
+
+00:01:37.590 --> 00:01:39.560 align:start position:0%
+this first entry of list so we go and we
+say<00:01:37.650><c> while</c><00:01:38.159><c> Sierra</c><00:01:38.610><c> dot</c><00:01:38.759><c> has</c><00:01:38.939><c> next</c><00:01:39.210><c> is</c><00:01:39.450><c> that</c>
+
+00:01:39.560 --> 00:01:39.570 align:start position:0%
+say while Sierra dot has next is that
+ 
+
+00:01:39.570 --> 00:01:41.660 align:start position:0%
+say while Sierra dot has next is that
+true<00:01:39.780><c> is</c><00:01:39.900><c> there</c><00:01:40.049><c> something</c><00:01:40.350><c> left</c><00:01:40.500><c> yes</c><00:01:40.890><c> so</c><00:01:41.610><c> in</c>
+
+00:01:41.660 --> 00:01:41.670 align:start position:0%
+true is there something left yes so in
+ 
+
+00:01:41.670 --> 00:01:43.399 align:start position:0%
+true is there something left yes so in
+that<00:01:41.759><c> case</c><00:01:41.970><c> we</c><00:01:42.180><c> will</c><00:01:42.329><c> print</c><00:01:42.540><c> out</c><00:01:42.720><c> C</c><00:01:43.110><c> or</c><00:01:43.229><c> dot</c>
+
+00:01:43.399 --> 00:01:43.409 align:start position:0%
+that case we will print out C or dot
+ 
+
+00:01:43.409 --> 00:01:45.859 align:start position:0%
+that case we will print out C or dot
+next<00:01:43.649><c> and</c><00:01:43.950><c> see</c><00:01:44.820><c> our</c><00:01:44.909><c> next</c><00:01:45.210><c> does</c><00:01:45.450><c> two</c><00:01:45.600><c> things</c>
+
+00:01:45.859 --> 00:01:45.869 align:start position:0%
+next and see our next does two things
+ 
+
+00:01:45.869 --> 00:01:49.100 align:start position:0%
+next and see our next does two things
+one<00:01:46.530><c> is</c><00:01:46.710><c> it</c><00:01:46.950><c> returns</c><00:01:47.520><c> the</c><00:01:47.909><c> next</c><00:01:48.149><c> value</c><00:01:48.329><c> and</c><00:01:48.659><c> two</c>
+
+00:01:49.100 --> 00:01:49.110 align:start position:0%
+one is it returns the next value and two
+ 
+
+00:01:49.110 --> 00:01:51.920 align:start position:0%
+one is it returns the next value and two
+it<00:01:49.380><c> advances</c><00:01:50.369><c> itself</c><00:01:50.820><c> whatever</c><00:01:51.240><c> that</c><00:01:51.450><c> means</c>
+
+00:01:51.920 --> 00:01:51.930 align:start position:0%
+it advances itself whatever that means
+ 
+
+00:01:51.930 --> 00:01:54.200 align:start position:0%
+it advances itself whatever that means
+so<00:01:52.380><c> we</c><00:01:52.530><c> go</c><00:01:52.649><c> forward</c><00:01:52.920><c> and</c><00:01:53.189><c> we</c><00:01:53.250><c> print</c><00:01:53.670><c> out</c><00:01:53.850><c> five</c>
+
+00:01:54.200 --> 00:01:54.210 align:start position:0%
+so we go forward and we print out five
+ 
+
+00:01:54.210 --> 00:01:55.999 align:start position:0%
+so we go forward and we print out five
+can<00:01:54.840><c> we</c><00:01:54.930><c> printed</c><00:01:55.170><c> out</c><00:01:55.259><c> five</c><00:01:55.530><c> and</c><00:01:55.560><c> we</c><00:01:55.829><c> move</c>
+
+00:01:55.999 --> 00:01:56.009 align:start position:0%
+can we printed out five and we move
+ 
+
+00:01:56.009 --> 00:01:58.190 align:start position:0%
+can we printed out five and we move
+forward<00:01:56.280><c> so</c><00:01:56.579><c> this</c><00:01:57.149><c> line</c><00:01:57.329><c> does</c><00:01:57.540><c> two</c><00:01:57.689><c> things</c><00:01:57.719><c> it</c>
+
+00:01:58.190 --> 00:01:58.200 align:start position:0%
+forward so this line does two things it
+ 
+
+00:01:58.200 --> 00:02:01.580 align:start position:0%
+forward so this line does two things it
+moves<00:01:59.270><c> the</c><00:02:00.270><c> pointer</c><00:02:00.570><c> forward</c><00:02:00.930><c> whatever</c><00:02:01.290><c> that</c>
+
+00:02:01.580 --> 00:02:01.590 align:start position:0%
+moves the pointer forward whatever that
+ 
+
+00:02:01.590 --> 00:02:03.440 align:start position:0%
+moves the pointer forward whatever that
+means<00:02:01.799><c> inside</c><00:02:02.250><c> right</c><00:02:02.579><c> because</c><00:02:02.790><c> we</c><00:02:03.119><c> don't</c><00:02:03.299><c> know</c>
+
+00:02:03.440 --> 00:02:03.450 align:start position:0%
+means inside right because we don't know
+ 
+
+00:02:03.450 --> 00:02:05.209 align:start position:0%
+means inside right because we don't know
+what<00:02:03.600><c> the</c><00:02:03.719><c> implementation</c><00:02:04.469><c> of</c><00:02:04.619><c> this</c><00:02:04.950><c> guy</c><00:02:05.159><c> is</c>
+
+00:02:05.209 --> 00:02:05.219 align:start position:0%
+what the implementation of this guy is
+ 
+
+00:02:05.219 --> 00:02:06.920 align:start position:0%
+what the implementation of this guy is
+we're<00:02:05.939><c> just</c><00:02:06.149><c> the</c><00:02:06.240><c> people</c><00:02:06.390><c> in</c><00:02:06.600><c> the</c><00:02:06.719><c> cave</c>
+
+00:02:06.920 --> 00:02:06.930 align:start position:0%
+we're just the people in the cave
+ 
+
+00:02:06.930 --> 00:02:08.510 align:start position:0%
+we're just the people in the cave
+looking<00:02:06.960><c> at</c><00:02:07.530><c> the</c><00:02:07.619><c> wizard</c><00:02:07.890><c> move</c><00:02:08.099><c> on</c><00:02:08.250><c> the</c><00:02:08.369><c> wall</c>
+
+00:02:08.510 --> 00:02:08.520 align:start position:0%
+looking at the wizard move on the wall
+ 
+
+00:02:08.520 --> 00:02:09.949 align:start position:0%
+looking at the wizard move on the wall
+we<00:02:09.060><c> don't</c><00:02:09.090><c> actually</c><00:02:09.360><c> know</c><00:02:09.599><c> about</c><00:02:09.720><c> his</c>
+
+00:02:09.949 --> 00:02:09.959 align:start position:0%
+we don't actually know about his
+ 
+
+00:02:09.959 --> 00:02:11.890 align:start position:0%
+we don't actually know about his
+internal<00:02:10.379><c> state</c><00:02:10.619><c> or</c><00:02:10.800><c> how</c><00:02:10.890><c> he</c><00:02:10.950><c> works</c>
+
+00:02:11.890 --> 00:02:11.900 align:start position:0%
+internal state or how he works
+ 
+
+00:02:11.900 --> 00:02:13.580 align:start position:0%
+internal state or how he works
+okay
+
+00:02:13.580 --> 00:02:13.590 align:start position:0%
+okay
+ 
+
+00:02:13.590 --> 00:02:14.930 align:start position:0%
+okay
+sothanks<00:02:13.920><c> what</c><00:02:14.069><c> we</c><00:02:14.160><c> do</c><00:02:14.310><c> is</c><00:02:14.430><c> we</c><00:02:14.519><c> come</c><00:02:14.700><c> up</c><00:02:14.819><c> here</c>
+
+00:02:14.930 --> 00:02:14.940 align:start position:0%
+sothanks what we do is we come up here
+ 
+
+00:02:14.940 --> 00:02:15.949 align:start position:0%
+sothanks what we do is we come up here
+and<00:02:15.000><c> we</c><00:02:15.090><c> say</c><00:02:15.239><c> isn't</c><00:02:15.450><c> there</c><00:02:15.569><c> something</c><00:02:15.870><c> else</c>
+
+00:02:15.949 --> 00:02:15.959 align:start position:0%
+and we say isn't there something else
+ 
+
+00:02:15.959 --> 00:02:20.300 align:start position:0%
+and we say isn't there something else
+yes<00:02:16.610><c> so</c><00:02:17.610><c> then</c><00:02:17.760><c> we</c><00:02:17.849><c> return</c><00:02:18.750><c> and</c><00:02:18.959><c> move</c><00:02:19.250><c> and</c><00:02:20.250><c> we</c>
+
+00:02:20.300 --> 00:02:20.310 align:start position:0%
+yes so then we return and move and we
+ 
+
+00:02:20.310 --> 00:02:22.339 align:start position:0%
+yes so then we return and move and we
+say<00:02:20.459><c> is</c><00:02:20.550><c> there</c><00:02:20.670><c> something</c><00:02:20.940><c> left</c><00:02:21.090><c> yes</c><00:02:21.660><c> then</c><00:02:22.230><c> we</c>
+
+00:02:22.339 --> 00:02:22.349 align:start position:0%
+say is there something left yes then we
+ 
+
+00:02:22.349 --> 00:02:24.619 align:start position:0%
+say is there something left yes then we
+return<00:02:22.800><c> and</c><00:02:22.980><c> move</c><00:02:23.129><c> we</c><00:02:23.370><c> say</c><00:02:23.550><c> forty-two</c><00:02:24.000><c> and</c>
+
+00:02:24.619 --> 00:02:24.629 align:start position:0%
+return and move we say forty-two and
+ 
+
+00:02:24.629 --> 00:02:26.420 align:start position:0%
+return and move we say forty-two and
+then<00:02:25.110><c> we</c><00:02:25.379><c> say</c><00:02:25.530><c> is</c><00:02:25.620><c> there</c><00:02:25.739><c> something</c><00:02:26.010><c> left</c><00:02:26.129><c> and</c>
+
+00:02:26.420 --> 00:02:26.430 align:start position:0%
+then we say is there something left and
+ 
+
+00:02:26.430 --> 00:02:29.570 align:start position:0%
+then we say is there something left and
+we<00:02:26.700><c> say</c><00:02:26.849><c> false</c><00:02:27.260><c> so</c><00:02:28.260><c> that's</c><00:02:28.440><c> the</c><00:02:28.590><c> basic</c><00:02:29.010><c> idea</c><00:02:29.340><c> of</c>
+
+00:02:29.570 --> 00:02:29.580 align:start position:0%
+we say false so that's the basic idea of
+ 
+
+00:02:29.580 --> 00:02:31.160 align:start position:0%
+we say false so that's the basic idea of
+how<00:02:29.700><c> iterators</c><00:02:30.360><c> are</c><00:02:30.390><c> going</c><00:02:30.599><c> to</c><00:02:30.660><c> work</c><00:02:30.780><c> in</c><00:02:30.930><c> Java</c>
+
+00:02:31.160 --> 00:02:31.170 align:start position:0%
+how iterators are going to work in Java
+ 
+
+00:02:31.170 --> 00:02:33.110 align:start position:0%
+how iterators are going to work in Java
+as<00:02:31.410><c> well</c><00:02:31.799><c> we'll</c><00:02:31.980><c> do</c><00:02:32.129><c> in</c><00:02:32.549><c> the</c><00:02:32.700><c> next</c><00:02:32.730><c> couple</c><00:02:33.090><c> of</c>
+
+00:02:33.110 --> 00:02:33.120 align:start position:0%
+as well we'll do in the next couple of
+ 
+
+00:02:33.120 --> 00:02:35.240 align:start position:0%
+as well we'll do in the next couple of
+videos<00:02:33.180><c> is</c><00:02:33.599><c> see</c><00:02:33.989><c> how</c><00:02:34.140><c> we</c><00:02:34.200><c> can</c><00:02:34.500><c> add</c><00:02:34.680><c> this</c><00:02:34.980><c> same</c>
+
+00:02:35.240 --> 00:02:35.250 align:start position:0%
+videos is see how we can add this same
+ 
+
+00:02:35.250 --> 00:02:38.720 align:start position:0%
+videos is see how we can add this same
+capability<00:02:35.910><c> to</c><00:02:36.239><c> our</c><00:02:36.330><c> own</c><00:02:36.480><c> classes</c>
+

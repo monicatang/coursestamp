@@ -31,15 +31,14 @@ def home():
 
 @app.route('/<search_term>', methods=('GET', 'POST'))
 def results(search_term):
-    titles, urls, raw_phrases = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
+    titles, urls, raw_phrases, term_idxes = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
     leftContexts = []
     rightContexts = []
     titleContexts = []
-    for i, phrase in enumerate(raw_phrases):
-        idx = phrase.find(search_term)
-        leftContexts.append(phrase[:idx])
-        rightContexts.append(phrase[idx+len(search_term):])
-        titleContexts.append(titles[i])
+    for idx, phrase in enumerate(raw_phrases):
+        leftContexts.append(phrase[:term_idxes[idx]])
+        rightContexts.append(phrase[term_idxes[idx]+len(search_term):])
+        titleContexts.append(titles[idx])
     search = QueryForm(request.form)
     if request.method == 'POST':
         search_string = request.form['query']

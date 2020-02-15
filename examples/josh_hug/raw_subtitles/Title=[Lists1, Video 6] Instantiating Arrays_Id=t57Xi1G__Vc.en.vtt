@@ -1,0 +1,624 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.380 --> 00:00:02.360 align:start position:0%
+ 
+instantiating<00:00:01.380><c> a</c><00:00:01.530><c> raise</c><00:00:01.740><c> is</c><00:00:01.949><c> a</c><00:00:01.979><c> lot</c><00:00:02.190><c> like</c>
+
+00:00:02.360 --> 00:00:02.370 align:start position:0%
+instantiating a raise is a lot like
+ 
+
+00:00:02.370 --> 00:00:04.760 align:start position:0%
+instantiating a raise is a lot like
+instantiating<00:00:03.030><c> any</c><00:00:03.270><c> other</c><00:00:03.480><c> object</c><00:00:03.899><c> so</c><00:00:04.650><c> I'll</c>
+
+00:00:04.760 --> 00:00:04.770 align:start position:0%
+instantiating any other object so I'll
+ 
+
+00:00:04.770 --> 00:00:06.710 align:start position:0%
+instantiating any other object so I'll
+first<00:00:04.950><c> note</c><00:00:05.190><c> that</c><00:00:05.430><c> arrays</c><00:00:05.759><c> are</c><00:00:05.940><c> also</c><00:00:06.180><c> objects</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+first note that arrays are also objects
+ 
+
+00:00:06.720 --> 00:00:08.240 align:start position:0%
+first note that arrays are also objects
+so<00:00:07.049><c> what's</c><00:00:07.230><c> an</c><00:00:07.319><c> object</c><00:00:07.680><c> well</c><00:00:07.890><c> that's</c><00:00:08.069><c> like</c><00:00:08.220><c> a</c>
+
+00:00:08.240 --> 00:00:08.250 align:start position:0%
+so what's an object well that's like a
+ 
+
+00:00:08.250 --> 00:00:10.280 align:start position:0%
+so what's an object well that's like a
+planet<00:00:08.700><c> or</c><00:00:08.849><c> a</c><00:00:08.880><c> walrus</c><00:00:09.150><c> or</c><00:00:09.480><c> a</c><00:00:09.510><c> dog</c><00:00:09.750><c> or</c><00:00:10.050><c> whatever</c>
+
+00:00:10.280 --> 00:00:10.290 align:start position:0%
+planet or a walrus or a dog or whatever
+ 
+
+00:00:10.290 --> 00:00:13.280 align:start position:0%
+planet or a walrus or a dog or whatever
+else<00:00:10.500><c> but</c><00:00:10.889><c> it</c><00:00:10.980><c> also</c><00:00:11.190><c> includes</c><00:00:11.730><c> arrays</c><00:00:12.120><c> and</c><00:00:12.480><c> as</c>
+
+00:00:13.280 --> 00:00:13.290 align:start position:0%
+else but it also includes arrays and as
+ 
+
+00:00:13.290 --> 00:00:14.660 align:start position:0%
+else but it also includes arrays and as
+we've<00:00:13.469><c> seen</c><00:00:13.620><c> objects</c><00:00:14.160><c> are</c><00:00:14.280><c> usually</c>
+
+00:00:14.660 --> 00:00:14.670 align:start position:0%
+we've seen objects are usually
+ 
+
+00:00:14.670 --> 00:00:16.910 align:start position:0%
+we've seen objects are usually
+instantiated<00:00:15.240><c> using</c><00:00:15.660><c> the</c><00:00:15.870><c> new</c><00:00:15.990><c> keyword</c><00:00:16.260><c> so</c><00:00:16.859><c> I</c>
+
+00:00:16.910 --> 00:00:16.920 align:start position:0%
+instantiated using the new keyword so I
+ 
+
+00:00:16.920 --> 00:00:18.620 align:start position:0%
+instantiated using the new keyword so I
+might<00:00:17.100><c> say</c><00:00:17.250><c> Planet</c><00:00:17.640><c> P</c><00:00:17.789><c> equals</c><00:00:18.119><c> new</c><00:00:18.240><c> planet</c>
+
+00:00:18.620 --> 00:00:18.630 align:start position:0%
+might say Planet P equals new planet
+ 
+
+00:00:18.630 --> 00:00:19.340 align:start position:0%
+might say Planet P equals new planet
+yada<00:00:18.869><c> yada</c><00:00:19.050><c> yada</c>
+
+00:00:19.340 --> 00:00:19.350 align:start position:0%
+yada yada yada
+ 
+
+00:00:19.350 --> 00:00:22.010 align:start position:0%
+yada yada yada
+or<00:00:20.100><c> I</c><00:00:20.160><c> could</c><00:00:20.310><c> say</c><00:00:20.580><c> int</c><00:00:20.880><c> array</c><00:00:21.210><c> X</c><00:00:21.480><c> equals</c><00:00:21.869><c> new</c>
+
+00:00:22.010 --> 00:00:22.020 align:start position:0%
+or I could say int array X equals new
+ 
+
+00:00:22.020 --> 00:00:23.750 align:start position:0%
+or I could say int array X equals new
+int<00:00:22.050><c> and</c><00:00:22.410><c> then</c><00:00:22.560><c> use</c><00:00:22.740><c> this</c><00:00:22.890><c> syntax</c><00:00:23.160><c> that</c><00:00:23.460><c> we</c><00:00:23.609><c> saw</c>
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+int and then use this syntax that we saw
+ 
+
+00:00:23.760 --> 00:00:25.939 align:start position:0%
+int and then use this syntax that we saw
+in<00:00:24.029><c> homework</c><00:00:24.269><c> 0</c><00:00:24.529><c> now</c><00:00:25.529><c> in</c><00:00:25.590><c> the</c><00:00:25.650><c> previous</c>
+
+00:00:25.939 --> 00:00:25.949 align:start position:0%
+in homework 0 now in the previous
+ 
+
+00:00:25.949 --> 00:00:27.620 align:start position:0%
+in homework 0 now in the previous
+lecture<00:00:26.279><c> we</c><00:00:26.400><c> broke</c><00:00:26.609><c> down</c><00:00:26.640><c> declaration</c>
+
+00:00:27.620 --> 00:00:27.630 align:start position:0%
+lecture we broke down declaration
+ 
+
+00:00:27.630 --> 00:00:29.660 align:start position:0%
+lecture we broke down declaration
+instantiation<00:00:28.410><c> and</c><00:00:28.859><c> assignment</c><00:00:29.400><c> in</c><00:00:29.550><c> two</c>
+
+00:00:29.660 --> 00:00:29.670 align:start position:0%
+instantiation and assignment in two
+ 
+
+00:00:29.670 --> 00:00:31.130 align:start position:0%
+instantiation and assignment in two
+separate<00:00:29.970><c> steps</c><00:00:30.179><c> so</c><00:00:30.720><c> let's</c><00:00:30.869><c> just</c><00:00:30.990><c> do</c><00:00:31.109><c> that</c>
+
+00:00:31.130 --> 00:00:31.140 align:start position:0%
+separate steps so let's just do that
+ 
+
+00:00:31.140 --> 00:00:33.260 align:start position:0%
+separate steps so let's just do that
+again<00:00:31.500><c> in</c><00:00:31.650><c> the</c><00:00:31.890><c> context</c><00:00:32.309><c> of</c><00:00:32.399><c> arrays</c><00:00:32.669><c> to</c><00:00:32.910><c> make</c>
+
+00:00:33.260 --> 00:00:33.270 align:start position:0%
+again in the context of arrays to make
+ 
+
+00:00:33.270 --> 00:00:35.630 align:start position:0%
+again in the context of arrays to make
+sure<00:00:33.420><c> that</c><00:00:33.570><c> everything</c><00:00:33.960><c> all</c><00:00:34.110><c> makes</c><00:00:34.469><c> sense</c><00:00:34.680><c> so</c>
+
+00:00:35.630 --> 00:00:35.640 align:start position:0%
+sure that everything all makes sense so
+ 
+
+00:00:35.640 --> 00:00:37.639 align:start position:0%
+sure that everything all makes sense so
+when<00:00:35.760><c> I</c><00:00:35.820><c> say</c><00:00:36.000><c> int</c><00:00:36.239><c> array</c><00:00:36.630><c> a</c><00:00:37.020><c> this</c><00:00:37.440><c> is</c><00:00:37.559><c> a</c>
+
+00:00:37.639 --> 00:00:37.649 align:start position:0%
+when I say int array a this is a
+ 
+
+00:00:37.649 --> 00:00:40.010 align:start position:0%
+when I say int array a this is a
+declaration<00:00:38.059><c> what</c><00:00:39.059><c> that</c><00:00:39.239><c> does</c><00:00:39.480><c> is</c><00:00:39.719><c> it</c><00:00:39.840><c> creates</c>
+
+00:00:40.010 --> 00:00:40.020 align:start position:0%
+declaration what that does is it creates
+ 
+
+00:00:40.020 --> 00:00:43.369 align:start position:0%
+declaration what that does is it creates
+a<00:00:40.379><c> box</c><00:00:40.620><c> which</c><00:00:41.160><c> is</c><00:00:41.309><c> 64</c><00:00:42.000><c> bits</c><00:00:42.239><c> in</c><00:00:42.480><c> size</c><00:00:42.660><c> which</c><00:00:43.170><c> can</c>
+
+00:00:43.369 --> 00:00:43.379 align:start position:0%
+a box which is 64 bits in size which can
+ 
+
+00:00:43.379 --> 00:00:45.080 align:start position:0%
+a box which is 64 bits in size which can
+store<00:00:43.649><c> the</c><00:00:43.770><c> address</c><00:00:43.890><c> of</c><00:00:44.340><c> an</c><00:00:44.460><c> int</c><00:00:44.610><c> array</c><00:00:44.760><c> and</c>
+
+00:00:45.080 --> 00:00:45.090 align:start position:0%
+store the address of an int array and
+ 
+
+00:00:45.090 --> 00:00:47.240 align:start position:0%
+store the address of an int array and
+nothing<00:00:45.539><c> else</c><00:00:45.719><c> even</c><00:00:46.020><c> though</c><00:00:46.800><c> technically</c>
+
+00:00:47.240 --> 00:00:47.250 align:start position:0%
+nothing else even though technically
+ 
+
+00:00:47.250 --> 00:00:49.819 align:start position:0%
+nothing else even though technically
+interets<00:00:47.879><c> and</c><00:00:48.210><c> planets</c><00:00:48.629><c> and</c><00:00:48.870><c> walruses</c><00:00:49.500><c> and</c><00:00:49.559><c> so</c>
+
+00:00:49.819 --> 00:00:49.829 align:start position:0%
+interets and planets and walruses and so
+ 
+
+00:00:49.829 --> 00:00:51.470 align:start position:0%
+interets and planets and walruses and so
+forth<00:00:50.100><c> all</c><00:00:50.250><c> of</c><00:00:50.579><c> those</c><00:00:50.730><c> variables</c><00:00:51.149><c> store</c>
+
+00:00:51.470 --> 00:00:51.480 align:start position:0%
+forth all of those variables store
+ 
+
+00:00:51.480 --> 00:00:53.959 align:start position:0%
+forth all of those variables store
+64-bit<00:00:52.170><c> addresses</c><00:00:52.680><c> the</c><00:00:53.100><c> compiler</c><00:00:53.579><c> will</c><00:00:53.730><c> only</c>
+
+00:00:53.959 --> 00:00:53.969 align:start position:0%
+64-bit addresses the compiler will only
+ 
+
+00:00:53.969 --> 00:00:56.150 align:start position:0%
+64-bit addresses the compiler will only
+let<00:00:54.329><c> us</c><00:00:54.449><c> store</c><00:00:54.719><c> an</c><00:00:54.930><c> address</c><00:00:55.050><c> of</c><00:00:55.590><c> an</c><00:00:55.860><c> int</c><00:00:56.039><c> array</c>
+
+00:00:56.150 --> 00:00:56.160 align:start position:0%
+let us store an address of an int array
+ 
+
+00:00:56.160 --> 00:00:58.310 align:start position:0%
+let us store an address of an int array
+in<00:00:56.489><c> this</c><00:00:56.730><c> box</c><00:00:56.969><c> now</c><00:00:57.629><c> at</c><00:00:57.719><c> this</c><00:00:57.840><c> point</c><00:00:58.020><c> there</c><00:00:58.199><c> is</c>
+
+00:00:58.310 --> 00:00:58.320 align:start position:0%
+in this box now at this point there is
+ 
+
+00:00:58.320 --> 00:00:59.959 align:start position:0%
+in this box now at this point there is
+no<00:00:58.469><c> actual</c><00:00:58.770><c> objects</c><00:00:59.160><c> we've</c><00:00:59.370><c> only</c><00:00:59.520><c> declared</c><00:00:59.910><c> a</c>
+
+00:00:59.959 --> 00:00:59.969 align:start position:0%
+no actual objects we've only declared a
+ 
+
+00:00:59.969 --> 00:01:02.650 align:start position:0%
+no actual objects we've only declared a
+variable<00:01:00.649><c> next</c><00:01:01.649><c> up</c><00:01:01.770><c> there's</c><00:01:01.980><c> instantiation</c>
+
+00:01:02.650 --> 00:01:02.660 align:start position:0%
+variable next up there's instantiation
+ 
+
+00:01:02.660 --> 00:01:07.219 align:start position:0%
+variable next up there's instantiation
+so<00:01:03.660><c> when</c><00:01:03.930><c> I</c><00:01:03.960><c> say</c><00:01:04.229><c> new</c><00:01:04.500><c> int</c><00:01:04.710><c> Brak</c><00:01:05.549><c> braces</c><00:01:06.450><c> 0</c><00:01:06.930><c> 1</c><00:01:07.049><c> 2</c>
+
+00:01:07.219 --> 00:01:07.229 align:start position:0%
+so when I say new int Brak braces 0 1 2
+ 
+
+00:01:07.229 --> 00:01:09.620 align:start position:0%
+so when I say new int Brak braces 0 1 2
+95<00:01:07.710><c> 4</c><00:01:08.010><c> that</c><00:01:08.580><c> will</c><00:01:08.640><c> instantiate</c><00:01:09.000><c> a</c><00:01:09.390><c> new</c><00:01:09.479><c> object</c>
+
+00:01:09.620 --> 00:01:09.630 align:start position:0%
+95 4 that will instantiate a new object
+ 
+
+00:01:09.630 --> 00:01:12.859 align:start position:0%
+95 4 that will instantiate a new object
+that<00:01:10.260><c> is</c><00:01:10.560><c> it</c><00:01:10.830><c> will</c><00:01:10.950><c> create</c><00:01:11.100><c> 5</c><00:01:11.430><c> boxes</c><00:01:11.700><c> each</c><00:01:12.570><c> of</c>
+
+00:01:12.859 --> 00:01:12.869 align:start position:0%
+that is it will create 5 boxes each of
+ 
+
+00:01:12.869 --> 00:01:16.520 align:start position:0%
+that is it will create 5 boxes each of
+size<00:01:13.049><c> 32</c><00:01:13.470><c> it'll</c><00:01:14.250><c> put</c><00:01:14.400><c> 0</c><00:01:14.640><c> 1</c><00:01:15.000><c> 2</c><00:01:15.360><c> 95</c><00:01:16.020><c> and</c><00:01:16.200><c> 4</c><00:01:16.409><c> in</c>
+
+00:01:16.520 --> 00:01:16.530 align:start position:0%
+size 32 it'll put 0 1 2 95 and 4 in
+ 
+
+00:01:16.530 --> 00:01:19.130 align:start position:0%
+size 32 it'll put 0 1 2 95 and 4 in
+those<00:01:16.650><c> boxes</c><00:01:16.860><c> respectively</c><00:01:17.670><c> and</c><00:01:18.630><c> then</c><00:01:18.869><c> the</c>
+
+00:01:19.130 --> 00:01:19.140 align:start position:0%
+those boxes respectively and then the
+ 
+
+00:01:19.140 --> 00:01:21.620 align:start position:0%
+those boxes respectively and then the
+new<00:01:19.320><c> command</c><00:01:19.740><c> will</c><00:01:19.979><c> return</c><00:01:20.490><c> the</c><00:01:20.970><c> address</c><00:01:21.450><c> of</c>
+
+00:01:21.620 --> 00:01:21.630 align:start position:0%
+new command will return the address of
+ 
+
+00:01:21.630 --> 00:01:23.600 align:start position:0%
+new command will return the address of
+this<00:01:21.930><c> object</c><00:01:22.140><c> now</c><00:01:22.890><c> at</c><00:01:22.979><c> this</c><00:01:23.040><c> point</c><00:01:23.250><c> I'll</c><00:01:23.460><c> say</c>
+
+00:01:23.600 --> 00:01:23.610 align:start position:0%
+this object now at this point I'll say
+ 
+
+00:01:23.610 --> 00:01:25.340 align:start position:0%
+this object now at this point I'll say
+the<00:01:23.729><c> object</c><00:01:24.090><c> is</c><00:01:24.210><c> anonymous</c><00:01:24.720><c> in</c><00:01:24.869><c> the</c><00:01:25.170><c> sense</c>
+
+00:01:25.340 --> 00:01:25.350 align:start position:0%
+the object is anonymous in the sense
+ 
+
+00:01:25.350 --> 00:01:26.660 align:start position:0%
+the object is anonymous in the sense
+that<00:01:25.409><c> there's</c><00:01:25.650><c> no</c><00:01:25.770><c> name</c><00:01:26.009><c> for</c><00:01:26.040><c> it</c><00:01:26.400><c> right</c><00:01:26.549><c> we</c>
+
+00:01:26.660 --> 00:01:26.670 align:start position:0%
+that there's no name for it right we
+ 
+
+00:01:26.670 --> 00:01:27.920 align:start position:0%
+that there's no name for it right we
+haven't<00:01:26.790><c> assigned</c><00:01:27.090><c> it</c><00:01:27.299><c> to</c><00:01:27.330><c> a</c><00:01:27.420><c> variable</c>
+
+00:01:27.920 --> 00:01:27.930 align:start position:0%
+haven't assigned it to a variable
+ 
+
+00:01:27.930 --> 00:01:31.010 align:start position:0%
+haven't assigned it to a variable
+the<00:01:28.200><c> address</c><00:01:28.650><c> is</c><00:01:28.950><c> shouted</c><00:01:29.850><c> by</c><00:01:29.970><c> new</c><00:01:30.180><c> but</c><00:01:30.780><c> it</c>
+
+00:01:31.010 --> 00:01:31.020 align:start position:0%
+the address is shouted by new but it
+ 
+
+00:01:31.020 --> 00:01:32.840 align:start position:0%
+the address is shouted by new but it
+falls<00:01:31.290><c> on</c><00:01:31.470><c> deaf</c><00:01:31.500><c> ears</c><00:01:31.890><c> and</c><00:01:32.220><c> so</c><00:01:32.430><c> while</c><00:01:32.729><c> this</c>
+
+00:01:32.840 --> 00:01:32.850 align:start position:0%
+falls on deaf ears and so while this
+ 
+
+00:01:32.850 --> 00:01:35.390 align:start position:0%
+falls on deaf ears and so while this
+object<00:01:33.060><c> is</c><00:01:33.360><c> created</c><00:01:33.540><c> it</c><00:01:33.990><c> is</c><00:01:34.110><c> immediately</c><00:01:34.530><c> gone</c>
+
+00:01:35.390 --> 00:01:35.400 align:start position:0%
+object is created it is immediately gone
+ 
+
+00:01:35.400 --> 00:01:39.710 align:start position:0%
+object is created it is immediately gone
+or<00:01:35.850><c> just</c><00:01:36.210><c> not</c><00:01:36.390><c> usable</c><00:01:37.549><c> so</c><00:01:38.549><c> I</c><00:01:39.000><c> should</c><00:01:39.540><c> mention</c>
+
+00:01:39.710 --> 00:01:39.720 align:start position:0%
+or just not usable so I should mention
+ 
+
+00:01:39.720 --> 00:01:41.929 align:start position:0%
+or just not usable so I should mention
+very<00:01:40.049><c> briefly</c><00:01:40.170><c> that</c><00:01:40.799><c> an</c><00:01:41.400><c> array</c><00:01:41.759><c> is</c><00:01:41.909><c> not</c>
+
+00:01:41.929 --> 00:01:41.939 align:start position:0%
+very briefly that an array is not
+ 
+
+00:01:41.939 --> 00:01:45.560 align:start position:0%
+very briefly that an array is not
+actually<00:01:42.509><c> literally</c><00:01:42.869><c> only</c><00:01:43.740><c> 5</c><00:01:44.490><c> times</c><00:01:44.790><c> 32</c><00:01:45.299><c> bits</c>
+
+00:01:45.560 --> 00:01:45.570 align:start position:0%
+actually literally only 5 times 32 bits
+ 
+
+00:01:45.570 --> 00:01:46.910 align:start position:0%
+actually literally only 5 times 32 bits
+there's<00:01:45.960><c> a</c><00:01:46.049><c> little</c><00:01:46.439><c> bit</c><00:01:46.619><c> of</c><00:01:46.710><c> additional</c>
+
+00:01:46.910 --> 00:01:46.920 align:start position:0%
+there's a little bit of additional
+ 
+
+00:01:46.920 --> 00:01:49.280 align:start position:0%
+there's a little bit of additional
+overhead<00:01:47.430><c> not</c><00:01:47.850><c> shown</c><00:01:48.180><c> here</c><00:01:48.210><c> but</c><00:01:48.780><c> not</c><00:01:49.020><c> really</c><00:01:49.200><c> a</c>
+
+00:01:49.280 --> 00:01:49.290 align:start position:0%
+overhead not shown here but not really a
+ 
+
+00:01:49.290 --> 00:01:52.580 align:start position:0%
+overhead not shown here but not really a
+big<00:01:49.500><c> deal</c><00:01:49.680><c> in</c><00:01:49.920><c> our</c><00:01:50.009><c> class</c><00:01:50.250><c> and</c><00:01:50.869><c> then</c><00:01:51.869><c> often</c><00:01:52.560><c> we</c>
+
+00:01:52.580 --> 00:01:52.590 align:start position:0%
+big deal in our class and then often we
+ 
+
+00:01:52.590 --> 00:01:55.010 align:start position:0%
+big deal in our class and then often we
+will<00:01:52.770><c> do</c><00:01:52.950><c> declaration</c><00:01:53.759><c> instantiation</c><00:01:54.659><c> and</c>
+
+00:01:55.010 --> 00:01:55.020 align:start position:0%
+will do declaration instantiation and
+ 
+
+00:01:55.020 --> 00:01:57.620 align:start position:0%
+will do declaration instantiation and
+assignment<00:01:55.619><c> all</c><00:01:55.740><c> in</c><00:01:56.159><c> one</c><00:01:56.340><c> step</c><00:01:56.610><c> so</c><00:01:57.180><c> here</c><00:01:57.390><c> it</c><00:01:57.479><c> is</c>
+
+00:01:57.620 --> 00:01:57.630 align:start position:0%
+assignment all in one step so here it is
+ 
+
+00:01:57.630 --> 00:01:59.840 align:start position:0%
+assignment all in one step so here it is
+the<00:01:58.290><c> declaration</c><00:01:58.920><c> part</c><00:01:59.070><c> of</c><00:01:59.250><c> this</c><00:01:59.340><c> line</c><00:01:59.579><c> it</c>
+
+00:01:59.840 --> 00:01:59.850 align:start position:0%
+the declaration part of this line it
+ 
+
+00:01:59.850 --> 00:02:01.760 align:start position:0%
+the declaration part of this line it
+creates<00:02:00.210><c> a</c><00:02:00.299><c> 64</c><00:02:00.780><c> bit</c><00:02:00.930><c> box</c><00:02:01.170><c> for</c><00:02:01.409><c> storing</c><00:02:01.680><c> an</c>
+
+00:02:01.760 --> 00:02:01.770 align:start position:0%
+creates a 64 bit box for storing an
+ 
+
+00:02:01.770 --> 00:02:04.130 align:start position:0%
+creates a 64 bit box for storing an
+address<00:02:02.100><c> new</c><00:02:02.670><c> int</c><00:02:02.850><c> creates</c><00:02:03.329><c> the</c><00:02:03.659><c> center</c><00:02:03.960><c> add</c>
+
+00:02:04.130 --> 00:02:04.140 align:start position:0%
+address new int creates the center add
+ 
+
+00:02:04.140 --> 00:02:06.770 align:start position:0%
+address new int creates the center add
+and<00:02:04.469><c> then</c><00:02:04.829><c> finally</c><00:02:05.219><c> the</c><00:02:05.700><c> equal</c><00:02:06.270><c> sign</c><00:02:06.479><c> takes</c>
+
+00:02:06.770 --> 00:02:06.780 align:start position:0%
+and then finally the equal sign takes
+ 
+
+00:02:06.780 --> 00:02:08.930 align:start position:0%
+and then finally the equal sign takes
+the<00:02:06.930><c> address</c><00:02:07.259><c> shouted</c><00:02:07.680><c> by</c><00:02:07.829><c> new</c><00:02:08.009><c> and</c><00:02:08.190><c> this</c><00:02:08.700><c> time</c>
+
+00:02:08.930 --> 00:02:08.940 align:start position:0%
+the address shouted by new and this time
+ 
+
+00:02:08.940 --> 00:02:11.300 align:start position:0%
+the address shouted by new and this time
+rather<00:02:09.300><c> than</c><00:02:09.420><c> falling</c><00:02:09.959><c> on</c><00:02:10.080><c> deaf</c><00:02:10.110><c> ears</c><00:02:10.500><c> and</c>
+
+00:02:11.300 --> 00:02:11.310 align:start position:0%
+rather than falling on deaf ears and
+ 
+
+00:02:11.310 --> 00:02:13.040 align:start position:0%
+rather than falling on deaf ears and
+ever<00:02:11.459><c> be</c><00:02:11.670><c> known</c><00:02:11.940><c> it</c><00:02:12.360><c> is</c><00:02:12.480><c> stored</c><00:02:12.750><c> in</c><00:02:12.900><c> the</c><00:02:13.020><c> a</c>
+
+00:02:13.040 --> 00:02:13.050 align:start position:0%
+ever be known it is stored in the a
+ 
+
+00:02:13.050 --> 00:02:17.839 align:start position:0%
+ever be known it is stored in the a
+variable<00:02:14.180><c> so</c><00:02:16.190><c> just</c><00:02:17.190><c> to</c><00:02:17.280><c> finish</c><00:02:17.400><c> out</c><00:02:17.670><c> this</c>
+
+00:02:17.839 --> 00:02:17.849 align:start position:0%
+variable so just to finish out this
+ 
+
+00:02:17.849 --> 00:02:20.030 align:start position:0%
+variable so just to finish out this
+little<00:02:18.000><c> section</c><00:02:18.239><c> I</c><00:02:18.690><c> figured</c><00:02:19.200><c> I'd</c><00:02:19.290><c> mentioned</c>
+
+00:02:20.030 --> 00:02:20.040 align:start position:0%
+little section I figured I'd mentioned
+ 
+
+00:02:20.040 --> 00:02:22.460 align:start position:0%
+little section I figured I'd mentioned
+the<00:02:20.220><c> fact</c><00:02:20.550><c> that</c><00:02:20.670><c> instantiate</c><00:02:21.630><c> adopts</c><00:02:22.200><c> that</c><00:02:22.230><c> as</c>
+
+00:02:22.460 --> 00:02:22.470 align:start position:0%
+the fact that instantiate adopts that as
+ 
+
+00:02:22.470 --> 00:02:24.589 align:start position:0%
+the fact that instantiate adopts that as
+planets<00:02:22.890><c> arrays</c><00:02:23.220><c> whatever</c><00:02:23.550><c> else</c><00:02:23.700><c> can</c><00:02:24.090><c> be</c><00:02:24.300><c> lost</c>
+
+00:02:24.589 --> 00:02:24.599 align:start position:0%
+planets arrays whatever else can be lost
+ 
+
+00:02:24.599 --> 00:02:27.770 align:start position:0%
+planets arrays whatever else can be lost
+so<00:02:25.380><c> in</c><00:02:25.470><c> other</c><00:02:25.530><c> words</c><00:02:25.770><c> let's</c><00:02:26.400><c> say</c><00:02:26.459><c> a</c><00:02:26.670><c> points</c><00:02:27.599><c> at</c>
+
+00:02:27.770 --> 00:02:27.780 align:start position:0%
+so in other words let's say a points at
+ 
+
+00:02:27.780 --> 00:02:29.690 align:start position:0%
+so in other words let's say a points at
+this<00:02:28.230><c> object</c><00:02:28.440><c> right</c><00:02:28.890><c> here</c><00:02:29.069><c> and</c><00:02:29.190><c> it's</c><00:02:29.280><c> the</c><00:02:29.430><c> only</c>
+
+00:02:29.690 --> 00:02:29.700 align:start position:0%
+this object right here and it's the only
+ 
+
+00:02:29.700 --> 00:02:32.300 align:start position:0%
+this object right here and it's the only
+copy<00:02:30.330><c> it's</c><00:02:30.900><c> the</c><00:02:30.989><c> only</c><00:02:31.170><c> copy</c><00:02:31.590><c> of</c><00:02:31.769><c> the</c><00:02:31.920><c> address</c>
+
+00:02:32.300 --> 00:02:32.310 align:start position:0%
+copy it's the only copy of the address
+ 
+
+00:02:32.310 --> 00:02:35.870 align:start position:0%
+copy it's the only copy of the address
+this<00:02:32.610><c> 64</c><00:02:33.180><c> bit</c><00:02:33.390><c> box</c><00:02:33.780><c> here</c><00:02:34.050><c> in</c><00:02:34.319><c> that</c><00:02:35.010><c> case</c><00:02:35.250><c> if</c><00:02:35.519><c> we</c>
+
+00:02:35.870 --> 00:02:35.880 align:start position:0%
+this 64 bit box here in that case if we
+ 
+
+00:02:35.880 --> 00:02:38.330 align:start position:0%
+this 64 bit box here in that case if we
+were<00:02:35.970><c> to</c><00:02:36.090><c> say</c><00:02:36.239><c> ETA</c><00:02:36.780><c> equals</c><00:02:37.290><c> new</c><00:02:37.560><c> whatever</c><00:02:37.980><c> else</c>
+
+00:02:38.330 --> 00:02:38.340 align:start position:0%
+were to say ETA equals new whatever else
+ 
+
+00:02:38.340 --> 00:02:41.059 align:start position:0%
+were to say ETA equals new whatever else
+right<00:02:39.030><c> so</c><00:02:39.060><c> a</c><00:02:39.480><c> point</c><00:02:39.750><c> set</c><00:02:39.900><c> a</c><00:02:39.930><c> new</c><00:02:40.050><c> object</c><00:02:40.440><c> then</c>
+
+00:02:41.059 --> 00:02:41.069 align:start position:0%
+right so a point set a new object then
+ 
+
+00:02:41.069 --> 00:02:43.009 align:start position:0%
+right so a point set a new object then
+we<00:02:41.280><c> no</c><00:02:41.580><c> longer</c><00:02:41.610><c> have</c><00:02:42.120><c> this</c><00:02:42.360><c> address</c><00:02:42.780><c> stored</c>
+
+00:02:43.009 --> 00:02:43.019 align:start position:0%
+we no longer have this address stored
+ 
+
+00:02:43.019 --> 00:02:44.960 align:start position:0%
+we no longer have this address stored
+anywhere<00:02:43.440><c> and</c><00:02:43.709><c> therefore</c><00:02:44.400><c> there's</c><00:02:44.640><c> no</c><00:02:44.670><c> way</c><00:02:44.850><c> we</c>
+
+00:02:44.960 --> 00:02:44.970 align:start position:0%
+anywhere and therefore there's no way we
+ 
+
+00:02:44.970 --> 00:02:46.940 align:start position:0%
+anywhere and therefore there's no way we
+can<00:02:45.090><c> ever</c><00:02:45.239><c> get</c><00:02:45.480><c> that</c><00:02:45.630><c> object</c><00:02:46.080><c> back</c><00:02:46.260><c> that's</c><00:02:46.860><c> not</c>
+
+00:02:46.940 --> 00:02:46.950 align:start position:0%
+can ever get that object back that's not
+ 
+
+00:02:46.950 --> 00:02:48.800 align:start position:0%
+can ever get that object back that's not
+a<00:02:47.040><c> bad</c><00:02:47.280><c> thing</c><00:02:47.489><c> I</c><00:02:47.700><c> mean</c><00:02:47.850><c> there</c><00:02:48.120><c> are</c><00:02:48.209><c> cases</c><00:02:48.480><c> as</c>
+
+00:02:48.800 --> 00:02:48.810 align:start position:0%
+a bad thing I mean there are cases as
+ 
+
+00:02:48.810 --> 00:02:50.479 align:start position:0%
+a bad thing I mean there are cases as
+we'll<00:02:48.959><c> see</c><00:02:49.110><c> pretty</c><00:02:49.500><c> soon</c><00:02:49.709><c> when</c><00:02:50.190><c> we</c><00:02:50.220><c> start</c>
+
+00:02:50.479 --> 00:02:50.489 align:start position:0%
+we'll see pretty soon when we start
+ 
+
+00:02:50.489 --> 00:02:52.220 align:start position:0%
+we'll see pretty soon when we start
+building<00:02:50.580><c> lists</c><00:02:51.060><c> where</c><00:02:51.330><c> we</c><00:02:51.480><c> do</c><00:02:51.690><c> actually</c><00:02:51.900><c> want</c>
+
+00:02:52.220 --> 00:02:52.230 align:start position:0%
+building lists where we do actually want
+ 
+
+00:02:52.230 --> 00:02:54.590 align:start position:0%
+building lists where we do actually want
+to<00:02:52.380><c> lose</c><00:02:52.620><c> references</c><00:02:53.519><c> to</c><00:02:53.670><c> things</c><00:02:53.819><c> but</c><00:02:54.330><c> just</c><00:02:54.510><c> a</c>
+
+00:02:54.590 --> 00:02:54.600 align:start position:0%
+to lose references to things but just a
+ 
+
+00:02:54.600 --> 00:02:56.780 align:start position:0%
+to lose references to things but just a
+note<00:02:54.750><c> we</c><00:02:55.290><c> lose</c><00:02:55.470><c> an</c><00:02:55.590><c> address</c><00:02:55.920><c> that</c><00:02:56.280><c> object</c><00:02:56.670><c> is</c>
+
+00:02:56.780 --> 00:02:56.790 align:start position:0%
+note we lose an address that object is
+ 
+
+00:02:56.790 --> 00:02:58.940 align:start position:0%
+note we lose an address that object is
+lost<00:02:57.030><c> and</c><00:02:57.420><c> will</c><00:02:57.599><c> be</c><00:02:57.720><c> consumed</c><00:02:58.110><c> by</c><00:02:58.380><c> the</c><00:02:58.440><c> garbage</c>
+
+00:02:58.940 --> 00:02:58.950 align:start position:0%
+lost and will be consumed by the garbage
+ 
+
+00:02:58.950 --> 00:03:01.549 align:start position:0%
+lost and will be consumed by the garbage
+collector
+

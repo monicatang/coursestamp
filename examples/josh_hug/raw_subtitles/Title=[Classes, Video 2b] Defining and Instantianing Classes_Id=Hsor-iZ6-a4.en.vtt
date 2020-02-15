@@ -1,0 +1,1200 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.090 align:start position:0%
+ 
+the<00:00:00.780><c> key</c><00:00:01.050><c> language</c><00:00:01.290><c> feature</c><00:00:01.740><c> that</c><00:00:01.949><c> we're</c>
+
+00:00:02.090 --> 00:00:02.100 align:start position:0%
+the key language feature that we're
+ 
+
+00:00:02.100 --> 00:00:04.130 align:start position:0%
+the key language feature that we're
+going<00:00:02.250><c> to</c><00:00:02.429><c> use</c><00:00:02.669><c> to</c><00:00:03.090><c> make</c><00:00:03.240><c> it</c><00:00:03.360><c> more</c><00:00:03.540><c> natural</c><00:00:04.020><c> to</c>
+
+00:00:04.130 --> 00:00:04.140 align:start position:0%
+going to use to make it more natural to
+ 
+
+00:00:04.140 --> 00:00:06.140 align:start position:0%
+going to use to make it more natural to
+represent<00:00:04.620><c> the</c><00:00:04.740><c> entire</c><00:00:04.859><c> universe</c><00:00:05.490><c> of</c><00:00:05.640><c> dogs</c><00:00:05.879><c> or</c>
+
+00:00:06.140 --> 00:00:06.150 align:start position:0%
+represent the entire universe of dogs or
+ 
+
+00:00:06.150 --> 00:00:08.360 align:start position:0%
+represent the entire universe of dogs or
+whatever<00:00:06.390><c> else</c><00:00:06.600><c> is</c><00:00:06.839><c> that</c><00:00:07.529><c> classes</c><00:00:08.040><c> in</c><00:00:08.189><c> Java</c>
+
+00:00:08.360 --> 00:00:08.370 align:start position:0%
+whatever else is that classes in Java
+ 
+
+00:00:08.370 --> 00:00:10.640 align:start position:0%
+whatever else is that classes in Java
+can<00:00:08.700><c> contain</c><00:00:09.059><c> not</c><00:00:09.300><c> just</c><00:00:09.599><c> functions</c><00:00:09.990><c> but</c><00:00:10.440><c> also</c>
+
+00:00:10.640 --> 00:00:10.650 align:start position:0%
+can contain not just functions but also
+ 
+
+00:00:10.650 --> 00:00:13.310 align:start position:0%
+can contain not just functions but also
+data<00:00:11.160><c> so</c><00:00:12.090><c> what</c><00:00:12.240><c> I</c><00:00:12.269><c> mean</c><00:00:12.420><c> by</c><00:00:12.599><c> that</c><00:00:12.630><c> is</c><00:00:12.990><c> that</c><00:00:13.019><c> we</c>
+
+00:00:13.310 --> 00:00:13.320 align:start position:0%
+data so what I mean by that is that we
+ 
+
+00:00:13.320 --> 00:00:15.799 align:start position:0%
+data so what I mean by that is that we
+are<00:00:13.349><c> going</c><00:00:13.650><c> to</c><00:00:13.799><c> augment</c><00:00:14.549><c> our</c><00:00:14.790><c> dog</c><00:00:15.150><c> class</c><00:00:15.509><c> so</c>
+
+00:00:15.799 --> 00:00:15.809 align:start position:0%
+are going to augment our dog class so
+ 
+
+00:00:15.809 --> 00:00:17.960 align:start position:0%
+are going to augment our dog class so
+the<00:00:15.900><c> dogs</c><00:00:16.139><c> have</c><00:00:16.410><c> properties</c><00:00:16.949><c> like</c><00:00:17.190><c> size</c><00:00:17.490><c> and</c>
+
+00:00:17.960 --> 00:00:17.970 align:start position:0%
+the dogs have properties like size and
+ 
+
+00:00:17.970 --> 00:00:20.330 align:start position:0%
+the dogs have properties like size and
+that<00:00:18.810><c> class</c><00:00:19.410><c> is</c><00:00:19.800><c> going</c><00:00:19.949><c> to</c><00:00:20.010><c> serve</c><00:00:20.189><c> as</c><00:00:20.310><c> the</c>
+
+00:00:20.330 --> 00:00:20.340 align:start position:0%
+that class is going to serve as the
+ 
+
+00:00:20.340 --> 00:00:22.220 align:start position:0%
+that class is going to serve as the
+blueprint<00:00:20.850><c> for</c><00:00:21.029><c> all</c><00:00:21.270><c> dogs</c><00:00:21.570><c> out</c><00:00:21.840><c> there</c><00:00:22.020><c> and</c>
+
+00:00:22.220 --> 00:00:22.230 align:start position:0%
+blueprint for all dogs out there and
+ 
+
+00:00:22.230 --> 00:00:24.500 align:start position:0%
+blueprint for all dogs out there and
+then<00:00:22.890><c> we're</c><00:00:22.980><c> going</c><00:00:23.070><c> to</c><00:00:23.160><c> instantiate</c><00:00:23.580><c> that</c>
+
+00:00:24.500 --> 00:00:24.510 align:start position:0%
+then we're going to instantiate that
+ 
+
+00:00:24.510 --> 00:00:26.929 align:start position:0%
+then we're going to instantiate that
+class<00:00:24.810><c> and</c><00:00:25.109><c> two</c><00:00:25.230><c> specific</c><00:00:25.800><c> objects</c><00:00:26.400><c> that</c><00:00:26.849><c> we</c>
+
+00:00:26.929 --> 00:00:26.939 align:start position:0%
+class and two specific objects that we
+ 
+
+00:00:26.939 --> 00:00:28.640 align:start position:0%
+class and two specific objects that we
+can<00:00:27.090><c> then</c><00:00:27.210><c> manipulate</c><00:00:27.330><c> now</c><00:00:28.289><c> that'll</c><00:00:28.529><c> make</c>
+
+00:00:28.640 --> 00:00:28.650 align:start position:0%
+can then manipulate now that'll make
+ 
+
+00:00:28.650 --> 00:00:30.140 align:start position:0%
+can then manipulate now that'll make
+more<00:00:28.920><c> sense</c><00:00:29.189><c> once</c><00:00:29.340><c> we</c><00:00:29.490><c> actually</c><00:00:29.789><c> try</c><00:00:29.939><c> out</c><00:00:30.029><c> an</c>
+
+00:00:30.140 --> 00:00:30.150 align:start position:0%
+more sense once we actually try out an
+ 
+
+00:00:30.150 --> 00:00:32.780 align:start position:0%
+more sense once we actually try out an
+example<00:00:30.260><c> so</c><00:00:31.260><c> let's</c><00:00:31.410><c> jump</c><00:00:31.560><c> right</c><00:00:31.710><c> up</c><00:00:31.790><c> so</c>
+
+00:00:32.780 --> 00:00:32.790 align:start position:0%
+example so let's jump right up so
+ 
+
+00:00:32.790 --> 00:00:34.130 align:start position:0%
+example so let's jump right up so
+hopefully<00:00:32.969><c> you've</c><00:00:33.360><c> seen</c><00:00:33.390><c> something</c><00:00:33.840><c> pretty</c>
+
+00:00:34.130 --> 00:00:34.140 align:start position:0%
+hopefully you've seen something pretty
+ 
+
+00:00:34.140 --> 00:00:35.930 align:start position:0%
+hopefully you've seen something pretty
+much<00:00:34.320><c> like</c><00:00:34.530><c> this</c><00:00:34.739><c> I</c><00:00:34.950><c> know</c><00:00:35.309><c> some</c><00:00:35.640><c> of</c><00:00:35.760><c> the</c><00:00:35.850><c> people</c>
+
+00:00:35.930 --> 00:00:35.940 align:start position:0%
+much like this I know some of the people
+ 
+
+00:00:35.940 --> 00:00:37.490 align:start position:0%
+much like this I know some of the people
+taking<00:00:36.420><c> this</c><00:00:36.510><c> class</c><00:00:36.750><c> are</c><00:00:36.989><c> coming</c><00:00:37.260><c> from</c><00:00:37.380><c> a</c>
+
+00:00:37.490 --> 00:00:37.500 align:start position:0%
+taking this class are coming from a
+ 
+
+00:00:37.500 --> 00:00:39.530 align:start position:0%
+taking this class are coming from a
+MATLAB<00:00:37.860><c> only</c><00:00:38.160><c> background</c><00:00:38.610><c> I</c><00:00:38.820><c> have</c><00:00:39.239><c> a</c><00:00:39.270><c> little</c>
+
+00:00:39.530 --> 00:00:39.540 align:start position:0%
+MATLAB only background I have a little
+ 
+
+00:00:39.540 --> 00:00:41.330 align:start position:0%
+MATLAB only background I have a little
+example<00:00:39.840><c> here</c><00:00:40.020><c> that</c><00:00:40.440><c> you</c><00:00:40.500><c> can</c><00:00:40.680><c> read</c><00:00:40.920><c> to</c><00:00:41.190><c> get</c><00:00:41.309><c> a</c>
+
+00:00:41.330 --> 00:00:41.340 align:start position:0%
+example here that you can read to get a
+ 
+
+00:00:41.340 --> 00:00:43.250 align:start position:0%
+example here that you can read to get a
+sense<00:00:41.579><c> of</c><00:00:41.700><c> what</c><00:00:41.879><c> this</c><00:00:42.030><c> is</c><00:00:42.090><c> all</c><00:00:42.300><c> about</c><00:00:42.360><c> but</c>
+
+00:00:43.250 --> 00:00:43.260 align:start position:0%
+sense of what this is all about but
+ 
+
+00:00:43.260 --> 00:00:44.630 align:start position:0%
+sense of what this is all about but
+let's<00:00:43.379><c> try</c><00:00:43.500><c> it</c><00:00:43.590><c> out</c><00:00:43.710><c> in</c><00:00:43.800><c> Java</c><00:00:44.010><c> and</c><00:00:44.250><c> see</c><00:00:44.489><c> what</c>
+
+00:00:44.630 --> 00:00:44.640 align:start position:0%
+let's try it out in Java and see what
+ 
+
+00:00:44.640 --> 00:00:49.479 align:start position:0%
+let's try it out in Java and see what
+it's<00:00:44.760><c> like</c><00:00:44.820><c> to</c><00:00:45.210><c> make</c><00:00:45.750><c> a</c><00:00:45.780><c> dog</c><00:00:46.050><c> blueprint</c><00:00:48.050><c> so</c>
+
+00:00:49.479 --> 00:00:49.489 align:start position:0%
+it's like to make a dog blueprint so
+ 
+
+00:00:49.489 --> 00:00:52.279 align:start position:0%
+it's like to make a dog blueprint so
+what<00:00:50.489><c> I'm</c><00:00:50.730><c> going</c><00:00:51.059><c> to</c><00:00:51.120><c> do</c><00:00:51.270><c> I'll</c><00:00:51.539><c> reopen</c><00:00:51.750><c> my</c><00:00:52.079><c> dog</c>
+
+00:00:52.279 --> 00:00:52.289 align:start position:0%
+what I'm going to do I'll reopen my dog
+ 
+
+00:00:52.289 --> 00:00:54.830 align:start position:0%
+what I'm going to do I'll reopen my dog
+class<00:00:52.620><c> and</c><00:00:53.039><c> I'm</c><00:00:53.670><c> gonna</c><00:00:53.760><c> say</c><00:00:53.969><c> a</c><00:00:54.180><c> dog</c><00:00:54.539><c> is</c><00:00:54.809><c> not</c>
+
+00:00:54.830 --> 00:00:54.840 align:start position:0%
+class and I'm gonna say a dog is not
+ 
+
+00:00:54.840 --> 00:00:57.770 align:start position:0%
+class and I'm gonna say a dog is not
+just<00:00:55.410><c> a</c><00:00:55.620><c> noise</c><00:00:55.800><c> making</c><00:00:56.309><c> machine</c><00:00:56.750><c> actually</c><00:00:57.750><c> a</c>
+
+00:00:57.770 --> 00:00:57.780 align:start position:0%
+just a noise making machine actually a
+ 
+
+00:00:57.780 --> 00:01:00.889 align:start position:0%
+just a noise making machine actually a
+dog<00:00:57.960><c> also</c><00:00:58.469><c> has</c><00:00:58.649><c> a</c><00:00:58.680><c> property</c><00:00:59.219><c> that</c><00:00:59.850><c> property</c><00:01:00.690><c> is</c>
+
+00:01:00.889 --> 00:01:00.899 align:start position:0%
+dog also has a property that property is
+ 
+
+00:01:00.899 --> 00:01:03.410 align:start position:0%
+dog also has a property that property is
+a<00:01:01.770><c> dog</c><00:01:02.309><c> is</c><00:01:02.489><c> going</c><00:01:02.699><c> to</c><00:01:02.789><c> have</c><00:01:02.940><c> let's</c><00:01:03.210><c> say</c><00:01:03.390><c> a</c>
+
+00:01:03.410 --> 00:01:03.420 align:start position:0%
+a dog is going to have let's say a
+ 
+
+00:01:03.420 --> 00:01:07.280 align:start position:0%
+a dog is going to have let's say a
+weight<00:01:03.780><c> in</c><00:01:03.989><c> pounds</c><00:01:04.970><c> so</c><00:01:05.970><c> as</c><00:01:06.240><c> an</c><00:01:06.390><c> American</c><00:01:06.869><c> I</c><00:01:07.020><c> use</c>
+
+00:01:07.280 --> 00:01:07.290 align:start position:0%
+weight in pounds so as an American I use
+ 
+
+00:01:07.290 --> 00:01:09.859 align:start position:0%
+weight in pounds so as an American I use
+the<00:01:07.530><c> bizarre</c><00:01:07.939><c> pounds</c><00:01:08.939><c> system</c><00:01:09.420><c> as</c><00:01:09.570><c> opposed</c><00:01:09.810><c> to</c>
+
+00:01:09.859 --> 00:01:09.869 align:start position:0%
+the bizarre pounds system as opposed to
+ 
+
+00:01:09.869 --> 00:01:11.390 align:start position:0%
+the bizarre pounds system as opposed to
+kilograms<00:01:10.350><c> we're</c><00:01:10.799><c> just</c><00:01:10.950><c> going</c><00:01:11.070><c> to</c><00:01:11.130><c> roll</c><00:01:11.250><c> with</c>
+
+00:01:11.390 --> 00:01:11.400 align:start position:0%
+kilograms we're just going to roll with
+ 
+
+00:01:11.400 --> 00:01:14.980 align:start position:0%
+kilograms we're just going to roll with
+it<00:01:11.540><c> and</c><00:01:12.540><c> that</c><00:01:12.659><c> specifies</c><00:01:13.229><c> how</c><00:01:13.680><c> big</c><00:01:13.890><c> the</c><00:01:13.979><c> dog</c><00:01:14.100><c> is</c>
+
+00:01:14.980 --> 00:01:14.990 align:start position:0%
+it and that specifies how big the dog is
+ 
+
+00:01:14.990 --> 00:01:17.600 align:start position:0%
+it and that specifies how big the dog is
+then<00:01:15.990><c> what</c><00:01:16.170><c> I'm</c><00:01:16.290><c> gonna</c><00:01:16.380><c> do</c><00:01:16.619><c> is</c><00:01:16.860><c> I'm</c><00:01:17.490><c> gonna</c>
+
+00:01:17.600 --> 00:01:17.610 align:start position:0%
+then what I'm gonna do is I'm gonna
+ 
+
+00:01:17.610 --> 00:01:19.520 align:start position:0%
+then what I'm gonna do is I'm gonna
+change<00:01:18.119><c> the</c><00:01:18.360><c> make</c><00:01:18.540><c> noise</c><00:01:18.720><c> method</c><00:01:19.200><c> and</c><00:01:19.380><c> it's</c>
+
+00:01:19.520 --> 00:01:19.530 align:start position:0%
+change the make noise method and it's
+ 
+
+00:01:19.530 --> 00:01:23.179 align:start position:0%
+change the make noise method and it's
+going<00:01:19.680><c> to</c><00:01:19.770><c> have</c><00:01:19.920><c> a</c><00:01:19.950><c> few</c><00:01:20.900><c> cases</c><00:01:21.920><c> so</c><00:01:22.920><c> if</c><00:01:23.070><c> the</c>
+
+00:01:23.179 --> 00:01:23.189 align:start position:0%
+going to have a few cases so if the
+ 
+
+00:01:23.189 --> 00:01:24.800 align:start position:0%
+going to have a few cases so if the
+weight<00:01:23.340><c> in</c><00:01:23.490><c> pounds</c><00:01:23.700><c> of</c><00:01:23.970><c> a</c><00:01:24.060><c> dog</c><00:01:24.240><c> is</c><00:01:24.420><c> less</c><00:01:24.630><c> than</c>
+
+00:01:24.800 --> 00:01:24.810 align:start position:0%
+weight in pounds of a dog is less than
+ 
+
+00:01:24.810 --> 00:01:30.760 align:start position:0%
+weight in pounds of a dog is less than
+say<00:01:25.020><c> 10</c><00:01:25.320><c> we're</c><00:01:26.250><c> gonna</c><00:01:26.340><c> say</c><00:01:26.610><c> it's</c><00:01:26.820><c> going</c><00:01:27.000><c> to</c><00:01:27.090><c> yet</c>
+
+00:01:30.760 --> 00:01:30.770 align:start position:0%
+ 
+ 
+
+00:01:30.770 --> 00:01:33.020 align:start position:0%
+ 
+otherwise<00:01:31.770><c> if</c><00:01:32.009><c> the</c><00:01:32.130><c> wave</c><00:01:32.250><c> in</c><00:01:32.400><c> pounds</c><00:01:32.729><c> is</c><00:01:32.820><c> less</c>
+
+00:01:33.020 --> 00:01:33.030 align:start position:0%
+otherwise if the wave in pounds is less
+ 
+
+00:01:33.030 --> 00:01:38.890 align:start position:0%
+otherwise if the wave in pounds is less
+than<00:01:33.240><c> 30</c><00:01:34.130><c> then</c><00:01:35.130><c> we</c><00:01:35.640><c> will</c><00:01:35.790><c> say</c><00:01:36.000><c> that</c><00:01:36.030><c> it</c><00:01:36.570><c> barks</c>
+
+00:01:38.890 --> 00:01:38.900 align:start position:0%
+than 30 then we will say that it barks
+ 
+
+00:01:38.900 --> 00:01:43.310 align:start position:0%
+than 30 then we will say that it barks
+otherwise<00:01:39.900><c> it's</c><00:01:40.229><c> such</c><00:01:40.409><c> a</c><00:01:40.439><c> large</c><00:01:40.740><c> dog</c><00:01:42.110><c> that</c><00:01:43.110><c> it</c>
+
+00:01:43.310 --> 00:01:43.320 align:start position:0%
+otherwise it's such a large dog that it
+ 
+
+00:01:43.320 --> 00:01:46.069 align:start position:0%
+otherwise it's such a large dog that it
+has<00:01:43.710><c> a</c><00:01:43.740><c> wolf</c><00:01:44.189><c> sound</c><00:01:44.549><c> okay</c><00:01:45.030><c> so</c><00:01:45.840><c> there's</c><00:01:45.990><c> no</c>
+
+00:01:46.069 --> 00:01:46.079 align:start position:0%
+has a wolf sound okay so there's no
+ 
+
+00:01:46.079 --> 00:01:47.870 align:start position:0%
+has a wolf sound okay so there's no
+Malamutes<00:01:46.530><c> here</c><00:01:46.799><c> like</c><00:01:47.009><c> that</c><00:01:47.159><c> dog</c><00:01:47.399><c> we</c><00:01:47.579><c> had</c><00:01:47.729><c> with</c>
+
+00:01:47.870 --> 00:01:47.880 align:start position:0%
+Malamutes here like that dog we had with
+ 
+
+00:01:47.880 --> 00:01:49.460 align:start position:0%
+Malamutes here like that dog we had with
+the<00:01:47.970><c> beautiful</c><00:01:48.420><c> hmm</c>
+
+00:01:49.460 --> 00:01:49.470 align:start position:0%
+the beautiful hmm
+ 
+
+00:01:49.470 --> 00:01:52.270 align:start position:0%
+the beautiful hmm
+so<00:01:49.770><c> will</c><00:01:49.890><c> default</c><00:01:50.280><c> to</c><00:01:50.310><c> wolf</c><00:01:50.610><c> for</c><00:01:50.850><c> large</c><00:01:51.030><c> dogs</c>
+
+00:01:52.270 --> 00:01:52.280 align:start position:0%
+so will default to wolf for large dogs
+ 
+
+00:01:52.280 --> 00:01:56.260 align:start position:0%
+so will default to wolf for large dogs
+so<00:01:53.280><c> that's</c><00:01:53.460><c> the</c><00:01:53.579><c> make</c><00:01:53.759><c> noise</c><00:01:53.909><c> method</c><00:01:54.329><c> and</c><00:01:54.689><c> now</c>
+
+00:01:56.260 --> 00:01:56.270 align:start position:0%
+so that's the make noise method and now
+ 
+
+00:01:56.270 --> 00:01:59.870 align:start position:0%
+so that's the make noise method and now
+if<00:01:57.270><c> we</c><00:01:57.329><c> try</c><00:01:57.630><c> and</c><00:01:57.810><c> compile</c><00:01:58.259><c> our</c><00:01:58.920><c> dog</c><00:01:59.219><c> class</c><00:01:59.520><c> I</c>
+
+00:01:59.870 --> 00:01:59.880 align:start position:0%
+if we try and compile our dog class I
+ 
+
+00:01:59.880 --> 00:02:03.260 align:start position:0%
+if we try and compile our dog class I
+get<00:02:00.540><c> this</c><00:02:00.689><c> funny</c><00:02:00.960><c> message</c><00:02:02.270><c> non-static</c>
+
+00:02:03.260 --> 00:02:03.270 align:start position:0%
+get this funny message non-static
+ 
+
+00:02:03.270 --> 00:02:06.080 align:start position:0%
+get this funny message non-static
+variable<00:02:03.299><c> weight</c><00:02:04.290><c> in</c><00:02:04.530><c> pounds</c><00:02:04.950><c> cannot</c><00:02:05.909><c> be</c>
+
+00:02:06.080 --> 00:02:06.090 align:start position:0%
+variable weight in pounds cannot be
+ 
+
+00:02:06.090 --> 00:02:08.660 align:start position:0%
+variable weight in pounds cannot be
+referenced<00:02:06.570><c> from</c><00:02:06.719><c> a</c><00:02:07.020><c> static</c><00:02:07.200><c> context</c><00:02:07.890><c> so</c>
+
+00:02:08.660 --> 00:02:08.670 align:start position:0%
+referenced from a static context so
+ 
+
+00:02:08.670 --> 00:02:09.979 align:start position:0%
+referenced from a static context so
+we'll<00:02:08.759><c> get</c><00:02:08.940><c> a</c><00:02:08.970><c> better</c><00:02:09.209><c> sense</c><00:02:09.569><c> for</c><00:02:09.660><c> what</c><00:02:09.810><c> that</c>
+
+00:02:09.979 --> 00:02:09.989 align:start position:0%
+we'll get a better sense for what that
+ 
+
+00:02:09.989 --> 00:02:10.760 align:start position:0%
+we'll get a better sense for what that
+means<00:02:10.200><c> women</c>
+
+00:02:10.760 --> 00:02:10.770 align:start position:0%
+means women
+ 
+
+00:02:10.770 --> 00:02:12.260 align:start position:0%
+means women
+tell<00:02:10.860><c> you</c><00:02:10.980><c> that</c><00:02:11.040><c> the</c><00:02:11.280><c> simple</c><00:02:11.580><c> solution</c><00:02:12.000><c> for</c><00:02:12.240><c> us</c>
+
+00:02:12.260 --> 00:02:12.270 align:start position:0%
+tell you that the simple solution for us
+ 
+
+00:02:12.270 --> 00:02:14.210 align:start position:0%
+tell you that the simple solution for us
+right<00:02:12.540><c> now</c><00:02:12.720><c> this</c><00:02:13.350><c> is</c><00:02:13.500><c> not</c><00:02:13.650><c> always</c><00:02:13.860><c> the</c><00:02:14.130><c> right</c>
+
+00:02:14.210 --> 00:02:14.220 align:start position:0%
+right now this is not always the right
+ 
+
+00:02:14.220 --> 00:02:15.950 align:start position:0%
+right now this is not always the right
+solution<00:02:14.640><c> we</c><00:02:14.850><c> get</c><00:02:15.030><c> this</c><00:02:15.150><c> compiler</c><00:02:15.630><c> message</c>
+
+00:02:15.950 --> 00:02:15.960 align:start position:0%
+solution we get this compiler message
+ 
+
+00:02:15.960 --> 00:02:17.630 align:start position:0%
+solution we get this compiler message
+but<00:02:16.470><c> what</c><00:02:16.920><c> I'm</c><00:02:17.040><c> gonna</c><00:02:17.160><c> do</c><00:02:17.340><c> here</c><00:02:17.550><c> is</c><00:02:17.580><c> just</c>
+
+00:02:17.630 --> 00:02:17.640 align:start position:0%
+but what I'm gonna do here is just
+ 
+
+00:02:17.640 --> 00:02:19.610 align:start position:0%
+but what I'm gonna do here is just
+delete<00:02:18.090><c> the</c><00:02:18.240><c> word</c><00:02:18.360><c> static</c><00:02:18.660><c> and</c><00:02:19.320><c> we'll</c><00:02:19.470><c> pick</c>
+
+00:02:19.610 --> 00:02:19.620 align:start position:0%
+delete the word static and we'll pick
+ 
+
+00:02:19.620 --> 00:02:22.430 align:start position:0%
+delete the word static and we'll pick
+apart<00:02:19.980><c> why</c><00:02:20.130><c> that</c><00:02:20.400><c> is</c><00:02:20.630><c> now</c><00:02:21.630><c> if</c><00:02:21.720><c> I</c><00:02:21.810><c> try</c><00:02:21.960><c> copilot</c>
+
+00:02:22.430 --> 00:02:22.440 align:start position:0%
+apart why that is now if I try copilot
+ 
+
+00:02:22.440 --> 00:02:25.010 align:start position:0%
+apart why that is now if I try copilot
+dog<00:02:23.070><c> Java</c><00:02:23.520><c> compiles</c><00:02:24.120><c> and</c><00:02:24.300><c> this</c><00:02:24.690><c> is</c><00:02:24.810><c> now</c><00:02:24.990><c> a</c>
+
+00:02:25.010 --> 00:02:25.020 align:start position:0%
+dog Java compiles and this is now a
+ 
+
+00:02:25.020 --> 00:02:27.410 align:start position:0%
+dog Java compiles and this is now a
+blueprint<00:02:25.710><c> for</c><00:02:25.830><c> all</c><00:02:26.220><c> dogs</c><00:02:26.490><c> it</c><00:02:27.120><c> can</c><00:02:27.330><c> have</c>
+
+00:02:27.410 --> 00:02:27.420 align:start position:0%
+blueprint for all dogs it can have
+ 
+
+00:02:27.420 --> 00:02:29.090 align:start position:0%
+blueprint for all dogs it can have
+different<00:02:27.900><c> behavior</c><00:02:28.320><c> based</c><00:02:28.620><c> on</c><00:02:28.830><c> the</c><00:02:28.920><c> weight</c>
+
+00:02:29.090 --> 00:02:29.100 align:start position:0%
+different behavior based on the weight
+ 
+
+00:02:29.100 --> 00:02:31.760 align:start position:0%
+different behavior based on the weight
+and<00:02:29.310><c> pounds</c><00:02:29.700><c> of</c><00:02:29.760><c> the</c><00:02:29.880><c> dog</c><00:02:30.060><c> and</c><00:02:30.600><c> just</c><00:02:30.810><c> glorious</c>
+
+00:02:31.760 --> 00:02:31.770 align:start position:0%
+and pounds of the dog and just glorious
+ 
+
+00:02:31.770 --> 00:02:34.610 align:start position:0%
+and pounds of the dog and just glorious
+then<00:02:32.510><c> let's</c><00:02:33.510><c> go</c><00:02:33.630><c> into</c><00:02:33.750><c> dog</c><00:02:33.930><c> launcher</c><00:02:34.350><c> and</c><00:02:34.470><c> see</c>
+
+00:02:34.610 --> 00:02:34.620 align:start position:0%
+then let's go into dog launcher and see
+ 
+
+00:02:34.620 --> 00:02:36.320 align:start position:0%
+then let's go into dog launcher and see
+what<00:02:34.740><c> things</c><00:02:34.830><c> are</c><00:02:35.040><c> like</c><00:02:35.190><c> so</c><00:02:35.520><c> if</c><00:02:35.790><c> we</c><00:02:35.910><c> now</c><00:02:36.060><c> try</c><00:02:36.120><c> to</c>
+
+00:02:36.320 --> 00:02:36.330 align:start position:0%
+what things are like so if we now try to
+ 
+
+00:02:36.330 --> 00:02:40.520 align:start position:0%
+what things are like so if we now try to
+compile<00:02:36.750><c> dog</c><00:02:37.080><c> launcher</c><00:02:37.670><c> we</c><00:02:38.670><c> get</c><00:02:38.880><c> a</c><00:02:39.200><c> non</c><00:02:40.200><c> static</c>
+
+00:02:40.520 --> 00:02:40.530 align:start position:0%
+compile dog launcher we get a non static
+ 
+
+00:02:40.530 --> 00:02:42.350 align:start position:0%
+compile dog launcher we get a non static
+method<00:02:40.680><c> make</c><00:02:41.220><c> noise</c><00:02:41.490><c> cannot</c><00:02:42.000><c> be</c><00:02:42.180><c> referenced</c>
+
+00:02:42.350 --> 00:02:42.360 align:start position:0%
+method make noise cannot be referenced
+ 
+
+00:02:42.360 --> 00:02:45.470 align:start position:0%
+method make noise cannot be referenced
+from<00:02:42.660><c> a</c><00:02:42.840><c> static</c><00:02:43.050><c> context</c><00:02:43.740><c> okay</c><00:02:44.310><c> so</c><00:02:45.120><c> you</c><00:02:45.300><c> might</c>
+
+00:02:45.470 --> 00:02:45.480 align:start position:0%
+from a static context okay so you might
+ 
+
+00:02:45.480 --> 00:02:46.910 align:start position:0%
+from a static context okay so you might
+be<00:02:45.510><c> tempted</c><00:02:45.750><c> to</c><00:02:45.960><c> delete</c><00:02:46.230><c> the</c><00:02:46.350><c> word</c><00:02:46.470><c> static</c>
+
+00:02:46.910 --> 00:02:46.920 align:start position:0%
+be tempted to delete the word static
+ 
+
+00:02:46.920 --> 00:02:49.370 align:start position:0%
+be tempted to delete the word static
+that<00:02:47.070><c> is</c><00:02:47.220><c> not</c><00:02:47.400><c> the</c><00:02:47.550><c> right</c><00:02:47.640><c> answer</c><00:02:47.700><c> here</c><00:02:48.380><c> what</c>
+
+00:02:49.370 --> 00:02:49.380 align:start position:0%
+that is not the right answer here what
+ 
+
+00:02:49.380 --> 00:02:50.900 align:start position:0%
+that is not the right answer here what
+we<00:02:49.500><c> want</c><00:02:49.620><c> to</c><00:02:49.770><c> do</c><00:02:49.890><c> instead</c><00:02:50.040><c> this</c><00:02:50.460><c> is</c><00:02:50.580><c> gonna</c><00:02:50.700><c> be</c><00:02:50.880><c> a</c>
+
+00:02:50.900 --> 00:02:50.910 align:start position:0%
+we want to do instead this is gonna be a
+ 
+
+00:02:50.910 --> 00:02:53.300 align:start position:0%
+we want to do instead this is gonna be a
+new<00:02:51.180><c> piece</c><00:02:51.450><c> of</c><00:02:51.480><c> syntax</c><00:02:51.780><c> I'm</c><00:02:52.590><c> gonna</c><00:02:52.800><c> say</c><00:02:52.950><c> I</c><00:02:53.130><c> need</c>
+
+00:02:53.300 --> 00:02:53.310 align:start position:0%
+new piece of syntax I'm gonna say I need
+ 
+
+00:02:53.310 --> 00:02:55.850 align:start position:0%
+new piece of syntax I'm gonna say I need
+a<00:02:53.370><c> specific</c><00:02:53.610><c> dog</c><00:02:54.270><c> okay</c><00:02:54.810><c> so</c><00:02:55.470><c> I'm</c><00:02:55.530><c> gonna</c><00:02:55.620><c> say</c>
+
+00:02:55.850 --> 00:02:55.860 align:start position:0%
+a specific dog okay so I'm gonna say
+ 
+
+00:02:55.860 --> 00:02:58.640 align:start position:0%
+a specific dog okay so I'm gonna say
+this<00:02:56.490><c> is</c><00:02:56.640><c> totally</c><00:02:56.820><c> new</c><00:02:57.150><c> syntax</c><00:02:57.540><c> dog</c><00:02:57.870><c> t</c><00:02:58.200><c> equals</c>
+
+00:02:58.640 --> 00:02:58.650 align:start position:0%
+this is totally new syntax dog t equals
+ 
+
+00:02:58.650 --> 00:03:01.970 align:start position:0%
+this is totally new syntax dog t equals
+new<00:02:58.920><c> dog</c><00:02:59.160><c> this</c><00:03:00.090><c> means</c><00:03:00.300><c> create</c><00:03:00.750><c> a</c><00:03:00.780><c> dog</c><00:03:01.080><c> okay</c><00:03:01.860><c> a</c>
+
+00:03:01.970 --> 00:03:01.980 align:start position:0%
+new dog this means create a dog okay a
+ 
+
+00:03:01.980 --> 00:03:04.970 align:start position:0%
+new dog this means create a dog okay a
+new<00:03:02.310><c> dog</c><00:03:02.520><c> and</c><00:03:02.900><c> let's</c><00:03:03.900><c> call</c><00:03:04.140><c> that</c><00:03:04.350><c> dog</c><00:03:04.530><c> in</c><00:03:04.830><c> this</c>
+
+00:03:04.970 --> 00:03:04.980 align:start position:0%
+new dog and let's call that dog in this
+ 
+
+00:03:04.980 --> 00:03:07.760 align:start position:0%
+new dog and let's call that dog in this
+case<00:03:05.160><c> D</c><00:03:05.460><c> okay</c><00:03:06.110><c> then</c><00:03:07.110><c> what</c><00:03:07.290><c> I'm</c><00:03:07.380><c> gonna</c><00:03:07.470><c> do</c><00:03:07.650><c> is</c>
+
+00:03:07.760 --> 00:03:07.770 align:start position:0%
+case D okay then what I'm gonna do is
+ 
+
+00:03:07.770 --> 00:03:11.330 align:start position:0%
+case D okay then what I'm gonna do is
+say<00:03:07.920><c> D</c><00:03:08.610><c> dot</c><00:03:08.910><c> weight</c><00:03:09.180><c> in</c><00:03:09.390><c> pounds</c><00:03:09.630><c> equals</c><00:03:10.470><c> let's</c>
+
+00:03:11.330 --> 00:03:11.340 align:start position:0%
+say D dot weight in pounds equals let's
+ 
+
+00:03:11.340 --> 00:03:14.720 align:start position:0%
+say D dot weight in pounds equals let's
+say<00:03:11.480><c> 25</c><00:03:12.560><c> so</c><00:03:13.560><c> the</c><00:03:13.650><c> dog</c><00:03:13.830><c> now</c><00:03:14.040><c> gains</c><00:03:14.340><c> a</c><00:03:14.490><c> certain</c>
+
+00:03:14.720 --> 00:03:14.730 align:start position:0%
+say 25 so the dog now gains a certain
+ 
+
+00:03:14.730 --> 00:03:16.910 align:start position:0%
+say 25 so the dog now gains a certain
+weight<00:03:14.910><c> and</c><00:03:15.300><c> then</c><00:03:15.959><c> instead</c><00:03:16.260><c> of</c><00:03:16.320><c> saying</c><00:03:16.440><c> dog</c>
+
+00:03:16.910 --> 00:03:16.920 align:start position:0%
+weight and then instead of saying dog
+ 
+
+00:03:16.920 --> 00:03:19.790 align:start position:0%
+weight and then instead of saying dog
+not<00:03:17.430><c> make</c><00:03:17.700><c> noise</c><00:03:17.910><c> I'm</c><00:03:18.330><c> gonna</c><00:03:18.900><c> say</c><00:03:19.050><c> D</c><00:03:19.320><c> make</c>
+
+00:03:19.790 --> 00:03:19.800 align:start position:0%
+not make noise I'm gonna say D make
+ 
+
+00:03:19.800 --> 00:03:21.770 align:start position:0%
+not make noise I'm gonna say D make
+noise<00:03:20.010><c> okay</c><00:03:20.400><c> that's</c><00:03:20.820><c> a</c><00:03:20.910><c> really</c><00:03:21.300><c> important</c>
+
+00:03:21.770 --> 00:03:21.780 align:start position:0%
+noise okay that's a really important
+ 
+
+00:03:21.780 --> 00:03:24.920 align:start position:0%
+noise okay that's a really important
+point<00:03:21.959><c> so</c><00:03:22.650><c> this</c><00:03:22.860><c> is</c><00:03:23.010><c> like</c><00:03:23.220><c> saying</c><00:03:23.510><c> great</c><00:03:24.510><c> sky</c>
+
+00:03:24.920 --> 00:03:24.930 align:start position:0%
+point so this is like saying great sky
+ 
+
+00:03:24.930 --> 00:03:27.110 align:start position:0%
+point so this is like saying great sky
+dog<00:03:25.230><c> the</c><00:03:25.500><c> Platonic</c><00:03:26.010><c> ideal</c><00:03:26.400><c> of</c><00:03:26.430><c> all</c><00:03:26.790><c> dogs</c>
+
+00:03:27.110 --> 00:03:27.120 align:start position:0%
+dog the Platonic ideal of all dogs
+ 
+
+00:03:27.120 --> 00:03:29.660 align:start position:0%
+dog the Platonic ideal of all dogs
+please<00:03:27.570><c> make</c><00:03:27.930><c> a</c><00:03:27.959><c> noise</c><00:03:28.200><c> but</c><00:03:29.160><c> if</c><00:03:29.280><c> we</c><00:03:29.400><c> look</c><00:03:29.550><c> at</c>
+
+00:03:29.660 --> 00:03:29.670 align:start position:0%
+please make a noise but if we look at
+ 
+
+00:03:29.670 --> 00:03:32.120 align:start position:0%
+please make a noise but if we look at
+the<00:03:29.730><c> dog</c><00:03:29.910><c> class</c><00:03:30.380><c> this</c><00:03:31.380><c> is</c><00:03:31.530><c> expecting</c><00:03:32.040><c> a</c>
+
+00:03:32.120 --> 00:03:32.130 align:start position:0%
+the dog class this is expecting a
+ 
+
+00:03:32.130 --> 00:03:34.040 align:start position:0%
+the dog class this is expecting a
+specific<00:03:32.760><c> dog</c><00:03:32.970><c> to</c><00:03:33.209><c> be</c><00:03:33.300><c> making</c><00:03:33.630><c> noise</c><00:03:33.720><c> it's</c>
+
+00:03:34.040 --> 00:03:34.050 align:start position:0%
+specific dog to be making noise it's
+ 
+
+00:03:34.050 --> 00:03:36.710 align:start position:0%
+specific dog to be making noise it's
+saying<00:03:34.200><c> if</c><00:03:34.410><c> my</c><00:03:34.470><c> weight</c><00:03:35.220><c> if</c><00:03:35.459><c> me</c><00:03:35.760><c> me</c><00:03:36.209><c> you</c><00:03:36.600><c> know</c>
+
+00:03:36.710 --> 00:03:36.720 align:start position:0%
+saying if my weight if me me you know
+ 
+
+00:03:36.720 --> 00:03:39.050 align:start position:0%
+saying if my weight if me me you know
+Maya<00:03:36.990><c> or</c><00:03:37.290><c> whoever</c><00:03:37.530><c> Yap</c><00:03:37.830><c> stir</c><00:03:38.070><c> if</c><00:03:38.459><c> my</c><00:03:38.730><c> weight</c><00:03:38.940><c> in</c>
+
+00:03:39.050 --> 00:03:39.060 align:start position:0%
+Maya or whoever Yap stir if my weight in
+ 
+
+00:03:39.060 --> 00:03:40.370 align:start position:0%
+Maya or whoever Yap stir if my weight in
+pounds<00:03:39.209><c> is</c><00:03:39.450><c> less</c><00:03:39.600><c> than</c><00:03:39.750><c> 10</c><00:03:39.959><c> I'm</c><00:03:40.080><c> going</c><00:03:40.230><c> to</c><00:03:40.290><c> do</c>
+
+00:03:40.370 --> 00:03:40.380 align:start position:0%
+pounds is less than 10 I'm going to do
+ 
+
+00:03:40.380 --> 00:03:42.560 align:start position:0%
+pounds is less than 10 I'm going to do
+this<00:03:40.530><c> and</c><00:03:40.770><c> so</c><00:03:40.890><c> forth</c><00:03:41.250><c> so</c><00:03:41.850><c> instead</c><00:03:42.180><c> what</c><00:03:42.330><c> I</c><00:03:42.390><c> need</c>
+
+00:03:42.560 --> 00:03:42.570 align:start position:0%
+this and so forth so instead what I need
+ 
+
+00:03:42.570 --> 00:03:45.170 align:start position:0%
+this and so forth so instead what I need
+to<00:03:42.690><c> do</c><00:03:42.840><c> is</c><00:03:43.020><c> reference</c><00:03:43.410><c> a</c><00:03:43.530><c> specific</c><00:03:43.680><c> dog</c><00:03:44.550><c> in</c>
+
+00:03:45.170 --> 00:03:45.180 align:start position:0%
+to do is reference a specific dog in
+ 
+
+00:03:45.180 --> 00:03:46.550 align:start position:0%
+to do is reference a specific dog in
+fact<00:03:45.450><c> in</c><00:03:45.630><c> this</c><00:03:45.720><c> case</c><00:03:45.780><c> it's</c><00:03:46.140><c> the</c><00:03:46.290><c> one</c><00:03:46.440><c> I</c><00:03:46.470><c> just</c>
+
+00:03:46.550 --> 00:03:46.560 align:start position:0%
+fact in this case it's the one I just
+ 
+
+00:03:46.560 --> 00:03:50.290 align:start position:0%
+fact in this case it's the one I just
+made<00:03:47.330><c> so</c><00:03:48.330><c> if</c><00:03:48.450><c> I</c><00:03:48.510><c> do</c><00:03:48.570><c> Java</c><00:03:48.930><c> C</c><00:03:49.200><c> dog</c><00:03:49.440><c> watcher</c><00:03:49.860><c> Java</c>
+
+00:03:50.290 --> 00:03:50.300 align:start position:0%
+made so if I do Java C dog watcher Java
+ 
+
+00:03:50.300 --> 00:03:54.170 align:start position:0%
+made so if I do Java C dog watcher Java
+and<00:03:51.300><c> then</c><00:03:51.600><c> do</c><00:03:51.750><c> GABA</c><00:03:51.959><c> dog</c><00:03:52.290><c> launcher</c><00:03:52.890><c> I</c><00:03:53.100><c> get</c><00:03:53.910><c> bark</c>
+
+00:03:54.170 --> 00:03:54.180 align:start position:0%
+and then do GABA dog launcher I get bark
+ 
+
+00:03:54.180 --> 00:03:56.030 align:start position:0%
+and then do GABA dog launcher I get bark
+because<00:03:54.570><c> it's</c><00:03:54.810><c> a</c><00:03:54.870><c> 25</c><00:03:55.290><c> pound</c><00:03:55.470><c> dog</c>
+
+00:03:56.030 --> 00:03:56.040 align:start position:0%
+because it's a 25 pound dog
+ 
+
+00:03:56.040 --> 00:04:00.740 align:start position:0%
+because it's a 25 pound dog
+I<00:03:56.070><c> do</c><00:03:56.610><c> 51</c><00:03:57.209><c> and</c><00:03:58.170><c> I</c><00:03:58.290><c> recompile</c><00:03:58.830><c> and</c><00:03:59.070><c> run</c><00:03:59.160><c> it</c><00:03:59.750><c> then</c>
+
+00:04:00.740 --> 00:04:00.750 align:start position:0%
+I do 51 and I recompile and run it then
+ 
+
+00:04:00.750 --> 00:04:03.590 align:start position:0%
+I do 51 and I recompile and run it then
+I<00:04:00.840><c> get</c><00:04:00.990><c> move</c><00:04:01.350><c> all</c><00:04:02.010><c> right</c><00:04:02.100><c> so</c><00:04:03.060><c> what</c><00:04:03.209><c> this</c><00:04:03.390><c> piece</c>
+
+00:04:03.590 --> 00:04:03.600 align:start position:0%
+I get move all right so what this piece
+ 
+
+00:04:03.600 --> 00:04:06.320 align:start position:0%
+I get move all right so what this piece
+of<00:04:03.630><c> code</c><00:04:03.810><c> does</c><00:04:04.230><c> is</c><00:04:04.530><c> it</c><00:04:05.010><c> creates</c><00:04:05.280><c> a</c><00:04:05.580><c> dog</c><00:04:05.730><c> sets</c>
+
+00:04:06.320 --> 00:04:06.330 align:start position:0%
+of code does is it creates a dog sets
+ 
+
+00:04:06.330 --> 00:04:08.570 align:start position:0%
+of code does is it creates a dog sets
+its<00:04:06.540><c> weight</c><00:04:06.720><c> and</c><00:04:06.930><c> then</c><00:04:07.320><c> makes</c><00:04:07.530><c> that</c><00:04:07.830><c> specific</c>
+
+00:04:08.570 --> 00:04:08.580 align:start position:0%
+its weight and then makes that specific
+ 
+
+00:04:08.580 --> 00:04:11.000 align:start position:0%
+its weight and then makes that specific
+dog<00:04:08.820><c> make</c><00:04:09.330><c> noise</c><00:04:09.690><c> okay</c><00:04:10.170><c> and</c><00:04:10.650><c> we'll</c><00:04:10.770><c> be</c><00:04:10.860><c> picking</c>
+
+00:04:11.000 --> 00:04:11.010 align:start position:0%
+dog make noise okay and we'll be picking
+ 
+
+00:04:11.010 --> 00:04:12.800 align:start position:0%
+dog make noise okay and we'll be picking
+more<00:04:11.400><c> carefully</c><00:04:11.850><c> what</c><00:04:11.970><c> static</c><00:04:12.360><c> means</c><00:04:12.540><c> apart</c>
+
+00:04:12.800 --> 00:04:12.810 align:start position:0%
+more carefully what static means apart
+ 
+
+00:04:12.810 --> 00:04:13.820 align:start position:0%
+more carefully what static means apart
+in<00:04:12.959><c> a</c><00:04:12.989><c> minute</c><00:04:13.260><c> but</c><00:04:13.410><c> it's</c><00:04:13.500><c> want</c><00:04:13.620><c> to</c><00:04:13.680><c> make</c><00:04:13.800><c> sure</c>
+
+00:04:13.820 --> 00:04:13.830 align:start position:0%
+in a minute but it's want to make sure
+ 
+
+00:04:13.830 --> 00:04:16.870 align:start position:0%
+in a minute but it's want to make sure
+this<00:04:14.130><c> syntax</c><00:04:14.459><c> makes</c><00:04:14.790><c> it</c><00:04:15.360><c> is</c><00:04:15.540><c> clear</c><00:04:15.870><c> for</c><00:04:16.049><c> naught</c>
+
+00:04:16.870 --> 00:04:16.880 align:start position:0%
+this syntax makes it is clear for naught
+ 
+
+00:04:16.880 --> 00:04:20.960 align:start position:0%
+this syntax makes it is clear for naught
+so<00:04:18.380><c> what</c><00:04:19.380><c> I'm</c><00:04:19.470><c> gonna</c><00:04:19.590><c> do</c><00:04:19.770><c> is</c><00:04:19.919><c> one</c><00:04:20.250><c> last</c><00:04:20.609><c> little</c>
+
+00:04:20.960 --> 00:04:20.970 align:start position:0%
+so what I'm gonna do is one last little
+ 
+
+00:04:20.970 --> 00:04:23.600 align:start position:0%
+so what I'm gonna do is one last little
+tweak<00:04:21.210><c> to</c><00:04:21.239><c> this</c><00:04:21.660><c> dog</c><00:04:22.380><c> class</c><00:04:22.800><c> and</c><00:04:23.100><c> dog</c><00:04:23.220><c> launcher</c>
+
+00:04:23.600 --> 00:04:23.610 align:start position:0%
+tweak to this dog class and dog launcher
+ 
+
+00:04:23.610 --> 00:04:25.040 align:start position:0%
+tweak to this dog class and dog launcher
+class<00:04:23.820><c> before</c><00:04:24.030><c> I</c><00:04:24.210><c> move</c><00:04:24.390><c> on</c><00:04:24.540><c> and</c><00:04:24.750><c> kind</c><00:04:24.930><c> of</c>
+
+00:04:25.040 --> 00:04:25.050 align:start position:0%
+class before I move on and kind of
+ 
+
+00:04:25.050 --> 00:04:27.650 align:start position:0%
+class before I move on and kind of
+reflect<00:04:25.830><c> on</c><00:04:25.950><c> what</c><00:04:26.070><c> we've</c><00:04:26.190><c> done</c><00:04:26.370><c> so</c><00:04:27.360><c> for</c><00:04:27.510><c> those</c>
+
+00:04:27.650 --> 00:04:27.660 align:start position:0%
+reflect on what we've done so for those
+ 
+
+00:04:27.660 --> 00:04:28.880 align:start position:0%
+reflect on what we've done so for those
+of<00:04:27.720><c> you</c><00:04:27.900><c> with</c><00:04:28.110><c> some</c><00:04:28.260><c> object-oriented</c>
+
+00:04:28.880 --> 00:04:28.890 align:start position:0%
+of you with some object-oriented
+ 
+
+00:04:28.890 --> 00:04:29.990 align:start position:0%
+of you with some object-oriented
+programming<00:04:29.250><c> experience</c><00:04:29.430><c> which</c><00:04:29.850><c> is</c>
+
+00:04:29.990 --> 00:04:30.000 align:start position:0%
+programming experience which is
+ 
+
+00:04:30.000 --> 00:04:31.820 align:start position:0%
+programming experience which is
+hopefully<00:04:30.360><c> almost</c><00:04:30.630><c> everybody</c><00:04:31.080><c> you're</c>
+
+00:04:31.820 --> 00:04:31.830 align:start position:0%
+hopefully almost everybody you're
+ 
+
+00:04:31.830 --> 00:04:34.280 align:start position:0%
+hopefully almost everybody you're
+probably<00:04:32.070><c> used</c><00:04:32.490><c> to</c><00:04:32.580><c> the</c><00:04:32.729><c> idea</c><00:04:32.760><c> that</c><00:04:33.290><c> setting</c>
+
+00:04:34.280 --> 00:04:34.290 align:start position:0%
+probably used to the idea that setting
+ 
+
+00:04:34.290 --> 00:04:36.140 align:start position:0%
+probably used to the idea that setting
+variables<00:04:35.010><c> like</c><00:04:35.130><c> this</c><00:04:35.340><c> manually</c><00:04:35.700><c> is</c><00:04:35.880><c> kind</c><00:04:36.120><c> of</c>
+
+00:04:36.140 --> 00:04:36.150 align:start position:0%
+variables like this manually is kind of
+ 
+
+00:04:36.150 --> 00:04:36.560 align:start position:0%
+variables like this manually is kind of
+strange
+
+00:04:36.560 --> 00:04:36.570 align:start position:0%
+strange
+ 
+
+00:04:36.570 --> 00:04:39.500 align:start position:0%
+strange
+so<00:04:37.350><c> more</c><00:04:37.590><c> typically</c><00:04:38.130><c> what</c><00:04:38.669><c> we'll</c><00:04:38.790><c> do</c><00:04:38.940><c> is</c><00:04:39.180><c> the</c>
+
+00:04:39.500 --> 00:04:39.510 align:start position:0%
+so more typically what we'll do is the
+ 
+
+00:04:39.510 --> 00:04:41.360 align:start position:0%
+so more typically what we'll do is the
+dog<00:04:39.750><c> launcher</c><00:04:40.229><c> class</c><00:04:40.440><c> when</c><00:04:40.830><c> we</c><00:04:40.950><c> create</c><00:04:41.250><c> the</c>
+
+00:04:41.360 --> 00:04:41.370 align:start position:0%
+dog launcher class when we create the
+ 
+
+00:04:41.370 --> 00:04:42.800 align:start position:0%
+dog launcher class when we create the
+dog<00:04:41.550><c> will</c><00:04:41.729><c> actually</c><00:04:41.760><c> give</c><00:04:42.120><c> it</c><00:04:42.240><c> as</c><00:04:42.360><c> a</c><00:04:42.390><c> parameter</c>
+
+00:04:42.800 --> 00:04:42.810 align:start position:0%
+dog will actually give it as a parameter
+ 
+
+00:04:42.810 --> 00:04:45.590 align:start position:0%
+dog will actually give it as a parameter
+to<00:04:43.500><c> the</c><00:04:43.620><c> dog</c><00:04:43.830><c> creation</c><00:04:44.370><c> process</c><00:04:44.880><c> so</c><00:04:45.419><c> I'm</c><00:04:45.479><c> gonna</c>
+
+00:04:45.590 --> 00:04:45.600 align:start position:0%
+to the dog creation process so I'm gonna
+ 
+
+00:04:45.600 --> 00:04:48.140 align:start position:0%
+to the dog creation process so I'm gonna
+get<00:04:45.780><c> rid</c><00:04:45.900><c> of</c><00:04:45.960><c> this</c><00:04:46.490><c> and</c><00:04:47.490><c> so</c><00:04:47.669><c> in</c><00:04:47.789><c> order</c><00:04:48.000><c> to</c>
+
+00:04:48.140 --> 00:04:48.150 align:start position:0%
+get rid of this and so in order to
+ 
+
+00:04:48.150 --> 00:04:49.700 align:start position:0%
+get rid of this and so in order to
+enable<00:04:48.360><c> this</c><00:04:48.660><c> I</c><00:04:48.690><c> mean</c><00:04:48.870><c> if</c><00:04:48.990><c> I</c><00:04:49.080><c> try</c><00:04:49.289><c> it</c><00:04:49.320><c> right</c><00:04:49.560><c> now</c>
+
+00:04:49.700 --> 00:04:49.710 align:start position:0%
+enable this I mean if I try it right now
+ 
+
+00:04:49.710 --> 00:04:51.610 align:start position:0%
+enable this I mean if I try it right now
+it's<00:04:50.190><c> not</c><00:04:50.310><c> gonna</c><00:04:50.460><c> work</c><00:04:50.700><c> it's</c><00:04:50.910><c> gonna</c><00:04:51.060><c> say</c>
+
+00:04:51.610 --> 00:04:51.620 align:start position:0%
+it's not gonna work it's gonna say
+ 
+
+00:04:51.620 --> 00:04:53.690 align:start position:0%
+it's not gonna work it's gonna say
+constructor<00:04:52.620><c> class</c><00:04:52.830><c> and</c><00:04:53.070><c> dog</c><00:04:53.190><c> cannot</c><00:04:53.550><c> be</c>
+
+00:04:53.690 --> 00:04:53.700 align:start position:0%
+constructor class and dog cannot be
+ 
+
+00:04:53.700 --> 00:04:56.450 align:start position:0%
+constructor class and dog cannot be
+applied<00:04:53.970><c> to</c><00:04:54.120><c> given</c><00:04:54.390><c> types</c><00:04:54.630><c> data</c><00:04:55.440><c> so</c><00:04:56.190><c> what</c><00:04:56.340><c> it's</c>
+
+00:04:56.450 --> 00:04:56.460 align:start position:0%
+applied to given types data so what it's
+ 
+
+00:04:56.460 --> 00:04:57.680 align:start position:0%
+applied to given types data so what it's
+saying<00:04:56.550><c> is</c><00:04:56.820><c> I</c><00:04:56.880><c> don't</c><00:04:56.970><c> know</c><00:04:57.180><c> what</c><00:04:57.300><c> to</c><00:04:57.450><c> do</c><00:04:57.570><c> with</c>
+
+00:04:57.680 --> 00:04:57.690 align:start position:0%
+saying is I don't know what to do with
+ 
+
+00:04:57.690 --> 00:05:00.560 align:start position:0%
+saying is I don't know what to do with
+this<00:04:57.810><c> number</c><00:04:58.169><c> so</c><00:04:59.130><c> to</c><00:04:59.220><c> fix</c><00:04:59.400><c> that</c><00:04:59.669><c> what</c><00:05:00.450><c> we're</c>
+
+00:05:00.560 --> 00:05:00.570 align:start position:0%
+this number so to fix that what we're
+ 
+
+00:05:00.570 --> 00:05:04.279 align:start position:0%
+this number so to fix that what we're
+gonna<00:05:00.660><c> do</c><00:05:00.900><c> is</c><00:05:01.050><c> create</c><00:05:01.260><c> a</c><00:05:01.620><c> special</c><00:05:02.870><c> thing</c><00:05:03.870><c> kind</c>
+
+00:05:04.279 --> 00:05:04.289 align:start position:0%
+gonna do is create a special thing kind
+ 
+
+00:05:04.289 --> 00:05:06.400 align:start position:0%
+gonna do is create a special thing kind
+of<00:05:04.440><c> like</c><00:05:04.560><c> a</c><00:05:04.620><c> method</c><00:05:04.950><c> known</c><00:05:05.250><c> as</c><00:05:05.310><c> a</c><00:05:05.460><c> constructor</c>
+
+00:05:06.400 --> 00:05:06.410 align:start position:0%
+of like a method known as a constructor
+ 
+
+00:05:06.410 --> 00:05:10.730 align:start position:0%
+of like a method known as a constructor
+so<00:05:07.410><c> I'm</c><00:05:07.470><c> just</c><00:05:07.650><c> gonna</c><00:05:07.740><c> say</c><00:05:07.979><c> public</c><00:05:08.460><c> dog</c><00:05:09.030><c> in</c><00:05:09.930><c> W</c>
+
+00:05:10.730 --> 00:05:10.740 align:start position:0%
+so I'm just gonna say public dog in W
+ 
+
+00:05:10.740 --> 00:05:14.330 align:start position:0%
+so I'm just gonna say public dog in W
+and<00:05:10.919><c> this</c><00:05:11.910><c> is</c><00:05:12.180><c> a</c><00:05:12.210><c> this</c><00:05:12.810><c> is</c><00:05:12.960><c> the</c><00:05:13.340><c> constructor</c>
+
+00:05:14.330 --> 00:05:14.340 align:start position:0%
+and this is a this is the constructor
+ 
+
+00:05:14.340 --> 00:05:17.000 align:start position:0%
+and this is a this is the constructor
+for<00:05:15.200><c> I'll</c><00:05:16.200><c> call</c><00:05:16.350><c> the</c><00:05:16.500><c> one</c><00:05:16.680><c> integer</c>
+
+00:05:17.000 --> 00:05:17.010 align:start position:0%
+for I'll call the one integer
+ 
+
+00:05:17.010 --> 00:05:21.110 align:start position:0%
+for I'll call the one integer
+constructor<00:05:18.200><c> for</c><00:05:19.200><c> dogs</c><00:05:19.380><c> so</c><00:05:19.760><c> what's</c><00:05:20.760><c> that</c><00:05:20.940><c> what</c>
+
+00:05:21.110 --> 00:05:21.120 align:start position:0%
+constructor for dogs so what's that what
+ 
+
+00:05:21.120 --> 00:05:23.000 align:start position:0%
+constructor for dogs so what's that what
+that's<00:05:21.270><c> going</c><00:05:21.539><c> to</c><00:05:21.660><c> do</c><00:05:21.840><c> is</c><00:05:21.990><c> if</c><00:05:22.169><c> I</c><00:05:22.320><c> say</c><00:05:22.500><c> new</c><00:05:22.740><c> dog</c>
+
+00:05:23.000 --> 00:05:23.010 align:start position:0%
+that's going to do is if I say new dog
+ 
+
+00:05:23.010 --> 00:05:25.279 align:start position:0%
+that's going to do is if I say new dog
+and<00:05:23.340><c> give</c><00:05:23.490><c> an</c><00:05:23.610><c> integer</c><00:05:23.850><c> this</c><00:05:24.660><c> constructor</c>
+
+00:05:25.279 --> 00:05:25.289 align:start position:0%
+and give an integer this constructor
+ 
+
+00:05:25.289 --> 00:05:26.810 align:start position:0%
+and give an integer this constructor
+will<00:05:25.410><c> get</c><00:05:25.560><c> called</c><00:05:25.830><c> and</c><00:05:26.160><c> that</c><00:05:26.490><c> will</c><00:05:26.580><c> specify</c>
+
+00:05:26.810 --> 00:05:26.820 align:start position:0%
+will get called and that will specify
+ 
+
+00:05:26.820 --> 00:05:29.779 align:start position:0%
+will get called and that will specify
+how<00:05:27.539><c> the</c><00:05:27.600><c> dog</c><00:05:27.870><c> is</c><00:05:28.080><c> created</c><00:05:28.530><c> so</c><00:05:29.400><c> in</c><00:05:29.520><c> this</c><00:05:29.580><c> case</c>
+
+00:05:29.779 --> 00:05:29.789 align:start position:0%
+how the dog is created so in this case
+ 
+
+00:05:29.789 --> 00:05:31.490 align:start position:0%
+how the dog is created so in this case
+the<00:05:30.030><c> constructor</c><00:05:30.600><c> is</c><00:05:30.660><c> kind</c><00:05:30.840><c> of</c><00:05:30.870><c> trivial</c><00:05:31.229><c> the</c>
+
+00:05:31.490 --> 00:05:31.500 align:start position:0%
+the constructor is kind of trivial the
+ 
+
+00:05:31.500 --> 00:05:33.500 align:start position:0%
+the constructor is kind of trivial the
+weight<00:05:31.680><c> in</c><00:05:31.890><c> pounds</c><00:05:31.940><c> should</c><00:05:32.940><c> just</c><00:05:33.150><c> be</c><00:05:33.270><c> set</c>
+
+00:05:33.500 --> 00:05:33.510 align:start position:0%
+weight in pounds should just be set
+ 
+
+00:05:33.510 --> 00:05:36.650 align:start position:0%
+weight in pounds should just be set
+equal<00:05:33.630><c> to</c><00:05:33.870><c> W</c><00:05:34.320><c> and</c><00:05:35.310><c> so</c><00:05:35.700><c> now</c><00:05:35.850><c> if</c><00:05:35.970><c> I</c><00:05:36.090><c> try</c><00:05:36.300><c> running</c>
+
+00:05:36.650 --> 00:05:36.660 align:start position:0%
+equal to W and so now if I try running
+ 
+
+00:05:36.660 --> 00:05:41.600 align:start position:0%
+equal to W and so now if I try running
+dog<00:05:37.260><c> launcher</c><00:05:37.800><c> I</c><00:05:39.500><c> run</c><00:05:40.500><c> it</c><00:05:40.620><c> and</c><00:05:40.890><c> I</c><00:05:41.010><c> get</c><00:05:41.250><c> wolf</c>
+
+00:05:41.600 --> 00:05:41.610 align:start position:0%
+dog launcher I run it and I get wolf
+ 
+
+00:05:41.610 --> 00:05:43.400 align:start position:0%
+dog launcher I run it and I get wolf
+right<00:05:42.030><c> so</c><00:05:42.210><c> this</c><00:05:42.419><c> code</c><00:05:42.600><c> is</c><00:05:42.630><c> now</c><00:05:42.960><c> functioning</c>
+
+00:05:43.400 --> 00:05:43.410 align:start position:0%
+right so this code is now functioning
+ 
+
+00:05:43.410 --> 00:05:45.529 align:start position:0%
+right so this code is now functioning
+because<00:05:44.130><c> now</c><00:05:44.280><c> I've</c><00:05:44.460><c> added</c><00:05:44.700><c> this</c><00:05:44.970><c> constructor</c>
+
+00:05:45.529 --> 00:05:45.539 align:start position:0%
+because now I've added this constructor
+ 
+
+00:05:45.539 --> 00:05:47.900 align:start position:0%
+because now I've added this constructor
+if<00:05:46.320><c> you</c><00:05:46.440><c> came</c><00:05:46.710><c> from</c><00:05:46.890><c> a</c><00:05:47.010><c> language</c><00:05:47.340><c> like</c><00:05:47.520><c> Python</c>
+
+00:05:47.900 --> 00:05:47.910 align:start position:0%
+if you came from a language like Python
+ 
+
+00:05:47.910 --> 00:05:50.750 align:start position:0%
+if you came from a language like Python
+this<00:05:48.120><c> is</c><00:05:48.240><c> very</c><00:05:48.479><c> similar</c><00:05:48.990><c> to</c><00:05:49.400><c> the</c><00:05:50.400><c> init</c><00:05:50.729><c> method</c>
+
+00:05:50.750 --> 00:05:50.760 align:start position:0%
+this is very similar to the init method
+ 
+
+00:05:50.760 --> 00:05:55.130 align:start position:0%
+this is very similar to the init method
+the<00:05:51.539><c> classes</c><00:05:52.080><c> have</c><00:05:53.600><c> one</c><00:05:54.600><c> little</c><00:05:54.810><c> side</c><00:05:55.110><c> note</c>
+
+00:05:55.130 --> 00:05:55.140 align:start position:0%
+the classes have one little side note
+ 
+
+00:05:55.140 --> 00:05:56.779 align:start position:0%
+the classes have one little side note
+I'll<00:05:55.560><c> make</c><00:05:55.740><c> is</c><00:05:55.950><c> you'll</c><00:05:56.160><c> notice</c><00:05:56.310><c> I</c><00:05:56.520><c> didn't</c>
+
+00:05:56.779 --> 00:05:56.789 align:start position:0%
+I'll make is you'll notice I didn't
+ 
+
+00:05:56.789 --> 00:05:59.090 align:start position:0%
+I'll make is you'll notice I didn't
+recompile<00:05:57.330><c> the</c><00:05:57.479><c> dog</c><00:05:57.660><c> class</c><00:05:57.990><c> it</c><00:05:58.710><c> turns</c><00:05:58.950><c> out</c>
+
+00:05:59.090 --> 00:05:59.100 align:start position:0%
+recompile the dog class it turns out
+ 
+
+00:05:59.100 --> 00:06:00.860 align:start position:0%
+recompile the dog class it turns out
+that<00:05:59.220><c> the</c><00:05:59.430><c> java</c><00:05:59.669><c> c</c><00:05:59.940><c> command</c><00:06:00.240><c> in</c><00:06:00.419><c> Java</c><00:06:00.630><c> is</c><00:06:00.840><c> very</c>
+
+00:06:00.860 --> 00:06:00.870 align:start position:0%
+that the java c command in Java is very
+ 
+
+00:06:00.870 --> 00:06:02.960 align:start position:0%
+that the java c command in Java is very
+smart<00:06:01.260><c> and</c><00:06:01.500><c> if</c><00:06:01.979><c> you</c><00:06:02.070><c> make</c><00:06:02.220><c> a</c><00:06:02.250><c> change</c><00:06:02.520><c> the</c><00:06:02.760><c> dog</c>
+
+00:06:02.960 --> 00:06:02.970 align:start position:0%
+smart and if you make a change the dog
+ 
+
+00:06:02.970 --> 00:06:05.060 align:start position:0%
+smart and if you make a change the dog
+and<00:06:03.300><c> recompile</c><00:06:03.840><c> a</c><00:06:03.960><c> dog</c><00:06:04.140><c> launcher</c><00:06:04.560><c> it'll</c>
+
+00:06:05.060 --> 00:06:05.070 align:start position:0%
+and recompile a dog launcher it'll
+ 
+
+00:06:05.070 --> 00:06:07.340 align:start position:0%
+and recompile a dog launcher it'll
+realize<00:06:05.370><c> there's</c><00:06:05.610><c> a</c><00:06:05.700><c> dependency</c><00:06:06.110><c> dog</c><00:06:07.110><c> launch</c>
+
+00:06:07.340 --> 00:06:07.350 align:start position:0%
+realize there's a dependency dog launch
+ 
+
+00:06:07.350 --> 00:06:08.779 align:start position:0%
+realize there's a dependency dog launch
+or<00:06:07.500><c> needs</c><00:06:07.680><c> dog</c><00:06:07.919><c> to</c><00:06:08.130><c> work</c><00:06:08.280><c> and</c><00:06:08.490><c> it'll</c><00:06:08.580><c> actually</c>
+
+00:06:08.779 --> 00:06:08.789 align:start position:0%
+or needs dog to work and it'll actually
+ 
+
+00:06:08.789 --> 00:06:12.440 align:start position:0%
+or needs dog to work and it'll actually
+also<00:06:09.060><c> recompile</c><00:06:09.660><c> dog</c><00:06:09.870><c> undo</c><00:06:10.350><c> that</c>
+

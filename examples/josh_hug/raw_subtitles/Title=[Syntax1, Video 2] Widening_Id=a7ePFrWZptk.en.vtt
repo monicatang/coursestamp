@@ -1,0 +1,304 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.360 align:start position:0%
+ 
+there's<00:00:00.780><c> a</c><00:00:00.900><c> closely</c><00:00:01.230><c> related</c><00:00:01.260><c> idea</c><00:00:01.979><c> another</c>
+
+00:00:02.360 --> 00:00:02.370 align:start position:0%
+there's a closely related idea another
+ 
+
+00:00:02.370 --> 00:00:03.980 align:start position:0%
+there's a closely related idea another
+type<00:00:02.580><c> of</c><00:00:02.610><c> automatic</c><00:00:03.030><c> conversion</c><00:00:03.449><c> known</c><00:00:03.870><c> as</c>
+
+00:00:03.980 --> 00:00:03.990 align:start position:0%
+type of automatic conversion known as
+ 
+
+00:00:03.990 --> 00:00:06.499 align:start position:0%
+type of automatic conversion known as
+primitive<00:00:04.410><c> whitening</c><00:00:04.890><c> so</c><00:00:05.730><c> just</c><00:00:06.120><c> like</c><00:00:06.240><c> we</c><00:00:06.359><c> saw</c>
+
+00:00:06.499 --> 00:00:06.509 align:start position:0%
+primitive whitening so just like we saw
+ 
+
+00:00:06.509 --> 00:00:08.150 align:start position:0%
+primitive whitening so just like we saw
+before<00:00:06.690><c> where</c><00:00:07.109><c> types</c><00:00:07.350><c> can</c><00:00:07.529><c> be</c><00:00:07.589><c> automatically</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+before where types can be automatically
+ 
+
+00:00:08.160 --> 00:00:10.129 align:start position:0%
+before where types can be automatically
+converted<00:00:08.400><c> from</c><00:00:08.940><c> rapper</c><00:00:09.420><c> to</c><00:00:09.599><c> reference</c><00:00:09.960><c> and</c>
+
+00:00:10.129 --> 00:00:10.139 align:start position:0%
+converted from rapper to reference and
+ 
+
+00:00:10.139 --> 00:00:12.140 align:start position:0%
+converted from rapper to reference and
+vice-versa<00:00:10.469><c> it</c><00:00:11.010><c> turns</c><00:00:11.250><c> out</c><00:00:11.460><c> that</c><00:00:11.820><c> if</c><00:00:11.940><c> we</c><00:00:11.969><c> have</c>
+
+00:00:12.140 --> 00:00:12.150 align:start position:0%
+vice-versa it turns out that if we have
+ 
+
+00:00:12.150 --> 00:00:15.499 align:start position:0%
+vice-versa it turns out that if we have
+a<00:00:12.179><c> method</c><00:00:12.570><c> that</c><00:00:12.809><c> takes</c><00:00:12.870><c> a</c><00:00:13.290><c> wide</c><00:00:13.740><c> datatype</c><00:00:14.610><c> and</c>
+
+00:00:15.499 --> 00:00:15.509 align:start position:0%
+a method that takes a wide datatype and
+ 
+
+00:00:15.509 --> 00:00:17.779 align:start position:0%
+a method that takes a wide datatype and
+we<00:00:15.719><c> pass</c><00:00:15.960><c> it</c><00:00:16.139><c> a</c><00:00:16.230><c> narrower</c><00:00:16.710><c> datatype</c><00:00:17.369><c> compared</c>
+
+00:00:17.779 --> 00:00:17.789 align:start position:0%
+we pass it a narrower datatype compared
+ 
+
+00:00:17.789 --> 00:00:20.060 align:start position:0%
+we pass it a narrower datatype compared
+to<00:00:17.940><c> the</c><00:00:18.240><c> one</c><00:00:18.630><c> we're</c><00:00:18.779><c> calling</c><00:00:19.109><c> wide</c><00:00:19.289><c> and</c><00:00:19.740><c> then</c>
+
+00:00:20.060 --> 00:00:20.070 align:start position:0%
+to the one we're calling wide and then
+ 
+
+00:00:20.070 --> 00:00:22.160 align:start position:0%
+to the one we're calling wide and then
+it<00:00:20.160><c> will</c><00:00:20.250><c> automatically</c><00:00:20.730><c> whiten</c><00:00:21.210><c> for</c><00:00:21.420><c> us</c><00:00:21.570><c> so</c>
+
+00:00:22.160 --> 00:00:22.170 align:start position:0%
+it will automatically whiten for us so
+ 
+
+00:00:22.170 --> 00:00:23.599 align:start position:0%
+it will automatically whiten for us so
+in<00:00:22.260><c> other</c><00:00:22.350><c> words</c><00:00:22.529><c> here's</c><00:00:23.130><c> a</c><00:00:23.220><c> function</c><00:00:23.580><c> that</c>
+
+00:00:23.599 --> 00:00:23.609 align:start position:0%
+in other words here's a function that
+ 
+
+00:00:23.609 --> 00:00:25.910 align:start position:0%
+in other words here's a function that
+takes<00:00:23.850><c> blah</c><00:00:24.300><c> or</c><00:00:24.660><c> sorry</c><00:00:24.960><c> it</c><00:00:25.019><c> takes</c><00:00:25.109><c> double</c><00:00:25.500><c> call</c>
+
+00:00:25.910 --> 00:00:25.920 align:start position:0%
+takes blah or sorry it takes double call
+ 
+
+00:00:25.920 --> 00:00:28.130 align:start position:0%
+takes blah or sorry it takes double call
+blah<00:00:26.130><c> double</c><00:00:26.490><c> we</c><00:00:27.300><c> can</c><00:00:27.449><c> hand</c><00:00:27.660><c> it</c><00:00:27.779><c> an</c><00:00:27.869><c> integer</c>
+
+00:00:28.130 --> 00:00:28.140 align:start position:0%
+blah double we can hand it an integer
+ 
+
+00:00:28.140 --> 00:00:31.099 align:start position:0%
+blah double we can hand it an integer
+and<00:00:28.529><c> since</c><00:00:29.189><c> Java</c><00:00:29.490><c> just</c><00:00:29.910><c> in</c><00:00:30.029><c> its</c><00:00:30.240><c> specification</c>
+
+00:00:31.099 --> 00:00:31.109 align:start position:0%
+and since Java just in its specification
+ 
+
+00:00:31.109 --> 00:00:33.620 align:start position:0%
+and since Java just in its specification
+says<00:00:31.349><c> int</c><00:00:31.590><c> are</c><00:00:31.800><c> narrower</c><00:00:32.430><c> than</c><00:00:32.880><c> doubles</c><00:00:33.270><c> it</c>
+
+00:00:33.620 --> 00:00:33.630 align:start position:0%
+says int are narrower than doubles it
+ 
+
+00:00:33.630 --> 00:00:35.060 align:start position:0%
+says int are narrower than doubles it
+will<00:00:33.750><c> automatically</c><00:00:34.200><c> whiten</c><00:00:34.620><c> and</c><00:00:34.770><c> this</c><00:00:34.950><c> will</c>
+
+00:00:35.060 --> 00:00:35.070 align:start position:0%
+will automatically whiten and this will
+ 
+
+00:00:35.070 --> 00:00:37.639 align:start position:0%
+will automatically whiten and this will
+work<00:00:35.160><c> just</c><00:00:35.219><c> fine</c><00:00:35.690><c> however</c><00:00:36.690><c> if</c><00:00:37.230><c> we</c><00:00:37.410><c> want</c><00:00:37.530><c> to</c>
+
+00:00:37.639 --> 00:00:37.649 align:start position:0%
+work just fine however if we want to
+ 
+
+00:00:37.649 --> 00:00:41.479 align:start position:0%
+work just fine however if we want to
+take<00:00:38.160><c> a</c><00:00:38.390><c> type</c><00:00:39.390><c> that</c><00:00:39.660><c> is</c><00:00:39.840><c> wider</c><00:00:40.320><c> than</c><00:00:40.649><c> the</c>
+
+00:00:41.479 --> 00:00:41.489 align:start position:0%
+take a type that is wider than the
+ 
+
+00:00:41.489 --> 00:00:43.549 align:start position:0%
+take a type that is wider than the
+expected<00:00:42.030><c> type</c><00:00:42.239><c> then</c><00:00:42.629><c> we</c><00:00:42.719><c> need</c><00:00:42.840><c> them</c><00:00:42.989><c> manually</c>
+
+00:00:43.549 --> 00:00:43.559 align:start position:0%
+expected type then we need them manually
+ 
+
+00:00:43.559 --> 00:00:46.130 align:start position:0%
+expected type then we need them manually
+specify<00:00:43.860><c> a</c><00:00:44.460><c> cast</c><00:00:44.850><c> and</c><00:00:45.210><c> in</c><00:00:45.480><c> that</c><00:00:45.629><c> case</c><00:00:45.809><c> it</c><00:00:46.020><c> will</c>
+
+00:00:46.130 --> 00:00:46.140 align:start position:0%
+specify a cast and in that case it will
+ 
+
+00:00:46.140 --> 00:00:47.900 align:start position:0%
+specify a cast and in that case it will
+allow<00:00:46.559><c> us</c><00:00:46.739><c> do</c><00:00:47.039><c> this</c><00:00:47.190><c> okay</c>
+
+00:00:47.900 --> 00:00:47.910 align:start position:0%
+allow us do this okay
+ 
+
+00:00:47.910 --> 00:00:49.459 align:start position:0%
+allow us do this okay
+now<00:00:48.420><c> I'm</c><00:00:48.629><c> not</c><00:00:48.750><c> gonna</c><00:00:48.840><c> go</c><00:00:49.079><c> through</c><00:00:49.320><c> this</c>
+
+00:00:49.459 --> 00:00:49.469 align:start position:0%
+now I'm not gonna go through this
+ 
+
+00:00:49.469 --> 00:00:50.900 align:start position:0%
+now I'm not gonna go through this
+actually<00:00:49.710><c> a</c><00:00:49.770><c> bunch</c><00:00:49.980><c> of</c><00:00:50.100><c> details</c><00:00:50.460><c> about</c><00:00:50.579><c> all</c><00:00:50.850><c> of</c>
+
+00:00:50.900 --> 00:00:50.910 align:start position:0%
+actually a bunch of details about all of
+ 
+
+00:00:50.910 --> 00:00:52.549 align:start position:0%
+actually a bunch of details about all of
+this<00:00:51.000><c> that</c><00:00:51.329><c> you</c><00:00:51.360><c> can</c><00:00:51.449><c> learn</c><00:00:51.719><c> right</c><00:00:52.079><c> so</c><00:00:52.320><c> it</c><00:00:52.440><c> has</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+this that you can learn right so it has
+ 
+
+00:00:52.559 --> 00:00:54.799 align:start position:0%
+this that you can learn right so it has
+these<00:00:53.070><c> the</c><00:00:53.370><c> whitening</c><00:00:53.820><c> versions</c><00:00:54.420><c> so</c><00:00:54.570><c> anytime</c>
+
+00:00:54.799 --> 00:00:54.809 align:start position:0%
+these the whitening versions so anytime
+ 
+
+00:00:54.809 --> 00:00:56.240 align:start position:0%
+these the whitening versions so anytime
+you<00:00:55.050><c> do</c><00:00:55.199><c> one</c><00:00:55.350><c> of</c><00:00:55.379><c> these</c><00:00:55.469><c> that's</c><00:00:55.829><c> considered</c>
+
+00:00:56.240 --> 00:00:56.250 align:start position:0%
+you do one of these that's considered
+ 
+
+00:00:56.250 --> 00:00:58.250 align:start position:0%
+you do one of these that's considered
+whitening<00:00:56.670><c> these</c><00:00:57.180><c> are</c><00:00:57.360><c> considered</c><00:00:57.750><c> narrowing</c>
+
+00:00:58.250 --> 00:00:58.260 align:start position:0%
+whitening these are considered narrowing
+ 
+
+00:00:58.260 --> 00:00:59.990 align:start position:0%
+whitening these are considered narrowing
+and<00:00:58.530><c> you</c><00:00:59.010><c> can</c><00:00:59.160><c> read</c><00:00:59.340><c> more</c><00:00:59.520><c> and</c><00:00:59.640><c> more</c><00:00:59.820><c> there's</c>
+
+00:00:59.990 --> 00:01:00.000 align:start position:0%
+and you can read more and more there's
+ 
+
+00:01:00.000 --> 00:01:01.670 align:start position:0%
+and you can read more and more there's
+actually<00:01:00.239><c> 12</c><00:01:00.359><c> different</c><00:01:00.870><c> types</c><00:01:01.079><c> of</c><00:01:01.410><c> automatic</c>
+
+00:01:01.670 --> 00:01:01.680 align:start position:0%
+actually 12 different types of automatic
+ 
+
+00:01:01.680 --> 00:01:03.880 align:start position:0%
+actually 12 different types of automatic
+conversions<00:01:02.309><c> so</c><00:01:02.820><c> I've</c><00:01:02.940><c> talked</c><00:01:03.149><c> about</c><00:01:03.270><c> boxing</c>
+
+00:01:03.880 --> 00:01:03.890 align:start position:0%
+conversions so I've talked about boxing
+ 
+
+00:01:03.890 --> 00:01:07.820 align:start position:0%
+conversions so I've talked about boxing
+unboxing<00:01:04.890><c> and</c><00:01:06.020><c> narrowing</c><00:01:07.020><c> and</c><00:01:07.140><c> whitening</c><00:01:07.560><c> and</c>
+
+00:01:07.820 --> 00:01:07.830 align:start position:0%
+unboxing and narrowing and whitening and
+ 
+
+00:01:07.830 --> 00:01:09.289 align:start position:0%
+unboxing and narrowing and whitening and
+there's<00:01:08.250><c> more</c><00:01:08.430><c> if</c><00:01:08.670><c> you're</c><00:01:08.909><c> curious</c>
+
+00:01:09.289 --> 00:01:09.299 align:start position:0%
+there's more if you're curious
+ 
+
+00:01:09.299 --> 00:01:11.330 align:start position:0%
+there's more if you're curious
+but<00:01:10.200><c> that's</c><00:01:10.619><c> basically</c><00:01:10.799><c> what</c><00:01:11.040><c> we</c><00:01:11.100><c> need</c><00:01:11.130><c> to</c>
+
+00:01:11.330 --> 00:01:11.340 align:start position:0%
+but that's basically what we need to
+ 
+
+00:01:11.340 --> 00:01:12.620 align:start position:0%
+but that's basically what we need to
+know<00:01:11.460><c> so</c><00:01:11.970><c> be</c><00:01:12.090><c> aware</c><00:01:12.180><c> that</c><00:01:12.479><c> primitive</c>
+
+00:01:12.620 --> 00:01:12.630 align:start position:0%
+know so be aware that primitive
+ 
+
+00:01:12.630 --> 00:01:14.990 align:start position:0%
+know so be aware that primitive
+whitening<00:01:13.200><c> happens</c><00:01:13.560><c> automatically</c><00:01:14.040><c> and</c><00:01:14.850><c> it</c>
+
+00:01:14.990 --> 00:01:15.000 align:start position:0%
+whitening happens automatically and it
+ 
+
+00:01:15.000 --> 00:01:15.800 align:start position:0%
+whitening happens automatically and it
+could<00:01:15.119><c> be</c><00:01:15.210><c> important</c><00:01:15.570><c> for</c><00:01:15.720><c> understanding</c>
+
+00:01:15.800 --> 00:01:15.810 align:start position:0%
+could be important for understanding
+ 
+
+00:01:15.810 --> 00:01:17.660 align:start position:0%
+could be important for understanding
+error<00:01:16.350><c> messages</c><00:01:16.830><c> as</c><00:01:17.009><c> we'll</c><00:01:17.220><c> see</c><00:01:17.340><c> in</c><00:01:17.369><c> a</c><00:01:17.460><c> little</c>
+
+00:01:17.660 --> 00:01:17.670 align:start position:0%
+error messages as we'll see in a little
+ 
+
+00:01:17.670 --> 00:01:21.170 align:start position:0%
+error messages as we'll see in a little
+bit<00:01:17.820><c> when</c><00:01:17.970><c> we</c><00:01:18.000><c> try</c><00:01:18.240><c> and</c><00:01:18.360><c> implement</c><00:01:18.509><c> a</c><00:01:18.810><c> remap</c>
+

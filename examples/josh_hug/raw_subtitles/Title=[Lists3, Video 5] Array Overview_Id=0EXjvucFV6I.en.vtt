@@ -1,0 +1,728 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.240 align:start position:0%
+ 
+in<00:00:00.060><c> the</c><00:00:00.659><c> last</c><00:00:00.840><c> few</c><00:00:01.050><c> videos</c><00:00:01.199><c> we've</c><00:00:01.860><c> seen</c><00:00:01.890><c> how</c><00:00:02.190><c> we</c>
+
+00:00:02.240 --> 00:00:02.250 align:start position:0%
+in the last few videos we've seen how we
+ 
+
+00:00:02.250 --> 00:00:04.730 align:start position:0%
+in the last few videos we've seen how we
+can<00:00:02.490><c> use</c><00:00:02.639><c> a</c><00:00:02.669><c> really</c><00:00:03.149><c> clever</c><00:00:03.449><c> set</c><00:00:04.140><c> of</c><00:00:04.350><c> recursive</c>
+
+00:00:04.730 --> 00:00:04.740 align:start position:0%
+can use a really clever set of recursive
+ 
+
+00:00:04.740 --> 00:00:07.849 align:start position:0%
+can use a really clever set of recursive
+class<00:00:05.220><c> definitions</c><00:00:05.940><c> to</c><00:00:06.390><c> build</c><00:00:06.990><c> an</c><00:00:07.259><c> infinitely</c>
+
+00:00:07.849 --> 00:00:07.859 align:start position:0%
+class definitions to build an infinitely
+ 
+
+00:00:07.859 --> 00:00:10.310 align:start position:0%
+class definitions to build an infinitely
+extensible<00:00:08.610><c> list</c><00:00:08.849><c> so</c><00:00:09.480><c> for</c><00:00:09.630><c> example</c><00:00:10.019><c> the</c><00:00:10.170><c> S</c>
+
+00:00:10.310 --> 00:00:10.320 align:start position:0%
+extensible list so for example the S
+ 
+
+00:00:10.320 --> 00:00:12.589 align:start position:0%
+extensible list so for example the S
+list<00:00:10.620><c> with</c><00:00:11.250><c> s</c><00:00:11.429><c> lists</c><00:00:11.700><c> we</c><00:00:11.849><c> can</c><00:00:12.000><c> do</c><00:00:12.090><c> add</c><00:00:12.269><c> last</c>
+
+00:00:12.589 --> 00:00:12.599 align:start position:0%
+list with s lists we can do add last
+ 
+
+00:00:12.599 --> 00:00:14.299 align:start position:0%
+list with s lists we can do add last
+over<00:00:13.110><c> and</c><00:00:13.230><c> over</c><00:00:13.410><c> and</c><00:00:13.500><c> over</c><00:00:13.590><c> until</c><00:00:13.920><c> we</c><00:00:14.190><c> get</c>
+
+00:00:14.299 --> 00:00:14.309 align:start position:0%
+over and over and over until we get
+ 
+
+00:00:14.309 --> 00:00:15.770 align:start position:0%
+over and over and over until we get
+bored<00:00:14.549><c> of</c><00:00:14.639><c> it</c><00:00:14.790><c> or</c><00:00:14.969><c> I</c><00:00:15.000><c> guess</c><00:00:15.179><c> our</c><00:00:15.299><c> computer</c><00:00:15.630><c> runs</c>
+
+00:00:15.770 --> 00:00:15.780 align:start position:0%
+bored of it or I guess our computer runs
+ 
+
+00:00:15.780 --> 00:00:17.330 align:start position:0%
+bored of it or I guess our computer runs
+out<00:00:15.929><c> of</c><00:00:15.960><c> memory</c><00:00:16.109><c> but</c><00:00:16.680><c> as</c><00:00:16.830><c> a</c><00:00:16.859><c> theoretical</c>
+
+00:00:17.330 --> 00:00:17.340 align:start position:0%
+out of memory but as a theoretical
+ 
+
+00:00:17.340 --> 00:00:19.900 align:start position:0%
+out of memory but as a theoretical
+construct<00:00:18.150><c> the</c><00:00:18.449><c> S</c><00:00:18.630><c> list</c><00:00:18.930><c> can</c><00:00:19.170><c> grow</c><00:00:19.380><c> forever</c>
+
+00:00:19.900 --> 00:00:19.910 align:start position:0%
+construct the S list can grow forever
+ 
+
+00:00:19.910 --> 00:00:23.029 align:start position:0%
+construct the S list can grow forever
+now<00:00:20.910><c> in</c><00:00:21.060><c> this</c><00:00:21.330><c> next</c><00:00:21.840><c> set</c><00:00:22.260><c> of</c><00:00:22.289><c> videos</c><00:00:22.380><c> what</c>
+
+00:00:23.029 --> 00:00:23.039 align:start position:0%
+now in this next set of videos what
+ 
+
+00:00:23.039 --> 00:00:24.679 align:start position:0%
+now in this next set of videos what
+we're<00:00:23.160><c> gonna</c><00:00:23.250><c> do</c><00:00:23.490><c> is</c><00:00:23.609><c> ultimately</c><00:00:24.060><c> build</c><00:00:24.330><c> an</c><00:00:24.480><c> a</c>
+
+00:00:24.679 --> 00:00:24.689 align:start position:0%
+we're gonna do is ultimately build an a
+ 
+
+00:00:24.689 --> 00:00:27.050 align:start position:0%
+we're gonna do is ultimately build an a
+list<00:00:24.990><c> an</c><00:00:25.199><c> array</c><00:00:25.529><c> based</c><00:00:25.890><c> list</c><00:00:26.279><c> that</c><00:00:26.730><c> uses</c><00:00:27.029><c> a</c>
+
+00:00:27.050 --> 00:00:27.060 align:start position:0%
+list an array based list that uses a
+ 
+
+00:00:27.060 --> 00:00:28.849 align:start position:0%
+list an array based list that uses a
+totally<00:00:27.539><c> orthogonal</c><00:00:28.199><c> way</c><00:00:28.349><c> of</c><00:00:28.529><c> storing</c>
+
+00:00:28.849 --> 00:00:28.859 align:start position:0%
+totally orthogonal way of storing
+ 
+
+00:00:28.859 --> 00:00:30.919 align:start position:0%
+totally orthogonal way of storing
+information<00:00:29.220><c> in</c><00:00:29.789><c> particular</c><00:00:30.150><c> it</c><00:00:30.689><c> will</c><00:00:30.779><c> use</c>
+
+00:00:30.919 --> 00:00:30.929 align:start position:0%
+information in particular it will use
+ 
+
+00:00:30.929 --> 00:00:33.500 align:start position:0%
+information in particular it will use
+arrays<00:00:31.260><c> rather</c><00:00:31.800><c> than</c><00:00:32.040><c> a</c><00:00:32.219><c> recursive</c><00:00:32.790><c> list</c>
+
+00:00:33.500 --> 00:00:33.510 align:start position:0%
+arrays rather than a recursive list
+ 
+
+00:00:33.510 --> 00:00:36.170 align:start position:0%
+arrays rather than a recursive list
+structure<00:00:34.489><c> so</c><00:00:35.489><c> let's</c><00:00:35.670><c> start</c><00:00:35.969><c> by</c><00:00:36.149><c> just</c>
+
+00:00:36.170 --> 00:00:36.180 align:start position:0%
+structure so let's start by just
+ 
+
+00:00:36.180 --> 00:00:39.770 align:start position:0%
+structure so let's start by just
+thinking<00:00:37.020><c> back</c><00:00:37.410><c> about</c><00:00:37.440><c> how</c><00:00:38.040><c> memory</c><00:00:38.430><c> works</c><00:00:38.780><c> so</c>
+
+00:00:39.770 --> 00:00:39.780 align:start position:0%
+thinking back about how memory works so
+ 
+
+00:00:39.780 --> 00:00:41.479 align:start position:0%
+thinking back about how memory works so
+in<00:00:39.899><c> general</c><00:00:40.110><c> if</c><00:00:40.379><c> we</c><00:00:40.590><c> need</c><00:00:40.739><c> to</c><00:00:40.770><c> build</c><00:00:40.920><c> a</c><00:00:41.070><c> list</c><00:00:41.250><c> if</c>
+
+00:00:41.479 --> 00:00:41.489 align:start position:0%
+in general if we need to build a list if
+ 
+
+00:00:41.489 --> 00:00:43.130 align:start position:0%
+in general if we need to build a list if
+we<00:00:41.640><c> want</c><00:00:41.879><c> to</c><00:00:42.030><c> say</c><00:00:42.270><c> have</c><00:00:42.510><c> a</c><00:00:42.540><c> list</c><00:00:42.780><c> of</c><00:00:42.870><c> a</c><00:00:42.930><c> million</c>
+
+00:00:43.130 --> 00:00:43.140 align:start position:0%
+we want to say have a list of a million
+ 
+
+00:00:43.140 --> 00:00:45.049 align:start position:0%
+we want to say have a list of a million
+items<00:00:43.379><c> we</c><00:00:43.829><c> need</c><00:00:43.860><c> a</c><00:00:44.040><c> million</c><00:00:44.309><c> memory</c><00:00:44.700><c> boxes</c>
+
+00:00:45.049 --> 00:00:45.059 align:start position:0%
+items we need a million memory boxes
+ 
+
+00:00:45.059 --> 00:00:46.940 align:start position:0%
+items we need a million memory boxes
+we've<00:00:45.690><c> talked</c><00:00:45.960><c> about</c><00:00:46.230><c> different</c><00:00:46.440><c> ways</c><00:00:46.649><c> that</c>
+
+00:00:46.940 --> 00:00:46.950 align:start position:0%
+we've talked about different ways that
+ 
+
+00:00:46.950 --> 00:00:49.639 align:start position:0%
+we've talked about different ways that
+you<00:00:47.039><c> can</c><00:00:47.219><c> get</c><00:00:47.460><c> memory</c><00:00:48.030><c> boxes</c><00:00:48.360><c> in</c><00:00:48.510><c> Java</c><00:00:48.750><c> one</c><00:00:49.559><c> of</c>
+
+00:00:49.639 --> 00:00:49.649 align:start position:0%
+you can get memory boxes in Java one of
+ 
+
+00:00:49.649 --> 00:00:51.680 align:start position:0%
+you can get memory boxes in Java one of
+them<00:00:49.739><c> is</c><00:00:49.860><c> to</c><00:00:50.070><c> declare</c><00:00:50.430><c> a</c><00:00:50.640><c> variable</c><00:00:50.820><c> so</c><00:00:51.539><c> for</c>
+
+00:00:51.680 --> 00:00:51.690 align:start position:0%
+them is to declare a variable so for
+ 
+
+00:00:51.690 --> 00:00:54.290 align:start position:0%
+them is to declare a variable so for
+example<00:00:52.050><c> if</c><00:00:52.140><c> I</c><00:00:52.230><c> say</c><00:00:52.410><c> index</c><00:00:52.860><c> Java</c><00:00:53.489><c> goes</c><00:00:53.789><c> gets</c><00:00:54.180><c> me</c>
+
+00:00:54.290 --> 00:00:54.300 align:start position:0%
+example if I say index Java goes gets me
+ 
+
+00:00:54.300 --> 00:00:56.540 align:start position:0%
+example if I say index Java goes gets me
+32<00:00:54.750><c> bits</c><00:00:54.960><c> of</c><00:00:55.140><c> memory</c><00:00:55.320><c> sets</c><00:00:56.039><c> them</c><00:00:56.160><c> aside</c><00:00:56.280><c> as</c><00:00:56.520><c> a</c>
+
+00:00:56.540 --> 00:00:56.550 align:start position:0%
+32 bits of memory sets them aside as a
+ 
+
+00:00:56.550 --> 00:00:58.430 align:start position:0%
+32 bits of memory sets them aside as a
+little<00:00:56.730><c> box</c><00:00:56.940><c> for</c><00:00:57.059><c> us</c><00:00:57.270><c> and</c><00:00:57.930><c> then</c><00:00:58.050><c> we</c><00:00:58.109><c> can</c><00:00:58.230><c> store</c>
+
+00:00:58.430 --> 00:00:58.440 align:start position:0%
+little box for us and then we can store
+ 
+
+00:00:58.440 --> 00:01:01.490 align:start position:0%
+little box for us and then we can store
+integers<00:00:58.829><c> in</c><00:00:58.949><c> that</c><00:00:59.070><c> box</c><00:00:59.280><c> if</c><00:00:59.520><c> we</c><00:01:00.239><c> say</c><00:01:00.480><c> walrus</c><00:01:00.899><c> w1</c>
+
+00:01:01.490 --> 00:01:01.500 align:start position:0%
+integers in that box if we say walrus w1
+ 
+
+00:01:01.500 --> 00:01:03.920 align:start position:0%
+integers in that box if we say walrus w1
+that<00:01:02.219><c> gives</c><00:01:02.370><c> us</c><00:01:02.520><c> a</c><00:01:02.550><c> memory</c><00:01:03.059><c> box</c><00:01:03.270><c> of</c><00:01:03.420><c> 64</c><00:01:03.899><c> bits</c>
+
+00:01:03.920 --> 00:01:03.930 align:start position:0%
+that gives us a memory box of 64 bits
+ 
+
+00:01:03.930 --> 00:01:06.429 align:start position:0%
+that gives us a memory box of 64 bits
+they<00:01:04.320><c> can</c><00:01:04.470><c> store</c><00:01:04.710><c> the</c><00:01:05.250><c> location</c><00:01:05.729><c> of</c><00:01:05.850><c> a</c><00:01:05.939><c> walrus</c>
+
+00:01:06.429 --> 00:01:06.439 align:start position:0%
+they can store the location of a walrus
+ 
+
+00:01:06.439 --> 00:01:09.710 align:start position:0%
+they can store the location of a walrus
+and<00:01:07.439><c> if</c><00:01:07.650><c> we</c><00:01:07.740><c> say</c><00:01:07.890><c> walrus</c><00:01:08.340><c> w2</c><00:01:08.790><c> equals</c><00:01:08.970><c> new</c>
+
+00:01:09.710 --> 00:01:09.720 align:start position:0%
+and if we say walrus w2 equals new
+ 
+
+00:01:09.720 --> 00:01:11.719 align:start position:0%
+and if we say walrus w2 equals new
+walrus<00:01:10.110><c> in</c><00:01:10.320><c> this</c><00:01:10.770><c> case</c><00:01:10.950><c> a</c><00:01:10.979><c> bunch</c><00:01:11.280><c> of</c><00:01:11.400><c> different</c>
+
+00:01:11.719 --> 00:01:11.729 align:start position:0%
+walrus in this case a bunch of different
+ 
+
+00:01:11.729 --> 00:01:13.280 align:start position:0%
+walrus in this case a bunch of different
+stuff<00:01:11.880><c> happens</c><00:01:12.240><c> but</c><00:01:12.630><c> ultimately</c><00:01:13.110><c> what</c>
+
+00:01:13.280 --> 00:01:13.290 align:start position:0%
+stuff happens but ultimately what
+ 
+
+00:01:13.290 --> 00:01:15.380 align:start position:0%
+stuff happens but ultimately what
+happens<00:01:13.619><c> is</c><00:01:13.770><c> that</c><00:01:13.890><c> we</c><00:01:14.010><c> get</c><00:01:14.220><c> 32</c><00:01:14.909><c> bits</c><00:01:15.119><c> to</c><00:01:15.330><c> store</c>
+
+00:01:15.380 --> 00:01:15.390 align:start position:0%
+happens is that we get 32 bits to store
+ 
+
+00:01:15.390 --> 00:01:17.810 align:start position:0%
+happens is that we get 32 bits to store
+the<00:01:15.689><c> size</c><00:01:15.930><c> of</c><00:01:16.170><c> the</c><00:01:16.259><c> waters</c><00:01:16.530><c> 64</c><00:01:17.369><c> bits</c><00:01:17.580><c> for</c><00:01:17.759><c> the</c>
+
+00:01:17.810 --> 00:01:17.820 align:start position:0%
+the size of the waters 64 bits for the
+ 
+
+00:01:17.820 --> 00:01:20.359 align:start position:0%
+the size of the waters 64 bits for the
+tusks<00:01:18.060><c> size</c><00:01:18.330><c> and</c><00:01:18.630><c> we</c><00:01:19.049><c> also</c><00:01:19.200><c> get</c><00:01:19.439><c> 64</c><00:01:19.979><c> bits</c><00:01:20.220><c> over</c>
+
+00:01:20.359 --> 00:01:20.369 align:start position:0%
+tusks size and we also get 64 bits over
+ 
+
+00:01:20.369 --> 00:01:22.280 align:start position:0%
+tusks size and we also get 64 bits over
+here<00:01:20.700><c> to</c><00:01:20.880><c> store</c><00:01:21.119><c> it</c><00:01:21.210><c> the</c><00:01:21.390><c> reference</c><00:01:21.659><c> to</c><00:01:22.170><c> this</c>
+
+00:01:22.280 --> 00:01:22.290 align:start position:0%
+here to store it the reference to this
+ 
+
+00:01:22.290 --> 00:01:24.590 align:start position:0%
+here to store it the reference to this
+walrus<00:01:22.759><c> so</c><00:01:23.759><c> these</c><00:01:23.880><c> are</c><00:01:24.030><c> all</c><00:01:24.150><c> different</c><00:01:24.330><c> ways</c>
+
+00:01:24.590 --> 00:01:24.600 align:start position:0%
+walrus so these are all different ways
+ 
+
+00:01:24.600 --> 00:01:26.450 align:start position:0%
+walrus so these are all different ways
+of<00:01:24.900><c> getting</c><00:01:25.020><c> memory</c><00:01:25.409><c> boxes</c><00:01:25.770><c> we've</c><00:01:25.950><c> taken</c>
+
+00:01:26.450 --> 00:01:26.460 align:start position:0%
+of getting memory boxes we've taken
+ 
+
+00:01:26.460 --> 00:01:29.149 align:start position:0%
+of getting memory boxes we've taken
+advantage<00:01:26.670><c> of</c><00:01:27.090><c> advantage</c><00:01:27.750><c> of</c><00:01:28.049><c> this</c><00:01:28.470><c> idea</c><00:01:28.829><c> here</c>
+
+00:01:29.149 --> 00:01:29.159 align:start position:0%
+advantage of advantage of this idea here
+ 
+
+00:01:29.159 --> 00:01:31.730 align:start position:0%
+advantage of advantage of this idea here
+in<00:01:29.280><c> order</c><00:01:29.759><c> to</c><00:01:29.880><c> build</c><00:01:30.150><c> s</c><00:01:30.420><c> lists</c><00:01:30.810><c> or</c><00:01:30.960><c> D</c><00:01:31.200><c> lists</c><00:01:31.560><c> and</c>
+
+00:01:31.730 --> 00:01:31.740 align:start position:0%
+in order to build s lists or D lists and
+ 
+
+00:01:31.740 --> 00:01:33.560 align:start position:0%
+in order to build s lists or D lists and
+so<00:01:32.100><c> we're</c><00:01:32.280><c> going</c><00:01:32.369><c> to</c><00:01:32.430><c> do</c><00:01:32.549><c> next</c><00:01:32.700><c> is</c><00:01:32.939><c> use</c><00:01:33.090><c> arrays</c>
+
+00:01:33.560 --> 00:01:33.570 align:start position:0%
+so we're going to do next is use arrays
+ 
+
+00:01:33.570 --> 00:01:35.990 align:start position:0%
+so we're going to do next is use arrays
+so<00:01:33.900><c> what</c><00:01:34.710><c> are</c><00:01:34.860><c> arrays</c><00:01:35.159><c> really</c><00:01:35.640><c> I</c><00:01:35.759><c> mean</c><00:01:35.850><c> you've</c>
+
+00:01:35.990 --> 00:01:36.000 align:start position:0%
+so what are arrays really I mean you've
+ 
+
+00:01:36.000 --> 00:01:37.969 align:start position:0%
+so what are arrays really I mean you've
+used<00:01:36.270><c> them</c><00:01:36.420><c> in</c><00:01:36.479><c> homework</c><00:01:36.810><c> 0</c><00:01:36.869><c> and</c><00:01:37.259><c> in</c><00:01:37.350><c> project</c><00:01:37.770><c> 0</c>
+
+00:01:37.969 --> 00:01:37.979 align:start position:0%
+used them in homework 0 and in project 0
+ 
+
+00:01:37.979 --> 00:01:40.789 align:start position:0%
+used them in homework 0 and in project 0
+above<00:01:38.430><c> the</c><00:01:39.150><c> most</c><00:01:39.540><c> crisp</c><00:01:40.079><c> way</c><00:01:40.290><c> of</c><00:01:40.470><c> thinking</c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+above the most crisp way of thinking
+ 
+
+00:01:40.799 --> 00:01:42.499 align:start position:0%
+above the most crisp way of thinking
+about<00:01:40.890><c> an</c><00:01:41.130><c> array</c><00:01:41.340><c> is</c><00:01:41.759><c> to</c><00:01:41.939><c> think</c><00:01:42.180><c> of</c><00:01:42.270><c> it</c><00:01:42.390><c> as</c><00:01:42.479><c> a</c>
+
+00:01:42.499 --> 00:01:42.509 align:start position:0%
+about an array is to think of it as a
+ 
+
+00:01:42.509 --> 00:01:45.200 align:start position:0%
+about an array is to think of it as a
+numbered<00:01:43.049><c> sequence</c><00:01:43.409><c> of</c><00:01:43.829><c> memory</c><00:01:44.130><c> boxes</c><00:01:44.549><c> so</c>
+
+00:01:45.200 --> 00:01:45.210 align:start position:0%
+numbered sequence of memory boxes so
+ 
+
+00:01:45.210 --> 00:01:47.719 align:start position:0%
+numbered sequence of memory boxes so
+just<00:01:45.390><c> like</c><00:01:45.479><c> a</c><00:01:45.570><c> class</c><00:01:45.840><c> as</c><00:01:46.110><c> a</c><00:01:46.140><c> named</c><00:01:46.649><c> set</c><00:01:47.549><c> of</c>
+
+00:01:47.719 --> 00:01:47.729 align:start position:0%
+just like a class as a named set of
+ 
+
+00:01:47.729 --> 00:01:49.700 align:start position:0%
+just like a class as a named set of
+memory<00:01:48.060><c> boxes</c><00:01:48.450><c> a</c><00:01:48.659><c> race</c><00:01:49.079><c> will</c><00:01:49.229><c> be</c><00:01:49.320><c> a</c><00:01:49.350><c> numbered</c>
+
+00:01:49.700 --> 00:01:49.710 align:start position:0%
+memory boxes a race will be a numbered
+ 
+
+00:01:49.710 --> 00:01:52.999 align:start position:0%
+memory boxes a race will be a numbered
+sequence<00:01:50.030><c> and</c><00:01:51.030><c> what</c><00:01:51.210><c> I</c><00:01:51.390><c> mean</c><00:01:51.630><c> by</c><00:01:51.689><c> a</c><00:01:51.869><c> named</c><00:01:52.290><c> set</c>
+
+00:01:52.999 --> 00:01:53.009 align:start position:0%
+sequence and what I mean by a named set
+ 
+
+00:01:53.009 --> 00:01:54.980 align:start position:0%
+sequence and what I mean by a named set
+is<00:01:53.189><c> for</c><00:01:53.579><c> example</c><00:01:53.700><c> walrus</c><00:01:54.240><c> it</c><00:01:54.390><c> has</c><00:01:54.540><c> a</c><00:01:54.570><c> size</c>
+
+00:01:54.980 --> 00:01:54.990 align:start position:0%
+is for example walrus it has a size
+ 
+
+00:01:54.990 --> 00:01:57.530 align:start position:0%
+is for example walrus it has a size
+which<00:01:55.590><c> you</c><00:01:55.619><c> access</c><00:01:55.920><c> using</c><00:01:56.490><c> dot</c><00:01:56.700><c> notation</c><00:01:56.729><c> Walt</c>
+
+00:01:57.530 --> 00:01:57.540 align:start position:0%
+which you access using dot notation Walt
+ 
+
+00:01:57.540 --> 00:02:01.730 align:start position:0%
+which you access using dot notation Walt
+W<00:01:58.290><c> dot</c><00:01:58.469><c> size</c><00:01:58.740><c> or</c><00:01:59.070><c> W</c><00:01:59.790><c> tusk</c><00:02:00.299><c> size</c><00:02:00.479><c> with</c><00:02:01.020><c> arrays</c><00:02:01.320><c> we</c>
+
+00:02:01.730 --> 00:02:01.740 align:start position:0%
+W dot size or W tusk size with arrays we
+ 
+
+00:02:01.740 --> 00:02:03.679 align:start position:0%
+W dot size or W tusk size with arrays we
+use<00:02:01.860><c> this</c><00:02:02.040><c> bracket</c><00:02:02.460><c> notation</c><00:02:02.579><c> so</c><00:02:03.360><c> if</c><00:02:03.450><c> I</c><00:02:03.509><c> want</c>
+
+00:02:03.679 --> 00:02:03.689 align:start position:0%
+use this bracket notation so if I want
+ 
+
+00:02:03.689 --> 00:02:05.359 align:start position:0%
+use this bracket notation so if I want
+the<00:02:03.780><c> third</c><00:02:04.049><c> item</c><00:02:04.320><c> of</c><00:02:04.500><c> the</c><00:02:04.619><c> array</c><00:02:04.740><c> that's</c>
+
+00:02:05.359 --> 00:02:05.369 align:start position:0%
+the third item of the array that's
+ 
+
+00:02:05.369 --> 00:02:08.499 align:start position:0%
+the third item of the array that's
+called<00:02:05.640><c> a</c><00:02:05.880><c> let's</c><00:02:06.180><c> say</c><00:02:06.360><c> we'll</c><00:02:06.899><c> do</c><00:02:07.020><c> a</c><00:02:07.170><c> bracket</c><00:02:07.950><c> 3</c>
+
+00:02:08.499 --> 00:02:08.509 align:start position:0%
+called a let's say we'll do a bracket 3
+ 
+
+00:02:08.509 --> 00:02:10.969 align:start position:0%
+called a let's say we'll do a bracket 3
+so<00:02:09.509><c> in</c><00:02:09.989><c> a</c><00:02:10.110><c> sense</c><00:02:10.319><c> they</c><00:02:10.560><c> have</c><00:02:10.679><c> a</c><00:02:10.709><c> lot</c><00:02:10.890><c> of</c>
+
+00:02:10.969 --> 00:02:10.979 align:start position:0%
+so in a sense they have a lot of
+ 
+
+00:02:10.979 --> 00:02:13.250 align:start position:0%
+so in a sense they have a lot of
+similarities<00:02:11.459><c> with</c><00:02:11.489><c> classes</c>
+
+00:02:13.250 --> 00:02:13.260 align:start position:0%
+similarities with classes
+ 
+
+00:02:13.260 --> 00:02:16.070 align:start position:0%
+similarities with classes
+now<00:02:13.710><c> if</c><00:02:14.040><c> we</c><00:02:14.400><c> want</c><00:02:14.790><c> to</c><00:02:14.850><c> really</c><00:02:15.720><c> be</c><00:02:16.050><c> very</c>
+
+00:02:16.070 --> 00:02:16.080 align:start position:0%
+now if we want to really be very
+ 
+
+00:02:16.080 --> 00:02:18.440 align:start position:0%
+now if we want to really be very
+specific<00:02:16.950><c> about</c><00:02:17.070><c> what</c><00:02:17.250><c> an</c><00:02:17.520><c> array</c><00:02:17.760><c> is</c><00:02:17.940><c> it's</c><00:02:18.270><c> not</c>
+
+00:02:18.440 --> 00:02:18.450 align:start position:0%
+specific about what an array is it's not
+ 
+
+00:02:18.450 --> 00:02:20.180 align:start position:0%
+specific about what an array is it's not
+just<00:02:18.510><c> that</c><00:02:18.930><c> sequence</c><00:02:19.290><c> memory</c><00:02:19.590><c> boxes</c><00:02:19.920><c> but</c><00:02:20.130><c> it</c>
+
+00:02:20.180 --> 00:02:20.190 align:start position:0%
+just that sequence memory boxes but it
+ 
+
+00:02:20.190 --> 00:02:21.920 align:start position:0%
+just that sequence memory boxes but it
+will<00:02:20.250><c> also</c><00:02:20.430><c> have</c><00:02:20.640><c> a</c><00:02:20.670><c> length</c><00:02:20.910><c> so</c><00:02:21.570><c> in</c><00:02:21.660><c> terms</c><00:02:21.840><c> of</c>
+
+00:02:21.920 --> 00:02:21.930 align:start position:0%
+will also have a length so in terms of
+ 
+
+00:02:21.930 --> 00:02:23.210 align:start position:0%
+will also have a length so in terms of
+what<00:02:22.050><c> you</c><00:02:22.140><c> can</c><00:02:22.290><c> do</c><00:02:22.410><c> with</c><00:02:22.560><c> it</c><00:02:22.710><c> in</c><00:02:22.800><c> Java</c><00:02:22.980><c> you</c><00:02:23.190><c> can</c>
+
+00:02:23.210 --> 00:02:23.220 align:start position:0%
+what you can do with it in Java you can
+ 
+
+00:02:23.220 --> 00:02:24.920 align:start position:0%
+what you can do with it in Java you can
+ask<00:02:23.490><c> it</c><00:02:23.640><c> for</c><00:02:23.760><c> its</c><00:02:23.880><c> length</c><00:02:24.030><c> or</c><00:02:24.240><c> you</c><00:02:24.330><c> can</c><00:02:24.780><c> get</c>
+
+00:02:24.920 --> 00:02:24.930 align:start position:0%
+ask it for its length or you can get
+ 
+
+00:02:24.930 --> 00:02:26.900 align:start position:0%
+ask it for its length or you can get
+these<00:02:25.080><c> sequence</c><00:02:25.440><c> in</c><00:02:25.530><c> memory</c><00:02:25.770><c> boxes</c><00:02:26.100><c> now</c><00:02:26.790><c> an</c>
+
+00:02:26.900 --> 00:02:26.910 align:start position:0%
+these sequence in memory boxes now an
+ 
+
+00:02:26.910 --> 00:02:28.310 align:start position:0%
+these sequence in memory boxes now an
+important<00:02:27.300><c> thing</c><00:02:27.330><c> is</c><00:02:27.630><c> that</c><00:02:27.780><c> the</c><00:02:27.900><c> number</c><00:02:28.080><c> of</c>
+
+00:02:28.310 --> 00:02:28.320 align:start position:0%
+important thing is that the number of
+ 
+
+00:02:28.320 --> 00:02:29.930 align:start position:0%
+important thing is that the number of
+memory<00:02:28.740><c> boxes</c><00:02:29.130><c> is</c><00:02:29.280><c> always</c><00:02:29.520><c> going</c><00:02:29.640><c> to</c><00:02:29.700><c> match</c>
+
+00:02:29.930 --> 00:02:29.940 align:start position:0%
+memory boxes is always going to match
+ 
+
+00:02:29.940 --> 00:02:32.540 align:start position:0%
+memory boxes is always going to match
+that<00:02:30.300><c> length</c><00:02:30.780><c> I</c><00:02:31.050><c> mean</c><00:02:31.200><c> that</c><00:02:31.320><c> make</c><00:02:31.470><c> sense</c><00:02:31.710><c> and</c>
+
+00:02:32.540 --> 00:02:32.550 align:start position:0%
+that length I mean that make sense and
+ 
+
+00:02:32.550 --> 00:02:34.280 align:start position:0%
+that length I mean that make sense and
+we<00:02:33.000><c> also</c><00:02:33.210><c> are</c><00:02:33.450><c> going</c><00:02:33.480><c> to</c><00:02:33.600><c> have</c><00:02:33.690><c> a</c><00:02:33.780><c> very</c><00:02:34.050><c> special</c>
+
+00:02:34.280 --> 00:02:34.290 align:start position:0%
+we also are going to have a very special
+ 
+
+00:02:34.290 --> 00:02:36.470 align:start position:0%
+we also are going to have a very special
+rule<00:02:34.650><c> which</c><00:02:35.070><c> is</c><00:02:35.220><c> that</c><00:02:35.370><c> all</c><00:02:35.550><c> the</c><00:02:35.730><c> boxes</c><00:02:36.120><c> have</c><00:02:36.180><c> to</c>
+
+00:02:36.470 --> 00:02:36.480 align:start position:0%
+rule which is that all the boxes have to
+ 
+
+00:02:36.480 --> 00:02:38.480 align:start position:0%
+rule which is that all the boxes have to
+be<00:02:36.570><c> the</c><00:02:36.720><c> same</c><00:02:36.900><c> type</c><00:02:37.110><c> and</c><00:02:37.380><c> that's</c><00:02:37.680><c> unlike</c><00:02:38.250><c> other</c>
+
+00:02:38.480 --> 00:02:38.490 align:start position:0%
+be the same type and that's unlike other
+ 
+
+00:02:38.490 --> 00:02:40.250 align:start position:0%
+be the same type and that's unlike other
+languages<00:02:38.970><c> like</c><00:02:39.030><c> Python</c><00:02:39.540><c> where</c><00:02:39.780><c> the</c><00:02:39.930><c> built-in</c>
+
+00:02:40.250 --> 00:02:40.260 align:start position:0%
+languages like Python where the built-in
+ 
+
+00:02:40.260 --> 00:02:42.200 align:start position:0%
+languages like Python where the built-in
+list<00:02:40.500><c> type</c><00:02:40.680><c> can</c><00:02:40.890><c> include</c><00:02:41.280><c> different</c><00:02:42.030><c> things</c>
+
+00:02:42.200 --> 00:02:42.210 align:start position:0%
+list type can include different things
+ 
+
+00:02:42.210 --> 00:02:44.690 align:start position:0%
+list type can include different things
+of<00:02:42.420><c> different</c><00:02:42.810><c> types</c><00:02:42.990><c> in</c><00:02:43.140><c> Java</c><00:02:43.740><c> all</c><00:02:44.160><c> of</c><00:02:44.550><c> those</c>
+
+00:02:44.690 --> 00:02:44.700 align:start position:0%
+of different types in Java all of those
+ 
+
+00:02:44.700 --> 00:02:46.820 align:start position:0%
+of different types in Java all of those
+boxes<00:02:45.090><c> must</c><00:02:45.300><c> be</c><00:02:45.480><c> the</c><00:02:45.600><c> same</c><00:02:45.750><c> type</c><00:02:45.990><c> and</c><00:02:46.170><c> thus</c><00:02:46.560><c> the</c>
+
+00:02:46.820 --> 00:02:46.830 align:start position:0%
+boxes must be the same type and thus the
+ 
+
+00:02:46.830 --> 00:02:49.220 align:start position:0%
+boxes must be the same type and thus the
+same<00:02:47.010><c> number</c><00:02:47.310><c> of</c><00:02:47.340><c> bits</c><00:02:47.550><c> and</c><00:02:47.900><c> is</c><00:02:48.900><c> that's</c><00:02:49.140><c> an</c>
+
+00:02:49.220 --> 00:02:49.230 align:start position:0%
+same number of bits and is that's an
+ 
+
+00:02:49.230 --> 00:02:50.690 align:start position:0%
+same number of bits and is that's an
+aside<00:02:49.470><c> those</c><00:02:49.740><c> boxes</c><00:02:50.100><c> will</c><00:02:50.220><c> always</c><00:02:50.550><c> be</c>
+
+00:02:50.690 --> 00:02:50.700 align:start position:0%
+aside those boxes will always be
+ 
+
+00:02:50.700 --> 00:02:53.720 align:start position:0%
+aside those boxes will always be
+numbered<00:02:51.000><c> from</c><00:02:51.150><c> 0</c><00:02:51.450><c> to</c><00:02:52.200><c> length</c><00:02:52.380><c> minus</c><00:02:52.710><c> 1</c><00:02:52.860><c> now</c>
+
+00:02:53.720 --> 00:02:53.730 align:start position:0%
+numbered from 0 to length minus 1 now
+ 
+
+00:02:53.730 --> 00:02:55.250 align:start position:0%
+numbered from 0 to length minus 1 now
+just<00:02:54.090><c> like</c><00:02:54.240><c> a</c><00:02:54.270><c> class</c><00:02:54.600><c> I'll</c><00:02:54.870><c> make</c><00:02:54.990><c> a</c><00:02:55.020><c> note</c><00:02:55.230><c> that</c>
+
+00:02:55.250 --> 00:02:55.260 align:start position:0%
+just like a class I'll make a note that
+ 
+
+00:02:55.260 --> 00:02:58.280 align:start position:0%
+just like a class I'll make a note that
+whenever<00:02:55.620><c> you</c><00:02:55.910><c> instantiate</c><00:02:56.910><c> an</c><00:02:57.030><c> array</c><00:02:57.290><c> what</c>
+
+00:02:58.280 --> 00:02:58.290 align:start position:0%
+whenever you instantiate an array what
+ 
+
+00:02:58.290 --> 00:02:59.990 align:start position:0%
+whenever you instantiate an array what
+will<00:02:58.440><c> happen</c><00:02:58.740><c> is</c><00:02:58.860><c> you</c><00:02:58.980><c> get</c><00:02:59.190><c> one</c><00:02:59.430><c> reference</c><00:02:59.820><c> at</c>
+
+00:02:59.990 --> 00:03:00.000 align:start position:0%
+will happen is you get one reference at
+ 
+
+00:03:00.000 --> 00:03:03.200 align:start position:0%
+will happen is you get one reference at
+the<00:03:00.030><c> time</c><00:03:00.270><c> that's</c><00:03:00.450><c> created</c><00:03:00.870><c> and</c><00:03:01.710><c> if</c><00:03:02.160><c> it</c><00:03:02.700><c> is</c><00:03:02.880><c> the</c>
+
+00:03:03.200 --> 00:03:03.210 align:start position:0%
+the time that's created and if it is the
+ 
+
+00:03:03.210 --> 00:03:04.850 align:start position:0%
+the time that's created and if it is the
+case<00:03:03.390><c> that</c><00:03:03.420><c> you</c><00:03:03.750><c> throw</c><00:03:04.140><c> away</c><00:03:04.170><c> your</c><00:03:04.380><c> only</c>
+
+00:03:04.850 --> 00:03:04.860 align:start position:0%
+case that you throw away your only
+ 
+
+00:03:04.860 --> 00:03:06.920 align:start position:0%
+case that you throw away your only
+reference<00:03:05.280><c> to</c><00:03:05.460><c> that</c><00:03:05.580><c> array</c><00:03:05.850><c> just</c><00:03:06.420><c> like</c><00:03:06.570><c> any</c>
+
+00:03:06.920 --> 00:03:06.930 align:start position:0%
+reference to that array just like any
+ 
+
+00:03:06.930 --> 00:03:10.310 align:start position:0%
+reference to that array just like any
+old<00:03:07.020><c> regular</c><00:03:07.590><c> object</c><00:03:08.070><c> you</c><00:03:09.060><c> will</c><00:03:09.360><c> or</c><00:03:09.720><c> any</c><00:03:09.870><c> class</c>
+
+00:03:10.310 --> 00:03:10.320 align:start position:0%
+old regular object you will or any class
+ 
+
+00:03:10.320 --> 00:03:12.200 align:start position:0%
+old regular object you will or any class
+instance<00:03:11.040><c> and</c><00:03:11.430><c> you</c><00:03:11.610><c> will</c><00:03:11.730><c> never</c><00:03:11.820><c> be</c><00:03:12.030><c> able</c><00:03:12.150><c> to</c>
+
+00:03:12.200 --> 00:03:12.210 align:start position:0%
+instance and you will never be able to
+ 
+
+00:03:12.210 --> 00:03:13.820 align:start position:0%
+instance and you will never be able to
+get<00:03:12.360><c> it</c><00:03:12.450><c> back</c><00:03:12.630><c> the</c><00:03:12.990><c> garbage</c><00:03:13.320><c> collector</c><00:03:13.710><c> will</c>
+
+00:03:13.820 --> 00:03:13.830 align:start position:0%
+get it back the garbage collector will
+ 
+
+00:03:13.830 --> 00:03:17.150 align:start position:0%
+get it back the garbage collector will
+eat<00:03:13.980><c> it</c><00:03:14.100><c> up</c><00:03:14.190><c> and</c><00:03:14.400><c> that's</c><00:03:15.300><c> it</c><00:03:15.620><c> now</c><00:03:16.620><c> unlike</c>
+
+00:03:17.150 --> 00:03:17.160 align:start position:0%
+eat it up and that's it now unlike
+ 
+
+00:03:17.160 --> 00:03:19.430 align:start position:0%
+eat it up and that's it now unlike
+classes<00:03:17.700><c> arrays</c><00:03:18.240><c> will</c><00:03:18.450><c> never</c><00:03:18.780><c> have</c><00:03:18.990><c> methods</c>
+
+00:03:19.430 --> 00:03:19.440 align:start position:0%
+classes arrays will never have methods
+ 
+
+00:03:19.440 --> 00:03:20.960 align:start position:0%
+classes arrays will never have methods
+they're<00:03:19.770><c> just</c><00:03:19.950><c> gonna</c><00:03:20.070><c> be</c><00:03:20.250><c> data</c><00:03:20.490><c> that's</c><00:03:20.850><c> gonna</c>
+
+00:03:20.960 --> 00:03:20.970 align:start position:0%
+they're just gonna be data that's gonna
+ 
+
+00:03:20.970 --> 00:03:22.910 align:start position:0%
+they're just gonna be data that's gonna
+be<00:03:21.150><c> a</c><00:03:21.180><c> length</c><00:03:21.420><c> in</c><00:03:21.570><c> a</c><00:03:21.990><c> sequence</c><00:03:22.380><c> of</c><00:03:22.590><c> numbered</c>
+
+00:03:22.910 --> 00:03:22.920 align:start position:0%
+be a length in a sequence of numbered
+ 
+
+00:03:22.920 --> 00:03:25.520 align:start position:0%
+be a length in a sequence of numbered
+memory<00:03:23.160><c> boxes</c>
+

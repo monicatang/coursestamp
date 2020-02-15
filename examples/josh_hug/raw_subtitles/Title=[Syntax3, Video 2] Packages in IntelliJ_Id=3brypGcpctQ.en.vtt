@@ -1,0 +1,1904 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.360 align:start position:0%
+ 
+we've<00:00:00.900><c> already</c><00:00:01.050><c> talked</c><00:00:01.350><c> about</c><00:00:01.469><c> packages</c><00:00:02.190><c> in</c><00:00:02.220><c> a</c>
+
+00:00:02.360 --> 00:00:02.370 align:start position:0%
+we've already talked about packages in a
+ 
+
+00:00:02.370 --> 00:00:04.070 align:start position:0%
+we've already talked about packages in a
+previous<00:00:02.790><c> video</c><00:00:02.939><c> but</c><00:00:03.240><c> in</c><00:00:03.629><c> this</c><00:00:03.750><c> video</c><00:00:03.959><c> we're</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+previous video but in this video we're
+ 
+
+00:00:04.080 --> 00:00:05.780 align:start position:0%
+previous video but in this video we're
+gonna<00:00:04.140><c> see</c><00:00:04.440><c> how</c><00:00:04.740><c> we</c><00:00:04.799><c> can</c><00:00:05.190><c> actually</c><00:00:05.310><c> create</c>
+
+00:00:05.780 --> 00:00:05.790 align:start position:0%
+gonna see how we can actually create
+ 
+
+00:00:05.790 --> 00:00:08.120 align:start position:0%
+gonna see how we can actually create
+those<00:00:05.970><c> inside</c><00:00:06.390><c> of</c><00:00:06.509><c> IntelliJ</c><00:00:07.020><c> and</c><00:00:07.230><c> explore</c>
+
+00:00:08.120 --> 00:00:08.130 align:start position:0%
+those inside of IntelliJ and explore
+ 
+
+00:00:08.130 --> 00:00:10.730 align:start position:0%
+those inside of IntelliJ and explore
+interactively<00:00:08.940><c> how</c><00:00:09.179><c> packages</c><00:00:09.719><c> behave</c><00:00:09.990><c> and</c>
+
+00:00:10.730 --> 00:00:10.740 align:start position:0%
+interactively how packages behave and
+ 
+
+00:00:10.740 --> 00:00:12.589 align:start position:0%
+interactively how packages behave and
+also<00:00:11.099><c> on</c><00:00:11.309><c> the</c><00:00:11.490><c> side</c><00:00:11.670><c> talk</c><00:00:11.940><c> about</c><00:00:12.150><c> jar</c><00:00:12.360><c> files</c>
+
+00:00:12.589 --> 00:00:12.599 align:start position:0%
+also on the side talk about jar files
+ 
+
+00:00:12.599 --> 00:00:15.770 align:start position:0%
+also on the side talk about jar files
+briefly<00:00:13.099><c> so</c><00:00:14.099><c> as</c><00:00:14.309><c> we</c><00:00:14.490><c> saw</c><00:00:14.670><c> before</c><00:00:14.849><c> there</c><00:00:15.389><c> exists</c>
+
+00:00:15.770 --> 00:00:15.780 align:start position:0%
+briefly so as we saw before there exists
+ 
+
+00:00:15.780 --> 00:00:17.390 align:start position:0%
+briefly so as we saw before there exists
+something<00:00:16.109><c> in</c><00:00:16.379><c> Java</c><00:00:16.590><c> known</c><00:00:16.830><c> as</c><00:00:16.949><c> a</c><00:00:16.980><c> package</c>
+
+00:00:17.390 --> 00:00:17.400 align:start position:0%
+something in Java known as a package
+ 
+
+00:00:17.400 --> 00:00:19.160 align:start position:0%
+something in Java known as a package
+which<00:00:17.760><c> is</c><00:00:17.910><c> distinct</c><00:00:18.330><c> from</c><00:00:18.420><c> a</c><00:00:18.570><c> project</c><00:00:19.020><c> that</c>
+
+00:00:19.160 --> 00:00:19.170 align:start position:0%
+which is distinct from a project that
+ 
+
+00:00:19.170 --> 00:00:20.480 align:start position:0%
+which is distinct from a project that
+thing<00:00:19.380><c> we</c><00:00:19.470><c> did</c><00:00:19.619><c> in</c><00:00:19.710><c> the</c><00:00:19.770><c> previous</c><00:00:19.859><c> little</c><00:00:20.340><c> clip</c>
+
+00:00:20.480 --> 00:00:20.490 align:start position:0%
+thing we did in the previous little clip
+ 
+
+00:00:20.490 --> 00:00:23.390 align:start position:0%
+thing we did in the previous little clip
+so<00:00:21.119><c> a</c><00:00:21.150><c> package</c><00:00:21.600><c> is</c><00:00:21.779><c> a</c><00:00:21.900><c> Java</c><00:00:22.260><c> syntax</c><00:00:22.560><c> idea</c><00:00:23.130><c> and</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+so a package is a Java syntax idea and
+ 
+
+00:00:23.400 --> 00:00:25.519 align:start position:0%
+so a package is a Java syntax idea and
+it<00:00:23.820><c> addresses</c><00:00:24.150><c> the</c><00:00:24.300><c> fact</c><00:00:24.570><c> that</c><00:00:24.750><c> multiple</c>
+
+00:00:25.519 --> 00:00:25.529 align:start position:0%
+it addresses the fact that multiple
+ 
+
+00:00:25.529 --> 00:00:27.410 align:start position:0%
+it addresses the fact that multiple
+classes<00:00:25.920><c> might</c><00:00:26.099><c> have</c><00:00:26.250><c> the</c><00:00:26.400><c> same</c><00:00:26.550><c> name</c><00:00:26.820><c> there</c>
+
+00:00:27.410 --> 00:00:27.420 align:start position:0%
+classes might have the same name there
+ 
+
+00:00:27.420 --> 00:00:29.540 align:start position:0%
+classes might have the same name there
+might<00:00:27.570><c> be</c><00:00:27.599><c> a</c><00:00:27.750><c> dog</c><00:00:27.990><c> class</c><00:00:28.349><c> used</c><00:00:28.650><c> by</c><00:00:28.859><c> me</c><00:00:29.130><c> there</c>
+
+00:00:29.540 --> 00:00:29.550 align:start position:0%
+might be a dog class used by me there
+ 
+
+00:00:29.550 --> 00:00:31.490 align:start position:0%
+might be a dog class used by me there
+might<00:00:29.670><c> be</c><00:00:29.699><c> a</c><00:00:29.820><c> dog</c><00:00:30.060><c> class</c><00:00:30.390><c> used</c><00:00:30.689><c> by</c><00:00:30.960><c> I</c><00:00:31.289><c> don't</c>
+
+00:00:31.490 --> 00:00:31.500 align:start position:0%
+might be a dog class used by I don't
+ 
+
+00:00:31.500 --> 00:00:34.700 align:start position:0%
+might be a dog class used by I don't
+know<00:00:31.560><c> Franklin</c><00:00:32.460><c> L</c><00:00:32.730><c> bean</c><00:00:33.600><c> who</c><00:00:34.110><c> runs</c><00:00:34.440><c> some</c>
+
+00:00:34.700 --> 00:00:34.710 align:start position:0%
+know Franklin L bean who runs some
+ 
+
+00:00:34.710 --> 00:00:37.310 align:start position:0%
+know Franklin L bean who runs some
+company<00:00:35.160><c> somewhere</c><00:00:36.000><c> right</c><00:00:36.329><c> and</c><00:00:36.540><c> so</c><00:00:37.050><c> to</c><00:00:37.110><c> deal</c>
+
+00:00:37.310 --> 00:00:37.320 align:start position:0%
+company somewhere right and so to deal
+ 
+
+00:00:37.320 --> 00:00:38.810 align:start position:0%
+company somewhere right and so to deal
+with<00:00:37.440><c> the</c><00:00:37.530><c> fact</c><00:00:37.739><c> that</c><00:00:37.920><c> me</c><00:00:38.070><c> and</c><00:00:38.190><c> Franklin</c><00:00:38.610><c> Bean</c>
+
+00:00:38.810 --> 00:00:38.820 align:start position:0%
+with the fact that me and Franklin Bean
+ 
+
+00:00:38.820 --> 00:00:40.400 align:start position:0%
+with the fact that me and Franklin Bean
+might<00:00:39.270><c> come</c><00:00:39.480><c> up</c><00:00:39.600><c> with</c><00:00:39.629><c> the</c><00:00:39.840><c> same</c><00:00:39.989><c> name</c><00:00:40.170><c> for</c><00:00:40.350><c> a</c>
+
+00:00:40.400 --> 00:00:40.410 align:start position:0%
+might come up with the same name for a
+ 
+
+00:00:40.410 --> 00:00:42.830 align:start position:0%
+might come up with the same name for a
+class<00:00:40.620><c> we</c><00:00:41.219><c> use</c><00:00:41.250><c> this</c><00:00:41.790><c> idea</c><00:00:42.180><c> of</c><00:00:42.360><c> a</c><00:00:42.450><c> namespace</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+class we use this idea of a namespace
+ 
+
+00:00:42.840 --> 00:00:45.260 align:start position:0%
+class we use this idea of a namespace
+that<00:00:43.230><c> any</c><00:00:43.710><c> package</c><00:00:44.129><c> or</c><00:00:44.370><c> in</c><00:00:44.550><c> each</c><00:00:44.640><c> class</c><00:00:45.059><c> I</c>
+
+00:00:45.260 --> 00:00:45.270 align:start position:0%
+that any package or in each class I
+ 
+
+00:00:45.270 --> 00:00:46.819 align:start position:0%
+that any package or in each class I
+write<00:00:45.480><c> should</c><00:00:45.899><c> be</c><00:00:45.989><c> associated</c><00:00:46.260><c> with</c><00:00:46.649><c> some</c>
+
+00:00:46.819 --> 00:00:46.829 align:start position:0%
+write should be associated with some
+ 
+
+00:00:46.829 --> 00:00:49.549 align:start position:0%
+write should be associated with some
+kind<00:00:47.070><c> of</c><00:00:47.160><c> package</c><00:00:47.579><c> some</c><00:00:47.940><c> kind</c><00:00:48.120><c> of</c><00:00:48.180><c> a</c><00:00:48.390><c> name</c><00:00:49.320><c> an</c>
+
+00:00:49.549 --> 00:00:49.559 align:start position:0%
+kind of package some kind of a name an
+ 
+
+00:00:49.559 --> 00:00:51.709 align:start position:0%
+kind of package some kind of a name an
+extra<00:00:49.800><c> part</c><00:00:49.980><c> of</c><00:00:50.070><c> the</c><00:00:50.129><c> name</c><00:00:50.390><c> so</c><00:00:51.390><c> to</c><00:00:51.449><c> do</c><00:00:51.690><c> that</c>
+
+00:00:51.709 --> 00:00:51.719 align:start position:0%
+extra part of the name so to do that
+ 
+
+00:00:51.719 --> 00:00:54.590 align:start position:0%
+extra part of the name so to do that
+what<00:00:52.710><c> we</c><00:00:52.829><c> do</c><00:00:52.980><c> is</c><00:00:53.250><c> rather</c><00:00:53.550><c> than</c><00:00:53.699><c> renaming</c><00:00:54.390><c> the</c>
+
+00:00:54.590 --> 00:00:54.600 align:start position:0%
+what we do is rather than renaming the
+ 
+
+00:00:54.600 --> 00:00:56.360 align:start position:0%
+what we do is rather than renaming the
+class<00:00:54.780><c> something</c><00:00:55.050><c> like</c><00:00:55.260><c> Josh</c><00:00:55.590><c> hug</c><00:00:55.800><c> dog</c><00:00:56.010><c> or</c>
+
+00:00:56.360 --> 00:00:56.370 align:start position:0%
+class something like Josh hug dog or
+ 
+
+00:00:56.370 --> 00:00:58.189 align:start position:0%
+class something like Josh hug dog or
+something<00:00:56.670><c> I</c><00:00:56.850><c> will</c><00:00:57.300><c> instead</c><00:00:57.660><c> at</c><00:00:57.809><c> the</c><00:00:57.840><c> top</c><00:00:58.079><c> of</c>
+
+00:00:58.189 --> 00:00:58.199 align:start position:0%
+something I will instead at the top of
+ 
+
+00:00:58.199 --> 00:01:01.340 align:start position:0%
+something I will instead at the top of
+my<00:00:58.320><c> file</c><00:00:58.500><c> I'll</c><00:00:58.770><c> say</c><00:00:59.039><c> package</c><00:00:59.489><c> oh</c><00:00:59.699><c> gosh</c><00:01:00.719><c> Josh</c><00:01:01.140><c> H</c>
+
+00:01:01.340 --> 00:01:01.350 align:start position:0%
+my file I'll say package oh gosh Josh H
+ 
+
+00:01:01.350 --> 00:01:03.500 align:start position:0%
+my file I'll say package oh gosh Josh H
+dot<00:01:01.739><c> animal</c><00:01:02.129><c> and</c><00:01:02.820><c> what</c><00:01:02.940><c> that</c><00:01:03.090><c> says</c><00:01:03.300><c> is</c><00:01:03.329><c> that</c>
+
+00:01:03.500 --> 00:01:03.510 align:start position:0%
+dot animal and what that says is that
+ 
+
+00:01:03.510 --> 00:01:05.660 align:start position:0%
+dot animal and what that says is that
+this<00:01:03.840><c> package</c><00:01:04.290><c> is</c><00:01:04.500><c> named</c><00:01:04.680><c> dog</c><00:01:04.890><c> about</c><00:01:05.070><c> Josh</c><00:01:05.339><c> H</c><00:01:05.489><c> -</c>
+
+00:01:05.660 --> 00:01:05.670 align:start position:0%
+this package is named dog about Josh H -
+ 
+
+00:01:05.670 --> 00:01:07.670 align:start position:0%
+this package is named dog about Josh H -
+animal<00:01:05.970><c> and</c><00:01:06.119><c> the</c><00:01:06.510><c> dog</c><00:01:06.659><c> class</c><00:01:06.930><c> belongs</c><00:01:07.380><c> to</c><00:01:07.560><c> it</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+animal and the dog class belongs to it
+ 
+
+00:01:07.680 --> 00:01:10.280 align:start position:0%
+animal and the dog class belongs to it
+and<00:01:08.640><c> so</c><00:01:08.760><c> this</c><00:01:09.119><c> convention</c><00:01:09.630><c> as</c><00:01:09.750><c> I</c><00:01:09.840><c> mentioned</c><00:01:10.170><c> in</c>
+
+00:01:10.280 --> 00:01:10.290 align:start position:0%
+and so this convention as I mentioned in
+ 
+
+00:01:10.290 --> 00:01:11.990 align:start position:0%
+and so this convention as I mentioned in
+an<00:01:10.380><c> earlier</c><00:01:10.470><c> video</c><00:01:10.799><c> refers</c><00:01:11.490><c> to</c><00:01:11.520><c> the</c><00:01:11.670><c> website</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+an earlier video refers to the website
+ 
+
+00:01:12.000 --> 00:01:16.149 align:start position:0%
+an earlier video refers to the website
+address<00:01:12.420><c> so</c><00:01:13.049><c> the</c><00:01:13.710><c> org</c><00:01:14.070><c> unit</c><00:01:14.909><c> package</c><00:01:15.600><c> so</c><00:01:15.990><c> or</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+address so the org unit package so or
+ 
+
+00:01:16.159 --> 00:01:18.950 align:start position:0%
+address so the org unit package so or
+j-unit<00:01:17.220><c> or</c><00:01:17.340><c> first</c><00:01:17.700><c> -</c><00:01:17.880><c> a</c><00:01:18.119><c> package</c><00:01:18.540><c> called</c><00:01:18.750><c> org</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+j-unit or first - a package called org
+ 
+
+00:01:18.960 --> 00:01:20.660 align:start position:0%
+j-unit or first - a package called org
+dot<00:01:19.110><c> J</c><00:01:19.320><c> unit</c><00:01:19.470><c> and</c><00:01:19.770><c> it</c><00:01:19.979><c> also</c><00:01:20.130><c> refers</c><00:01:20.460><c> to</c><00:01:20.490><c> the</c>
+
+00:01:20.660 --> 00:01:20.670 align:start position:0%
+dot J unit and it also refers to the
+ 
+
+00:01:20.670 --> 00:01:23.480 align:start position:0%
+dot J unit and it also refers to the
+website<00:01:21.030><c> J</c><00:01:21.450><c> unit</c><00:01:21.659><c> org</c><00:01:22.080><c> in</c><00:01:22.229><c> this</c><00:01:22.830><c> case</c><00:01:23.040><c> they</c>
+
+00:01:23.480 --> 00:01:23.490 align:start position:0%
+website J unit org in this case they
+ 
+
+00:01:23.490 --> 00:01:25.640 align:start position:0%
+website J unit org in this case they
+have<00:01:23.729><c> a</c><00:01:24.030><c> single</c><00:01:24.810><c> package</c><00:01:25.170><c> that</c><00:01:25.380><c> goes</c><00:01:25.500><c> with</c>
+
+00:01:25.640 --> 00:01:25.650 align:start position:0%
+have a single package that goes with
+ 
+
+00:01:25.650 --> 00:01:27.080 align:start position:0%
+have a single package that goes with
+this<00:01:25.740><c> website</c><00:01:25.979><c> so</c><00:01:26.400><c> they</c><00:01:26.520><c> didn't</c><00:01:26.759><c> call</c><00:01:26.850><c> it</c><00:01:26.939><c> like</c>
+
+00:01:27.080 --> 00:01:27.090 align:start position:0%
+this website so they didn't call it like
+ 
+
+00:01:27.090 --> 00:01:29.899 align:start position:0%
+this website so they didn't call it like
+or<00:01:27.330><c> J</c><00:01:27.810><c> unit</c><00:01:27.960><c> dot</c><00:01:28.259><c> testing</c><00:01:28.799><c> stuff</c><00:01:29.040><c> or</c><00:01:29.640><c> is</c><00:01:29.729><c> it</c><00:01:29.820><c> my</c>
+
+00:01:29.899 --> 00:01:29.909 align:start position:0%
+or J unit dot testing stuff or is it my
+ 
+
+00:01:29.909 --> 00:01:31.640 align:start position:0%
+or J unit dot testing stuff or is it my
+case<00:01:29.970><c> maybe</c><00:01:30.270><c> I</c><00:01:30.390><c> have</c><00:01:30.600><c> multiple</c><00:01:30.990><c> packages</c><00:01:31.320><c> at</c>
+
+00:01:31.640 --> 00:01:31.650 align:start position:0%
+case maybe I have multiple packages at
+ 
+
+00:01:31.650 --> 00:01:34.910 align:start position:0%
+case maybe I have multiple packages at
+my<00:01:31.890><c> website</c><00:01:32.100><c> josh</c><00:01:32.640><c> hdg</c><00:01:33.420><c> so</c><00:01:34.259><c> the</c><00:01:34.350><c> package</c><00:01:34.680><c> in</c>
+
+00:01:34.910 --> 00:01:34.920 align:start position:0%
+my website josh hdg so the package in
+ 
+
+00:01:34.920 --> 00:01:37.819 align:start position:0%
+my website josh hdg so the package in
+this<00:01:35.220><c> case</c><00:01:35.460><c> full</c><00:01:36.270><c> name</c><00:01:36.450><c> is</c><00:01:36.630><c> Josh</c><00:01:37.140><c> H</c><00:01:37.320><c> -</c><00:01:37.500><c> animal</c>
+
+00:01:37.819 --> 00:01:37.829 align:start position:0%
+this case full name is Josh H - animal
+ 
+
+00:01:37.829 --> 00:01:40.130 align:start position:0%
+this case full name is Josh H - animal
+capturing<00:01:38.490><c> both</c><00:01:38.670><c> the</c><00:01:39.060><c> website</c><00:01:39.240><c> and</c><00:01:39.659><c> the</c>
+
+00:01:40.130 --> 00:01:40.140 align:start position:0%
+capturing both the website and the
+ 
+
+00:01:40.140 --> 00:01:42.770 align:start position:0%
+capturing both the website and the
+special<00:01:40.500><c> thing</c><00:01:40.799><c> that</c><00:01:41.100><c> I'm</c><00:01:41.189><c> building</c><00:01:41.369><c> okay</c><00:01:41.850><c> so</c>
+
+00:01:42.770 --> 00:01:42.780 align:start position:0%
+special thing that I'm building okay so
+ 
+
+00:01:42.780 --> 00:01:44.210 align:start position:0%
+special thing that I'm building okay so
+that's<00:01:42.930><c> nothing</c><00:01:43.079><c> new</c><00:01:43.380><c> but</c><00:01:43.890><c> what's</c><00:01:44.100><c> gonna</c>
+
+00:01:44.210 --> 00:01:44.220 align:start position:0%
+that's nothing new but what's gonna
+ 
+
+00:01:44.220 --> 00:01:45.620 align:start position:0%
+that's nothing new but what's gonna
+happen<00:01:44.520><c> in</c><00:01:44.579><c> a</c><00:01:44.640><c> moment</c><00:01:44.970><c> is</c><00:01:45.060><c> we'll</c><00:01:45.240><c> see</c><00:01:45.360><c> how</c><00:01:45.479><c> this</c>
+
+00:01:45.620 --> 00:01:45.630 align:start position:0%
+happen in a moment is we'll see how this
+ 
+
+00:01:45.630 --> 00:01:47.420 align:start position:0%
+happen in a moment is we'll see how this
+works<00:01:45.840><c> in</c><00:01:45.990><c> IntelliJ</c><00:01:46.470><c> now</c><00:01:47.100><c> as</c><00:01:47.220><c> a</c><00:01:47.250><c> reminder</c>
+
+00:01:47.420 --> 00:01:47.430 align:start position:0%
+works in IntelliJ now as a reminder
+ 
+
+00:01:47.430 --> 00:01:50.719 align:start position:0%
+works in IntelliJ now as a reminder
+whenever<00:01:48.329><c> we</c><00:01:48.450><c> actually</c><00:01:48.600><c> ID</c><00:01:49.409><c> create</c><00:01:50.009><c> a</c><00:01:50.399><c> package</c>
+
+00:01:50.719 --> 00:01:50.729 align:start position:0%
+whenever we actually ID create a package
+ 
+
+00:01:50.729 --> 00:01:52.760 align:start position:0%
+whenever we actually ID create a package
+then<00:01:51.390><c> whenever</c><00:01:51.750><c> we</c><00:01:51.930><c> want</c><00:01:52.140><c> to</c><00:01:52.170><c> use</c><00:01:52.229><c> a</c><00:01:52.320><c> class</c><00:01:52.619><c> in</c>
+
+00:01:52.760 --> 00:01:52.770 align:start position:0%
+then whenever we want to use a class in
+ 
+
+00:01:52.770 --> 00:01:54.499 align:start position:0%
+then whenever we want to use a class in
+that<00:01:52.829><c> package</c><00:01:53.189><c> we</c><00:01:53.640><c> have</c><00:01:53.670><c> to</c><00:01:53.880><c> either</c><00:01:54.000><c> use</c><00:01:54.360><c> the</c>
+
+00:01:54.499 --> 00:01:54.509 align:start position:0%
+that package we have to either use the
+ 
+
+00:01:54.509 --> 00:01:57.020 align:start position:0%
+that package we have to either use the
+entire<00:01:54.780><c> canonical</c><00:01:55.409><c> name</c><00:01:55.560><c> or</c><00:01:56.159><c> we</c><00:01:56.670><c> can</c><00:01:56.820><c> use</c><00:01:56.850><c> the</c>
+
+00:01:57.020 --> 00:01:57.030 align:start position:0%
+entire canonical name or we can use the
+ 
+
+00:01:57.030 --> 00:01:58.609 align:start position:0%
+entire canonical name or we can use the
+import<00:01:57.390><c> statement</c><00:01:57.810><c> where</c><00:01:58.020><c> we</c><00:01:58.049><c> can</c><00:01:58.229><c> just</c><00:01:58.409><c> use</c>
+
+00:01:58.609 --> 00:01:58.619 align:start position:0%
+import statement where we can just use
+ 
+
+00:01:58.619 --> 00:02:00.410 align:start position:0%
+import statement where we can just use
+the<00:01:58.829><c> simple</c><00:01:59.009><c> name</c><00:01:59.310><c> which</c><00:01:59.579><c> will</c><00:01:59.759><c> be</c><00:01:59.850><c> just</c><00:02:00.000><c> dog</c>
+
+00:02:00.410 --> 00:02:00.420 align:start position:0%
+the simple name which will be just dog
+ 
+
+00:02:00.420 --> 00:02:04.249 align:start position:0%
+the simple name which will be just dog
+and<00:02:00.799><c> we'll</c><00:02:01.799><c> do</c><00:02:01.920><c> that</c><00:02:01.950><c> in</c><00:02:02.070><c> a</c><00:02:02.189><c> moment</c><00:02:02.460><c> okay</c><00:02:03.450><c> so</c>
+
+00:02:04.249 --> 00:02:04.259 align:start position:0%
+and we'll do that in a moment okay so
+ 
+
+00:02:04.259 --> 00:02:05.980 align:start position:0%
+and we'll do that in a moment okay so
+there's<00:02:04.469><c> two</c><00:02:04.500><c> steps</c><00:02:04.860><c> to</c><00:02:05.189><c> creating</c><00:02:05.430><c> a</c><00:02:05.520><c> package</c>
+
+00:02:05.980 --> 00:02:05.990 align:start position:0%
+there's two steps to creating a package
+ 
+
+00:02:05.990 --> 00:02:09.350 align:start position:0%
+there's two steps to creating a package
+the<00:02:06.990><c> first</c><00:02:07.229><c> step</c><00:02:07.439><c> is</c><00:02:07.649><c> to</c><00:02:08.039><c> put</c><00:02:08.640><c> the</c><00:02:08.940><c> package</c>
+
+00:02:09.350 --> 00:02:09.360 align:start position:0%
+the first step is to put the package
+ 
+
+00:02:09.360 --> 00:02:10.699 align:start position:0%
+the first step is to put the package
+name<00:02:09.539><c> at</c><00:02:09.720><c> the</c><00:02:09.810><c> top</c><00:02:09.989><c> with</c><00:02:10.259><c> a</c><00:02:10.289><c> package</c>
+
+00:02:10.699 --> 00:02:10.709 align:start position:0%
+name at the top with a package
+ 
+
+00:02:10.709 --> 00:02:13.210 align:start position:0%
+name at the top with a package
+declaration<00:02:10.920><c> just</c><00:02:11.700><c> like</c><00:02:11.849><c> this</c><00:02:12.030><c> and</c><00:02:12.480><c> then</c><00:02:12.989><c> the</c>
+
+00:02:13.210 --> 00:02:13.220 align:start position:0%
+declaration just like this and then the
+ 
+
+00:02:13.220 --> 00:02:14.890 align:start position:0%
+declaration just like this and then the
+second<00:02:13.430><c> thing</c><00:02:13.580><c> to</c><00:02:13.700><c> do</c><00:02:13.850><c> is</c><00:02:14.000><c> to</c><00:02:14.180><c> make</c><00:02:14.660><c> sure</c><00:02:14.690><c> that</c>
+
+00:02:14.890 --> 00:02:14.900 align:start position:0%
+second thing to do is to make sure that
+ 
+
+00:02:14.900 --> 00:02:16.840 align:start position:0%
+second thing to do is to make sure that
+the<00:02:15.170><c> file</c><00:02:15.380><c> is</c><00:02:15.590><c> stored</c><00:02:15.830><c> in</c><00:02:16.130><c> a</c><00:02:16.220><c> folder</c><00:02:16.370><c> with</c><00:02:16.760><c> the</c>
+
+00:02:16.840 --> 00:02:16.850 align:start position:0%
+the file is stored in a folder with the
+ 
+
+00:02:16.850 --> 00:02:18.790 align:start position:0%
+the file is stored in a folder with the
+appropriate<00:02:17.300><c> folder</c><00:02:17.660><c> name</c><00:02:17.840><c> now</c><00:02:18.590><c> there's</c><00:02:18.770><c> a</c>
+
+00:02:18.790 --> 00:02:18.800 align:start position:0%
+appropriate folder name now there's a
+ 
+
+00:02:18.800 --> 00:02:20.500 align:start position:0%
+appropriate folder name now there's a
+rule<00:02:19.010><c> in</c><00:02:19.040><c> Java</c><00:02:19.490><c> that</c><00:02:19.820><c> the</c><00:02:20.030><c> Java</c><00:02:20.330><c> interpreter</c>
+
+00:02:20.500 --> 00:02:20.510 align:start position:0%
+rule in Java that the Java interpreter
+ 
+
+00:02:20.510 --> 00:02:23.560 align:start position:0%
+rule in Java that the Java interpreter
+uses<00:02:21.230><c> and</c><00:02:21.410><c> the</c><00:02:21.470><c> Java</c><00:02:21.680><c> compiler</c><00:02:22.010><c> uses</c><00:02:22.310><c> to</c><00:02:23.000><c> find</c>
+
+00:02:23.560 --> 00:02:23.570 align:start position:0%
+uses and the Java compiler uses to find
+ 
+
+00:02:23.570 --> 00:02:26.170 align:start position:0%
+uses and the Java compiler uses to find
+the<00:02:24.020><c> files</c><00:02:24.260><c> at</c><00:02:24.500><c> once</c><00:02:24.650><c> so</c><00:02:25.430><c> if</c><00:02:25.520><c> there's</c><00:02:25.700><c> a</c><00:02:25.760><c> file</c>
+
+00:02:26.170 --> 00:02:26.180 align:start position:0%
+the files at once so if there's a file
+ 
+
+00:02:26.180 --> 00:02:29.080 align:start position:0%
+the files at once so if there's a file
+but<00:02:26.420><c> as</c><00:02:26.540><c> package</c><00:02:26.900><c> name</c><00:02:27.110><c> Oh</c><00:02:27.260><c> Gachet</c><00:02:27.860><c> animal</c><00:02:28.670><c> it</c>
+
+00:02:29.080 --> 00:02:29.090 align:start position:0%
+but as package name Oh Gachet animal it
+ 
+
+00:02:29.090 --> 00:02:30.610 align:start position:0%
+but as package name Oh Gachet animal it
+needs<00:02:29.300><c> to</c><00:02:29.420><c> be</c><00:02:29.540><c> in</c><00:02:29.600><c> a</c><00:02:29.660><c> folder</c><00:02:30.020><c> where</c><00:02:30.260><c> we</c><00:02:30.320><c> just</c>
+
+00:02:30.610 --> 00:02:30.620 align:start position:0%
+needs to be in a folder where we just
+ 
+
+00:02:30.620 --> 00:02:32.080 align:start position:0%
+needs to be in a folder where we just
+replace<00:02:30.890><c> each</c><00:02:31.100><c> of</c><00:02:31.220><c> these</c><00:02:31.340><c> dots</c><00:02:31.550><c> with</c><00:02:31.730><c> a</c><00:02:31.820><c> slash</c>
+
+00:02:32.080 --> 00:02:32.090 align:start position:0%
+replace each of these dots with a slash
+ 
+
+00:02:32.090 --> 00:02:33.490 align:start position:0%
+replace each of these dots with a slash
+so<00:02:32.630><c> it</c><00:02:32.690><c> needs</c><00:02:32.840><c> to</c><00:02:32.960><c> be</c><00:02:33.080><c> in</c><00:02:33.140><c> a</c><00:02:33.200><c> folder</c>
+
+00:02:33.490 --> 00:02:33.500 align:start position:0%
+so it needs to be in a folder
+ 
+
+00:02:33.500 --> 00:02:36.250 align:start position:0%
+so it needs to be in a folder
+ugh<00:02:33.680><c> slash</c><00:02:34.070><c> Josh</c><00:02:34.460><c> eh</c><00:02:34.700><c> slash</c><00:02:35.150><c> animal</c><00:02:35.660><c> in</c><00:02:36.080><c> other</c>
+
+00:02:36.250 --> 00:02:36.260 align:start position:0%
+ugh slash Josh eh slash animal in other
+ 
+
+00:02:36.260 --> 00:02:37.390 align:start position:0%
+ugh slash Josh eh slash animal in other
+words<00:02:36.410><c> there's</c><00:02:36.710><c> a</c><00:02:36.770><c> folder</c><00:02:37.010><c> named</c><00:02:37.160><c> animal</c>
+
+00:02:37.390 --> 00:02:37.400 align:start position:0%
+words there's a folder named animal
+ 
+
+00:02:37.400 --> 00:02:39.550 align:start position:0%
+words there's a folder named animal
+inside<00:02:37.940><c> of</c><00:02:38.090><c> a</c><00:02:38.150><c> folder</c><00:02:38.420><c> named</c><00:02:38.600><c> Josh</c><00:02:38.780><c> eh</c><00:02:38.990><c> inside</c>
+
+00:02:39.550 --> 00:02:39.560 align:start position:0%
+inside of a folder named Josh eh inside
+ 
+
+00:02:39.560 --> 00:02:42.250 align:start position:0%
+inside of a folder named Josh eh inside
+of<00:02:39.650><c> a</c><00:02:39.710><c> folder</c><00:02:39.860><c> named</c><00:02:40.250><c> uh</c><00:02:40.870><c> and</c><00:02:41.870><c> we</c><00:02:41.960><c> could</c><00:02:42.140><c> do</c>
+
+00:02:42.250 --> 00:02:42.260 align:start position:0%
+of a folder named uh and we could do
+ 
+
+00:02:42.260 --> 00:02:44.920 align:start position:0%
+of a folder named uh and we could do
+that<00:02:42.380><c> manually</c><00:02:42.880><c> from</c><00:02:43.880><c> our</c><00:02:44.150><c> computer</c><00:02:44.600><c> but</c><00:02:44.840><c> I'll</c>
+
+00:02:44.920 --> 00:02:44.930 align:start position:0%
+that manually from our computer but I'll
+ 
+
+00:02:44.930 --> 00:02:46.240 align:start position:0%
+that manually from our computer but I'll
+show<00:02:45.110><c> you</c><00:02:45.170><c> first</c><00:02:45.410><c> how</c><00:02:45.650><c> we</c><00:02:45.709><c> can</c><00:02:45.890><c> do</c><00:02:46.010><c> it</c><00:02:46.040><c> in</c>
+
+00:02:46.240 --> 00:02:46.250 align:start position:0%
+show you first how we can do it in
+ 
+
+00:02:46.250 --> 00:02:49.210 align:start position:0%
+show you first how we can do it in
+intelligent<00:02:46.990><c> so</c><00:02:47.990><c> to</c><00:02:48.050><c> do</c><00:02:48.230><c> this</c><00:02:48.380><c> I'm</c><00:02:48.860><c> gonna</c><00:02:49.040><c> say</c>
+
+00:02:49.210 --> 00:02:49.220 align:start position:0%
+intelligent so to do this I'm gonna say
+ 
+
+00:02:49.220 --> 00:02:52.120 align:start position:0%
+intelligent so to do this I'm gonna say
+file<00:02:49.580><c> new</c><00:02:49.850><c> package</c><00:02:50.570><c> so</c><00:02:51.560><c> let's</c><00:02:51.740><c> go</c><00:02:51.890><c> into</c>
+
+00:02:52.120 --> 00:02:52.130 align:start position:0%
+file new package so let's go into
+ 
+
+00:02:52.130 --> 00:02:54.790 align:start position:0%
+file new package so let's go into
+IntelliJ<00:02:52.670><c> and</c><00:02:52.850><c> I</c><00:02:53.690><c> go</c><00:02:53.810><c> up</c><00:02:53.930><c> here</c><00:02:54.200><c> and</c><00:02:54.350><c> I'll</c><00:02:54.650><c> say</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+IntelliJ and I go up here and I'll say
+ 
+
+00:02:54.800 --> 00:02:58.810 align:start position:0%
+IntelliJ and I go up here and I'll say
+file<00:02:55.070><c> new</c><00:02:56.350><c> where's</c><00:02:57.350><c> there</c><00:02:57.650><c> this</c><00:02:57.770><c> package</c><00:02:58.100><c> and</c>
+
+00:02:58.810 --> 00:02:58.820 align:start position:0%
+file new where's there this package and
+ 
+
+00:02:58.820 --> 00:02:59.680 align:start position:0%
+file new where's there this package and
+we'll<00:02:58.910><c> call</c><00:02:59.060><c> this</c><00:02:59.180><c> package</c>
+
+00:02:59.680 --> 00:02:59.690 align:start position:0%
+we'll call this package
+ 
+
+00:02:59.690 --> 00:03:04.449 align:start position:0%
+we'll call this package
+Oh<00:02:59.720><c> Josh</c><00:03:00.290><c> H</c><00:03:00.700><c> dot</c><00:03:01.700><c> animal</c><00:03:02.470><c> so</c><00:03:03.470><c> that</c><00:03:03.500><c> has</c><00:03:03.860><c> created</c>
+
+00:03:04.449 --> 00:03:04.459 align:start position:0%
+Oh Josh H dot animal so that has created
+ 
+
+00:03:04.459 --> 00:03:06.130 align:start position:0%
+Oh Josh H dot animal so that has created
+here<00:03:04.670><c> this</c><00:03:04.850><c> little</c><00:03:05.090><c> funny</c><00:03:05.270><c> folder</c><00:03:05.690><c> thing</c><00:03:05.900><c> here</c>
+
+00:03:06.130 --> 00:03:06.140 align:start position:0%
+here this little funny folder thing here
+ 
+
+00:03:06.140 --> 00:03:08.020 align:start position:0%
+here this little funny folder thing here
+and<00:03:06.920><c> if</c><00:03:07.010><c> actually</c><00:03:07.280><c> if</c><00:03:07.340><c> I</c><00:03:07.430><c> go</c><00:03:07.550><c> to</c><00:03:07.610><c> show</c><00:03:07.850><c> and</c>
+
+00:03:08.020 --> 00:03:08.030 align:start position:0%
+and if actually if I go to show and
+ 
+
+00:03:08.030 --> 00:03:09.520 align:start position:0%
+and if actually if I go to show and
+Explorer<00:03:08.390><c> I</c><00:03:08.630><c> can</c><00:03:08.959><c> see</c><00:03:09.080><c> that</c><00:03:09.230><c> there's</c><00:03:09.380><c> now</c><00:03:09.500><c> a</c>
+
+00:03:09.520 --> 00:03:09.530 align:start position:0%
+Explorer I can see that there's now a
+ 
+
+00:03:09.530 --> 00:03:13.300 align:start position:0%
+Explorer I can see that there's now a
+folder<00:03:10.010><c> called</c><00:03:10.630><c> ugh</c><00:03:11.770><c> inside</c><00:03:12.770><c> of</c><00:03:12.890><c> that</c><00:03:12.950><c> is</c><00:03:13.100><c> Josh</c>
+
+00:03:13.300 --> 00:03:13.310 align:start position:0%
+folder called ugh inside of that is Josh
+ 
+
+00:03:13.310 --> 00:03:15.640 align:start position:0%
+folder called ugh inside of that is Josh
+H<00:03:13.520><c> inside</c><00:03:14.000><c> of</c><00:03:14.150><c> that</c><00:03:14.270><c> is</c><00:03:14.420><c> animal</c><00:03:14.900><c> and</c><00:03:15.080><c> nothing</c>
+
+00:03:15.640 --> 00:03:15.650 align:start position:0%
+H inside of that is animal and nothing
+ 
+
+00:03:15.650 --> 00:03:18.670 align:start position:0%
+H inside of that is animal and nothing
+is<00:03:15.770><c> currently</c><00:03:16.100><c> in</c><00:03:16.340><c> the</c><00:03:16.640><c> package</c><00:03:17.440><c> and</c><00:03:18.440><c> so</c><00:03:18.560><c> if</c><00:03:18.650><c> I</c>
+
+00:03:18.670 --> 00:03:18.680 align:start position:0%
+is currently in the package and so if I
+ 
+
+00:03:18.680 --> 00:03:20.800 align:start position:0%
+is currently in the package and so if I
+want<00:03:18.830><c> to</c><00:03:18.890><c> actually</c><00:03:18.980><c> create</c><00:03:19.430><c> a</c><00:03:19.700><c> class</c><00:03:20.450><c> inside</c>
+
+00:03:20.800 --> 00:03:20.810 align:start position:0%
+want to actually create a class inside
+ 
+
+00:03:20.810 --> 00:03:22.060 align:start position:0%
+want to actually create a class inside
+this<00:03:20.989><c> package</c><00:03:21.230><c> I'll</c><00:03:21.440><c> right</c><00:03:21.650><c> click</c><00:03:21.680><c> on</c><00:03:21.980><c> the</c>
+
+00:03:22.060 --> 00:03:22.070 align:start position:0%
+this package I'll right click on the
+ 
+
+00:03:22.070 --> 00:03:23.920 align:start position:0%
+this package I'll right click on the
+package<00:03:22.220><c> name</c><00:03:22.580><c> and</c><00:03:22.790><c> say</c><00:03:22.880><c> new</c><00:03:23.120><c> Java</c><00:03:23.390><c> class</c><00:03:23.660><c> and</c>
+
+00:03:23.920 --> 00:03:23.930 align:start position:0%
+package name and say new Java class and
+ 
+
+00:03:23.930 --> 00:03:26.530 align:start position:0%
+package name and say new Java class and
+we'll<00:03:24.140><c> might</c><00:03:24.290><c> be</c><00:03:24.380><c> called</c><00:03:24.560><c> this</c><00:03:24.709><c> dog</c><00:03:25.390><c> so</c><00:03:26.390><c> this</c>
+
+00:03:26.530 --> 00:03:26.540 align:start position:0%
+we'll might be called this dog so this
+ 
+
+00:03:26.540 --> 00:03:28.180 align:start position:0%
+we'll might be called this dog so this
+automatically<00:03:27.110><c> puts</c><00:03:27.410><c> a</c><00:03:27.470><c> declaration</c><00:03:27.980><c> at</c><00:03:28.070><c> the</c>
+
+00:03:28.180 --> 00:03:28.190 align:start position:0%
+automatically puts a declaration at the
+ 
+
+00:03:28.190 --> 00:03:30.640 align:start position:0%
+automatically puts a declaration at the
+top<00:03:28.370><c> and</c><00:03:28.700><c> we'll</c><00:03:28.850><c> see</c><00:03:29.000><c> that</c><00:03:29.120><c> the</c><00:03:29.239><c> dog</c><00:03:29.420><c> Java</c><00:03:30.350><c> file</c>
+
+00:03:30.640 --> 00:03:30.650 align:start position:0%
+top and we'll see that the dog Java file
+ 
+
+00:03:30.650 --> 00:03:32.740 align:start position:0%
+top and we'll see that the dog Java file
+is<00:03:30.830><c> inside</c><00:03:31.250><c> of</c><00:03:31.430><c> this</c><00:03:31.519><c> package</c><00:03:31.940><c> and</c><00:03:32.510><c> what</c><00:03:32.570><c> that</c>
+
+00:03:32.740 --> 00:03:32.750 align:start position:0%
+is inside of this package and what that
+ 
+
+00:03:32.750 --> 00:03:34.090 align:start position:0%
+is inside of this package and what that
+means<00:03:32.930><c> in</c><00:03:33.080><c> terms</c><00:03:33.110><c> of</c><00:03:33.410><c> our</c><00:03:33.500><c> computer</c><00:03:33.860><c> if</c><00:03:34.010><c> we</c>
+
+00:03:34.090 --> 00:03:34.100 align:start position:0%
+means in terms of our computer if we
+ 
+
+00:03:34.100 --> 00:03:35.740 align:start position:0%
+means in terms of our computer if we
+actually<00:03:34.220><c> go</c><00:03:34.489><c> here</c><00:03:34.700><c> we'll</c><00:03:35.060><c> see</c><00:03:35.239><c> that</c><00:03:35.269><c> in</c><00:03:35.540><c> this</c>
+
+00:03:35.740 --> 00:03:35.750 align:start position:0%
+actually go here we'll see that in this
+ 
+
+00:03:35.750 --> 00:03:38.170 align:start position:0%
+actually go here we'll see that in this
+folder<00:03:35.930><c> ok</c><00:03:36.470><c> again</c><00:03:36.590><c> we'll</c><00:03:36.739><c> go</c><00:03:36.860><c> up</c><00:03:37.010><c> inside</c><00:03:37.850><c> a</c><00:03:37.880><c> bug</c>
+
+00:03:38.170 --> 00:03:38.180 align:start position:0%
+folder ok again we'll go up inside a bug
+ 
+
+00:03:38.180 --> 00:03:41.229 align:start position:0%
+folder ok again we'll go up inside a bug
+slash<00:03:38.570><c> Josh</c><00:03:38.870><c> H</c><00:03:39.080><c> /</c><00:03:39.380><c> animal</c><00:03:39.920><c> we</c><00:03:40.010><c> now</c><00:03:40.160><c> have</c><00:03:40.340><c> dog</c><00:03:40.700><c> we</c>
+
+00:03:41.229 --> 00:03:41.239 align:start position:0%
+slash Josh H / animal we now have dog we
+ 
+
+00:03:41.239 --> 00:03:42.880 align:start position:0%
+slash Josh H / animal we now have dog we
+can<00:03:41.360><c> open</c><00:03:41.480><c> it</c><00:03:41.630><c> up</c><00:03:41.720><c> in</c><00:03:41.900><c> sublime</c><00:03:42.260><c> and</c><00:03:42.530><c> see</c><00:03:42.680><c> that</c>
+
+00:03:42.880 --> 00:03:42.890 align:start position:0%
+can open it up in sublime and see that
+ 
+
+00:03:42.890 --> 00:03:48.009 align:start position:0%
+can open it up in sublime and see that
+nothing<00:03:43.250><c> special</c><00:03:43.459><c> is</c><00:03:43.640><c> happening</c><00:03:43.970><c> here</c><00:03:45.160><c> so</c><00:03:47.019><c> at</c>
+
+00:03:48.009 --> 00:03:48.019 align:start position:0%
+nothing special is happening here so at
+ 
+
+00:03:48.019 --> 00:03:50.320 align:start position:0%
+nothing special is happening here so at
+that<00:03:48.200><c> point</c><00:03:48.410><c> we</c><00:03:48.890><c> have</c><00:03:49.070><c> now</c><00:03:49.250><c> added</c><00:03:49.580><c> a</c><00:03:49.970><c> file</c>
+
+00:03:50.320 --> 00:03:50.330 align:start position:0%
+that point we have now added a file
+ 
+
+00:03:50.330 --> 00:03:53.800 align:start position:0%
+that point we have now added a file
+known<00:03:50.989><c> as</c><00:03:51.140><c> dog</c><00:03:51.320><c> to</c><00:03:51.980><c> our</c><00:03:52.100><c> Shh</c><00:03:52.940><c> animal</c><00:03:53.330><c> package</c>
+
+00:03:53.800 --> 00:03:53.810 align:start position:0%
+known as dog to our Shh animal package
+ 
+
+00:03:53.810 --> 00:03:56.050 align:start position:0%
+known as dog to our Shh animal package
+and<00:03:54.130><c> here's</c><00:03:55.130><c> all</c><00:03:55.250><c> the</c><00:03:55.370><c> slide</c><00:03:55.580><c> versions</c><00:03:55.940><c> of</c>
+
+00:03:56.050 --> 00:03:56.060 align:start position:0%
+and here's all the slide versions of
+ 
+
+00:03:56.060 --> 00:03:59.080 align:start position:0%
+and here's all the slide versions of
+just<00:03:56.269><c> the</c><00:03:56.390><c> same</c><00:03:56.540><c> thing</c><00:03:56.720><c> okay</c><00:03:57.489><c> so</c><00:03:58.489><c> what</c><00:03:58.940><c> we've</c>
+
+00:03:59.080 --> 00:03:59.090 align:start position:0%
+just the same thing okay so what we've
+ 
+
+00:03:59.090 --> 00:04:01.210 align:start position:0%
+just the same thing okay so what we've
+just<00:03:59.120><c> done</c><00:03:59.480><c> then</c><00:03:59.720><c> right</c><00:04:00.170><c> is</c><00:04:00.380><c> we've</c><00:04:00.830><c> just</c><00:04:01.070><c> done</c>
+
+00:04:01.210 --> 00:04:01.220 align:start position:0%
+just done then right is we've just done
+ 
+
+00:04:01.220 --> 00:04:02.680 align:start position:0%
+just done then right is we've just done
+those<00:04:01.400><c> two</c><00:04:01.580><c> steps</c><00:04:01.730><c> I</c><00:04:01.940><c> mentioned</c><00:04:02.239><c> earlier</c><00:04:02.480><c> I</c>
+
+00:04:02.680 --> 00:04:02.690 align:start position:0%
+those two steps I mentioned earlier I
+ 
+
+00:04:02.690 --> 00:04:04.030 align:start position:0%
+those two steps I mentioned earlier I
+said<00:04:03.110><c> there's</c><00:04:03.260><c> two</c><00:04:03.380><c> steps</c><00:04:03.590><c> to</c><00:04:03.709><c> creating</c><00:04:03.920><c> a</c>
+
+00:04:04.030 --> 00:04:04.040 align:start position:0%
+said there's two steps to creating a
+ 
+
+00:04:04.040 --> 00:04:05.650 align:start position:0%
+said there's two steps to creating a
+package<00:04:04.340><c> okay</c>
+
+00:04:05.650 --> 00:04:05.660 align:start position:0%
+package okay
+ 
+
+00:04:05.660 --> 00:04:07.390 align:start position:0%
+package okay
+the<00:04:05.959><c> first</c><00:04:06.170><c> is</c><00:04:06.380><c> putting</c><00:04:06.739><c> the</c><00:04:06.799><c> package</c><00:04:07.100><c> name</c><00:04:07.250><c> at</c>
+
+00:04:07.390 --> 00:04:07.400 align:start position:0%
+the first is putting the package name at
+ 
+
+00:04:07.400 --> 00:04:08.949 align:start position:0%
+the first is putting the package name at
+the<00:04:07.519><c> top</c><00:04:07.640><c> and</c><00:04:08.030><c> the</c><00:04:08.239><c> second</c><00:04:08.510><c> is</c><00:04:08.600><c> making</c><00:04:08.870><c> sure</c>
+
+00:04:08.949 --> 00:04:08.959 align:start position:0%
+the top and the second is making sure
+ 
+
+00:04:08.959 --> 00:04:10.750 align:start position:0%
+the top and the second is making sure
+it's<00:04:09.110><c> in</c><00:04:09.170><c> the</c><00:04:09.290><c> right</c><00:04:09.320><c> folder</c><00:04:09.560><c> so</c><00:04:10.340><c> by</c><00:04:10.489><c> doing</c>
+
+00:04:10.750 --> 00:04:10.760 align:start position:0%
+it's in the right folder so by doing
+ 
+
+00:04:10.760 --> 00:04:12.460 align:start position:0%
+it's in the right folder so by doing
+those<00:04:10.910><c> steps</c><00:04:11.209><c> in</c><00:04:11.360><c> IntelliJ</c><00:04:11.840><c> we</c><00:04:12.170><c> have</c><00:04:12.320><c> done</c>
+
+00:04:12.460 --> 00:04:12.470 align:start position:0%
+those steps in IntelliJ we have done
+ 
+
+00:04:12.470 --> 00:04:14.320 align:start position:0%
+those steps in IntelliJ we have done
+exactly<00:04:12.920><c> these</c><00:04:13.040><c> things</c><00:04:13.100><c> and</c><00:04:13.820><c> again</c><00:04:14.030><c> we</c><00:04:14.209><c> could</c>
+
+00:04:14.320 --> 00:04:14.330 align:start position:0%
+exactly these things and again we could
+ 
+
+00:04:14.330 --> 00:04:15.130 align:start position:0%
+exactly these things and again we could
+have<00:04:14.390><c> done</c><00:04:14.540><c> them</c><00:04:14.720><c> manually</c>
+
+00:04:15.130 --> 00:04:15.140 align:start position:0%
+have done them manually
+ 
+
+00:04:15.140 --> 00:04:16.690 align:start position:0%
+have done them manually
+I<00:04:15.230><c> could</c><00:04:15.440><c> have</c><00:04:15.560><c> manually</c><00:04:16.010><c> gone</c><00:04:16.190><c> in</c><00:04:16.370><c> here</c><00:04:16.549><c> and</c>
+
+00:04:16.690 --> 00:04:16.700 align:start position:0%
+I could have manually gone in here and
+ 
+
+00:04:16.700 --> 00:04:21.190 align:start position:0%
+I could have manually gone in here and
+said<00:04:16.930><c> new</c><00:04:17.930><c> folder</c><00:04:18.709><c> ugh</c><00:04:19.519><c> and</c><00:04:20.090><c> so</c><00:04:20.600><c> forth</c><00:04:21.019><c> and</c>
+
+00:04:21.190 --> 00:04:21.200 align:start position:0%
+said new folder ugh and so forth and
+ 
+
+00:04:21.200 --> 00:04:22.810 align:start position:0%
+said new folder ugh and so forth and
+just<00:04:21.260><c> repeat</c><00:04:21.770><c> it</c><00:04:21.799><c> over</c><00:04:21.919><c> and</c><00:04:22.099><c> over</c><00:04:22.220><c> but</c><00:04:22.550><c> I</c><00:04:22.610><c> saved</c>
+
+00:04:22.810 --> 00:04:22.820 align:start position:0%
+just repeat it over and over but I saved
+ 
+
+00:04:22.820 --> 00:04:24.460 align:start position:0%
+just repeat it over and over but I saved
+myself<00:04:22.970><c> some</c><00:04:23.210><c> time</c><00:04:23.479><c> by</c><00:04:23.750><c> using</c><00:04:23.900><c> IntelliJ</c>
+
+00:04:24.460 --> 00:04:24.470 align:start position:0%
+myself some time by using IntelliJ
+ 
+
+00:04:24.470 --> 00:04:26.210 align:start position:0%
+myself some time by using IntelliJ
+instead
+
+00:04:26.210 --> 00:04:26.220 align:start position:0%
+instead
+ 
+
+00:04:26.220 --> 00:04:28.310 align:start position:0%
+instead
+do<00:04:26.310><c> we</c><00:04:26.370><c> use</c><00:04:26.400><c> packages</c><00:04:27.090><c> well</c><00:04:27.870><c> as</c><00:04:27.960><c> we</c><00:04:28.050><c> saw</c><00:04:28.170><c> in</c><00:04:28.290><c> a</c>
+
+00:04:28.310 --> 00:04:28.320 align:start position:0%
+do we use packages well as we saw in a
+ 
+
+00:04:28.320 --> 00:04:30.410 align:start position:0%
+do we use packages well as we saw in a
+previous<00:04:28.440><c> lecture</c><00:04:28.830><c> and</c><00:04:29.760><c> as</c><00:04:29.940><c> I</c><00:04:30.060><c> said</c><00:04:30.120><c> a</c><00:04:30.270><c> little</c>
+
+00:04:30.410 --> 00:04:30.420 align:start position:0%
+previous lecture and as I said a little
+ 
+
+00:04:30.420 --> 00:04:32.330 align:start position:0%
+previous lecture and as I said a little
+bit<00:04:30.570><c> ago</c><00:04:30.720><c> if</c><00:04:31.110><c> we</c><00:04:31.500><c> have</c><00:04:31.590><c> a</c><00:04:31.620><c> class</c><00:04:31.980><c> in</c><00:04:32.010><c> one</c>
+
+00:04:32.330 --> 00:04:32.340 align:start position:0%
+bit ago if we have a class in one
+ 
+
+00:04:32.340 --> 00:04:34.400 align:start position:0%
+bit ago if we have a class in one
+package<00:04:32.730><c> on</c><00:04:32.940><c> anyone</c><00:04:33.330><c> and</c><00:04:33.510><c> we</c><00:04:33.750><c> want</c><00:04:33.930><c> to</c><00:04:34.050><c> use</c><00:04:34.230><c> it</c>
+
+00:04:34.400 --> 00:04:34.410 align:start position:0%
+package on anyone and we want to use it
+ 
+
+00:04:34.410 --> 00:04:36.050 align:start position:0%
+package on anyone and we want to use it
+in<00:04:34.530><c> another</c><00:04:34.680><c> package</c><00:04:35.250><c> we</c><00:04:35.640><c> can</c><00:04:35.670><c> use</c><00:04:35.910><c> the</c>
+
+00:04:36.050 --> 00:04:36.060 align:start position:0%
+in another package we can use the
+ 
+
+00:04:36.060 --> 00:04:38.090 align:start position:0%
+in another package we can use the
+canonical<00:04:36.330><c> name</c><00:04:36.720><c> and</c><00:04:36.990><c> the</c><00:04:37.470><c> canonical</c><00:04:37.740><c> name</c>
+
+00:04:38.090 --> 00:04:38.100 align:start position:0%
+canonical name and the canonical name
+ 
+
+00:04:38.100 --> 00:04:42.170 align:start position:0%
+canonical name and the canonical name
+refers<00:04:38.460><c> to</c><00:04:38.490><c> the</c><00:04:39.420><c> entire</c><00:04:40.340><c> name</c><00:04:41.340><c> of</c><00:04:41.640><c> the</c><00:04:41.940><c> class</c>
+
+00:04:42.170 --> 00:04:42.180 align:start position:0%
+refers to the entire name of the class
+ 
+
+00:04:42.180 --> 00:04:44.750 align:start position:0%
+refers to the entire name of the class
+including<00:04:42.750><c> its</c><00:04:43.200><c> package</c><00:04:43.500><c> name</c><00:04:43.710><c> and</c><00:04:43.980><c> so</c><00:04:44.460><c> in</c><00:04:44.580><c> dog</c>
+
+00:04:44.750 --> 00:04:44.760 align:start position:0%
+including its package name and so in dog
+ 
+
+00:04:44.760 --> 00:04:46.340 align:start position:0%
+including its package name and so in dog
+launcher<00:04:45.210><c> which</c><00:04:45.420><c> is</c><00:04:45.600><c> not</c><00:04:45.810><c> part</c><00:04:46.140><c> of</c><00:04:46.200><c> the</c>
+
+00:04:46.340 --> 00:04:46.350 align:start position:0%
+launcher which is not part of the
+ 
+
+00:04:46.350 --> 00:04:49.340 align:start position:0%
+launcher which is not part of the
+package<00:04:46.500><c> notice</c><00:04:47.070><c> I</c><00:04:47.280><c> could</c><00:04:48.000><c> say</c><00:04:48.120><c> Oh</c><00:04:48.300><c> Josh</c><00:04:48.810><c> H</c><00:04:49.050><c> or</c>
+
+00:04:49.340 --> 00:04:49.350 align:start position:0%
+package notice I could say Oh Josh H or
+ 
+
+00:04:49.350 --> 00:04:51.920 align:start position:0%
+package notice I could say Oh Josh H or
+sorry<00:04:49.860><c> if</c><00:04:49.950><c> I</c><00:04:50.040><c> say</c><00:04:50.190><c> dog</c><00:04:50.370><c> B</c><00:04:50.670><c> equals</c><00:04:51.000><c> new</c><00:04:51.120><c> dog</c><00:04:51.330><c> it</c>
+
+00:04:51.920 --> 00:04:51.930 align:start position:0%
+sorry if I say dog B equals new dog it
+ 
+
+00:04:51.930 --> 00:04:55.100 align:start position:0%
+sorry if I say dog B equals new dog it
+won't<00:04:52.140><c> work</c><00:04:52.290><c> but</c><00:04:53.130><c> if</c><00:04:53.250><c> I</c><00:04:53.310><c> say</c><00:04:53.460><c> oh</c><00:04:53.610><c> gosh</c><00:04:54.240><c> H</c><00:04:54.450><c> animal</c>
+
+00:04:55.100 --> 00:04:55.110 align:start position:0%
+won't work but if I say oh gosh H animal
+ 
+
+00:04:55.110 --> 00:04:57.980 align:start position:0%
+won't work but if I say oh gosh H animal
+dog<00:04:55.550><c> then</c><00:04:56.550><c> what</c><00:04:56.790><c> the</c><00:04:56.910><c> IntelliJ</c><00:04:57.360><c> compiler</c><00:04:57.840><c> will</c>
+
+00:04:57.980 --> 00:04:57.990 align:start position:0%
+dog then what the IntelliJ compiler will
+ 
+
+00:04:57.990 --> 00:05:00.950 align:start position:0%
+dog then what the IntelliJ compiler will
+do<00:04:58.140><c> is</c><00:04:58.350><c> it'll</c><00:04:58.800><c> say</c><00:04:59.010><c> okay</c><00:04:59.430><c> in</c><00:05:00.180><c> this</c><00:05:00.540><c> folder</c>
+
+00:05:00.950 --> 00:05:00.960 align:start position:0%
+do is it'll say okay in this folder
+ 
+
+00:05:00.960 --> 00:05:02.780 align:start position:0%
+do is it'll say okay in this folder
+right<00:05:01.140><c> let's</c><00:05:01.920><c> think</c><00:05:02.070><c> about</c><00:05:02.220><c> it</c><00:05:02.400><c> from</c><00:05:02.460><c> the</c><00:05:02.580><c> Java</c>
+
+00:05:02.780 --> 00:05:02.790 align:start position:0%
+right let's think about it from the Java
+ 
+
+00:05:02.790 --> 00:05:04.850 align:start position:0%
+right let's think about it from the Java
+compiler<00:05:03.000><c> perspective</c><00:05:03.750><c> it</c><00:05:04.170><c> says</c><00:05:04.380><c> in</c><00:05:04.620><c> this</c>
+
+00:05:04.850 --> 00:05:04.860 align:start position:0%
+compiler perspective it says in this
+ 
+
+00:05:04.860 --> 00:05:07.550 align:start position:0%
+compiler perspective it says in this
+folder<00:05:05.220><c> is</c><00:05:05.340><c> there</c><00:05:05.610><c> an</c><00:05:05.730><c> UGG</c><00:05:05.940><c> /</c><00:05:06.300><c> Josh</c><00:05:06.660><c> H</c><00:05:06.870><c> /</c><00:05:07.140><c> animal</c>
+
+00:05:07.550 --> 00:05:07.560 align:start position:0%
+folder is there an UGG / Josh H / animal
+ 
+
+00:05:07.560 --> 00:05:10.430 align:start position:0%
+folder is there an UGG / Josh H / animal
+/<00:05:07.770><c> dog</c><00:05:08.070><c> yes</c><00:05:08.580><c> yes</c><00:05:08.910><c> there</c><00:05:09.120><c> is</c><00:05:09.240><c> so</c><00:05:10.110><c> everything's</c>
+
+00:05:10.430 --> 00:05:10.440 align:start position:0%
+/ dog yes yes there is so everything's
+ 
+
+00:05:10.440 --> 00:05:12.380 align:start position:0%
+/ dog yes yes there is so everything's
+set<00:05:10.530><c> up</c><00:05:10.680><c> here</c><00:05:10.950><c> nice</c><00:05:11.100><c> and</c><00:05:11.160><c> beautifully</c><00:05:11.730><c> and</c><00:05:12.300><c> so</c>
+
+00:05:12.380 --> 00:05:12.390 align:start position:0%
+set up here nice and beautifully and so
+ 
+
+00:05:12.390 --> 00:05:14.360 align:start position:0%
+set up here nice and beautifully and so
+now<00:05:12.510><c> we</c><00:05:12.570><c> can</c><00:05:12.780><c> use</c><00:05:12.810><c> the</c><00:05:13.050><c> ugh</c><00:05:13.260><c> Josh</c><00:05:13.710><c> H</c><00:05:13.890><c> -</c><00:05:14.040><c> animal</c>
+
+00:05:14.360 --> 00:05:14.370 align:start position:0%
+now we can use the ugh Josh H - animal
+ 
+
+00:05:14.370 --> 00:05:17.900 align:start position:0%
+now we can use the ugh Josh H - animal
+dog<00:05:14.640><c> class</c><00:05:14.940><c> from</c><00:05:15.270><c> dog</c><00:05:15.510><c> launcher</c><00:05:16.580><c> we</c><00:05:17.580><c> can</c><00:05:17.730><c> also</c>
+
+00:05:17.900 --> 00:05:17.910 align:start position:0%
+dog class from dog launcher we can also
+ 
+
+00:05:17.910 --> 00:05:19.970 align:start position:0%
+dog class from dog launcher we can also
+use<00:05:18.120><c> an</c><00:05:18.270><c> import</c><00:05:18.630><c> statement</c><00:05:18.660><c> and</c><00:05:19.230><c> in</c><00:05:19.650><c> that</c><00:05:19.800><c> case</c>
+
+00:05:19.970 --> 00:05:19.980 align:start position:0%
+use an import statement and in that case
+ 
+
+00:05:19.980 --> 00:05:21.640 align:start position:0%
+use an import statement and in that case
+we<00:05:20.130><c> can</c><00:05:20.250><c> just</c><00:05:20.460><c> use</c><00:05:20.580><c> the</c><00:05:20.760><c> simple</c><00:05:20.940><c> name</c><00:05:21.210><c> instead</c>
+
+00:05:21.640 --> 00:05:21.650 align:start position:0%
+we can just use the simple name instead
+ 
+
+00:05:21.650 --> 00:05:25.460 align:start position:0%
+we can just use the simple name instead
+so<00:05:22.650><c> if</c><00:05:22.770><c> I</c><00:05:22.890><c> ants</c><00:05:23.040><c> go</c><00:05:23.580><c> back</c><00:05:23.790><c> to</c><00:05:24.090><c> our</c><00:05:24.660><c> dog</c><00:05:25.080><c> launcher</c>
+
+00:05:25.460 --> 00:05:25.470 align:start position:0%
+so if I ants go back to our dog launcher
+ 
+
+00:05:25.470 --> 00:05:30.409 align:start position:0%
+so if I ants go back to our dog launcher
+and<00:05:25.590><c> I</c><00:05:25.710><c> say</c><00:05:25.919><c> import</c><00:05:26.460><c> Oh</c><00:05:26.700><c> Josh</c><00:05:27.419><c> H</c><00:05:27.660><c> animal</c><00:05:29.419><c> dot</c>
+
+00:05:30.409 --> 00:05:30.419 align:start position:0%
+and I say import Oh Josh H animal dot
+ 
+
+00:05:30.419 --> 00:05:33.800 align:start position:0%
+and I say import Oh Josh H animal dot
+dog<00:05:30.980><c> now</c><00:05:31.980><c> I</c><00:05:32.340><c> no</c><00:05:32.520><c> longer</c><00:05:32.700><c> need</c><00:05:33.120><c> to</c><00:05:33.210><c> say</c><00:05:33.419><c> this</c>
+
+00:05:33.800 --> 00:05:33.810 align:start position:0%
+dog now I no longer need to say this
+ 
+
+00:05:33.810 --> 00:05:35.720 align:start position:0%
+dog now I no longer need to say this
+entire<00:05:34.110><c> canonical</c><00:05:34.650><c> name</c><00:05:34.800><c> and</c><00:05:35.070><c> I</c><00:05:35.250><c> can</c><00:05:35.400><c> just</c><00:05:35.580><c> say</c>
+
+00:05:35.720 --> 00:05:35.730 align:start position:0%
+entire canonical name and I can just say
+ 
+
+00:05:35.730 --> 00:05:38.090 align:start position:0%
+entire canonical name and I can just say
+dog<00:05:36.030><c> okay</c><00:05:36.510><c> and</c><00:05:36.840><c> Java</c><00:05:37.350><c> automatically</c><00:05:37.860><c> knows</c>
+
+00:05:38.090 --> 00:05:38.100 align:start position:0%
+dog okay and Java automatically knows
+ 
+
+00:05:38.100 --> 00:05:39.800 align:start position:0%
+dog okay and Java automatically knows
+that<00:05:38.280><c> the</c><00:05:38.400><c> dog</c><00:05:38.550><c> I'm</c><00:05:38.760><c> referring</c><00:05:39.090><c> to</c><00:05:39.120><c> is</c><00:05:39.390><c> this</c>
+
+00:05:39.800 --> 00:05:39.810 align:start position:0%
+that the dog I'm referring to is this
+ 
+
+00:05:39.810 --> 00:05:43.610 align:start position:0%
+that the dog I'm referring to is this
+dog<00:05:40.169><c> because</c><00:05:40.620><c> I</c><00:05:40.760><c> imported</c><00:05:41.760><c> it</c><00:05:41.850><c> now</c><00:05:42.810><c> as</c><00:05:42.960><c> I</c>
+
+00:05:43.610 --> 00:05:43.620 align:start position:0%
+dog because I imported it now as I
+ 
+
+00:05:43.620 --> 00:05:45.110 align:start position:0%
+dog because I imported it now as I
+mentioned<00:05:44.250><c> begin</c><00:05:44.490><c> in</c><00:05:44.610><c> a</c><00:05:44.669><c> previous</c><00:05:44.970><c> lecture</c>
+
+00:05:45.110 --> 00:05:45.120 align:start position:0%
+mentioned begin in a previous lecture
+ 
+
+00:05:45.120 --> 00:05:47.420 align:start position:0%
+mentioned begin in a previous lecture
+unlike<00:05:45.900><c> a</c><00:05:45.930><c> language</c><00:05:46.350><c> like</c><00:05:46.530><c> Python</c><00:05:46.950><c> where</c><00:05:47.370><c> an</c>
+
+00:05:47.420 --> 00:05:47.430 align:start position:0%
+unlike a language like Python where an
+ 
+
+00:05:47.430 --> 00:05:49.880 align:start position:0%
+unlike a language like Python where an
+import<00:05:47.820><c> is</c><00:05:47.970><c> necessary</c><00:05:48.510><c> to</c><00:05:48.780><c> use</c><00:05:49.050><c> code</c><00:05:49.530><c> that's</c>
+
+00:05:49.880 --> 00:05:49.890 align:start position:0%
+import is necessary to use code that's
+ 
+
+00:05:49.890 --> 00:05:52.850 align:start position:0%
+import is necessary to use code that's
+outside<00:05:50.340><c> of</c><00:05:50.490><c> the</c><00:05:50.610><c> current</c><00:05:51.320><c> context</c><00:05:52.320><c> that</c><00:05:52.680><c> is</c>
+
+00:05:52.850 --> 00:05:52.860 align:start position:0%
+outside of the current context that is
+ 
+
+00:05:52.860 --> 00:05:54.020 align:start position:0%
+outside of the current context that is
+to<00:05:52.979><c> use</c><00:05:53.100><c> something</c><00:05:53.310><c> that's</c><00:05:53.460><c> from</c><00:05:53.729><c> another</c>
+
+00:05:54.020 --> 00:05:54.030 align:start position:0%
+to use something that's from another
+ 
+
+00:05:54.030 --> 00:05:56.060 align:start position:0%
+to use something that's from another
+package<00:05:54.510><c> you</c><00:05:54.870><c> don't</c><00:05:55.110><c> have</c><00:05:55.290><c> to</c><00:05:55.410><c> do</c><00:05:55.560><c> it</c><00:05:55.590><c> in</c><00:05:55.830><c> Java</c>
+
+00:05:56.060 --> 00:05:56.070 align:start position:0%
+package you don't have to do it in Java
+ 
+
+00:05:56.070 --> 00:05:59.480 align:start position:0%
+package you don't have to do it in Java
+in<00:05:57.000><c> Java</c><00:05:57.360><c> the</c><00:05:58.020><c> import</c><00:05:58.320><c> statement</c><00:05:58.680><c> is</c><00:05:58.800><c> just</c><00:05:59.070><c> a</c>
+
+00:05:59.480 --> 00:05:59.490 align:start position:0%
+in Java the import statement is just a
+ 
+
+00:05:59.490 --> 00:06:01.340 align:start position:0%
+in Java the import statement is just a
+syntactic<00:05:59.729><c> ol</c><00:06:00.090><c> convenience</c><00:06:00.570><c> as</c><00:06:00.930><c> opposed</c><00:06:01.290><c> to</c>
+
+00:06:01.340 --> 00:06:01.350 align:start position:0%
+syntactic ol convenience as opposed to
+ 
+
+00:06:01.350 --> 00:06:05.500 align:start position:0%
+syntactic ol convenience as opposed to
+unlocking<00:06:01.830><c> new</c><00:06:02.130><c> capabilities</c><00:06:03.650><c> now</c><00:06:04.650><c> an</c>
+
+00:06:05.500 --> 00:06:05.510 align:start position:0%
+unlocking new capabilities now an
+ 
+
+00:06:05.510 --> 00:06:08.540 align:start position:0%
+unlocking new capabilities now an
+important<00:06:06.510><c> note</c><00:06:06.660><c> is</c><00:06:06.870><c> that</c><00:06:07.200><c> a</c><00:06:07.500><c> class</c><00:06:07.950><c> where</c><00:06:08.460><c> you</c>
+
+00:06:08.540 --> 00:06:08.550 align:start position:0%
+important note is that a class where you
+ 
+
+00:06:08.550 --> 00:06:10.460 align:start position:0%
+important note is that a class where you
+don't<00:06:08.850><c> actually</c><00:06:09.090><c> put</c><00:06:09.390><c> a</c><00:06:09.540><c> package</c><00:06:09.900><c> name</c><00:06:10.140><c> which</c>
+
+00:06:10.460 --> 00:06:10.470 align:start position:0%
+don't actually put a package name which
+ 
+
+00:06:10.470 --> 00:06:11.870 align:start position:0%
+don't actually put a package name which
+is<00:06:10.650><c> almost</c><00:06:10.890><c> all</c><00:06:11.160><c> the</c><00:06:11.280><c> code</c><00:06:11.430><c> you've</c><00:06:11.580><c> written</c><00:06:11.729><c> in</c>
+
+00:06:11.870 --> 00:06:11.880 align:start position:0%
+is almost all the code you've written in
+ 
+
+00:06:11.880 --> 00:06:14.360 align:start position:0%
+is almost all the code you've written in
+this<00:06:12.000><c> class</c><00:06:12.240><c> it</c><00:06:12.780><c> is</c><00:06:12.810><c> called</c><00:06:13.410><c> or</c><00:06:13.740><c> it's</c><00:06:13.950><c> said</c><00:06:14.250><c> to</c>
+
+00:06:14.360 --> 00:06:14.370 align:start position:0%
+this class it is called or it's said to
+ 
+
+00:06:14.370 --> 00:06:16.659 align:start position:0%
+this class it is called or it's said to
+be<00:06:14.490><c> part</c><00:06:14.729><c> of</c><00:06:14.790><c> the</c><00:06:14.940><c> so</c><00:06:15.120><c> called</c><00:06:15.330><c> default</c><00:06:15.810><c> package</c>
+
+00:06:16.659 --> 00:06:16.669 align:start position:0%
+be part of the so called default package
+ 
+
+00:06:16.669 --> 00:06:20.110 align:start position:0%
+be part of the so called default package
+there<00:06:17.669><c> is</c><00:06:17.880><c> a</c><00:06:18.150><c> nice</c><00:06:18.390><c> post</c><00:06:18.690><c> on</c><00:06:18.990><c> Stack</c><00:06:19.710><c> Overflow</c>
+
+00:06:20.110 --> 00:06:20.120 align:start position:0%
+there is a nice post on Stack Overflow
+ 
+
+00:06:20.120 --> 00:06:22.370 align:start position:0%
+there is a nice post on Stack Overflow
+where<00:06:21.120><c> someone</c><00:06:21.360><c> just</c><00:06:21.390><c> simply</c><00:06:21.870><c> puts</c><00:06:22.080><c> it</c><00:06:22.200><c> this</c>
+
+00:06:22.370 --> 00:06:22.380 align:start position:0%
+where someone just simply puts it this
+ 
+
+00:06:22.380 --> 00:06:24.320 align:start position:0%
+where someone just simply puts it this
+way<00:06:22.440><c> you</c><00:06:23.190><c> should</c><00:06:23.220><c> avoid</c><00:06:23.580><c> using</c><00:06:23.640><c> the</c><00:06:23.970><c> default</c>
+
+00:06:24.320 --> 00:06:24.330 align:start position:0%
+way you should avoid using the default
+ 
+
+00:06:24.330 --> 00:06:26.420 align:start position:0%
+way you should avoid using the default
+package<00:06:24.479><c> except</c><00:06:25.080><c> for</c><00:06:25.260><c> very</c><00:06:25.470><c> small</c><00:06:25.680><c> example</c>
+
+00:06:26.420 --> 00:06:26.430 align:start position:0%
+package except for very small example
+ 
+
+00:06:26.430 --> 00:06:29.090 align:start position:0%
+package except for very small example
+programs<00:06:26.850><c> and</c><00:06:27.120><c> I</c><00:06:27.510><c> agree</c><00:06:27.810><c> things</c><00:06:28.740><c> like</c><00:06:28.919><c> our</c>
+
+00:06:29.090 --> 00:06:29.100 align:start position:0%
+programs and I agree things like our
+ 
+
+00:06:29.100 --> 00:06:31.100 align:start position:0%
+programs and I agree things like our
+homework<00:06:29.400><c> 1</c><00:06:29.610><c> or</c><00:06:29.970><c> sorry</c><00:06:30.270><c> our</c><00:06:30.360><c> project</c><00:06:30.840><c> 1</c><00:06:30.990><c> a</c>
+
+00:06:31.100 --> 00:06:31.110 align:start position:0%
+homework 1 or sorry our project 1 a
+ 
+
+00:06:31.110 --> 00:06:33.020 align:start position:0%
+homework 1 or sorry our project 1 a
+project<00:06:31.590><c> 1b</c><00:06:31.860><c> those</c><00:06:32.370><c> really</c><00:06:32.640><c> should</c><00:06:32.850><c> have</c><00:06:32.970><c> been</c>
+
+00:06:33.020 --> 00:06:33.030 align:start position:0%
+project 1b those really should have been
+ 
+
+00:06:33.030 --> 00:06:34.820 align:start position:0%
+project 1b those really should have been
+part<00:06:33.300><c> of</c><00:06:33.360><c> a</c><00:06:33.450><c> package</c><00:06:33.660><c> but</c><00:06:34.260><c> I</c><00:06:34.410><c> didn't</c><00:06:34.650><c> want</c><00:06:34.770><c> to</c>
+
+00:06:34.820 --> 00:06:34.830 align:start position:0%
+part of a package but I didn't want to
+ 
+
+00:06:34.830 --> 00:06:36.950 align:start position:0%
+part of a package but I didn't want to
+layer<00:06:35.070><c> even</c><00:06:35.340><c> more</c><00:06:35.700><c> syntax</c><00:06:36.120><c> on</c><00:06:36.300><c> you</c><00:06:36.450><c> but</c><00:06:36.870><c> from</c>
+
+00:06:36.950 --> 00:06:36.960 align:start position:0%
+layer even more syntax on you but from
+ 
+
+00:06:36.960 --> 00:06:38.719 align:start position:0%
+layer even more syntax on you but from
+this<00:06:37.110><c> point</c><00:06:37.320><c> on</c><00:06:37.530><c> as</c><00:06:37.770><c> we're</c><00:06:38.310><c> working</c><00:06:38.400><c> on</c><00:06:38.610><c> our</c>
+
+00:06:38.719 --> 00:06:38.729 align:start position:0%
+this point on as we're working on our
+ 
+
+00:06:38.729 --> 00:06:40.170 align:start position:0%
+this point on as we're working on our
+programs<00:06:39.120><c> we're</c><00:06:39.450><c> gonna</c><00:06:39.539><c> have</c><00:06:39.720><c> everything</c>
+
+00:06:40.170 --> 00:06:40.180 align:start position:0%
+programs we're gonna have everything
+ 
+
+00:06:40.180 --> 00:06:43.460 align:start position:0%
+programs we're gonna have everything
+be<00:06:40.539><c> part</c><00:06:40.900><c> of</c><00:06:41.110><c> a</c><00:06:41.199><c> package</c><00:06:41.729><c> so</c><00:06:42.729><c> in</c><00:06:42.910><c> other</c><00:06:43.030><c> words</c>
+
+00:06:43.460 --> 00:06:43.470 align:start position:0%
+be part of a package so in other words
+ 
+
+00:06:43.470 --> 00:06:45.840 align:start position:0%
+be part of a package so in other words
+whenever<00:06:44.470><c> you</c><00:06:44.650><c> write</c><00:06:44.800><c> programs</c><00:06:45.190><c> from</c><00:06:45.550><c> now</c><00:06:45.699><c> on</c>
+
+00:06:45.840 --> 00:06:45.850 align:start position:0%
+whenever you write programs from now on
+ 
+
+00:06:45.850 --> 00:06:47.040 align:start position:0%
+whenever you write programs from now on
+you<00:06:46.090><c> should</c><00:06:46.240><c> always</c><00:06:46.389><c> have</c><00:06:46.630><c> some</c><00:06:46.840><c> kind</c><00:06:46.960><c> of</c>
+
+00:06:47.040 --> 00:06:47.050 align:start position:0%
+you should always have some kind of
+ 
+
+00:06:47.050 --> 00:06:48.990 align:start position:0%
+you should always have some kind of
+package<00:06:47.350><c> declaration</c><00:06:47.560><c> up</c><00:06:48.070><c> top</c><00:06:48.250><c> I</c><00:06:48.520><c> guess</c><00:06:48.880><c> if</c>
+
+00:06:48.990 --> 00:06:49.000 align:start position:0%
+package declaration up top I guess if
+ 
+
+00:06:49.000 --> 00:06:52.290 align:start position:0%
+package declaration up top I guess if
+you<00:06:49.150><c> writing</c><00:06:49.539><c> tiny</c><00:06:49.780><c> little</c><00:06:50.940><c> example</c><00:06:51.940><c> code</c><00:06:52.120><c> you</c>
+
+00:06:52.290 --> 00:06:52.300 align:start position:0%
+you writing tiny little example code you
+ 
+
+00:06:52.300 --> 00:06:53.670 align:start position:0%
+you writing tiny little example code you
+can<00:06:52.449><c> avoid</c><00:06:52.720><c> it</c><00:06:52.900><c> for</c><00:06:53.050><c> some</c><00:06:53.199><c> but</c><00:06:53.440><c> there's</c><00:06:53.560><c> no</c>
+
+00:06:53.670 --> 00:06:53.680 align:start position:0%
+can avoid it for some but there's no
+ 
+
+00:06:53.680 --> 00:06:55.200 align:start position:0%
+can avoid it for some but there's no
+reason<00:06:53.949><c> not</c><00:06:54.039><c> to</c><00:06:54.100><c> have</c><00:06:54.250><c> part</c><00:06:54.490><c> of</c><00:06:54.580><c> a</c><00:06:54.639><c> package</c><00:06:55.000><c> it</c>
+
+00:06:55.200 --> 00:06:55.210 align:start position:0%
+reason not to have part of a package it
+ 
+
+00:06:55.210 --> 00:06:58.200 align:start position:0%
+reason not to have part of a package it
+makes<00:06:55.419><c> it's</c><00:06:55.750><c> easy</c><00:06:55.900><c> to</c><00:06:56.110><c> do</c><00:06:56.229><c> in</c><00:06:56.350><c> Java</c><00:06:57.090><c> so</c><00:06:58.090><c> the</c>
+
+00:06:58.200 --> 00:06:58.210 align:start position:0%
+makes it's easy to do in Java so the
+ 
+
+00:06:58.210 --> 00:06:59.820 align:start position:0%
+makes it's easy to do in Java so the
+idea<00:06:58.479><c> here</c><00:06:58.539><c> is</c><00:06:58.900><c> again</c><00:06:59.169><c> just</c><00:06:59.500><c> to</c><00:06:59.560><c> ensure</c><00:06:59.800><c> that</c>
+
+00:06:59.820 --> 00:06:59.830 align:start position:0%
+idea here is again just to ensure that
+ 
+
+00:06:59.830 --> 00:07:01.230 align:start position:0%
+idea here is again just to ensure that
+we<00:07:00.009><c> don't</c><00:07:00.100><c> have</c><00:07:00.310><c> two</c><00:07:00.460><c> classes</c><00:07:00.850><c> with</c><00:07:00.940><c> the</c><00:07:01.060><c> same</c>
+
+00:07:01.230 --> 00:07:01.240 align:start position:0%
+we don't have two classes with the same
+ 
+
+00:07:01.240 --> 00:07:02.730 align:start position:0%
+we don't have two classes with the same
+name<00:07:01.479><c> that</c><00:07:01.810><c> we</c><00:07:01.870><c> always</c><00:07:02.020><c> know</c><00:07:02.199><c> exactly</c><00:07:02.320><c> what</c>
+
+00:07:02.730 --> 00:07:02.740 align:start position:0%
+name that we always know exactly what
+ 
+
+00:07:02.740 --> 00:07:03.990 align:start position:0%
+name that we always know exactly what
+we're<00:07:02.830><c> getting</c><00:07:03.070><c> in</c><00:07:03.340><c> other</c><00:07:03.520><c> words</c><00:07:03.669><c> we're</c><00:07:03.820><c> being</c>
+
+00:07:03.990 --> 00:07:04.000 align:start position:0%
+we're getting in other words we're being
+ 
+
+00:07:04.000 --> 00:07:06.749 align:start position:0%
+we're getting in other words we're being
+explicit<00:07:04.630><c> rather</c><00:07:05.050><c> than</c><00:07:05.320><c> implicit</c><00:07:05.759><c> now</c>
+
+00:07:06.749 --> 00:07:06.759 align:start position:0%
+explicit rather than implicit now
+ 
+
+00:07:06.759 --> 00:07:08.460 align:start position:0%
+explicit rather than implicit now
+there's<00:07:06.940><c> one</c><00:07:07.090><c> little</c><00:07:07.210><c> note</c><00:07:07.509><c> here</c><00:07:07.539><c> which</c><00:07:08.289><c> is</c>
+
+00:07:08.460 --> 00:07:08.470 align:start position:0%
+there's one little note here which is
+ 
+
+00:07:08.470 --> 00:07:10.439 align:start position:0%
+there's one little note here which is
+that<00:07:08.620><c> you</c><00:07:08.710><c> cannot</c><00:07:09.100><c> import</c><00:07:09.550><c> code</c><00:07:09.820><c> from</c><00:07:10.330><c> the</c>
+
+00:07:10.439 --> 00:07:10.449 align:start position:0%
+that you cannot import code from the
+ 
+
+00:07:10.449 --> 00:07:13.230 align:start position:0%
+that you cannot import code from the
+default<00:07:10.750><c> package</c><00:07:11.169><c> so</c><00:07:11.979><c> in</c><00:07:12.370><c> other</c><00:07:12.490><c> words</c><00:07:12.729><c> if</c><00:07:13.000><c> I'm</c>
+
+00:07:13.230 --> 00:07:13.240 align:start position:0%
+default package so in other words if I'm
+ 
+
+00:07:13.240 --> 00:07:15.180 align:start position:0%
+default package so in other words if I'm
+in<00:07:13.360><c> the</c><00:07:13.449><c> dog</c><00:07:13.660><c> class</c><00:07:13.960><c> there's</c><00:07:14.440><c> no</c><00:07:14.710><c> way</c><00:07:14.860><c> I</c><00:07:14.889><c> could</c>
+
+00:07:15.180 --> 00:07:15.190 align:start position:0%
+in the dog class there's no way I could
+ 
+
+00:07:15.190 --> 00:07:17.040 align:start position:0%
+in the dog class there's no way I could
+call<00:07:15.370><c> a</c><00:07:15.400><c> dog</c><00:07:15.669><c> launcher</c><00:07:16.090><c> that</c><00:07:16.180><c> main</c><00:07:16.449><c> if</c><00:07:16.750><c> I</c><00:07:16.870><c> try</c>
+
+00:07:17.040 --> 00:07:17.050 align:start position:0%
+call a dog launcher that main if I try
+ 
+
+00:07:17.050 --> 00:07:18.570 align:start position:0%
+call a dog launcher that main if I try
+and<00:07:17.110><c> do</c><00:07:17.289><c> this</c><00:07:17.440><c> it</c><00:07:17.800><c> doesn't</c><00:07:18.190><c> know</c><00:07:18.280><c> what</c><00:07:18.400><c> dog</c>
+
+00:07:18.570 --> 00:07:18.580 align:start position:0%
+and do this it doesn't know what dog
+ 
+
+00:07:18.580 --> 00:07:20.339 align:start position:0%
+and do this it doesn't know what dog
+launcher<00:07:19.030><c> is</c><00:07:19.120><c> I</c><00:07:19.389><c> can't</c><00:07:19.840><c> do</c><00:07:19.960><c> something</c><00:07:20.199><c> like</c>
+
+00:07:20.339 --> 00:07:20.349 align:start position:0%
+launcher is I can't do something like
+ 
+
+00:07:20.349 --> 00:07:22.620 align:start position:0%
+launcher is I can't do something like
+default<00:07:20.949><c> dog</c><00:07:21.370><c> launcher</c><00:07:21.820><c> that</c><00:07:22.060><c> does</c><00:07:22.270><c> not</c><00:07:22.419><c> work</c>
+
+00:07:22.620 --> 00:07:22.630 align:start position:0%
+default dog launcher that does not work
+ 
+
+00:07:22.630 --> 00:07:24.540 align:start position:0%
+default dog launcher that does not work
+so<00:07:23.169><c> in</c><00:07:23.259><c> other</c><00:07:23.349><c> words</c><00:07:23.560><c> there's</c><00:07:23.949><c> literally</c><00:07:24.250><c> no</c>
+
+00:07:24.540 --> 00:07:24.550 align:start position:0%
+so in other words there's literally no
+ 
+
+00:07:24.550 --> 00:07:26.249 align:start position:0%
+so in other words there's literally no
+way<00:07:24.580><c> that</c><00:07:24.940><c> the</c><00:07:25.030><c> dog</c><00:07:25.240><c> class</c><00:07:25.539><c> could</c><00:07:25.840><c> ever</c><00:07:26.020><c> get</c>
+
+00:07:26.249 --> 00:07:26.259 align:start position:0%
+way that the dog class could ever get
+ 
+
+00:07:26.259 --> 00:07:28.260 align:start position:0%
+way that the dog class could ever get
+ahold<00:07:26.500><c> of</c><00:07:26.710><c> anything</c><00:07:27.070><c> in</c><00:07:27.190><c> the</c><00:07:27.370><c> dog</c><00:07:27.849><c> launcher</c>
+
+00:07:28.260 --> 00:07:28.270 align:start position:0%
+ahold of anything in the dog launcher
+ 
+
+00:07:28.270 --> 00:07:29.850 align:start position:0%
+ahold of anything in the dog launcher
+class<00:07:28.479><c> because</c><00:07:29.020><c> it's</c><00:07:29.169><c> part</c><00:07:29.349><c> of</c><00:07:29.410><c> the</c><00:07:29.530><c> default</c>
+
+00:07:29.850 --> 00:07:29.860 align:start position:0%
+class because it's part of the default
+ 
+
+00:07:29.860 --> 00:07:31.409 align:start position:0%
+class because it's part of the default
+package<00:07:30.220><c> and</c><00:07:30.639><c> that's</c><00:07:30.759><c> just</c><00:07:30.970><c> one</c><00:07:31.120><c> thing</c><00:07:31.330><c> to</c>
+
+00:07:31.409 --> 00:07:31.419 align:start position:0%
+package and that's just one thing to
+ 
+
+00:07:31.419 --> 00:07:33.150 align:start position:0%
+package and that's just one thing to
+keep<00:07:31.539><c> in</c><00:07:31.690><c> mind</c><00:07:31.750><c> that's</c><00:07:32.349><c> an</c><00:07:32.500><c> additional</c><00:07:32.860><c> reason</c>
+
+00:07:33.150 --> 00:07:33.160 align:start position:0%
+keep in mind that's an additional reason
+ 
+
+00:07:33.160 --> 00:07:34.830 align:start position:0%
+keep in mind that's an additional reason
+why<00:07:33.280><c> you</c><00:07:33.729><c> should</c><00:07:33.910><c> avoid</c><00:07:34.030><c> using</c><00:07:34.180><c> the</c><00:07:34.539><c> default</c>
+
+00:07:34.830 --> 00:07:34.840 align:start position:0%
+why you should avoid using the default
+ 
+
+00:07:34.840 --> 00:07:36.659 align:start position:0%
+why you should avoid using the default
+package<00:07:34.990><c> except</c><00:07:35.530><c> for</c><00:07:35.710><c> very</c><00:07:35.830><c> small</c><00:07:35.979><c> example</c>
+
+00:07:36.659 --> 00:07:36.669 align:start position:0%
+package except for very small example
+ 
+
+00:07:36.669 --> 00:07:39.420 align:start position:0%
+package except for very small example
+programs<00:07:37.259><c> so</c><00:07:38.259><c> the</c><00:07:38.560><c> last</c><00:07:38.740><c> little</c><00:07:39.009><c> thing</c><00:07:39.070><c> I</c><00:07:39.280><c> want</c>
+
+00:07:39.420 --> 00:07:39.430 align:start position:0%
+programs so the last little thing I want
+ 
+
+00:07:39.430 --> 00:07:41.969 align:start position:0%
+programs so the last little thing I want
+to<00:07:39.490><c> say</c><00:07:39.580><c> about</c><00:07:39.669><c> packages</c><00:07:40.270><c> is</c><00:07:40.449><c> that</c><00:07:40.630><c> if</c><00:07:41.500><c> you</c>
+
+00:07:41.969 --> 00:07:41.979 align:start position:0%
+to say about packages is that if you
+ 
+
+00:07:41.979 --> 00:07:43.710 align:start position:0%
+to say about packages is that if you
+realize<00:07:42.340><c> that</c><00:07:42.370><c> you</c><00:07:42.880><c> have</c><00:07:43.090><c> created</c><00:07:43.449><c> a</c><00:07:43.539><c> class</c>
+
+00:07:43.710 --> 00:07:43.720 align:start position:0%
+realize that you have created a class
+ 
+
+00:07:43.720 --> 00:07:45.510 align:start position:0%
+realize that you have created a class
+that's<00:07:44.050><c> not</c><00:07:44.169><c> part</c><00:07:44.409><c> of</c><00:07:44.500><c> a</c><00:07:44.560><c> package</c><00:07:44.860><c> then</c><00:07:45.400><c> you</c>
+
+00:07:45.510 --> 00:07:45.520 align:start position:0%
+that's not part of a package then you
+ 
+
+00:07:45.520 --> 00:07:47.820 align:start position:0%
+that's not part of a package then you
+simply<00:07:45.820><c> need</c><00:07:45.970><c> to</c><00:07:46.090><c> do</c><00:07:46.240><c> two</c><00:07:46.449><c> things</c><00:07:46.630><c> one</c><00:07:47.440><c> is</c><00:07:47.620><c> add</c>
+
+00:07:47.820 --> 00:07:47.830 align:start position:0%
+simply need to do two things one is add
+ 
+
+00:07:47.830 --> 00:07:49.860 align:start position:0%
+simply need to do two things one is add
+the<00:07:48.460><c> name</c><00:07:48.639><c> of</c><00:07:48.669><c> the</c><00:07:48.849><c> package</c><00:07:49.030><c> using</c><00:07:49.449><c> a</c><00:07:49.539><c> package</c>
+
+00:07:49.860 --> 00:07:49.870 align:start position:0%
+the name of the package using a package
+ 
+
+00:07:49.870 --> 00:07:52.080 align:start position:0%
+the name of the package using a package
+declaration<00:07:50.050><c> at</c><00:07:50.560><c> the</c><00:07:50.620><c> top</c><00:07:50.770><c> of</c><00:07:50.919><c> the</c><00:07:50.979><c> file</c><00:07:51.159><c> so</c>
+
+00:07:52.080 --> 00:07:52.090 align:start position:0%
+declaration at the top of the file so
+ 
+
+00:07:52.090 --> 00:07:53.670 align:start position:0%
+declaration at the top of the file so
+let<00:07:52.510><c> me</c><00:07:52.599><c> do</c><00:07:52.750><c> that</c><00:07:52.930><c> let's</c><00:07:53.199><c> say</c><00:07:53.320><c> I</c><00:07:53.380><c> want</c><00:07:53.530><c> to</c><00:07:53.560><c> make</c>
+
+00:07:53.670 --> 00:07:53.680 align:start position:0%
+let me do that let's say I want to make
+ 
+
+00:07:53.680 --> 00:07:55.740 align:start position:0%
+let me do that let's say I want to make
+Dog<00:07:53.889><c> launcher</c><00:07:54.250><c> part</c><00:07:54.610><c> of</c><00:07:54.820><c> this</c><00:07:54.970><c> class</c><00:07:55.240><c> maybe</c>
+
+00:07:55.740 --> 00:07:55.750 align:start position:0%
+Dog launcher part of this class maybe
+ 
+
+00:07:55.750 --> 00:07:57.450 align:start position:0%
+Dog launcher part of this class maybe
+I've<00:07:55.960><c> just</c><00:07:56.110><c> decided</c><00:07:56.590><c> it</c><00:07:56.919><c> seems</c><00:07:57.099><c> like</c><00:07:57.220><c> a</c><00:07:57.280><c> dog</c>
+
+00:07:57.450 --> 00:07:57.460 align:start position:0%
+I've just decided it seems like a dog
+ 
+
+00:07:57.460 --> 00:07:58.890 align:start position:0%
+I've just decided it seems like a dog
+launcher<00:07:57.820><c> should</c><00:07:58.000><c> be</c><00:07:58.120><c> part</c><00:07:58.360><c> of</c><00:07:58.419><c> this</c><00:07:58.539><c> animal</c>
+
+00:07:58.890 --> 00:07:58.900 align:start position:0%
+launcher should be part of this animal
+ 
+
+00:07:58.900 --> 00:08:01.680 align:start position:0%
+launcher should be part of this animal
+package<00:07:59.250><c> then</c><00:08:00.250><c> I'll</c><00:08:00.340><c> say</c><00:08:00.460><c> a</c><00:08:00.490><c> package</c><00:08:00.849><c> Oh</c><00:08:01.030><c> Josh</c>
+
+00:08:01.680 --> 00:08:01.690 align:start position:0%
+package then I'll say a package Oh Josh
+ 
+
+00:08:01.690 --> 00:08:06.600 align:start position:0%
+package then I'll say a package Oh Josh
+H<00:08:01.949><c> dot</c><00:08:02.949><c> animal</c><00:08:04.080><c> now</c><00:08:05.080><c> at</c><00:08:05.199><c> this</c><00:08:05.320><c> point</c><00:08:05.530><c> this</c><00:08:06.430><c> is</c>
+
+00:08:06.600 --> 00:08:06.610 align:start position:0%
+H dot animal now at this point this is
+ 
+
+00:08:06.610 --> 00:08:09.060 align:start position:0%
+H dot animal now at this point this is
+fine<00:08:06.849><c> but</c><00:08:07.300><c> it</c><00:08:07.419><c> says</c><00:08:07.630><c> I</c><00:08:07.810><c> don't</c><00:08:08.139><c> understand</c><00:08:08.620><c> the</c>
+
+00:08:09.060 --> 00:08:09.070 align:start position:0%
+fine but it says I don't understand the
+ 
+
+00:08:09.070 --> 00:08:11.399 align:start position:0%
+fine but it says I don't understand the
+package<00:08:09.940><c> name</c><00:08:10.120><c> does</c><00:08:10.389><c> not</c><00:08:10.419><c> correspond</c><00:08:11.169><c> to</c><00:08:11.289><c> the</c>
+
+00:08:11.399 --> 00:08:11.409 align:start position:0%
+package name does not correspond to the
+ 
+
+00:08:11.409 --> 00:08:13.950 align:start position:0%
+package name does not correspond to the
+file<00:08:11.650><c> path</c><00:08:11.919><c> in</c><00:08:12.699><c> other</c><00:08:12.849><c> words</c><00:08:13.030><c> on</c><00:08:13.240><c> my</c><00:08:13.389><c> computer</c>
+
+00:08:13.950 --> 00:08:13.960 align:start position:0%
+file path in other words on my computer
+ 
+
+00:08:13.960 --> 00:08:16.290 align:start position:0%
+file path in other words on my computer
+dog<00:08:14.349><c> launchers</c><00:08:14.800><c> here</c><00:08:15.099><c> but</c><00:08:15.699><c> supposed</c><00:08:16.030><c> to</c><00:08:16.090><c> be</c><00:08:16.210><c> an</c>
+
+00:08:16.290 --> 00:08:16.300 align:start position:0%
+dog launchers here but supposed to be an
+ 
+
+00:08:16.300 --> 00:08:18.839 align:start position:0%
+dog launchers here but supposed to be an
+ugh<00:08:16.509><c> slash</c><00:08:16.840><c> Josh</c><00:08:17.139><c> H</c><00:08:17.380><c> last</c><00:08:17.650><c> animal</c><00:08:18.070><c> so</c><00:08:18.789><c> I</c>
+
+00:08:18.839 --> 00:08:18.849 align:start position:0%
+ugh slash Josh H last animal so I
+ 
+
+00:08:18.849 --> 00:08:21.120 align:start position:0%
+ugh slash Josh H last animal so I
+couldn't<00:08:19.120><c> move</c><00:08:19.270><c> it</c><00:08:19.419><c> manually</c><00:08:19.860><c> all</c><00:08:20.860><c> right</c><00:08:20.979><c> I</c>
+
+00:08:21.120 --> 00:08:21.130 align:start position:0%
+couldn't move it manually all right I
+ 
+
+00:08:21.130 --> 00:08:22.740 align:start position:0%
+couldn't move it manually all right I
+couldn't<00:08:21.490><c> do</c><00:08:21.580><c> this</c><00:08:21.789><c> and</c><00:08:22.090><c> like</c><00:08:22.270><c> keep</c><00:08:22.509><c> repeating</c>
+
+00:08:22.740 --> 00:08:22.750 align:start position:0%
+couldn't do this and like keep repeating
+ 
+
+00:08:22.750 --> 00:08:24.029 align:start position:0%
+couldn't do this and like keep repeating
+that<00:08:22.930><c> and</c><00:08:23.259><c> move</c><00:08:23.440><c> it</c><00:08:23.560><c> into</c><00:08:23.680><c> the</c><00:08:23.830><c> appropriate</c>
+
+00:08:24.029 --> 00:08:24.039 align:start position:0%
+that and move it into the appropriate
+ 
+
+00:08:24.039 --> 00:08:26.279 align:start position:0%
+that and move it into the appropriate
+folder<00:08:24.370><c> but</c><00:08:25.180><c> I</c><00:08:25.210><c> can</c><00:08:25.360><c> actually</c><00:08:25.479><c> also</c><00:08:25.810><c> do</c><00:08:26.080><c> it</c><00:08:26.199><c> in</c>
+
+00:08:26.279 --> 00:08:26.289 align:start position:0%
+folder but I can actually also do it in
+ 
+
+00:08:26.289 --> 00:08:28.770 align:start position:0%
+folder but I can actually also do it in
+IntelliJ<00:08:26.800><c> by</c><00:08:26.979><c> simply</c><00:08:27.340><c> dragging</c><00:08:27.940><c> it</c><00:08:28.180><c> into</c><00:08:28.570><c> this</c>
+
+00:08:28.770 --> 00:08:28.780 align:start position:0%
+IntelliJ by simply dragging it into this
+ 
+
+00:08:28.780 --> 00:08:31.649 align:start position:0%
+IntelliJ by simply dragging it into this
+package<00:08:29.050><c> I</c><00:08:29.500><c> click</c><00:08:30.190><c> a</c><00:08:30.220><c> refactor</c><00:08:30.820><c> and</c><00:08:30.970><c> now</c>
+
+00:08:31.649 --> 00:08:31.659 align:start position:0%
+package I click a refactor and now
+ 
+
+00:08:31.659 --> 00:08:32.579 align:start position:0%
+package I click a refactor and now
+everything's<00:08:32.110><c> fine</c>
+
+00:08:32.579 --> 00:08:32.589 align:start position:0%
+everything's fine
+ 
+
+00:08:32.589 --> 00:08:35.040 align:start position:0%
+everything's fine
+everybody<00:08:33.070><c> compiles</c><00:08:33.550><c> happily</c><00:08:33.969><c> and</c><00:08:34.690><c> if</c><00:08:34.810><c> we</c><00:08:34.930><c> now</c>
+
+00:08:35.040 --> 00:08:35.050 align:start position:0%
+everybody compiles happily and if we now
+ 
+
+00:08:35.050 --> 00:08:37.469 align:start position:0%
+everybody compiles happily and if we now
+look<00:08:35.260><c> at</c><00:08:35.440><c> the</c><00:08:35.680><c> bug</c><00:08:36.130><c> this</c><00:08:36.789><c> folder</c><00:08:37.120><c> it's</c><00:08:37.270><c> gone</c>
+
+00:08:37.469 --> 00:08:37.479 align:start position:0%
+look at the bug this folder it's gone
+ 
+
+00:08:37.479 --> 00:08:39.540 align:start position:0%
+look at the bug this folder it's gone
+the<00:08:37.959><c> dog</c><00:08:38.140><c> launcher</c><00:08:38.500><c> is</c><00:08:38.620><c> gone</c><00:08:38.800><c> but</c><00:08:39.279><c> if</c><00:08:39.370><c> we</c><00:08:39.430><c> go</c>
+
+00:08:39.540 --> 00:08:39.550 align:start position:0%
+the dog launcher is gone but if we go
+ 
+
+00:08:39.550 --> 00:08:41.579 align:start position:0%
+the dog launcher is gone but if we go
+into<00:08:39.669><c> ugh</c><00:08:39.849><c> slash</c><00:08:40.180><c> Josh</c><00:08:40.450><c> H</c><00:08:40.659><c> slash</c><00:08:40.899><c> animal</c><00:08:41.289><c> we</c>
+
+00:08:41.579 --> 00:08:41.589 align:start position:0%
+into ugh slash Josh H slash animal we
+ 
+
+00:08:41.589 --> 00:08:43.050 align:start position:0%
+into ugh slash Josh H slash animal we
+see<00:08:41.740><c> dog</c><00:08:41.919><c> launcher</c><00:08:42.279><c> is</c><00:08:42.399><c> happily</c><00:08:42.760><c> waiting</c>
+
+00:08:43.050 --> 00:08:43.060 align:start position:0%
+see dog launcher is happily waiting
+ 
+
+00:08:43.060 --> 00:08:46.410 align:start position:0%
+see dog launcher is happily waiting
+there<00:08:43.209><c> for</c><00:08:43.240><c> us</c><00:08:43.419><c> so</c><00:08:44.820><c> IntelliJ</c><00:08:45.820><c> again</c><00:08:46.029><c> makes</c><00:08:46.329><c> it</c>
+
+00:08:46.410 --> 00:08:46.420 align:start position:0%
+there for us so IntelliJ again makes it
+ 
+
+00:08:46.420 --> 00:08:48.840 align:start position:0%
+there for us so IntelliJ again makes it
+easier<00:08:46.690><c> for</c><00:08:46.930><c> us</c><00:08:47.279><c> so</c><00:08:48.279><c> in</c><00:08:48.370><c> this</c><00:08:48.459><c> next</c><00:08:48.579><c> little</c>
+
+00:08:48.840 --> 00:08:48.850 align:start position:0%
+easier for us so in this next little
+ 
+
+00:08:48.850 --> 00:08:50.130 align:start position:0%
+easier for us so in this next little
+clip<00:08:49.029><c> I'm</c><00:08:49.270><c> going</c><00:08:49.300><c> to</c><00:08:49.420><c> talk</c><00:08:49.510><c> about</c><00:08:49.630><c> jar</c><00:08:49.930><c> files</c>
+
+00:08:50.130 --> 00:08:50.140 align:start position:0%
+clip I'm going to talk about jar files
+ 
+
+00:08:50.140 --> 00:08:52.230 align:start position:0%
+clip I'm going to talk about jar files
+but<00:08:50.529><c> I'll</c><00:08:50.800><c> pause</c><00:08:51.130><c> here</c><00:08:51.160><c> for</c><00:08:51.610><c> you</c><00:08:51.970><c> to</c>
+
+00:08:52.230 --> 00:08:52.240 align:start position:0%
+but I'll pause here for you to
+ 
+
+00:08:52.240 --> 00:08:55.740 align:start position:0%
+but I'll pause here for you to
+reflect<00:08:52.690><c> or</c><00:08:52.870><c> maybe</c><00:08:53.050><c> mess</c><00:08:53.230><c> around</c><00:08:53.350><c> on</c><00:08:53.529><c> your</c><00:08:53.680><c> own</c>
+

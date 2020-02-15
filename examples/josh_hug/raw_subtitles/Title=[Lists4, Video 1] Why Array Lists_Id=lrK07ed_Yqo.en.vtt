@@ -1,0 +1,608 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.119 align:start position:0%
+ 
+in<00:00:00.870><c> this</c><00:00:01.050><c> lecture</c><00:00:01.380><c> we're</c><00:00:01.650><c> gonna</c><00:00:01.709><c> build</c><00:00:01.979><c> an</c>
+
+00:00:02.119 --> 00:00:02.129 align:start position:0%
+in this lecture we're gonna build an
+ 
+
+00:00:02.129 --> 00:00:04.400 align:start position:0%
+in this lecture we're gonna build an
+array<00:00:02.370><c> base</c><00:00:02.639><c> list</c><00:00:02.970><c> but</c><00:00:03.540><c> before</c><00:00:03.810><c> we</c><00:00:03.899><c> do</c><00:00:04.080><c> that</c><00:00:04.110><c> I</c>
+
+00:00:04.400 --> 00:00:04.410 align:start position:0%
+array base list but before we do that I
+ 
+
+00:00:04.410 --> 00:00:05.480 align:start position:0%
+array base list but before we do that I
+think<00:00:04.620><c> it's</c><00:00:04.740><c> important</c><00:00:05.100><c> to</c><00:00:05.190><c> ask</c><00:00:05.310><c> ourselves</c>
+
+00:00:05.480 --> 00:00:05.490 align:start position:0%
+think it's important to ask ourselves
+ 
+
+00:00:05.490 --> 00:00:07.880 align:start position:0%
+think it's important to ask ourselves
+why<00:00:05.990><c> because</c><00:00:06.990><c> you'll</c><00:00:07.140><c> remember</c><00:00:07.230><c> halfway</c>
+
+00:00:07.880 --> 00:00:07.890 align:start position:0%
+why because you'll remember halfway
+ 
+
+00:00:07.890 --> 00:00:09.440 align:start position:0%
+why because you'll remember halfway
+through<00:00:08.130><c> the</c><00:00:08.250><c> previous</c><00:00:08.490><c> lecture</c><00:00:08.880><c> we</c><00:00:09.059><c> actually</c>
+
+00:00:09.440 --> 00:00:09.450 align:start position:0%
+through the previous lecture we actually
+ 
+
+00:00:09.450 --> 00:00:11.330 align:start position:0%
+through the previous lecture we actually
+ended<00:00:09.599><c> up</c><00:00:09.690><c> with</c><00:00:09.870><c> something</c><00:00:10.320><c> really</c><00:00:10.469><c> nice</c><00:00:11.099><c> a</c>
+
+00:00:11.330 --> 00:00:11.340 align:start position:0%
+ended up with something really nice a
+ 
+
+00:00:11.340 --> 00:00:13.039 align:start position:0%
+ended up with something really nice a
+nice<00:00:11.580><c> linked</c><00:00:11.880><c> list</c><00:00:12.090><c> that</c><00:00:12.210><c> we</c><00:00:12.420><c> call</c><00:00:12.570><c> a</c><00:00:12.599><c> D</c><00:00:12.809><c> list</c>
+
+00:00:13.039 --> 00:00:13.049 align:start position:0%
+nice linked list that we call a D list
+ 
+
+00:00:13.049 --> 00:00:15.829 align:start position:0%
+nice linked list that we call a D list
+so<00:00:13.950><c> D</c><00:00:14.160><c> lists</c><00:00:14.460><c> had</c><00:00:14.580><c> some</c><00:00:14.759><c> wonderful</c><00:00:15.389><c> properties</c>
+
+00:00:15.829 --> 00:00:15.839 align:start position:0%
+so D lists had some wonderful properties
+ 
+
+00:00:15.839 --> 00:00:18.859 align:start position:0%
+so D lists had some wonderful properties
+and<00:00:16.650><c> we</c><00:00:16.770><c> wanted</c><00:00:16.980><c> to</c><00:00:17.100><c> add</c><00:00:17.310><c> items</c><00:00:17.699><c> remove</c><00:00:18.480><c> items</c>
+
+00:00:18.859 --> 00:00:18.869 align:start position:0%
+and we wanted to add items remove items
+ 
+
+00:00:18.869 --> 00:00:21.470 align:start position:0%
+and we wanted to add items remove items
+get<00:00:19.140><c> items</c><00:00:19.470><c> all</c><00:00:19.890><c> of</c><00:00:20.160><c> them</c><00:00:20.279><c> were</c><00:00:20.369><c> fast</c><00:00:20.640><c> and</c><00:00:21.000><c> I</c>
+
+00:00:21.470 --> 00:00:21.480 align:start position:0%
+get items all of them were fast and I
+ 
+
+00:00:21.480 --> 00:00:23.480 align:start position:0%
+get items all of them were fast and I
+also<00:00:21.660><c> said</c><00:00:22.020><c> that</c><00:00:22.050><c> we</c><00:00:22.230><c> avoided</c><00:00:22.740><c> ugly</c><00:00:23.070><c> special</c>
+
+00:00:23.480 --> 00:00:23.490 align:start position:0%
+also said that we avoided ugly special
+ 
+
+00:00:23.490 --> 00:00:26.000 align:start position:0%
+also said that we avoided ugly special
+cases<00:00:23.880><c> by</c><00:00:24.570><c> having</c><00:00:24.960><c> the</c><00:00:25.080><c> special</c><00:00:25.439><c> topology</c>
+
+00:00:26.000 --> 00:00:26.010 align:start position:0%
+cases by having the special topology
+ 
+
+00:00:26.010 --> 00:00:28.580 align:start position:0%
+cases by having the special topology
+where<00:00:26.220><c> the</c><00:00:26.990><c> empty</c><00:00:27.990><c> list</c><00:00:28.140><c> looks</c><00:00:28.410><c> something</c>
+
+00:00:28.580 --> 00:00:28.590 align:start position:0%
+where the empty list looks something
+ 
+
+00:00:28.590 --> 00:00:30.439 align:start position:0%
+where the empty list looks something
+like<00:00:28.710><c> this</c><00:00:28.980><c> and</c><00:00:29.250><c> as</c><00:00:29.519><c> you</c><00:00:29.609><c> fill</c><00:00:29.789><c> in</c><00:00:29.910><c> items</c><00:00:30.210><c> you</c>
+
+00:00:30.439 --> 00:00:30.449 align:start position:0%
+like this and as you fill in items you
+ 
+
+00:00:30.449 --> 00:00:31.880 align:start position:0%
+like this and as you fill in items you
+end<00:00:30.599><c> up</c><00:00:30.689><c> having</c><00:00:30.810><c> a</c><00:00:31.019><c> structure</c><00:00:31.349><c> like</c><00:00:31.380><c> this</c><00:00:31.529><c> am</c><00:00:31.859><c> I</c>
+
+00:00:31.880 --> 00:00:31.890 align:start position:0%
+end up having a structure like this am I
+ 
+
+00:00:31.890 --> 00:00:34.069 align:start position:0%
+end up having a structure like this am I
+gonna<00:00:32.009><c> go</c><00:00:32.160><c> back</c><00:00:32.309><c> over</c><00:00:32.520><c> it</c><00:00:32.700><c> and</c><00:00:32.960><c> you'll</c><00:00:33.960><c> have</c><00:00:33.989><c> a</c>
+
+00:00:34.069 --> 00:00:34.079 align:start position:0%
+gonna go back over it and you'll have a
+ 
+
+00:00:34.079 --> 00:00:36.080 align:start position:0%
+gonna go back over it and you'll have a
+chance<00:00:34.290><c> in</c><00:00:34.500><c> project</c><00:00:34.890><c> 1a</c><00:00:35.040><c> to</c><00:00:35.160><c> see</c><00:00:35.520><c> just</c><00:00:36.000><c> how</c>
+
+00:00:36.080 --> 00:00:36.090 align:start position:0%
+chance in project 1a to see just how
+ 
+
+00:00:36.090 --> 00:00:38.510 align:start position:0%
+chance in project 1a to see just how
+this<00:00:36.390><c> beautiful</c><00:00:36.660><c> idea</c><00:00:37.140><c> makes</c><00:00:37.770><c> it</c><00:00:37.950><c> not</c><00:00:38.129><c> so</c><00:00:38.309><c> hard</c>
+
+00:00:38.510 --> 00:00:38.520 align:start position:0%
+this beautiful idea makes it not so hard
+ 
+
+00:00:38.520 --> 00:00:40.610 align:start position:0%
+this beautiful idea makes it not so hard
+to<00:00:38.640><c> code</c><00:00:38.820><c> up</c><00:00:38.850><c> at</c><00:00:39.120><c> least</c><00:00:39.329><c> I</c><00:00:39.600><c> mean</c><00:00:39.840><c> to</c><00:00:39.960><c> me</c><00:00:40.079><c> for</c><00:00:40.559><c> you</c>
+
+00:00:40.610 --> 00:00:40.620 align:start position:0%
+to code up at least I mean to me for you
+ 
+
+00:00:40.620 --> 00:00:41.720 align:start position:0%
+to code up at least I mean to me for you
+you<00:00:40.739><c> might</c><00:00:40.860><c> have</c><00:00:40.920><c> a</c><00:00:41.070><c> little</c><00:00:41.219><c> more</c><00:00:41.309><c> struggle</c>
+
+00:00:41.720 --> 00:00:41.730 align:start position:0%
+you might have a little more struggle
+ 
+
+00:00:41.730 --> 00:00:43.670 align:start position:0%
+you might have a little more struggle
+that's<00:00:42.000><c> okay</c><00:00:42.300><c> but</c><00:00:42.780><c> once</c><00:00:42.960><c> you</c><00:00:43.079><c> get</c><00:00:43.170><c> the</c><00:00:43.320><c> ideas</c>
+
+00:00:43.670 --> 00:00:43.680 align:start position:0%
+that's okay but once you get the ideas
+ 
+
+00:00:43.680 --> 00:00:45.319 align:start position:0%
+that's okay but once you get the ideas
+down<00:00:43.890><c> you</c><00:00:44.129><c> realize</c><00:00:44.460><c> and</c><00:00:44.640><c> I</c><00:00:44.700><c> hope</c><00:00:44.850><c> I</c><00:00:44.969><c> appreciate</c>
+
+00:00:45.319 --> 00:00:45.329 align:start position:0%
+down you realize and I hope I appreciate
+ 
+
+00:00:45.329 --> 00:00:47.330 align:start position:0%
+down you realize and I hope I appreciate
+how<00:00:45.480><c> good</c><00:00:45.660><c> it</c><00:00:45.809><c> is</c><00:00:45.899><c> so</c><00:00:46.770><c> all</c><00:00:47.039><c> of</c><00:00:47.250><c> these</c>
+
+00:00:47.330 --> 00:00:47.340 align:start position:0%
+how good it is so all of these
+ 
+
+00:00:47.340 --> 00:00:49.580 align:start position:0%
+how good it is so all of these
+operations<00:00:47.940><c> are</c><00:00:48.090><c> fast</c><00:00:48.329><c> the</c><00:00:48.899><c> data</c><00:00:49.110><c> structure</c>
+
+00:00:49.580 --> 00:00:49.590 align:start position:0%
+operations are fast the data structure
+ 
+
+00:00:49.590 --> 00:00:51.619 align:start position:0%
+operations are fast the data structure
+is<00:00:49.770><c> pretty</c><00:00:50.280><c> beautiful</c><00:00:50.489><c> so</c><00:00:51.120><c> the</c><00:00:51.210><c> question</c><00:00:51.510><c> is</c>
+
+00:00:51.619 --> 00:00:51.629 align:start position:0%
+is pretty beautiful so the question is
+ 
+
+00:00:51.629 --> 00:00:52.520 align:start position:0%
+is pretty beautiful so the question is
+why<00:00:51.960><c> bother</c>
+
+00:00:52.520 --> 00:00:52.530 align:start position:0%
+why bother
+ 
+
+00:00:52.530 --> 00:00:54.889 align:start position:0%
+why bother
+why<00:00:52.649><c> bother</c><00:00:52.829><c> using</c><00:00:53.160><c> arrays</c><00:00:53.399><c> instead</c><00:00:53.850><c> and</c><00:00:54.059><c> so</c>
+
+00:00:54.889 --> 00:00:54.899 align:start position:0%
+why bother using arrays instead and so
+ 
+
+00:00:54.899 --> 00:00:57.260 align:start position:0%
+why bother using arrays instead and so
+let's<00:00:55.230><c> talk</c><00:00:55.379><c> about</c><00:00:55.440><c> a</c><00:00:55.710><c> limitation</c><00:00:56.399><c> to</c><00:00:56.610><c> lists</c>
+
+00:00:57.260 --> 00:00:57.270 align:start position:0%
+let's talk about a limitation to lists
+ 
+
+00:00:57.270 --> 00:01:02.090 align:start position:0%
+let's talk about a limitation to lists
+so<00:00:58.230><c> in</c><00:00:58.350><c> general</c><00:00:58.680><c> if</c><00:00:59.640><c> you</c><00:00:59.879><c> have</c><00:01:00.120><c> a</c><00:01:00.660><c> list</c><00:01:01.410><c> a</c><00:01:01.680><c> lot</c>
+
+00:01:02.090 --> 00:01:02.100 align:start position:0%
+so in general if you have a list a lot
+ 
+
+00:01:02.100 --> 00:01:03.049 align:start position:0%
+so in general if you have a list a lot
+of<00:01:02.190><c> times</c><00:01:02.340><c> you</c><00:01:02.430><c> want</c><00:01:02.550><c> to</c><00:01:02.609><c> be</c><00:01:02.670><c> able</c><00:01:02.730><c> to</c><00:01:02.820><c> get</c><00:01:03.030><c> a</c>
+
+00:01:03.049 --> 00:01:03.059 align:start position:0%
+of times you want to be able to get a
+ 
+
+00:01:03.059 --> 00:01:05.060 align:start position:0%
+of times you want to be able to get a
+specific<00:01:03.359><c> item</c><00:01:03.780><c> out</c><00:01:04.019><c> of</c><00:01:04.140><c> it</c><00:01:04.229><c> so</c><00:01:04.739><c> we</c><00:01:04.769><c> might</c><00:01:04.979><c> be</c>
+
+00:01:05.060 --> 00:01:05.070 align:start position:0%
+specific item out of it so we might be
+ 
+
+00:01:05.070 --> 00:01:07.340 align:start position:0%
+specific item out of it so we might be
+able<00:01:05.189><c> to</c><00:01:05.250><c> ask</c><00:01:05.430><c> a</c><00:01:05.909><c> list</c><00:01:06.420><c> something</c><00:01:06.630><c> like</c><00:01:06.900><c> could</c>
+
+00:01:07.340 --> 00:01:07.350 align:start position:0%
+able to ask a list something like could
+ 
+
+00:01:07.350 --> 00:01:09.679 align:start position:0%
+able to ask a list something like could
+you<00:01:07.409><c> get</c><00:01:07.710><c> me</c><00:01:07.830><c> item</c><00:01:08.159><c> two</c><00:01:08.369><c> so</c><00:01:08.909><c> I'd</c><00:01:08.970><c> say</c><00:01:09.150><c> get</c><00:01:09.390><c> item</c>
+
+00:01:09.679 --> 00:01:09.689 align:start position:0%
+you get me item two so I'd say get item
+ 
+
+00:01:09.689 --> 00:01:13.160 align:start position:0%
+you get me item two so I'd say get item
+to<00:01:09.840><c> get</c><00:01:10.170><c> to</c><00:01:10.380><c> and</c><00:01:11.070><c> it</c><00:01:11.159><c> would</c><00:01:11.250><c> return</c><00:01:11.430><c> 70</c><00:01:12.210><c> so</c><00:01:13.080><c> it</c>
+
+00:01:13.160 --> 00:01:13.170 align:start position:0%
+to get to and it would return 70 so it
+ 
+
+00:01:13.170 --> 00:01:15.109 align:start position:0%
+to get to and it would return 70 so it
+turns<00:01:13.439><c> out</c><00:01:13.680><c> with</c><00:01:14.010><c> this</c><00:01:14.250><c> linked</c><00:01:14.850><c> list</c>
+
+00:01:15.109 --> 00:01:15.119 align:start position:0%
+turns out with this linked list
+ 
+
+00:01:15.119 --> 00:01:18.560 align:start position:0%
+turns out with this linked list
+implementation<00:01:15.799><c> it's</c><00:01:16.799><c> going</c><00:01:17.130><c> to</c><00:01:17.280><c> be</c><00:01:17.400><c> slow</c><00:01:17.729><c> for</c>
+
+00:01:18.560 --> 00:01:18.570 align:start position:0%
+implementation it's going to be slow for
+ 
+
+00:01:18.570 --> 00:01:21.469 align:start position:0%
+implementation it's going to be slow for
+long<00:01:19.380><c> lists</c><00:01:19.860><c> and</c><00:01:20.070><c> what</c><00:01:20.580><c> I</c><00:01:20.610><c> mean</c><00:01:20.729><c> by</c><00:01:20.790><c> slow</c><00:01:21.180><c> is</c><00:01:21.330><c> if</c>
+
+00:01:21.469 --> 00:01:21.479 align:start position:0%
+long lists and what I mean by slow is if
+ 
+
+00:01:21.479 --> 00:01:23.090 align:start position:0%
+long lists and what I mean by slow is if
+you<00:01:21.780><c> compare</c><00:01:22.110><c> the</c><00:01:22.229><c> performance</c><00:01:22.710><c> of</c><00:01:22.799><c> a</c><00:01:22.890><c> get</c>
+
+00:01:23.090 --> 00:01:23.100 align:start position:0%
+you compare the performance of a get
+ 
+
+00:01:23.100 --> 00:01:24.830 align:start position:0%
+you compare the performance of a get
+operation<00:01:23.280><c> to</c><00:01:23.790><c> the</c><00:01:23.909><c> performance</c><00:01:24.360><c> of</c><00:01:24.479><c> get</c><00:01:24.630><c> last</c>
+
+00:01:24.830 --> 00:01:24.840 align:start position:0%
+operation to the performance of get last
+ 
+
+00:01:24.840 --> 00:01:26.749 align:start position:0%
+operation to the performance of get last
+it'll<00:01:25.200><c> take</c><00:01:25.350><c> a</c><00:01:25.380><c> lot</c><00:01:25.590><c> longer</c><00:01:25.770><c> so</c><00:01:26.130><c> I'd</c><00:01:26.549><c> like</c><00:01:26.640><c> you</c>
+
+00:01:26.749 --> 00:01:26.759 align:start position:0%
+it'll take a lot longer so I'd like you
+ 
+
+00:01:26.759 --> 00:01:27.890 align:start position:0%
+it'll take a lot longer so I'd like you
+to<00:01:26.850><c> think</c><00:01:26.880><c> about</c><00:01:27.150><c> why</c><00:01:27.270><c> that</c><00:01:27.450><c> might</c><00:01:27.630><c> be</c><00:01:27.689><c> the</c>
+
+00:01:27.890 --> 00:01:27.900 align:start position:0%
+to think about why that might be the
+ 
+
+00:01:27.900 --> 00:01:30.289 align:start position:0%
+to think about why that might be the
+case<00:01:28.020><c> and</c><00:01:28.290><c> for</c><00:01:28.799><c> what</c><00:01:28.950><c> inputs</c><00:01:29.310><c> to</c><00:01:29.850><c> plumb</c><00:01:30.180><c> to</c>
+
+00:01:30.289 --> 00:01:30.299 align:start position:0%
+case and for what inputs to plumb to
+ 
+
+00:01:30.299 --> 00:01:35.359 align:start position:0%
+case and for what inputs to plumb to
+that<00:01:30.420><c> for</c><00:01:30.570><c> a</c><00:01:30.600><c> moment</c><00:01:30.869><c> and</c><00:01:30.930><c> I'll</c><00:01:31.020><c> spoil</c><00:01:31.320><c> it</c><00:01:34.369><c> okay</c>
+
+00:01:35.359 --> 00:01:35.369 align:start position:0%
+that for a moment and I'll spoil it okay
+ 
+
+00:01:35.369 --> 00:01:37.910 align:start position:0%
+that for a moment and I'll spoil it okay
+so<00:01:36.299><c> the</c><00:01:36.720><c> reason</c><00:01:36.900><c> is</c><00:01:37.259><c> that</c><00:01:37.439><c> you</c><00:01:37.650><c> have</c><00:01:37.770><c> to</c>
+
+00:01:37.910 --> 00:01:37.920 align:start position:0%
+so the reason is that you have to
+ 
+
+00:01:37.920 --> 00:01:40.520 align:start position:0%
+so the reason is that you have to
+actually<00:01:38.159><c> scan</c><00:01:38.520><c> to</c><00:01:38.909><c> the</c><00:01:38.939><c> desired</c><00:01:39.360><c> position</c><00:01:39.530><c> so</c>
+
+00:01:40.520 --> 00:01:40.530 align:start position:0%
+actually scan to the desired position so
+ 
+
+00:01:40.530 --> 00:01:42.020 align:start position:0%
+actually scan to the desired position so
+if<00:01:40.619><c> I</c><00:01:40.710><c> want</c><00:01:40.890><c> to</c><00:01:40.950><c> get</c><00:01:41.040><c> item</c><00:01:41.310><c> two</c><00:01:41.520><c> I</c><00:01:41.729><c> have</c><00:01:41.909><c> to</c>
+
+00:01:42.020 --> 00:01:42.030 align:start position:0%
+if I want to get item two I have to
+ 
+
+00:01:42.030 --> 00:01:43.789 align:start position:0%
+if I want to get item two I have to
+follow<00:01:42.210><c> the</c><00:01:42.479><c> sentinel</c><00:01:42.780><c> link</c><00:01:42.960><c> hop</c><00:01:43.290><c> a</c><00:01:43.320><c> couple</c><00:01:43.680><c> of</c>
+
+00:01:43.789 --> 00:01:43.799 align:start position:0%
+follow the sentinel link hop a couple of
+ 
+
+00:01:43.799 --> 00:01:45.800 align:start position:0%
+follow the sentinel link hop a couple of
+times<00:01:44.009><c> and</c><00:01:44.310><c> get</c><00:01:44.460><c> the</c><00:01:44.610><c> Senate</c><00:01:44.850><c> team</c><00:01:45.030><c> so</c><00:01:45.659><c> well</c>
+
+00:01:45.800 --> 00:01:45.810 align:start position:0%
+times and get the Senate team so well
+ 
+
+00:01:45.810 --> 00:01:47.510 align:start position:0%
+times and get the Senate team so well
+that's<00:01:45.960><c> not</c><00:01:46.140><c> so</c><00:01:46.259><c> bad</c><00:01:46.290><c> here</c><00:01:46.799><c> imagine</c><00:01:47.310><c> you</c><00:01:47.399><c> have</c>
+
+00:01:47.510 --> 00:01:47.520 align:start position:0%
+that's not so bad here imagine you have
+ 
+
+00:01:47.520 --> 00:01:49.340 align:start position:0%
+that's not so bad here imagine you have
+a<00:01:47.549><c> list</c><00:01:47.729><c> that's</c><00:01:47.850><c> a</c><00:01:47.970><c> million</c><00:01:48.450><c> items</c><00:01:48.869><c> long</c><00:01:49.110><c> and</c>
+
+00:01:49.340 --> 00:01:49.350 align:start position:0%
+a list that's a million items long and
+ 
+
+00:01:49.350 --> 00:01:51.980 align:start position:0%
+a list that's a million items long and
+someone<00:01:49.799><c> asked</c><00:01:50.040><c> for</c><00:01:50.159><c> item</c><00:01:50.399><c> 500,000</c><00:01:51.240><c> no</c><00:01:51.810><c> matter</c>
+
+00:01:51.980 --> 00:01:51.990 align:start position:0%
+someone asked for item 500,000 no matter
+ 
+
+00:01:51.990 --> 00:01:52.940 align:start position:0%
+someone asked for item 500,000 no matter
+what<00:01:52.170><c> you're</c><00:01:52.409><c> gonna</c><00:01:52.530><c> have</c><00:01:52.619><c> to</c><00:01:52.680><c> end</c><00:01:52.860><c> up</c>
+
+00:01:52.940 --> 00:01:52.950 align:start position:0%
+what you're gonna have to end up
+ 
+
+00:01:52.950 --> 00:01:54.230 align:start position:0%
+what you're gonna have to end up
+scanning<00:01:53.430><c> all</c><00:01:53.549><c> the</c><00:01:53.579><c> way</c><00:01:53.790><c> through</c><00:01:53.970><c> the</c><00:01:54.060><c> list</c>
+
+00:01:54.230 --> 00:01:54.240 align:start position:0%
+scanning all the way through the list
+ 
+
+00:01:54.240 --> 00:01:55.850 align:start position:0%
+scanning all the way through the list
+and<00:01:54.450><c> you'll</c><00:01:55.110><c> reach</c><00:01:55.259><c> the</c><00:01:55.290><c> point</c><00:01:55.560><c> in</c><00:01:55.680><c> the</c><00:01:55.740><c> middle</c>
+
+00:01:55.850 --> 00:01:55.860 align:start position:0%
+and you'll reach the point in the middle
+ 
+
+00:01:55.860 --> 00:01:57.230 align:start position:0%
+and you'll reach the point in the middle
+finally<00:01:56.280><c> and</c><00:01:56.399><c> be</c><00:01:56.460><c> able</c><00:01:56.549><c> to</c><00:01:56.640><c> return</c><00:01:56.880><c> the</c><00:01:57.030><c> item</c>
+
+00:01:57.230 --> 00:01:57.240 align:start position:0%
+finally and be able to return the item
+ 
+
+00:01:57.240 --> 00:01:58.850 align:start position:0%
+finally and be able to return the item
+but<00:01:57.630><c> it</c><00:01:57.719><c> means</c><00:01:57.840><c> you</c><00:01:58.049><c> have</c><00:01:58.140><c> to</c><00:01:58.200><c> walk</c><00:01:58.439><c> a</c><00:01:58.469><c> really</c>
+
+00:01:58.850 --> 00:01:58.860 align:start position:0%
+but it means you have to walk a really
+ 
+
+00:01:58.860 --> 00:02:00.889 align:start position:0%
+but it means you have to walk a really
+long<00:01:59.009><c> list</c><00:01:59.280><c> list</c><00:01:59.759><c> which</c><00:02:00.240><c> is</c><00:02:00.360><c> gonna</c><00:02:00.479><c> be</c><00:02:00.540><c> slow</c>
+
+00:02:00.889 --> 00:02:00.899 align:start position:0%
+long list list which is gonna be slow
+ 
+
+00:02:00.899 --> 00:02:02.840 align:start position:0%
+long list list which is gonna be slow
+compared<00:02:01.530><c> to</c><00:02:01.590><c> just</c><00:02:01.740><c> getting</c><00:02:01.950><c> say</c><00:02:02.310><c> the</c><00:02:02.670><c> last</c>
+
+00:02:02.840 --> 00:02:02.850 align:start position:0%
+compared to just getting say the last
+ 
+
+00:02:02.850 --> 00:02:05.749 align:start position:0%
+compared to just getting say the last
+item<00:02:03.229><c> so</c><00:02:04.229><c> how</c><00:02:04.350><c> can</c><00:02:04.409><c> we</c><00:02:04.590><c> fix</c><00:02:04.799><c> this</c><00:02:05.009><c> well</c><00:02:05.729><c> I</c>
+
+00:02:05.749 --> 00:02:05.759 align:start position:0%
+item so how can we fix this well I
+ 
+
+00:02:05.759 --> 00:02:07.280 align:start position:0%
+item so how can we fix this well I
+didn't<00:02:06.090><c> actually</c><00:02:06.149><c> make</c><00:02:06.450><c> this</c><00:02:06.659><c> light</c><00:02:06.899><c> blue</c><00:02:07.049><c> and</c>
+
+00:02:07.280 --> 00:02:07.290 align:start position:0%
+didn't actually make this light blue and
+ 
+
+00:02:07.290 --> 00:02:08.809 align:start position:0%
+didn't actually make this light blue and
+make<00:02:07.380><c> you</c><00:02:07.500><c> think</c><00:02:07.530><c> about</c><00:02:07.920><c> it</c><00:02:08.039><c> there</c><00:02:08.520><c> are</c><00:02:08.640><c> some</c>
+
+00:02:08.809 --> 00:02:08.819 align:start position:0%
+make you think about it there are some
+ 
+
+00:02:08.819 --> 00:02:12.199 align:start position:0%
+make you think about it there are some
+ways<00:02:09.090><c> you</c><00:02:09.300><c> can</c><00:02:09.390><c> maybe</c><00:02:09.569><c> ponder</c><00:02:09.959><c> it</c><00:02:10.050><c> but</c><00:02:11.009><c> the</c><00:02:11.819><c> two</c>
+
+00:02:12.199 --> 00:02:12.209 align:start position:0%
+ways you can maybe ponder it but the two
+ 
+
+00:02:12.209 --> 00:02:14.000 align:start position:0%
+ways you can maybe ponder it but the two
+most<00:02:12.569><c> obvious</c><00:02:13.140><c> ways</c><00:02:13.379><c> or</c><00:02:13.680><c> the</c>
+
+00:02:14.000 --> 00:02:14.010 align:start position:0%
+most obvious ways or the
+ 
+
+00:02:14.010 --> 00:02:16.280 align:start position:0%
+most obvious ways or the
+most<00:02:14.189><c> natural</c><00:02:14.610><c> aces</c><00:02:14.909><c> won</c><00:02:15.420><c> the</c><00:02:15.959><c> thing</c><00:02:16.140><c> we're</c>
+
+00:02:16.280 --> 00:02:16.290 align:start position:0%
+most natural aces won the thing we're
+ 
+
+00:02:16.290 --> 00:02:17.720 align:start position:0%
+most natural aces won the thing we're
+gonna<00:02:16.409><c> do</c><00:02:16.650><c> which</c><00:02:16.890><c> is</c><00:02:17.010><c> to</c><00:02:17.129><c> use</c><00:02:17.159><c> an</c><00:02:17.489><c> array</c>
+
+00:02:17.720 --> 00:02:17.730 align:start position:0%
+gonna do which is to use an array
+ 
+
+00:02:17.730 --> 00:02:19.640 align:start position:0%
+gonna do which is to use an array
+instead<00:02:18.060><c> avoiding</c><00:02:18.870><c> the</c><00:02:18.959><c> need</c><00:02:19.110><c> for</c><00:02:19.140><c> any</c><00:02:19.349><c> links</c>
+
+00:02:19.640 --> 00:02:19.650 align:start position:0%
+instead avoiding the need for any links
+ 
+
+00:02:19.650 --> 00:02:21.080 align:start position:0%
+instead avoiding the need for any links
+because<00:02:20.129><c> without</c><00:02:20.220><c> a</c><00:02:20.370><c> bunch</c><00:02:20.579><c> of</c><00:02:20.670><c> links</c><00:02:20.849><c> there's</c>
+
+00:02:21.080 --> 00:02:21.090 align:start position:0%
+because without a bunch of links there's
+ 
+
+00:02:21.090 --> 00:02:23.179 align:start position:0%
+because without a bunch of links there's
+no<00:02:21.209><c> need</c><00:02:21.360><c> to</c><00:02:21.390><c> traverse</c><00:02:21.810><c> them</c><00:02:21.989><c> and</c><00:02:22.890><c> that'll</c>
+
+00:02:23.179 --> 00:02:23.189 align:start position:0%
+no need to traverse them and that'll
+ 
+
+00:02:23.189 --> 00:02:24.440 align:start position:0%
+no need to traverse them and that'll
+make<00:02:23.310><c> it</c><00:02:23.340><c> fast</c><00:02:23.670><c> and</c><00:02:23.939><c> there's</c><00:02:24.239><c> another</c>
+
+00:02:24.440 --> 00:02:24.450 align:start position:0%
+make it fast and there's another
+ 
+
+00:02:24.450 --> 00:02:24.890 align:start position:0%
+make it fast and there's another
+approach
+
+00:02:24.890 --> 00:02:24.900 align:start position:0%
+approach
+ 
+
+00:02:24.900 --> 00:02:27.250 align:start position:0%
+approach
+we'll<00:02:25.319><c> discuss</c><00:02:25.620><c> much</c><00:02:25.860><c> later</c><00:02:26.129><c> where</c><00:02:26.640><c> we</c><00:02:26.790><c> can</c>
+
+00:02:27.250 --> 00:02:27.260 align:start position:0%
+we'll discuss much later where we can
+ 
+
+00:02:27.260 --> 00:02:29.780 align:start position:0%
+we'll discuss much later where we can
+mess<00:02:28.260><c> with</c><00:02:28.500><c> the</c><00:02:28.620><c> topology</c><00:02:28.920><c> this</c><00:02:29.310><c> list</c><00:02:29.549><c> in</c><00:02:29.700><c> a</c>
+
+00:02:29.780 --> 00:02:29.790 align:start position:0%
+mess with the topology this list in a
+ 
+
+00:02:29.790 --> 00:02:31.670 align:start position:0%
+mess with the topology this list in a
+very<00:02:30.120><c> clever</c><00:02:30.450><c> way</c><00:02:30.750><c> and</c><00:02:31.049><c> end</c><00:02:31.379><c> up</c><00:02:31.470><c> something</c>
+
+00:02:31.670 --> 00:02:31.680 align:start position:0%
+very clever way and end up something
+ 
+
+00:02:31.680 --> 00:02:33.350 align:start position:0%
+very clever way and end up something
+with<00:02:32.099><c> something</c><00:02:32.310><c> that's</c><00:02:32.519><c> a</c><00:02:32.549><c> lot</c><00:02:32.700><c> faster</c><00:02:33.060><c> but</c>
+
+00:02:33.350 --> 00:02:33.360 align:start position:0%
+with something that's a lot faster but
+ 
+
+00:02:33.360 --> 00:02:36.020 align:start position:0%
+with something that's a lot faster but
+we<00:02:33.569><c> won't</c><00:02:33.720><c> discuss</c><00:02:33.930><c> it</c><00:02:34.170><c> today</c><00:02:34.319><c> so</c><00:02:35.280><c> let's</c><00:02:35.940><c> move</c>
+
+00:02:36.020 --> 00:02:36.030 align:start position:0%
+we won't discuss it today so let's move
+ 
+
+00:02:36.030 --> 00:02:38.959 align:start position:0%
+we won't discuss it today so let's move
+on<00:02:36.209><c> to</c><00:02:36.360><c> the</c><00:02:36.540><c> ArrayList</c>
+

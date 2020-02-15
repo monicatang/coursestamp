@@ -32,7 +32,7 @@
           </form>
         {% if showViewer == true %}
         <iframe style="float:right;padding-top:32px;padding-left:32px" width="66%" height="600px" src="{{urls[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        {% endif %}
+        
         <br>
         
         <div style="float:left;width:33%;overflow:scroll;height:600px;padding:16px">
@@ -44,6 +44,7 @@
               </div>
           {% endfor %}
         </div>
+        {% endif %}
       </center>
     </div>
   </body>

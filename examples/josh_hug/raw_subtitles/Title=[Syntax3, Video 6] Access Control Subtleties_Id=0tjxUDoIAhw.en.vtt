@@ -1,0 +1,2456 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.419 align:start position:0%
+ 
+to<00:00:00.840><c> wrap</c><00:00:00.989><c> up</c><00:00:01.020><c> access</c><00:00:01.530><c> control</c><00:00:01.890><c> let's</c><00:00:02.190><c> consider</c>
+
+00:00:02.419 --> 00:00:02.429 align:start position:0%
+to wrap up access control let's consider
+ 
+
+00:00:02.429 --> 00:00:05.360 align:start position:0%
+to wrap up access control let's consider
+just<00:00:02.550><c> a</c><00:00:02.790><c> few</c><00:00:02.939><c> subtleties</c><00:00:03.389><c> so</c><00:00:04.230><c> we</c><00:00:04.830><c> saw</c><00:00:05.009><c> earlier</c>
+
+00:00:05.360 --> 00:00:05.370 align:start position:0%
+just a few subtleties so we saw earlier
+ 
+
+00:00:05.370 --> 00:00:07.880 align:start position:0%
+just a few subtleties so we saw earlier
+in<00:00:05.490><c> this</c><00:00:05.640><c> flat</c><00:00:06.359><c> set</c><00:00:06.569><c> of</c><00:00:06.660><c> videos</c><00:00:06.930><c> that</c><00:00:06.960><c> code</c>
+
+00:00:07.880 --> 00:00:07.890 align:start position:0%
+in this flat set of videos that code
+ 
+
+00:00:07.890 --> 00:00:10.070 align:start position:0%
+in this flat set of videos that code
+that<00:00:08.130><c> lacks</c><00:00:08.400><c> a</c><00:00:08.639><c> package</c><00:00:09.000><c> declaration</c><00:00:09.210><c> is</c><00:00:09.780><c> part</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+that lacks a package declaration is part
+ 
+
+00:00:10.080 --> 00:00:12.650 align:start position:0%
+that lacks a package declaration is part
+of<00:00:10.170><c> the</c><00:00:10.290><c> so</c><00:00:10.440><c> called</c><00:00:10.679><c> default</c><00:00:11.160><c> package</c><00:00:11.509><c> and</c><00:00:12.509><c> so</c>
+
+00:00:12.650 --> 00:00:12.660 align:start position:0%
+of the so called default package and so
+ 
+
+00:00:12.660 --> 00:00:14.209 align:start position:0%
+of the so called default package and so
+let's<00:00:13.019><c> think</c><00:00:13.139><c> about</c><00:00:13.259><c> how</c><00:00:13.530><c> that</c><00:00:13.590><c> interplays</c>
+
+00:00:14.209 --> 00:00:14.219 align:start position:0%
+let's think about how that interplays
+ 
+
+00:00:14.219 --> 00:00:16.670 align:start position:0%
+let's think about how that interplays
+with<00:00:14.250><c> the</c><00:00:14.490><c> notion</c><00:00:14.790><c> of</c><00:00:14.880><c> package</c><00:00:15.269><c> private</c><00:00:15.680><c> let's</c>
+
+00:00:16.670 --> 00:00:16.680 align:start position:0%
+with the notion of package private let's
+ 
+
+00:00:16.680 --> 00:00:18.380 align:start position:0%
+with the notion of package private let's
+consider<00:00:16.949><c> this</c><00:00:17.160><c> class</c><00:00:17.400><c> over</c><00:00:17.699><c> here</c><00:00:17.730><c> chechi</c>
+
+00:00:18.380 --> 00:00:18.390 align:start position:0%
+consider this class over here chechi
+ 
+
+00:00:18.390 --> 00:00:21.010 align:start position:0%
+consider this class over here chechi
+obey<00:00:18.660><c> so</c><00:00:19.619><c> touch</c><00:00:19.800><c> up</c><00:00:19.949><c> FA</c><00:00:20.220><c> is</c><00:00:20.340><c> not</c><00:00:20.490><c> part</c><00:00:20.730><c> of</c><00:00:20.789><c> any</c>
+
+00:00:21.010 --> 00:00:21.020 align:start position:0%
+obey so touch up FA is not part of any
+ 
+
+00:00:21.020 --> 00:00:23.240 align:start position:0%
+obey so touch up FA is not part of any
+named<00:00:22.020><c> package</c><00:00:22.500><c> it's</c><00:00:22.800><c> just</c><00:00:22.949><c> part</c><00:00:23.100><c> of</c><00:00:23.130><c> the</c>
+
+00:00:23.240 --> 00:00:23.250 align:start position:0%
+named package it's just part of the
+ 
+
+00:00:23.250 --> 00:00:25.040 align:start position:0%
+named package it's just part of the
+default<00:00:23.550><c> package</c><00:00:23.730><c> and</c><00:00:24.060><c> it</c><00:00:24.359><c> has</c><00:00:24.480><c> a</c><00:00:24.510><c> package</c>
+
+00:00:25.040 --> 00:00:25.050 align:start position:0%
+default package and it has a package
+ 
+
+00:00:25.050 --> 00:00:27.170 align:start position:0%
+default package and it has a package
+private<00:00:25.529><c> leap</c><00:00:25.680><c> method</c><00:00:26.070><c> here</c><00:00:26.760><c> I</c><00:00:26.820><c> have</c><00:00:26.910><c> a</c><00:00:26.970><c> class</c>
+
+00:00:27.170 --> 00:00:27.180 align:start position:0%
+private leap method here I have a class
+ 
+
+00:00:27.180 --> 00:00:29.000 align:start position:0%
+private leap method here I have a class
+called<00:00:27.359><c> tain</c><00:00:27.689><c> that</c><00:00:28.080><c> creates</c><00:00:28.349><c> a</c><00:00:28.410><c> chat</c><00:00:28.590><c> Joe</c><00:00:28.710><c> Pepe</c>
+
+00:00:29.000 --> 00:00:29.010 align:start position:0%
+called tain that creates a chat Joe Pepe
+ 
+
+00:00:29.010 --> 00:00:31.310 align:start position:0%
+called tain that creates a chat Joe Pepe
+and<00:00:29.250><c> then</c><00:00:29.490><c> calls</c><00:00:29.760><c> elite</c><00:00:30.029><c> method</c><00:00:30.359><c> now</c><00:00:31.109><c> it</c><00:00:31.170><c> turns</c>
+
+00:00:31.310 --> 00:00:31.320 align:start position:0%
+and then calls elite method now it turns
+ 
+
+00:00:31.320 --> 00:00:32.870 align:start position:0%
+and then calls elite method now it turns
+out<00:00:31.470><c> that</c><00:00:31.590><c> this</c><00:00:31.710><c> code</c><00:00:31.920><c> will</c><00:00:32.099><c> compile</c><00:00:32.430><c> just</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+out that this code will compile just
+ 
+
+00:00:32.880 --> 00:00:34.910 align:start position:0%
+out that this code will compile just
+fine<00:00:33.149><c> and</c><00:00:33.450><c> the</c><00:00:33.870><c> reason</c><00:00:34.170><c> is</c><00:00:34.290><c> that</c><00:00:34.469><c> both</c><00:00:34.890><c> of</c>
+
+00:00:34.910 --> 00:00:34.920 align:start position:0%
+fine and the reason is that both of
+ 
+
+00:00:34.920 --> 00:00:36.319 align:start position:0%
+fine and the reason is that both of
+these<00:00:35.160><c> classes</c><00:00:35.399><c> are</c><00:00:35.670><c> part</c><00:00:35.940><c> of</c><00:00:35.969><c> the</c><00:00:36.120><c> same</c>
+
+00:00:36.319 --> 00:00:36.329 align:start position:0%
+these classes are part of the same
+ 
+
+00:00:36.329 --> 00:00:38.690 align:start position:0%
+these classes are part of the same
+unnamed<00:00:36.780><c> or</c><00:00:37.020><c> default</c><00:00:37.410><c> package</c><00:00:37.649><c> so</c><00:00:38.520><c> in</c><00:00:38.610><c> this</c>
+
+00:00:38.690 --> 00:00:38.700 align:start position:0%
+unnamed or default package so in this
+ 
+
+00:00:38.700 --> 00:00:41.240 align:start position:0%
+unnamed or default package so in this
+case<00:00:38.940><c> some</c><00:00:39.690><c> even</c><00:00:39.989><c> though</c><00:00:40.110><c> this</c><00:00:40.290><c> is</c><00:00:40.469><c> a</c><00:00:40.890><c> package</c>
+
+00:00:41.240 --> 00:00:41.250 align:start position:0%
+case some even though this is a package
+ 
+
+00:00:41.250 --> 00:00:42.979 align:start position:0%
+case some even though this is a package
+private<00:00:41.760><c> since</c><00:00:42.450><c> they're</c><00:00:42.629><c> part</c><00:00:42.809><c> of</c><00:00:42.899><c> the</c>
+
+00:00:42.979 --> 00:00:42.989 align:start position:0%
+private since they're part of the
+ 
+
+00:00:42.989 --> 00:00:44.479 align:start position:0%
+private since they're part of the
+unnamed<00:00:43.290><c> package</c><00:00:43.680><c> everything</c><00:00:44.100><c> works</c><00:00:44.399><c> just</c>
+
+00:00:44.479 --> 00:00:44.489 align:start position:0%
+unnamed package everything works just
+ 
+
+00:00:44.489 --> 00:00:47.869 align:start position:0%
+unnamed package everything works just
+fine<00:00:44.899><c> so</c><00:00:45.899><c> in</c><00:00:46.260><c> this</c><00:00:46.980><c> case</c><00:00:47.219><c> it's</c><00:00:47.670><c> kind</c><00:00:47.850><c> of</c>
+
+00:00:47.869 --> 00:00:47.879 align:start position:0%
+fine so in this case it's kind of
+ 
+
+00:00:47.879 --> 00:00:49.490 align:start position:0%
+fine so in this case it's kind of
+interesting<00:00:48.300><c> because</c><00:00:48.390><c> if</c><00:00:48.660><c> you</c><00:00:48.750><c> take</c><00:00:48.960><c> code</c><00:00:49.260><c> and</c>
+
+00:00:49.490 --> 00:00:49.500 align:start position:0%
+interesting because if you take code and
+ 
+
+00:00:49.500 --> 00:00:51.260 align:start position:0%
+interesting because if you take code and
+you<00:00:49.649><c> totally</c><00:00:49.920><c> omit</c><00:00:50.280><c> package</c><00:00:50.610><c> declarations</c>
+
+00:00:51.260 --> 00:00:51.270 align:start position:0%
+you totally omit package declarations
+ 
+
+00:00:51.270 --> 00:00:53.270 align:start position:0%
+you totally omit package declarations
+and<00:00:51.449><c> you</c><00:00:51.719><c> don't</c><00:00:51.960><c> put</c><00:00:52.170><c> access</c><00:00:52.530><c> modifiers</c><00:00:53.010><c> for</c>
+
+00:00:53.270 --> 00:00:53.280 align:start position:0%
+and you don't put access modifiers for
+ 
+
+00:00:53.280 --> 00:00:55.279 align:start position:0%
+and you don't put access modifiers for
+anything<00:00:53.719><c> everything</c><00:00:54.719><c> will</c><00:00:54.840><c> work</c><00:00:54.870><c> just</c><00:00:55.020><c> fine</c>
+
+00:00:55.279 --> 00:00:55.289 align:start position:0%
+anything everything will work just fine
+ 
+
+00:00:55.289 --> 00:00:57.290 align:start position:0%
+anything everything will work just fine
+except<00:00:55.800><c> for</c><00:00:55.829><c> main</c><00:00:56.100><c> which</c><00:00:56.370><c> must</c><00:00:56.610><c> be</c><00:00:56.670><c> public</c><00:00:57.120><c> and</c>
+
+00:00:57.290 --> 00:00:57.300 align:start position:0%
+except for main which must be public and
+ 
+
+00:00:57.300 --> 00:01:00.110 align:start position:0%
+except for main which must be public and
+it'll<00:00:58.289><c> work</c><00:00:58.320><c> out</c><00:00:58.590><c> and</c><00:00:58.859><c> so</c><00:00:59.219><c> if</c><00:00:59.309><c> you</c><00:00:59.460><c> in</c><00:00:59.699><c> the</c><00:00:59.910><c> past</c>
+
+00:01:00.110 --> 00:01:00.120 align:start position:0%
+it'll work out and so if you in the past
+ 
+
+00:01:00.120 --> 00:01:01.099 align:start position:0%
+it'll work out and so if you in the past
+when<00:01:00.359><c> you</c><00:01:00.390><c> didn't</c><00:01:00.629><c> really</c><00:01:00.809><c> know</c><00:01:00.899><c> what</c><00:01:00.960><c> you're</c>
+
+00:01:01.099 --> 00:01:01.109 align:start position:0%
+when you didn't really know what you're
+ 
+
+00:01:01.109 --> 00:01:03.349 align:start position:0%
+when you didn't really know what you're
+doing<00:01:01.140><c> in</c><00:01:01.500><c> Java</c><00:01:01.710><c> just</c><00:01:02.250><c> forgot</c><00:01:02.730><c> to</c><00:01:02.760><c> put</c><00:01:02.969><c> access</c>
+
+00:01:03.349 --> 00:01:03.359 align:start position:0%
+doing in Java just forgot to put access
+ 
+
+00:01:03.359 --> 00:01:05.210 align:start position:0%
+doing in Java just forgot to put access
+modifiers<00:01:03.840><c> the</c><00:01:04.290><c> reason</c><00:01:04.559><c> it</c><00:01:04.650><c> was</c><00:01:04.739><c> working</c><00:01:05.100><c> is</c>
+
+00:01:05.210 --> 00:01:05.220 align:start position:0%
+modifiers the reason it was working is
+ 
+
+00:01:05.220 --> 00:01:07.100 align:start position:0%
+modifiers the reason it was working is
+because<00:01:05.519><c> secretly</c><00:01:06.030><c> everything</c><00:01:06.720><c> was</c><00:01:06.840><c> part</c><00:01:07.049><c> of</c>
+
+00:01:07.100 --> 00:01:07.110 align:start position:0%
+because secretly everything was part of
+ 
+
+00:01:07.110 --> 00:01:09.530 align:start position:0%
+because secretly everything was part of
+the<00:01:07.229><c> same</c><00:01:07.439><c> package</c><00:01:07.770><c> the</c><00:01:08.400><c> default</c><00:01:08.820><c> package</c><00:01:09.000><c> and</c>
+
+00:01:09.530 --> 00:01:09.540 align:start position:0%
+the same package the default package and
+ 
+
+00:01:09.540 --> 00:01:11.120 align:start position:0%
+the same package the default package and
+so<00:01:09.689><c> even</c><00:01:09.869><c> though</c><00:01:09.930><c> it</c><00:01:09.990><c> was</c><00:01:10.080><c> private</c><00:01:10.290><c> they</c><00:01:10.979><c> catch</c>
+
+00:01:11.120 --> 00:01:11.130 align:start position:0%
+so even though it was private they catch
+ 
+
+00:01:11.130 --> 00:01:12.920 align:start position:0%
+so even though it was private they catch
+air<00:01:11.570><c> all</c><00:01:12.570><c> right</c>
+
+00:01:12.920 --> 00:01:12.930 align:start position:0%
+air all right
+ 
+
+00:01:12.930 --> 00:01:15.410 align:start position:0%
+air all right
+another<00:01:13.680><c> little</c><00:01:14.010><c> subtlety</c><00:01:14.520><c> and</c><00:01:15.030><c> we</c><00:01:15.119><c> saw</c><00:01:15.270><c> this</c>
+
+00:01:15.410 --> 00:01:15.420 align:start position:0%
+another little subtlety and we saw this
+ 
+
+00:01:15.420 --> 00:01:16.940 align:start position:0%
+another little subtlety and we saw this
+actually<00:01:15.750><c> in</c><00:01:15.840><c> the</c><00:01:15.930><c> previous</c><00:01:16.290><c> lecture</c><00:01:16.650><c> but</c><00:01:16.890><c> I</c>
+
+00:01:16.940 --> 00:01:16.950 align:start position:0%
+actually in the previous lecture but I
+ 
+
+00:01:16.950 --> 00:01:18.320 align:start position:0%
+actually in the previous lecture but I
+want<00:01:17.159><c> to</c><00:01:17.250><c> drive</c><00:01:17.400><c> this</c><00:01:17.610><c> home</c><00:01:17.759><c> and</c><00:01:17.939><c> be</c><00:01:18.060><c> very</c>
+
+00:01:18.320 --> 00:01:18.330 align:start position:0%
+want to drive this home and be very
+ 
+
+00:01:18.330 --> 00:01:20.450 align:start position:0%
+want to drive this home and be very
+explicit<00:01:18.689><c> about</c><00:01:18.900><c> it</c><00:01:19.170><c> so</c><00:01:20.070><c> let's</c><00:01:20.220><c> first</c>
+
+00:01:20.450 --> 00:01:20.460 align:start position:0%
+explicit about it so let's first
+ 
+
+00:01:20.460 --> 00:01:22.460 align:start position:0%
+explicit about it so let's first
+consider<00:01:20.670><c> an</c><00:01:21.000><c> interface</c><00:01:21.390><c> called</c><00:01:21.630><c> black</c><00:01:22.290><c> hole</c>
+
+00:01:22.460 --> 00:01:22.470 align:start position:0%
+consider an interface called black hole
+ 
+
+00:01:22.470 --> 00:01:24.590 align:start position:0%
+consider an interface called black hole
+so<00:01:23.400><c> what</c><00:01:23.549><c> a</c><00:01:23.580><c> black</c><00:01:23.759><c> hole</c><00:01:23.790><c> sap</c><00:01:24.180><c> well</c><00:01:24.390><c> they</c><00:01:24.479><c> have</c>
+
+00:01:24.590 --> 00:01:24.600 align:start position:0%
+so what a black hole sap well they have
+ 
+
+00:01:24.600 --> 00:01:25.910 align:start position:0%
+so what a black hole sap well they have
+an<00:01:24.689><c> ADD</c><00:01:24.869><c> method</c><00:01:24.900><c> that's</c><00:01:25.439><c> the</c><00:01:25.530><c> only</c><00:01:25.680><c> thing</c><00:01:25.830><c> they</c>
+
+00:01:25.910 --> 00:01:25.920 align:start position:0%
+an ADD method that's the only thing they
+ 
+
+00:01:25.920 --> 00:01:27.950 align:start position:0%
+an ADD method that's the only thing they
+do<00:01:25.979><c> you</c><00:01:26.310><c> can</c><00:01:26.460><c> add</c><00:01:26.580><c> things</c><00:01:26.850><c> to</c><00:01:27.000><c> them</c><00:01:27.090><c> and</c><00:01:27.780><c> then</c>
+
+00:01:27.950 --> 00:01:27.960 align:start position:0%
+do you can add things to them and then
+ 
+
+00:01:27.960 --> 00:01:31.100 align:start position:0%
+do you can add things to them and then
+well<00:01:28.530><c> it's</c><00:01:29.250><c> gone</c><00:01:29.430><c> now</c><00:01:29.600><c> this</c><00:01:30.600><c> code</c><00:01:30.840><c> will</c><00:01:31.020><c> be</c>
+
+00:01:31.100 --> 00:01:31.110 align:start position:0%
+well it's gone now this code will be
+ 
+
+00:01:31.110 --> 00:01:32.719 align:start position:0%
+well it's gone now this code will be
+look<00:01:31.229><c> at</c><00:01:31.350><c> it</c><00:01:31.500><c> at</c><00:01:31.650><c> first</c><00:01:32.189><c> glance</c><00:01:32.369><c> you</c><00:01:32.610><c> might</c>
+
+00:01:32.719 --> 00:01:32.729 align:start position:0%
+look at it at first glance you might
+ 
+
+00:01:32.729 --> 00:01:34.609 align:start position:0%
+look at it at first glance you might
+think<00:01:32.790><c> ah</c><00:01:33.119><c> well</c><00:01:33.570><c> this</c><00:01:33.659><c> is</c><00:01:33.810><c> the</c><00:01:33.930><c> access</c><00:01:34.259><c> control</c>
+
+00:01:34.609 --> 00:01:34.619 align:start position:0%
+think ah well this is the access control
+ 
+
+00:01:34.619 --> 00:01:36.200 align:start position:0%
+think ah well this is the access control
+lecture<00:01:34.979><c> this</c><00:01:35.189><c> must</c><00:01:35.369><c> be</c><00:01:35.460><c> packaged</c><00:01:35.880><c> private</c>
+
+00:01:36.200 --> 00:01:36.210 align:start position:0%
+lecture this must be packaged private
+ 
+
+00:01:36.210 --> 00:01:38.749 align:start position:0%
+lecture this must be packaged private
+but<00:01:36.509><c> it's</c><00:01:36.630><c> actually</c><00:01:36.960><c> public</c><00:01:37.409><c> why</c><00:01:37.740><c> well</c><00:01:38.460><c> if</c><00:01:38.670><c> you</c>
+
+00:01:38.749 --> 00:01:38.759 align:start position:0%
+but it's actually public why well if you
+ 
+
+00:01:38.759 --> 00:01:41.749 align:start position:0%
+but it's actually public why well if you
+don't<00:01:38.909><c> say</c><00:01:39.299><c> then</c><00:01:40.020><c> the</c><00:01:40.439><c> behavior</c><00:01:41.280><c> we</c><00:01:41.460><c> get</c><00:01:41.610><c> out</c>
+
+00:01:41.749 --> 00:01:41.759 align:start position:0%
+don't say then the behavior we get out
+ 
+
+00:01:41.759 --> 00:01:43.609 align:start position:0%
+don't say then the behavior we get out
+of<00:01:41.909><c> an</c><00:01:42.000><c> interface</c><00:01:42.420><c> is</c><00:01:42.659><c> it's</c><00:01:42.960><c> actually</c><00:01:43.200><c> public</c>
+
+00:01:43.609 --> 00:01:43.619 align:start position:0%
+of an interface is it's actually public
+ 
+
+00:01:43.619 --> 00:01:45.469 align:start position:0%
+of an interface is it's actually public
+okay<00:01:43.950><c> I</c><00:01:44.100><c> know</c><00:01:44.250><c> it's</c><00:01:44.369><c> a</c><00:01:44.430><c> little</c><00:01:44.610><c> confusing</c><00:01:44.759><c> and</c>
+
+00:01:45.469 --> 00:01:45.479 align:start position:0%
+okay I know it's a little confusing and
+ 
+
+00:01:45.479 --> 00:01:47.090 align:start position:0%
+okay I know it's a little confusing and
+guess<00:01:45.750><c> what</c><00:01:45.899><c> I</c><00:01:45.930><c> would</c><00:01:46.020><c> have</c><00:01:46.140><c> done</c><00:01:46.350><c> if</c><00:01:46.680><c> I</c><00:01:46.950><c> had</c>
+
+00:01:47.090 --> 00:01:47.100 align:start position:0%
+guess what I would have done if I had
+ 
+
+00:01:47.100 --> 00:01:49.460 align:start position:0%
+guess what I would have done if I had
+designed<00:01:47.399><c> java</c><00:01:47.610><c> ages</c><00:01:48.570><c> ago</c><00:01:48.659><c> I</c><00:01:48.990><c> would</c><00:01:49.170><c> not</c><00:01:49.350><c> have</c>
+
+00:01:49.460 --> 00:01:49.470 align:start position:0%
+designed java ages ago I would not have
+ 
+
+00:01:49.470 --> 00:01:51.440 align:start position:0%
+designed java ages ago I would not have
+left<00:01:49.649><c> it</c><00:01:49.829><c> blank</c><00:01:50.009><c> dandak</c><00:01:50.610><c> a</c><00:01:50.700><c> package</c><00:01:51.090><c> private</c>
+
+00:01:51.440 --> 00:01:51.450 align:start position:0%
+left it blank dandak a package private
+ 
+
+00:01:51.450 --> 00:01:52.789 align:start position:0%
+left it blank dandak a package private
+maybe<00:01:51.869><c> it</c><00:01:52.049><c> would</c><00:01:52.170><c> have</c><00:01:52.259><c> used</c><00:01:52.439><c> something</c><00:01:52.560><c> like</c>
+
+00:01:52.789 --> 00:01:52.799 align:start position:0%
+maybe it would have used something like
+ 
+
+00:01:52.799 --> 00:01:54.830 align:start position:0%
+maybe it would have used something like
+PAC<00:01:53.640><c> Prive</c><00:01:53.939><c> I</c><00:01:54.180><c> don't</c><00:01:54.420><c> know</c><00:01:54.479><c> what</c><00:01:54.630><c> I</c><00:01:54.720><c> mean</c>
+
+00:01:54.830 --> 00:01:54.840 align:start position:0%
+PAC Prive I don't know what I mean
+ 
+
+00:01:54.840 --> 00:01:56.870 align:start position:0%
+PAC Prive I don't know what I mean
+probably<00:01:55.020><c> been</c><00:01:55.290><c> nicer</c><00:01:55.470><c> than</c><00:01:55.710><c> that</c><00:01:55.740><c> anyway</c><00:01:56.310><c> so</c>
+
+00:01:56.870 --> 00:01:56.880 align:start position:0%
+probably been nicer than that anyway so
+ 
+
+00:01:56.880 --> 00:01:58.969 align:start position:0%
+probably been nicer than that anyway so
+in<00:01:56.939><c> this</c><00:01:57.090><c> case</c><00:01:57.299><c> because</c><00:01:58.140><c> it's</c><00:01:58.560><c> an</c><00:01:58.649><c> interface</c>
+
+00:01:58.969 --> 00:01:58.979 align:start position:0%
+in this case because it's an interface
+ 
+
+00:01:58.979 --> 00:02:02.120 align:start position:0%
+in this case because it's an interface
+the<00:01:59.280><c> default</c><00:01:59.670><c> is</c><00:01:59.850><c> public</c><00:02:00.740><c> now</c><00:02:01.740><c> let's</c><00:02:01.950><c> imagine</c>
+
+00:02:02.120 --> 00:02:02.130 align:start position:0%
+the default is public now let's imagine
+ 
+
+00:02:02.130 --> 00:02:04.069 align:start position:0%
+the default is public now let's imagine
+we<00:02:02.399><c> have</c><00:02:02.549><c> in</c><00:02:02.729><c> the</c><00:02:02.850><c> same</c><00:02:03.030><c> package</c><00:02:03.240><c> a</c><00:02:03.600><c> class</c>
+
+00:02:04.069 --> 00:02:04.079 align:start position:0%
+we have in the same package a class
+ 
+
+00:02:04.079 --> 00:02:07.459 align:start position:0%
+we have in the same package a class
+called<00:02:04.439><c> has</c><00:02:05.310><c> hair</c><00:02:05.610><c> and</c><00:02:05.880><c> it</c><00:02:06.659><c> implements</c><00:02:07.110><c> the</c>
+
+00:02:07.459 --> 00:02:07.469 align:start position:0%
+called has hair and it implements the
+ 
+
+00:02:07.469 --> 00:02:10.190 align:start position:0%
+called has hair and it implements the
+black<00:02:07.770><c> hole</c><00:02:08.039><c> class</c><00:02:08.399><c> now</c><00:02:09.330><c> here</c><00:02:09.599><c> I</c><00:02:09.750><c> am</c><00:02:09.810><c> not</c>
+
+00:02:10.190 --> 00:02:10.200 align:start position:0%
+black hole class now here I am not
+ 
+
+00:02:10.200 --> 00:02:12.290 align:start position:0%
+black hole class now here I am not
+showing<00:02:10.470><c> the</c><00:02:10.619><c> public</c><00:02:10.860><c> modifier</c><00:02:11.459><c> because</c><00:02:12.060><c> it</c>
+
+00:02:12.290 --> 00:02:12.300 align:start position:0%
+showing the public modifier because it
+ 
+
+00:02:12.300 --> 00:02:13.020 align:start position:0%
+showing the public modifier because it
+won't<00:02:12.450><c> fit</c><00:02:12.660><c> and</c>
+
+00:02:13.020 --> 00:02:13.030 align:start position:0%
+won't fit and
+ 
+
+00:02:13.030 --> 00:02:14.220 align:start position:0%
+won't fit and
+case<00:02:13.180><c> it</c><00:02:13.300><c> doesn't</c><00:02:13.510><c> really</c><00:02:13.600><c> matter</c><00:02:13.840><c> and</c><00:02:14.110><c> I'll</c>
+
+00:02:14.220 --> 00:02:14.230 align:start position:0%
+case it doesn't really matter and I'll
+ 
+
+00:02:14.230 --> 00:02:15.630 align:start position:0%
+case it doesn't really matter and I'll
+talk<00:02:14.410><c> about</c><00:02:14.440><c> what</c><00:02:14.800><c> it</c><00:02:14.890><c> means</c><00:02:14.920><c> if</c><00:02:15.190><c> you</c><00:02:15.280><c> omit</c><00:02:15.490><c> the</c>
+
+00:02:15.630 --> 00:02:15.640 align:start position:0%
+talk about what it means if you omit the
+ 
+
+00:02:15.640 --> 00:02:17.460 align:start position:0%
+talk about what it means if you omit the
+modifier<00:02:15.970><c> in</c><00:02:16.090><c> a</c><00:02:16.120><c> moment</c><00:02:16.420><c> but</c><00:02:17.140><c> what</c><00:02:17.260><c> does</c><00:02:17.380><c> I</c>
+
+00:02:17.460 --> 00:02:17.470 align:start position:0%
+modifier in a moment but what does I
+ 
+
+00:02:17.470 --> 00:02:20.400 align:start position:0%
+modifier in a moment but what does I
+have<00:02:17.560><c> has</c><00:02:17.920><c> hair</c><00:02:18.190><c> a</c><00:02:18.459><c> black</c><00:02:19.209><c> hole</c><00:02:19.420><c> do</c><00:02:19.600><c> well</c><00:02:20.350><c> it</c>
+
+00:02:20.400 --> 00:02:20.410 align:start position:0%
+have has hair a black hole do well it
+ 
+
+00:02:20.410 --> 00:02:22.710 align:start position:0%
+have has hair a black hole do well it
+has<00:02:20.530><c> an</c><00:02:20.680><c> array</c><00:02:20.890><c> of</c><00:02:20.920><c> objects</c><00:02:21.490><c> in</c><00:02:22.330><c> which</c><00:02:22.569><c> is</c>
+
+00:02:22.710 --> 00:02:22.720 align:start position:0%
+has an array of objects in which is
+ 
+
+00:02:22.720 --> 00:02:24.030 align:start position:0%
+has an array of objects in which is
+called<00:02:22.900><c> the</c><00:02:22.990><c> items</c><00:02:23.260><c> that's</c><00:02:23.650><c> gonna</c><00:02:23.770><c> attract</c>
+
+00:02:24.030 --> 00:02:24.040 align:start position:0%
+called the items that's gonna attract
+ 
+
+00:02:24.040 --> 00:02:25.530 align:start position:0%
+called the items that's gonna attract
+all<00:02:24.220><c> the</c><00:02:24.250><c> objects</c><00:02:24.760><c> that</c><00:02:24.819><c> was</c><00:02:25.000><c> ever</c><00:02:25.150><c> in</c><00:02:25.330><c> there</c>
+
+00:02:25.530 --> 00:02:25.540 align:start position:0%
+all the objects that was ever in there
+ 
+
+00:02:25.540 --> 00:02:27.570 align:start position:0%
+all the objects that was ever in there
+and<00:02:26.080><c> it</c><00:02:26.170><c> also</c><00:02:26.319><c> has</c><00:02:26.530><c> a</c><00:02:26.560><c> get</c><00:02:26.860><c> method</c><00:02:27.250><c> that</c><00:02:27.520><c> lets</c>
+
+00:02:27.570 --> 00:02:27.580 align:start position:0%
+and it also has a get method that lets
+ 
+
+00:02:27.580 --> 00:02:30.120 align:start position:0%
+and it also has a get method that lets
+you<00:02:27.730><c> get</c><00:02:27.880><c> items</c><00:02:28.240><c> back</c><00:02:28.420><c> now</c><00:02:29.200><c> this</c><00:02:29.410><c> the</c><00:02:29.920><c> reason</c>
+
+00:02:30.120 --> 00:02:30.130 align:start position:0%
+you get items back now this the reason
+ 
+
+00:02:30.130 --> 00:02:31.410 align:start position:0%
+you get items back now this the reason
+I'm<00:02:30.220><c> calling</c><00:02:30.340><c> it</c><00:02:30.550><c> has</c><00:02:30.700><c> hair</c><00:02:30.970><c> is</c><00:02:31.180><c> there's</c><00:02:31.360><c> a</c>
+
+00:02:31.410 --> 00:02:31.420 align:start position:0%
+I'm calling it has hair is there's a
+ 
+
+00:02:31.420 --> 00:02:33.479 align:start position:0%
+I'm calling it has hair is there's a
+idea<00:02:31.989><c> in</c><00:02:32.260><c> physics</c><00:02:32.620><c> that</c><00:02:32.709><c> maybe</c><00:02:32.980><c> black</c><00:02:33.250><c> hair</c>
+
+00:02:33.479 --> 00:02:33.489 align:start position:0%
+idea in physics that maybe black hair
+ 
+
+00:02:33.489 --> 00:02:35.729 align:start position:0%
+idea in physics that maybe black hair
+black<00:02:33.910><c> holes</c><00:02:34.180><c> should</c><00:02:34.390><c> have</c><00:02:34.540><c> no</c><00:02:34.720><c> hair</c><00:02:34.989><c> that</c><00:02:35.560><c> is</c>
+
+00:02:35.729 --> 00:02:35.739 align:start position:0%
+black holes should have no hair that is
+ 
+
+00:02:35.739 --> 00:02:37.410 align:start position:0%
+black holes should have no hair that is
+once<00:02:36.310><c> something</c><00:02:36.610><c> sucked</c><00:02:36.850><c> in</c><00:02:37.030><c> you</c><00:02:37.150><c> shouldn't</c>
+
+00:02:37.410 --> 00:02:37.420 align:start position:0%
+once something sucked in you shouldn't
+ 
+
+00:02:37.420 --> 00:02:38.670 align:start position:0%
+once something sucked in you shouldn't
+be<00:02:37.510><c> able</c><00:02:37.660><c> to</c><00:02:37.750><c> get</c><00:02:37.870><c> any</c><00:02:38.050><c> information</c><00:02:38.560><c> about</c>
+
+00:02:38.670 --> 00:02:38.680 align:start position:0%
+be able to get any information about
+ 
+
+00:02:38.680 --> 00:02:40.380 align:start position:0%
+be able to get any information about
+what<00:02:38.950><c> went</c><00:02:39.190><c> in</c><00:02:39.370><c> but</c><00:02:40.000><c> this</c><00:02:40.120><c> is</c><00:02:40.270><c> an</c>
+
+00:02:40.380 --> 00:02:40.390 align:start position:0%
+what went in but this is an
+ 
+
+00:02:40.390 --> 00:02:41.880 align:start position:0%
+what went in but this is an
+implementation<00:02:40.660><c> of</c><00:02:41.110><c> a</c><00:02:41.200><c> black</c><00:02:41.380><c> hole</c><00:02:41.620><c> where</c>
+
+00:02:41.880 --> 00:02:41.890 align:start position:0%
+implementation of a black hole where
+ 
+
+00:02:41.890 --> 00:02:43.140 align:start position:0%
+implementation of a black hole where
+apparently<00:02:42.340><c> we</c><00:02:42.520><c> can't</c><00:02:42.730><c> actually</c><00:02:42.880><c> get</c>
+
+00:02:43.140 --> 00:02:43.150 align:start position:0%
+apparently we can't actually get
+ 
+
+00:02:43.150 --> 00:02:45.330 align:start position:0%
+apparently we can't actually get
+information<00:02:43.300><c> back</c><00:02:43.840><c> about</c><00:02:44.260><c> what</c><00:02:44.470><c> fell</c><00:02:44.650><c> in</c><00:02:44.800><c> okay</c>
+
+00:02:45.330 --> 00:02:45.340 align:start position:0%
+information back about what fell in okay
+ 
+
+00:02:45.340 --> 00:02:47.940 align:start position:0%
+information back about what fell in okay
+and<00:02:45.780><c> now</c><00:02:46.780><c> let's</c><00:02:46.810><c> imagine</c><00:02:47.110><c> that</c><00:02:47.470><c> we</c><00:02:47.650><c> have</c><00:02:47.830><c> in</c>
+
+00:02:47.940 --> 00:02:47.950 align:start position:0%
+and now let's imagine that we have in
+ 
+
+00:02:47.950 --> 00:02:50.340 align:start position:0%
+and now let's imagine that we have in
+the<00:02:48.040><c> same</c><00:02:48.250><c> package</c><00:02:48.489><c> a</c><00:02:48.850><c> class</c><00:02:49.630><c> called</c><00:02:49.989><c> creation</c>
+
+00:02:50.340 --> 00:02:50.350 align:start position:0%
+the same package a class called creation
+ 
+
+00:02:50.350 --> 00:02:53.640 align:start position:0%
+the same package a class called creation
+utils<00:02:50.830><c> and</c><00:02:51.130><c> it</c><00:02:51.519><c> has</c><00:02:51.670><c> a</c><00:02:51.910><c> here</c><00:02:52.239><c> suit</c><00:02:52.480><c> method</c><00:02:52.900><c> that</c>
+
+00:02:53.640 --> 00:02:53.650 align:start position:0%
+utils and it has a here suit method that
+ 
+
+00:02:53.650 --> 00:02:55.710 align:start position:0%
+utils and it has a here suit method that
+will<00:02:53.830><c> return</c><00:02:54.310><c> a</c><00:02:54.610><c> black</c><00:02:54.850><c> hole</c><00:02:55.090><c> that</c><00:02:55.600><c> is</c>
+
+00:02:55.710 --> 00:02:55.720 align:start position:0%
+will return a black hole that is
+ 
+
+00:02:55.720 --> 00:02:57.570 align:start position:0%
+will return a black hole that is
+something<00:02:55.959><c> of</c><00:02:56.110><c> this</c><00:02:56.260><c> type</c><00:02:56.470><c> and</c><00:02:56.950><c> it</c><00:02:57.160><c> returns</c><00:02:57.430><c> in</c>
+
+00:02:57.570 --> 00:02:57.580 align:start position:0%
+something of this type and it returns in
+ 
+
+00:02:57.580 --> 00:03:01.080 align:start position:0%
+something of this type and it returns in
+this<00:02:57.640><c> case</c><00:02:57.850><c> a</c><00:02:57.880><c> new</c><00:02:58.150><c> has</c><00:02:58.420><c> hair</c><00:02:58.680><c> all</c><00:02:59.680><c> right</c><00:03:00.130><c> so</c>
+
+00:03:01.080 --> 00:03:01.090 align:start position:0%
+this case a new has hair all right so
+ 
+
+00:03:01.090 --> 00:03:03.140 align:start position:0%
+this case a new has hair all right so
+now<00:03:01.269><c> imagine</c><00:03:01.780><c> you</c><00:03:02.019><c> are</c><00:03:02.200><c> a</c><00:03:02.290><c> client</c><00:03:02.709><c> and</c><00:03:03.069><c> you</c>
+
+00:03:03.140 --> 00:03:03.150 align:start position:0%
+now imagine you are a client and you
+ 
+
+00:03:03.150 --> 00:03:06.500 align:start position:0%
+now imagine you are a client and you
+would<00:03:04.150><c> like</c><00:03:04.300><c> to</c><00:03:04.480><c> use</c><00:03:04.690><c> the</c><00:03:05.110><c> creation</c><00:03:06.040><c> utils</c>
+
+00:03:06.500 --> 00:03:06.510 align:start position:0%
+would like to use the creation utils
+ 
+
+00:03:06.510 --> 00:03:09.720 align:start position:0%
+would like to use the creation utils
+class<00:03:07.510><c> and</c><00:03:07.870><c> you</c><00:03:08.800><c> in</c><00:03:08.950><c> particular</c><00:03:09.100><c> have</c>
+
+00:03:09.720 --> 00:03:09.730 align:start position:0%
+class and you in particular have
+ 
+
+00:03:09.730 --> 00:03:13.020 align:start position:0%
+class and you in particular have
+imported<00:03:10.209><c> using</c><00:03:10.690><c> the</c><00:03:10.870><c> import</c><00:03:11.709><c> static</c><00:03:12.220><c> keyword</c>
+
+00:03:13.020 --> 00:03:13.030 align:start position:0%
+imported using the import static keyword
+ 
+
+00:03:13.030 --> 00:03:14.640 align:start position:0%
+imported using the import static keyword
+from<00:03:13.390><c> an</c><00:03:13.510><c> earlier</c><00:03:13.780><c> lecture</c><00:03:13.959><c> it</c><00:03:14.290><c> basically</c>
+
+00:03:14.640 --> 00:03:14.650 align:start position:0%
+from an earlier lecture it basically
+ 
+
+00:03:14.650 --> 00:03:16.650 align:start position:0%
+from an earlier lecture it basically
+just<00:03:14.800><c> means</c><00:03:15.130><c> put</c><00:03:15.640><c> this</c><00:03:15.790><c> in</c><00:03:15.970><c> the</c><00:03:16.060><c> namespace</c><00:03:16.510><c> so</c>
+
+00:03:16.650 --> 00:03:16.660 align:start position:0%
+just means put this in the namespace so
+ 
+
+00:03:16.660 --> 00:03:17.970 align:start position:0%
+just means put this in the namespace so
+that<00:03:16.780><c> whenever</c><00:03:16.900><c> you</c><00:03:17.140><c> say</c><00:03:17.260><c> hirsute</c><00:03:17.739><c> we're</c>
+
+00:03:17.970 --> 00:03:17.980 align:start position:0%
+that whenever you say hirsute we're
+ 
+
+00:03:17.980 --> 00:03:20.190 align:start position:0%
+that whenever you say hirsute we're
+referring<00:03:18.340><c> to</c><00:03:18.459><c> creation</c><00:03:19.299><c> utils</c><00:03:19.630><c> not</c><00:03:19.810><c> hirsute</c>
+
+00:03:20.190 --> 00:03:20.200 align:start position:0%
+referring to creation utils not hirsute
+ 
+
+00:03:20.200 --> 00:03:25.350 align:start position:0%
+referring to creation utils not hirsute
+and<00:03:21.690><c> in</c><00:03:22.690><c> this</c><00:03:22.840><c> case</c><00:03:23.079><c> we</c><00:03:23.680><c> are</c><00:03:23.890><c> going</c><00:03:24.190><c> to</c><00:03:24.430><c> create</c>
+
+00:03:25.350 --> 00:03:25.360 align:start position:0%
+and in this case we are going to create
+ 
+
+00:03:25.360 --> 00:03:27.330 align:start position:0%
+and in this case we are going to create
+in<00:03:25.660><c> this</c><00:03:25.870><c> black</c><00:03:26.260><c> hole</c><00:03:26.290><c> black</c><00:03:26.709><c> hole</c><00:03:26.890><c> B</c><00:03:27.040><c> equals</c>
+
+00:03:27.330 --> 00:03:27.340 align:start position:0%
+in this black hole black hole B equals
+ 
+
+00:03:27.340 --> 00:03:29.220 align:start position:0%
+in this black hole black hole B equals
+hirsute<00:03:27.700><c> we'll</c><00:03:28.120><c> try</c><00:03:28.269><c> to</c><00:03:28.329><c> add</c><00:03:28.510><c> a</c><00:03:28.540><c> horse</c><00:03:28.840><c> we'll</c>
+
+00:03:29.220 --> 00:03:29.230 align:start position:0%
+hirsute we'll try to add a horse we'll
+ 
+
+00:03:29.230 --> 00:03:30.900 align:start position:0%
+hirsute we'll try to add a horse we'll
+try<00:03:29.410><c> and</c><00:03:29.500><c> get</c><00:03:29.560><c> back</c><00:03:29.739><c> 0</c><00:03:29.769><c> and</c><00:03:30.250><c> then</c><00:03:30.610><c> we'll</c><00:03:30.730><c> try</c>
+
+00:03:30.900 --> 00:03:30.910 align:start position:0%
+try and get back 0 and then we'll try
+ 
+
+00:03:30.910 --> 00:03:32.789 align:start position:0%
+try and get back 0 and then we'll try
+and<00:03:31.030><c> cast</c><00:03:31.299><c> our</c><00:03:31.600><c> black</c><00:03:31.810><c> hole</c><00:03:32.049><c> to</c><00:03:32.290><c> a</c><00:03:32.320><c> has</c><00:03:32.560><c> hair</c>
+
+00:03:32.789 --> 00:03:32.799 align:start position:0%
+and cast our black hole to a has hair
+ 
+
+00:03:32.799 --> 00:03:34.830 align:start position:0%
+and cast our black hole to a has hair
+and<00:03:33.070><c> so</c><00:03:33.489><c> your</c><00:03:33.670><c> difficult</c><00:03:34.090><c> challenge</c><00:03:34.510><c> now</c><00:03:34.660><c> is</c>
+
+00:03:34.830 --> 00:03:34.840 align:start position:0%
+and so your difficult challenge now is
+ 
+
+00:03:34.840 --> 00:03:36.750 align:start position:0%
+and so your difficult challenge now is
+the<00:03:35.200><c> decide</c><00:03:35.500><c> do</c><00:03:35.739><c> you</c><00:03:35.890><c> think</c><00:03:36.130><c> the</c><00:03:36.250><c> compiler</c>
+
+00:03:36.750 --> 00:03:36.760 align:start position:0%
+the decide do you think the compiler
+ 
+
+00:03:36.760 --> 00:03:39.000 align:start position:0%
+the decide do you think the compiler
+will<00:03:36.910><c> be</c><00:03:37.030><c> okay</c><00:03:37.329><c> with</c><00:03:37.510><c> us</c><00:03:37.540><c> and</c><00:03:38.170><c> I'll</c><00:03:38.260><c> spoil</c><00:03:38.860><c> it</c>
+
+00:03:39.000 --> 00:03:39.010 align:start position:0%
+will be okay with us and I'll spoil it
+ 
+
+00:03:39.010 --> 00:03:39.509 align:start position:0%
+will be okay with us and I'll spoil it
+in<00:03:39.100><c> a</c><00:03:39.160><c> moment</c>
+
+00:03:39.509 --> 00:03:39.519 align:start position:0%
+in a moment
+ 
+
+00:03:39.519 --> 00:03:41.370 align:start position:0%
+in a moment
+and<00:03:40.060><c> I'll</c><00:03:40.120><c> just</c><00:03:40.299><c> note</c><00:03:40.480><c> that</c><00:03:40.510><c> this</c><00:03:40.750><c> is</c><00:03:40.930><c> not</c><00:03:41.110><c> part</c>
+
+00:03:41.370 --> 00:03:41.380 align:start position:0%
+and I'll just note that this is not part
+ 
+
+00:03:41.380 --> 00:03:43.319 align:start position:0%
+and I'll just note that this is not part
+of<00:03:41.410><c> the</c><00:03:41.500><c> universe</c><00:03:41.859><c> package</c><00:03:42.250><c> this</c><00:03:42.459><c> is</c><00:03:42.640><c> in</c><00:03:43.209><c> the</c>
+
+00:03:43.319 --> 00:03:43.329 align:start position:0%
+of the universe package this is in the
+ 
+
+00:03:43.329 --> 00:03:45.090 align:start position:0%
+of the universe package this is in the
+default<00:03:43.720><c> package</c><00:03:43.900><c> and</c><00:03:44.380><c> so</c><00:03:44.650><c> take</c><00:03:44.829><c> it</c><00:03:44.950><c> from</c>
+
+00:03:45.090 --> 00:03:45.100 align:start position:0%
+default package and so take it from
+ 
+
+00:03:45.100 --> 00:03:51.960 align:start position:0%
+default package and so take it from
+there<00:03:45.250><c> okay</c><00:03:49.920><c> so</c><00:03:50.920><c> the</c><00:03:51.040><c> first</c><00:03:51.190><c> question</c><00:03:51.640><c> then</c><00:03:51.820><c> is</c>
+
+00:03:51.960 --> 00:03:51.970 align:start position:0%
+there okay so the first question then is
+ 
+
+00:03:51.970 --> 00:03:54.930 align:start position:0%
+there okay so the first question then is
+can<00:03:52.180><c> we</c><00:03:52.959><c> take</c><00:03:53.200><c> black</c><00:03:53.859><c> hole</c><00:03:54.100><c> B</c><00:03:54.310><c> and</c><00:03:54.609><c> set</c><00:03:54.850><c> it</c>
+
+00:03:54.930 --> 00:03:54.940 align:start position:0%
+can we take black hole B and set it
+ 
+
+00:03:54.940 --> 00:03:56.849 align:start position:0%
+can we take black hole B and set it
+equal<00:03:55.030><c> to</c><00:03:55.269><c> here</c><00:03:55.420><c> soup</c><00:03:55.660><c> well</c><00:03:56.410><c> this</c><00:03:56.620><c> black</c><00:03:56.829><c> hole</c>
+
+00:03:56.849 --> 00:03:56.859 align:start position:0%
+equal to here soup well this black hole
+ 
+
+00:03:56.859 --> 00:03:59.009 align:start position:0%
+equal to here soup well this black hole
+interface<00:03:57.430><c> is</c><00:03:57.640><c> public</c><00:03:58.000><c> so</c><00:03:58.420><c> that's</c><00:03:58.600><c> fine</c>
+
+00:03:59.009 --> 00:03:59.019 align:start position:0%
+interface is public so that's fine
+ 
+
+00:03:59.019 --> 00:04:01.740 align:start position:0%
+interface is public so that's fine
+here<00:03:59.650><c> soup</c><00:03:59.890><c> also</c><00:04:00.310><c> a</c><00:04:00.489><c> public</c><00:04:00.850><c> method</c><00:04:01.000><c> and</c><00:04:01.329><c> so</c><00:04:01.660><c> in</c>
+
+00:04:01.740 --> 00:04:01.750 align:start position:0%
+here soup also a public method and so in
+ 
+
+00:04:01.750 --> 00:04:04.440 align:start position:0%
+here soup also a public method and so in
+this<00:04:01.840><c> case</c><00:04:02.079><c> this</c><00:04:02.500><c> returns</c><00:04:02.890><c> a</c><00:04:03.130><c> reference</c><00:04:03.609><c> to</c><00:04:04.180><c> a</c>
+
+00:04:04.440 --> 00:04:04.450 align:start position:0%
+this case this returns a reference to a
+ 
+
+00:04:04.450 --> 00:04:07.199 align:start position:0%
+this case this returns a reference to a
+has<00:04:04.750><c> hair</c><00:04:05.019><c> object</c><00:04:05.500><c> and</c><00:04:06.280><c> we</c><00:04:06.760><c> can</c><00:04:06.910><c> take</c><00:04:07.030><c> that</c>
+
+00:04:07.199 --> 00:04:07.209 align:start position:0%
+has hair object and we can take that
+ 
+
+00:04:07.209 --> 00:04:08.670 align:start position:0%
+has hair object and we can take that
+address<00:04:07.600><c> and</c><00:04:07.840><c> we</c><00:04:07.930><c> can</c><00:04:08.049><c> store</c><00:04:08.230><c> it</c><00:04:08.350><c> in</c><00:04:08.380><c> a</c><00:04:08.470><c> black</c>
+
+00:04:08.670 --> 00:04:08.680 align:start position:0%
+address and we can store it in a black
+ 
+
+00:04:08.680 --> 00:04:09.930 align:start position:0%
+address and we can store it in a black
+hole<00:04:08.890><c> and</c><00:04:09.100><c> that's</c><00:04:09.310><c> totally</c><00:04:09.519><c> fine</c>
+
+00:04:09.930 --> 00:04:09.940 align:start position:0%
+hole and that's totally fine
+ 
+
+00:04:09.940 --> 00:04:12.150 align:start position:0%
+hole and that's totally fine
+so<00:04:10.810><c> the</c><00:04:10.930><c> important</c><00:04:11.320><c> point</c><00:04:11.500><c> here</c><00:04:11.560><c> is</c><00:04:11.859><c> what's</c>
+
+00:04:12.150 --> 00:04:12.160 align:start position:0%
+so the important point here is what's
+ 
+
+00:04:12.160 --> 00:04:14.039 align:start position:0%
+so the important point here is what's
+actually<00:04:12.310><c> in</c><00:04:12.760><c> the</c><00:04:13.180><c> title</c><00:04:13.540><c> which</c><00:04:13.750><c> is</c><00:04:13.870><c> something</c>
+
+00:04:14.039 --> 00:04:14.049 align:start position:0%
+actually in the title which is something
+ 
+
+00:04:14.049 --> 00:04:15.900 align:start position:0%
+actually in the title which is something
+that<00:04:14.230><c> I</c><00:04:14.530><c> didn't</c><00:04:14.769><c> say</c><00:04:14.890><c> out</c><00:04:14.950><c> loud</c><00:04:15.010><c> but</c><00:04:15.700><c> was</c><00:04:15.850><c> the</c>
+
+00:04:15.900 --> 00:04:15.910 align:start position:0%
+that I didn't say out loud but was the
+ 
+
+00:04:15.910 --> 00:04:16.529 align:start position:0%
+that I didn't say out loud but was the
+secret<00:04:16.150><c> hint</c>
+
+00:04:16.529 --> 00:04:16.539 align:start position:0%
+secret hint
+ 
+
+00:04:16.539 --> 00:04:18.990 align:start position:0%
+secret hint
+I<00:04:16.570><c> had</c><00:04:16.750><c> set</c><00:04:16.959><c> aside</c><00:04:17.200><c> for</c><00:04:17.380><c> you</c><00:04:17.609><c> so</c><00:04:18.609><c> this</c><00:04:18.760><c> hint</c>
+
+00:04:18.990 --> 00:04:19.000 align:start position:0%
+I had set aside for you so this hint
+ 
+
+00:04:19.000 --> 00:04:21.089 align:start position:0%
+I had set aside for you so this hint
+tells<00:04:19.239><c> us</c><00:04:19.419><c> that</c><00:04:19.660><c> if</c><00:04:19.959><c> we</c><00:04:20.590><c> want</c><00:04:20.739><c> to</c><00:04:20.769><c> know</c><00:04:20.829><c> is</c><00:04:21.010><c> this</c>
+
+00:04:21.089 --> 00:04:21.099 align:start position:0%
+tells us that if we want to know is this
+ 
+
+00:04:21.099 --> 00:04:22.950 align:start position:0%
+tells us that if we want to know is this
+allowed<00:04:21.430><c> we</c><00:04:21.909><c> just</c><00:04:22.120><c> look</c><00:04:22.240><c> at</c><00:04:22.330><c> the</c><00:04:22.450><c> static</c><00:04:22.720><c> types</c>
+
+00:04:22.950 --> 00:04:22.960 align:start position:0%
+allowed we just look at the static types
+ 
+
+00:04:22.960 --> 00:04:25.400 align:start position:0%
+allowed we just look at the static types
+is<00:04:23.229><c> hirsute</c><00:04:24.039><c> public</c><00:04:24.430><c> yes</c>
+
+00:04:25.400 --> 00:04:25.410 align:start position:0%
+is hirsute public yes
+ 
+
+00:04:25.410 --> 00:04:26.870 align:start position:0%
+is hirsute public yes
+and<00:04:25.560><c> in</c><00:04:25.710><c> this</c><00:04:25.860><c> case</c><00:04:26.070><c> since</c><00:04:26.280><c> it</c><00:04:26.340><c> returns</c><00:04:26.670><c> an</c>
+
+00:04:26.870 --> 00:04:26.880 align:start position:0%
+and in this case since it returns an
+ 
+
+00:04:26.880 --> 00:04:29.030 align:start position:0%
+and in this case since it returns an
+object<00:04:26.970><c> of</c><00:04:27.360><c> type</c><00:04:27.390><c> black</c><00:04:27.720><c> hole</c><00:04:27.930><c> it</c><00:04:28.290><c> is</c><00:04:28.560><c> able</c><00:04:28.860><c> to</c>
+
+00:04:29.030 --> 00:04:29.040 align:start position:0%
+object of type black hole it is able to
+ 
+
+00:04:29.040 --> 00:04:31.040 align:start position:0%
+object of type black hole it is able to
+create<00:04:29.790><c> such</c><00:04:30.030><c> an</c><00:04:30.150><c> object</c><00:04:30.270><c> perfectly</c><00:04:30.930><c> fine</c>
+
+00:04:31.040 --> 00:04:31.050 align:start position:0%
+create such an object perfectly fine
+ 
+
+00:04:31.050 --> 00:04:32.990 align:start position:0%
+create such an object perfectly fine
+okay<00:04:31.440><c> so</c><00:04:32.070><c> even</c><00:04:32.190><c> though</c><00:04:32.400><c> it's</c><00:04:32.520><c> true</c><00:04:32.730><c> that</c><00:04:32.760><c> the</c>
+
+00:04:32.990 --> 00:04:33.000 align:start position:0%
+okay so even though it's true that the
+ 
+
+00:04:33.000 --> 00:04:35.210 align:start position:0%
+okay so even though it's true that the
+dynamic<00:04:33.510><c> type</c><00:04:33.720><c> of</c><00:04:33.930><c> this</c><00:04:34.410><c> object</c><00:04:34.680><c> that</c><00:04:35.130><c> I'm</c>
+
+00:04:35.210 --> 00:04:35.220 align:start position:0%
+dynamic type of this object that I'm
+ 
+
+00:04:35.220 --> 00:04:37.730 align:start position:0%
+dynamic type of this object that I'm
+pointing<00:04:35.400><c> at</c><00:04:35.700><c> is</c><00:04:35.880><c> in</c><00:04:36.240><c> fact</c><00:04:36.480><c> a</c><00:04:36.630><c> has</c><00:04:36.810><c> hair</c><00:04:37.140><c> we</c><00:04:37.590><c> can</c>
+
+00:04:37.730 --> 00:04:37.740 align:start position:0%
+pointing at is in fact a has hair we can
+ 
+
+00:04:37.740 --> 00:04:39.530 align:start position:0%
+pointing at is in fact a has hair we can
+still<00:04:38.040><c> hold</c><00:04:38.340><c> a</c><00:04:38.460><c> pointer</c><00:04:38.790><c> to</c><00:04:38.970><c> it</c><00:04:39.090><c> because</c>
+
+00:04:39.530 --> 00:04:39.540 align:start position:0%
+still hold a pointer to it because
+ 
+
+00:04:39.540 --> 00:04:43.220 align:start position:0%
+still hold a pointer to it because
+access<00:04:39.960><c> is</c><00:04:40.110><c> based</c><00:04:40.320><c> only</c><00:04:40.530><c> on</c><00:04:40.740><c> static</c><00:04:41.370><c> types</c><00:04:42.230><c> so</c>
+
+00:04:43.220 --> 00:04:43.230 align:start position:0%
+access is based only on static types so
+ 
+
+00:04:43.230 --> 00:04:44.570 align:start position:0%
+access is based only on static types so
+now<00:04:43.320><c> we</c><00:04:43.380><c> try</c><00:04:43.590><c> and</c><00:04:43.800><c> add</c><00:04:43.890><c> the</c><00:04:44.070><c> string</c><00:04:44.310><c> course</c>
+
+00:04:44.570 --> 00:04:44.580 align:start position:0%
+now we try and add the string course
+ 
+
+00:04:44.580 --> 00:04:46.940 align:start position:0%
+now we try and add the string course
+does<00:04:45.180><c> that</c><00:04:45.360><c> work</c><00:04:45.540><c> well</c><00:04:46.020><c> in</c><00:04:46.050><c> this</c><00:04:46.200><c> case</c><00:04:46.410><c> we</c><00:04:46.920><c> look</c>
+
+00:04:46.940 --> 00:04:46.950 align:start position:0%
+does that work well in this case we look
+ 
+
+00:04:46.950 --> 00:04:48.590 align:start position:0%
+does that work well in this case we look
+at<00:04:47.220><c> the</c><00:04:47.340><c> add</c><00:04:47.490><c> method</c><00:04:47.790><c> and</c><00:04:48.210><c> we</c><00:04:48.300><c> know</c><00:04:48.450><c> it's</c>
+
+00:04:48.590 --> 00:04:48.600 align:start position:0%
+at the add method and we know it's
+ 
+
+00:04:48.600 --> 00:04:51.500 align:start position:0%
+at the add method and we know it's
+public<00:04:48.930><c> so</c><00:04:49.110><c> that</c><00:04:49.470><c> works</c><00:04:49.620><c> perfectly</c><00:04:50.040><c> fine</c><00:04:50.510><c> how</c>
+
+00:04:51.500 --> 00:04:51.510 align:start position:0%
+public so that works perfectly fine how
+ 
+
+00:04:51.510 --> 00:04:54.290 align:start position:0%
+public so that works perfectly fine how
+about<00:04:51.660><c> get</c><00:04:51.950><c> one</c><00:04:52.950><c> in</c><00:04:53.040><c> this</c><00:04:53.160><c> case</c><00:04:53.370><c> we</c><00:04:53.760><c> say</c><00:04:53.940><c> do</c>
+
+00:04:54.290 --> 00:04:54.300 align:start position:0%
+about get one in this case we say do
+ 
+
+00:04:54.300 --> 00:04:56.510 align:start position:0%
+about get one in this case we say do
+black<00:04:54.600><c> holes</c><00:04:54.840><c> right</c><00:04:55.560><c> do</c><00:04:56.010><c> they</c><00:04:56.130><c> have</c><00:04:56.250><c> a</c><00:04:56.280><c> get</c>
+
+00:04:56.510 --> 00:04:56.520 align:start position:0%
+black holes right do they have a get
+ 
+
+00:04:56.520 --> 00:04:58.880 align:start position:0%
+black holes right do they have a get
+method<00:04:56.670><c> the</c><00:04:57.540><c> compiler</c><00:04:57.990><c> says</c><00:04:58.200><c> no</c><00:04:58.410><c> there</c><00:04:58.620><c> is</c><00:04:58.710><c> no</c>
+
+00:04:58.880 --> 00:04:58.890 align:start position:0%
+method the compiler says no there is no
+ 
+
+00:04:58.890 --> 00:05:01.130 align:start position:0%
+method the compiler says no there is no
+get<00:04:59.100><c> method</c><00:04:59.460><c> in</c><00:04:59.580><c> a</c><00:04:59.730><c> black</c><00:04:59.940><c> hole</c><00:05:00.120><c> now</c><00:05:00.780><c> even</c>
+
+00:05:01.130 --> 00:05:01.140 align:start position:0%
+get method in a black hole now even
+ 
+
+00:05:01.140 --> 00:05:03.380 align:start position:0%
+get method in a black hole now even
+though<00:05:01.260><c> the</c><00:05:01.500><c> dynamic</c><00:05:01.920><c> type</c><00:05:02.130><c> of</c><00:05:02.340><c> this</c><00:05:02.940><c> actual</c>
+
+00:05:03.380 --> 00:05:03.390 align:start position:0%
+though the dynamic type of this actual
+ 
+
+00:05:03.390 --> 00:05:05.690 align:start position:0%
+though the dynamic type of this actual
+black<00:05:03.600><c> hole</c><00:05:03.810><c> is</c><00:05:04.020><c> has</c><00:05:04.740><c> hair</c><00:05:05.070><c> and</c><00:05:05.250><c> it</c><00:05:05.340><c> has</c><00:05:05.430><c> a</c><00:05:05.460><c> get</c>
+
+00:05:05.690 --> 00:05:05.700 align:start position:0%
+black hole is has hair and it has a get
+ 
+
+00:05:05.700 --> 00:05:07.850 align:start position:0%
+black hole is has hair and it has a get
+method<00:05:05.850><c> doesn't</c><00:05:06.450><c> matter</c><00:05:06.600><c> the</c><00:05:07.170><c> compiler</c><00:05:07.560><c> only</c>
+
+00:05:07.850 --> 00:05:07.860 align:start position:0%
+method doesn't matter the compiler only
+ 
+
+00:05:07.860 --> 00:05:09.680 align:start position:0%
+method doesn't matter the compiler only
+cares<00:05:08.100><c> about</c><00:05:08.190><c> the</c><00:05:08.370><c> static</c><00:05:08.730><c> types</c><00:05:08.970><c> and</c><00:05:09.240><c> it</c><00:05:09.510><c> says</c>
+
+00:05:09.680 --> 00:05:09.690 align:start position:0%
+cares about the static types and it says
+ 
+
+00:05:09.690 --> 00:05:12.530 align:start position:0%
+cares about the static types and it says
+the<00:05:09.930><c> interface</c><00:05:10.350><c> black</c><00:05:10.590><c> hole</c><00:05:10.800><c> exit</c><00:05:11.450><c> lastly</c><00:05:12.450><c> we</c>
+
+00:05:12.530 --> 00:05:12.540 align:start position:0%
+the interface black hole exit lastly we
+ 
+
+00:05:12.540 --> 00:05:16.130 align:start position:0%
+the interface black hole exit lastly we
+have<00:05:12.660><c> this</c><00:05:12.840><c> can</c><00:05:13.590><c> we</c><00:05:13.740><c> cast</c><00:05:14.010><c> this</c><00:05:14.550><c> has</c><00:05:14.910><c> hair</c><00:05:15.330><c> and</c>
+
+00:05:16.130 --> 00:05:16.140 align:start position:0%
+have this can we cast this has hair and
+ 
+
+00:05:16.140 --> 00:05:17.900 align:start position:0%
+have this can we cast this has hair and
+it<00:05:16.230><c> really</c><00:05:16.380><c> is</c><00:05:16.530><c> we</c><00:05:16.740><c> know</c><00:05:16.860><c> it</c><00:05:17.010><c> you</c><00:05:17.130><c> and</c><00:05:17.250><c> I</c><00:05:17.340><c> can</c><00:05:17.820><c> we</c>
+
+00:05:17.900 --> 00:05:17.910 align:start position:0%
+it really is we know it you and I can we
+ 
+
+00:05:17.910 --> 00:05:19.460 align:start position:0%
+it really is we know it you and I can we
+cast<00:05:18.120><c> it</c><00:05:18.300><c> and</c><00:05:18.450><c> store</c><00:05:18.720><c> it</c><00:05:18.750><c> in</c><00:05:18.930><c> this</c><00:05:19.110><c> variable</c>
+
+00:05:19.460 --> 00:05:19.470 align:start position:0%
+cast it and store it in this variable
+ 
+
+00:05:19.470 --> 00:05:22.070 align:start position:0%
+cast it and store it in this variable
+and<00:05:20.220><c> it</c><00:05:20.340><c> turns</c><00:05:20.520><c> out</c><00:05:20.640><c> in</c><00:05:20.790><c> this</c><00:05:20.910><c> case</c><00:05:20.970><c> this</c><00:05:21.660><c> this</c>
+
+00:05:22.070 --> 00:05:22.080 align:start position:0%
+and it turns out in this case this this
+ 
+
+00:05:22.080 --> 00:05:23.420 align:start position:0%
+and it turns out in this case this this
+has<00:05:22.590><c> hair</c><00:05:22.830><c> black</c><00:05:23.070><c> hole</c>
+
+00:05:23.420 --> 00:05:23.430 align:start position:0%
+has hair black hole
+ 
+
+00:05:23.430 --> 00:05:25.250 align:start position:0%
+has hair black hole
+we<00:05:23.490><c> can't</c><00:05:23.760><c> even</c><00:05:23.850><c> declare</c><00:05:24.210><c> this</c><00:05:24.360><c> variable</c><00:05:24.450><c> the</c>
+
+00:05:25.250 --> 00:05:25.260 align:start position:0%
+we can't even declare this variable the
+ 
+
+00:05:25.260 --> 00:05:27.980 align:start position:0%
+we can't even declare this variable the
+has<00:05:25.530><c> hair</c><00:05:25.890><c> class</c><00:05:26.160><c> is</c><00:05:26.430><c> invisible</c><00:05:26.730><c> to</c><00:05:27.090><c> us</c><00:05:27.240><c> and</c><00:05:27.900><c> it</c>
+
+00:05:27.980 --> 00:05:27.990 align:start position:0%
+has hair class is invisible to us and it
+ 
+
+00:05:27.990 --> 00:05:30.500 align:start position:0%
+has hair class is invisible to us and it
+won't<00:05:28.110><c> work</c><00:05:28.320><c> okay</c><00:05:28.830><c> so</c><00:05:29.100><c> in</c><00:05:29.910><c> this</c><00:05:29.970><c> case</c><00:05:30.180><c> we've</c>
+
+00:05:30.500 --> 00:05:30.510 align:start position:0%
+won't work okay so in this case we've
+ 
+
+00:05:30.510 --> 00:05:31.850 align:start position:0%
+won't work okay so in this case we've
+actually<00:05:30.690><c> declared</c><00:05:31.080><c> the</c><00:05:31.200><c> entire</c><00:05:31.500><c> class</c>
+
+00:05:31.850 --> 00:05:31.860 align:start position:0%
+actually declared the entire class
+ 
+
+00:05:31.860 --> 00:05:33.620 align:start position:0%
+actually declared the entire class
+package<00:05:32.460><c> private</c><00:05:32.850><c> and</c><00:05:33.120><c> we'll</c><00:05:33.300><c> see</c><00:05:33.420><c> that</c><00:05:33.450><c> in</c>
+
+00:05:33.620 --> 00:05:33.630 align:start position:0%
+package private and we'll see that in
+ 
+
+00:05:33.630 --> 00:05:36.770 align:start position:0%
+package private and we'll see that in
+more<00:05:33.720><c> detail</c><00:05:34.050><c> in</c><00:05:34.170><c> a</c><00:05:34.200><c> moment</c><00:05:34.790><c> so</c><00:05:35.790><c> the</c><00:05:36.330><c> important</c>
+
+00:05:36.770 --> 00:05:36.780 align:start position:0%
+more detail in a moment so the important
+ 
+
+00:05:36.780 --> 00:05:38.630 align:start position:0%
+more detail in a moment so the important
+point<00:05:36.960><c> here</c><00:05:37.200><c> though</c><00:05:37.380><c> and</c><00:05:38.130><c> we</c><00:05:38.220><c> use</c><00:05:38.430><c> this</c>
+
+00:05:38.630 --> 00:05:38.640 align:start position:0%
+point here though and we use this
+ 
+
+00:05:38.640 --> 00:05:40.130 align:start position:0%
+point here though and we use this
+actually<00:05:38.970><c> before</c><00:05:39.270><c> and</c><00:05:39.390><c> we</c><00:05:39.480><c> were</c><00:05:39.600><c> able</c><00:05:39.780><c> to</c><00:05:39.930><c> get</c>
+
+00:05:40.130 --> 00:05:40.140 align:start position:0%
+actually before and we were able to get
+ 
+
+00:05:40.140 --> 00:05:42.470 align:start position:0%
+actually before and we were able to get
+a<00:05:40.320><c> key</c><00:05:40.560><c> iterator</c><00:05:40.980><c> it</c><00:05:41.340><c> is</c><00:05:41.520><c> perfectly</c><00:05:41.970><c> normal</c><00:05:42.180><c> to</c>
+
+00:05:42.470 --> 00:05:42.480 align:start position:0%
+a key iterator it is perfectly normal to
+ 
+
+00:05:42.480 --> 00:05:44.270 align:start position:0%
+a key iterator it is perfectly normal to
+have<00:05:42.540><c> a</c><00:05:42.600><c> method</c><00:05:42.990><c> that</c><00:05:43.140><c> returns</c><00:05:43.350><c> an</c><00:05:43.860><c> object</c>
+
+00:05:44.270 --> 00:05:44.280 align:start position:0%
+have a method that returns an object
+ 
+
+00:05:44.280 --> 00:05:46.010 align:start position:0%
+have a method that returns an object
+that<00:05:44.400><c> we</c><00:05:44.490><c> cannot</c><00:05:44.850><c> refer</c><00:05:45.210><c> to</c><00:05:45.390><c> by</c><00:05:45.570><c> its</c><00:05:45.720><c> true</c><00:05:45.990><c> name</c>
+
+00:05:46.010 --> 00:05:46.020 align:start position:0%
+that we cannot refer to by its true name
+ 
+
+00:05:46.020 --> 00:05:48.410 align:start position:0%
+that we cannot refer to by its true name
+we<00:05:46.920><c> can</c><00:05:47.040><c> only</c><00:05:47.160><c> refer</c><00:05:47.460><c> to</c><00:05:47.580><c> it</c><00:05:47.670><c> by</c><00:05:47.700><c> its</c><00:05:47.940><c> category</c>
+
+00:05:48.410 --> 00:05:48.420 align:start position:0%
+we can only refer to it by its category
+ 
+
+00:05:48.420 --> 00:05:49.910 align:start position:0%
+we can only refer to it by its category
+in<00:05:48.570><c> fact</c><00:05:48.870><c> I'm</c><00:05:49.050><c> just</c><00:05:49.230><c> going</c><00:05:49.350><c> to</c><00:05:49.410><c> remind</c><00:05:49.680><c> you</c><00:05:49.890><c> of</c>
+
+00:05:49.910 --> 00:05:49.920 align:start position:0%
+in fact I'm just going to remind you of
+ 
+
+00:05:49.920 --> 00:05:50.660 align:start position:0%
+in fact I'm just going to remind you of
+what<00:05:50.100><c> that</c><00:05:50.250><c> looked</c><00:05:50.460><c> like</c>
+
+00:05:50.660 --> 00:05:50.670 align:start position:0%
+what that looked like
+ 
+
+00:05:50.670 --> 00:05:53.690 align:start position:0%
+what that looked like
+so<00:05:51.390><c> in</c><00:05:51.510><c> a</c><00:05:51.600><c> Ramah</c><00:05:51.930><c> with</c><00:05:52.440><c> a</c><00:05:52.470><c> private</c><00:05:53.190><c> class</c><00:05:53.400><c> key</c>
+
+00:05:53.690 --> 00:05:53.700 align:start position:0%
+so in a Ramah with a private class key
+ 
+
+00:05:53.700 --> 00:05:56.240 align:start position:0%
+so in a Ramah with a private class key
+iterator<00:05:54.120><c> we</c><00:05:54.960><c> had</c><00:05:55.050><c> a</c><00:05:55.080><c> method</c><00:05:55.290><c> iterator</c><00:05:55.830><c> that</c>
+
+00:05:56.240 --> 00:05:56.250 align:start position:0%
+iterator we had a method iterator that
+ 
+
+00:05:56.250 --> 00:05:58.160 align:start position:0%
+iterator we had a method iterator that
+returned<00:05:56.670><c> an</c><00:05:56.940><c> iterator</c><00:05:57.300><c> this</c><00:05:57.630><c> is</c><00:05:57.780><c> like</c><00:05:57.930><c> black</c>
+
+00:05:58.160 --> 00:05:58.170 align:start position:0%
+returned an iterator this is like black
+ 
+
+00:05:58.170 --> 00:06:02.050 align:start position:0%
+returned an iterator this is like black
+hole<00:05:58.830><c> and</c><00:05:59.130><c> this</c><00:05:59.520><c> is</c><00:05:59.640><c> like</c><00:05:59.820><c> has</c><00:06:00.000><c> hair</c><00:06:00.270><c> and</c><00:06:00.510><c> in</c><00:06:01.170><c> my</c>
+
+00:06:02.050 --> 00:06:02.060 align:start position:0%
+hole and this is like has hair and in my
+ 
+
+00:06:02.060 --> 00:06:04.580 align:start position:0%
+hole and this is like has hair and in my
+iteration<00:06:03.060><c> demo</c><00:06:03.690><c> it</c><00:06:03.990><c> was</c><00:06:04.050><c> perfectly</c>
+
+00:06:04.580 --> 00:06:04.590 align:start position:0%
+iteration demo it was perfectly
+ 
+
+00:06:04.590 --> 00:06:06.620 align:start position:0%
+iteration demo it was perfectly
+acceptable<00:06:04.710><c> for</c><00:06:05.610><c> me</c><00:06:05.730><c> to</c><00:06:05.880><c> create</c><00:06:06.240><c> an</c><00:06:06.450><c> iterator</c>
+
+00:06:06.620 --> 00:06:06.630 align:start position:0%
+acceptable for me to create an iterator
+ 
+
+00:06:06.630 --> 00:06:08.600 align:start position:0%
+acceptable for me to create an iterator
+and<00:06:07.080><c> store</c><00:06:07.560><c> it</c><00:06:07.650><c> as</c><00:06:07.740><c> an</c><00:06:07.830><c> iterator</c><00:06:08.190><c> of</c><00:06:08.370><c> strings</c>
+
+00:06:08.600 --> 00:06:08.610 align:start position:0%
+and store it as an iterator of strings
+ 
+
+00:06:08.610 --> 00:06:10.460 align:start position:0%
+and store it as an iterator of strings
+even<00:06:08.970><c> though</c><00:06:09.120><c> the</c><00:06:09.300><c> actual</c><00:06:09.690><c> class</c><00:06:09.930><c> under</c><00:06:10.380><c> the</c>
+
+00:06:10.460 --> 00:06:10.470 align:start position:0%
+even though the actual class under the
+ 
+
+00:06:10.470 --> 00:06:13.100 align:start position:0%
+even though the actual class under the
+hood<00:06:10.620><c> that</c><00:06:10.860><c> I'm</c><00:06:11.250><c> using</c><00:06:11.490><c> is</c><00:06:11.850><c> not</c><00:06:12.120><c> allowed</c><00:06:12.720><c> to</c><00:06:13.020><c> be</c>
+
+00:06:13.100 --> 00:06:13.110 align:start position:0%
+hood that I'm using is not allowed to be
+ 
+
+00:06:13.110 --> 00:06:16.820 align:start position:0%
+hood that I'm using is not allowed to be
+used<00:06:13.140><c> by</c><00:06:13.530><c> me</c><00:06:13.680><c> okay</c><00:06:15.170><c> so</c><00:06:16.170><c> that's</c><00:06:16.500><c> just</c><00:06:16.650><c> the</c><00:06:16.800><c> same</c>
+
+00:06:16.820 --> 00:06:16.830 align:start position:0%
+used by me okay so that's just the same
+ 
+
+00:06:16.830 --> 00:06:20.950 align:start position:0%
+used by me okay so that's just the same
+note<00:06:17.100><c> I</c><00:06:17.130><c> had</c><00:06:17.370><c> here</c><00:06:18.470><c> and</c><00:06:19.490><c> I</c><00:06:20.490><c> won't</c><00:06:20.610><c> repeat</c><00:06:20.850><c> it</c>
+
+00:06:20.950 --> 00:06:20.960 align:start position:0%
+note I had here and I won't repeat it
+ 
+
+00:06:20.960 --> 00:06:23.270 align:start position:0%
+note I had here and I won't repeat it
+and<00:06:21.960><c> this</c><00:06:22.110><c> is</c><00:06:22.260><c> the</c><00:06:22.350><c> same</c><00:06:22.560><c> example</c><00:06:22.860><c> I</c><00:06:23.040><c> had</c><00:06:23.190><c> an</c>
+
+00:06:23.270 --> 00:06:23.280 align:start position:0%
+and this is the same example I had an
+ 
+
+00:06:23.280 --> 00:06:25.280 align:start position:0%
+and this is the same example I had an
+IntelliJ<00:06:23.790><c> which</c><00:06:24.600><c> I'll</c><00:06:24.840><c> guess</c><00:06:25.050><c> I'll</c><00:06:25.170><c> just</c>
+
+00:06:25.280 --> 00:06:25.290 align:start position:0%
+IntelliJ which I'll guess I'll just
+ 
+
+00:06:25.290 --> 00:06:26.720 align:start position:0%
+IntelliJ which I'll guess I'll just
+repeat<00:06:25.560><c> here</c><00:06:25.740><c> since</c><00:06:25.950><c> it's</c><00:06:26.100><c> on</c><00:06:26.190><c> the</c><00:06:26.220><c> slide</c><00:06:26.520><c> and</c>
+
+00:06:26.720 --> 00:06:26.730 align:start position:0%
+repeat here since it's on the slide and
+ 
+
+00:06:26.730 --> 00:06:29.150 align:start position:0%
+repeat here since it's on the slide and
+glorious<00:06:27.180><c> and</c><00:06:27.390><c> large</c><00:06:27.600><c> and</c><00:06:27.870><c> bright</c><00:06:27.990><c> so</c><00:06:28.980><c> this</c>
+
+00:06:29.150 --> 00:06:29.160 align:start position:0%
+glorious and large and bright so this
+ 
+
+00:06:29.160 --> 00:06:31.190 align:start position:0%
+glorious and large and bright so this
+again<00:06:29.400><c> that's</c><00:06:29.640><c> a</c><00:06:29.700><c> key</c><00:06:29.880><c> iterator</c><00:06:30.180><c> we</c><00:06:30.900><c> could</c><00:06:31.110><c> it</c>
+
+00:06:31.190 --> 00:06:31.200 align:start position:0%
+again that's a key iterator we could it
+ 
+
+00:06:31.200 --> 00:06:33.020 align:start position:0%
+again that's a key iterator we could it
+principle<00:06:31.650><c> here</c><00:06:32.550><c> if</c><00:06:32.640><c> we</c><00:06:32.730><c> were</c><00:06:32.820><c> mapping</c>
+
+00:06:33.020 --> 00:06:33.030 align:start position:0%
+principle here if we were mapping
+ 
+
+00:06:33.030 --> 00:06:34.280 align:start position:0%
+principle here if we were mapping
+Gorgons<00:06:33.630><c> to</c><00:06:33.810><c> pugs</c>
+
+00:06:34.280 --> 00:06:34.290 align:start position:0%
+Gorgons to pugs
+ 
+
+00:06:34.290 --> 00:06:36.050 align:start position:0%
+Gorgons to pugs
+we<00:06:34.530><c> could</c><00:06:34.740><c> say</c><00:06:34.919><c> we</c><00:06:35.130><c> have</c><00:06:35.250><c> an</c><00:06:35.340><c> iterator</c><00:06:35.669><c> that</c>
+
+00:06:36.050 --> 00:06:36.060 align:start position:0%
+we could say we have an iterator that
+ 
+
+00:06:36.060 --> 00:06:38.869 align:start position:0%
+we could say we have an iterator that
+gets<00:06:36.240><c> a.m.</c><00:06:36.780><c> we</c><00:06:37.470><c> gets</c><00:06:37.650><c> array</c><00:06:38.130><c> map</c><00:06:38.340><c> iterator</c>
+
+00:06:38.869 --> 00:06:38.879 align:start position:0%
+gets a.m. we gets array map iterator
+ 
+
+00:06:38.879 --> 00:06:40.249 align:start position:0%
+gets a.m. we gets array map iterator
+and<00:06:39.179><c> we</c><00:06:39.389><c> could</c><00:06:39.509><c> call</c><00:06:39.659><c> house</c><00:06:39.839><c> next</c><00:06:40.139><c> if</c><00:06:40.229><c> we</c>
+
+00:06:40.249 --> 00:06:40.259 align:start position:0%
+and we could call house next if we
+ 
+
+00:06:40.259 --> 00:06:42.559 align:start position:0%
+and we could call house next if we
+wanted<00:06:40.499><c> so</c><00:06:40.709><c> that's</c><00:06:40.800><c> fine</c><00:06:41.129><c> in</c><00:06:41.369><c> this</c><00:06:41.849><c> case</c><00:06:42.119><c> if</c><00:06:42.449><c> we</c>
+
+00:06:42.559 --> 00:06:42.569 align:start position:0%
+wanted so that's fine in this case if we
+ 
+
+00:06:42.569 --> 00:06:43.969 align:start position:0%
+wanted so that's fine in this case if we
+think<00:06:42.719><c> about</c><00:06:42.869><c> what</c><00:06:43.080><c> the</c><00:06:43.139><c> compiler</c><00:06:43.589><c> does</c><00:06:43.770><c> it</c>
+
+00:06:43.969 --> 00:06:43.979 align:start position:0%
+think about what the compiler does it
+ 
+
+00:06:43.979 --> 00:06:46.219 align:start position:0%
+think about what the compiler does it
+says<00:06:44.159><c> is</c><00:06:44.339><c> the</c><00:06:44.699><c> iterator</c><00:06:45.119><c> method</c><00:06:45.509><c> public</c><00:06:45.659><c> yes</c>
+
+00:06:46.219 --> 00:06:46.229 align:start position:0%
+says is the iterator method public yes
+ 
+
+00:06:46.229 --> 00:06:48.619 align:start position:0%
+says is the iterator method public yes
+and<00:06:46.529><c> in</c><00:06:47.279><c> the</c><00:06:47.429><c> iterator</c><00:06:47.789><c> interface</c><00:06:48.270><c> is</c><00:06:48.479><c> the</c>
+
+00:06:48.619 --> 00:06:48.629 align:start position:0%
+and in the iterator interface is the
+ 
+
+00:06:48.629 --> 00:06:50.779 align:start position:0%
+and in the iterator interface is the
+hasnext<00:06:49.050><c> method</c><00:06:49.499><c> public</c><00:06:49.649><c> yes</c><00:06:50.159><c> then</c><00:06:50.639><c> it's</c>
+
+00:06:50.779 --> 00:06:50.789 align:start position:0%
+hasnext method public yes then it's
+ 
+
+00:06:50.789 --> 00:06:54.049 align:start position:0%
+hasnext method public yes then it's
+perfectly<00:06:51.149><c> fine</c><00:06:52.459><c> the</c><00:06:53.459><c> other</c><00:06:53.699><c> little</c><00:06:53.939><c> detail</c>
+
+00:06:54.049 --> 00:06:54.059 align:start position:0%
+perfectly fine the other little detail
+ 
+
+00:06:54.059 --> 00:06:57.079 align:start position:0%
+perfectly fine the other little detail
+we<00:06:54.479><c> just</c><00:06:54.719><c> saw</c><00:06:54.899><c> a</c><00:06:55.169><c> moment</c><00:06:55.469><c> ago</c><00:06:55.830><c> with</c><00:06:56.189><c> the</c><00:06:56.459><c> black</c>
+
+00:06:57.079 --> 00:06:57.089 align:start position:0%
+we just saw a moment ago with the black
+ 
+
+00:06:57.089 --> 00:06:59.179 align:start position:0%
+we just saw a moment ago with the black
+hole<00:06:57.330><c> and</c><00:06:57.569><c> the</c><00:06:57.719><c> has</c><00:06:57.869><c> hair</c><00:06:58.080><c> idea</c><00:06:58.379><c> is</c><00:06:58.589><c> that</c><00:06:59.099><c> we</c>
+
+00:06:59.179 --> 00:06:59.189 align:start position:0%
+hole and the has hair idea is that we
+ 
+
+00:06:59.189 --> 00:07:01.249 align:start position:0%
+hole and the has hair idea is that we
+can<00:06:59.219><c> control</c><00:06:59.639><c> access</c><00:06:59.819><c> not</c><00:07:00.360><c> just</c><00:07:00.659><c> to</c><00:07:00.779><c> members</c>
+
+00:07:01.249 --> 00:07:01.259 align:start position:0%
+can control access not just to members
+ 
+
+00:07:01.259 --> 00:07:04.070 align:start position:0%
+can control access not just to members
+of<00:07:01.469><c> a</c><00:07:01.979><c> particular</c><00:07:02.129><c> class</c><00:07:02.719><c> right</c><00:07:03.719><c> we</c><00:07:03.929><c> can</c>
+
+00:07:04.070 --> 00:07:04.080 align:start position:0%
+of a particular class right we can
+ 
+
+00:07:04.080 --> 00:07:05.959 align:start position:0%
+of a particular class right we can
+control<00:07:04.379><c> not</c><00:07:04.559><c> just</c><00:07:04.589><c> access</c><00:07:05.159><c> to</c><00:07:05.189><c> all</c><00:07:05.610><c> of</c><00:07:05.849><c> these</c>
+
+00:07:05.959 --> 00:07:05.969 align:start position:0%
+control not just access to all of these
+ 
+
+00:07:05.969 --> 00:07:07.579 align:start position:0%
+control not just access to all of these
+fields<00:07:06.300><c> and</c><00:07:06.719><c> all</c><00:07:06.839><c> these</c><00:07:06.959><c> methods</c><00:07:07.349><c> with</c>
+
+00:07:07.579 --> 00:07:07.589 align:start position:0%
+fields and all these methods with
+ 
+
+00:07:07.589 --> 00:07:10.070 align:start position:0%
+fields and all these methods with
+modifiers<00:07:08.429><c> but</c><00:07:08.939><c> we</c><00:07:08.999><c> can</c><00:07:09.149><c> control</c><00:07:09.449><c> access</c><00:07:09.929><c> to</c>
+
+00:07:10.070 --> 00:07:10.080 align:start position:0%
+modifiers but we can control access to
+ 
+
+00:07:10.080 --> 00:07:12.619 align:start position:0%
+modifiers but we can control access to
+entire<00:07:10.379><c> classes</c><00:07:10.949><c> or</c><00:07:11.069><c> interfaces</c><00:07:11.519><c> and</c><00:07:11.939><c> so</c><00:07:12.569><c> if</c>
+
+00:07:12.619 --> 00:07:12.629 align:start position:0%
+entire classes or interfaces and so if
+ 
+
+00:07:12.629 --> 00:07:14.959 align:start position:0%
+entire classes or interfaces and so if
+we<00:07:12.689><c> consider</c><00:07:12.990><c> this</c><00:07:13.169><c> packaged</c><00:07:13.589><c> robot</c><00:07:14.009><c> that</c><00:07:14.759><c> has</c>
+
+00:07:14.959 --> 00:07:14.969 align:start position:0%
+we consider this packaged robot that has
+ 
+
+00:07:14.969 --> 00:07:17.119 align:start position:0%
+we consider this packaged robot that has
+here<00:07:15.300><c> a</c><00:07:15.330><c> class</c><00:07:15.689><c> that</c><00:07:16.050><c> does</c><00:07:16.289><c> not</c><00:07:16.499><c> say</c><00:07:16.740><c> public</c>
+
+00:07:17.119 --> 00:07:17.129 align:start position:0%
+here a class that does not say public
+ 
+
+00:07:17.129 --> 00:07:19.129 align:start position:0%
+here a class that does not say public
+class<00:07:17.339><c> this</c><00:07:18.209><c> class</c><00:07:18.419><c> cyberbrain</c>
+
+00:07:19.129 --> 00:07:19.139 align:start position:0%
+class this class cyberbrain
+ 
+
+00:07:19.139 --> 00:07:21.109 align:start position:0%
+class this class cyberbrain
+will<00:07:19.409><c> be</c><00:07:19.499><c> considered</c><00:07:19.860><c> packaged</c><00:07:20.249><c> private</c><00:07:20.610><c> and</c>
+
+00:07:21.109 --> 00:07:21.119 align:start position:0%
+will be considered packaged private and
+ 
+
+00:07:21.119 --> 00:07:22.309 align:start position:0%
+will be considered packaged private and
+that<00:07:21.149><c> makes</c><00:07:21.360><c> sense</c><00:07:21.539><c> because</c><00:07:21.629><c> robots</c><00:07:22.019><c> want</c><00:07:22.259><c> to</c>
+
+00:07:22.309 --> 00:07:22.319 align:start position:0%
+that makes sense because robots want to
+ 
+
+00:07:22.319 --> 00:07:24.019 align:start position:0%
+that makes sense because robots want to
+keep<00:07:22.499><c> the</c><00:07:22.619><c> workings</c><00:07:22.949><c> of</c><00:07:23.039><c> their</c><00:07:23.159><c> minds</c><00:07:23.490><c> hidden</c>
+
+00:07:24.019 --> 00:07:24.029 align:start position:0%
+keep the workings of their minds hidden
+ 
+
+00:07:24.029 --> 00:07:25.249 align:start position:0%
+keep the workings of their minds hidden
+from<00:07:24.149><c> us</c><00:07:24.300><c> humans</c><00:07:24.629><c> so</c><00:07:24.779><c> we</c><00:07:24.869><c> can't</c><00:07:25.110><c> you</c><00:07:25.229><c> know</c>
+
+00:07:25.249 --> 00:07:25.259 align:start position:0%
+from us humans so we can't you know
+ 
+
+00:07:25.259 --> 00:07:27.619 align:start position:0%
+from us humans so we can't you know
+reverse<00:07:25.589><c> engineer</c><00:07:25.979><c> them</c><00:07:26.129><c> and</c><00:07:26.360><c> throw</c><00:07:27.360><c> out</c><00:07:27.479><c> and</c>
+
+00:07:27.619 --> 00:07:27.629 align:start position:0%
+reverse engineer them and throw out and
+ 
+
+00:07:27.629 --> 00:07:28.879 align:start position:0%
+reverse engineer them and throw out and
+prevent<00:07:28.019><c> them</c><00:07:28.199><c> from</c><00:07:28.229><c> throwing</c><00:07:28.559><c> off</c><00:07:28.709><c> their</c>
+
+00:07:28.879 --> 00:07:28.889 align:start position:0%
+prevent them from throwing off their
+ 
+
+00:07:28.889 --> 00:07:31.100 align:start position:0%
+prevent them from throwing off their
+shackles<00:07:29.129><c> and</c><00:07:29.459><c> fighting</c><00:07:29.729><c> back</c><00:07:29.879><c> so</c><00:07:30.749><c> this</c>
+
+00:07:31.100 --> 00:07:31.110 align:start position:0%
+shackles and fighting back so this
+ 
+
+00:07:31.110 --> 00:07:33.980 align:start position:0%
+shackles and fighting back so this
+package<00:07:31.589><c> ultimately</c><00:07:32.339><c> or</c><00:07:33.269><c> say</c><00:07:33.479><c> this</c><00:07:33.629><c> package</c>
+
+00:07:33.980 --> 00:07:33.990 align:start position:0%
+package ultimately or say this package
+ 
+
+00:07:33.990 --> 00:07:35.689 align:start position:0%
+package ultimately or say this package
+private<00:07:34.319><c> keyword</c><00:07:34.589><c> ultimately</c><00:07:34.979><c> allows</c><00:07:35.219><c> us</c><00:07:35.459><c> to</c>
+
+00:07:35.689 --> 00:07:35.699 align:start position:0%
+private keyword ultimately allows us to
+ 
+
+00:07:35.699 --> 00:07:39.559 align:start position:0%
+private keyword ultimately allows us to
+sign<00:07:36.589><c> this</c><00:07:37.589><c> package</c><00:07:37.979><c> private</c><00:07:38.519><c> idea</c><00:07:39.059><c> there's</c>
+
+00:07:39.559 --> 00:07:39.569 align:start position:0%
+sign this package private idea there's
+ 
+
+00:07:39.569 --> 00:07:41.359 align:start position:0%
+sign this package private idea there's
+no<00:07:39.689><c> keyword</c><00:07:40.050><c> France</c><00:07:40.349><c> blank</c><00:07:40.589><c> this</c><00:07:41.039><c> package</c>
+
+00:07:41.359 --> 00:07:41.369 align:start position:0%
+no keyword France blank this package
+ 
+
+00:07:41.369 --> 00:07:43.219 align:start position:0%
+no keyword France blank this package
+private<00:07:41.729><c> idea</c><00:07:41.999><c> allows</c><00:07:42.479><c> us</c><00:07:42.689><c> to</c><00:07:42.839><c> restrict</c>
+
+00:07:43.219 --> 00:07:43.229 align:start position:0%
+private idea allows us to restrict
+ 
+
+00:07:43.229 --> 00:07:45.230 align:start position:0%
+private idea allows us to restrict
+access<00:07:43.409><c> to</c><00:07:43.829><c> entire</c><00:07:44.279><c> classes</c><00:07:44.759><c> or</c><00:07:44.849><c> interfaces</c>
+
+00:07:45.230 --> 00:07:45.240 align:start position:0%
+access to entire classes or interfaces
+ 
+
+00:07:45.240 --> 00:07:47.239 align:start position:0%
+access to entire classes or interfaces
+and<00:07:45.569><c> in</c><00:07:46.050><c> this</c><00:07:46.139><c> case</c><00:07:46.349><c> is</c><00:07:46.499><c> actually</c><00:07:46.769><c> only</c><00:07:46.919><c> two</c>
+
+00:07:47.239 --> 00:07:47.249 align:start position:0%
+and in this case is actually only two
+ 
+
+00:07:47.249 --> 00:07:49.759 align:start position:0%
+and in this case is actually only two
+levels<00:07:47.579><c> we</c><00:07:48.240><c> can</c><00:07:48.360><c> only</c><00:07:48.509><c> say</c><00:07:48.749><c> public</c><00:07:49.139><c> or</c><00:07:49.319><c> we</c><00:07:49.649><c> can</c>
+
+00:07:49.759 --> 00:07:49.769 align:start position:0%
+levels we can only say public or we can
+ 
+
+00:07:49.769 --> 00:07:52.219 align:start position:0%
+levels we can only say public or we can
+have<00:07:49.860><c> no</c><00:07:50.069><c> amount</c><00:07:50.189><c> of</c><00:07:50.309><c> no</c><00:07:50.610><c> modifier</c><00:07:51.029><c> at</c><00:07:51.240><c> all</c><00:07:51.360><c> and</c>
+
+00:07:52.219 --> 00:07:52.229 align:start position:0%
+have no amount of no modifier at all and
+ 
+
+00:07:52.229 --> 00:07:54.170 align:start position:0%
+have no amount of no modifier at all and
+that<00:07:52.259><c> can</c><00:07:52.800><c> happen</c><00:07:53.039><c> even</c><00:07:53.309><c> at</c><00:07:53.550><c> the</c><00:07:53.579><c> very</c><00:07:53.699><c> top</c>
+
+00:07:54.170 --> 00:07:54.180 align:start position:0%
+that can happen even at the very top
+ 
+
+00:07:54.180 --> 00:07:57.230 align:start position:0%
+that can happen even at the very top
+level<00:07:54.240><c> of</c><00:07:54.689><c> a</c><00:07:54.839><c> file</c><00:07:55.110><c> right</c><00:07:55.469><c> it's</c><00:07:55.860><c> not</c><00:07:56.069><c> even</c><00:07:56.339><c> you</c>
+
+00:07:57.230 --> 00:07:57.240 align:start position:0%
+level of a file right it's not even you
+ 
+
+00:07:57.240 --> 00:07:58.519 align:start position:0%
+level of a file right it's not even you
+know<00:07:57.269><c> we'd</c><00:07:57.449><c> already</c><00:07:57.599><c> seen</c><00:07:57.719><c> before</c><00:07:58.229><c> that</c><00:07:58.469><c> you</c>
+
+00:07:58.519 --> 00:07:58.529 align:start position:0%
+know we'd already seen before that you
+ 
+
+00:07:58.529 --> 00:08:01.009 align:start position:0%
+know we'd already seen before that you
+can<00:07:58.649><c> say</c><00:07:58.860><c> private</c><00:07:59.759><c> class</c><00:08:00.209><c> key</c><00:08:00.479><c> iterator</c><00:08:00.779><c> but</c>
+
+00:08:01.009 --> 00:08:01.019 align:start position:0%
+can say private class key iterator but
+ 
+
+00:08:01.019 --> 00:08:03.439 align:start position:0%
+can say private class key iterator but
+even<00:08:01.319><c> here</c><00:08:01.740><c> at</c><00:08:01.949><c> the</c><00:08:02.069><c> very</c><00:08:02.430><c> top</c><00:08:02.669><c> level</c><00:08:03.059><c> we</c><00:08:03.300><c> can</c>
+
+00:08:03.439 --> 00:08:03.449 align:start position:0%
+even here at the very top level we can
+ 
+
+00:08:03.449 --> 00:08:05.029 align:start position:0%
+even here at the very top level we can
+declare<00:08:03.569><c> that</c><00:08:03.779><c> a</c><00:08:03.930><c> class's</c><00:08:04.349><c> package</c><00:08:04.680><c> private</c>
+
+00:08:05.029 --> 00:08:05.039 align:start position:0%
+declare that a class's package private
+ 
+
+00:08:05.039 --> 00:08:06.920 align:start position:0%
+declare that a class's package private
+you<00:08:05.669><c> cannot</c><00:08:05.909><c> declare</c><00:08:06.209><c> a</c><00:08:06.329><c> class</c><00:08:06.599><c> that</c><00:08:06.809><c> is</c>
+
+00:08:06.920 --> 00:08:06.930 align:start position:0%
+you cannot declare a class that is
+ 
+
+00:08:06.930 --> 00:08:09.559 align:start position:0%
+you cannot declare a class that is
+either<00:08:07.050><c> private</c><00:08:07.529><c> or</c><00:08:07.679><c> protected</c><00:08:08.209><c> just</c><00:08:09.209><c> not</c>
+
+00:08:09.559 --> 00:08:09.569 align:start position:0%
+either private or protected just not
+ 
+
+00:08:09.569 --> 00:08:11.779 align:start position:0%
+either private or protected just not
+allowed<00:08:09.779><c> so</c><00:08:10.409><c> that's</c><00:08:10.559><c> just</c><00:08:10.740><c> how</c><00:08:10.829><c> it</c><00:08:10.949><c> is</c><00:08:11.069><c> and</c>
+
+00:08:11.779 --> 00:08:11.789 align:start position:0%
+allowed so that's just how it is and
+ 
+
+00:08:11.789 --> 00:08:13.249 align:start position:0%
+allowed so that's just how it is and
+that<00:08:11.939><c> basically</c><00:08:12.209><c> just</c><00:08:12.329><c> determines</c><00:08:12.869><c> who</c><00:08:13.079><c> can</c>
+
+00:08:13.249 --> 00:08:13.259 align:start position:0%
+that basically just determines who can
+ 
+
+00:08:13.259 --> 00:08:15.589 align:start position:0%
+that basically just determines who can
+use<00:08:13.379><c> the</c><00:08:13.529><c> class</c><00:08:13.879><c> now</c><00:08:14.879><c> one</c><00:08:15.059><c> quick</c><00:08:15.209><c> thing</c><00:08:15.419><c> I</c><00:08:15.539><c> do</c>
+
+00:08:15.589 --> 00:08:15.599 align:start position:0%
+use the class now one quick thing I do
+ 
+
+00:08:15.599 --> 00:08:17.329 align:start position:0%
+use the class now one quick thing I do
+want<00:08:15.839><c> to</c><00:08:15.869><c> note</c><00:08:16.050><c> is</c><00:08:16.169><c> that</c><00:08:16.259><c> there's</c><00:08:16.919><c> no</c><00:08:17.099><c> such</c>
+
+00:08:17.329 --> 00:08:17.339 align:start position:0%
+want to note is that there's no such
+ 
+
+00:08:17.339 --> 00:08:19.639 align:start position:0%
+want to note is that there's no such
+thing<00:08:17.610><c> as</c><00:08:17.759><c> a</c><00:08:17.849><c> sub</c><00:08:18.209><c> package</c><00:08:18.629><c> well</c><00:08:19.319><c> it</c><00:08:19.469><c> might</c>
+
+00:08:19.639 --> 00:08:19.649 align:start position:0%
+thing as a sub package well it might
+ 
+
+00:08:19.649 --> 00:08:21.799 align:start position:0%
+thing as a sub package well it might
+seem<00:08:19.919><c> that</c><00:08:20.159><c> maybe</c><00:08:20.339><c> animal</c><00:08:20.879><c> and</c><00:08:21.059><c> plant</c><00:08:21.479><c> are</c>
+
+00:08:21.799 --> 00:08:21.809 align:start position:0%
+seem that maybe animal and plant are
+ 
+
+00:08:21.809 --> 00:08:24.529 align:start position:0%
+seem that maybe animal and plant are
+different<00:08:22.199><c> sub</c><00:08:22.439><c> packages</c><00:08:22.979><c> of</c><00:08:23.129><c> the</c><00:08:23.219><c> ugh</c><00:08:23.729><c> Josh</c><00:08:24.360><c> H</c>
+
+00:08:24.529 --> 00:08:24.539 align:start position:0%
+different sub packages of the ugh Josh H
+ 
+
+00:08:24.539 --> 00:08:26.689 align:start position:0%
+different sub packages of the ugh Josh H
+plant<00:08:24.869><c> package</c><00:08:25.589><c> they're</c><00:08:25.979><c> not</c><00:08:26.219><c> they're</c>
+
+00:08:26.689 --> 00:08:26.699 align:start position:0%
+plant package they're not they're
+ 
+
+00:08:26.699 --> 00:08:28.189 align:start position:0%
+plant package they're not they're
+actually<00:08:26.789><c> considered</c><00:08:27.300><c> totally</c><00:08:27.569><c> distinct</c>
+
+00:08:28.189 --> 00:08:28.199 align:start position:0%
+actually considered totally distinct
+ 
+
+00:08:28.199 --> 00:08:29.719 align:start position:0%
+actually considered totally distinct
+packages<00:08:28.679><c> they</c><00:08:29.009><c> just</c><00:08:29.219><c> happen</c><00:08:29.459><c> to</c><00:08:29.519><c> share</c><00:08:29.669><c> a</c>
+
+00:08:29.719 --> 00:08:29.729 align:start position:0%
+packages they just happen to share a
+ 
+
+00:08:29.729 --> 00:08:31.659 align:start position:0%
+packages they just happen to share a
+couple<00:08:29.939><c> of</c><00:08:30.119><c> folders</c><00:08:30.509><c> so</c><00:08:30.899><c> it</c><00:08:30.959><c> just</c><00:08:31.139><c> doesn't</c><00:08:31.379><c> it</c>
+
+00:08:31.659 --> 00:08:31.669 align:start position:0%
+couple of folders so it just doesn't it
+ 
+
+00:08:31.669 --> 00:08:34.069 align:start position:0%
+couple of folders so it just doesn't it
+okay<00:08:32.669><c> so</c><00:08:32.729><c> just</c><00:08:32.849><c> to</c><00:08:33.089><c> wrap</c><00:08:33.240><c> up</c><00:08:33.449><c> everything</c><00:08:33.630><c> about</c>
+
+00:08:34.069 --> 00:08:34.079 align:start position:0%
+okay so just to wrap up everything about
+ 
+
+00:08:34.079 --> 00:08:36.230 align:start position:0%
+okay so just to wrap up everything about
+access<00:08:34.469><c> modifiers</c><00:08:34.949><c> we</c><00:08:35.490><c> have</c><00:08:35.610><c> four</c><00:08:35.909><c> different</c>
+
+00:08:36.230 --> 00:08:36.240 align:start position:0%
+access modifiers we have four different
+ 
+
+00:08:36.240 --> 00:08:38.300 align:start position:0%
+access modifiers we have four different
+access<00:08:36.839><c> levels</c><00:08:36.870><c> and</c><00:08:37.409><c> so</c><00:08:37.800><c> what</c><00:08:37.949><c> do</c><00:08:38.009><c> they</c><00:08:38.130><c> mean</c>
+
+00:08:38.300 --> 00:08:38.310 align:start position:0%
+access levels and so what do they mean
+ 
+
+00:08:38.310 --> 00:08:39.740 align:start position:0%
+access levels and so what do they mean
+why<00:08:38.550><c> are</c><00:08:38.610><c> they</c><00:08:38.789><c> useful</c><00:08:38.969><c> what's</c><00:08:39.389><c> their</c><00:08:39.599><c> big</c>
+
+00:08:39.740 --> 00:08:39.750 align:start position:0%
+why are they useful what's their big
+ 
+
+00:08:39.750 --> 00:08:42.529 align:start position:0%
+why are they useful what's their big
+deal<00:08:39.959><c> well</c><00:08:40.709><c> first</c><00:08:40.949><c> we</c><00:08:41.069><c> have</c><00:08:41.159><c> private</c><00:08:41.550><c> private</c>
+
+00:08:42.529 --> 00:08:42.539 align:start position:0%
+deal well first we have private private
+ 
+
+00:08:42.539 --> 00:08:44.149 align:start position:0%
+deal well first we have private private
+is<00:08:42.659><c> a</c><00:08:42.689><c> declaration</c><00:08:43.019><c> of</c><00:08:43.560><c> something</c><00:08:43.919><c> that</c><00:08:44.009><c> the</c>
+
+00:08:44.149 --> 00:08:44.159 align:start position:0%
+is a declaration of something that the
+ 
+
+00:08:44.159 --> 00:08:46.189 align:start position:0%
+is a declaration of something that the
+implementation<00:08:44.550><c> means</c><00:08:45.300><c> and</c><00:08:45.600><c> it's</c><00:08:45.930><c> something</c>
+
+00:08:46.189 --> 00:08:46.199 align:start position:0%
+implementation means and it's something
+ 
+
+00:08:46.199 --> 00:08:47.840 align:start position:0%
+implementation means and it's something
+that<00:08:46.319><c> only</c><00:08:46.500><c> that</c><00:08:46.889><c> class</c><00:08:47.220><c> needs</c><00:08:47.550><c> for</c><00:08:47.760><c> its</c>
+
+00:08:47.840 --> 00:08:47.850 align:start position:0%
+that only that class needs for its
+ 
+
+00:08:47.850 --> 00:08:50.120 align:start position:0%
+that only that class needs for its
+implementation<00:08:48.389><c> so</c><00:08:49.050><c> for</c><00:08:49.230><c> example</c><00:08:49.649><c> in</c><00:08:49.800><c> a</c><00:08:49.949><c> Rhema</c>
+
+00:08:50.120 --> 00:08:50.130 align:start position:0%
+implementation so for example in a Rhema
+ 
+
+00:08:50.130 --> 00:08:52.040 align:start position:0%
+implementation so for example in a Rhema
+it<00:08:50.730><c> really</c><00:08:51.120><c> makes</c><00:08:51.329><c> sense</c><00:08:51.389><c> that</c><00:08:51.750><c> these</c><00:08:51.899><c> should</c>
+
+00:08:52.040 --> 00:08:52.050 align:start position:0%
+it really makes sense that these should
+ 
+
+00:08:52.050 --> 00:08:53.090 align:start position:0%
+it really makes sense that these should
+all<00:08:52.290><c> be</c><00:08:52.350><c> private</c>
+
+00:08:53.090 --> 00:08:53.100 align:start position:0%
+all be private
+ 
+
+00:08:53.100 --> 00:08:54.319 align:start position:0%
+all be private
+these<00:08:53.279><c> are</c><00:08:53.399><c> things</c><00:08:53.610><c> that</c><00:08:53.699><c> the</c><00:08:53.880><c> outside</c><00:08:54.300><c> world</c>
+
+00:08:54.319 --> 00:08:54.329 align:start position:0%
+these are things that the outside world
+ 
+
+00:08:54.329 --> 00:08:56.300 align:start position:0%
+these are things that the outside world
+really<00:08:54.899><c> shouldn't</c><00:08:55.199><c> be</c><00:08:55.319><c> messing</c><00:08:55.529><c> with</c><00:08:55.680><c> the</c>
+
+00:08:56.300 --> 00:08:56.310 align:start position:0%
+really shouldn't be messing with the
+ 
+
+00:08:56.310 --> 00:08:57.860 align:start position:0%
+really shouldn't be messing with the
+size<00:08:56.579><c> variable</c><00:08:56.970><c> even</c><00:08:57.420><c> though</c><00:08:57.509><c> I've</c><00:08:57.600><c> made</c><00:08:57.750><c> it</c><00:08:57.839><c> a</c>
+
+00:08:57.860 --> 00:08:57.870 align:start position:0%
+size variable even though I've made it a
+ 
+
+00:08:57.870 --> 00:08:59.600 align:start position:0%
+size variable even though I've made it a
+package<00:08:58.019><c> private</c><00:08:58.560><c> kind</c><00:08:58.980><c> of</c><00:08:59.100><c> a</c><00:08:59.160><c> weird</c><00:08:59.370><c> choice</c>
+
+00:08:59.600 --> 00:08:59.610 align:start position:0%
+package private kind of a weird choice
+ 
+
+00:08:59.610 --> 00:09:02.059 align:start position:0%
+package private kind of a weird choice
+and<00:08:59.940><c> it</c><00:09:00.569><c> should</c><00:09:01.019><c> be</c><00:09:01.170><c> private</c><00:09:01.560><c> except</c><00:09:01.860><c> at</c><00:09:01.980><c> all</c>
+
+00:09:02.059 --> 00:09:02.069 align:start position:0%
+and it should be private except at all
+ 
+
+00:09:02.069 --> 00:09:04.939 align:start position:0%
+and it should be private except at all
+crash<00:09:02.339><c> my</c><00:09:02.550><c> contrived</c><00:09:02.940><c> examples</c><00:09:03.949><c> package</c>
+
+00:09:04.939 --> 00:09:04.949 align:start position:0%
+crash my contrived examples package
+ 
+
+00:09:04.949 --> 00:09:06.980 align:start position:0%
+crash my contrived examples package
+private<00:09:05.399><c> declarations</c><00:09:06.060><c> are</c><00:09:06.209><c> things</c><00:09:06.720><c> in</c><00:09:06.899><c> the</c>
+
+00:09:06.980 --> 00:09:06.990 align:start position:0%
+private declarations are things in the
+ 
+
+00:09:06.990 --> 00:09:08.840 align:start position:0%
+private declarations are things in the
+implementation<00:09:07.680><c> that</c><00:09:07.980><c> other</c><00:09:08.220><c> members</c><00:09:08.639><c> might</c>
+
+00:09:08.840 --> 00:09:08.850 align:start position:0%
+implementation that other members might
+ 
+
+00:09:08.850 --> 00:09:11.329 align:start position:0%
+implementation that other members might
+need<00:09:09.060><c> to</c><00:09:09.269><c> complete</c><00:09:09.779><c> the</c><00:09:10.050><c> implementation</c><00:09:10.769><c> so</c>
+
+00:09:11.329 --> 00:09:11.339 align:start position:0%
+need to complete the implementation so
+ 
+
+00:09:11.339 --> 00:09:12.980 align:start position:0%
+need to complete the implementation so
+we<00:09:11.459><c> have</c><00:09:11.550><c> a</c><00:09:11.579><c> package</c><00:09:11.970><c> that</c><00:09:12.000><c> has</c><00:09:12.300><c> some</c><00:09:12.480><c> overall</c>
+
+00:09:12.980 --> 00:09:12.990 align:start position:0%
+we have a package that has some overall
+ 
+
+00:09:12.990 --> 00:09:14.930 align:start position:0%
+we have a package that has some overall
+emergent<00:09:13.529><c> behavior</c><00:09:13.949><c> and</c><00:09:14.160><c> maybe</c><00:09:14.519><c> there's</c><00:09:14.790><c> some</c>
+
+00:09:14.930 --> 00:09:14.940 align:start position:0%
+emergent behavior and maybe there's some
+ 
+
+00:09:14.940 --> 00:09:16.490 align:start position:0%
+emergent behavior and maybe there's some
+pieces<00:09:15.149><c> that</c><00:09:15.449><c> those</c><00:09:15.630><c> package</c><00:09:16.019><c> that</c><00:09:16.319><c> the</c>
+
+00:09:16.490 --> 00:09:16.500 align:start position:0%
+pieces that those package that the
+ 
+
+00:09:16.500 --> 00:09:18.980 align:start position:0%
+pieces that those package that the
+package<00:09:16.829><c> that</c><00:09:17.250><c> the</c><00:09:17.819><c> classes</c><00:09:18.480><c> in</c><00:09:18.600><c> the</c><00:09:18.690><c> package</c>
+
+00:09:18.980 --> 00:09:18.990 align:start position:0%
+package that the classes in the package
+ 
+
+00:09:18.990 --> 00:09:21.319 align:start position:0%
+package that the classes in the package
+can<00:09:19.170><c> share</c><00:09:19.470><c> sometimes</c><00:09:20.370><c> that's</c><00:09:20.759><c> a</c><00:09:20.850><c> reasonable</c>
+
+00:09:21.319 --> 00:09:21.329 align:start position:0%
+can share sometimes that's a reasonable
+ 
+
+00:09:21.329 --> 00:09:22.309 align:start position:0%
+can share sometimes that's a reasonable
+thing<00:09:21.360><c> this</c><00:09:21.779><c> could</c><00:09:21.930><c> be</c><00:09:22.050><c> things</c><00:09:22.170><c> like</c>
+
+00:09:22.309 --> 00:09:22.319 align:start position:0%
+thing this could be things like
+ 
+
+00:09:22.319 --> 00:09:24.829 align:start position:0%
+thing this could be things like
+constants<00:09:22.920><c> and</c><00:09:23.670><c> I</c><00:09:23.940><c> encourage</c><00:09:24.360><c> you</c><00:09:24.480><c> to</c><00:09:24.569><c> explore</c>
+
+00:09:24.829 --> 00:09:24.839 align:start position:0%
+constants and I encourage you to explore
+ 
+
+00:09:24.839 --> 00:09:27.829 align:start position:0%
+constants and I encourage you to explore
+where<00:09:25.230><c> this</c><00:09:25.440><c> makes</c><00:09:25.649><c> sense</c><00:09:25.829><c> in</c><00:09:26.130><c> project</c><00:09:26.550><c> 2</c><00:09:26.839><c> then</c>
+
+00:09:27.829 --> 00:09:27.839 align:start position:0%
+where this makes sense in project 2 then
+ 
+
+00:09:27.839 --> 00:09:29.660 align:start position:0%
+where this makes sense in project 2 then
+we<00:09:27.930><c> have</c><00:09:27.959><c> protected</c><00:09:28.529><c> so</c><00:09:29.190><c> these</c><00:09:29.310><c> are</c><00:09:29.490><c> things</c>
+
+00:09:29.660 --> 00:09:29.670 align:start position:0%
+we have protected so these are things
+ 
+
+00:09:29.670 --> 00:09:31.730 align:start position:0%
+we have protected so these are things
+that<00:09:29.759><c> subtypes</c><00:09:30.329><c> might</c><00:09:30.569><c> need</c><00:09:30.810><c> but</c><00:09:31.290><c> subtype</c>
+
+00:09:31.730 --> 00:09:31.740 align:start position:0%
+that subtypes might need but subtype
+ 
+
+00:09:31.740 --> 00:09:34.309 align:start position:0%
+that subtypes might need but subtype
+clients<00:09:32.279><c> will</c><00:09:32.579><c> not</c><00:09:32.759><c> so</c><00:09:33.480><c> for</c><00:09:33.660><c> example</c><00:09:34.019><c> if</c><00:09:34.170><c> I</c>
+
+00:09:34.309 --> 00:09:34.319 align:start position:0%
+clients will not so for example if I
+ 
+
+00:09:34.319 --> 00:09:37.400 align:start position:0%
+clients will not so for example if I
+make<00:09:34.529><c> something</c><00:09:34.800><c> protected</c><00:09:35.959><c> that</c><00:09:36.959><c> means</c><00:09:37.170><c> that</c>
+
+00:09:37.400 --> 00:09:37.410 align:start position:0%
+make something protected that means that
+ 
+
+00:09:37.410 --> 00:09:38.780 align:start position:0%
+make something protected that means that
+it's<00:09:37.620><c> something</c><00:09:37.949><c> I</c><00:09:38.040><c> want</c><00:09:38.220><c> to</c><00:09:38.310><c> expose</c><00:09:38.759><c> to</c>
+
+00:09:38.780 --> 00:09:38.790 align:start position:0%
+it's something I want to expose to
+ 
+
+00:09:38.790 --> 00:09:41.030 align:start position:0%
+it's something I want to expose to
+anybody<00:09:39.449><c> that</c><00:09:39.509><c> wants</c><00:09:39.930><c> to</c><00:09:40.050><c> extend</c><00:09:40.470><c> that</c><00:09:40.620><c> class</c>
+
+00:09:41.030 --> 00:09:41.040 align:start position:0%
+anybody that wants to extend that class
+ 
+
+00:09:41.040 --> 00:09:42.559 align:start position:0%
+anybody that wants to extend that class
+but<00:09:41.519><c> somebody</c><00:09:41.790><c> who</c><00:09:41.880><c> just</c><00:09:41.910><c> wants</c><00:09:42.120><c> to</c><00:09:42.329><c> use</c><00:09:42.509><c> that</c>
+
+00:09:42.559 --> 00:09:42.569 align:start position:0%
+but somebody who just wants to use that
+ 
+
+00:09:42.569 --> 00:09:45.259 align:start position:0%
+but somebody who just wants to use that
+extension<00:09:43.110><c> no</c><00:09:43.709><c> and</c><00:09:43.980><c> then</c><00:09:44.699><c> lastly</c><00:09:45.060><c> we</c><00:09:45.240><c> have</c>
+
+00:09:45.259 --> 00:09:45.269 align:start position:0%
+extension no and then lastly we have
+ 
+
+00:09:45.269 --> 00:09:47.150 align:start position:0%
+extension no and then lastly we have
+public<00:09:45.779><c> and</c><00:09:45.990><c> I</c><00:09:46.319><c> just</c><00:09:46.500><c> want</c><00:09:46.620><c> to</c><00:09:46.680><c> remind</c><00:09:46.920><c> you</c>
+
+00:09:47.150 --> 00:09:47.160 align:start position:0%
+public and I just want to remind you
+ 
+
+00:09:47.160 --> 00:09:49.430 align:start position:0%
+public and I just want to remind you
+about<00:09:47.310><c> the</c><00:09:47.699><c> terrible</c><00:09:48.480><c> responsibility</c><00:09:48.720><c> of</c>
+
+00:09:49.430 --> 00:09:49.440 align:start position:0%
+about the terrible responsibility of
+ 
+
+00:09:49.440 --> 00:09:51.829 align:start position:0%
+about the terrible responsibility of
+public<00:09:49.560><c> so</c><00:09:50.459><c> public</c><00:09:50.759><c> declaration</c><00:09:51.420><c> is</c><00:09:51.600><c> an</c>
+
+00:09:51.829 --> 00:09:51.839 align:start position:0%
+public so public declaration is an
+ 
+
+00:09:51.839 --> 00:09:54.259 align:start position:0%
+public so public declaration is an
+announcement<00:09:52.500><c> to</c><00:09:52.620><c> the</c><00:09:52.649><c> world</c><00:09:52.740><c> that</c><00:09:53.519><c> this</c><00:09:54.209><c> is</c>
+
+00:09:54.259 --> 00:09:54.269 align:start position:0%
+announcement to the world that this is
+ 
+
+00:09:54.269 --> 00:09:56.180 align:start position:0%
+announcement to the world that this is
+something<00:09:54.690><c> that</c><00:09:55.019><c> you</c><00:09:55.199><c> a</c><00:09:55.230><c> client</c><00:09:55.709><c> can</c><00:09:55.889><c> rely</c><00:09:56.160><c> on</c>
+
+00:09:56.180 --> 00:09:56.190 align:start position:0%
+something that you a client can rely on
+ 
+
+00:09:56.190 --> 00:09:58.429 align:start position:0%
+something that you a client can rely on
+this<00:09:56.759><c> is</c><00:09:56.880><c> what</c><00:09:57.029><c> you</c><00:09:57.149><c> must</c><00:09:57.389><c> know</c><00:09:57.630><c> about</c><00:09:57.899><c> and</c><00:09:58.110><c> I</c>
+
+00:09:58.429 --> 00:09:58.439 align:start position:0%
+this is what you must know about and I
+ 
+
+00:09:58.439 --> 00:10:00.230 align:start position:0%
+this is what you must know about and I
+promise<00:09:58.920><c> that</c><00:09:59.040><c> forever</c><00:09:59.399><c> I</c><00:09:59.639><c> will</c><00:09:59.730><c> always</c>
+
+00:10:00.230 --> 00:10:00.240 align:start position:0%
+promise that forever I will always
+ 
+
+00:10:00.240 --> 00:10:01.790 align:start position:0%
+promise that forever I will always
+maintain<00:10:00.449><c> it</c><00:10:00.810><c> and</c><00:10:00.870><c> I'll</c><00:10:00.959><c> never</c><00:10:01.319><c> take</c><00:10:01.589><c> it</c><00:10:01.620><c> away</c>
+
+00:10:01.790 --> 00:10:01.800 align:start position:0%
+maintain it and I'll never take it away
+ 
+
+00:10:01.800 --> 00:10:04.129 align:start position:0%
+maintain it and I'll never take it away
+from<00:10:01.949><c> you</c><00:10:02.310><c> and</c><00:10:02.759><c> if</c><00:10:02.880><c> I</c><00:10:02.970><c> do</c><00:10:03.029><c> you</c><00:10:03.480><c> have</c><00:10:03.720><c> the</c><00:10:03.930><c> rights</c>
+
+00:10:04.129 --> 00:10:04.139 align:start position:0%
+from you and if I do you have the rights
+ 
+
+00:10:04.139 --> 00:10:06.620 align:start position:0%
+from you and if I do you have the rights
+to<00:10:04.290><c> get</c><00:10:04.380><c> extremely</c><00:10:04.920><c> angry</c><00:10:05.130><c> at</c><00:10:05.579><c> me</c><00:10:05.759><c> and</c><00:10:05.970><c> instead</c>
+
+00:10:06.620 --> 00:10:06.630 align:start position:0%
+to get extremely angry at me and instead
+ 
+
+00:10:06.630 --> 00:10:08.360 align:start position:0%
+to get extremely angry at me and instead
+what<00:10:07.019><c> usually</c><00:10:07.170><c> a</c><00:10:07.350><c> package</c><00:10:07.680><c> maintainer</c><00:10:07.860><c> x'</c><00:10:08.189><c> do</c>
+
+00:10:08.360 --> 00:10:08.370 align:start position:0%
+what usually a package maintainer x' do
+ 
+
+00:10:08.370 --> 00:10:10.400 align:start position:0%
+what usually a package maintainer x' do
+is<00:10:08.579><c> just</c><00:10:08.790><c> call</c><00:10:09.000><c> methods</c><00:10:09.360><c> deprecated</c><00:10:10.019><c> once</c>
+
+00:10:10.400 --> 00:10:10.410 align:start position:0%
+is just call methods deprecated once
+ 
+
+00:10:10.410 --> 00:10:11.600 align:start position:0%
+is just call methods deprecated once
+they've<00:10:10.560><c> decided</c><00:10:10.860><c> it</c><00:10:11.069><c> was</c><00:10:11.189><c> a</c><00:10:11.220><c> terrible</c>
+
+00:10:11.600 --> 00:10:11.610 align:start position:0%
+they've decided it was a terrible
+ 
+
+00:10:11.610 --> 00:10:12.860 align:start position:0%
+they've decided it was a terrible
+mistake<00:10:11.910><c> to</c><00:10:11.939><c> include</c><00:10:12.329><c> them</c><00:10:12.480><c> in</c><00:10:12.600><c> the</c><00:10:12.660><c> first</c>
+
+00:10:12.860 --> 00:10:12.870 align:start position:0%
+mistake to include them in the first
+ 
+
+00:10:12.870 --> 00:10:14.809 align:start position:0%
+mistake to include them in the first
+place<00:10:13.079><c> but</c><00:10:13.740><c> if</c><00:10:13.860><c> you</c><00:10:13.949><c> just</c><00:10:14.130><c> take</c><00:10:14.339><c> things</c><00:10:14.639><c> out</c>
+
+00:10:14.809 --> 00:10:14.819 align:start position:0%
+place but if you just take things out
+ 
+
+00:10:14.819 --> 00:10:16.699 align:start position:0%
+place but if you just take things out
+and<00:10:15.000><c> you</c><00:10:15.060><c> start</c><00:10:15.480><c> distributing</c><00:10:15.899><c> a</c><00:10:16.139><c> jar</c><00:10:16.380><c> that</c><00:10:16.620><c> is</c>
+
+00:10:16.699 --> 00:10:16.709 align:start position:0%
+and you start distributing a jar that is
+ 
+
+00:10:16.709 --> 00:10:18.350 align:start position:0%
+and you start distributing a jar that is
+lacking<00:10:16.980><c> a</c><00:10:17.220><c> public</c><00:10:17.579><c> method</c><00:10:17.730><c> that</c><00:10:18.029><c> somebody</c>
+
+00:10:18.350 --> 00:10:18.360 align:start position:0%
+lacking a public method that somebody
+ 
+
+00:10:18.360 --> 00:10:20.030 align:start position:0%
+lacking a public method that somebody
+was<00:10:18.509><c> using</c><00:10:18.839><c> you're</c><00:10:19.170><c> gonna</c><00:10:19.290><c> be</c><00:10:19.500><c> in</c><00:10:19.589><c> trouble</c>
+
+00:10:20.030 --> 00:10:20.040 align:start position:0%
+was using you're gonna be in trouble
+ 
+
+00:10:20.040 --> 00:10:21.980 align:start position:0%
+was using you're gonna be in trouble
+and<00:10:20.189><c> people</c><00:10:20.490><c> will</c><00:10:20.610><c> get</c><00:10:20.730><c> mad</c><00:10:20.910><c> at</c><00:10:21.060><c> you</c><00:10:21.209><c> now</c><00:10:21.870><c> it's</c>
+
+00:10:21.980 --> 00:10:21.990 align:start position:0%
+and people will get mad at you now it's
+ 
+
+00:10:21.990 --> 00:10:22.939 align:start position:0%
+and people will get mad at you now it's
+actually<00:10:22.290><c> I'll</c><00:10:22.380><c> mention</c><00:10:22.680><c> very</c><00:10:22.800><c> briefly</c>
+
+00:10:22.939 --> 00:10:22.949 align:start position:0%
+actually I'll mention very briefly
+ 
+
+00:10:22.949 --> 00:10:25.160 align:start position:0%
+actually I'll mention very briefly
+possible<00:10:23.939><c> to</c><00:10:24.120><c> go</c><00:10:24.269><c> around</c><00:10:24.600><c> these</c><00:10:24.779><c> access</c>
+
+00:10:25.160 --> 00:10:25.170 align:start position:0%
+possible to go around these access
+ 
+
+00:10:25.170 --> 00:10:27.230 align:start position:0%
+possible to go around these access
+modifiers<00:10:25.680><c> and</c><00:10:25.949><c> you</c><00:10:26.370><c> can</c><00:10:26.519><c> extend</c><00:10:26.850><c> the</c><00:10:27.029><c> class</c>
+
+00:10:27.230 --> 00:10:27.240 align:start position:0%
+modifiers and you can extend the class
+ 
+
+00:10:27.240 --> 00:10:28.999 align:start position:0%
+modifiers and you can extend the class
+and<00:10:27.480><c> then</c><00:10:27.569><c> decide</c><00:10:27.839><c> whatever</c><00:10:28.170><c> I'm</c><00:10:28.380><c> going</c><00:10:28.889><c> to</c>
+
+00:10:28.999 --> 00:10:29.009 align:start position:0%
+and then decide whatever I'm going to
+ 
+
+00:10:29.009 --> 00:10:31.129 align:start position:0%
+and then decide whatever I'm going to
+ignore<00:10:29.130><c> your</c><00:10:29.550><c> access</c><00:10:29.910><c> modifiers</c><00:10:30.420><c> using</c><00:10:31.079><c> a</c>
+
+00:10:31.129 --> 00:10:31.139 align:start position:0%
+ignore your access modifiers using a
+ 
+
+00:10:31.139 --> 00:10:32.780 align:start position:0%
+ignore your access modifiers using a
+special<00:10:31.500><c> library</c><00:10:31.680><c> known</c><00:10:32.069><c> as</c><00:10:32.189><c> the</c><00:10:32.279><c> reflections</c>
+
+00:10:32.780 --> 00:10:32.790 align:start position:0%
+special library known as the reflections
+ 
+
+00:10:32.790 --> 00:10:35.600 align:start position:0%
+special library known as the reflections
+API<00:10:33.149><c> now</c><00:10:33.930><c> if</c><00:10:34.019><c> somebody</c><00:10:34.380><c> does</c><00:10:34.589><c> that</c><00:10:34.920><c> and</c><00:10:35.250><c> you</c>
+
+00:10:35.600 --> 00:10:35.610 align:start position:0%
+API now if somebody does that and you
+ 
+
+00:10:35.610 --> 00:10:37.040 align:start position:0%
+API now if somebody does that and you
+change<00:10:35.880><c> your</c><00:10:36.029><c> package</c><00:10:36.389><c> well</c><00:10:36.689><c> that's</c><00:10:36.870><c> their</c>
+
+00:10:37.040 --> 00:10:37.050 align:start position:0%
+change your package well that's their
+ 
+
+00:10:37.050 --> 00:10:38.420 align:start position:0%
+change your package well that's their
+fault<00:10:37.290><c> they</c><00:10:37.589><c> were</c><00:10:37.620><c> messing</c><00:10:37.980><c> with</c><00:10:38.040><c> things</c><00:10:38.220><c> they</c>
+
+00:10:38.420 --> 00:10:38.430 align:start position:0%
+fault they were messing with things they
+ 
+
+00:10:38.430 --> 00:10:39.860 align:start position:0%
+fault they were messing with things they
+weren't<00:10:38.579><c> supposed</c><00:10:38.939><c> to</c><00:10:39.000><c> mess</c><00:10:39.180><c> with</c><00:10:39.329><c> whereas</c>
+
+00:10:39.860 --> 00:10:39.870 align:start position:0%
+weren't supposed to mess with whereas
+ 
+
+00:10:39.870 --> 00:10:41.720 align:start position:0%
+weren't supposed to mess with whereas
+public<00:10:40.199><c> is</c><00:10:40.319><c> really</c><00:10:40.560><c> a</c><00:10:40.589><c> contract</c><00:10:41.130><c> between</c><00:10:41.519><c> you</c>
+
+00:10:41.720 --> 00:10:41.730 align:start position:0%
+public is really a contract between you
+ 
+
+00:10:41.730 --> 00:10:43.400 align:start position:0%
+public is really a contract between you
+and<00:10:42.120><c> everybody</c><00:10:42.449><c> out</c><00:10:42.870><c> there</c><00:10:43.050><c> that's</c><00:10:43.259><c> ever</c>
+
+00:10:43.400 --> 00:10:43.410 align:start position:0%
+and everybody out there that's ever
+ 
+
+00:10:43.410 --> 00:10:44.840 align:start position:0%
+and everybody out there that's ever
+going<00:10:43.560><c> to</c><00:10:43.620><c> use</c><00:10:43.769><c> your</c><00:10:43.949><c> code</c><00:10:44.160><c> take</c><00:10:44.579><c> it</c><00:10:44.730><c> very</c>
+
+00:10:44.840 --> 00:10:44.850 align:start position:0%
+going to use your code take it very
+ 
+
+00:10:44.850 --> 00:10:47.449 align:start position:0%
+going to use your code take it very
+seriously
+

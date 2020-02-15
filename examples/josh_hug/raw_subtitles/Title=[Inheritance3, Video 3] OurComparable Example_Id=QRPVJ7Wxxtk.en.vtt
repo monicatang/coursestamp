@@ -1,0 +1,1600 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:03.740 align:start position:0%
+ 
+in<00:00:00.199><c> some</c><00:00:01.199><c> languages</c><00:00:01.680><c> like</c><00:00:01.979><c> C++</c><00:00:02.610><c> or</c><00:00:02.760><c> Python</c><00:00:02.850><c> you</c>
+
+00:00:03.740 --> 00:00:03.750 align:start position:0%
+in some languages like C++ or Python you
+ 
+
+00:00:03.750 --> 00:00:05.900 align:start position:0%
+in some languages like C++ or Python you
+can<00:00:03.780><c> redefine</c><00:00:04.529><c> that</c><00:00:04.799><c> how</c><00:00:05.100><c> an</c><00:00:05.220><c> operator</c><00:00:05.640><c> works</c>
+
+00:00:05.900 --> 00:00:05.910 align:start position:0%
+can redefine that how an operator works
+ 
+
+00:00:05.910 --> 00:00:08.240 align:start position:0%
+can redefine that how an operator works
+in<00:00:06.180><c> the</c><00:00:06.299><c> context</c><00:00:06.779><c> of</c><00:00:06.839><c> specific</c><00:00:07.080><c> classes</c><00:00:07.770><c> so</c>
+
+00:00:08.240 --> 00:00:08.250 align:start position:0%
+in the context of specific classes so
+ 
+
+00:00:08.250 --> 00:00:09.709 align:start position:0%
+in the context of specific classes so
+for<00:00:08.400><c> example</c><00:00:08.730><c> you</c><00:00:08.970><c> could</c><00:00:09.120><c> say</c><00:00:09.269><c> that</c><00:00:09.450><c> when</c><00:00:09.630><c> it</c>
+
+00:00:09.709 --> 00:00:09.719 align:start position:0%
+for example you could say that when it
+ 
+
+00:00:09.719 --> 00:00:11.780 align:start position:0%
+for example you could say that when it
+comes<00:00:09.929><c> to</c><00:00:10.080><c> dogs</c><00:00:10.290><c> greater</c><00:00:10.920><c> than</c><00:00:11.099><c> compares</c><00:00:11.550><c> the</c>
+
+00:00:11.780 --> 00:00:11.790 align:start position:0%
+comes to dogs greater than compares the
+ 
+
+00:00:11.790 --> 00:00:14.330 align:start position:0%
+comes to dogs greater than compares the
+size<00:00:12.030><c> of</c><00:00:12.179><c> the</c><00:00:12.269><c> dogs</c><00:00:12.480><c> now</c><00:00:13.230><c> in</c><00:00:13.469><c> Java</c><00:00:13.740><c> we</c><00:00:14.099><c> don't</c>
+
+00:00:14.330 --> 00:00:14.340 align:start position:0%
+size of the dogs now in Java we don't
+ 
+
+00:00:14.340 --> 00:00:16.580 align:start position:0%
+size of the dogs now in Java we don't
+have<00:00:14.490><c> that</c><00:00:14.670><c> capability</c><00:00:14.849><c> so</c><00:00:15.809><c> instead</c><00:00:16.170><c> we're</c>
+
+00:00:16.580 --> 00:00:16.590 align:start position:0%
+have that capability so instead we're
+ 
+
+00:00:16.590 --> 00:00:18.260 align:start position:0%
+have that capability so instead we're
+gonna<00:00:16.650><c> turn</c><00:00:16.949><c> to</c><00:00:17.070><c> interface</c><00:00:17.490><c> inheritance</c><00:00:18.029><c> to</c>
+
+00:00:18.260 --> 00:00:18.270 align:start position:0%
+gonna turn to interface inheritance to
+ 
+
+00:00:18.270 --> 00:00:20.570 align:start position:0%
+gonna turn to interface inheritance to
+help<00:00:18.390><c> us</c><00:00:18.570><c> out</c><00:00:18.800><c> so</c><00:00:19.800><c> what</c><00:00:19.920><c> we</c><00:00:20.010><c> can</c><00:00:20.130><c> do</c><00:00:20.250><c> is</c><00:00:20.369><c> create</c>
+
+00:00:20.570 --> 00:00:20.580 align:start position:0%
+help us out so what we can do is create
+ 
+
+00:00:20.580 --> 00:00:23.120 align:start position:0%
+help us out so what we can do is create
+an<00:00:20.760><c> interface</c><00:00:21.029><c> that</c><00:00:21.390><c> guarantees</c><00:00:22.109><c> that</c><00:00:22.859><c> our</c>
+
+00:00:23.120 --> 00:00:23.130 align:start position:0%
+an interface that guarantees that our
+ 
+
+00:00:23.130 --> 00:00:25.700 align:start position:0%
+an interface that guarantees that our
+class<00:00:23.640><c> has</c><00:00:23.970><c> a</c><00:00:24.000><c> comparison</c><00:00:24.660><c> method</c><00:00:24.960><c> and</c>
+
+00:00:25.700 --> 00:00:25.710 align:start position:0%
+class has a comparison method and
+ 
+
+00:00:25.710 --> 00:00:27.290 align:start position:0%
+class has a comparison method and
+they'll<00:00:25.859><c> have</c><00:00:25.980><c> the</c><00:00:26.130><c> dog</c><00:00:26.310><c> class</c><00:00:26.670><c> implement</c>
+
+00:00:27.290 --> 00:00:27.300 align:start position:0%
+they'll have the dog class implement
+ 
+
+00:00:27.300 --> 00:00:28.970 align:start position:0%
+they'll have the dog class implement
+this<00:00:27.420><c> interface</c><00:00:27.689><c> now</c><00:00:28.529><c> of</c><00:00:28.619><c> course</c><00:00:28.769><c> this</c>
+
+00:00:28.970 --> 00:00:28.980 align:start position:0%
+this interface now of course this
+ 
+
+00:00:28.980 --> 00:00:31.460 align:start position:0%
+this interface now of course this
+requires<00:00:29.160><c> that</c><00:00:29.519><c> the</c><00:00:30.179><c> we</c><00:00:30.720><c> change</c><00:00:31.170><c> something</c>
+
+00:00:31.460 --> 00:00:31.470 align:start position:0%
+requires that the we change something
+ 
+
+00:00:31.470 --> 00:00:33.709 align:start position:0%
+requires that the we change something
+about<00:00:31.679><c> the</c><00:00:31.800><c> dog</c><00:00:32.040><c> class</c><00:00:32.369><c> and</c><00:00:33.149><c> we'll</c><00:00:33.360><c> talk</c><00:00:33.570><c> about</c>
+
+00:00:33.709 --> 00:00:33.719 align:start position:0%
+about the dog class and we'll talk about
+ 
+
+00:00:33.719 --> 00:00:35.360 align:start position:0%
+about the dog class and we'll talk about
+how<00:00:33.899><c> this</c><00:00:34.020><c> isn't</c><00:00:34.230><c> a</c><00:00:34.410><c> big</c><00:00:34.590><c> practical</c><00:00:34.920><c> problem</c>
+
+00:00:35.360 --> 00:00:35.370 align:start position:0%
+how this isn't a big practical problem
+ 
+
+00:00:35.370 --> 00:00:37.729 align:start position:0%
+how this isn't a big practical problem
+in<00:00:35.489><c> the</c><00:00:35.579><c> real</c><00:00:35.730><c> world</c><00:00:35.880><c> later</c><00:00:36.180><c> but</c><00:00:37.020><c> basically</c><00:00:37.350><c> in</c>
+
+00:00:37.729 --> 00:00:37.739 align:start position:0%
+in the real world later but basically in
+ 
+
+00:00:37.739 --> 00:00:40.130 align:start position:0%
+in the real world later but basically in
+this<00:00:38.610><c> way</c><00:00:38.790><c> we're</c><00:00:39.270><c> specifying</c><00:00:39.510><c> to</c><00:00:39.899><c> the</c><00:00:39.960><c> world</c>
+
+00:00:40.130 --> 00:00:40.140 align:start position:0%
+this way we're specifying to the world
+ 
+
+00:00:40.140 --> 00:00:42.260 align:start position:0%
+this way we're specifying to the world
+indeed<00:00:40.649><c> anything</c><00:00:41.219><c> that</c><00:00:41.550><c> is</c><00:00:41.670><c> what</c><00:00:42.090><c> we'll</c><00:00:42.239><c> call</c>
+
+00:00:42.260 --> 00:00:42.270 align:start position:0%
+indeed anything that is what we'll call
+ 
+
+00:00:42.270 --> 00:00:44.690 align:start position:0%
+indeed anything that is what we'll call
+an<00:00:42.570><c> are</c><00:00:42.780><c> comparable</c><00:00:43.230><c> can</c><00:00:43.770><c> be</c><00:00:43.950><c> compared</c><00:00:44.430><c> to</c>
+
+00:00:44.690 --> 00:00:44.700 align:start position:0%
+an are comparable can be compared to
+ 
+
+00:00:44.700 --> 00:00:48.440 align:start position:0%
+an are comparable can be compared to
+other<00:00:44.969><c> items</c><00:00:45.690><c> okay</c><00:00:46.350><c> so</c><00:00:47.280><c> in</c><00:00:47.460><c> this</c><00:00:47.579><c> case</c><00:00:47.820><c> we'll</c>
+
+00:00:48.440 --> 00:00:48.450 align:start position:0%
+other items okay so in this case we'll
+ 
+
+00:00:48.450 --> 00:00:49.639 align:start position:0%
+other items okay so in this case we'll
+create<00:00:48.600><c> an</c><00:00:48.780><c> interface</c><00:00:49.020><c> called</c><00:00:49.469><c> our</c>
+
+00:00:49.639 --> 00:00:49.649 align:start position:0%
+create an interface called our
+ 
+
+00:00:49.649 --> 00:00:51.799 align:start position:0%
+create an interface called our
+comparable<00:00:50.129><c> and</c><00:00:50.399><c> more</c><00:00:50.940><c> specifically</c><00:00:51.390><c> it</c><00:00:51.660><c> will</c>
+
+00:00:51.799 --> 00:00:51.809 align:start position:0%
+comparable and more specifically it will
+ 
+
+00:00:51.809 --> 00:00:53.420 align:start position:0%
+comparable and more specifically it will
+have<00:00:51.930><c> a</c><00:00:51.960><c> compare</c><00:00:52.410><c> to</c><00:00:52.590><c> method</c><00:00:52.770><c> that</c><00:00:53.100><c> takes</c><00:00:53.280><c> any</c>
+
+00:00:53.420 --> 00:00:53.430 align:start position:0%
+have a compare to method that takes any
+ 
+
+00:00:53.430 --> 00:00:55.459 align:start position:0%
+have a compare to method that takes any
+object<00:00:53.879><c> and</c><00:00:54.149><c> it</c><00:00:54.360><c> returns</c><00:00:54.690><c> something</c><00:00:54.989><c> that</c>
+
+00:00:55.459 --> 00:00:55.469 align:start position:0%
+object and it returns something that
+ 
+
+00:00:55.469 --> 00:00:57.860 align:start position:0%
+object and it returns something that
+tells<00:00:55.649><c> us</c><00:00:55.860><c> whether</c><00:00:56.610><c> or</c><00:00:56.820><c> not</c><00:00:56.940><c> this</c><00:00:57.510><c> item</c><00:00:57.750><c> is</c>
+
+00:00:57.860 --> 00:00:57.870 align:start position:0%
+tells us whether or not this item is
+ 
+
+00:00:57.870 --> 00:00:59.420 align:start position:0%
+tells us whether or not this item is
+bigger<00:00:58.050><c> or</c><00:00:58.230><c> smaller</c><00:00:58.350><c> than</c><00:00:58.620><c> the</c><00:00:58.829><c> object</c><00:00:59.219><c> passed</c>
+
+00:00:59.420 --> 00:00:59.430 align:start position:0%
+bigger or smaller than the object passed
+ 
+
+00:00:59.430 --> 00:01:01.310 align:start position:0%
+bigger or smaller than the object passed
+and<00:00:59.820><c> then</c><00:01:00.180><c> we'll</c><00:01:00.300><c> have</c><00:01:00.420><c> dog</c><00:01:00.629><c> implement</c><00:01:01.199><c> this</c>
+
+00:01:01.310 --> 00:01:01.320 align:start position:0%
+and then we'll have dog implement this
+ 
+
+00:01:01.320 --> 00:01:04.520 align:start position:0%
+and then we'll have dog implement this
+interface<00:01:02.010><c> and</c><00:01:02.430><c> then</c><00:01:02.910><c> ultimately</c><00:01:03.390><c> what</c><00:01:04.320><c> our</c>
+
+00:01:04.520 --> 00:01:04.530 align:start position:0%
+interface and then ultimately what our
+ 
+
+00:01:04.530 --> 00:01:06.350 align:start position:0%
+interface and then ultimately what our
+max<00:01:04.830><c> function</c><00:01:05.070><c> will</c><00:01:05.400><c> now</c><00:01:05.489><c> do</c><00:01:05.549><c> is</c><00:01:05.880><c> instead</c><00:01:06.210><c> of</c>
+
+00:01:06.350 --> 00:01:06.360 align:start position:0%
+max function will now do is instead of
+ 
+
+00:01:06.360 --> 00:01:08.240 align:start position:0%
+max function will now do is instead of
+taking<00:01:06.689><c> an</c><00:01:06.780><c> array</c><00:01:06.990><c> of</c><00:01:07.080><c> objects</c><00:01:07.500><c> and</c><00:01:07.680><c> returning</c>
+
+00:01:08.240 --> 00:01:08.250 align:start position:0%
+taking an array of objects and returning
+ 
+
+00:01:08.250 --> 00:01:09.770 align:start position:0%
+taking an array of objects and returning
+an<00:01:08.340><c> object</c><00:01:08.430><c> it'll</c><00:01:09.060><c> take</c><00:01:09.270><c> an</c><00:01:09.390><c> array</c><00:01:09.570><c> of</c><00:01:09.600><c> our</c>
+
+00:01:09.770 --> 00:01:09.780 align:start position:0%
+an object it'll take an array of our
+ 
+
+00:01:09.780 --> 00:01:11.539 align:start position:0%
+an object it'll take an array of our
+comparables<00:01:10.350><c> and</c><00:01:10.470><c> it</c><00:01:10.770><c> will</c><00:01:10.890><c> return</c><00:01:11.010><c> and</c><00:01:11.369><c> are</c>
+
+00:01:11.539 --> 00:01:11.549 align:start position:0%
+comparables and it will return and are
+ 
+
+00:01:11.549 --> 00:01:13.580 align:start position:0%
+comparables and it will return and are
+comparable<00:01:11.970><c> okay</c><00:01:12.479><c> so</c><00:01:13.140><c> it's</c><00:01:13.229><c> actually</c><00:01:13.470><c> just</c>
+
+00:01:13.580 --> 00:01:13.590 align:start position:0%
+comparable okay so it's actually just
+ 
+
+00:01:13.590 --> 00:01:14.950 align:start position:0%
+comparable okay so it's actually just
+jump<00:01:13.830><c> in</c><00:01:13.950><c> and</c><00:01:14.130><c> try</c><00:01:14.220><c> and</c><00:01:14.369><c> write</c><00:01:14.490><c> this</c><00:01:14.640><c> thing</c>
+
+00:01:14.950 --> 00:01:14.960 align:start position:0%
+jump in and try and write this thing
+ 
+
+00:01:14.960 --> 00:01:17.240 align:start position:0%
+jump in and try and write this thing
+this<00:01:15.960><c> is</c><00:01:16.020><c> the</c><00:01:16.259><c> code</c><00:01:16.439><c> that</c><00:01:16.619><c> we</c><00:01:16.710><c> had</c><00:01:16.860><c> in</c><00:01:17.009><c> our</c>
+
+00:01:17.240 --> 00:01:17.250 align:start position:0%
+this is the code that we had in our
+ 
+
+00:01:17.250 --> 00:01:19.190 align:start position:0%
+this is the code that we had in our
+lecture<00:01:17.759><c> slides</c><00:01:18.030><c> and</c><00:01:18.509><c> we</c><00:01:18.600><c> can</c><00:01:18.720><c> see</c><00:01:18.869><c> here</c><00:01:19.080><c> that</c>
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+lecture slides and we can see here that
+ 
+
+00:01:19.200 --> 00:01:21.830 align:start position:0%
+lecture slides and we can see here that
+this<00:01:19.350><c> is</c><00:01:19.500><c> not</c><00:01:19.650><c> compiling</c><00:01:20.009><c> it</c><00:01:20.340><c> is</c><00:01:20.520><c> unhappy</c><00:01:20.939><c> so</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+this is not compiling it is unhappy so
+ 
+
+00:01:21.840 --> 00:01:23.330 align:start position:0%
+this is not compiling it is unhappy so
+let's<00:01:21.960><c> make</c><00:01:22.110><c> a</c><00:01:22.140><c> new</c><00:01:22.290><c> interface</c><00:01:22.500><c> just</c><00:01:23.009><c> as</c><00:01:23.220><c> I</c>
+
+00:01:23.330 --> 00:01:23.340 align:start position:0%
+let's make a new interface just as I
+ 
+
+00:01:23.340 --> 00:01:23.859 align:start position:0%
+let's make a new interface just as I
+said
+
+00:01:23.859 --> 00:01:23.869 align:start position:0%
+said
+ 
+
+00:01:23.869 --> 00:01:26.840 align:start position:0%
+said
+so<00:01:24.890><c> interface</c><00:01:25.890><c> will</c><00:01:26.220><c> call</c><00:01:26.369><c> this</c><00:01:26.490><c> thing</c><00:01:26.670><c> are</c>
+
+00:01:26.840 --> 00:01:26.850 align:start position:0%
+so interface will call this thing are
+ 
+
+00:01:26.850 --> 00:01:32.030 align:start position:0%
+so interface will call this thing are
+comparable<00:01:29.479><c> and</c><00:01:30.479><c> in</c><00:01:31.079><c> this</c><00:01:31.290><c> interface</c><00:01:31.500><c> we're</c>
+
+00:01:32.030 --> 00:01:32.040 align:start position:0%
+comparable and in this interface we're
+ 
+
+00:01:32.040 --> 00:01:33.560 align:start position:0%
+comparable and in this interface we're
+gonna<00:01:32.159><c> set</c><00:01:32.430><c> the</c><00:01:32.549><c> specification</c><00:01:33.210><c> up</c><00:01:33.329><c> well</c>
+
+00:01:33.560 --> 00:01:33.570 align:start position:0%
+gonna set the specification up well
+ 
+
+00:01:33.570 --> 00:01:34.999 align:start position:0%
+gonna set the specification up well
+actually<00:01:33.840><c> first</c><00:01:34.049><c> let's</c><00:01:34.350><c> look</c><00:01:34.590><c> through</c><00:01:34.770><c> the</c><00:01:34.829><c> in</c>
+
+00:01:34.999 --> 00:01:35.009 align:start position:0%
+actually first let's look through the in
+ 
+
+00:01:35.009 --> 00:01:38.170 align:start position:0%
+actually first let's look through the in
+function<00:01:35.430><c> public</c><00:01:36.360><c> int</c><00:01:36.509><c> compare</c><00:01:37.020><c> to</c><00:01:37.229><c> object</c><00:01:37.890><c> oh</c>
+
+00:01:38.170 --> 00:01:38.180 align:start position:0%
+function public int compare to object oh
+ 
+
+00:01:38.180 --> 00:01:41.270 align:start position:0%
+function public int compare to object oh
+okay<00:01:39.210><c> we</c><00:01:39.900><c> could</c><00:01:40.079><c> have</c><00:01:40.170><c> made</c><00:01:40.290><c> it</c><00:01:40.409><c> a</c><00:01:40.470><c> boolean</c><00:01:40.799><c> but</c>
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+okay we could have made it a boolean but
+ 
+
+00:01:41.280 --> 00:01:44.569 align:start position:0%
+okay we could have made it a boolean but
+I'm<00:01:41.369><c> gonna</c><00:01:41.460><c> make</c><00:01:41.700><c> it</c><00:01:41.729><c> an</c><00:01:41.939><c> ant</c><00:01:42.119><c> to</c><00:01:43.220><c> reflect</c><00:01:44.220><c> what</c>
+
+00:01:44.569 --> 00:01:44.579 align:start position:0%
+I'm gonna make it an ant to reflect what
+ 
+
+00:01:44.579 --> 00:01:46.249 align:start position:0%
+I'm gonna make it an ant to reflect what
+is<00:01:44.610><c> common</c><00:01:45.090><c> practice</c><00:01:45.210><c> with</c><00:01:45.600><c> real</c><00:01:45.750><c> Java</c><00:01:46.020><c> code</c>
+
+00:01:46.249 --> 00:01:46.259 align:start position:0%
+is common practice with real Java code
+ 
+
+00:01:46.259 --> 00:01:48.740 align:start position:0%
+is common practice with real Java code
+and<00:01:46.530><c> so</c><00:01:47.520><c> what</c><00:01:47.670><c> this</c><00:01:47.790><c> function</c><00:01:47.970><c> is</c><00:01:48.270><c> going</c><00:01:48.420><c> to</c><00:01:48.509><c> do</c>
+
+00:01:48.740 --> 00:01:48.750 align:start position:0%
+and so what this function is going to do
+ 
+
+00:01:48.750 --> 00:01:52.310 align:start position:0%
+and so what this function is going to do
+is<00:01:48.899><c> return</c><00:01:49.530><c> minus</c><00:01:49.950><c> 1</c><00:01:50.159><c> if</c><00:01:50.579><c> this</c><00:01:51.240><c> is</c><00:01:51.509><c> less</c><00:01:52.290><c> than</c>
+
+00:01:52.310 --> 00:01:52.320 align:start position:0%
+is return minus 1 if this is less than
+ 
+
+00:01:52.320 --> 00:01:58.240 align:start position:0%
+is return minus 1 if this is less than
+Oh<00:01:53.149><c> return</c><00:01:54.149><c> 0</c><00:01:54.930><c> if</c><00:01:55.200><c> this</c><00:01:55.560><c> equals</c><00:01:56.490><c> oh</c><00:01:56.670><c> and</c>
+
+00:01:58.240 --> 00:01:58.250 align:start position:0%
+Oh return 0 if this equals oh and
+ 
+
+00:01:58.250 --> 00:02:02.359 align:start position:0%
+Oh return 0 if this equals oh and
+finally<00:01:59.250><c> will</c><00:01:59.579><c> return</c><00:02:00.000><c> 1</c><00:02:00.990><c> if</c><00:02:01.229><c> this</c><00:02:01.710><c> is</c><00:02:02.009><c> greater</c>
+
+00:02:02.359 --> 00:02:02.369 align:start position:0%
+finally will return 1 if this is greater
+ 
+
+00:02:02.369 --> 00:02:04.429 align:start position:0%
+finally will return 1 if this is greater
+than<00:02:02.460><c> oh</c><00:02:02.729><c> okay</c><00:02:03.540><c> where</c><00:02:03.810><c> oh</c><00:02:03.990><c> is</c><00:02:04.170><c> the</c><00:02:04.290><c> other</c>
+
+00:02:04.429 --> 00:02:04.439 align:start position:0%
+than oh okay where oh is the other
+ 
+
+00:02:04.439 --> 00:02:07.760 align:start position:0%
+than oh okay where oh is the other
+object<00:02:05.719><c> and</c><00:02:06.719><c> actually</c><00:02:07.229><c> we</c><00:02:07.380><c> don't</c><00:02:07.500><c> really</c><00:02:07.590><c> need</c>
+
+00:02:07.760 --> 00:02:07.770 align:start position:0%
+object and actually we don't really need
+ 
+
+00:02:07.770 --> 00:02:09.139 align:start position:0%
+object and actually we don't really need
+the<00:02:07.890><c> description</c><00:02:08.280><c> of</c><00:02:08.399><c> this</c><00:02:08.459><c> class</c><00:02:08.700><c> this</c><00:02:09.000><c> is</c>
+
+00:02:09.139 --> 00:02:09.149 align:start position:0%
+the description of this class this is
+ 
+
+00:02:09.149 --> 00:02:10.190 align:start position:0%
+the description of this class this is
+good<00:02:09.270><c> enough</c><00:02:09.450><c> for</c><00:02:09.599><c> our</c><00:02:09.660><c> purposes</c>
+
+00:02:10.190 --> 00:02:10.200 align:start position:0%
+good enough for our purposes
+ 
+
+00:02:10.200 --> 00:02:10.740 align:start position:0%
+good enough for our purposes
+and
+
+00:02:10.740 --> 00:02:10.750 align:start position:0%
+and
+ 
+
+00:02:10.750 --> 00:02:13.050 align:start position:0%
+and
+lecture<00:02:11.130><c> so</c><00:02:12.130><c> that</c><00:02:12.160><c> we</c><00:02:12.430><c> created</c><00:02:12.760><c> this</c><00:02:12.850><c> power</c>
+
+00:02:13.050 --> 00:02:13.060 align:start position:0%
+lecture so that we created this power
+ 
+
+00:02:13.060 --> 00:02:15.210 align:start position:0%
+lecture so that we created this power
+comparable<00:02:13.480><c> interface</c><00:02:13.780><c> we</c><00:02:14.500><c> can</c><00:02:14.530><c> go</c><00:02:14.890><c> to</c><00:02:14.950><c> the</c>
+
+00:02:15.210 --> 00:02:15.220 align:start position:0%
+comparable interface we can go to the
+ 
+
+00:02:15.220 --> 00:02:17.960 align:start position:0%
+comparable interface we can go to the
+dog<00:02:15.430><c> class</c><00:02:15.910><c> and</c><00:02:16.480><c> we</c><00:02:16.570><c> could</c><00:02:16.690><c> say</c><00:02:16.870><c> implements</c>
+
+00:02:17.960 --> 00:02:17.970 align:start position:0%
+dog class and we could say implements
+ 
+
+00:02:17.970 --> 00:02:22.380 align:start position:0%
+dog class and we could say implements
+are<00:02:18.970><c> comparable</c><00:02:20.580><c> and</c><00:02:21.580><c> so</c><00:02:21.700><c> naturally</c><00:02:22.120><c> in</c><00:02:22.210><c> order</c>
+
+00:02:22.380 --> 00:02:22.390 align:start position:0%
+are comparable and so naturally in order
+ 
+
+00:02:22.390 --> 00:02:23.910 align:start position:0%
+are comparable and so naturally in order
+to<00:02:22.510><c> implement</c><00:02:22.780><c> are</c><00:02:22.960><c> comparable</c><00:02:23.350><c> we</c><00:02:23.680><c> need</c><00:02:23.830><c> to</c>
+
+00:02:23.910 --> 00:02:23.920 align:start position:0%
+to implement are comparable we need to
+ 
+
+00:02:23.920 --> 00:02:28.020 align:start position:0%
+to implement are comparable we need to
+have<00:02:24.070><c> this</c><00:02:24.250><c> method</c><00:02:24.580><c> so</c><00:02:25.360><c> let's</c><00:02:25.540><c> do</c><00:02:25.690><c> that</c><00:02:25.720><c> so</c><00:02:27.030><c> we</c>
+
+00:02:28.020 --> 00:02:28.030 align:start position:0%
+have this method so let's do that so we
+ 
+
+00:02:28.030 --> 00:02:32.760 align:start position:0%
+have this method so let's do that so we
+want<00:02:28.150><c> to</c><00:02:28.300><c> compare</c><00:02:28.660><c> to</c><00:02:28.840><c> other</c><00:02:28.870><c> objects</c><00:02:29.530><c> okay</c><00:02:31.770><c> so</c>
+
+00:02:32.760 --> 00:02:32.770 align:start position:0%
+want to compare to other objects okay so
+ 
+
+00:02:32.770 --> 00:02:40.220 align:start position:0%
+want to compare to other objects okay so
+this<00:02:33.300><c> returns</c><00:02:36.180><c> -1</c><00:02:37.180><c> if</c><00:02:37.600><c> this</c><00:02:38.320><c> dog</c><00:02:38.890><c> is</c><00:02:39.310><c> less</c><00:02:39.760><c> than</c>
+
+00:02:40.220 --> 00:02:40.230 align:start position:0%
+this returns -1 if this dog is less than
+ 
+
+00:02:40.230 --> 00:02:46.800 align:start position:0%
+this returns -1 if this dog is less than
+the<00:02:41.230><c> dog</c><00:02:42.160><c> pointed</c><00:02:42.880><c> at</c><00:02:43.030><c> by</c><00:02:43.570><c> oh</c><00:02:43.810><c> okay</c><00:02:44.970><c> and</c><00:02:45.970><c> so</c>
+
+00:02:46.800 --> 00:02:46.810 align:start position:0%
+the dog pointed at by oh okay and so
+ 
+
+00:02:46.810 --> 00:02:49.530 align:start position:0%
+the dog pointed at by oh okay and so
+forth<00:02:47.050><c> you</c><00:02:47.410><c> know</c><00:02:47.560><c> the</c><00:02:47.650><c> rest</c><00:02:48.270><c> zero</c><00:02:49.270><c> if</c><00:02:49.360><c> they're</c>
+
+00:02:49.530 --> 00:02:49.540 align:start position:0%
+forth you know the rest zero if they're
+ 
+
+00:02:49.540 --> 00:02:52.320 align:start position:0%
+forth you know the rest zero if they're
+equal<00:02:49.660><c> greater</c><00:02:50.410><c> than</c><00:02:50.560><c> one</c><00:02:50.740><c> if</c><00:02:50.890><c> it's</c><00:02:51.040><c> bigger</c><00:02:51.370><c> so</c>
+
+00:02:52.320 --> 00:02:52.330 align:start position:0%
+equal greater than one if it's bigger so
+ 
+
+00:02:52.330 --> 00:02:54.570 align:start position:0%
+equal greater than one if it's bigger so
+when<00:02:52.690><c> we</c><00:02:52.780><c> write</c><00:02:52.990><c> this</c><00:02:53.170><c> function</c><00:02:53.380><c> we</c><00:02:54.340><c> need</c><00:02:54.430><c> to</c>
+
+00:02:54.570 --> 00:02:54.580 align:start position:0%
+when we write this function we need to
+ 
+
+00:02:54.580 --> 00:02:57.120 align:start position:0%
+when we write this function we need to
+somehow<00:02:54.790><c> compare</c><00:02:55.300><c> the</c><00:02:55.570><c> size</c><00:02:55.780><c> of</c><00:02:56.020><c> us</c><00:02:56.260><c> to</c><00:02:56.920><c> the</c>
+
+00:02:57.120 --> 00:02:57.130 align:start position:0%
+somehow compare the size of us to the
+ 
+
+00:02:57.130 --> 00:02:59.670 align:start position:0%
+somehow compare the size of us to the
+other<00:02:57.280><c> dog</c><00:02:57.870><c> and</c><00:02:58.870><c> so</c><00:02:59.050><c> we</c><00:02:59.170><c> might</c><00:02:59.320><c> try</c><00:02:59.500><c> and</c><00:02:59.560><c> do</c>
+
+00:02:59.670 --> 00:02:59.680 align:start position:0%
+other dog and so we might try and do
+ 
+
+00:02:59.680 --> 00:03:02.100 align:start position:0%
+other dog and so we might try and do
+something<00:03:00.010><c> like</c><00:03:00.130><c> if</c><00:03:00.340><c> this</c><00:03:00.610><c> dot</c><00:03:00.820><c> size</c><00:03:01.060><c> is</c><00:03:01.360><c> less</c>
+
+00:03:02.100 --> 00:03:02.110 align:start position:0%
+something like if this dot size is less
+ 
+
+00:03:02.110 --> 00:03:08.640 align:start position:0%
+something like if this dot size is less
+than<00:03:02.850><c> ODOT</c><00:03:03.850><c> size</c><00:03:04.530><c> return</c><00:03:05.530><c> -1</c><00:03:06.840><c> else</c><00:03:07.840><c> if</c><00:03:08.200><c> this</c>
+
+00:03:08.640 --> 00:03:08.650 align:start position:0%
+than ODOT size return -1 else if this
+ 
+
+00:03:08.650 --> 00:03:11.699 align:start position:0%
+than ODOT size return -1 else if this
+dot<00:03:08.890><c> size</c><00:03:09.190><c> equal</c><00:03:09.880><c> equals</c><00:03:10.180><c> o</c><00:03:10.330><c> dot</c><00:03:10.570><c> size</c><00:03:10.840><c> return</c>
+
+00:03:11.699 --> 00:03:11.709 align:start position:0%
+dot size equal equals o dot size return
+ 
+
+00:03:11.709 --> 00:03:14.430 align:start position:0%
+dot size equal equals o dot size return
+zero<00:03:12.209><c> and</c><00:03:13.209><c> then</c><00:03:13.330><c> we</c><00:03:13.390><c> can</c><00:03:13.540><c> do</c><00:03:13.660><c> finally</c><00:03:14.080><c> return</c>
+
+00:03:14.430 --> 00:03:14.440 align:start position:0%
+zero and then we can do finally return
+ 
+
+00:03:14.440 --> 00:03:18.300 align:start position:0%
+zero and then we can do finally return
+plus<00:03:14.709><c> 1</c><00:03:14.920><c> or</c><00:03:15.459><c> just</c><00:03:16.000><c> 1</c><00:03:16.470><c> however</c><00:03:17.470><c> of</c><00:03:17.680><c> course</c><00:03:17.920><c> there</c>
+
+00:03:18.300 --> 00:03:18.310 align:start position:0%
+plus 1 or just 1 however of course there
+ 
+
+00:03:18.310 --> 00:03:20.699 align:start position:0%
+plus 1 or just 1 however of course there
+is<00:03:18.430><c> no</c><00:03:18.610><c> size</c><00:03:18.880><c> symbol</c><00:03:19.600><c> in</c><00:03:19.780><c> the</c><00:03:19.989><c> object</c><00:03:20.440><c> class</c>
+
+00:03:20.699 --> 00:03:20.709 align:start position:0%
+is no size symbol in the object class
+ 
+
+00:03:20.709 --> 00:03:23.340 align:start position:0%
+is no size symbol in the object class
+right<00:03:21.190><c> so</c><00:03:21.459><c> there's</c><00:03:21.610><c> no</c><00:03:21.730><c> size</c><00:03:21.940><c> in</c><00:03:22.150><c> an</c><00:03:22.269><c> object</c><00:03:22.630><c> so</c>
+
+00:03:23.340 --> 00:03:23.350 align:start position:0%
+right so there's no size in an object so
+ 
+
+00:03:23.350 --> 00:03:25.199 align:start position:0%
+right so there's no size in an object so
+we<00:03:23.440><c> need</c><00:03:23.560><c> to</c><00:03:23.620><c> first</c><00:03:23.800><c> cast</c><00:03:24.130><c> that's</c><00:03:24.910><c> what</c><00:03:25.090><c> we'll</c>
+
+00:03:25.199 --> 00:03:25.209 align:start position:0%
+we need to first cast that's what we'll
+ 
+
+00:03:25.209 --> 00:03:28.530 align:start position:0%
+we need to first cast that's what we'll
+do<00:03:25.360><c> is</c><00:03:25.480><c> we'll</c><00:03:25.570><c> say</c><00:03:25.720><c> dog</c><00:03:25.989><c> utter</c><00:03:26.500><c> dog</c><00:03:27.150><c> equals</c><00:03:28.150><c> dog</c>
+
+00:03:28.530 --> 00:03:28.540 align:start position:0%
+do is we'll say dog utter dog equals dog
+ 
+
+00:03:28.540 --> 00:03:31.229 align:start position:0%
+do is we'll say dog utter dog equals dog
+oh<00:03:29.400><c> so</c><00:03:30.400><c> we're</c><00:03:30.519><c> comparing</c><00:03:30.760><c> ourselves</c><00:03:30.970><c> to</c>
+
+00:03:31.229 --> 00:03:31.239 align:start position:0%
+oh so we're comparing ourselves to
+ 
+
+00:03:31.239 --> 00:03:34.979 align:start position:0%
+oh so we're comparing ourselves to
+another<00:03:31.540><c> dog</c><00:03:31.959><c> I</c><00:03:32.769><c> took</c><00:03:33.250><c> this</c><00:03:33.400><c> from</c><00:03:33.610><c> I</c><00:03:33.940><c> was</c><00:03:34.180><c> in</c><00:03:34.360><c> I</c>
+
+00:03:34.979 --> 00:03:34.989 align:start position:0%
+another dog I took this from I was in I
+ 
+
+00:03:34.989 --> 00:03:36.990 align:start position:0%
+another dog I took this from I was in I
+was<00:03:35.350><c> on</c><00:03:35.470><c> Big</c><00:03:35.620><c> Island</c><00:03:35.739><c> in</c><00:03:36.010><c> Hawaii</c><00:03:36.310><c> awhile</c><00:03:36.760><c> back</c>
+
+00:03:36.990 --> 00:03:37.000 align:start position:0%
+was on Big Island in Hawaii awhile back
+ 
+
+00:03:37.000 --> 00:03:40.800 align:start position:0%
+was on Big Island in Hawaii awhile back
+and<00:03:37.260><c> there</c><00:03:38.260><c> was</c><00:03:38.410><c> a</c><00:03:38.500><c> guy</c><00:03:38.769><c> who</c><00:03:39.450><c> rinsed</c><00:03:40.450><c> kayaks</c>
+
+00:03:40.800 --> 00:03:40.810 align:start position:0%
+and there was a guy who rinsed kayaks
+ 
+
+00:03:40.810 --> 00:03:45.840 align:start position:0%
+and there was a guy who rinsed kayaks
+near<00:03:41.200><c> a</c><00:03:41.230><c> cane</c><00:03:41.820><c> Kealakekua</c><00:03:42.820><c> and</c><00:03:44.040><c> he</c><00:03:45.040><c> is</c><00:03:45.430><c> named</c><00:03:45.700><c> a</c>
+
+00:03:45.840 --> 00:03:45.850 align:start position:0%
+near a cane Kealakekua and he is named a
+ 
+
+00:03:45.850 --> 00:03:48.630 align:start position:0%
+near a cane Kealakekua and he is named a
+who<00:03:46.030><c> and</c><00:03:46.180><c> Kai</c><00:03:46.420><c> and</c><00:03:47.290><c> so</c><00:03:47.500><c> I</c><00:03:47.799><c> forget</c><00:03:48.220><c> if</c><00:03:48.310><c> the</c><00:03:48.430><c> guy</c><00:03:48.549><c> I</c>
+
+00:03:48.630 --> 00:03:48.640 align:start position:0%
+who and Kai and so I forget if the guy I
+ 
+
+00:03:48.640 --> 00:03:49.949 align:start position:0%
+who and Kai and so I forget if the guy I
+think<00:03:48.790><c> the</c><00:03:48.880><c> guys</c><00:03:49.030><c> named</c><00:03:49.269><c> Kai</c><00:03:49.480><c> and</c><00:03:49.690><c> the</c><00:03:49.750><c> dog's</c>
+
+00:03:49.949 --> 00:03:49.959 align:start position:0%
+think the guys named Kai and the dog's
+ 
+
+00:03:49.959 --> 00:03:52.140 align:start position:0%
+think the guys named Kai and the dog's
+name<00:03:50.140><c> a</c><00:03:50.350><c> who</c><00:03:50.500><c> and</c><00:03:51.459><c> he</c><00:03:51.610><c> had</c><00:03:51.700><c> another</c><00:03:51.910><c> dog</c>
+
+00:03:52.140 --> 00:03:52.150 align:start position:0%
+name a who and he had another dog
+ 
+
+00:03:52.150 --> 00:03:53.610 align:start position:0%
+name a who and he had another dog
+running<00:03:52.390><c> around</c><00:03:52.570><c> I</c><00:03:52.840><c> said</c><00:03:53.019><c> what's</c><00:03:53.200><c> that</c><00:03:53.260><c> dog's</c>
+
+00:03:53.610 --> 00:03:53.620 align:start position:0%
+running around I said what's that dog's
+ 
+
+00:03:53.620 --> 00:03:55.770 align:start position:0%
+running around I said what's that dog's
+name<00:03:53.860><c> and</c><00:03:54.130><c> he</c><00:03:54.220><c> just</c><00:03:54.400><c> goes</c><00:03:54.580><c> daughter</c><00:03:55.209><c> dog</c>
+
+00:03:55.770 --> 00:03:55.780 align:start position:0%
+name and he just goes daughter dog
+ 
+
+00:03:55.780 --> 00:03:58.530 align:start position:0%
+name and he just goes daughter dog
+so<00:03:56.019><c> anyway</c><00:03:56.290><c> an</c><00:03:56.530><c> honor</c><00:03:56.950><c> of</c><00:03:57.160><c> the</c><00:03:57.430><c> other</c><00:03:57.580><c> dog</c><00:03:57.790><c> we</c>
+
+00:03:58.530 --> 00:03:58.540 align:start position:0%
+so anyway an honor of the other dog we
+ 
+
+00:03:58.540 --> 00:04:02.009 align:start position:0%
+so anyway an honor of the other dog we
+have<00:03:58.720><c> cast</c><00:03:59.230><c> the</c><00:03:59.920><c> dog</c><00:04:00.250><c> as</c><00:04:00.489><c> follows</c><00:04:00.910><c> so</c><00:04:01.870><c> in</c><00:04:01.930><c> the</c>
+
+00:04:02.009 --> 00:04:02.019 align:start position:0%
+have cast the dog as follows so in the
+ 
+
+00:04:02.019 --> 00:04:06.080 align:start position:0%
+have cast the dog as follows so in the
+case<00:04:02.200><c> we'll</c><00:04:02.380><c> say</c><00:04:02.500><c> uh</c><00:04:02.620><c> de</c><00:04:02.709><c> dog</c><00:04:03.750><c> and</c><00:04:04.799><c> other</c><00:04:05.799><c> dog</c>
+
+00:04:06.080 --> 00:04:06.090 align:start position:0%
+case we'll say uh de dog and other dog
+ 
+
+00:04:06.090 --> 00:04:08.430 align:start position:0%
+case we'll say uh de dog and other dog
+and<00:04:07.090><c> then</c><00:04:07.239><c> gives</c><00:04:07.420><c> us</c><00:04:07.570><c> a</c><00:04:07.720><c> compare</c><00:04:08.110><c> to</c><00:04:08.260><c> method</c>
+
+00:04:08.430 --> 00:04:08.440 align:start position:0%
+and then gives us a compare to method
+ 
+
+00:04:08.440 --> 00:04:09.479 align:start position:0%
+and then gives us a compare to method
+okay
+
+00:04:09.479 --> 00:04:09.489 align:start position:0%
+okay
+ 
+
+00:04:09.489 --> 00:04:12.539 align:start position:0%
+okay
+now<00:04:10.269><c> finally</c><00:04:10.720><c> we</c><00:04:10.930><c> can</c><00:04:10.959><c> go</c><00:04:11.170><c> to</c><00:04:11.230><c> maximizer</c><00:04:11.830><c> and</c>
+
+00:04:12.539 --> 00:04:12.549 align:start position:0%
+now finally we can go to maximizer and
+ 
+
+00:04:12.549 --> 00:04:13.920 align:start position:0%
+now finally we can go to maximizer and
+we<00:04:12.640><c> can</c><00:04:12.790><c> say</c><00:04:12.970><c> instead</c><00:04:13.209><c> of</c><00:04:13.570><c> an</c><00:04:13.690><c> array</c><00:04:13.810><c> of</c>
+
+00:04:13.920 --> 00:04:13.930 align:start position:0%
+we can say instead of an array of
+ 
+
+00:04:13.930 --> 00:04:17.699 align:start position:0%
+we can say instead of an array of
+objects<00:04:14.470><c> will</c><00:04:15.130><c> have</c><00:04:15.160><c> are</c><00:04:15.519><c> comparable</c><00:04:16.709><c> instead</c>
+
+00:04:17.699 --> 00:04:17.709 align:start position:0%
+objects will have are comparable instead
+ 
+
+00:04:17.709 --> 00:04:19.680 align:start position:0%
+objects will have are comparable instead
+of<00:04:17.799><c> a</c><00:04:17.890><c> returning</c><00:04:18.310><c> an</c><00:04:18.459><c> object</c><00:04:18.880><c> or</c><00:04:19.239><c> a</c><00:04:19.330><c> turn</c><00:04:19.539><c> and</c>
+
+00:04:19.680 --> 00:04:19.690 align:start position:0%
+of a returning an object or a turn and
+ 
+
+00:04:19.690 --> 00:04:22.520 align:start position:0%
+of a returning an object or a turn and
+are<00:04:19.810><c> comparable</c><00:04:20.260><c> oops</c>
+
+00:04:22.520 --> 00:04:22.530 align:start position:0%
+are comparable oops
+ 
+
+00:04:22.530 --> 00:04:26.310 align:start position:0%
+are comparable oops
+okay<00:04:23.580><c> and</c><00:04:24.580><c> instead</c><00:04:25.450><c> of</c><00:04:25.510><c> doing</c><00:04:25.690><c> greater</c><00:04:26.050><c> than</c>
+
+00:04:26.310 --> 00:04:26.320 align:start position:0%
+okay and instead of doing greater than
+ 
+
+00:04:26.320 --> 00:04:28.230 align:start position:0%
+okay and instead of doing greater than
+we'll<00:04:27.040><c> do</c><00:04:27.190><c> that</c><00:04:27.310><c> same</c><00:04:27.550><c> thing</c><00:04:27.610><c> we</c><00:04:27.880><c> did</c><00:04:28.030><c> in</c><00:04:28.150><c> an</c>
+
+00:04:28.230 --> 00:04:28.240 align:start position:0%
+we'll do that same thing we did in an
+ 
+
+00:04:28.240 --> 00:04:30.060 align:start position:0%
+we'll do that same thing we did in an
+earlier<00:04:28.600><c> lecture</c><00:04:28.930><c> when</c><00:04:29.590><c> we</c><00:04:29.620><c> were</c><00:04:29.770><c> comparing</c>
+
+00:04:30.060 --> 00:04:30.070 align:start position:0%
+earlier lecture when we were comparing
+ 
+
+00:04:30.070 --> 00:04:32.040 align:start position:0%
+earlier lecture when we were comparing
+strings<00:04:30.340><c> and</c><00:04:30.730><c> say</c><00:04:31.000><c> let's</c><00:04:31.600><c> set</c><00:04:31.750><c> aside</c><00:04:31.810><c> the</c>
+
+00:04:32.040 --> 00:04:32.050 align:start position:0%
+strings and say let's set aside the
+ 
+
+00:04:32.050 --> 00:04:34.110 align:start position:0%
+strings and say let's set aside the
+result<00:04:32.440><c> of</c><00:04:32.560><c> the</c><00:04:32.680><c> comparison</c><00:04:32.980><c> so</c><00:04:33.760><c> in</c><00:04:33.850><c> this</c><00:04:33.940><c> case</c>
+
+00:04:34.110 --> 00:04:34.120 align:start position:0%
+result of the comparison so in this case
+ 
+
+00:04:34.120 --> 00:04:39.300 align:start position:0%
+result of the comparison so in this case
+items<00:04:34.540><c> i</c><00:04:34.810><c> dot</c><00:04:35.650><c> compare</c><00:04:36.100><c> two</c><00:04:36.340><c> items</c><00:04:36.970><c> max</c><00:04:37.450><c> x</c><00:04:38.310><c> and</c>
+
+00:04:39.300 --> 00:04:39.310 align:start position:0%
+items i dot compare two items max x and
+ 
+
+00:04:39.310 --> 00:04:41.730 align:start position:0%
+items i dot compare two items max x and
+then<00:04:39.520><c> we'll</c><00:04:39.850><c> make</c><00:04:39.940><c> a</c><00:04:40.000><c> decision</c><00:04:40.180><c> based</c><00:04:40.600><c> on</c><00:04:40.840><c> call</c>
+
+00:04:41.730 --> 00:04:41.740 align:start position:0%
+then we'll make a decision based on call
+ 
+
+00:04:41.740 --> 00:04:43.620 align:start position:0%
+then we'll make a decision based on call
+so<00:04:42.010><c> if</c><00:04:42.280><c> comp</c><00:04:42.520><c> is</c><00:04:42.670><c> greater</c><00:04:42.910><c> than</c><00:04:43.090><c> zero</c><00:04:43.360><c> that</c>
+
+00:04:43.620 --> 00:04:43.630 align:start position:0%
+so if comp is greater than zero that
+ 
+
+00:04:43.630 --> 00:04:45.930 align:start position:0%
+so if comp is greater than zero that
+means<00:04:44.320><c> this</c><00:04:44.650><c> item</c><00:04:44.980><c> is</c><00:04:45.130><c> bigger</c><00:04:45.370><c> than</c><00:04:45.640><c> the</c>
+
+00:04:45.930 --> 00:04:45.940 align:start position:0%
+means this item is bigger than the
+ 
+
+00:04:45.940 --> 00:04:48.300 align:start position:0%
+means this item is bigger than the
+currently<00:04:46.210><c> largest</c><00:04:46.660><c> Max</c><00:04:47.590><c> Dex</c><00:04:47.860><c> will</c><00:04:48.010><c> get</c><00:04:48.160><c> say</c>
+
+00:04:48.300 --> 00:04:48.310 align:start position:0%
+currently largest Max Dex will get say
+ 
+
+00:04:48.310 --> 00:04:51.020 align:start position:0%
+currently largest Max Dex will get say
+equal<00:04:48.550><c> to</c><00:04:48.610><c> I</c><00:04:49.020><c> so</c><00:04:50.020><c> now</c><00:04:50.140><c> let's</c><00:04:50.290><c> try</c><00:04:50.440><c> running</c><00:04:50.770><c> this</c>
+
+00:04:51.020 --> 00:04:51.030 align:start position:0%
+equal to I so now let's try running this
+ 
+
+00:04:51.030 --> 00:04:57.900 align:start position:0%
+equal to I so now let's try running this
+see<00:04:52.030><c> what</c><00:04:52.150><c> happens</c><00:04:52.830><c> we</c><00:04:53.830><c> get</c><00:04:56.460><c> our</c><00:04:57.460><c> dummy</c><00:04:57.670><c> CIO's</c>
+
+00:04:57.900 --> 00:04:57.910 align:start position:0%
+see what happens we get our dummy CIO's
+ 
+
+00:04:57.910 --> 00:05:00.120 align:start position:0%
+see what happens we get our dummy CIO's
+says<00:04:58.300><c> Clark</c><00:04:58.660><c> so</c><00:04:59.110><c> we've</c><00:04:59.380><c> grabbed</c><00:04:59.620><c> the</c><00:04:59.740><c> largest</c>
+
+00:05:00.120 --> 00:05:00.130 align:start position:0%
+says Clark so we've grabbed the largest
+ 
+
+00:05:00.130 --> 00:05:01.710 align:start position:0%
+says Clark so we've grabbed the largest
+an<00:05:00.400><c> ideal</c><00:05:00.820><c> world</c><00:05:01.000><c> route</c><00:05:01.240><c> I'd</c><00:05:01.360><c> some</c><00:05:01.510><c> kind</c><00:05:01.690><c> of</c>
+
+00:05:01.710 --> 00:05:01.720 align:start position:0%
+an ideal world route I'd some kind of
+ 
+
+00:05:01.720 --> 00:05:04.140 align:start position:0%
+an ideal world route I'd some kind of
+tests<00:05:02.050><c> but</c><00:05:02.350><c> it's</c><00:05:02.590><c> a</c><00:05:02.680><c> lecture</c><00:05:02.950><c> and</c><00:05:03.850><c> I</c><00:05:03.910><c> want</c><00:05:04.090><c> to</c>
+
+00:05:04.140 --> 00:05:04.150 align:start position:0%
+tests but it's a lecture and I want to
+ 
+
+00:05:04.150 --> 00:05:06.000 align:start position:0%
+tests but it's a lecture and I want to
+change<00:05:04.360><c> one</c><00:05:04.690><c> little</c><00:05:04.960><c> thing</c><00:05:05.110><c> before</c><00:05:05.620><c> we</c><00:05:05.800><c> move</c>
+
+00:05:06.000 --> 00:05:06.010 align:start position:0%
+change one little thing before we move
+ 
+
+00:05:06.010 --> 00:05:07.920 align:start position:0%
+change one little thing before we move
+on<00:05:06.190><c> which</c><00:05:06.820><c> is</c><00:05:06.970><c> to</c><00:05:07.060><c> note</c><00:05:07.210><c> that</c><00:05:07.240><c> this</c><00:05:07.510><c> code</c><00:05:07.750><c> is</c><00:05:07.780><c> a</c>
+
+00:05:07.920 --> 00:05:07.930 align:start position:0%
+on which is to note that this code is a
+ 
+
+00:05:07.930 --> 00:05:10.010 align:start position:0%
+on which is to note that this code is a
+little<00:05:08.260><c> long</c><00:05:08.500><c> and</c><00:05:08.710><c> there's</c><00:05:09.250><c> a</c><00:05:09.310><c> common</c><00:05:09.700><c> trick</c>
+
+00:05:10.010 --> 00:05:10.020 align:start position:0%
+little long and there's a common trick
+ 
+
+00:05:10.020 --> 00:05:13.020 align:start position:0%
+little long and there's a common trick
+that<00:05:11.020><c> will</c><00:05:11.680><c> help</c><00:05:11.920><c> explain</c><00:05:12.130><c> to</c><00:05:12.610><c> you</c><00:05:12.700><c> why</c><00:05:12.970><c> this</c>
+
+00:05:13.020 --> 00:05:13.030 align:start position:0%
+that will help explain to you why this
+ 
+
+00:05:13.030 --> 00:05:15.870 align:start position:0%
+that will help explain to you why this
+strange<00:05:13.600><c> interface</c><00:05:14.050><c> exists</c><00:05:14.620><c> so</c><00:05:15.430><c> instead</c><00:05:15.820><c> of</c>
+
+00:05:15.870 --> 00:05:15.880 align:start position:0%
+strange interface exists so instead of
+ 
+
+00:05:15.880 --> 00:05:18.000 align:start position:0%
+strange interface exists so instead of
+saying<00:05:16.240><c> if</c><00:05:16.480><c> this</c><00:05:16.720><c> dot</c><00:05:16.990><c> size</c><00:05:17.260><c> less</c><00:05:17.530><c> another</c><00:05:17.800><c> dog</c>
+
+00:05:18.000 --> 00:05:18.010 align:start position:0%
+saying if this dot size less another dog
+ 
+
+00:05:18.010 --> 00:05:20.190 align:start position:0%
+saying if this dot size less another dog
+size<00:05:18.460><c> or</c><00:05:18.700><c> turn</c><00:05:18.850><c> minus</c><00:05:19.120><c> one</c><00:05:19.300><c> and</c><00:05:19.450><c> so</c><00:05:19.600><c> forth</c><00:05:19.630><c> we</c>
+
+00:05:20.190 --> 00:05:20.200 align:start position:0%
+size or turn minus one and so forth we
+ 
+
+00:05:20.200 --> 00:05:22.770 align:start position:0%
+size or turn minus one and so forth we
+can<00:05:20.350><c> just</c><00:05:20.530><c> do</c><00:05:20.650><c> return</c><00:05:21.220><c> this</c><00:05:21.580><c> dot</c><00:05:21.790><c> sized</c><00:05:22.060><c> -</c><00:05:22.600><c> uh</c>
+
+00:05:22.770 --> 00:05:22.780 align:start position:0%
+can just do return this dot sized - uh
+ 
+
+00:05:22.780 --> 00:05:27.060 align:start position:0%
+can just do return this dot sized - uh
+de<00:05:22.840><c> dog</c><00:05:23.460><c> dot</c><00:05:24.460><c> size</c><00:05:24.700><c> and</c><00:05:25.620><c> we're</c><00:05:26.620><c> gonna</c><00:05:26.710><c> modify</c>
+
+00:05:27.060 --> 00:05:27.070 align:start position:0%
+de dog dot size and we're gonna modify
+ 
+
+00:05:27.070 --> 00:05:28.590 align:start position:0%
+de dog dot size and we're gonna modify
+our<00:05:27.340><c> our</c><00:05:27.520><c> comparable</c><00:05:28.030><c> interface</c><00:05:28.150><c> a</c><00:05:28.420><c> little</c>
+
+00:05:28.590 --> 00:05:28.600 align:start position:0%
+our our comparable interface a little
+ 
+
+00:05:28.600 --> 00:05:31.620 align:start position:0%
+our our comparable interface a little
+bit<00:05:28.840><c> to</c><00:05:29.020><c> say</c><00:05:29.200><c> returns</c><00:05:29.920><c> negative</c><00:05:30.790><c> number</c><00:05:31.150><c> if</c>
+
+00:05:31.620 --> 00:05:31.630 align:start position:0%
+bit to say returns negative number if
+ 
+
+00:05:31.630 --> 00:05:33.900 align:start position:0%
+bit to say returns negative number if
+this<00:05:32.350><c> is</c><00:05:32.500><c> less</c><00:05:32.680><c> than</c><00:05:32.800><c> zero</c><00:05:33.100><c> turn</c><00:05:33.610><c> zero</c><00:05:33.820><c> if</c>
+
+00:05:33.900 --> 00:05:33.910 align:start position:0%
+this is less than zero turn zero if
+ 
+
+00:05:33.910 --> 00:05:35.790 align:start position:0%
+this is less than zero turn zero if
+they're<00:05:34.090><c> equal</c><00:05:34.240><c> and</c><00:05:34.660><c> returns</c><00:05:35.170><c> a</c><00:05:35.320><c> positive</c>
+
+00:05:35.790 --> 00:05:35.800 align:start position:0%
+they're equal and returns a positive
+ 
+
+00:05:35.800 --> 00:05:38.580 align:start position:0%
+they're equal and returns a positive
+number<00:05:35.920><c> if</c><00:05:36.340><c> this</c><00:05:36.700><c> is</c><00:05:36.880><c> greater</c><00:05:37.150><c> than</c><00:05:37.390><c> hope</c><00:05:37.600><c> so</c>
+
+00:05:38.580 --> 00:05:38.590 align:start position:0%
+number if this is greater than hope so
+ 
+
+00:05:38.590 --> 00:05:41.400 align:start position:0%
+number if this is greater than hope so
+in<00:05:39.010><c> effect</c><00:05:39.430><c> what</c><00:05:40.120><c> we</c><00:05:40.240><c> can</c><00:05:40.390><c> do</c><00:05:40.570><c> from</c><00:05:40.840><c> now</c><00:05:40.900><c> on</c><00:05:41.020><c> is</c>
+
+00:05:41.400 --> 00:05:41.410 align:start position:0%
+in effect what we can do from now on is
+ 
+
+00:05:41.410 --> 00:05:43.470 align:start position:0%
+in effect what we can do from now on is
+just<00:05:42.190><c> return</c><00:05:42.670><c> in</c><00:05:42.880><c> this</c><00:05:43.000><c> case</c><00:05:43.180><c> the</c><00:05:43.330><c> difference</c>
+
+00:05:43.470 --> 00:05:43.480 align:start position:0%
+just return in this case the difference
+ 
+
+00:05:43.480 --> 00:05:45.600 align:start position:0%
+just return in this case the difference
+between<00:05:43.690><c> the</c><00:05:43.900><c> sizes</c><00:05:44.260><c> so</c><00:05:44.680><c> say</c><00:05:44.830><c> my</c><00:05:45.010><c> size</c><00:05:45.250><c> is</c><00:05:45.430><c> two</c>
+
+00:05:45.600 --> 00:05:45.610 align:start position:0%
+between the sizes so say my size is two
+ 
+
+00:05:45.610 --> 00:05:48.000 align:start position:0%
+between the sizes so say my size is two
+and<00:05:45.850><c> utter</c><00:05:46.300><c> dogs</c><00:05:46.540><c> is</c><00:05:46.750><c> five</c><00:05:47.050><c> then</c><00:05:47.680><c> I'll</c><00:05:47.800><c> return</c>
+
+00:05:48.000 --> 00:05:48.010 align:start position:0%
+and utter dogs is five then I'll return
+ 
+
+00:05:48.010 --> 00:05:50.400 align:start position:0%
+and utter dogs is five then I'll return
+minus<00:05:48.550><c> three</c><00:05:48.790><c> meaning</c><00:05:49.300><c> I'm</c><00:05:49.420><c> smaller</c><00:05:49.690><c> so</c><00:05:50.320><c> this</c>
+
+00:05:50.400 --> 00:05:50.410 align:start position:0%
+minus three meaning I'm smaller so this
+ 
+
+00:05:50.410 --> 00:05:53.250 align:start position:0%
+minus three meaning I'm smaller so this
+is<00:05:50.530><c> a</c><00:05:50.560><c> really</c><00:05:50.980><c> common</c><00:05:51.190><c> trick</c><00:05:51.550><c> in</c><00:05:52.390><c> comparisons</c>
+
+00:05:53.250 --> 00:05:53.260 align:start position:0%
+is a really common trick in comparisons
+ 
+
+00:05:53.260 --> 00:05:56.430 align:start position:0%
+is a really common trick in comparisons
+and<00:05:54.010><c> so</c><00:05:54.310><c> we'll</c><00:05:54.940><c> say</c><00:05:55.180><c> here</c><00:05:55.690><c> returns</c><00:05:56.230><c> negative</c>
+
+00:05:56.430 --> 00:05:56.440 align:start position:0%
+and so we'll say here returns negative
+ 
+
+00:05:56.440 --> 00:06:00.180 align:start position:0%
+and so we'll say here returns negative
+number<00:05:56.860><c> okay</c><00:05:57.600><c> just</c><00:05:58.600><c> worth</c><00:05:58.720><c> seeing</c><00:05:59.190><c> let's</c>
+
+00:06:00.180 --> 00:06:00.190 align:start position:0%
+number okay just worth seeing let's
+ 
+
+00:06:00.190 --> 00:06:01.410 align:start position:0%
+number okay just worth seeing let's
+double<00:06:00.400><c> check</c><00:06:00.460><c> make</c><00:06:00.760><c> sure</c><00:06:00.910><c> everything</c><00:06:01.240><c> worked</c>
+
+00:06:01.410 --> 00:06:01.420 align:start position:0%
+double check make sure everything worked
+ 
+
+00:06:01.420 --> 00:06:05.340 align:start position:0%
+double check make sure everything worked
+once<00:06:02.410><c> more</c><00:06:03.660><c> okay</c><00:06:04.660><c> it's</c><00:06:04.900><c> still</c><00:06:05.020><c> working</c>
+
+00:06:05.340 --> 00:06:05.350 align:start position:0%
+once more okay it's still working
+ 
+
+00:06:05.350 --> 00:06:06.640 align:start position:0%
+once more okay it's still working
+good
+
+00:06:06.640 --> 00:06:06.650 align:start position:0%
+good
+ 
+
+00:06:06.650 --> 00:06:09.790 align:start position:0%
+good
+so<00:06:07.220><c> let's</c><00:06:07.639><c> reflect</c><00:06:07.880><c> a</c><00:06:08.060><c> little</c><00:06:08.320><c> we</c><00:06:09.320><c> created</c><00:06:09.710><c> an</c>
+
+00:06:09.790 --> 00:06:09.800 align:start position:0%
+so let's reflect a little we created an
+ 
+
+00:06:09.800 --> 00:06:11.560 align:start position:0%
+so let's reflect a little we created an
+interface<00:06:10.070><c> called</c><00:06:10.400><c> our</c><00:06:10.550><c> comparable</c><00:06:10.970><c> we</c><00:06:11.389><c> made</c>
+
+00:06:11.560 --> 00:06:11.570 align:start position:0%
+interface called our comparable we made
+ 
+
+00:06:11.570 --> 00:06:13.240 align:start position:0%
+interface called our comparable we made
+it<00:06:11.690><c> so</c><00:06:11.810><c> that</c><00:06:11.840><c> dog</c><00:06:12.139><c> actually</c><00:06:12.560><c> implements</c><00:06:13.100><c> our</c>
+
+00:06:13.240 --> 00:06:13.250 align:start position:0%
+it so that dog actually implements our
+ 
+
+00:06:13.250 --> 00:06:15.040 align:start position:0%
+it so that dog actually implements our
+comparable<00:06:13.820><c> and</c><00:06:14.000><c> then</c><00:06:14.270><c> we</c><00:06:14.330><c> changed</c><00:06:14.930><c> our</c>
+
+00:06:15.040 --> 00:06:15.050 align:start position:0%
+comparable and then we changed our
+ 
+
+00:06:15.050 --> 00:06:17.020 align:start position:0%
+comparable and then we changed our
+maximize<00:06:15.500><c> or</c><00:06:15.979><c> our</c><00:06:16.160><c> max</c><00:06:16.400><c> function</c><00:06:16.550><c> to</c><00:06:16.850><c> take</c>
+
+00:06:17.020 --> 00:06:17.030 align:start position:0%
+maximize or our max function to take
+ 
+
+00:06:17.030 --> 00:06:20.140 align:start position:0%
+maximize or our max function to take
+advantage<00:06:17.470><c> so</c><00:06:18.470><c> this</c><00:06:18.650><c> interface</c><00:06:19.010><c> here</c><00:06:19.400><c> our</c>
+
+00:06:20.140 --> 00:06:20.150 align:start position:0%
+advantage so this interface here our
+ 
+
+00:06:20.150 --> 00:06:22.570 align:start position:0%
+advantage so this interface here our
+specification<00:06:20.990><c> right</c><00:06:21.380><c> we</c><00:06:21.740><c> always</c><00:06:21.919><c> when</c><00:06:22.490><c> we</c>
+
+00:06:22.570 --> 00:06:22.580 align:start position:0%
+specification right we always when we
+ 
+
+00:06:22.580 --> 00:06:23.890 align:start position:0%
+specification right we always when we
+think<00:06:22.669><c> about</c><00:06:22.760><c> what</c><00:06:23.000><c> the</c><00:06:23.150><c> actual</c><00:06:23.389><c> interface</c>
+
+00:06:23.890 --> 00:06:23.900 align:start position:0%
+think about what the actual interface
+ 
+
+00:06:23.900 --> 00:06:26.170 align:start position:0%
+think about what the actual interface
+was<00:06:24.169><c> the</c><00:06:24.410><c> thing</c><00:06:24.590><c> that</c><00:06:24.740><c> we're</c><00:06:24.860><c> inheriting</c><00:06:25.250><c> was</c>
+
+00:06:26.170 --> 00:06:26.180 align:start position:0%
+was the thing that we're inheriting was
+ 
+
+00:06:26.180 --> 00:06:28.600 align:start position:0%
+was the thing that we're inheriting was
+that<00:06:26.389><c> it</c><00:06:26.710><c> returns</c><00:06:27.710><c> a</c><00:06:27.860><c> negative</c><00:06:27.979><c> number</c><00:06:28.460><c> if</c>
+
+00:06:28.600 --> 00:06:28.610 align:start position:0%
+that it returns a negative number if
+ 
+
+00:06:28.610 --> 00:06:30.340 align:start position:0%
+that it returns a negative number if
+this<00:06:28.760><c> was</c><00:06:28.940><c> less</c><00:06:29.090><c> an</c><00:06:29.240><c> object</c><00:06:29.600><c> a</c><00:06:29.810><c> positive</c>
+
+00:06:30.340 --> 00:06:30.350 align:start position:0%
+this was less an object a positive
+ 
+
+00:06:30.350 --> 00:06:31.600 align:start position:0%
+this was less an object a positive
+number<00:06:30.440><c> if</c><00:06:30.650><c> this</c><00:06:30.830><c> is</c><00:06:30.979><c> greater</c><00:06:31.100><c> than</c><00:06:31.280><c> the</c><00:06:31.490><c> other</c>
+
+00:06:31.600 --> 00:06:31.610 align:start position:0%
+number if this is greater than the other
+ 
+
+00:06:31.610 --> 00:06:34.300 align:start position:0%
+number if this is greater than the other
+object<00:06:32.090><c> and</c><00:06:32.600><c> zero</c><00:06:32.810><c> if</c><00:06:32.870><c> they're</c><00:06:32.960><c> equal</c><00:06:33.080><c> and</c><00:06:33.979><c> one</c>
+
+00:06:34.300 --> 00:06:34.310 align:start position:0%
+object and zero if they're equal and one
+ 
+
+00:06:34.310 --> 00:06:35.980 align:start position:0%
+object and zero if they're equal and one
+tiny<00:06:34.550><c> little</c><00:06:34.669><c> thing</c><00:06:34.910><c> you</c><00:06:35.389><c> might</c><00:06:35.540><c> have</c><00:06:35.660><c> noticed</c>
+
+00:06:35.980 --> 00:06:35.990 align:start position:0%
+tiny little thing you might have noticed
+ 
+
+00:06:35.990 --> 00:06:38.020 align:start position:0%
+tiny little thing you might have noticed
+I<00:06:36.110><c> don't</c><00:06:36.199><c> know</c><00:06:36.380><c> maybe</c><00:06:36.800><c> you</c><00:06:36.919><c> didn't</c><00:06:37.100><c> is</c><00:06:37.250><c> that</c><00:06:37.910><c> in</c>
+
+00:06:38.020 --> 00:06:38.030 align:start position:0%
+I don't know maybe you didn't is that in
+ 
+
+00:06:38.030 --> 00:06:40.240 align:start position:0%
+I don't know maybe you didn't is that in
+our<00:06:38.150><c> comparable</c><00:06:38.870><c> interface</c><00:06:39.020><c> we</c><00:06:39.710><c> have</c><00:06:39.740><c> here</c>
+
+00:06:40.240 --> 00:06:40.250 align:start position:0%
+our comparable interface we have here
+ 
+
+00:06:40.250 --> 00:06:42.040 align:start position:0%
+our comparable interface we have here
+object<00:06:40.789><c> could</c><00:06:41.510><c> this</c><00:06:41.630><c> have</c><00:06:41.810><c> been</c><00:06:41.840><c> our</c>
+
+00:06:42.040 --> 00:06:42.050 align:start position:0%
+object could this have been our
+ 
+
+00:06:42.050 --> 00:06:44.350 align:start position:0%
+object could this have been our
+comparable<00:06:42.560><c> sure</c><00:06:43.460><c> won't</c><00:06:43.910><c> change</c><00:06:44.120><c> anything</c>
+
+00:06:44.350 --> 00:06:44.360 align:start position:0%
+comparable sure won't change anything
+ 
+
+00:06:44.360 --> 00:06:46.840 align:start position:0%
+comparable sure won't change anything
+about<00:06:44.570><c> how</c><00:06:44.720><c> the</c><00:06:44.840><c> code</c><00:06:45.080><c> functions</c><00:06:45.669><c> would</c><00:06:46.669><c> work</c>
+
+00:06:46.840 --> 00:06:46.850 align:start position:0%
+about how the code functions would work
+ 
+
+00:06:46.850 --> 00:06:48.670 align:start position:0%
+about how the code functions would work
+just<00:06:46.880><c> as</c><00:06:47.180><c> well</c><00:06:47.240><c> so</c><00:06:48.080><c> there's</c><00:06:48.260><c> no</c><00:06:48.380><c> meaningful</c>
+
+00:06:48.670 --> 00:06:48.680 align:start position:0%
+just as well so there's no meaningful
+ 
+
+00:06:48.680 --> 00:06:51.310 align:start position:0%
+just as well so there's no meaningful
+difference<00:06:48.889><c> between</c><00:06:49.400><c> those</c><00:06:49.550><c> two</c><00:06:50.320><c> so</c>
+
+00:06:51.310 --> 00:06:51.320 align:start position:0%
+difference between those two so
+ 
+
+00:06:51.320 --> 00:06:52.750 align:start position:0%
+difference between those two so
+ultimately<00:06:51.590><c> what</c><00:06:52.039><c> our</c><00:06:52.070><c> code</c><00:06:52.310><c> ended</c><00:06:52.610><c> up</c>
+
+00:06:52.750 --> 00:06:52.760 align:start position:0%
+ultimately what our code ended up
+ 
+
+00:06:52.760 --> 00:06:55.420 align:start position:0%
+ultimately what our code ended up
+looking<00:06:52.880><c> like</c><00:06:53.090><c> was</c><00:06:53.539><c> this</c><00:06:53.900><c> and</c><00:06:54.770><c> the</c><00:06:54.860><c> only</c><00:06:55.010><c> last</c>
+
+00:06:55.420 --> 00:06:55.430 align:start position:0%
+looking like was this and the only last
+ 
+
+00:06:55.430 --> 00:06:57.340 align:start position:0%
+looking like was this and the only last
+thing<00:06:55.550><c> to</c><00:06:55.760><c> mention</c><00:06:55.880><c> of</c><00:06:56.120><c> course</c><00:06:56.330><c> is</c><00:06:56.539><c> that</c><00:06:57.110><c> if</c><00:06:57.229><c> we</c>
+
+00:06:57.340 --> 00:06:57.350 align:start position:0%
+thing to mention of course is that if we
+ 
+
+00:06:57.350 --> 00:06:58.990 align:start position:0%
+thing to mention of course is that if we
+tried<00:06:57.560><c> to</c><00:06:57.680><c> actually</c><00:06:57.800><c> compare</c><00:06:58.190><c> a</c><00:06:58.250><c> dog</c><00:06:58.490><c> to</c><00:06:58.699><c> a</c><00:06:58.729><c> cat</c>
+
+00:06:58.990 --> 00:06:59.000 align:start position:0%
+tried to actually compare a dog to a cat
+ 
+
+00:06:59.000 --> 00:07:02.320 align:start position:0%
+tried to actually compare a dog to a cat
+or<00:06:59.210><c> a</c><00:06:59.240><c> horse</c><00:06:59.510><c> it</c><00:06:59.960><c> would</c><00:07:00.110><c> fail</c><00:07:00.410><c> because</c><00:07:01.039><c> well</c><00:07:02.000><c> if</c>
+
+00:07:02.320 --> 00:07:02.330 align:start position:0%
+or a horse it would fail because well if
+ 
+
+00:07:02.330 --> 00:07:04.390 align:start position:0%
+or a horse it would fail because well if
+you<00:07:02.479><c> try</c><00:07:02.630><c> and</c><00:07:02.750><c> cast</c><00:07:02.930><c> it</c><00:07:03.139><c> as</c><00:07:03.260><c> a</c><00:07:03.289><c> dog</c><00:07:03.530><c> then</c><00:07:04.010><c> that's</c>
+
+00:07:04.390 --> 00:07:04.400 align:start position:0%
+you try and cast it as a dog then that's
+ 
+
+00:07:04.400 --> 00:07:06.790 align:start position:0%
+you try and cast it as a dog then that's
+not<00:07:04.520><c> gonna</c><00:07:04.669><c> work</c><00:07:04.820><c> so</c><00:07:05.030><c> well</c><00:07:05.180><c> okay</c><00:07:05.479><c> so</c><00:07:05.870><c> this</c>
+
+00:07:06.790 --> 00:07:06.800 align:start position:0%
+not gonna work so well okay so this
+ 
+
+00:07:06.800 --> 00:07:09.070 align:start position:0%
+not gonna work so well okay so this
+approach<00:07:07.190><c> well</c><00:07:07.580><c> it</c><00:07:07.729><c> does</c><00:07:07.850><c> work</c><00:07:08.030><c> suffers</c><00:07:08.990><c> from</c>
+
+00:07:09.070 --> 00:07:09.080 align:start position:0%
+approach well it does work suffers from
+ 
+
+00:07:09.080 --> 00:07:11.110 align:start position:0%
+approach well it does work suffers from
+the<00:07:09.229><c> danger</c><00:07:09.620><c> that</c><00:07:10.039><c> a</c><00:07:10.280><c> programmer</c><00:07:10.700><c> could</c>
+
+00:07:11.110 --> 00:07:11.120 align:start position:0%
+the danger that a programmer could
+ 
+
+00:07:11.120 --> 00:07:13.740 align:start position:0%
+the danger that a programmer could
+accidentally<00:07:11.630><c> try</c><00:07:12.470><c> and</c><00:07:12.590><c> compute</c><00:07:12.919><c> and</c><00:07:13.190><c> be</c>
+
+00:07:13.740 --> 00:07:13.750 align:start position:0%
+accidentally try and compute and be
+ 
+
+00:07:13.750 --> 00:07:16.810 align:start position:0%
+accidentally try and compute and be
+different<00:07:14.750><c> or</c><00:07:14.870><c> the</c><00:07:15.050><c> try</c><00:07:15.889><c> and</c><00:07:15.919><c> compare</c><00:07:16.340><c> the</c>
+
+00:07:16.810 --> 00:07:16.820 align:start position:0%
+different or the try and compare the
+ 
+
+00:07:16.820 --> 00:07:18.820 align:start position:0%
+different or the try and compare the
+size<00:07:17.060><c> of</c><00:07:17.240><c> two</c><00:07:17.450><c> different</c><00:07:17.810><c> things</c><00:07:18.050><c> that</c>
+
+00:07:18.820 --> 00:07:18.830 align:start position:0%
+size of two different things that
+ 
+
+00:07:18.830 --> 00:07:20.500 align:start position:0%
+size of two different things that
+weren't<00:07:19.039><c> the</c><00:07:19.160><c> same</c><00:07:19.280><c> class</c><00:07:19.610><c> and</c><00:07:19.849><c> that</c><00:07:20.330><c> could</c>
+
+00:07:20.500 --> 00:07:20.510 align:start position:0%
+weren't the same class and that could
+ 
+
+00:07:20.510 --> 00:07:22.629 align:start position:0%
+weren't the same class and that could
+cause<00:07:20.690><c> some</c><00:07:20.720><c> trouble</c><00:07:21.229><c> here</c><00:07:21.380><c> okay</c><00:07:21.740><c> but</c><00:07:22.340><c> we'll</c>
+
+00:07:22.629 --> 00:07:22.639 align:start position:0%
+cause some trouble here okay but we'll
+ 
+
+00:07:22.639 --> 00:07:24.219 align:start position:0%
+cause some trouble here okay but we'll
+see<00:07:22.760><c> how</c><00:07:22.849><c> to</c><00:07:22.910><c> fix</c><00:07:23.060><c> that</c><00:07:23.270><c> in</c><00:07:23.450><c> a</c><00:07:23.539><c> little</c><00:07:23.660><c> bit</c><00:07:23.780><c> okay</c>
+
+00:07:24.219 --> 00:07:24.229 align:start position:0%
+see how to fix that in a little bit okay
+ 
+
+00:07:24.229 --> 00:07:26.020 align:start position:0%
+see how to fix that in a little bit okay
+so<00:07:24.530><c> what</c><00:07:25.310><c> are</c><00:07:25.370><c> the</c><00:07:25.460><c> benefits</c><00:07:25.610><c> of</c><00:07:25.910><c> this</c>
+
+00:07:26.020 --> 00:07:26.030 align:start position:0%
+so what are the benefits of this
+ 
+
+00:07:26.030 --> 00:07:28.060 align:start position:0%
+so what are the benefits of this
+approach<00:07:26.090><c> well</c><00:07:27.050><c> it</c><00:07:27.200><c> means</c><00:07:27.380><c> now</c><00:07:27.620><c> we've</c><00:07:27.889><c> finally</c>
+
+00:07:28.060 --> 00:07:28.070 align:start position:0%
+approach well it means now we've finally
+ 
+
+00:07:28.070 --> 00:07:30.010 align:start position:0%
+approach well it means now we've finally
+achieved<00:07:28.550><c> our</c><00:07:28.700><c> dream</c><00:07:28.940><c> right</c><00:07:29.389><c> if</c><00:07:29.599><c> we</c><00:07:29.720><c> look</c><00:07:29.900><c> at</c>
+
+00:07:30.010 --> 00:07:30.020 align:start position:0%
+achieved our dream right if we look at
+ 
+
+00:07:30.020 --> 00:07:31.960 align:start position:0%
+achieved our dream right if we look at
+our<00:07:30.110><c> code</c><00:07:30.349><c> this</c><00:07:30.830><c> maximizer</c><00:07:31.400><c> function</c><00:07:31.820><c> will</c>
+
+00:07:31.960 --> 00:07:31.970 align:start position:0%
+our code this maximizer function will
+ 
+
+00:07:31.970 --> 00:07:33.400 align:start position:0%
+our code this maximizer function will
+work<00:07:32.090><c> on</c><00:07:32.270><c> anything</c><00:07:32.780><c> that</c><00:07:33.080><c> isn't</c><00:07:33.200><c> our</c>
+
+00:07:33.400 --> 00:07:33.410 align:start position:0%
+work on anything that isn't our
+ 
+
+00:07:33.410 --> 00:07:36.339 align:start position:0%
+work on anything that isn't our
+comparable<00:07:34.010><c> which</c><00:07:34.250><c> is</c><00:07:34.370><c> lovely</c><00:07:34.700><c> so</c><00:07:35.139><c> we</c><00:07:36.139><c> don't</c>
+
+00:07:36.339 --> 00:07:36.349 align:start position:0%
+comparable which is lovely so we don't
+ 
+
+00:07:36.349 --> 00:07:38.260 align:start position:0%
+comparable which is lovely so we don't
+need<00:07:36.470><c> some</c><00:07:36.710><c> kind</c><00:07:36.800><c> of</c><00:07:36.889><c> special</c><00:07:37.010><c> max</c><00:07:38.000><c> function</c>
+
+00:07:38.260 --> 00:07:38.270 align:start position:0%
+need some kind of special max function
+ 
+
+00:07:38.270 --> 00:07:39.969 align:start position:0%
+need some kind of special max function
+and<00:07:38.599><c> dog</c><00:07:38.720><c> all</c><00:07:39.020><c> we</c><00:07:39.139><c> need</c><00:07:39.320><c> is</c><00:07:39.440><c> that</c><00:07:39.560><c> dogs</c><00:07:39.770><c> are</c>
+
+00:07:39.969 --> 00:07:39.979 align:start position:0%
+and dog all we need is that dogs are
+ 
+
+00:07:39.979 --> 00:07:43.150 align:start position:0%
+and dog all we need is that dogs are
+comparable<00:07:40.550><c> and</c><00:07:40.820><c> so</c><00:07:41.510><c> now</c><00:07:41.660><c> our</c><00:07:41.810><c> code</c><00:07:42.050><c> we</c><00:07:42.979><c> could</c>
+
+00:07:43.150 --> 00:07:43.160 align:start position:0%
+comparable and so now our code we could
+ 
+
+00:07:43.160 --> 00:07:45.159 align:start position:0%
+comparable and so now our code we could
+in<00:07:43.310><c> principle</c><00:07:43.820><c> get</c><00:07:44.300><c> have</c><00:07:44.630><c> a</c><00:07:44.660><c> function</c><00:07:45.050><c> that</c>
+
+00:07:45.159 --> 00:07:45.169 align:start position:0%
+in principle get have a function that
+ 
+
+00:07:45.169 --> 00:07:47.260 align:start position:0%
+in principle get have a function that
+gets<00:07:45.289><c> any</c><00:07:45.530><c> kind</c><00:07:46.070><c> of</c><00:07:46.130><c> items</c><00:07:46.460><c> from</c><00:07:46.580><c> a</c><00:07:46.729><c> file</c><00:07:46.940><c> this</c>
+
+00:07:47.260 --> 00:07:47.270 align:start position:0%
+gets any kind of items from a file this
+ 
+
+00:07:47.270 --> 00:07:49.409 align:start position:0%
+gets any kind of items from a file this
+could<00:07:47.449><c> be</c><00:07:47.570><c> a</c><00:07:47.599><c> file</c><00:07:47.870><c> of</c><00:07:48.020><c> horses</c><00:07:48.410><c> cats</c><00:07:48.680><c> dogs</c><00:07:49.010><c> fish</c>
+
+00:07:49.409 --> 00:07:49.419 align:start position:0%
+could be a file of horses cats dogs fish
+ 
+
+00:07:49.419 --> 00:07:52.870 align:start position:0%
+could be a file of horses cats dogs fish
+potatoes<00:07:50.419><c> s</c><00:07:50.960><c> lists</c><00:07:51.349><c> a</c><00:07:51.470><c> list</c><00:07:51.770><c> to</c><00:07:51.979><c> knows</c><00:07:52.160><c> as</c><00:07:52.370><c> long</c>
+
+00:07:52.870 --> 00:07:52.880 align:start position:0%
+potatoes s lists a list to knows as long
+ 
+
+00:07:52.880 --> 00:07:54.219 align:start position:0%
+potatoes s lists a list to knows as long
+as<00:07:53.060><c> those</c><00:07:53.210><c> things</c><00:07:53.419><c> implement</c><00:07:54.020><c> it</c><00:07:54.080><c> are</c>
+
+00:07:54.219 --> 00:07:54.229 align:start position:0%
+as those things implement it are
+ 
+
+00:07:54.229 --> 00:07:56.080 align:start position:0%
+as those things implement it are
+comparable<00:07:54.650><c> and</c><00:07:54.919><c> the</c><00:07:55.220><c> get</c><00:07:55.400><c> items</c><00:07:55.699><c> function</c>
+
+00:07:56.080 --> 00:07:56.090 align:start position:0%
+comparable and the get items function
+ 
+
+00:07:56.090 --> 00:07:57.310 align:start position:0%
+comparable and the get items function
+knows<00:07:56.210><c> how</c><00:07:56.330><c> to</c><00:07:56.389><c> somehow</c><00:07:56.690><c> read</c><00:07:56.870><c> them</c><00:07:57.050><c> from</c><00:07:57.169><c> the</c>
+
+00:07:57.310 --> 00:07:57.320 align:start position:0%
+knows how to somehow read them from the
+ 
+
+00:07:57.320 --> 00:07:59.620 align:start position:0%
+knows how to somehow read them from the
+file<00:07:57.500><c> then</c><00:07:58.130><c> this</c><00:07:58.520><c> maximize</c><00:07:59.090><c> their</c><00:07:59.270><c> classes</c>
+
+00:07:59.620 --> 00:07:59.630 align:start position:0%
+file then this maximize their classes
+ 
+
+00:07:59.630 --> 00:08:01.450 align:start position:0%
+file then this maximize their classes
+max<00:07:59.870><c> function</c><00:08:00.080><c> will</c><00:08:00.680><c> be</c><00:08:00.830><c> able</c><00:08:00.979><c> to</c><00:08:01.220><c> give</c><00:08:01.340><c> the</c>
+
+00:08:01.450 --> 00:08:01.460 align:start position:0%
+max function will be able to give the
+ 
+
+00:08:01.460 --> 00:08:04.570 align:start position:0%
+max function will be able to give the
+largest<00:08:01.849><c> which</c><00:08:02.300><c> is</c><00:08:02.449><c> quite</c><00:08:02.630><c> nice</c><00:08:02.810><c> so</c><00:08:03.580><c> what</c>
+
+00:08:04.570 --> 00:08:04.580 align:start position:0%
+largest which is quite nice so what
+ 
+
+00:08:04.580 --> 00:08:05.770 align:start position:0%
+largest which is quite nice so what
+we'll<00:08:04.699><c> do</c><00:08:04.820><c> next</c><00:08:04.970><c> is</c><00:08:05.240><c> make</c><00:08:05.270><c> sure</c><00:08:05.449><c> all</c><00:08:05.570><c> that</c>
+
+00:08:05.770 --> 00:08:05.780 align:start position:0%
+we'll do next is make sure all that
+ 
+
+00:08:05.780 --> 00:08:07.390 align:start position:0%
+we'll do next is make sure all that
+syntax<00:08:06.080><c> works</c><00:08:06.380><c> but</c><00:08:06.919><c> I'll</c><00:08:07.010><c> move</c><00:08:07.130><c> on</c><00:08:07.250><c> to</c><00:08:07.340><c> the</c>
+
+00:08:07.390 --> 00:08:07.400 align:start position:0%
+syntax works but I'll move on to the
+ 
+
+00:08:07.400 --> 00:08:08.500 align:start position:0%
+syntax works but I'll move on to the
+next<00:08:07.520><c> video</c><00:08:07.849><c> to</c><00:08:08.060><c> make</c><00:08:08.120><c> sure</c><00:08:08.180><c> you</c><00:08:08.300><c> have</c><00:08:08.449><c> a</c>
+
+00:08:08.500 --> 00:08:08.510 align:start position:0%
+next video to make sure you have a
+ 
+
+00:08:08.510 --> 00:08:10.120 align:start position:0%
+next video to make sure you have a
+chance<00:08:08.750><c> to</c><00:08:08.810><c> pause</c><00:08:09.110><c> and</c><00:08:09.169><c> digest</c><00:08:09.710><c> we'll</c><00:08:10.010><c> come</c>
+
+00:08:10.120 --> 00:08:10.130 align:start position:0%
+chance to pause and digest we'll come
+ 
+
+00:08:10.130 --> 00:08:13.360 align:start position:0%
+chance to pause and digest we'll come
+back<00:08:10.250><c> to</c><00:08:10.370><c> this</c><00:08:10.460><c> quiz</c><00:08:10.699><c> in</c><00:08:10.910><c> the</c><00:08:11.000><c> next</c><00:08:11.180><c> video</c>
+

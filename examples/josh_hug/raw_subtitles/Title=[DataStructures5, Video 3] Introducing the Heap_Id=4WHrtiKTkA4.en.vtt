@@ -1,0 +1,1304 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:03.200 align:start position:0%
+ 
+the<00:00:00.960><c> heap</c><00:00:01.170><c> while</c><00:00:01.650><c> it's</c><00:00:01.800><c> not</c><00:00:01.979><c> as</c><00:00:02.220><c> famous</c><00:00:02.760><c> or</c><00:00:03.060><c> as</c>
+
+00:00:03.200 --> 00:00:03.210 align:start position:0%
+the heap while it's not as famous or as
+ 
+
+00:00:03.210 --> 00:00:05.090 align:start position:0%
+the heap while it's not as famous or as
+versatile<00:00:03.659><c> as</c><00:00:03.870><c> its</c><00:00:04.080><c> cousin</c><00:00:04.650><c> the</c><00:00:04.770><c> binary</c>
+
+00:00:05.090 --> 00:00:05.100 align:start position:0%
+versatile as its cousin the binary
+ 
+
+00:00:05.100 --> 00:00:07.160 align:start position:0%
+versatile as its cousin the binary
+search<00:00:05.279><c> tree</c><00:00:05.609><c> it</c><00:00:06.060><c> is</c><00:00:06.240><c> still</c><00:00:06.480><c> extremely</c><00:00:06.720><c> famous</c>
+
+00:00:07.160 --> 00:00:07.170 align:start position:0%
+search tree it is still extremely famous
+ 
+
+00:00:07.170 --> 00:00:09.799 align:start position:0%
+search tree it is still extremely famous
+and<00:00:07.710><c> is</c><00:00:08.250><c> well</c><00:00:08.400><c> known</c><00:00:08.429><c> particularly</c><00:00:09.059><c> for</c><00:00:09.599><c> the</c>
+
+00:00:09.799 --> 00:00:09.809 align:start position:0%
+and is well known particularly for the
+ 
+
+00:00:09.809 --> 00:00:11.180 align:start position:0%
+and is well known particularly for the
+application<00:00:10.410><c> we're</c><00:00:10.500><c> gonna</c><00:00:10.650><c> do</c><00:00:10.800><c> in</c><00:00:11.040><c> this</c>
+
+00:00:11.180 --> 00:00:11.190 align:start position:0%
+application we're gonna do in this
+ 
+
+00:00:11.190 --> 00:00:12.580 align:start position:0%
+application we're gonna do in this
+lecture<00:00:11.370><c> which</c><00:00:11.700><c> is</c><00:00:11.730><c> the</c><00:00:11.880><c> priority</c><00:00:12.210><c> queue</c>
+
+00:00:12.580 --> 00:00:12.590 align:start position:0%
+lecture which is the priority queue
+ 
+
+00:00:12.590 --> 00:00:15.079 align:start position:0%
+lecture which is the priority queue
+heaps<00:00:13.590><c> by</c><00:00:13.799><c> the</c><00:00:13.860><c> way</c><00:00:14.040><c> are</c><00:00:14.160><c> not</c><00:00:14.429><c> at</c><00:00:14.670><c> all</c><00:00:14.880><c> related</c>
+
+00:00:15.079 --> 00:00:15.089 align:start position:0%
+heaps by the way are not at all related
+ 
+
+00:00:15.089 --> 00:00:16.430 align:start position:0%
+heaps by the way are not at all related
+to<00:00:15.360><c> something</c><00:00:15.690><c> you</c><00:00:15.900><c> might</c><00:00:15.990><c> hear</c><00:00:16.230><c> sometimes</c>
+
+00:00:16.430 --> 00:00:16.440 align:start position:0%
+to something you might hear sometimes
+ 
+
+00:00:16.440 --> 00:00:18.980 align:start position:0%
+to something you might hear sometimes
+called<00:00:16.890><c> the</c><00:00:17.310><c> heap</c><00:00:17.520><c> on</c><00:00:17.760><c> your</c><00:00:18.119><c> computer</c><00:00:18.570><c> that's</c>
+
+00:00:18.980 --> 00:00:18.990 align:start position:0%
+called the heap on your computer that's
+ 
+
+00:00:18.990 --> 00:00:20.720 align:start position:0%
+called the heap on your computer that's
+something<00:00:19.260><c> you</c><00:00:19.320><c> learn</c><00:00:19.380><c> in</c><00:00:19.830><c> some</c><00:00:20.250><c> other</c><00:00:20.430><c> course</c>
+
+00:00:20.720 --> 00:00:20.730 align:start position:0%
+something you learn in some other course
+ 
+
+00:00:20.730 --> 00:00:24.220 align:start position:0%
+something you learn in some other course
+say<00:00:21.210><c> 61c</c><00:00:21.930><c> at</c><00:00:22.020><c> berkeley</c><00:00:22.350><c> and</c><00:00:23.220><c> it</c><00:00:23.609><c> is</c><00:00:23.760><c> just</c>
+
+00:00:24.220 --> 00:00:24.230 align:start position:0%
+say 61c at berkeley and it is just
+ 
+
+00:00:24.230 --> 00:00:26.240 align:start position:0%
+say 61c at berkeley and it is just
+unfortunate<00:00:25.230><c> that</c><00:00:25.529><c> it</c><00:00:25.710><c> happens</c><00:00:25.980><c> to</c><00:00:26.070><c> share</c>
+
+00:00:26.240 --> 00:00:26.250 align:start position:0%
+unfortunate that it happens to share
+ 
+
+00:00:26.250 --> 00:00:29.179 align:start position:0%
+unfortunate that it happens to share
+names<00:00:26.490><c> but</c><00:00:26.760><c> completely</c><00:00:27.180><c> unrelated</c><00:00:27.830><c> so</c><00:00:28.830><c> unlike</c>
+
+00:00:29.179 --> 00:00:29.189 align:start position:0%
+names but completely unrelated so unlike
+ 
+
+00:00:29.189 --> 00:00:30.679 align:start position:0%
+names but completely unrelated so unlike
+other<00:00:29.310><c> data</c><00:00:29.609><c> structures</c><00:00:30.029><c> I'm</c><00:00:30.240><c> actually</c><00:00:30.480><c> just</c>
+
+00:00:30.679 --> 00:00:30.689 align:start position:0%
+other data structures I'm actually just
+ 
+
+00:00:30.689 --> 00:00:32.330 align:start position:0%
+other data structures I'm actually just
+gonna<00:00:30.810><c> give</c><00:00:31.199><c> the</c><00:00:31.410><c> structure</c><00:00:31.859><c> of</c><00:00:32.009><c> this</c><00:00:32.160><c> one</c>
+
+00:00:32.330 --> 00:00:32.340 align:start position:0%
+gonna give the structure of this one
+ 
+
+00:00:32.340 --> 00:00:32.569 align:start position:0%
+gonna give the structure of this one
+away
+
+00:00:32.569 --> 00:00:32.579 align:start position:0%
+away
+ 
+
+00:00:32.579 --> 00:00:34.310 align:start position:0%
+away
+instead<00:00:33.090><c> I</c><00:00:33.120><c> haven't</c><00:00:33.480><c> you</c><00:00:33.570><c> interactively</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+instead I haven't you interactively
+ 
+
+00:00:34.320 --> 00:00:36.170 align:start position:0%
+instead I haven't you interactively
+develop<00:00:34.829><c> it</c><00:00:34.920><c> with</c><00:00:35.100><c> me</c><00:00:35.250><c> and</c><00:00:35.640><c> I</c><00:00:35.790><c> think</c><00:00:35.969><c> it's</c><00:00:36.059><c> just</c>
+
+00:00:36.170 --> 00:00:36.180 align:start position:0%
+develop it with me and I think it's just
+ 
+
+00:00:36.180 --> 00:00:37.340 align:start position:0%
+develop it with me and I think it's just
+cuz<00:00:36.329><c> I</c><00:00:36.390><c> haven't</c><00:00:36.540><c> figured</c><00:00:36.750><c> out</c><00:00:36.899><c> a</c><00:00:36.960><c> way</c><00:00:37.110><c> to</c><00:00:37.170><c> make</c>
+
+00:00:37.340 --> 00:00:37.350 align:start position:0%
+cuz I haven't figured out a way to make
+ 
+
+00:00:37.350 --> 00:00:38.660 align:start position:0%
+cuz I haven't figured out a way to make
+it<00:00:37.469><c> interesting</c><00:00:37.770><c> and</c><00:00:38.100><c> I'm</c><00:00:38.340><c> not</c><00:00:38.489><c> sure</c><00:00:38.640><c> that</c>
+
+00:00:38.660 --> 00:00:38.670 align:start position:0%
+it interesting and I'm not sure that
+ 
+
+00:00:38.670 --> 00:00:40.910 align:start position:0%
+it interesting and I'm not sure that
+it's<00:00:38.969><c> possible</c><00:00:39.390><c> instead</c><00:00:40.200><c> I'm</c><00:00:40.590><c> gonna</c><00:00:40.739><c> give</c>
+
+00:00:40.910 --> 00:00:40.920 align:start position:0%
+it's possible instead I'm gonna give
+ 
+
+00:00:40.920 --> 00:00:42.470 align:start position:0%
+it's possible instead I'm gonna give
+away<00:00:40.950><c> the</c><00:00:41.280><c> structure</c><00:00:41.670><c> and</c><00:00:41.879><c> I'll</c><00:00:42.059><c> let</c><00:00:42.210><c> you</c><00:00:42.300><c> come</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+away the structure and I'll let you come
+ 
+
+00:00:42.480 --> 00:00:44.240 align:start position:0%
+away the structure and I'll let you come
+up<00:00:42.629><c> with</c><00:00:42.660><c> the</c><00:00:42.870><c> way</c><00:00:42.960><c> to</c><00:00:43.020><c> do</c><00:00:43.170><c> the</c><00:00:43.290><c> operations</c><00:00:43.800><c> ok</c>
+
+00:00:44.240 --> 00:00:44.250 align:start position:0%
+up with the way to do the operations ok
+ 
+
+00:00:44.250 --> 00:00:48.590 align:start position:0%
+up with the way to do the operations ok
+so<00:00:45.210><c> the</c><00:00:45.629><c> idea</c><00:00:46.050><c> with</c><00:00:46.410><c> a</c><00:00:46.649><c> heap</c><00:00:46.920><c> is</c><00:00:47.640><c> what</c><00:00:48.329><c> is</c><00:00:48.450><c> it</c>
+
+00:00:48.590 --> 00:00:48.600 align:start position:0%
+so the idea with a heap is what is it
+ 
+
+00:00:48.600 --> 00:00:50.119 align:start position:0%
+so the idea with a heap is what is it
+okay<00:00:48.840><c> we're</c><00:00:48.989><c> gonna</c><00:00:49.079><c> define</c><00:00:49.440><c> a</c><00:00:49.500><c> binary</c><00:00:49.800><c> min</c>
+
+00:00:50.119 --> 00:00:50.129 align:start position:0%
+okay we're gonna define a binary min
+ 
+
+00:00:50.129 --> 00:00:53.299 align:start position:0%
+okay we're gonna define a binary min
+heap<00:00:50.340><c> as</c><00:00:50.879><c> a</c><00:00:51.090><c> binary</c><00:00:51.329><c> tree</c><00:00:51.770><c> that</c><00:00:52.770><c> is</c><00:00:52.890><c> complete</c>
+
+00:00:53.299 --> 00:00:53.309 align:start position:0%
+heap as a binary tree that is complete
+ 
+
+00:00:53.309 --> 00:00:56.119 align:start position:0%
+heap as a binary tree that is complete
+and<00:00:53.610><c> it</c><00:00:54.090><c> obeys</c><00:00:54.390><c> the</c><00:00:54.629><c> min</c><00:00:54.809><c> heap</c><00:00:54.989><c> property</c><00:00:55.320><c> so</c>
+
+00:00:56.119 --> 00:00:56.129 align:start position:0%
+and it obeys the min heap property so
+ 
+
+00:00:56.129 --> 00:00:58.189 align:start position:0%
+and it obeys the min heap property so
+what<00:00:56.250><c> are</c><00:00:56.309><c> these</c><00:00:56.370><c> two</c><00:00:56.430><c> terms</c><00:00:56.820><c> mean</c><00:00:57.090><c> well</c><00:00:57.989><c> the</c>
+
+00:00:58.189 --> 00:00:58.199 align:start position:0%
+what are these two terms mean well the
+ 
+
+00:00:58.199 --> 00:01:00.110 align:start position:0%
+what are these two terms mean well the
+mid<00:00:58.379><c> heap</c><00:00:58.620><c> property</c><00:00:58.829><c> means</c><00:00:59.340><c> that</c><00:00:59.579><c> every</c><00:00:59.910><c> node</c>
+
+00:01:00.110 --> 00:01:00.120 align:start position:0%
+mid heap property means that every node
+ 
+
+00:01:00.120 --> 00:01:01.910 align:start position:0%
+mid heap property means that every node
+is<00:01:00.329><c> less</c><00:01:00.809><c> than</c><00:01:00.960><c> or</c><00:01:01.079><c> equal</c><00:01:01.320><c> to</c><00:01:01.469><c> both</c><00:01:01.620><c> of</c><00:01:01.800><c> its</c>
+
+00:01:01.910 --> 00:01:01.920 align:start position:0%
+is less than or equal to both of its
+ 
+
+00:01:01.920 --> 00:01:04.520 align:start position:0%
+is less than or equal to both of its
+children<00:01:02.160><c> that's</c><00:01:02.520><c> a</c><00:01:02.670><c> simple</c><00:01:02.910><c> idea</c><00:01:03.320><c> the</c><00:01:04.320><c> other</c>
+
+00:01:04.520 --> 00:01:04.530 align:start position:0%
+children that's a simple idea the other
+ 
+
+00:01:04.530 --> 00:01:06.020 align:start position:0%
+children that's a simple idea the other
+idea<00:01:04.860><c> is</c><00:01:04.890><c> a</c><00:01:04.949><c> little</c><00:01:05.189><c> more</c><00:01:05.280><c> complicated</c><00:01:05.909><c> it's</c>
+
+00:01:06.020 --> 00:01:06.030 align:start position:0%
+idea is a little more complicated it's
+ 
+
+00:01:06.030 --> 00:01:07.850 align:start position:0%
+idea is a little more complicated it's
+known<00:01:06.150><c> as</c><00:01:06.270><c> completeness</c><00:01:06.720><c> and</c><00:01:07.110><c> we'll</c><00:01:07.560><c> say</c><00:01:07.680><c> that</c>
+
+00:01:07.850 --> 00:01:07.860 align:start position:0%
+known as completeness and we'll say that
+ 
+
+00:01:07.860 --> 00:01:09.920 align:start position:0%
+known as completeness and we'll say that
+a<00:01:07.890><c> tree</c><00:01:08.189><c> is</c><00:01:08.310><c> complete</c><00:01:08.700><c> if</c><00:01:08.909><c> it's</c><00:01:09.210><c> missing</c><00:01:09.450><c> items</c>
+
+00:01:09.920 --> 00:01:09.930 align:start position:0%
+a tree is complete if it's missing items
+ 
+
+00:01:09.930 --> 00:01:12.530 align:start position:0%
+a tree is complete if it's missing items
+only<00:01:10.290><c> at</c><00:01:10.650><c> the</c><00:01:10.799><c> bottom</c><00:01:11.040><c> level</c><00:01:11.220><c> if</c><00:01:11.549><c> anything</c><00:01:12.420><c> is</c>
+
+00:01:12.530 --> 00:01:12.540 align:start position:0%
+only at the bottom level if anything is
+ 
+
+00:01:12.540 --> 00:01:14.690 align:start position:0%
+only at the bottom level if anything is
+missing<00:01:12.659><c> at</c><00:01:12.930><c> all</c><00:01:13.020><c> and</c><00:01:13.320><c> all</c><00:01:13.860><c> nodes</c><00:01:14.130><c> are</c><00:01:14.340><c> as</c><00:01:14.460><c> far</c>
+
+00:01:14.690 --> 00:01:14.700 align:start position:0%
+missing at all and all nodes are as far
+ 
+
+00:01:14.700 --> 00:01:17.870 align:start position:0%
+missing at all and all nodes are as far
+left<00:01:14.729><c> as</c><00:01:15.180><c> possible</c><00:01:16.310><c> now</c><00:01:17.310><c> this</c><00:01:17.490><c> isn't</c><00:01:17.670><c> exactly</c>
+
+00:01:17.870 --> 00:01:17.880 align:start position:0%
+left as possible now this isn't exactly
+ 
+
+00:01:17.880 --> 00:01:19.940 align:start position:0%
+left as possible now this isn't exactly
+a<00:01:18.210><c> mathematical</c><00:01:18.810><c> definition</c><00:01:18.930><c> but</c><00:01:19.680><c> what</c><00:01:19.830><c> it's</c>
+
+00:01:19.940 --> 00:01:19.950 align:start position:0%
+a mathematical definition but what it's
+ 
+
+00:01:19.950 --> 00:01:21.469 align:start position:0%
+a mathematical definition but what it's
+trying<00:01:20.130><c> to</c><00:01:20.280><c> do</c><00:01:20.400><c> is</c><00:01:20.520><c> capture</c><00:01:20.729><c> the</c><00:01:21.030><c> notion</c><00:01:21.390><c> of</c>
+
+00:01:21.469 --> 00:01:21.479 align:start position:0%
+trying to do is capture the notion of
+ 
+
+00:01:21.479 --> 00:01:23.060 align:start position:0%
+trying to do is capture the notion of
+bushiness<00:01:21.869><c> and</c><00:01:22.200><c> so</c><00:01:22.590><c> I'll</c><00:01:22.680><c> give</c><00:01:22.830><c> you</c><00:01:22.920><c> a</c><00:01:22.950><c> few</c>
+
+00:01:23.060 --> 00:01:23.070 align:start position:0%
+bushiness and so I'll give you a few
+ 
+
+00:01:23.070 --> 00:01:24.380 align:start position:0%
+bushiness and so I'll give you a few
+examples<00:01:23.520><c> at</c><00:01:23.640><c> the</c><00:01:23.729><c> bottom</c><00:01:24.000><c> of</c><00:01:24.119><c> the</c><00:01:24.180><c> page</c>
+
+00:01:24.380 --> 00:01:24.390 align:start position:0%
+examples at the bottom of the page
+ 
+
+00:01:24.390 --> 00:01:26.210 align:start position:0%
+examples at the bottom of the page
+because<00:01:24.990><c> rather</c><00:01:25.290><c> than</c><00:01:25.439><c> write</c><00:01:25.740><c> out</c><00:01:25.860><c> some</c><00:01:26.040><c> kind</c>
+
+00:01:26.210 --> 00:01:26.220 align:start position:0%
+because rather than write out some kind
+ 
+
+00:01:26.220 --> 00:01:27.859 align:start position:0%
+because rather than write out some kind
+of<00:01:26.280><c> long</c><00:01:26.610><c> symbolic</c><00:01:27.240><c> definition</c><00:01:27.750><c> of</c>
+
+00:01:27.859 --> 00:01:27.869 align:start position:0%
+of long symbolic definition of
+ 
+
+00:01:27.869 --> 00:01:29.510 align:start position:0%
+of long symbolic definition of
+completeness<00:01:28.170><c> I</c><00:01:28.500><c> think</c><00:01:28.829><c> the</c><00:01:28.890><c> idea</c><00:01:29.189><c> here</c><00:01:29.430><c> is</c>
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+completeness I think the idea here is
+ 
+
+00:01:29.520 --> 00:01:32.240 align:start position:0%
+completeness I think the idea here is
+very<00:01:29.579><c> intuitive</c><00:01:30.030><c> from</c><00:01:30.540><c> examples</c><00:01:31.020><c> so</c><00:01:31.890><c> here</c><00:01:32.130><c> we</c>
+
+00:01:32.240 --> 00:01:32.250 align:start position:0%
+very intuitive from examples so here we
+ 
+
+00:01:32.250 --> 00:01:35.480 align:start position:0%
+very intuitive from examples so here we
+have<00:01:32.430><c> a</c><00:01:33.200><c> tree</c><00:01:34.200><c> that</c><00:01:34.439><c> is</c><00:01:34.650><c> a</c><00:01:34.770><c> binary</c><00:01:34.979><c> min</c><00:01:35.310><c> heap</c>
+
+00:01:35.480 --> 00:01:35.490 align:start position:0%
+have a tree that is a binary min heap
+ 
+
+00:01:35.490 --> 00:01:37.310 align:start position:0%
+have a tree that is a binary min heap
+and<00:01:35.759><c> every</c><00:01:36.360><c> node</c><00:01:36.540><c> is</c><00:01:36.720><c> less</c><00:01:36.869><c> than</c><00:01:36.990><c> or</c><00:01:37.079><c> equal</c><00:01:37.259><c> to</c>
+
+00:01:37.310 --> 00:01:37.320 align:start position:0%
+and every node is less than or equal to
+ 
+
+00:01:37.320 --> 00:01:38.569 align:start position:0%
+and every node is less than or equal to
+both<00:01:37.439><c> of</c><00:01:37.560><c> its</c><00:01:37.680><c> children</c><00:01:37.740><c> and</c><00:01:38.340><c> we're</c><00:01:38.520><c> not</c>
+
+00:01:38.569 --> 00:01:38.579 align:start position:0%
+both of its children and we're not
+ 
+
+00:01:38.579 --> 00:01:40.850 align:start position:0%
+both of its children and we're not
+missing<00:01:39.000><c> any</c><00:01:39.299><c> items</c><00:01:39.780><c> at</c><00:01:39.900><c> all</c><00:01:40.020><c> it's</c><00:01:40.350><c> really</c>
+
+00:01:40.850 --> 00:01:40.860 align:start position:0%
+missing any items at all it's really
+ 
+
+00:01:40.860 --> 00:01:43.550 align:start position:0%
+missing any items at all it's really
+bushy<00:01:41.720><c> here's</c><00:01:42.720><c> a</c><00:01:42.810><c> tree</c><00:01:43.020><c> that's</c><00:01:43.229><c> great</c>
+
+00:01:43.550 --> 00:01:43.560 align:start position:0%
+bushy here's a tree that's great
+ 
+
+00:01:43.560 --> 00:01:45.530 align:start position:0%
+bushy here's a tree that's great
+wonderfully<00:01:44.250><c> bushy</c><00:01:44.460><c> nothing's</c><00:01:45.000><c> missing</c><00:01:45.149><c> look</c>
+
+00:01:45.530 --> 00:01:45.540 align:start position:0%
+wonderfully bushy nothing's missing look
+ 
+
+00:01:45.540 --> 00:01:47.179 align:start position:0%
+wonderfully bushy nothing's missing look
+right<00:01:45.840><c> there's</c><00:01:46.020><c> no</c><00:01:46.110><c> gaps</c><00:01:46.350><c> if</c><00:01:46.710><c> you</c><00:01:46.860><c> are</c><00:01:46.979><c> a</c><00:01:47.009><c> bird</c>
+
+00:01:47.179 --> 00:01:47.189 align:start position:0%
+right there's no gaps if you are a bird
+ 
+
+00:01:47.189 --> 00:01:48.980 align:start position:0%
+right there's no gaps if you are a bird
+you<00:01:47.460><c> can</c><00:01:47.610><c> safely</c><00:01:47.939><c> land</c><00:01:48.240><c> anywhere</c><00:01:48.659><c> and</c><00:01:48.840><c> feel</c>
+
+00:01:48.980 --> 00:01:48.990 align:start position:0%
+you can safely land anywhere and feel
+ 
+
+00:01:48.990 --> 00:01:52.370 align:start position:0%
+you can safely land anywhere and feel
+great<00:01:50.090><c> and</c><00:01:51.090><c> every</c><00:01:51.360><c> item</c><00:01:51.509><c> will</c><00:01:51.869><c> note</c><00:01:52.020><c> is</c><00:01:52.200><c> less</c>
+
+00:01:52.370 --> 00:01:52.380 align:start position:0%
+great and every item will note is less
+ 
+
+00:01:52.380 --> 00:01:54.100 align:start position:0%
+great and every item will note is less
+than<00:01:52.470><c> or</c><00:01:52.590><c> equal</c><00:01:52.770><c> to</c><00:01:52.890><c> both</c><00:01:53.159><c> of</c><00:01:53.310><c> its</c><00:01:53.430><c> children</c>
+
+00:01:54.100 --> 00:01:54.110 align:start position:0%
+than or equal to both of its children
+ 
+
+00:01:54.110 --> 00:01:56.480 align:start position:0%
+than or equal to both of its children
+here<00:01:55.110><c> is</c><00:01:55.200><c> a</c><00:01:55.229><c> tree</c><00:01:55.500><c> which</c><00:01:55.710><c> is</c><00:01:55.860><c> actually</c><00:01:56.159><c> also</c><00:01:56.340><c> a</c>
+
+00:01:56.480 --> 00:01:56.490 align:start position:0%
+here is a tree which is actually also a
+ 
+
+00:01:56.490 --> 00:01:59.420 align:start position:0%
+here is a tree which is actually also a
+binary<00:01:56.729><c> many</c><00:01:57.090><c> now</c><00:01:57.899><c> it's</c><00:01:58.049><c> not</c><00:01:58.259><c> as</c><00:01:58.469><c> wondrous</c><00:01:59.100><c> as</c>
+
+00:01:59.420 --> 00:01:59.430 align:start position:0%
+binary many now it's not as wondrous as
+ 
+
+00:01:59.430 --> 00:02:01.789 align:start position:0%
+binary many now it's not as wondrous as
+this<00:01:59.640><c> one</c><00:01:59.850><c> in</c><00:01:59.969><c> terms</c><00:02:00.119><c> of</c><00:02:00.329><c> its</c><00:02:00.509><c> you</c><00:02:00.689><c> know</c><00:02:00.799><c> you</c>
+
+00:02:01.789 --> 00:02:01.799 align:start position:0%
+this one in terms of its you know you
+ 
+
+00:02:01.799 --> 00:02:03.109 align:start position:0%
+this one in terms of its you know you
+might<00:02:01.950><c> think</c><00:02:02.159><c> of</c><00:02:02.189><c> this</c><00:02:02.310><c> as</c><00:02:02.369><c> not</c><00:02:02.610><c> quite</c><00:02:02.909><c> as</c>
+
+00:02:03.109 --> 00:02:03.119 align:start position:0%
+might think of this as not quite as
+ 
+
+00:02:03.119 --> 00:02:05.539 align:start position:0%
+might think of this as not quite as
+bushy<00:02:03.360><c> but</c><00:02:04.020><c> I</c><00:02:04.259><c> mean</c><00:02:04.409><c> you</c><00:02:04.619><c> know</c><00:02:04.740><c> if</c><00:02:05.130><c> you</c><00:02:05.250><c> had</c><00:02:05.399><c> to</c>
+
+00:02:05.539 --> 00:02:05.549 align:start position:0%
+bushy but I mean you know if you had to
+ 
+
+00:02:05.549 --> 00:02:07.370 align:start position:0%
+bushy but I mean you know if you had to
+draw<00:02:05.729><c> a</c><00:02:05.759><c> tree</c><00:02:06.119><c> there</c><00:02:06.750><c> was</c><00:02:06.840><c> this</c><00:02:06.930><c> bushy</c><00:02:07.200><c> as</c>
+
+00:02:07.370 --> 00:02:07.380 align:start position:0%
+draw a tree there was this bushy as
+ 
+
+00:02:07.380 --> 00:02:09.290 align:start position:0%
+draw a tree there was this bushy as
+possible<00:02:07.799><c> that</c><00:02:07.979><c> only</c><00:02:08.160><c> had</c><00:02:08.280><c> six</c><00:02:08.520><c> elements</c><00:02:08.849><c> this</c>
+
+00:02:09.290 --> 00:02:09.300 align:start position:0%
+possible that only had six elements this
+ 
+
+00:02:09.300 --> 00:02:10.940 align:start position:0%
+possible that only had six elements this
+is<00:02:09.420><c> what</c><00:02:09.569><c> it</c><00:02:09.660><c> would</c><00:02:09.720><c> look</c><00:02:09.780><c> like</c><00:02:09.899><c> in</c><00:02:10.259><c> that</c><00:02:10.709><c> sense</c>
+
+00:02:10.940 --> 00:02:10.950 align:start position:0%
+is what it would look like in that sense
+ 
+
+00:02:10.950 --> 00:02:12.809 align:start position:0%
+is what it would look like in that sense
+it's<00:02:11.160><c> complete</c>
+
+00:02:12.809 --> 00:02:12.819 align:start position:0%
+it's complete
+ 
+
+00:02:12.819 --> 00:02:14.940 align:start position:0%
+it's complete
+here<00:02:13.450><c> is</c><00:02:13.540><c> a</c><00:02:13.569><c> tree</c><00:02:13.810><c> which</c><00:02:13.959><c> is</c><00:02:13.989><c> incomplete</c><00:02:14.680><c> and</c>
+
+00:02:14.940 --> 00:02:14.950 align:start position:0%
+here is a tree which is incomplete and
+ 
+
+00:02:14.950 --> 00:02:16.649 align:start position:0%
+here is a tree which is incomplete and
+the<00:02:15.280><c> reason</c><00:02:15.549><c> it's</c><00:02:15.670><c> incomplete</c><00:02:16.120><c> is</c><00:02:16.299><c> there</c><00:02:16.569><c> is</c>
+
+00:02:16.649 --> 00:02:16.659 align:start position:0%
+the reason it's incomplete is there is
+ 
+
+00:02:16.659 --> 00:02:18.899 align:start position:0%
+the reason it's incomplete is there is
+something<00:02:17.019><c> missing</c><00:02:17.349><c> and</c><00:02:17.439><c> it's</c><00:02:18.159><c> at</c><00:02:18.549><c> the</c><00:02:18.819><c> bottom</c>
+
+00:02:18.899 --> 00:02:18.909 align:start position:0%
+something missing and it's at the bottom
+ 
+
+00:02:18.909 --> 00:02:21.569 align:start position:0%
+something missing and it's at the bottom
+level<00:02:19.209><c> which</c><00:02:19.569><c> is</c><00:02:19.689><c> okay</c><00:02:19.959><c> but</c><00:02:20.500><c> not</c><00:02:21.129><c> all</c><00:02:21.340><c> nodes</c>
+
+00:02:21.569 --> 00:02:21.579 align:start position:0%
+level which is okay but not all nodes
+ 
+
+00:02:21.579 --> 00:02:23.039 align:start position:0%
+level which is okay but not all nodes
+are<00:02:21.760><c> as</c><00:02:21.849><c> far</c><00:02:22.060><c> left</c><00:02:22.090><c> as</c><00:02:22.420><c> possible</c>
+
+00:02:23.039 --> 00:02:23.049 align:start position:0%
+are as far left as possible
+ 
+
+00:02:23.049 --> 00:02:24.929 align:start position:0%
+are as far left as possible
+so<00:02:23.739><c> those</c><00:02:23.859><c> are</c><00:02:23.950><c> kind</c><00:02:24.099><c> of</c><00:02:24.129><c> like</c><00:02:24.280><c> a</c><00:02:24.310><c> hole</c><00:02:24.579><c> in</c><00:02:24.609><c> the</c>
+
+00:02:24.929 --> 00:02:24.939 align:start position:0%
+so those are kind of like a hole in the
+ 
+
+00:02:24.939 --> 00:02:27.420 align:start position:0%
+so those are kind of like a hole in the
+middle<00:02:25.060><c> whereas</c><00:02:26.019><c> this</c><00:02:26.140><c> one</c><00:02:26.349><c> its</c><00:02:26.650><c> compact</c><00:02:27.189><c> all</c>
+
+00:02:27.420 --> 00:02:27.430 align:start position:0%
+middle whereas this one its compact all
+ 
+
+00:02:27.430 --> 00:02:31.130 align:start position:0%
+middle whereas this one its compact all
+the<00:02:27.640><c> way</c><00:02:27.730><c> to</c><00:02:27.790><c> the</c><00:02:28.390><c> bottom</c><00:02:29.040><c> to</c><00:02:30.040><c> the</c><00:02:30.069><c> left</c><00:02:30.159><c> right</c>
+
+00:02:31.130 --> 00:02:31.140 align:start position:0%
+the way to the bottom to the left right
+ 
+
+00:02:31.140 --> 00:02:33.390 align:start position:0%
+the way to the bottom to the left right
+that's<00:02:32.140><c> probably</c><00:02:32.290><c> little</c><00:02:32.530><c> confusing</c><00:02:32.859><c> anyway</c>
+
+00:02:33.390 --> 00:02:33.400 align:start position:0%
+that's probably little confusing anyway
+ 
+
+00:02:33.400 --> 00:02:35.039 align:start position:0%
+that's probably little confusing anyway
+sorry<00:02:33.640><c> people</c><00:02:33.879><c> reading</c><00:02:34.239><c> captions</c><00:02:34.450><c> instead</c><00:02:34.959><c> of</c>
+
+00:02:35.039 --> 00:02:35.049 align:start position:0%
+sorry people reading captions instead of
+ 
+
+00:02:35.049 --> 00:02:37.589 align:start position:0%
+sorry people reading captions instead of
+listening<00:02:35.590><c> but</c><00:02:35.739><c> all</c><00:02:36.250><c> the</c><00:02:36.609><c> nodes</c><00:02:37.209><c> are</c><00:02:37.359><c> all</c><00:02:37.480><c> the</c>
+
+00:02:37.589 --> 00:02:37.599 align:start position:0%
+listening but all the nodes are all the
+ 
+
+00:02:37.599 --> 00:02:42.179 align:start position:0%
+listening but all the nodes are all the
+way<00:02:37.689><c> intellect</c><00:02:38.700><c> and</c><00:02:39.700><c> this</c><00:02:40.269><c> last</c><00:02:40.689><c> one</c><00:02:40.840><c> is</c><00:02:41.189><c> it</c>
+
+00:02:42.179 --> 00:02:42.189 align:start position:0%
+way intellect and this last one is it
+ 
+
+00:02:42.189 --> 00:02:44.670 align:start position:0%
+way intellect and this last one is it
+lacks<00:02:42.459><c> the</c><00:02:42.670><c> min</c><00:02:42.790><c> heap</c><00:02:42.969><c> property</c><00:02:43.230><c> here</c><00:02:44.230><c> we</c><00:02:44.439><c> see</c>
+
+00:02:44.670 --> 00:02:44.680 align:start position:0%
+lacks the min heap property here we see
+ 
+
+00:02:44.680 --> 00:02:48.629 align:start position:0%
+lacks the min heap property here we see
+that<00:02:45.099><c> the</c><00:02:45.810><c> values</c><00:02:46.810><c> that</c><00:02:47.349><c> if</c><00:02:47.950><c> we</c><00:02:48.099><c> look</c><00:02:48.310><c> on</c><00:02:48.459><c> this</c>
+
+00:02:48.629 --> 00:02:48.639 align:start position:0%
+that the values that if we look on this
+ 
+
+00:02:48.639 --> 00:02:51.599 align:start position:0%
+that the values that if we look on this
+branch<00:02:49.319><c> on</c><00:02:50.319><c> the</c><00:02:50.409><c> right</c><00:02:50.560><c> we</c><00:02:50.859><c> see</c><00:02:50.889><c> 0</c><00:02:51.340><c> is</c><00:02:51.579><c> less</c>
+
+00:02:51.599 --> 00:02:51.609 align:start position:0%
+branch on the right we see 0 is less
+ 
+
+00:02:51.609 --> 00:02:54.750 align:start position:0%
+branch on the right we see 0 is less
+than<00:02:51.819><c> 1</c><00:02:51.970><c> is</c><00:02:52.299><c> less</c><00:02:52.480><c> than</c><00:02:52.510><c> 6</c><00:02:52.840><c> good</c><00:02:53.200><c> but</c><00:02:54.010><c> on</c><00:02:54.189><c> the</c>
+
+00:02:54.750 --> 00:02:54.760 align:start position:0%
+than 1 is less than 6 good but on the
+ 
+
+00:02:54.760 --> 00:02:56.819 align:start position:0%
+than 1 is less than 6 good but on the
+left<00:02:55.090><c> branch</c><00:02:55.329><c> it's</c><00:02:55.540><c> 0</c><00:02:55.840><c> is</c><00:02:56.049><c> less</c><00:02:56.079><c> than</c><00:02:56.260><c> 5</c><00:02:56.590><c> is</c>
+
+00:02:56.819 --> 00:02:56.829 align:start position:0%
+left branch it's 0 is less than 5 is
+ 
+
+00:02:56.829 --> 00:02:59.460 align:start position:0%
+left branch it's 0 is less than 5 is
+less<00:02:56.980><c> than</c><00:02:57.040><c> 4</c><00:02:57.609><c> no</c><00:02:58.090><c> that's</c><00:02:58.659><c> false</c><00:02:58.840><c> right</c><00:02:59.319><c> it</c>
+
+00:02:59.460 --> 00:02:59.470 align:start position:0%
+less than 4 no that's false right it
+ 
+
+00:02:59.470 --> 00:03:01.550 align:start position:0%
+less than 4 no that's false right it
+doesn't<00:02:59.709><c> work</c><00:02:59.829><c> out</c><00:03:00.030><c> and</c><00:03:01.030><c> so</c><00:03:01.150><c> this</c><00:03:01.269><c> right</c><00:03:01.450><c> here</c>
+
+00:03:01.550 --> 00:03:01.560 align:start position:0%
+doesn't work out and so this right here
+ 
+
+00:03:01.560 --> 00:03:05.159 align:start position:0%
+doesn't work out and so this right here
+lacks<00:03:02.560><c> the</c><00:03:02.739><c> min-hee</c><00:03:02.980><c> property</c><00:03:03.989><c> okay</c>
+
+00:03:05.159 --> 00:03:05.169 align:start position:0%
+lacks the min-hee property okay
+ 
+
+00:03:05.169 --> 00:03:06.929 align:start position:0%
+lacks the min-hee property okay
+now<00:03:05.859><c> to</c><00:03:05.919><c> make</c><00:03:06.040><c> sure</c><00:03:06.099><c> that</c><00:03:06.280><c> all</c><00:03:06.400><c> makes</c><00:03:06.579><c> sense</c>
+
+00:03:06.929 --> 00:03:06.939 align:start position:0%
+now to make sure that all makes sense
+ 
+
+00:03:06.939 --> 00:03:08.429 align:start position:0%
+now to make sure that all makes sense
+I'd<00:03:07.000><c> like</c><00:03:07.239><c> you</c><00:03:07.359><c> to</c><00:03:07.450><c> think</c><00:03:07.480><c> about</c><00:03:07.689><c> how</c><00:03:08.139><c> many</c><00:03:08.319><c> of</c>
+
+00:03:08.429 --> 00:03:08.439 align:start position:0%
+I'd like you to think about how many of
+ 
+
+00:03:08.439 --> 00:03:10.559 align:start position:0%
+I'd like you to think about how many of
+these<00:03:08.590><c> trees</c><00:03:08.919><c> are</c><00:03:09.099><c> min</c><00:03:09.340><c> heaps</c><00:03:09.549><c> and</c><00:03:10.299><c> I'll</c><00:03:10.419><c> give</c>
+
+00:03:10.559 --> 00:03:10.569 align:start position:0%
+these trees are min heaps and I'll give
+ 
+
+00:03:10.569 --> 00:03:11.849 align:start position:0%
+these trees are min heaps and I'll give
+you<00:03:10.629><c> guys</c><00:03:10.750><c> a</c><00:03:10.810><c> little</c><00:03:11.109><c> bit</c><00:03:11.230><c> of</c><00:03:11.290><c> a</c><00:03:11.379><c> chance</c><00:03:11.620><c> to</c>
+
+00:03:11.849 --> 00:03:11.859 align:start position:0%
+you guys a little bit of a chance to
+ 
+
+00:03:11.859 --> 00:03:13.349 align:start position:0%
+you guys a little bit of a chance to
+think<00:03:12.069><c> about</c><00:03:12.159><c> this</c><00:03:12.430><c> and</c><00:03:12.790><c> I'll</c><00:03:12.970><c> be</c><00:03:13.120><c> waiting</c>
+
+00:03:13.349 --> 00:03:13.359 align:start position:0%
+think about this and I'll be waiting
+ 
+
+00:03:13.359 --> 00:03:23.039 align:start position:0%
+think about this and I'll be waiting
+here<00:03:18.659><c> ok</c><00:03:19.949><c> so</c><00:03:20.949><c> this</c><00:03:21.790><c> first</c><00:03:21.970><c> one</c><00:03:22.209><c> total</c><00:03:22.810><c> a</c><00:03:22.870><c> heap</c>
+
+00:03:23.039 --> 00:03:23.049 align:start position:0%
+here ok so this first one total a heap
+ 
+
+00:03:23.049 --> 00:03:24.899 align:start position:0%
+here ok so this first one total a heap
+right<00:03:23.409><c> has</c><00:03:23.650><c> duplicates</c><00:03:24.099><c> but</c><00:03:24.310><c> every</c><00:03:24.579><c> item</c><00:03:24.819><c> is</c>
+
+00:03:24.899 --> 00:03:24.909 align:start position:0%
+right has duplicates but every item is
+ 
+
+00:03:24.909 --> 00:03:27.509 align:start position:0%
+right has duplicates but every item is
+less<00:03:25.090><c> than</c><00:03:25.239><c> or</c><00:03:25.329><c> equal</c><00:03:25.569><c> to</c><00:03:25.690><c> its</c><00:03:26.019><c> child</c><00:03:26.319><c> and</c><00:03:27.220><c> it</c>
+
+00:03:27.509 --> 00:03:27.519 align:start position:0%
+less than or equal to its child and it
+ 
+
+00:03:27.519 --> 00:03:29.339 align:start position:0%
+less than or equal to its child and it
+does<00:03:27.669><c> also</c><00:03:27.790><c> complete</c><00:03:28.180><c> this</c><00:03:29.049><c> tree</c><00:03:29.260><c> is</c>
+
+00:03:29.339 --> 00:03:29.349 align:start position:0%
+does also complete this tree is
+ 
+
+00:03:29.349 --> 00:03:32.689 align:start position:0%
+does also complete this tree is
+incomplete<00:03:30.000><c> while</c><00:03:31.000><c> it's</c><00:03:31.329><c> true</c><00:03:31.629><c> it's</c><00:03:31.989><c> you</c><00:03:32.440><c> know</c>
+
+00:03:32.689 --> 00:03:32.699 align:start position:0%
+incomplete while it's true it's you know
+ 
+
+00:03:32.699 --> 00:03:37.680 align:start position:0%
+incomplete while it's true it's you know
+it<00:03:33.699><c> has</c><00:03:34.019><c> if</c><00:03:35.019><c> you</c><00:03:35.129><c> think</c><00:03:36.129><c> of</c><00:03:36.250><c> it</c><00:03:36.400><c> as</c><00:03:36.579><c> a</c><00:03:36.690><c> entity</c>
+
+00:03:37.680 --> 00:03:37.690 align:start position:0%
+it has if you think of it as a entity
+ 
+
+00:03:37.690 --> 00:03:39.360 align:start position:0%
+it has if you think of it as a entity
+there's<00:03:37.900><c> no</c><00:03:37.959><c> like</c><00:03:38.139><c> holes</c><00:03:38.560><c> in</c><00:03:38.889><c> the</c><00:03:39.010><c> middle</c><00:03:39.099><c> or</c>
+
+00:03:39.360 --> 00:03:39.370 align:start position:0%
+there's no like holes in the middle or
+ 
+
+00:03:39.370 --> 00:03:41.309 align:start position:0%
+there's no like holes in the middle or
+anything<00:03:39.699><c> we</c><00:03:40.329><c> noticed</c><00:03:40.690><c> that</c><00:03:40.750><c> there</c><00:03:41.290><c> are</c>
+
+00:03:41.309 --> 00:03:41.319 align:start position:0%
+anything we noticed that there are
+ 
+
+00:03:41.319 --> 00:03:42.839 align:start position:0%
+anything we noticed that there are
+missing<00:03:41.739><c> items</c><00:03:42.069><c> not</c><00:03:42.250><c> just</c><00:03:42.489><c> at</c><00:03:42.639><c> the</c><00:03:42.699><c> bottom</c>
+
+00:03:42.839 --> 00:03:42.849 align:start position:0%
+missing items not just at the bottom
+ 
+
+00:03:42.849 --> 00:03:45.509 align:start position:0%
+missing items not just at the bottom
+level<00:03:43.150><c> but</c><00:03:43.599><c> also</c><00:03:43.720><c> the</c><00:03:44.139><c> top</c><00:03:44.379><c> level</c><00:03:44.739><c> so</c><00:03:45.340><c> by</c>
+
+00:03:45.509 --> 00:03:45.519 align:start position:0%
+level but also the top level so by
+ 
+
+00:03:45.519 --> 00:03:48.330 align:start position:0%
+level but also the top level so by
+missing<00:03:45.849><c> I</c><00:03:45.940><c> mean</c><00:03:45.970><c> that</c><00:03:46.329><c> every</c><00:03:47.049><c> node</c><00:03:47.769><c> should</c>
+
+00:03:48.330 --> 00:03:48.340 align:start position:0%
+missing I mean that every node should
+ 
+
+00:03:48.340 --> 00:03:49.830 align:start position:0%
+missing I mean that every node should
+have<00:03:48.459><c> two</c><00:03:48.639><c> children</c><00:03:48.909><c> unless</c><00:03:49.449><c> it's</c><00:03:49.659><c> at</c><00:03:49.750><c> the</c>
+
+00:03:49.830 --> 00:03:49.840 align:start position:0%
+have two children unless it's at the
+ 
+
+00:03:49.840 --> 00:03:52.379 align:start position:0%
+have two children unless it's at the
+bottom<00:03:49.959><c> level</c><00:03:50.260><c> and</c><00:03:51.010><c> here</c><00:03:51.340><c> we</c><00:03:51.549><c> see</c><00:03:51.729><c> this</c><00:03:52.060><c> one</c><00:03:52.269><c> is</c>
+
+00:03:52.379 --> 00:03:52.389 align:start position:0%
+bottom level and here we see this one is
+ 
+
+00:03:52.389 --> 00:03:55.800 align:start position:0%
+bottom level and here we see this one is
+missing<00:03:52.569><c> a</c><00:03:53.139><c> left</c><00:03:54.010><c> child</c><00:03:54.239><c> I'm</c><00:03:55.239><c> sorry</c><00:03:55.540><c> right</c>
+
+00:03:55.800 --> 00:03:55.810 align:start position:0%
+missing a left child I'm sorry right
+ 
+
+00:03:55.810 --> 00:03:58.860 align:start position:0%
+missing a left child I'm sorry right
+child<00:03:56.049><c> I</c><00:03:56.639><c> have</c><00:03:57.639><c> to</c><00:03:57.729><c> do</c><00:03:57.849><c> this</c><00:03:58.000><c> thing</c><00:03:58.209><c> by</c><00:03:58.599><c> the</c><00:03:58.659><c> way</c>
+
+00:03:58.860 --> 00:03:58.870 align:start position:0%
+child I have to do this thing by the way
+ 
+
+00:03:58.870 --> 00:04:00.420 align:start position:0%
+child I have to do this thing by the way
+when<00:03:59.049><c> I'm</c><00:03:59.169><c> doing</c><00:03:59.349><c> these</c><00:03:59.470><c> videos</c><00:03:59.530><c> we</c><00:04:00.189><c> have</c><00:04:00.340><c> to</c>
+
+00:04:00.420 --> 00:04:00.430 align:start position:0%
+when I'm doing these videos we have to
+ 
+
+00:04:00.430 --> 00:04:02.009 align:start position:0%
+when I'm doing these videos we have to
+keep<00:04:00.549><c> in</c><00:04:00.729><c> mind</c><00:04:00.939><c> that</c><00:04:01.090><c> your</c><00:04:01.269><c> left</c><00:04:01.449><c> is</c><00:04:01.659><c> my</c><00:04:01.810><c> right</c>
+
+00:04:02.009 --> 00:04:02.019 align:start position:0%
+keep in mind that your left is my right
+ 
+
+00:04:02.019 --> 00:04:04.319 align:start position:0%
+keep in mind that your left is my right
+but<00:04:02.319><c> it</c><00:04:02.530><c> only</c><00:04:02.650><c> applies</c><00:04:03.040><c> to</c><00:04:03.340><c> real</c><00:04:03.609><c> life</c><00:04:03.790><c> this</c><00:04:04.150><c> is</c>
+
+00:04:04.319 --> 00:04:04.329 align:start position:0%
+but it only applies to real life this is
+ 
+
+00:04:04.329 --> 00:04:06.899 align:start position:0%
+but it only applies to real life this is
+left<00:04:04.569><c> even</c><00:04:05.379><c> though</c><00:04:05.439><c> it's</c><00:04:05.590><c> my</c><00:04:05.709><c> right</c><00:04:05.949><c> but</c><00:04:06.790><c> on</c>
+
+00:04:06.899 --> 00:04:06.909 align:start position:0%
+left even though it's my right but on
+ 
+
+00:04:06.909 --> 00:04:09.599 align:start position:0%
+left even though it's my right but on
+the<00:04:07.180><c> screen</c><00:04:07.650><c> this</c><00:04:08.650><c> is</c><00:04:08.889><c> right</c><00:04:09.129><c> and</c><00:04:09.340><c> this</c><00:04:09.400><c> is</c>
+
+00:04:09.599 --> 00:04:09.609 align:start position:0%
+the screen this is right and this is
+ 
+
+00:04:09.609 --> 00:04:13.229 align:start position:0%
+the screen this is right and this is
+left<00:04:09.790><c> anyway</c><00:04:10.079><c> not</c><00:04:11.079><c> important</c><00:04:11.639><c> so</c><00:04:12.639><c> this</c><00:04:13.030><c> last</c>
+
+00:04:13.229 --> 00:04:13.239 align:start position:0%
+left anyway not important so this last
+ 
+
+00:04:13.239 --> 00:04:15.360 align:start position:0%
+left anyway not important so this last
+one<00:04:13.419><c> here</c><00:04:13.509><c> this</c><00:04:14.079><c> one</c><00:04:14.139><c> this</c><00:04:14.650><c> tree</c><00:04:15.069><c> here</c><00:04:15.280><c> it</c>
+
+00:04:15.360 --> 00:04:15.370 align:start position:0%
+one here this one this tree here it
+ 
+
+00:04:15.370 --> 00:04:17.430 align:start position:0%
+one here this one this tree here it
+lacks<00:04:15.579><c> the</c><00:04:15.790><c> min</c><00:04:15.939><c> heap</c><00:04:16.090><c> property</c><00:04:16.299><c> the</c><00:04:17.049><c> last</c><00:04:17.229><c> bad</c>
+
+00:04:17.430 --> 00:04:17.440 align:start position:0%
+lacks the min heap property the last bad
+ 
+
+00:04:17.440 --> 00:04:19.620 align:start position:0%
+lacks the min heap property the last bad
+tree<00:04:17.709><c> it</c><00:04:18.280><c> lacks</c><00:04:18.519><c> the</c><00:04:18.609><c> min</c><00:04:18.820><c> heap</c><00:04:19.000><c> property</c><00:04:19.209><c> and</c>
+
+00:04:19.620 --> 00:04:19.630 align:start position:0%
+tree it lacks the min heap property and
+ 
+
+00:04:19.630 --> 00:04:21.599 align:start position:0%
+tree it lacks the min heap property and
+if<00:04:19.959><c> we</c><00:04:20.079><c> look</c><00:04:20.229><c> very</c><00:04:20.349><c> carefully</c><00:04:20.889><c> the</c><00:04:21.340><c> problem</c>
+
+00:04:21.599 --> 00:04:21.609 align:start position:0%
+if we look very carefully the problem
+ 
+
+00:04:21.609 --> 00:04:24.570 align:start position:0%
+if we look very carefully the problem
+here<00:04:21.760><c> is</c><00:04:21.849><c> that</c><00:04:21.880><c> 4</c><00:04:22.419><c> is</c><00:04:22.779><c> less</c><00:04:23.020><c> than</c><00:04:23.080><c> 7</c><00:04:23.260><c> good</c>
+
+00:04:24.570 --> 00:04:24.580 align:start position:0%
+here is that 4 is less than 7 good
+ 
+
+00:04:24.580 --> 00:04:26.040 align:start position:0%
+here is that 4 is less than 7 good
+seven<00:04:24.909><c> is</c><00:04:25.000><c> not</c><00:04:25.090><c> less</c><00:04:25.330><c> than</c><00:04:25.539><c> or</c><00:04:25.599><c> equal</c><00:04:25.780><c> to</c><00:04:25.900><c> five</c>
+
+00:04:26.040 --> 00:04:26.050 align:start position:0%
+seven is not less than or equal to five
+ 
+
+00:04:26.050 --> 00:04:28.559 align:start position:0%
+seven is not less than or equal to five
+and<00:04:26.949><c> this</c><00:04:27.340><c> tree</c><00:04:27.580><c> actually</c><00:04:27.759><c> as</c><00:04:28.030><c> it</c><00:04:28.120><c> happens</c><00:04:28.419><c> on</c>
+
+00:04:28.559 --> 00:04:28.569 align:start position:0%
+and this tree actually as it happens on
+ 
+
+00:04:28.569 --> 00:04:30.420 align:start position:0%
+and this tree actually as it happens on
+the<00:04:28.720><c> far</c><00:04:28.870><c> right</c><00:04:29.080><c> it</c><00:04:29.530><c> is</c><00:04:29.680><c> actually</c><00:04:30.039><c> a</c><00:04:30.069><c> min-heap</c>
+
+00:04:30.420 --> 00:04:30.430 align:start position:0%
+the far right it is actually a min-heap
+ 
+
+00:04:30.430 --> 00:04:32.760 align:start position:0%
+the far right it is actually a min-heap
+right<00:04:30.849><c> it's</c><00:04:31.180><c> complete</c><00:04:31.930><c> the</c><00:04:32.440><c> only</c><00:04:32.620><c> thing</c>
+
+00:04:32.760 --> 00:04:32.770 align:start position:0%
+right it's complete the only thing
+ 
+
+00:04:32.770 --> 00:04:34.649 align:start position:0%
+right it's complete the only thing
+missing<00:04:33.069><c> is</c><00:04:33.159><c> on</c><00:04:33.280><c> this</c><00:04:33.430><c> bottom</c><00:04:33.729><c> level</c><00:04:34.000><c> and</c><00:04:34.180><c> all</c>
+
+00:04:34.649 --> 00:04:34.659 align:start position:0%
+missing is on this bottom level and all
+ 
+
+00:04:34.659 --> 00:04:36.360 align:start position:0%
+missing is on this bottom level and all
+the<00:04:34.690><c> notes</c><00:04:34.930><c> are</c><00:04:35.110><c> as</c><00:04:35.199><c> far</c><00:04:35.379><c> left</c><00:04:35.409><c> as</c><00:04:35.710><c> then</c><00:04:35.919><c> go</c><00:04:36.099><c> and</c>
+
+00:04:36.360 --> 00:04:36.370 align:start position:0%
+the notes are as far left as then go and
+ 
+
+00:04:36.370 --> 00:04:39.559 align:start position:0%
+the notes are as far left as then go and
+it<00:04:36.940><c> is</c><00:04:36.970><c> also</c><00:04:37.240><c> obeys</c><00:04:38.020><c> the</c><00:04:38.199><c> mid</c><00:04:38.349><c> heap</c><00:04:38.470><c> property</c>
+
+00:04:39.559 --> 00:04:39.569 align:start position:0%
+it is also obeys the mid heap property
+ 
+
+00:04:39.569 --> 00:04:43.110 align:start position:0%
+it is also obeys the mid heap property
+so<00:04:41.009><c> why</c><00:04:42.009><c> do</c><00:04:42.069><c> we</c><00:04:42.250><c> care</c><00:04:42.430><c> about</c><00:04:42.490><c> heaps</c><00:04:42.849><c> what's</c>
+
+00:04:43.110 --> 00:04:43.120 align:start position:0%
+so why do we care about heaps what's
+ 
+
+00:04:43.120 --> 00:04:43.890 align:start position:0%
+so why do we care about heaps what's
+good<00:04:43.330><c> about</c><00:04:43.539><c> them</c>
+
+00:04:43.890 --> 00:04:43.900 align:start position:0%
+good about them
+ 
+
+00:04:43.900 --> 00:04:45.330 align:start position:0%
+good about them
+well<00:04:44.349><c> heaps</c><00:04:44.590><c> lend</c><00:04:44.830><c> themselves</c><00:04:45.250><c> very</c>
+
+00:04:45.330 --> 00:04:45.340 align:start position:0%
+well heaps lend themselves very
+ 
+
+00:04:45.340 --> 00:04:47.700 align:start position:0%
+well heaps lend themselves very
+naturally<00:04:46.180><c> to</c><00:04:46.629><c> building</c><00:04:46.960><c> a</c><00:04:47.020><c> priority</c><00:04:47.500><c> queue</c>
+
+00:04:47.700 --> 00:04:47.710 align:start position:0%
+naturally to building a priority queue
+ 
+
+00:04:47.710 --> 00:04:49.170 align:start position:0%
+naturally to building a priority queue
+they're<00:04:48.220><c> basically</c><00:04:48.580><c> invented</c><00:04:48.970><c> to</c><00:04:49.060><c> do</c>
+
+00:04:49.170 --> 00:04:49.180 align:start position:0%
+they're basically invented to do
+ 
+
+00:04:49.180 --> 00:04:51.510 align:start position:0%
+they're basically invented to do
+priority<00:04:49.629><c> queues</c><00:04:49.900><c> so</c><00:04:50.159><c> one</c><00:04:51.159><c> question</c><00:04:51.490><c> that</c>
+
+00:04:51.510 --> 00:04:51.520 align:start position:0%
+priority queues so one question that
+ 
+
+00:04:51.520 --> 00:04:53.100 align:start position:0%
+priority queues so one question that
+pops<00:04:51.819><c> up</c><00:04:51.970><c> then</c><00:04:52.180><c> is</c><00:04:52.360><c> how</c><00:04:52.750><c> do</c><00:04:52.810><c> we</c><00:04:52.870><c> start</c>
+
+00:04:53.100 --> 00:04:53.110 align:start position:0%
+pops up then is how do we start
+ 
+
+00:04:53.110 --> 00:04:55.320 align:start position:0%
+pops up then is how do we start
+supporting<00:04:53.379><c> all</c><00:04:53.590><c> the</c><00:04:53.710><c> operations</c><00:04:54.240><c> so</c><00:04:55.240><c> the</c>
+
+00:04:55.320 --> 00:04:55.330 align:start position:0%
+supporting all the operations so the
+ 
+
+00:04:55.330 --> 00:04:56.659 align:start position:0%
+supporting all the operations so the
+first<00:04:55.509><c> question</c><00:04:55.810><c> I</c><00:04:55.900><c> hope</c><00:04:55.990><c> is</c><00:04:56.199><c> fairly</c><00:04:56.530><c> easy</c>
+
+00:04:56.659 --> 00:04:56.669 align:start position:0%
+first question I hope is fairly easy
+ 
+
+00:04:56.669 --> 00:04:58.740 align:start position:0%
+first question I hope is fairly easy
+which<00:04:57.669><c> is</c><00:04:57.819><c> how</c><00:04:57.969><c> would</c><00:04:58.090><c> you</c><00:04:58.210><c> support</c><00:04:58.389><c> get</c>
+
+00:04:58.740 --> 00:04:58.750 align:start position:0%
+which is how would you support get
+ 
+
+00:04:58.750 --> 00:05:00.450 align:start position:0%
+which is how would you support get
+smallest<00:04:59.199><c> if</c><00:04:59.409><c> I</c><00:04:59.530><c> gave</c><00:04:59.740><c> you</c><00:04:59.889><c> an</c><00:05:00.069><c> entity</c><00:05:00.430><c> like</c>
+
+00:05:00.450 --> 00:05:00.460 align:start position:0%
+smallest if I gave you an entity like
+ 
+
+00:05:00.460 --> 00:05:03.749 align:start position:0%
+smallest if I gave you an entity like
+this<00:05:00.849><c> right</c><00:05:01.270><c> a</c><00:05:01.479><c> tree</c><00:05:02.069><c> possibly</c><00:05:03.069><c> unimaginably</c>
+
+00:05:03.749 --> 00:05:03.759 align:start position:0%
+this right a tree possibly unimaginably
+ 
+
+00:05:03.759 --> 00:05:05.520 align:start position:0%
+this right a tree possibly unimaginably
+large<00:05:04.000><c> with</c><00:05:04.300><c> quadrillions</c><00:05:04.900><c> of</c><00:05:04.990><c> elements</c><00:05:05.409><c> and</c>
+
+00:05:05.520 --> 00:05:05.530 align:start position:0%
+large with quadrillions of elements and
+ 
+
+00:05:05.530 --> 00:05:08.070 align:start position:0%
+large with quadrillions of elements and
+I<00:05:05.800><c> told</c><00:05:05.979><c> you</c><00:05:06.159><c> where's</c><00:05:06.940><c> the</c><00:05:07.030><c> smallest</c><00:05:07.449><c> thing</c>
+
+00:05:08.070 --> 00:05:08.080 align:start position:0%
+I told you where's the smallest thing
+ 
+
+00:05:08.080 --> 00:05:11.070 align:start position:0%
+I told you where's the smallest thing
+how<00:05:08.229><c> would</c><00:05:08.289><c> you</c><00:05:08.469><c> return</c><00:05:08.590><c> it</c><00:05:09.690><c> okay</c><00:05:10.690><c> so</c><00:05:10.960><c> the</c>
+
+00:05:11.070 --> 00:05:11.080 align:start position:0%
+how would you return it okay so the
+ 
+
+00:05:11.080 --> 00:05:12.749 align:start position:0%
+how would you return it okay so the
+answer<00:05:11.379><c> is</c><00:05:11.409><c> it's</c><00:05:11.979><c> always</c><00:05:12.250><c> going</c><00:05:12.370><c> to</c><00:05:12.430><c> be</c><00:05:12.490><c> at</c><00:05:12.639><c> the</c>
+
+00:05:12.749 --> 00:05:12.759 align:start position:0%
+answer is it's always going to be at the
+ 
+
+00:05:12.759 --> 00:05:14.550 align:start position:0%
+answer is it's always going to be at the
+root<00:05:12.879><c> because</c><00:05:13.750><c> this</c><00:05:13.900><c> is</c><00:05:14.050><c> the</c><00:05:14.139><c> item</c><00:05:14.379><c> which</c><00:05:14.530><c> is</c>
+
+00:05:14.550 --> 00:05:14.560 align:start position:0%
+root because this is the item which is
+ 
+
+00:05:14.560 --> 00:05:16.050 align:start position:0%
+root because this is the item which is
+smaller<00:05:14.889><c> than</c><00:05:15.009><c> everything</c><00:05:15.340><c> on</c><00:05:15.550><c> the</c><00:05:15.610><c> left</c><00:05:15.819><c> and</c>
+
+00:05:16.050 --> 00:05:16.060 align:start position:0%
+smaller than everything on the left and
+ 
+
+00:05:16.060 --> 00:05:17.939 align:start position:0%
+smaller than everything on the left and
+the<00:05:16.360><c> right</c><00:05:16.509><c> subtree</c><00:05:16.750><c> so</c><00:05:17.259><c> the</c><00:05:17.379><c> smallest</c><00:05:17.650><c> must</c>
+
+00:05:17.939 --> 00:05:17.949 align:start position:0%
+the right subtree so the smallest must
+ 
+
+00:05:17.949 --> 00:05:21.510 align:start position:0%
+the right subtree so the smallest must
+always<00:05:18.129><c> be</c><00:05:18.340><c> at</c><00:05:18.430><c> the</c><00:05:18.550><c> top</c><00:05:20.039><c> so</c><00:05:21.039><c> now</c><00:05:21.069><c> I</c><00:05:21.219><c> turn</c><00:05:21.370><c> to</c>
+
+00:05:21.510 --> 00:05:21.520 align:start position:0%
+always be at the top so now I turn to
+ 
+
+00:05:21.520 --> 00:05:23.640 align:start position:0%
+always be at the top so now I turn to
+you<00:05:21.960><c> how</c><00:05:22.960><c> do</c><00:05:23.020><c> we</c><00:05:23.139><c> support</c><00:05:23.379><c> the</c><00:05:23.530><c> other</c>
+
+00:05:23.640 --> 00:05:23.650 align:start position:0%
+you how do we support the other
+ 
+
+00:05:23.650 --> 00:05:25.740 align:start position:0%
+you how do we support the other
+operations<00:05:24.219><c> how</c><00:05:24.370><c> do</c><00:05:24.430><c> we</c><00:05:24.550><c> support</c><00:05:24.819><c> ad</c><00:05:25.090><c> and</c><00:05:25.360><c> if</c>
+
+00:05:25.740 --> 00:05:25.750 align:start position:0%
+operations how do we support ad and if
+ 
+
+00:05:25.750 --> 00:05:28.170 align:start position:0%
+operations how do we support ad and if
+you're<00:05:25.870><c> game</c><00:05:26.080><c> for</c><00:05:26.110><c> it</c><00:05:26.500><c> remove</c><00:05:26.860><c> smallest</c><00:05:27.310><c> so</c><00:05:28.090><c> if</c>
+
+00:05:28.170 --> 00:05:28.180 align:start position:0%
+you're game for it remove smallest so if
+ 
+
+00:05:28.180 --> 00:05:29.909 align:start position:0%
+you're game for it remove smallest so if
+we<00:05:28.270><c> look</c><00:05:28.419><c> at</c><00:05:28.569><c> this</c><00:05:28.719><c> heap</c><00:05:29.020><c> which</c><00:05:29.560><c> is</c><00:05:29.680><c> what</c><00:05:29.830><c> I'm</c>
+
+00:05:29.909 --> 00:05:29.919 align:start position:0%
+we look at this heap which is what I'm
+ 
+
+00:05:29.919 --> 00:05:31.499 align:start position:0%
+we look at this heap which is what I'm
+going<00:05:30.069><c> to</c><00:05:30.099><c> be</c><00:05:30.190><c> using</c><00:05:30.490><c> in</c><00:05:30.610><c> my</c><00:05:30.699><c> demo</c><00:05:30.909><c> the</c>
+
+00:05:31.499 --> 00:05:31.509 align:start position:0%
+going to be using in my demo the
+ 
+
+00:05:31.509 --> 00:05:33.240 align:start position:0%
+going to be using in my demo the
+question<00:05:31.810><c> is</c><00:05:31.870><c> how</c><00:05:32.139><c> would</c><00:05:32.199><c> we</c><00:05:32.380><c> insert</c><00:05:32.830><c> three</c>
+
+00:05:33.240 --> 00:05:33.250 align:start position:0%
+question is how would we insert three
+ 
+
+00:05:33.250 --> 00:05:35.309 align:start position:0%
+question is how would we insert three
+into<00:05:33.759><c> this</c><00:05:33.880><c> heap</c><00:05:34.090><c> right</c><00:05:34.300><c> here</c><00:05:34.569><c> and</c><00:05:34.990><c> you</c><00:05:35.199><c> could</c>
+
+00:05:35.309 --> 00:05:35.319 align:start position:0%
+into this heap right here and you could
+ 
+
+00:05:35.319 --> 00:05:36.809 align:start position:0%
+into this heap right here and you could
+think<00:05:35.409><c> about</c><00:05:35.529><c> it</c><00:05:35.800><c> however</c><00:05:35.919><c> you</c><00:05:36.219><c> want</c><00:05:36.400><c> right</c>
+
+00:05:36.809 --> 00:05:36.819 align:start position:0%
+think about it however you want right
+ 
+
+00:05:36.819 --> 00:05:38.129 align:start position:0%
+think about it however you want right
+you<00:05:37.029><c> might</c><00:05:37.180><c> even</c><00:05:37.330><c> I</c><00:05:37.569><c> think</c><00:05:37.750><c> this</c><00:05:37.900><c> is</c><00:05:38.020><c> actually</c>
+
+00:05:38.129 --> 00:05:38.139 align:start position:0%
+you might even I think this is actually
+ 
+
+00:05:38.139 --> 00:05:40.110 align:start position:0%
+you might even I think this is actually
+a<00:05:38.319><c> really</c><00:05:38.440><c> interesting</c><00:05:38.529><c> exercise</c><00:05:39.250><c> and</c><00:05:39.699><c> it's</c>
+
+00:05:40.110 --> 00:05:40.120 align:start position:0%
+a really interesting exercise and it's
+ 
+
+00:05:40.120 --> 00:05:41.519 align:start position:0%
+a really interesting exercise and it's
+worth<00:05:40.270><c> spending</c><00:05:40.419><c> five</c><00:05:40.870><c> or</c><00:05:41.080><c> ten</c><00:05:41.229><c> minutes</c>
+
+00:05:41.519 --> 00:05:41.529 align:start position:0%
+worth spending five or ten minutes
+ 
+
+00:05:41.529 --> 00:05:43.050 align:start position:0%
+worth spending five or ten minutes
+actually<00:05:41.680><c> really</c><00:05:42.130><c> thinking</c><00:05:42.430><c> about</c><00:05:42.669><c> this</c><00:05:42.849><c> and</c>
+
+00:05:43.050 --> 00:05:43.060 align:start position:0%
+actually really thinking about this and
+ 
+
+00:05:43.060 --> 00:05:44.760 align:start position:0%
+actually really thinking about this and
+seeing<00:05:43.210><c> if</c><00:05:43.360><c> you</c><00:05:43.449><c> can</c><00:05:43.599><c> come</c><00:05:43.779><c> up</c><00:05:43.810><c> with</c><00:05:43.960><c> the</c><00:05:44.590><c> right</c>
+
+00:05:44.760 --> 00:05:44.770 align:start position:0%
+seeing if you can come up with the right
+ 
+
+00:05:44.770 --> 00:05:46.950 align:start position:0%
+seeing if you can come up with the right
+answer<00:05:45.159><c> and</c><00:05:45.279><c> there</c><00:05:45.490><c> is</c><00:05:45.610><c> a</c><00:05:45.759><c> right</c><00:05:46.060><c> answer</c><00:05:46.300><c> once</c>
+
+00:05:46.950 --> 00:05:46.960 align:start position:0%
+answer and there is a right answer once
+ 
+
+00:05:46.960 --> 00:05:49.350 align:start position:0%
+answer and there is a right answer once
+you<00:05:47.080><c> find</c><00:05:47.349><c> that</c><00:05:47.409><c> you'll</c><00:05:47.620><c> know</c><00:05:47.830><c> and</c><00:05:48.759><c> but</c><00:05:49.270><c> I'll</c>
+
+00:05:49.350 --> 00:05:49.360 align:start position:0%
+you find that you'll know and but I'll
+ 
+
+00:05:49.360 --> 00:05:51.629 align:start position:0%
+you find that you'll know and but I'll
+spoil<00:05:49.659><c> it</c><00:05:49.840><c> in</c><00:05:49.990><c> the</c><00:05:50.110><c> next</c><00:05:50.319><c> video</c><00:05:50.529><c> anyway</c><00:05:50.830><c> but</c>
+
+00:05:51.629 --> 00:05:51.639 align:start position:0%
+spoil it in the next video anyway but
+ 
+
+00:05:51.639 --> 00:05:53.369 align:start position:0%
+spoil it in the next video anyway but
+the<00:05:51.729><c> run</c><00:05:51.849><c> time</c><00:05:52.060><c> right</c><00:05:52.719><c> if</c><00:05:52.870><c> you</c><00:05:52.960><c> want</c><00:05:53.110><c> to</c><00:05:53.139><c> do</c><00:05:53.259><c> it</c>
+
+00:05:53.369 --> 00:05:53.379 align:start position:0%
+the run time right if you want to do it
+ 
+
+00:05:53.379 --> 00:05:54.930 align:start position:0%
+the run time right if you want to do it
+correctly<00:05:53.680><c> if</c><00:05:54.039><c> you</c><00:05:54.099><c> want</c><00:05:54.250><c> it</c><00:05:54.310><c> to</c><00:05:54.370><c> be</c><00:05:54.460><c> fast</c><00:05:54.669><c> I</c>
+
+00:05:54.930 --> 00:05:54.940 align:start position:0%
+correctly if you want it to be fast I
+ 
+
+00:05:54.940 --> 00:05:57.629 align:start position:0%
+correctly if you want it to be fast I
+want<00:05:55.240><c> it</c><00:05:55.360><c> to</c><00:05:55.449><c> be</c><00:05:55.569><c> logarithmic</c><00:05:56.190><c> so</c><00:05:57.190><c> I'll</c><00:05:57.490><c> see</c>
+
+00:05:57.629 --> 00:05:57.639 align:start position:0%
+want it to be logarithmic so I'll see
+ 
+
+00:05:57.639 --> 00:05:59.339 align:start position:0%
+want it to be logarithmic so I'll see
+you<00:05:57.669><c> in</c><00:05:57.729><c> the</c><00:05:57.849><c> next</c><00:05:58.029><c> video</c><00:05:58.240><c> and</c><00:05:58.900><c> good</c><00:05:59.110><c> luck</c><00:05:59.139><c> with</c>
+
+00:05:59.339 --> 00:05:59.349 align:start position:0%
+you in the next video and good luck with
+ 
+
+00:05:59.349 --> 00:06:01.409 align:start position:0%
+you in the next video and good luck with
+that
+

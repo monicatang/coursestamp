@@ -1,0 +1,1048 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.570 align:start position:0%
+ 
+to<00:00:00.870><c> summarize</c><00:00:01.260><c> each</c><00:00:01.500><c> of</c><00:00:01.709><c> the</c><00:00:01.800><c> representations</c>
+
+00:00:02.570 --> 00:00:02.580 align:start position:0%
+to summarize each of the representations
+ 
+
+00:00:02.580 --> 00:00:03.770 align:start position:0%
+to summarize each of the representations
+that<00:00:02.700><c> we've</c><00:00:02.850><c> talked</c><00:00:03.120><c> about</c><00:00:03.240><c> for</c><00:00:03.540><c> graphs</c>
+
+00:00:03.770 --> 00:00:03.780 align:start position:0%
+that we've talked about for graphs
+ 
+
+00:00:03.780 --> 00:00:05.809 align:start position:0%
+that we've talked about for graphs
+adjacency<00:00:04.470><c> matrix</c><00:00:04.920><c> list</c><00:00:05.279><c> of</c><00:00:05.430><c> edges</c><00:00:05.700><c> and</c>
+
+00:00:05.809 --> 00:00:05.819 align:start position:0%
+adjacency matrix list of edges and
+ 
+
+00:00:05.819 --> 00:00:08.120 align:start position:0%
+adjacency matrix list of edges and
+adjacency<00:00:06.359><c> lists</c><00:00:06.690><c> I</c><00:00:06.899><c> produced</c><00:00:07.440><c> here</c><00:00:07.890><c> this</c>
+
+00:00:08.120 --> 00:00:08.130 align:start position:0%
+adjacency lists I produced here this
+ 
+
+00:00:08.130 --> 00:00:10.220 align:start position:0%
+adjacency lists I produced here this
+handy<00:00:08.429><c> table</c><00:00:08.730><c> so</c><00:00:09.480><c> let's</c><00:00:09.630><c> consider</c><00:00:09.780><c> that</c><00:00:10.110><c> we</c>
+
+00:00:10.220 --> 00:00:10.230 align:start position:0%
+handy table so let's consider that we
+ 
+
+00:00:10.230 --> 00:00:12.530 align:start position:0%
+handy table so let's consider that we
+write<00:00:10.410><c> an</c><00:00:10.620><c> add</c><00:00:10.830><c> edge</c><00:00:11.130><c> method</c><00:00:11.610><c> it</c><00:00:12.120><c> turns</c><00:00:12.360><c> out</c>
+
+00:00:12.530 --> 00:00:12.540 align:start position:0%
+write an add edge method it turns out
+ 
+
+00:00:12.540 --> 00:00:14.870 align:start position:0%
+write an add edge method it turns out
+that<00:00:12.750><c> this</c><00:00:13.019><c> will</c><00:00:13.230><c> be</c><00:00:13.349><c> theta</c><00:00:13.650><c> 1</c><00:00:13.920><c> for</c><00:00:14.160><c> all</c><00:00:14.340><c> of</c>
+
+00:00:14.870 --> 00:00:14.880 align:start position:0%
+that this will be theta 1 for all of
+ 
+
+00:00:14.880 --> 00:00:16.730 align:start position:0%
+that this will be theta 1 for all of
+these<00:00:15.059><c> different</c><00:00:15.389><c> representations</c><00:00:15.750><c> the</c>
+
+00:00:16.730 --> 00:00:16.740 align:start position:0%
+these different representations the
+ 
+
+00:00:16.740 --> 00:00:19.210 align:start position:0%
+these different representations the
+adjacency<00:00:17.250><c> method</c><00:00:17.730><c> that</c><00:00:18.150><c> will</c><00:00:18.300><c> be</c><00:00:18.420><c> theta</c><00:00:18.750><c> V</c>
+
+00:00:19.210 --> 00:00:19.220 align:start position:0%
+adjacency method that will be theta V
+ 
+
+00:00:19.220 --> 00:00:22.040 align:start position:0%
+adjacency method that will be theta V
+for<00:00:20.220><c> the</c><00:00:20.250><c> adjacency</c><00:00:20.670><c> matrix</c><00:00:21.060><c> theta</c><00:00:21.420><c> e</c><00:00:21.570><c> for</c><00:00:22.020><c> a</c>
+
+00:00:22.040 --> 00:00:22.050 align:start position:0%
+for the adjacency matrix theta e for a
+ 
+
+00:00:22.050 --> 00:00:24.050 align:start position:0%
+for the adjacency matrix theta e for a
+list<00:00:22.199><c> of</c><00:00:22.320><c> edges</c><00:00:22.590><c> in</c><00:00:22.740><c> constant</c><00:00:23.550><c> time</c><00:00:23.670><c> for</c><00:00:23.970><c> the</c>
+
+00:00:24.050 --> 00:00:24.060 align:start position:0%
+list of edges in constant time for the
+ 
+
+00:00:24.060 --> 00:00:25.880 align:start position:0%
+list of edges in constant time for the
+adjacency<00:00:24.449><c> list</c><00:00:24.750><c> and</c><00:00:24.990><c> these</c><00:00:25.350><c> two</c><00:00:25.590><c> we</c><00:00:25.710><c> just</c>
+
+00:00:25.880 --> 00:00:25.890 align:start position:0%
+adjacency list and these two we just
+ 
+
+00:00:25.890 --> 00:00:27.290 align:start position:0%
+adjacency list and these two we just
+talked<00:00:26.099><c> about</c><00:00:26.189><c> this</c><00:00:26.640><c> is</c><00:00:26.699><c> one</c><00:00:26.970><c> you'd</c><00:00:27.090><c> have</c><00:00:27.119><c> to</c>
+
+00:00:27.290 --> 00:00:27.300 align:start position:0%
+talked about this is one you'd have to
+ 
+
+00:00:27.300 --> 00:00:28.939 align:start position:0%
+talked about this is one you'd have to
+think<00:00:27.480><c> about</c><00:00:27.689><c> a</c><00:00:27.720><c> little</c><00:00:27.930><c> more</c><00:00:28.170><c> on</c><00:00:28.260><c> your</c><00:00:28.320><c> own</c><00:00:28.410><c> so</c>
+
+00:00:28.939 --> 00:00:28.949 align:start position:0%
+think about a little more on your own so
+ 
+
+00:00:28.949 --> 00:00:30.980 align:start position:0%
+think about a little more on your own so
+this<00:00:29.039><c> is</c><00:00:29.189><c> not</c><00:00:29.340><c> obvious</c><00:00:29.760><c> but</c><00:00:30.029><c> it's</c><00:00:30.330><c> if</c><00:00:30.929><c> you</c>
+
+00:00:30.980 --> 00:00:30.990 align:start position:0%
+this is not obvious but it's if you
+ 
+
+00:00:30.990 --> 00:00:33.260 align:start position:0%
+this is not obvious but it's if you
+think<00:00:31.170><c> about</c><00:00:31.289><c> it</c><00:00:31.439><c> the</c><00:00:31.590><c> natural</c><00:00:31.740><c> answer</c><00:00:32.270><c> these</c>
+
+00:00:33.260 --> 00:00:33.270 align:start position:0%
+think about it the natural answer these
+ 
+
+00:00:33.270 --> 00:00:35.990 align:start position:0%
+think about it the natural answer these
+are<00:00:33.510><c> core</c><00:00:33.989><c> pieces</c><00:00:34.260><c> of</c><00:00:34.500><c> the</c><00:00:34.590><c> graph</c><00:00:34.770><c> API</c><00:00:35.190><c> but</c><00:00:35.910><c> we</c>
+
+00:00:35.990 --> 00:00:36.000 align:start position:0%
+are core pieces of the graph API but we
+ 
+
+00:00:36.000 --> 00:00:37.760 align:start position:0%
+are core pieces of the graph API but we
+can<00:00:36.120><c> also</c><00:00:36.300><c> consider</c><00:00:36.630><c> other</c><00:00:36.960><c> operations</c><00:00:37.649><c> we</c>
+
+00:00:37.760 --> 00:00:37.770 align:start position:0%
+can also consider other operations we
+ 
+
+00:00:37.770 --> 00:00:39.530 align:start position:0%
+can also consider other operations we
+might<00:00:37.950><c> add</c><00:00:38.190><c> so</c><00:00:38.820><c> we</c><00:00:38.940><c> might</c><00:00:39.090><c> write</c><00:00:39.270><c> another</c>
+
+00:00:39.530 --> 00:00:39.540 align:start position:0%
+might add so we might write another
+ 
+
+00:00:39.540 --> 00:00:41.360 align:start position:0%
+might add so we might write another
+class<00:00:39.840><c> that</c><00:00:39.870><c> tries</c><00:00:40.320><c> to</c><00:00:40.350><c> for</c><00:00:40.800><c> example</c><00:00:40.860><c> print</c>
+
+00:00:41.360 --> 00:00:41.370 align:start position:0%
+class that tries to for example print
+ 
+
+00:00:41.370 --> 00:00:43.760 align:start position:0%
+class that tries to for example print
+out<00:00:41.550><c> the</c><00:00:41.700><c> graph</c><00:00:41.910><c> like</c><00:00:42.210><c> this</c><00:00:42.270><c> code</c><00:00:42.690><c> so</c><00:00:43.469><c> print</c>
+
+00:00:43.760 --> 00:00:43.770 align:start position:0%
+out the graph like this code so print
+ 
+
+00:00:43.770 --> 00:00:45.290 align:start position:0%
+out the graph like this code so print
+graph<00:00:44.010><c> we</c><00:00:44.219><c> just</c><00:00:44.399><c> showed</c><00:00:44.579><c> will</c><00:00:44.760><c> be</c><00:00:44.820><c> theta</c><00:00:45.090><c> V</c>
+
+00:00:45.290 --> 00:00:45.300 align:start position:0%
+graph we just showed will be theta V
+ 
+
+00:00:45.300 --> 00:00:47.510 align:start position:0%
+graph we just showed will be theta V
+squared<00:00:45.660><c> for</c><00:00:45.840><c> an</c><00:00:45.899><c> adjacency</c><00:00:46.350><c> matrix</c><00:00:46.770><c> it'd</c><00:00:47.340><c> be</c>
+
+00:00:47.510 --> 00:00:47.520 align:start position:0%
+squared for an adjacency matrix it'd be
+ 
+
+00:00:47.520 --> 00:00:49.970 align:start position:0%
+squared for an adjacency matrix it'd be
+V<00:00:47.760><c> plus</c><00:00:48.090><c> C</c><00:00:48.239><c> for</c><00:00:48.480><c> an</c><00:00:48.570><c> adjacency</c><00:00:48.960><c> list</c><00:00:49.350><c> as</c><00:00:49.559><c> I'm</c>
+
+00:00:49.970 --> 00:00:49.980 align:start position:0%
+V plus C for an adjacency list as I'm
+ 
+
+00:00:49.980 --> 00:00:51.709 align:start position:0%
+V plus C for an adjacency list as I'm
+saw<00:00:50.100><c> in</c><00:00:50.219><c> the</c><00:00:50.280><c> previous</c><00:00:50.430><c> slide</c><00:00:50.850><c> and</c><00:00:51.090><c> it</c><00:00:51.600><c> would</c>
+
+00:00:51.709 --> 00:00:51.719 align:start position:0%
+saw in the previous slide and it would
+ 
+
+00:00:51.719 --> 00:00:53.540 align:start position:0%
+saw in the previous slide and it would
+just<00:00:51.930><c> be</c><00:00:52.050><c> theta</c><00:00:52.440><c> e</c><00:00:52.530><c> for</c><00:00:52.949><c> the</c><00:00:52.980><c> list</c><00:00:53.309><c> of</c><00:00:53.399><c> edges</c>
+
+00:00:53.540 --> 00:00:53.550 align:start position:0%
+just be theta e for the list of edges
+ 
+
+00:00:53.550 --> 00:00:56.029 align:start position:0%
+just be theta e for the list of edges
+representation<00:00:54.530><c> likewise</c><00:00:55.530><c> we</c><00:00:55.770><c> could</c><00:00:55.920><c> write</c>
+
+00:00:56.029 --> 00:00:56.039 align:start position:0%
+representation likewise we could write
+ 
+
+00:00:56.039 --> 00:00:57.319 align:start position:0%
+representation likewise we could write
+something<00:00:56.250><c> that</c><00:00:56.460><c> says</c><00:00:56.640><c> does</c><00:00:57.030><c> the</c><00:00:57.149><c> graph</c>
+
+00:00:57.319 --> 00:00:57.329 align:start position:0%
+something that says does the graph
+ 
+
+00:00:57.329 --> 00:00:59.990 align:start position:0%
+something that says does the graph
+possess<00:00:57.719><c> an</c><00:00:57.960><c> edge</c><00:00:58.140><c> between</c><00:00:58.379><c> s</c><00:00:58.739><c> and</c><00:00:58.770><c> T</c><00:00:59.070><c> so</c><00:00:59.910><c> in</c>
+
+00:00:59.990 --> 00:01:00.000 align:start position:0%
+possess an edge between s and T so in
+ 
+
+00:01:00.000 --> 00:01:01.639 align:start position:0%
+possess an edge between s and T so in
+this<00:01:00.090><c> case</c><00:01:00.329><c> with</c><00:01:00.510><c> an</c><00:01:00.600><c> adjacency</c><00:01:01.020><c> matrix</c><00:01:01.469><c> it'd</c>
+
+00:01:01.639 --> 00:01:01.649 align:start position:0%
+this case with an adjacency matrix it'd
+ 
+
+00:01:01.649 --> 00:01:04.070 align:start position:0%
+this case with an adjacency matrix it'd
+be<00:01:01.770><c> theta</c><00:01:02.070><c> 1</c><00:01:02.340><c> we</c><00:01:02.820><c> could</c><00:01:03.000><c> just</c><00:01:03.300><c> go</c><00:01:03.539><c> and</c><00:01:03.719><c> index</c>
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+be theta 1 we could just go and index
+ 
+
+00:01:04.080 --> 00:01:05.840 align:start position:0%
+be theta 1 we could just go and index
+directly<00:01:04.350><c> into</c><00:01:04.979><c> the</c><00:01:05.430><c> matrix</c>
+
+00:01:05.840 --> 00:01:05.850 align:start position:0%
+directly into the matrix
+ 
+
+00:01:05.850 --> 00:01:07.399 align:start position:0%
+directly into the matrix
+assuming<00:01:06.299><c> that</c><00:01:06.450><c> we</c><00:01:06.570><c> had</c><00:01:06.750><c> access</c><00:01:07.110><c> to</c><00:01:07.260><c> its</c>
+
+00:01:07.399 --> 00:01:07.409 align:start position:0%
+assuming that we had access to its
+ 
+
+00:01:07.409 --> 00:01:09.590 align:start position:0%
+assuming that we had access to its
+instance<00:01:07.740><c> variables</c><00:01:08.159><c> list</c><00:01:08.909><c> of</c><00:01:09.060><c> edges</c><00:01:09.360><c> we</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+instance variables list of edges we
+ 
+
+00:01:09.600 --> 00:01:10.850 align:start position:0%
+instance variables list of edges we
+would<00:01:09.720><c> actually</c><00:01:10.020><c> have</c><00:01:10.110><c> to</c><00:01:10.260><c> iterate</c><00:01:10.650><c> through</c>
+
+00:01:10.850 --> 00:01:10.860 align:start position:0%
+would actually have to iterate through
+ 
+
+00:01:10.860 --> 00:01:12.679 align:start position:0%
+would actually have to iterate through
+all<00:01:10.950><c> the</c><00:01:11.040><c> edges</c><00:01:11.430><c> to</c><00:01:11.549><c> see</c><00:01:11.700><c> if</c><00:01:11.790><c> it</c><00:01:11.880><c> exists</c><00:01:12.270><c> and</c>
+
+00:01:12.679 --> 00:01:12.689 align:start position:0%
+all the edges to see if it exists and
+ 
+
+00:01:12.689 --> 00:01:14.359 align:start position:0%
+all the edges to see if it exists and
+with<00:01:12.840><c> the</c><00:01:12.930><c> jason</c><00:01:13.260><c> c</c><00:01:13.409><c> list</c><00:01:13.590><c> if</c><00:01:13.799><c> we</c><00:01:14.070><c> want</c><00:01:14.250><c> to</c><00:01:14.310><c> know</c>
+
+00:01:14.359 --> 00:01:14.369 align:start position:0%
+with the jason c list if we want to know
+ 
+
+00:01:14.369 --> 00:01:16.039 align:start position:0%
+with the jason c list if we want to know
+if<00:01:14.490><c> there</c><00:01:14.610><c> exists</c><00:01:14.909><c> an</c><00:01:15.000><c> edge</c><00:01:15.150><c> between</c><00:01:15.390><c> say</c><00:01:15.780><c> 0</c>
+
+00:01:16.039 --> 00:01:16.049 align:start position:0%
+if there exists an edge between say 0
+ 
+
+00:01:16.049 --> 00:01:17.630 align:start position:0%
+if there exists an edge between say 0
+and<00:01:16.290><c> 2</c><00:01:16.439><c> we</c><00:01:16.830><c> have</c><00:01:16.950><c> to</c><00:01:17.040><c> iterate</c><00:01:17.220><c> through</c><00:01:17.490><c> this</c>
+
+00:01:17.630 --> 00:01:17.640 align:start position:0%
+and 2 we have to iterate through this
+ 
+
+00:01:17.640 --> 00:01:19.640 align:start position:0%
+and 2 we have to iterate through this
+list<00:01:17.880><c> and</c><00:01:18.150><c> if</c><00:01:18.450><c> we</c><00:01:18.540><c> store</c><00:01:18.840><c> it</c><00:01:18.930><c> as</c><00:01:19.080><c> a</c><00:01:19.110><c> list</c><00:01:19.409><c> as</c>
+
+00:01:19.640 --> 00:01:19.650 align:start position:0%
+list and if we store it as a list as
+ 
+
+00:01:19.650 --> 00:01:21.260 align:start position:0%
+list and if we store it as a list as
+opposed<00:01:20.040><c> to</c><00:01:20.189><c> say</c><00:01:20.340><c> a</c><00:01:20.369><c> binary</c><00:01:20.640><c> search</c><00:01:20.970><c> tree</c><00:01:21.030><c> or</c>
+
+00:01:21.260 --> 00:01:21.270 align:start position:0%
+opposed to say a binary search tree or
+ 
+
+00:01:21.270 --> 00:01:23.300 align:start position:0%
+opposed to say a binary search tree or
+something<00:01:21.540><c> then</c><00:01:22.080><c> in</c><00:01:22.380><c> the</c><00:01:22.530><c> worst</c><00:01:22.710><c> case</c><00:01:22.979><c> it</c>
+
+00:01:23.300 --> 00:01:23.310 align:start position:0%
+something then in the worst case it
+ 
+
+00:01:23.310 --> 00:01:25.429 align:start position:0%
+something then in the worst case it
+would<00:01:23.460><c> be</c><00:01:23.549><c> theta</c><00:01:23.759><c> degree</c><00:01:24.450><c> of</c><00:01:24.689><c> V</c><00:01:24.990><c> in</c><00:01:25.229><c> other</c>
+
+00:01:25.429 --> 00:01:25.439 align:start position:0%
+would be theta degree of V in other
+ 
+
+00:01:25.439 --> 00:01:27.740 align:start position:0%
+would be theta degree of V in other
+words<00:01:25.590><c> the</c><00:01:25.830><c> length</c><00:01:26.040><c> of</c><00:01:26.189><c> the</c><00:01:26.250><c> list</c><00:01:26.430><c> in</c><00:01:26.880><c> terms</c><00:01:27.420><c> of</c>
+
+00:01:27.740 --> 00:01:27.750 align:start position:0%
+words the length of the list in terms of
+ 
+
+00:01:27.750 --> 00:01:29.690 align:start position:0%
+words the length of the list in terms of
+the<00:01:27.810><c> amount</c><00:01:28.049><c> of</c><00:01:28.110><c> space</c><00:01:28.409><c> used</c><00:01:28.799><c> the</c><00:01:29.310><c> amount</c><00:01:29.610><c> of</c>
+
+00:01:29.690 --> 00:01:29.700 align:start position:0%
+the amount of space used the amount of
+ 
+
+00:01:29.700 --> 00:01:31.429 align:start position:0%
+the amount of space used the amount of
+space<00:01:29.880><c> for</c><00:01:30.210><c> an</c><00:01:30.299><c> adjacency</c><00:01:30.689><c> matrix</c><00:01:31.110><c> is</c><00:01:31.290><c> V</c>
+
+00:01:31.429 --> 00:01:31.439 align:start position:0%
+space for an adjacency matrix is V
+ 
+
+00:01:31.439 --> 00:01:33.499 align:start position:0%
+space for an adjacency matrix is V
+squared<00:01:31.799><c> e</c><00:01:31.979><c> for</c><00:01:32.820><c> list</c><00:01:32.970><c> of</c><00:01:33.119><c> edges</c><00:01:33.390><c> and</c>
+
+00:01:33.499 --> 00:01:33.509 align:start position:0%
+squared e for list of edges and
+ 
+
+00:01:33.509 --> 00:01:36.109 align:start position:0%
+squared e for list of edges and
+adjacency<00:01:34.140><c> lists</c><00:01:34.560><c> will</c><00:01:34.740><c> be</c><00:01:34.890><c> e</c><00:01:35.100><c> +</c><00:01:35.369><c> V</c><00:01:35.579><c> which</c><00:01:35.970><c> is</c>
+
+00:01:36.109 --> 00:01:36.119 align:start position:0%
+adjacency lists will be e + V which is
+ 
+
+00:01:36.119 --> 00:01:37.700 align:start position:0%
+adjacency lists will be e + V which is
+the<00:01:36.210><c> same</c><00:01:36.360><c> thing</c><00:01:36.570><c> by</c><00:01:36.720><c> the</c><00:01:36.780><c> way</c><00:01:36.930><c> as</c><00:01:37.049><c> V</c><00:01:37.259><c> Plus</c><00:01:37.470><c> E</c>
+
+00:01:37.700 --> 00:01:37.710 align:start position:0%
+the same thing by the way as V Plus E
+ 
+
+00:01:37.710 --> 00:01:39.440 align:start position:0%
+the same thing by the way as V Plus E
+and<00:01:37.920><c> I</c><00:01:38.220><c> may</c><00:01:38.340><c> as</c><00:01:38.400><c> well</c><00:01:38.460><c> just</c><00:01:38.579><c> I'm</c><00:01:38.939><c> showing</c><00:01:39.210><c> it</c><00:01:39.329><c> to</c>
+
+00:01:39.440 --> 00:01:39.450 align:start position:0%
+and I may as well just I'm showing it to
+ 
+
+00:01:39.450 --> 00:01:40.999 align:start position:0%
+and I may as well just I'm showing it to
+you<00:01:39.509><c> for</c><00:01:39.720><c> both</c><00:01:39.869><c> because</c><00:01:40.350><c> you'll</c><00:01:40.650><c> see</c><00:01:40.799><c> both</c>
+
+00:01:40.999 --> 00:01:41.009 align:start position:0%
+you for both because you'll see both
+ 
+
+00:01:41.009 --> 00:01:43.520 align:start position:0%
+you for both because you'll see both
+used<00:01:41.369><c> okay</c><00:01:41.850><c> now</c><00:01:42.659><c> again</c><00:01:42.810><c> one</c><00:01:43.259><c> of</c><00:01:43.290><c> the</c><00:01:43.409><c> big</c>
+
+00:01:43.520 --> 00:01:43.530 align:start position:0%
+used okay now again one of the big
+ 
+
+00:01:43.530 --> 00:01:45.590 align:start position:0%
+used okay now again one of the big
+takeaways<00:01:43.979><c> here</c><00:01:44.009><c> is</c><00:01:44.340><c> that</c><00:01:44.490><c> this</c><00:01:44.640><c> runtime</c><00:01:45.180><c> the</c>
+
+00:01:45.590 --> 00:01:45.600 align:start position:0%
+takeaways here is that this runtime the
+ 
+
+00:01:45.600 --> 00:01:47.870 align:start position:0%
+takeaways here is that this runtime the
+state<00:01:45.869><c> of</c><00:01:46.049><c> the</c><00:01:46.170><c> +</c><00:01:46.439><c> e</c><00:01:46.649><c> is</c><00:01:46.770><c> a</c><00:01:46.799><c> very</c><00:01:47.220><c> common</c><00:01:47.759><c> idea</c>
+
+00:01:47.870 --> 00:01:47.880 align:start position:0%
+state of the + e is a very common idea
+ 
+
+00:01:47.880 --> 00:01:49.280 align:start position:0%
+state of the + e is a very common idea
+and<00:01:48.450><c> something</c><00:01:48.630><c> I</c><00:01:48.810><c> want</c><00:01:48.990><c> you</c><00:01:49.079><c> to</c><00:01:49.170><c> get</c>
+
+00:01:49.280 --> 00:01:49.290 align:start position:0%
+and something I want you to get
+ 
+
+00:01:49.290 --> 00:01:50.719 align:start position:0%
+and something I want you to get
+comfortable<00:01:49.470><c> with</c><00:01:49.799><c> the</c><00:01:50.159><c> study</c><00:01:50.520><c> guide</c>
+
+00:01:50.719 --> 00:01:50.729 align:start position:0%
+comfortable with the study guide
+ 
+
+00:01:50.729 --> 00:01:52.100 align:start position:0%
+comfortable with the study guide
+questions<00:01:50.759><c> for</c><00:01:51.329><c> this</c><00:01:51.390><c> lecture</c><00:01:51.450><c> are</c><00:01:51.869><c> a</c><00:01:51.899><c> great</c>
+
+00:01:52.100 --> 00:01:52.110 align:start position:0%
+questions for this lecture are a great
+ 
+
+00:01:52.110 --> 00:01:53.749 align:start position:0%
+questions for this lecture are a great
+way<00:01:52.229><c> to</c><00:01:52.259><c> do</c><00:01:52.500><c> that</c><00:01:52.530><c> because</c><00:01:53.250><c> we'll</c><00:01:53.490><c> see</c><00:01:53.640><c> this</c>
+
+00:01:53.749 --> 00:01:53.759 align:start position:0%
+way to do that because we'll see this
+ 
+
+00:01:53.759 --> 00:01:56.420 align:start position:0%
+way to do that because we'll see this
+time<00:01:53.820><c> and</c><00:01:54.180><c> time</c><00:01:54.299><c> again</c><00:01:54.409><c> so</c><00:01:55.409><c> in</c><00:01:55.530><c> practice</c><00:01:56.009><c> if</c><00:01:56.310><c> we</c>
+
+00:01:56.420 --> 00:01:56.430 align:start position:0%
+time and time again so in practice if we
+ 
+
+00:01:56.430 --> 00:01:57.709 align:start position:0%
+time and time again so in practice if we
+look<00:01:56.579><c> at</c><00:01:56.700><c> all</c><00:01:56.790><c> this</c><00:01:56.909><c> we</c><00:01:57.060><c> can</c><00:01:57.149><c> get</c><00:01:57.270><c> it</c><00:01:57.390><c> kind</c><00:01:57.600><c> of</c><00:01:57.630><c> a</c>
+
+00:01:57.709 --> 00:01:57.719 align:start position:0%
+look at all this we can get it kind of a
+ 
+
+00:01:57.719 --> 00:01:58.819 align:start position:0%
+look at all this we can get it kind of a
+sense<00:01:57.899><c> of</c><00:01:58.020><c> the</c><00:01:58.110><c> trade-offs</c><00:01:58.500><c> that</c><00:01:58.649><c> are</c>
+
+00:01:58.819 --> 00:01:58.829 align:start position:0%
+sense of the trade-offs that are
+ 
+
+00:01:58.829 --> 00:02:02.209 align:start position:0%
+sense of the trade-offs that are
+involved<00:01:59.280><c> and</c><00:01:59.969><c> we</c><00:02:00.060><c> can</c><00:02:00.210><c> see</c><00:02:00.360><c> that</c><00:02:00.920><c> or</c><00:02:01.920><c> all</c><00:02:02.100><c> them</c>
+
+00:02:02.209 --> 00:02:02.219 align:start position:0%
+involved and we can see that or all them
+ 
+
+00:02:02.219 --> 00:02:04.340 align:start position:0%
+involved and we can see that or all them
+say<00:02:02.369><c> that</c><00:02:02.610><c> in</c><00:02:02.820><c> practice</c><00:02:03.390><c> adjacency</c><00:02:03.899><c> lists</c><00:02:04.259><c> are</c>
+
+00:02:04.340 --> 00:02:04.350 align:start position:0%
+say that in practice adjacency lists are
+ 
+
+00:02:04.350 --> 00:02:06.230 align:start position:0%
+say that in practice adjacency lists are
+the<00:02:04.409><c> most</c><00:02:04.649><c> common</c><00:02:05.100><c> and</c><00:02:05.610><c> one</c><00:02:05.729><c> of</c><00:02:05.820><c> the</c><00:02:05.880><c> reasons</c>
+
+00:02:06.230 --> 00:02:06.240 align:start position:0%
+the most common and one of the reasons
+ 
+
+00:02:06.240 --> 00:02:07.760 align:start position:0%
+the most common and one of the reasons
+is<00:02:06.420><c> that</c><00:02:06.450><c> at</c><00:02:06.899><c> least</c><00:02:07.140><c> for</c><00:02:07.259><c> our</c><00:02:07.500><c> graph</c>
+
+00:02:07.760 --> 00:02:07.770 align:start position:0%
+is that at least for our graph
+ 
+
+00:02:07.770 --> 00:02:09.410 align:start position:0%
+is that at least for our graph
+implementation<00:02:08.550><c> because</c><00:02:08.910><c> these</c><00:02:09.090><c> are</c><00:02:09.330><c> the</c>
+
+00:02:09.410 --> 00:02:09.420 align:start position:0%
+implementation because these are the
+ 
+
+00:02:09.420 --> 00:02:11.630 align:start position:0%
+implementation because these are the
+core<00:02:09.629><c> operations</c><00:02:10.140><c> in</c><00:02:10.289><c> the</c><00:02:10.379><c> graph</c><00:02:10.560><c> so</c><00:02:11.250><c> many</c><00:02:11.489><c> of</c>
+
+00:02:11.630 --> 00:02:11.640 align:start position:0%
+core operations in the graph so many of
+ 
+
+00:02:11.640 --> 00:02:13.460 align:start position:0%
+core operations in the graph so many of
+our<00:02:11.730><c> operations</c><00:02:12.300><c> will</c><00:02:12.629><c> rely</c><00:02:12.959><c> on</c>
+
+00:02:13.460 --> 00:02:13.470 align:start position:0%
+our operations will rely on
+ 
+
+00:02:13.470 --> 00:02:16.130 align:start position:0%
+our operations will rely on
+this<00:02:13.710><c> adjacency</c><00:02:14.340><c> method</c><00:02:14.670><c> here</c><00:02:14.940><c> and</c><00:02:15.120><c> so</c><00:02:15.900><c> that</c>
+
+00:02:16.130 --> 00:02:16.140 align:start position:0%
+this adjacency method here and so that
+ 
+
+00:02:16.140 --> 00:02:17.720 align:start position:0%
+this adjacency method here and so that
+since<00:02:16.470><c> its</c><00:02:16.590><c> theta</c><00:02:16.800><c> one</c><00:02:17.040><c> that's</c><00:02:17.400><c> part</c><00:02:17.610><c> of</c><00:02:17.640><c> the</c>
+
+00:02:17.720 --> 00:02:17.730 align:start position:0%
+since its theta one that's part of the
+ 
+
+00:02:17.730 --> 00:02:19.460 align:start position:0%
+since its theta one that's part of the
+reason<00:02:18.000><c> why</c><00:02:18.090><c> this</c><00:02:18.150><c> is</c><00:02:18.330><c> super</c><00:02:18.660><c> common</c><00:02:18.990><c> it's</c>
+
+00:02:19.460 --> 00:02:19.470 align:start position:0%
+reason why this is super common it's
+ 
+
+00:02:19.470 --> 00:02:20.930 align:start position:0%
+reason why this is super common it's
+also<00:02:19.560><c> nice</c><00:02:19.800><c> because</c><00:02:19.860><c> it</c><00:02:20.250><c> doesn't</c><00:02:20.520><c> use</c><00:02:20.610><c> a</c><00:02:20.640><c> ton</c>
+
+00:02:20.930 --> 00:02:20.940 align:start position:0%
+also nice because it doesn't use a ton
+ 
+
+00:02:20.940 --> 00:02:23.960 align:start position:0%
+also nice because it doesn't use a ton
+of<00:02:20.970><c> space</c><00:02:21.210><c> and</c><00:02:22.050><c> in</c><00:02:22.740><c> a</c><00:02:22.800><c> sense</c><00:02:22.950><c> basically</c><00:02:23.190><c> most</c>
+
+00:02:23.960 --> 00:02:23.970 align:start position:0%
+of space and in a sense basically most
+ 
+
+00:02:23.970 --> 00:02:25.940 align:start position:0%
+of space and in a sense basically most
+graphs<00:02:24.210><c> are</c><00:02:24.450><c> sparse</c><00:02:24.840><c> that</c><00:02:25.110><c> is</c><00:02:25.440><c> there's</c><00:02:25.800><c> not</c>
+
+00:02:25.940 --> 00:02:25.950 align:start position:0%
+graphs are sparse that is there's not
+ 
+
+00:02:25.950 --> 00:02:28.130 align:start position:0%
+graphs are sparse that is there's not
+many<00:02:26.160><c> edges</c><00:02:26.610><c> in</c><00:02:26.730><c> each</c><00:02:26.850><c> bucket</c><00:02:27.090><c> it's</c><00:02:27.870><c> not</c><00:02:28.020><c> gonna</c>
+
+00:02:28.130 --> 00:02:28.140 align:start position:0%
+many edges in each bucket it's not gonna
+ 
+
+00:02:28.140 --> 00:02:29.990 align:start position:0%
+many edges in each bucket it's not gonna
+be<00:02:28.350><c> like</c><00:02:28.530><c> for</c><00:02:28.710><c> each</c><00:02:28.830><c> edge</c><00:02:29.070><c> there</c><00:02:29.340><c> are</c><00:02:29.490><c> in</c><00:02:29.760><c> over</c>
+
+00:02:29.990 --> 00:02:30.000 align:start position:0%
+be like for each edge there are in over
+ 
+
+00:02:30.000 --> 00:02:32.570 align:start position:0%
+be like for each edge there are in over
+ten<00:02:30.180><c> edges</c><00:02:30.540><c> generally</c><00:02:30.990><c> it'll</c><00:02:31.200><c> be</c><00:02:31.410><c> some</c><00:02:32.340><c> small</c>
+
+00:02:32.570 --> 00:02:32.580 align:start position:0%
+ten edges generally it'll be some small
+ 
+
+00:02:32.580 --> 00:02:34.460 align:start position:0%
+ten edges generally it'll be some small
+number<00:02:32.850><c> maybe</c><00:02:33.060><c> a</c><00:02:33.150><c> constant</c><00:02:33.660><c> and</c><00:02:33.810><c> so</c><00:02:34.170><c> we</c><00:02:34.320><c> can</c>
+
+00:02:34.460 --> 00:02:34.470 align:start position:0%
+number maybe a constant and so we can
+ 
+
+00:02:34.470 --> 00:02:35.840 align:start position:0%
+number maybe a constant and so we can
+kind<00:02:34.680><c> of</c><00:02:34.740><c> draw</c><00:02:34.950><c> inspiration</c><00:02:35.550><c> from</c><00:02:35.580><c> hash</c>
+
+00:02:35.840 --> 00:02:35.850 align:start position:0%
+kind of draw inspiration from hash
+ 
+
+00:02:35.850 --> 00:02:37.790 align:start position:0%
+kind of draw inspiration from hash
+tables<00:02:36.270><c> right</c><00:02:36.480><c> hash</c><00:02:37.140><c> tables</c><00:02:37.560><c> have</c><00:02:37.680><c> this</c>
+
+00:02:37.790 --> 00:02:37.800 align:start position:0%
+tables right hash tables have this
+ 
+
+00:02:37.800 --> 00:02:39.470 align:start position:0%
+tables right hash tables have this
+interesting<00:02:38.250><c> property</c><00:02:38.640><c> that</c><00:02:38.670><c> every</c><00:02:39.300><c> single</c>
+
+00:02:39.470 --> 00:02:39.480 align:start position:0%
+interesting property that every single
+ 
+
+00:02:39.480 --> 00:02:41.300 align:start position:0%
+interesting property that every single
+list<00:02:39.780><c> is</c><00:02:39.930><c> short</c><00:02:40.110><c> so</c><00:02:40.590><c> we</c><00:02:40.680><c> can</c><00:02:40.710><c> think</c><00:02:40.890><c> of</c><00:02:41.040><c> every</c>
+
+00:02:41.300 --> 00:02:41.310 align:start position:0%
+list is short so we can think of every
+ 
+
+00:02:41.310 --> 00:02:43.430 align:start position:0%
+list is short so we can think of every
+operation<00:02:41.820><c> as</c><00:02:42.000><c> constant</c><00:02:42.510><c> time</c><00:02:42.720><c> and</c><00:02:42.930><c> so</c><00:02:43.380><c> too</c>
+
+00:02:43.430 --> 00:02:43.440 align:start position:0%
+operation as constant time and so too
+ 
+
+00:02:43.440 --> 00:02:45.710 align:start position:0%
+operation as constant time and so too
+with<00:02:43.830><c> graphs</c><00:02:44.160><c> because</c><00:02:44.700><c> graphs</c><00:02:45.150><c> tend</c><00:02:45.450><c> to</c><00:02:45.570><c> be</c>
+
+00:02:45.710 --> 00:02:45.720 align:start position:0%
+with graphs because graphs tend to be
+ 
+
+00:02:45.720 --> 00:02:48.500 align:start position:0%
+with graphs because graphs tend to be
+sparse<00:02:46.140><c> those</c><00:02:46.800><c> bins</c><00:02:47.490><c> those</c><00:02:47.910><c> buckets</c><00:02:48.330><c> those</c>
+
+00:02:48.500 --> 00:02:48.510 align:start position:0%
+sparse those bins those buckets those
+ 
+
+00:02:48.510 --> 00:02:50.090 align:start position:0%
+sparse those bins those buckets those
+lists<00:02:48.840><c> of</c><00:02:48.930><c> edges</c><00:02:49.200><c> will</c><00:02:49.410><c> generally</c><00:02:49.740><c> be</c><00:02:49.770><c> pretty</c>
+
+00:02:50.090 --> 00:02:50.100 align:start position:0%
+lists of edges will generally be pretty
+ 
+
+00:02:50.100 --> 00:02:51.860 align:start position:0%
+lists of edges will generally be pretty
+short<00:02:50.280><c> and</c><00:02:50.550><c> so</c><00:02:50.850><c> this</c><00:02:51.000><c> ends</c><00:02:51.209><c> up</c><00:02:51.300><c> being</c><00:02:51.480><c> a</c><00:02:51.690><c> much</c>
+
+00:02:51.860 --> 00:02:51.870 align:start position:0%
+short and so this ends up being a much
+ 
+
+00:02:51.870 --> 00:02:53.810 align:start position:0%
+short and so this ends up being a much
+more<00:02:51.930><c> efficient</c><00:02:52.440><c> representation</c><00:02:52.820><c> then</c>
+
+00:02:53.810 --> 00:02:53.820 align:start position:0%
+more efficient representation then
+ 
+
+00:02:53.820 --> 00:02:55.100 align:start position:0%
+more efficient representation then
+either<00:02:54.090><c> of</c><00:02:54.209><c> these</c><00:02:54.330><c> two</c><00:02:54.510><c> approaches</c><00:02:54.959><c> for</c>
+
+00:02:55.100 --> 00:02:55.110 align:start position:0%
+either of these two approaches for
+ 
+
+00:02:55.110 --> 00:02:57.530 align:start position:0%
+either of these two approaches for
+sparse<00:02:55.560><c> graphs</c><00:02:55.950><c> although</c><00:02:56.610><c> arguably</c><00:02:56.880><c> list</c><00:02:57.420><c> of</c>
+
+00:02:57.530 --> 00:02:57.540 align:start position:0%
+sparse graphs although arguably list of
+ 
+
+00:02:57.540 --> 00:02:59.060 align:start position:0%
+sparse graphs although arguably list of
+edges<00:02:57.780><c> can</c><00:02:57.959><c> be</c><00:02:58.050><c> faster</c><00:02:58.410><c> for</c><00:02:58.680><c> some</c><00:02:58.800><c> certain</c>
+
+00:02:59.060 --> 00:02:59.070 align:start position:0%
+edges can be faster for some certain
+ 
+
+00:02:59.070 --> 00:03:01.820 align:start position:0%
+edges can be faster for some certain
+subproblems<00:03:00.000><c> and</c><00:03:00.870><c> so</c><00:03:01.050><c> if</c><00:03:01.200><c> we</c><00:03:01.290><c> want</c><00:03:01.440><c> to</c><00:03:01.500><c> look</c><00:03:01.650><c> at</c>
+
+00:03:01.820 --> 00:03:01.830 align:start position:0%
+subproblems and so if we want to look at
+ 
+
+00:03:01.830 --> 00:03:03.650 align:start position:0%
+subproblems and so if we want to look at
+what<00:03:02.310><c> does</c><00:03:02.580><c> the</c><00:03:02.730><c> graph</c><00:03:02.940><c> actually</c><00:03:03.330><c> look</c><00:03:03.480><c> like</c>
+
+00:03:03.650 --> 00:03:03.660 align:start position:0%
+what does the graph actually look like
+ 
+
+00:03:03.660 --> 00:03:05.270 align:start position:0%
+what does the graph actually look like
+were<00:03:03.990><c> we</c><00:03:04.140><c> to</c><00:03:04.260><c> sit</c><00:03:04.410><c> down</c><00:03:04.560><c> and</c><00:03:04.740><c> implement</c><00:03:05.160><c> it</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+were we to sit down and implement it
+ 
+
+00:03:05.280 --> 00:03:07.670 align:start position:0%
+were we to sit down and implement it
+it'll<00:03:05.790><c> look</c><00:03:05.850><c> a</c><00:03:05.970><c> little</c><00:03:06.120><c> like</c><00:03:06.330><c> this</c><00:03:06.540><c> so</c><00:03:07.320><c> a</c><00:03:07.350><c> graph</c>
+
+00:03:07.670 --> 00:03:07.680 align:start position:0%
+it'll look a little like this so a graph
+ 
+
+00:03:07.680 --> 00:03:09.800 align:start position:0%
+it'll look a little like this so a graph
+has<00:03:07.890><c> an</c><00:03:08.040><c> integer</c><00:03:08.340><c> V</c><00:03:08.700><c> it</c><00:03:08.940><c> is</c><00:03:09.000><c> fixed</c><00:03:09.600><c> it</c><00:03:09.690><c> has</c><00:03:09.780><c> a</c>
+
+00:03:09.800 --> 00:03:09.810 align:start position:0%
+has an integer V it is fixed it has a
+ 
+
+00:03:09.810 --> 00:03:12.230 align:start position:0%
+has an integer V it is fixed it has a
+number<00:03:10.110><c> of</c><00:03:10.200><c> vertices</c><00:03:10.440><c> that</c><00:03:10.740><c> never</c><00:03:10.890><c> changes</c><00:03:11.310><c> we</c>
+
+00:03:12.230 --> 00:03:12.240 align:start position:0%
+number of vertices that never changes we
+ 
+
+00:03:12.240 --> 00:03:15.290 align:start position:0%
+number of vertices that never changes we
+have<00:03:12.270><c> a</c><00:03:12.630><c> list</c><00:03:13.050><c> of</c><00:03:13.340><c> we</c><00:03:14.340><c> have</c><00:03:14.430><c> an</c><00:03:14.520><c> array</c><00:03:14.760><c> of</c><00:03:14.790><c> lists</c>
+
+00:03:15.290 --> 00:03:15.300 align:start position:0%
+have a list of we have an array of lists
+ 
+
+00:03:15.300 --> 00:03:18.620 align:start position:0%
+have a list of we have an array of lists
+of<00:03:15.390><c> integers</c><00:03:15.780><c> so</c><00:03:16.440><c> for</c><00:03:16.980><c> each</c><00:03:17.190><c> of</c><00:03:17.519><c> these</c><00:03:17.820><c> lists</c>
+
+00:03:18.620 --> 00:03:18.630 align:start position:0%
+of integers so for each of these lists
+ 
+
+00:03:18.630 --> 00:03:20.930 align:start position:0%
+of integers so for each of these lists
+our<00:03:19.050><c> sight</c><00:03:19.230><c> for</c><00:03:19.620><c> each</c><00:03:19.739><c> vertex</c><00:03:20.040><c> we</c><00:03:20.550><c> have</c><00:03:20.670><c> a</c><00:03:20.700><c> list</c>
+
+00:03:20.930 --> 00:03:20.940 align:start position:0%
+our sight for each vertex we have a list
+ 
+
+00:03:20.940 --> 00:03:23.810 align:start position:0%
+our sight for each vertex we have a list
+that<00:03:21.510><c> is</c><00:03:21.630><c> all</c><00:03:21.840><c> of</c><00:03:22.170><c> the</c><00:03:22.320><c> adjacent</c><00:03:22.769><c> vertices</c><00:03:22.980><c> and</c>
+
+00:03:23.810 --> 00:03:23.820 align:start position:0%
+that is all of the adjacent vertices and
+ 
+
+00:03:23.820 --> 00:03:26.330 align:start position:0%
+that is all of the adjacent vertices and
+when<00:03:24.030><c> we</c><00:03:24.150><c> create</c><00:03:24.510><c> a</c><00:03:24.540><c> graph</c><00:03:24.840><c> this</c><00:03:25.590><c> vertex</c>
+
+00:03:26.330 --> 00:03:26.340 align:start position:0%
+when we create a graph this vertex
+ 
+
+00:03:26.340 --> 00:03:28.400 align:start position:0%
+when we create a graph this vertex
+number<00:03:26.580><c> V</c><00:03:26.940><c> is</c><00:03:27.090><c> set</c><00:03:27.420><c> it's</c><00:03:27.840><c> fixed</c><00:03:28.200><c> in</c><00:03:28.290><c> stone</c>
+
+00:03:28.400 --> 00:03:28.410 align:start position:0%
+number V is set it's fixed in stone
+ 
+
+00:03:28.410 --> 00:03:32.770 align:start position:0%
+number V is set it's fixed in stone
+forever<00:03:29.239><c> now</c><00:03:30.239><c> here</c><00:03:30.630><c> we</c><00:03:30.870><c> create</c><00:03:31.230><c> our</c><00:03:31.730><c> adjacency</c>
+
+00:03:32.770 --> 00:03:32.780 align:start position:0%
+forever now here we create our adjacency
+ 
+
+00:03:32.780 --> 00:03:35.600 align:start position:0%
+forever now here we create our adjacency
+lists<00:03:33.780><c> and</c><00:03:33.989><c> then</c><00:03:34.920><c> we</c><00:03:35.010><c> just</c><00:03:35.160><c> go</c><00:03:35.310><c> through</c><00:03:35.340><c> and</c>
+
+00:03:35.600 --> 00:03:35.610 align:start position:0%
+lists and then we just go through and
+ 
+
+00:03:35.610 --> 00:03:36.949 align:start position:0%
+lists and then we just go through and
+set<00:03:35.760><c> them</c><00:03:35.910><c> all</c><00:03:36.030><c> equal</c><00:03:36.300><c> to</c><00:03:36.420><c> an</c><00:03:36.540><c> empty</c><00:03:36.810><c> list</c>
+
+00:03:36.949 --> 00:03:36.959 align:start position:0%
+set them all equal to an empty list
+ 
+
+00:03:36.959 --> 00:03:38.090 align:start position:0%
+set them all equal to an empty list
+that's<00:03:37.380><c> what</c><00:03:37.560><c> this</c><00:03:37.650><c> code</c><00:03:37.860><c> does</c>
+
+00:03:38.090 --> 00:03:38.100 align:start position:0%
+that's what this code does
+ 
+
+00:03:38.100 --> 00:03:40.370 align:start position:0%
+that's what this code does
+now<00:03:38.880><c> again</c><00:03:39.090><c> you</c><00:03:39.330><c> might</c><00:03:39.510><c> decide</c><00:03:39.840><c> that</c><00:03:39.900><c> for</c><00:03:40.200><c> your</c>
+
+00:03:40.370 --> 00:03:40.380 align:start position:0%
+now again you might decide that for your
+ 
+
+00:03:40.380 --> 00:03:42.770 align:start position:0%
+now again you might decide that for your
+purposes<00:03:40.980><c> this</c><00:03:41.519><c> V</c><00:03:41.730><c> should</c><00:03:41.790><c> not</c><00:03:42.150><c> be</c><00:03:42.299><c> constant</c>
+
+00:03:42.770 --> 00:03:42.780 align:start position:0%
+purposes this V should not be constant
+ 
+
+00:03:42.780 --> 00:03:44.930 align:start position:0%
+purposes this V should not be constant
+but<00:03:43.200><c> for</c><00:03:43.590><c> simplicity</c><00:03:43.739><c> for</c><00:03:44.370><c> the</c><00:03:44.489><c> sake</c><00:03:44.670><c> of</c><00:03:44.820><c> a</c>
+
+00:03:44.930 --> 00:03:44.940 align:start position:0%
+but for simplicity for the sake of a
+ 
+
+00:03:44.940 --> 00:03:46.670 align:start position:0%
+but for simplicity for the sake of a
+pure<00:03:45.209><c> beautiful</c><00:03:45.690><c> lecture</c><00:03:45.840><c> we're</c><00:03:46.320><c> gonna</c><00:03:46.440><c> make</c>
+
+00:03:46.670 --> 00:03:46.680 align:start position:0%
+pure beautiful lecture we're gonna make
+ 
+
+00:03:46.680 --> 00:03:49.220 align:start position:0%
+pure beautiful lecture we're gonna make
+that<00:03:46.830><c> strange</c><00:03:47.220><c> step</c><00:03:47.630><c> adding</c><00:03:48.630><c> edges</c><00:03:48.900><c> pretty</c>
+
+00:03:49.220 --> 00:03:49.230 align:start position:0%
+that strange step adding edges pretty
+ 
+
+00:03:49.230 --> 00:03:51.259 align:start position:0%
+that strange step adding edges pretty
+simple<00:03:49.620><c> and</c><00:03:49.830><c> this</c><00:03:50.370><c> is</c><00:03:50.489><c> for</c><00:03:50.700><c> an</c><00:03:50.790><c> undirected</c>
+
+00:03:51.259 --> 00:03:51.269 align:start position:0%
+simple and this is for an undirected
+ 
+
+00:03:51.269 --> 00:03:53.330 align:start position:0%
+simple and this is for an undirected
+graph<00:03:51.320><c> so</c><00:03:52.320><c> what</c><00:03:52.440><c> we'll</c><00:03:52.560><c> do</c><00:03:52.709><c> is</c><00:03:52.860><c> we'll</c><00:03:52.980><c> simply</c>
+
+00:03:53.330 --> 00:03:53.340 align:start position:0%
+graph so what we'll do is we'll simply
+ 
+
+00:03:53.340 --> 00:03:55.190 align:start position:0%
+graph so what we'll do is we'll simply
+say<00:03:53.549><c> okay</c><00:03:54.090><c> if</c><00:03:54.360><c> we're</c><00:03:54.480><c> adding</c><00:03:54.600><c> an</c><00:03:54.840><c> edge</c><00:03:54.959><c> between</c>
+
+00:03:55.190 --> 00:03:55.200 align:start position:0%
+say okay if we're adding an edge between
+ 
+
+00:03:55.200 --> 00:03:57.890 align:start position:0%
+say okay if we're adding an edge between
+0<00:03:55.680><c> and</c><00:03:55.890><c> 3</c><00:03:56.100><c> let's</c><00:03:56.400><c> say</c><00:03:56.489><c> we'll</c><00:03:57.180><c> make</c><00:03:57.330><c> sure</c><00:03:57.480><c> that</c><00:03:57.630><c> 3</c>
+
+00:03:57.890 --> 00:03:57.900 align:start position:0%
+0 and 3 let's say we'll make sure that 3
+ 
+
+00:03:57.900 --> 00:03:59.840 align:start position:0%
+0 and 3 let's say we'll make sure that 3
+gets<00:03:58.140><c> added</c><00:03:58.410><c> as</c><00:03:58.560><c> zeros</c><00:03:58.799><c> Jason</c><00:03:59.280><c> c-list</c><00:03:59.640><c> and</c>
+
+00:03:59.840 --> 00:03:59.850 align:start position:0%
+gets added as zeros Jason c-list and
+ 
+
+00:03:59.850 --> 00:04:02.060 align:start position:0%
+gets added as zeros Jason c-list and
+that<00:04:00.120><c> 0</c><00:04:00.330><c> gets</c><00:04:00.660><c> added</c><00:04:00.810><c> to</c><00:04:00.959><c> 3s</c><00:04:01.290><c> adjacency</c><00:04:01.860><c> lists</c>
+
+00:04:02.060 --> 00:04:02.070 align:start position:0%
+that 0 gets added to 3s adjacency lists
+ 
+
+00:04:02.070 --> 00:04:02.990 align:start position:0%
+that 0 gets added to 3s adjacency lists
+and<00:04:02.280><c> we're</c><00:04:02.430><c> good</c><00:04:02.549><c> to</c><00:04:02.670><c> go</c>
+
+00:04:02.990 --> 00:04:03.000 align:start position:0%
+and we're good to go
+ 
+
+00:04:03.000 --> 00:04:05.240 align:start position:0%
+and we're good to go
+and<00:04:03.150><c> then</c><00:04:03.600><c> this</c><00:04:03.720><c> adjacency</c><00:04:04.260><c> method</c><00:04:04.830><c> here</c><00:04:05.070><c> I</c>
+
+00:04:05.240 --> 00:04:05.250 align:start position:0%
+and then this adjacency method here I
+ 
+
+00:04:05.250 --> 00:04:08.270 align:start position:0%
+and then this adjacency method here I
+will<00:04:05.610><c> simply</c><00:04:05.880><c> return</c><00:04:06.030><c> edge</c><00:04:06.420><c> V</c><00:04:06.989><c> and</c><00:04:07.230><c> then</c><00:04:08.010><c> as</c><00:04:08.250><c> a</c>
+
+00:04:08.270 --> 00:04:08.280 align:start position:0%
+will simply return edge V and then as a
+ 
+
+00:04:08.280 --> 00:04:09.830 align:start position:0%
+will simply return edge V and then as a
+result<00:04:08.489><c> once</c><00:04:09.030><c> we</c><00:04:09.120><c> have</c><00:04:09.239><c> that</c><00:04:09.269><c> code</c><00:04:09.570><c> we</c><00:04:09.720><c> can</c>
+
+00:04:09.830 --> 00:04:09.840 align:start position:0%
+result once we have that code we can
+ 
+
+00:04:09.840 --> 00:04:11.390 align:start position:0%
+result once we have that code we can
+then<00:04:10.019><c> write</c><00:04:10.200><c> code</c><00:04:10.380><c> like</c><00:04:10.560><c> this</c><00:04:10.799><c> and</c><00:04:11.010><c> then</c><00:04:11.310><c> we'll</c>
+
+00:04:11.390 --> 00:04:11.400 align:start position:0%
+then write code like this and then we'll
+ 
+
+00:04:11.400 --> 00:04:12.530 align:start position:0%
+then write code like this and then we'll
+print<00:04:11.549><c> out</c><00:04:11.700><c> our</c><00:04:11.880><c> graph</c><00:04:12.060><c> beautifully</c>
+
+00:04:12.530 --> 00:04:12.540 align:start position:0%
+print out our graph beautifully
+ 
+
+00:04:12.540 --> 00:04:14.060 align:start position:0%
+print out our graph beautifully
+convincing<00:04:13.290><c> us</c><00:04:13.410><c> that</c><00:04:13.560><c> we've</c><00:04:13.650><c> actually</c><00:04:13.830><c> built</c>
+
+00:04:14.060 --> 00:04:14.070 align:start position:0%
+convincing us that we've actually built
+ 
+
+00:04:14.070 --> 00:04:16.580 align:start position:0%
+convincing us that we've actually built
+a<00:04:14.280><c> graph</c><00:04:14.510><c> so</c><00:04:15.510><c> that's</c><00:04:15.690><c> it</c><00:04:15.810><c> as</c><00:04:15.900><c> far</c><00:04:15.930><c> as</c><00:04:16.169><c> implement</c>
+
+00:04:16.580 --> 00:04:16.590 align:start position:0%
+a graph so that's it as far as implement
+ 
+
+00:04:16.590 --> 00:04:18.650 align:start position:0%
+a graph so that's it as far as implement
+or<00:04:16.739><c> the</c><00:04:16.890><c> basic</c><00:04:17.220><c> implementation</c><00:04:17.430><c> goes</c><00:04:18.030><c> so</c><00:04:18.510><c> from</c>
+
+00:04:18.650 --> 00:04:18.660 align:start position:0%
+or the basic implementation goes so from
+ 
+
+00:04:18.660 --> 00:04:20.180 align:start position:0%
+or the basic implementation goes so from
+here<00:04:18.840><c> let's</c><00:04:19.049><c> start</c><00:04:19.590><c> considering</c><00:04:19.979><c> some</c><00:04:20.160><c> of</c>
+
+00:04:20.180 --> 00:04:20.190 align:start position:0%
+here let's start considering some of
+ 
+
+00:04:20.190 --> 00:04:21.680 align:start position:0%
+here let's start considering some of
+these<00:04:20.340><c> more</c><00:04:20.519><c> challenging</c><00:04:21.090><c> problems</c><00:04:21.450><c> we</c><00:04:21.539><c> might</c>
+
+00:04:21.680 --> 00:04:21.690 align:start position:0%
+these more challenging problems we might
+ 
+
+00:04:21.690 --> 00:04:23.300 align:start position:0%
+these more challenging problems we might
+want<00:04:21.870><c> to</c><00:04:21.930><c> do</c><00:04:22.080><c> rather</c><00:04:22.380><c> than</c><00:04:22.470><c> just</c><00:04:22.710><c> listing</c><00:04:23.160><c> off</c>
+
+00:04:23.300 --> 00:04:23.310 align:start position:0%
+want to do rather than just listing off
+ 
+
+00:04:23.310 --> 00:04:26.030 align:start position:0%
+want to do rather than just listing off
+all<00:04:23.610><c> the</c><00:04:23.789><c> edges</c>
+

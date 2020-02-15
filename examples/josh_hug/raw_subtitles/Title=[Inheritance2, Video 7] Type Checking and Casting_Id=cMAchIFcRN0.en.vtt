@@ -1,0 +1,2008 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.079 --> 00:00:02.180 align:start position:0%
+ 
+let's<00:00:01.079><c> do</c><00:00:01.199><c> a</c><00:00:01.230><c> quick</c><00:00:01.439><c> review</c><00:00:01.620><c> of</c><00:00:01.770><c> what</c><00:00:01.860><c> we</c><00:00:02.070><c> know</c>
+
+00:00:02.180 --> 00:00:02.190 align:start position:0%
+let's do a quick review of what we know
+ 
+
+00:00:02.190 --> 00:00:03.830 align:start position:0%
+let's do a quick review of what we know
+about<00:00:02.220><c> type</c><00:00:02.610><c> checking</c><00:00:03.000><c> in</c><00:00:03.090><c> the</c><00:00:03.179><c> context</c><00:00:03.750><c> of</c>
+
+00:00:03.830 --> 00:00:03.840 align:start position:0%
+about type checking in the context of
+ 
+
+00:00:03.840 --> 00:00:05.960 align:start position:0%
+about type checking in the context of
+inheritance<00:00:04.650><c> hierarchies</c><00:00:05.220><c> and</c><00:00:05.640><c> we'll</c><00:00:05.819><c> also</c>
+
+00:00:05.960 --> 00:00:05.970 align:start position:0%
+inheritance hierarchies and we'll also
+ 
+
+00:00:05.970 --> 00:00:07.579 align:start position:0%
+inheritance hierarchies and we'll also
+talk<00:00:06.210><c> about</c><00:00:06.270><c> a</c><00:00:06.480><c> new</c><00:00:06.660><c> handy</c><00:00:07.020><c> tool</c><00:00:07.200><c> known</c><00:00:07.560><c> as</c>
+
+00:00:07.579 --> 00:00:07.589 align:start position:0%
+talk about a new handy tool known as
+ 
+
+00:00:07.589 --> 00:00:10.820 align:start position:0%
+talk about a new handy tool known as
+casting<00:00:08.540><c> so</c><00:00:09.540><c> what</c><00:00:09.929><c> I'd</c><00:00:10.019><c> like</c><00:00:10.110><c> you</c><00:00:10.170><c> to</c><00:00:10.320><c> do</c><00:00:10.559><c> to</c>
+
+00:00:10.820 --> 00:00:10.830 align:start position:0%
+casting so what I'd like you to do to
+ 
+
+00:00:10.830 --> 00:00:13.669 align:start position:0%
+casting so what I'd like you to do to
+set<00:00:11.070><c> the</c><00:00:11.219><c> stage</c><00:00:11.400><c> here</c><00:00:11.820><c> is</c><00:00:12.080><c> consider</c><00:00:13.080><c> this</c><00:00:13.410><c> code</c>
+
+00:00:13.669 --> 00:00:13.679 align:start position:0%
+set the stage here is consider this code
+ 
+
+00:00:13.679 --> 00:00:15.470 align:start position:0%
+set the stage here is consider this code
+and<00:00:13.920><c> think</c><00:00:14.250><c> about</c><00:00:14.490><c> for</c><00:00:14.880><c> each</c><00:00:15.030><c> line</c><00:00:15.299><c> of</c><00:00:15.330><c> code</c>
+
+00:00:15.470 --> 00:00:15.480 align:start position:0%
+and think about for each line of code
+ 
+
+00:00:15.480 --> 00:00:17.090 align:start position:0%
+and think about for each line of code
+does<00:00:16.230><c> that</c><00:00:16.410><c> line</c><00:00:16.560><c> of</c><00:00:16.710><c> code</c><00:00:16.830><c> cause</c><00:00:17.070><c> a</c>
+
+00:00:17.090 --> 00:00:17.100 align:start position:0%
+does that line of code cause a
+ 
+
+00:00:17.100 --> 00:00:20.120 align:start position:0%
+does that line of code cause a
+compilation<00:00:17.460><c> error</c><00:00:17.850><c> and</c><00:00:18.060><c> -</c><00:00:18.480><c> does</c><00:00:19.170><c> it</c><00:00:19.380><c> cause</c>
+
+00:00:20.120 --> 00:00:20.130 align:start position:0%
+compilation error and - does it cause
+ 
+
+00:00:20.130 --> 00:00:22.519 align:start position:0%
+compilation error and - does it cause
+what<00:00:20.580><c> method</c><00:00:21.090><c> actually</c><00:00:21.359><c> gets</c><00:00:21.510><c> executed</c><00:00:21.810><c> so</c><00:00:22.410><c> if</c>
+
+00:00:22.519 --> 00:00:22.529 align:start position:0%
+what method actually gets executed so if
+ 
+
+00:00:22.529 --> 00:00:23.960 align:start position:0%
+what method actually gets executed so if
+we<00:00:22.650><c> think</c><00:00:22.920><c> about</c><00:00:23.039><c> how</c><00:00:23.279><c> dynamic</c><00:00:23.490><c> method</c>
+
+00:00:23.960 --> 00:00:23.970 align:start position:0%
+we think about how dynamic method
+ 
+
+00:00:23.970 --> 00:00:25.609 align:start position:0%
+we think about how dynamic method
+selection<00:00:24.210><c> works</c><00:00:24.510><c> which</c><00:00:24.990><c> one</c><00:00:25.170><c> actually</c><00:00:25.470><c> gets</c>
+
+00:00:25.609 --> 00:00:25.619 align:start position:0%
+selection works which one actually gets
+ 
+
+00:00:25.619 --> 00:00:28.070 align:start position:0%
+selection works which one actually gets
+run<00:00:25.769><c> which</c><00:00:26.070><c> method</c><00:00:26.369><c> in</c><00:00:26.490><c> the</c><00:00:26.699><c> hierarchy</c><00:00:27.119><c> so</c>
+
+00:00:28.070 --> 00:00:28.080 align:start position:0%
+run which method in the hierarchy so
+ 
+
+00:00:28.080 --> 00:00:29.269 align:start position:0%
+run which method in the hierarchy so
+I've<00:00:28.170><c> already</c><00:00:28.380><c> done</c><00:00:28.529><c> the</c><00:00:28.650><c> first</c><00:00:28.859><c> two</c><00:00:29.039><c> lines</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+I've already done the first two lines
+ 
+
+00:00:29.279 --> 00:00:31.880 align:start position:0%
+I've already done the first two lines
+for<00:00:29.550><c> you</c><00:00:29.699><c> I</c><00:00:29.880><c> have</c><00:00:30.480><c> that</c><00:00:30.869><c> the</c><00:00:31.050><c> vengeful</c><00:00:31.320><c> s</c><00:00:31.590><c> list</c>
+
+00:00:31.880 --> 00:00:31.890 align:start position:0%
+for you I have that the vengeful s list
+ 
+
+00:00:31.890 --> 00:00:34.760 align:start position:0%
+for you I have that the vengeful s list
+so<00:00:32.640><c> I</c><00:00:32.669><c> DSL</c><00:00:33.149><c> is</c><00:00:33.360><c> a</c><00:00:33.390><c> vengeful</c><00:00:33.750><c> s</c><00:00:33.989><c> list</c><00:00:34.260><c> variable</c>
+
+00:00:34.760 --> 00:00:34.770 align:start position:0%
+so I DSL is a vengeful s list variable
+ 
+
+00:00:34.770 --> 00:00:36.500 align:start position:0%
+so I DSL is a vengeful s list variable
+at<00:00:34.920><c> a</c><00:00:35.070><c> static</c><00:00:35.399><c> type</c><00:00:35.550><c> vengeful</c><00:00:35.940><c> s</c><00:00:36.059><c> list</c><00:00:36.300><c> and</c>
+
+00:00:36.500 --> 00:00:36.510 align:start position:0%
+at a static type vengeful s list and
+ 
+
+00:00:36.510 --> 00:00:38.830 align:start position:0%
+at a static type vengeful s list and
+that<00:00:37.140><c> points</c><00:00:37.410><c> at</c><00:00:37.500><c> a</c><00:00:37.559><c> vengeful</c><00:00:37.829><c> s</c><00:00:38.040><c> list</c><00:00:38.309><c> object</c>
+
+00:00:38.830 --> 00:00:38.840 align:start position:0%
+that points at a vengeful s list object
+ 
+
+00:00:38.840 --> 00:00:42.740 align:start position:0%
+that points at a vengeful s list object
+s<00:00:39.840><c> L</c><00:00:40.170><c> by</c><00:00:40.770><c> contrast</c><00:00:41.250><c> is</c><00:00:41.399><c> an</c><00:00:41.489><c> S</c><00:00:41.730><c> list</c><00:00:42.059><c> static</c><00:00:42.570><c> type</c>
+
+00:00:42.740 --> 00:00:42.750 align:start position:0%
+s L by contrast is an S list static type
+ 
+
+00:00:42.750 --> 00:00:44.270 align:start position:0%
+s L by contrast is an S list static type
+-<00:00:42.899><c> variable</c><00:00:43.320><c> and</c><00:00:43.530><c> it</c><00:00:43.710><c> still</c><00:00:43.920><c> points</c><00:00:44.070><c> at</c>
+
+00:00:44.270 --> 00:00:44.280 align:start position:0%
+- variable and it still points at
+ 
+
+00:00:44.280 --> 00:00:45.979 align:start position:0%
+- variable and it still points at
+eventual<00:00:44.640><c> s</c><00:00:44.760><c> list</c><00:00:45.030><c> because</c><00:00:45.360><c> hey</c><00:00:45.510><c> that's</c><00:00:45.780><c> what</c>
+
+00:00:45.979 --> 00:00:45.989 align:start position:0%
+eventual s list because hey that's what
+ 
+
+00:00:45.989 --> 00:00:47.779 align:start position:0%
+eventual s list because hey that's what
+it<00:00:46.110><c> does</c><00:00:46.260><c> so</c><00:00:46.920><c> think</c><00:00:47.100><c> about</c><00:00:47.190><c> these</c><00:00:47.399><c> remaining</c>
+
+00:00:47.779 --> 00:00:47.789 align:start position:0%
+it does so think about these remaining
+ 
+
+00:00:47.789 --> 00:00:49.850 align:start position:0%
+it does so think about these remaining
+lines<00:00:47.969><c> of</c><00:00:48.149><c> code</c><00:00:48.300><c> and</c><00:00:49.110><c> I</c><00:00:49.350><c> will</c><00:00:49.500><c> let</c><00:00:49.590><c> you</c><00:00:49.649><c> pause</c>
+
+00:00:49.850 --> 00:00:49.860 align:start position:0%
+lines of code and I will let you pause
+ 
+
+00:00:49.860 --> 00:00:54.920 align:start position:0%
+lines of code and I will let you pause
+the<00:00:50.039><c> video</c><00:00:50.250><c> and</c><00:00:50.399><c> ponder</c><00:00:50.730><c> that</c><00:00:53.809><c> so</c><00:00:54.809><c> let's</c>
+
+00:00:54.920 --> 00:00:54.930 align:start position:0%
+the video and ponder that so let's
+ 
+
+00:00:54.930 --> 00:00:56.270 align:start position:0%
+the video and ponder that so let's
+consider<00:00:55.079><c> first</c><00:00:55.440><c> these</c><00:00:55.649><c> two</c><00:00:55.680><c> lines</c><00:00:56.010><c> of</c><00:00:56.129><c> code</c>
+
+00:00:56.270 --> 00:00:56.280 align:start position:0%
+consider first these two lines of code
+ 
+
+00:00:56.280 --> 00:00:59.150 align:start position:0%
+consider first these two lines of code
+I'm<00:00:56.489><c> gonna</c><00:00:56.640><c> put</c><00:00:56.820><c> them</c><00:00:56.940><c> in</c><00:00:57.000><c> isolation</c><00:00:57.800><c> in</c><00:00:58.800><c> this</c>
+
+00:00:59.150 --> 00:00:59.160 align:start position:0%
+I'm gonna put them in isolation in this
+ 
+
+00:00:59.160 --> 00:01:02.779 align:start position:0%
+I'm gonna put them in isolation in this
+case<00:00:59.660><c> do</c><00:01:00.660><c> these</c><00:01:00.840><c> work</c><00:01:01.079><c> yes</c><00:01:01.590><c> s</c><00:01:02.010><c> lists</c><00:01:02.430><c> have</c>
+
+00:01:02.779 --> 00:01:02.789 align:start position:0%
+case do these work yes s lists have
+ 
+
+00:01:02.789 --> 00:01:04.460 align:start position:0%
+case do these work yes s lists have
+certainly<00:01:03.210><c> an</c><00:01:03.300><c> add</c><00:01:03.449><c> last</c><00:01:03.750><c> and</c><00:01:03.989><c> a</c><00:01:04.019><c> remove</c><00:01:04.290><c> last</c>
+
+00:01:04.460 --> 00:01:04.470 align:start position:0%
+certainly an add last and a remove last
+ 
+
+00:01:04.470 --> 00:01:06.770 align:start position:0%
+certainly an add last and a remove last
+method<00:01:04.710><c> and</c><00:01:05.010><c> which</c><00:01:05.430><c> one</c><00:01:05.610><c> gets</c><00:01:05.760><c> called</c><00:01:06.119><c> well</c>
+
+00:01:06.770 --> 00:01:06.780 align:start position:0%
+method and which one gets called well
+ 
+
+00:01:06.780 --> 00:01:09.580 align:start position:0%
+method and which one gets called well
+first<00:01:07.470><c> when</c><00:01:07.650><c> we</c><00:01:07.710><c> consider</c><00:01:08.010><c> the</c><00:01:08.130><c> add</c><00:01:08.250><c> last</c><00:01:08.549><c> call</c>
+
+00:01:09.580 --> 00:01:09.590 align:start position:0%
+first when we consider the add last call
+ 
+
+00:01:09.590 --> 00:01:13.280 align:start position:0%
+first when we consider the add last call
+we<00:01:10.590><c> consider</c><00:01:10.979><c> the</c><00:01:11.909><c> dynamic</c><00:01:12.299><c> type</c><00:01:12.450><c> what's</c><00:01:13.140><c> the</c>
+
+00:01:13.280 --> 00:01:13.290 align:start position:0%
+we consider the dynamic type what's the
+ 
+
+00:01:13.290 --> 00:01:15.380 align:start position:0%
+we consider the dynamic type what's the
+dynamic<00:01:13.409><c> type</c><00:01:13.860><c> of</c><00:01:14.159><c> SL</c><00:01:14.520><c> well</c><00:01:14.790><c> its</c><00:01:14.909><c> vengeful</c><00:01:15.240><c> s</c>
+
+00:01:15.380 --> 00:01:15.390 align:start position:0%
+dynamic type of SL well its vengeful s
+ 
+
+00:01:15.390 --> 00:01:17.630 align:start position:0%
+dynamic type of SL well its vengeful s
+list<00:01:15.659><c> so</c><00:01:16.140><c> we'll</c><00:01:16.290><c> try</c><00:01:16.500><c> and</c><00:01:16.680><c> call</c><00:01:16.860><c> the</c><00:01:17.070><c> add</c><00:01:17.220><c> last</c>
+
+00:01:17.630 --> 00:01:17.640 align:start position:0%
+list so we'll try and call the add last
+ 
+
+00:01:17.640 --> 00:01:19.640 align:start position:0%
+list so we'll try and call the add last
+method<00:01:17.909><c> of</c><00:01:18.210><c> vengeful</c><00:01:18.450><c> s</c><00:01:18.720><c> list</c><00:01:18.990><c> however</c>
+
+00:01:19.640 --> 00:01:19.650 align:start position:0%
+method of vengeful s list however
+ 
+
+00:01:19.650 --> 00:01:21.620 align:start position:0%
+method of vengeful s list however
+vengeful<00:01:20.580><c> s</c><00:01:20.700><c> list</c><00:01:20.970><c> did</c><00:01:21.150><c> not</c><00:01:21.330><c> actually</c>
+
+00:01:21.620 --> 00:01:21.630 align:start position:0%
+vengeful s list did not actually
+ 
+
+00:01:21.630 --> 00:01:24.140 align:start position:0%
+vengeful s list did not actually
+implement<00:01:22.560><c> that</c><00:01:22.680><c> it</c><00:01:22.860><c> didn't</c><00:01:23.100><c> override</c><00:01:23.520><c> it</c><00:01:23.700><c> so</c>
+
+00:01:24.140 --> 00:01:24.150 align:start position:0%
+implement that it didn't override it so
+ 
+
+00:01:24.150 --> 00:01:25.460 align:start position:0%
+implement that it didn't override it so
+it'll<00:01:24.270><c> just</c><00:01:24.330><c> go</c><00:01:24.600><c> one</c><00:01:24.780><c> step</c><00:01:25.049><c> higher</c><00:01:25.200><c> in</c><00:01:25.380><c> the</c>
+
+00:01:25.460 --> 00:01:25.470 align:start position:0%
+it'll just go one step higher in the
+ 
+
+00:01:25.470 --> 00:01:27.410 align:start position:0%
+it'll just go one step higher in the
+hierarchy<00:01:25.950><c> and</c><00:01:26.070><c> it</c><00:01:26.460><c> will</c><00:01:26.580><c> use</c><00:01:26.759><c> the</c><00:01:26.970><c> S</c><00:01:27.090><c> list</c>
+
+00:01:27.410 --> 00:01:27.420 align:start position:0%
+hierarchy and it will use the S list
+ 
+
+00:01:27.420 --> 00:01:30.530 align:start position:0%
+hierarchy and it will use the S list
+class<00:01:27.689><c> at</c><00:01:28.020><c> last</c><00:01:28.409><c> method</c><00:01:29.240><c> dynamic</c><00:01:30.240><c> method</c>
+
+00:01:30.530 --> 00:01:30.540 align:start position:0%
+class at last method dynamic method
+ 
+
+00:01:30.540 --> 00:01:31.999 align:start position:0%
+class at last method dynamic method
+selection<00:01:30.810><c> then</c><00:01:31.049><c> comes</c><00:01:31.259><c> around</c><00:01:31.530><c> to</c><00:01:31.710><c> remove</c>
+
+00:01:31.999 --> 00:01:32.009 align:start position:0%
+selection then comes around to remove
+ 
+
+00:01:32.009 --> 00:01:34.219 align:start position:0%
+selection then comes around to remove
+last<00:01:32.280><c> and</c><00:01:32.520><c> says</c><00:01:32.670><c> hey</c><00:01:32.909><c> you</c><00:01:33.180><c> know</c><00:01:33.360><c> what</c><00:01:33.509><c> I'm</c>
+
+00:01:34.219 --> 00:01:34.229 align:start position:0%
+last and says hey you know what I'm
+ 
+
+00:01:34.229 --> 00:01:35.960 align:start position:0%
+last and says hey you know what I'm
+always<00:01:34.500><c> gonna</c><00:01:34.740><c> decide</c><00:01:35.159><c> if</c><00:01:35.369><c> the</c><00:01:35.579><c> method</c><00:01:35.880><c> is</c>
+
+00:01:35.960 --> 00:01:35.970 align:start position:0%
+always gonna decide if the method is
+ 
+
+00:01:35.970 --> 00:01:38.149 align:start position:0%
+always gonna decide if the method is
+overridden<00:01:36.390><c> I'm</c><00:01:37.079><c> gonna</c><00:01:37.320><c> pick</c><00:01:37.560><c> based</c><00:01:37.829><c> on</c><00:01:38.009><c> the</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+overridden I'm gonna pick based on the
+ 
+
+00:01:38.159 --> 00:01:40.819 align:start position:0%
+overridden I'm gonna pick based on the
+runtime<00:01:38.610><c> type</c><00:01:38.850><c> of</c><00:01:39.030><c> the</c><00:01:39.090><c> variable</c><00:01:39.509><c> and</c><00:01:39.720><c> in</c><00:01:40.680><c> this</c>
+
+00:01:40.819 --> 00:01:40.829 align:start position:0%
+runtime type of the variable and in this
+ 
+
+00:01:40.829 --> 00:01:43.280 align:start position:0%
+runtime type of the variable and in this
+case<00:01:41.040><c> the</c><00:01:41.820><c> vengeful</c><00:01:42.150><c> s</c><00:01:42.390><c> list</c><00:01:42.600><c> class</c><00:01:42.780><c> does</c><00:01:43.049><c> have</c>
+
+00:01:43.280 --> 00:01:43.290 align:start position:0%
+case the vengeful s list class does have
+ 
+
+00:01:43.290 --> 00:01:45.139 align:start position:0%
+case the vengeful s list class does have
+a<00:01:43.320><c> remove</c><00:01:43.680><c> last</c><00:01:43.860><c> method</c><00:01:44.100><c> we</c><00:01:44.399><c> wrote</c><00:01:44.610><c> it</c><00:01:44.729><c> in</c><00:01:44.880><c> one</c>
+
+00:01:45.139 --> 00:01:45.149 align:start position:0%
+a remove last method we wrote it in one
+ 
+
+00:01:45.149 --> 00:01:47.210 align:start position:0%
+a remove last method we wrote it in one
+of<00:01:45.180><c> the</c><00:01:45.329><c> first</c><00:01:45.509><c> videos</c><00:01:45.810><c> of</c><00:01:45.990><c> the</c><00:01:46.110><c> sequence</c><00:01:46.470><c> and</c>
+
+00:01:47.210 --> 00:01:47.220 align:start position:0%
+of the first videos of the sequence and
+ 
+
+00:01:47.220 --> 00:01:49.700 align:start position:0%
+of the first videos of the sequence and
+so<00:01:47.369><c> it</c><00:01:47.460><c> runs</c><00:01:47.640><c> the</c><00:01:47.820><c> eventual</c><00:01:48.149><c> s</c><00:01:48.270><c> list</c><00:01:48.540><c> okay</c><00:01:49.079><c> so</c>
+
+00:01:49.700 --> 00:01:49.710 align:start position:0%
+so it runs the eventual s list okay so
+ 
+
+00:01:49.710 --> 00:01:51.230 align:start position:0%
+so it runs the eventual s list okay so
+other<00:01:49.770><c> words</c><00:01:50.009><c> we</c><00:01:50.340><c> already</c><00:01:50.520><c> knew</c><00:01:50.610><c> little</c>
+
+00:01:51.230 --> 00:01:51.240 align:start position:0%
+other words we already knew little
+ 
+
+00:01:51.240 --> 00:01:52.760 align:start position:0%
+other words we already knew little
+review<00:01:51.600><c> that's</c><00:01:51.930><c> how</c><00:01:52.079><c> dynamic</c><00:01:52.350><c> method</c>
+
+00:01:52.760 --> 00:01:52.770 align:start position:0%
+review that's how dynamic method
+ 
+
+00:01:52.770 --> 00:01:55.190 align:start position:0%
+review that's how dynamic method
+selection<00:01:53.009><c> behaves</c><00:01:53.840><c> now</c><00:01:54.840><c> how</c><00:01:54.960><c> about</c><00:01:55.049><c> this</c>
+
+00:01:55.190 --> 00:01:55.200 align:start position:0%
+selection behaves now how about this
+ 
+
+00:01:55.200 --> 00:01:57.170 align:start position:0%
+selection behaves now how about this
+next<00:01:55.380><c> line</c><00:01:55.649><c> of</c><00:01:55.770><c> code</c><00:01:55.799><c> SL</c><00:01:56.490><c> dot</c><00:01:56.729><c> print</c><00:01:57.000><c> lost</c>
+
+00:01:57.170 --> 00:01:57.180 align:start position:0%
+next line of code SL dot print lost
+ 
+
+00:01:57.180 --> 00:01:59.929 align:start position:0%
+next line of code SL dot print lost
+items<00:01:57.570><c> now</c><00:01:58.469><c> here</c><00:01:58.740><c> you</c><00:01:58.979><c> might</c><00:01:59.159><c> think</c><00:01:59.430><c> well</c><00:01:59.909><c> I</c>
+
+00:01:59.929 --> 00:01:59.939 align:start position:0%
+items now here you might think well I
+ 
+
+00:01:59.939 --> 00:02:02.270 align:start position:0%
+items now here you might think well I
+mean<00:02:00.450><c> it</c><00:02:00.600><c> is</c><00:02:00.630><c> a</c><00:02:00.780><c> vengeful</c><00:02:01.200><c> S</c><00:02:01.469><c> list</c><00:02:01.770><c> and</c><00:02:02.009><c> it</c><00:02:02.100><c> has</c>
+
+00:02:02.270 --> 00:02:02.280 align:start position:0%
+mean it is a vengeful S list and it has
+ 
+
+00:02:02.280 --> 00:02:04.100 align:start position:0%
+mean it is a vengeful S list and it has
+a<00:02:02.310><c> print</c><00:02:02.610><c> lost</c><00:02:02.790><c> items</c><00:02:03.149><c> so</c><00:02:03.450><c> maybe</c><00:02:03.630><c> dynamic</c>
+
+00:02:04.100 --> 00:02:04.110 align:start position:0%
+a print lost items so maybe dynamic
+ 
+
+00:02:04.110 --> 00:02:05.330 align:start position:0%
+a print lost items so maybe dynamic
+method<00:02:04.409><c> selection</c><00:02:04.710><c> should</c><00:02:05.009><c> be</c><00:02:05.100><c> doing</c>
+
+00:02:05.330 --> 00:02:05.340 align:start position:0%
+method selection should be doing
+ 
+
+00:02:05.340 --> 00:02:07.190 align:start position:0%
+method selection should be doing
+something<00:02:05.520><c> but</c><00:02:06.210><c> there's</c><00:02:06.360><c> an</c><00:02:06.450><c> issue</c><00:02:06.570><c> and</c>
+
+00:02:07.190 --> 00:02:07.200 align:start position:0%
+something but there's an issue and
+ 
+
+00:02:07.200 --> 00:02:08.690 align:start position:0%
+something but there's an issue and
+that's<00:02:07.290><c> it</c><00:02:07.500><c> the</c><00:02:07.590><c> compiler</c><00:02:08.160><c> is</c><00:02:08.310><c> very</c>
+
+00:02:08.690 --> 00:02:08.700 align:start position:0%
+that's it the compiler is very
+ 
+
+00:02:08.700 --> 00:02:10.969 align:start position:0%
+that's it the compiler is very
+conservative<00:02:09.479><c> with</c><00:02:09.599><c> type</c><00:02:09.810><c> checking</c><00:02:10.080><c> so</c><00:02:10.830><c> it</c>
+
+00:02:10.969 --> 00:02:10.979 align:start position:0%
+conservative with type checking so it
+ 
+
+00:02:10.979 --> 00:02:12.589 align:start position:0%
+conservative with type checking so it
+actually<00:02:11.250><c> checks</c><00:02:11.430><c> and</c><00:02:11.670><c> it</c><00:02:11.730><c> says</c><00:02:11.879><c> you</c><00:02:12.239><c> know</c><00:02:12.270><c> s</c>
+
+00:02:12.589 --> 00:02:12.599 align:start position:0%
+actually checks and it says you know s
+ 
+
+00:02:12.599 --> 00:02:13.640 align:start position:0%
+actually checks and it says you know s
+lists<00:02:12.989><c> don't</c><00:02:13.140><c> actually</c>
+
+00:02:13.640 --> 00:02:13.650 align:start position:0%
+lists don't actually
+ 
+
+00:02:13.650 --> 00:02:16.880 align:start position:0%
+lists don't actually
+prynt<00:02:14.040><c> lost</c><00:02:14.250><c> items</c><00:02:14.610><c> variable</c><00:02:15.150><c> and</c><00:02:16.049><c> the</c><00:02:16.709><c> rule</c>
+
+00:02:16.880 --> 00:02:16.890 align:start position:0%
+prynt lost items variable and the rule
+ 
+
+00:02:16.890 --> 00:02:18.679 align:start position:0%
+prynt lost items variable and the rule
+of<00:02:17.040><c> thumb</c><00:02:17.189><c> the</c><00:02:17.340><c> very</c><00:02:17.519><c> simple</c><00:02:17.849><c> rule</c><00:02:18.030><c> is</c><00:02:18.209><c> that</c>
+
+00:02:18.679 --> 00:02:18.689 align:start position:0%
+of thumb the very simple rule is that
+ 
+
+00:02:18.689 --> 00:02:20.899 align:start position:0%
+of thumb the very simple rule is that
+the<00:02:19.200><c> compiler</c><00:02:19.500><c> decides</c><00:02:20.430><c> whether</c><00:02:20.670><c> or</c><00:02:20.790><c> not</c>
+
+00:02:20.899 --> 00:02:20.909 align:start position:0%
+the compiler decides whether or not
+ 
+
+00:02:20.909 --> 00:02:22.580 align:start position:0%
+the compiler decides whether or not
+something<00:02:21.239><c> is</c><00:02:21.329><c> valid</c><00:02:21.720><c> based</c><00:02:21.989><c> only</c><00:02:22.260><c> on</c><00:02:22.409><c> the</c>
+
+00:02:22.580 --> 00:02:22.590 align:start position:0%
+something is valid based only on the
+ 
+
+00:02:22.590 --> 00:02:24.199 align:start position:0%
+something is valid based only on the
+compile<00:02:23.010><c> time</c><00:02:23.129><c> type</c><00:02:23.549><c> with</c><00:02:23.730><c> a</c><00:02:23.790><c> variable</c>
+
+00:02:24.199 --> 00:02:24.209 align:start position:0%
+compile time type with a variable
+ 
+
+00:02:24.209 --> 00:02:25.550 align:start position:0%
+compile time type with a variable
+remember<00:02:24.420><c> that's</c><00:02:24.750><c> also</c><00:02:24.989><c> called</c><00:02:25.110><c> the</c><00:02:25.260><c> static</c>
+
+00:02:25.550 --> 00:02:25.560 align:start position:0%
+remember that's also called the static
+ 
+
+00:02:25.560 --> 00:02:27.800 align:start position:0%
+remember that's also called the static
+type<00:02:25.709><c> so</c><00:02:26.310><c> in</c><00:02:26.430><c> this</c><00:02:26.579><c> case</c><00:02:26.760><c> because</c><00:02:27.090><c> the</c><00:02:27.360><c> S</c><00:02:27.510><c> list</c>
+
+00:02:27.800 --> 00:02:27.810 align:start position:0%
+type so in this case because the S list
+ 
+
+00:02:27.810 --> 00:02:30.140 align:start position:0%
+type so in this case because the S list
+the<00:02:28.349><c> SL</c><00:02:28.650><c> variable</c><00:02:29.069><c> has</c><00:02:29.189><c> static</c><00:02:29.519><c> type</c><00:02:29.700><c> s</c><00:02:29.879><c> list</c>
+
+00:02:30.140 --> 00:02:30.150 align:start position:0%
+the SL variable has static type s list
+ 
+
+00:02:30.150 --> 00:02:32.990 align:start position:0%
+the SL variable has static type s list
+we<00:02:30.480><c> cannot</c><00:02:30.870><c> call</c><00:02:31.200><c> print</c><00:02:31.799><c> lost</c><00:02:31.950><c> items</c><00:02:32.280><c> even</c>
+
+00:02:32.990 --> 00:02:33.000 align:start position:0%
+we cannot call print lost items even
+ 
+
+00:02:33.000 --> 00:02:35.119 align:start position:0%
+we cannot call print lost items even
+though<00:02:33.209><c> this</c><00:02:33.720><c> underlying</c><00:02:34.140><c> object</c><00:02:34.620><c> here</c><00:02:34.859><c> it</c>
+
+00:02:35.119 --> 00:02:35.129 align:start position:0%
+though this underlying object here it
+ 
+
+00:02:35.129 --> 00:02:36.890 align:start position:0%
+though this underlying object here it
+has<00:02:35.280><c> dynamic</c><00:02:35.489><c> type</c><00:02:35.939><c> ventral</c><00:02:36.299><c> s</c><00:02:36.420><c> lists</c><00:02:36.689><c> and</c>
+
+00:02:36.890 --> 00:02:36.900 align:start position:0%
+has dynamic type ventral s lists and
+ 
+
+00:02:36.900 --> 00:02:38.929 align:start position:0%
+has dynamic type ventral s lists and
+does<00:02:37.049><c> have</c><00:02:37.200><c> a</c><00:02:37.260><c> print</c><00:02:37.470><c> lost</c><00:02:37.620><c> items</c><00:02:37.920><c> method</c><00:02:38.760><c> it</c>
+
+00:02:38.929 --> 00:02:38.939 align:start position:0%
+does have a print lost items method it
+ 
+
+00:02:38.939 --> 00:02:41.599 align:start position:0%
+does have a print lost items method it
+cannot<00:02:39.540><c> run</c><00:02:39.829><c> and</c><00:02:40.829><c> actually</c><00:02:40.980><c> the</c><00:02:41.220><c> same</c><00:02:41.400><c> thing</c>
+
+00:02:41.599 --> 00:02:41.609 align:start position:0%
+cannot run and actually the same thing
+ 
+
+00:02:41.609 --> 00:02:44.300 align:start position:0%
+cannot run and actually the same thing
+happens<00:02:41.970><c> on</c><00:02:42.090><c> this</c><00:02:42.209><c> next</c><00:02:42.450><c> line</c><00:02:42.950><c> whenever</c><00:02:43.950><c> I</c><00:02:44.010><c> try</c>
+
+00:02:44.300 --> 00:02:44.310 align:start position:0%
+happens on this next line whenever I try
+ 
+
+00:02:44.310 --> 00:02:46.970 align:start position:0%
+happens on this next line whenever I try
+and<00:02:44.519><c> assign</c><00:02:45.209><c> that</c><00:02:45.480><c> the</c><00:02:45.569><c> address</c><00:02:46.049><c> of</c><00:02:46.349><c> this</c>
+
+00:02:46.970 --> 00:02:46.980 align:start position:0%
+and assign that the address of this
+ 
+
+00:02:46.980 --> 00:02:49.339 align:start position:0%
+and assign that the address of this
+vengeful<00:02:47.549><c> s</c><00:02:47.819><c> list</c><00:02:48.120><c> to</c><00:02:48.510><c> a</c><00:02:48.540><c> new</c><00:02:48.750><c> variable</c><00:02:49.079><c> not</c>
+
+00:02:49.339 --> 00:02:49.349 align:start position:0%
+vengeful s list to a new variable not
+ 
+
+00:02:49.349 --> 00:02:51.979 align:start position:0%
+vengeful s list to a new variable not
+pictured<00:02:49.769><c> here</c><00:02:50.069><c> because</c><00:02:50.400><c> it</c><00:02:50.609><c> crashes</c><00:02:51.120><c> but</c><00:02:51.780><c> if</c>
+
+00:02:51.979 --> 00:02:51.989 align:start position:0%
+pictured here because it crashes but if
+ 
+
+00:02:51.989 --> 00:02:54.649 align:start position:0%
+pictured here because it crashes but if
+I<00:02:52.139><c> actually</c><00:02:52.349><c> created</c><00:02:52.889><c> this</c><00:02:53.129><c> variable</c><00:02:53.609><c> bsl-2</c><00:02:54.209><c> I</c>
+
+00:02:54.649 --> 00:02:54.659 align:start position:0%
+I actually created this variable bsl-2 I
+ 
+
+00:02:54.659 --> 00:02:56.750 align:start position:0%
+I actually created this variable bsl-2 I
+could<00:02:55.139><c> not</c><00:02:55.319><c> actually</c><00:02:55.590><c> copy</c><00:02:55.980><c> the</c><00:02:56.190><c> contents</c>
+
+00:02:56.750 --> 00:02:56.760 align:start position:0%
+could not actually copy the contents
+ 
+
+00:02:56.760 --> 00:03:00.229 align:start position:0%
+could not actually copy the contents
+from<00:02:57.209><c> this</c><00:02:58.079><c> memory</c><00:02:58.439><c> box</c><00:02:58.650><c> s</c><00:02:58.920><c> list</c><00:02:59.579><c> to</c><00:03:00.030><c> another</c>
+
+00:03:00.229 --> 00:03:00.239 align:start position:0%
+from this memory box s list to another
+ 
+
+00:03:00.239 --> 00:03:02.149 align:start position:0%
+from this memory box s list to another
+vengeful<00:03:00.750><c> s</c><00:03:00.870><c> list</c><00:03:01.139><c> box</c><00:03:01.379><c> because</c><00:03:01.799><c> the</c><00:03:01.889><c> compiler</c>
+
+00:03:02.149 --> 00:03:02.159 align:start position:0%
+vengeful s list box because the compiler
+ 
+
+00:03:02.159 --> 00:03:05.360 align:start position:0%
+vengeful s list box because the compiler
+will<00:03:02.459><c> say</c><00:03:02.639><c> cannot</c><00:03:03.389><c> take</c><00:03:03.659><c> an</c><00:03:03.870><c> S</c><00:03:04.470><c> list</c><00:03:04.769><c> and</c><00:03:05.010><c> copy</c>
+
+00:03:05.360 --> 00:03:05.370 align:start position:0%
+will say cannot take an S list and copy
+ 
+
+00:03:05.370 --> 00:03:06.979 align:start position:0%
+will say cannot take an S list and copy
+its<00:03:05.549><c> addressed</c><00:03:05.909><c> eventual</c><00:03:06.329><c> s</c><00:03:06.480><c> list</c><00:03:06.720><c> even</c>
+
+00:03:06.979 --> 00:03:06.989 align:start position:0%
+its addressed eventual s list even
+ 
+
+00:03:06.989 --> 00:03:08.599 align:start position:0%
+its addressed eventual s list even
+though<00:03:07.079><c> you</c><00:03:07.139><c> and</c><00:03:07.290><c> I</c><00:03:07.500><c> both</c><00:03:07.739><c> know</c><00:03:07.950><c> that</c><00:03:08.189><c> the</c>
+
+00:03:08.599 --> 00:03:08.609 align:start position:0%
+though you and I both know that the
+ 
+
+00:03:08.609 --> 00:03:11.509 align:start position:0%
+though you and I both know that the
+runtime<00:03:09.030><c> type</c><00:03:09.269><c> is</c><00:03:09.599><c> ventral</c><00:03:10.019><c> s</c><00:03:10.170><c> list</c><00:03:10.470><c> so</c><00:03:11.280><c> why</c><00:03:11.459><c> is</c>
+
+00:03:11.509 --> 00:03:11.519 align:start position:0%
+runtime type is ventral s list so why is
+ 
+
+00:03:11.519 --> 00:03:13.429 align:start position:0%
+runtime type is ventral s list so why is
+that<00:03:11.639><c> like</c><00:03:12.090><c> what's</c><00:03:12.299><c> the</c><00:03:12.420><c> idea</c><00:03:12.689><c> here</c><00:03:12.989><c> well</c>
+
+00:03:13.429 --> 00:03:13.439 align:start position:0%
+that like what's the idea here well
+ 
+
+00:03:13.439 --> 00:03:15.740 align:start position:0%
+that like what's the idea here well
+basically<00:03:13.650><c> the</c><00:03:14.310><c> compiler</c><00:03:14.819><c> is</c><00:03:15.000><c> only</c><00:03:15.359><c> going</c><00:03:15.659><c> to</c>
+
+00:03:15.740 --> 00:03:15.750 align:start position:0%
+basically the compiler is only going to
+ 
+
+00:03:15.750 --> 00:03:17.900 align:start position:0%
+basically the compiler is only going to
+allow<00:03:15.989><c> method</c><00:03:16.590><c> calls</c><00:03:16.859><c> and</c><00:03:17.129><c> assignments</c><00:03:17.730><c> based</c>
+
+00:03:17.900 --> 00:03:17.910 align:start position:0%
+allow method calls and assignments based
+ 
+
+00:03:17.910 --> 00:03:20.659 align:start position:0%
+allow method calls and assignments based
+on<00:03:18.120><c> compile</c><00:03:18.449><c> time</c><00:03:18.720><c> types</c><00:03:18.989><c> and</c><00:03:19.799><c> it's</c><00:03:20.069><c> just</c><00:03:20.400><c> very</c>
+
+00:03:20.659 --> 00:03:20.669 align:start position:0%
+on compile time types and it's just very
+ 
+
+00:03:20.669 --> 00:03:22.129 align:start position:0%
+on compile time types and it's just very
+nervous<00:03:20.879><c> it</c><00:03:21.269><c> doesn't</c><00:03:21.629><c> know</c><00:03:21.810><c> what's</c><00:03:22.019><c> gonna</c>
+
+00:03:22.129 --> 00:03:22.139 align:start position:0%
+nervous it doesn't know what's gonna
+ 
+
+00:03:22.139 --> 00:03:25.189 align:start position:0%
+nervous it doesn't know what's gonna
+happen<00:03:22.349><c> at</c><00:03:22.620><c> runtime</c><00:03:22.829><c> and</c><00:03:23.579><c> if</c><00:03:24.419><c> it</c><00:03:24.750><c> did</c><00:03:24.989><c> actually</c>
+
+00:03:25.189 --> 00:03:25.199 align:start position:0%
+happen at runtime and if it did actually
+ 
+
+00:03:25.199 --> 00:03:28.610 align:start position:0%
+happen at runtime and if it did actually
+try<00:03:25.530><c> and</c><00:03:25.829><c> you</c><00:03:26.430><c> know</c><00:03:26.599><c> use</c><00:03:27.599><c> all</c><00:03:27.989><c> the</c><00:03:28.139><c> intuition</c>
+
+00:03:28.610 --> 00:03:28.620 align:start position:0%
+try and you know use all the intuition
+ 
+
+00:03:28.620 --> 00:03:30.770 align:start position:0%
+try and you know use all the intuition
+we<00:03:28.739><c> use</c><00:03:29.010><c> to</c><00:03:29.250><c> say</c><00:03:29.370><c> this</c><00:03:29.400><c> should</c><00:03:29.790><c> be</c><00:03:29.819><c> fine</c><00:03:30.180><c> it</c>
+
+00:03:30.770 --> 00:03:30.780 align:start position:0%
+we use to say this should be fine it
+ 
+
+00:03:30.780 --> 00:03:32.449 align:start position:0%
+we use to say this should be fine it
+would<00:03:30.870><c> have</c><00:03:30.959><c> to</c><00:03:31.109><c> basically</c><00:03:31.260><c> mentally</c><00:03:31.980><c> execute</c>
+
+00:03:32.449 --> 00:03:32.459 align:start position:0%
+would have to basically mentally execute
+ 
+
+00:03:32.459 --> 00:03:34.099 align:start position:0%
+would have to basically mentally execute
+the<00:03:32.579><c> code</c><00:03:32.760><c> in</c><00:03:32.879><c> advance</c><00:03:33.209><c> and</c><00:03:33.569><c> that</c><00:03:33.900><c> would</c><00:03:34.019><c> mean</c>
+
+00:03:34.099 --> 00:03:34.109 align:start position:0%
+the code in advance and that would mean
+ 
+
+00:03:34.109 --> 00:03:35.149 align:start position:0%
+the code in advance and that would mean
+the<00:03:34.290><c> compiler</c><00:03:34.739><c> would</c><00:03:34.859><c> have</c><00:03:34.949><c> to</c><00:03:35.040><c> be</c>
+
+00:03:35.149 --> 00:03:35.159 align:start position:0%
+the compiler would have to be
+ 
+
+00:03:35.159 --> 00:03:37.009 align:start position:0%
+the compiler would have to be
+considerably<00:03:35.669><c> more</c><00:03:35.760><c> sophisticated</c><00:03:36.510><c> and</c><00:03:36.750><c> in</c>
+
+00:03:37.009 --> 00:03:37.019 align:start position:0%
+considerably more sophisticated and in
+ 
+
+00:03:37.019 --> 00:03:38.750 align:start position:0%
+considerably more sophisticated and in
+fact<00:03:37.260><c> it</c><00:03:37.530><c> could</c><00:03:37.709><c> run</c><00:03:37.859><c> into</c><00:03:37.980><c> trouble</c><00:03:38.370><c> where</c><00:03:38.549><c> a</c>
+
+00:03:38.750 --> 00:03:38.760 align:start position:0%
+fact it could run into trouble where a
+ 
+
+00:03:38.760 --> 00:03:40.369 align:start position:0%
+fact it could run into trouble where a
+bug<00:03:38.970><c> in</c><00:03:39.120><c> the</c><00:03:39.239><c> code</c><00:03:39.419><c> might</c><00:03:39.900><c> mean</c><00:03:40.079><c> the</c><00:03:40.230><c> code</c>
+
+00:03:40.369 --> 00:03:40.379 align:start position:0%
+bug in the code might mean the code
+ 
+
+00:03:40.379 --> 00:03:42.439 align:start position:0%
+bug in the code might mean the code
+never<00:03:40.620><c> compiles</c><00:03:41.159><c> okay</c><00:03:41.519><c> so</c><00:03:41.879><c> kind</c><00:03:42.090><c> of</c><00:03:42.150><c> a</c><00:03:42.239><c> subtle</c>
+
+00:03:42.439 --> 00:03:42.449 align:start position:0%
+never compiles okay so kind of a subtle
+ 
+
+00:03:42.449 --> 00:03:45.229 align:start position:0%
+never compiles okay so kind of a subtle
+issue<00:03:42.690><c> but</c><00:03:43.440><c> think</c><00:03:44.430><c> about</c><00:03:44.639><c> it</c><00:03:44.729><c> this</c><00:03:44.849><c> way</c><00:03:45.000><c> just</c>
+
+00:03:45.229 --> 00:03:45.239 align:start position:0%
+issue but think about it this way just
+ 
+
+00:03:45.239 --> 00:03:47.330 align:start position:0%
+issue but think about it this way just
+the<00:03:45.329><c> compiler</c><00:03:45.810><c> is</c><00:03:45.959><c> super</c><00:03:46.470><c> super</c><00:03:46.949><c> super</c>
+
+00:03:47.330 --> 00:03:47.340 align:start position:0%
+the compiler is super super super
+ 
+
+00:03:47.340 --> 00:03:49.280 align:start position:0%
+the compiler is super super super
+conservative<00:03:47.540><c> and</c><00:03:48.540><c> it</c><00:03:48.629><c> will</c><00:03:48.720><c> only</c><00:03:48.900><c> allow</c>
+
+00:03:49.280 --> 00:03:49.290 align:start position:0%
+conservative and it will only allow
+ 
+
+00:03:49.290 --> 00:03:51.170 align:start position:0%
+conservative and it will only allow
+things<00:03:49.709><c> based</c><00:03:50.069><c> strictly</c><00:03:50.400><c> on</c><00:03:50.609><c> the</c><00:03:50.879><c> compile</c>
+
+00:03:51.170 --> 00:03:51.180 align:start position:0%
+things based strictly on the compile
+ 
+
+00:03:51.180 --> 00:03:55.039 align:start position:0%
+things based strictly on the compile
+time<00:03:51.209><c> types</c><00:03:51.690><c> that</c><00:03:51.989><c> you</c><00:03:52.079><c> tell</c><00:03:52.260><c> it</c><00:03:52.290><c> ok</c><00:03:53.900><c> now</c><00:03:54.900><c> this</c>
+
+00:03:55.039 --> 00:03:55.049 align:start position:0%
+time types that you tell it ok now this
+ 
+
+00:03:55.049 --> 00:03:57.140 align:start position:0%
+time types that you tell it ok now this
+last<00:03:55.290><c> little</c><00:03:55.590><c> bit</c><00:03:55.799><c> here</c><00:03:55.829><c> whenever</c><00:03:56.699><c> we</c><00:03:56.849><c> said</c><00:03:57.060><c> we</c>
+
+00:03:57.140 --> 00:03:57.150 align:start position:0%
+last little bit here whenever we said we
+ 
+
+00:03:57.150 --> 00:03:58.460 align:start position:0%
+last little bit here whenever we said we
+could<00:03:57.329><c> not</c><00:03:57.449><c> do</c><00:03:57.629><c> this</c><00:03:57.810><c> assignment</c><00:03:58.049><c> we</c><00:03:58.349><c> can</c>
+
+00:03:58.460 --> 00:03:58.470 align:start position:0%
+could not do this assignment we can
+ 
+
+00:03:58.470 --> 00:04:00.409 align:start position:0%
+could not do this assignment we can
+actually<00:03:58.709><c> generalize</c><00:03:59.040><c> that</c><00:03:59.459><c> event</c><00:03:59.790><c> and</c><00:04:00.000><c> say</c>
+
+00:04:00.409 --> 00:04:00.419 align:start position:0%
+actually generalize that event and say
+ 
+
+00:04:00.419 --> 00:04:02.930 align:start position:0%
+actually generalize that event and say
+that<00:04:00.829><c> expressions</c><00:04:01.829><c> have</c><00:04:02.310><c> compiled</c><00:04:02.699><c> time</c>
+
+00:04:02.930 --> 00:04:02.940 align:start position:0%
+that expressions have compiled time
+ 
+
+00:04:02.940 --> 00:04:04.520 align:start position:0%
+that expressions have compiled time
+types<00:04:03.269><c> and</c><00:04:03.569><c> one</c><00:04:03.959><c> of</c><00:04:04.049><c> the</c><00:04:04.139><c> jobs</c><00:04:04.379><c> of</c><00:04:04.470><c> the</c>
+
+00:04:04.520 --> 00:04:04.530 align:start position:0%
+types and one of the jobs of the
+ 
+
+00:04:04.530 --> 00:04:06.500 align:start position:0%
+types and one of the jobs of the
+compiler<00:04:05.129><c> is</c><00:04:05.280><c> to</c><00:04:05.609><c> make</c><00:04:05.790><c> sure</c><00:04:05.970><c> that</c><00:04:06.120><c> all</c><00:04:06.329><c> the</c>
+
+00:04:06.500 --> 00:04:06.510 align:start position:0%
+compiler is to make sure that all the
+ 
+
+00:04:06.510 --> 00:04:08.360 align:start position:0%
+compiler is to make sure that all the
+expressions<00:04:06.720><c> compile</c><00:04:07.470><c> time</c><00:04:07.709><c> types</c><00:04:07.949><c> line</c><00:04:08.220><c> up</c>
+
+00:04:08.360 --> 00:04:08.370 align:start position:0%
+expressions compile time types line up
+ 
+
+00:04:08.370 --> 00:04:09.800 align:start position:0%
+expressions compile time types line up
+and<00:04:08.699><c> so</c><00:04:09.090><c> we're</c><00:04:09.180><c> not</c><00:04:09.239><c> gonna</c><00:04:09.359><c> go</c><00:04:09.569><c> through</c><00:04:09.599><c> the</c>
+
+00:04:09.800 --> 00:04:09.810 align:start position:0%
+and so we're not gonna go through the
+ 
+
+00:04:09.810 --> 00:04:11.300 align:start position:0%
+and so we're not gonna go through the
+whole<00:04:09.840><c> type</c><00:04:10.139><c> system</c><00:04:10.500><c> in</c><00:04:10.620><c> Java</c><00:04:10.829><c> because</c><00:04:11.010><c> it's</c>
+
+00:04:11.300 --> 00:04:11.310 align:start position:0%
+whole type system in Java because it's
+ 
+
+00:04:11.310 --> 00:04:14.059 align:start position:0%
+whole type system in Java because it's
+too<00:04:11.430><c> complicated</c><00:04:11.760><c> but</c><00:04:12.500><c> essentially</c><00:04:13.500><c> I'll</c>
+
+00:04:14.059 --> 00:04:14.069 align:start position:0%
+too complicated but essentially I'll
+ 
+
+00:04:14.069 --> 00:04:17.180 align:start position:0%
+too complicated but essentially I'll
+give<00:04:14.220><c> a</c><00:04:14.250><c> couple</c><00:04:14.430><c> examples</c><00:04:14.870><c> first</c><00:04:15.870><c> if</c><00:04:16.409><c> we</c><00:04:16.769><c> have</c>
+
+00:04:17.180 --> 00:04:17.190 align:start position:0%
+give a couple examples first if we have
+ 
+
+00:04:17.190 --> 00:04:19.339 align:start position:0%
+give a couple examples first if we have
+an<00:04:17.400><c> instantiation</c><00:04:17.909><c> using</c><00:04:18.810><c> the</c><00:04:18.930><c> new</c><00:04:19.049><c> keyword</c>
+
+00:04:19.339 --> 00:04:19.349 align:start position:0%
+an instantiation using the new keyword
+ 
+
+00:04:19.349 --> 00:04:21.830 align:start position:0%
+an instantiation using the new keyword
+this<00:04:20.220><c> has</c><00:04:20.430><c> some</c><00:04:20.609><c> specified</c><00:04:21.180><c> compile</c><00:04:21.570><c> time</c>
+
+00:04:21.830 --> 00:04:21.840 align:start position:0%
+this has some specified compile time
+ 
+
+00:04:21.840 --> 00:04:23.930 align:start position:0%
+this has some specified compile time
+type<00:04:22.079><c> so</c><00:04:22.289><c> if</c><00:04:22.380><c> I</c><00:04:22.440><c> say</c><00:04:22.620><c> new</c><00:04:22.800><c> vengeful</c><00:04:23.219><c> s</c><00:04:23.340><c> list</c><00:04:23.610><c> you</c>
+
+00:04:23.930 --> 00:04:23.940 align:start position:0%
+type so if I say new vengeful s list you
+ 
+
+00:04:23.940 --> 00:04:26.030 align:start position:0%
+type so if I say new vengeful s list you
+can<00:04:24.120><c> think</c><00:04:24.300><c> of</c><00:04:24.419><c> this</c><00:04:24.570><c> whole</c><00:04:24.750><c> expression</c><00:04:25.500><c> as</c>
+
+00:04:26.030 --> 00:04:26.040 align:start position:0%
+can think of this whole expression as
+ 
+
+00:04:26.040 --> 00:04:27.920 align:start position:0%
+can think of this whole expression as
+having<00:04:26.280><c> a</c><00:04:26.370><c> compile-time</c><00:04:26.760><c> type</c><00:04:27.300><c> and</c><00:04:27.540><c> it's</c>
+
+00:04:27.920 --> 00:04:27.930 align:start position:0%
+having a compile-time type and it's
+ 
+
+00:04:27.930 --> 00:04:30.980 align:start position:0%
+having a compile-time type and it's
+tight<00:04:28.650><c> this</c><00:04:28.860><c> vengeful</c><00:04:29.280><c> s</c><00:04:29.520><c> list</c><00:04:29.790><c> and</c><00:04:30.060><c> so</c><00:04:30.870><c> when</c>
+
+00:04:30.980 --> 00:04:30.990 align:start position:0%
+tight this vengeful s list and so when
+ 
+
+00:04:30.990 --> 00:04:32.240 align:start position:0%
+tight this vengeful s list and so when
+java<00:04:31.380><c> is</c><00:04:31.530><c> trying</c><00:04:31.710><c> to</c><00:04:31.770><c> decide</c><00:04:32.010><c> is</c><00:04:32.220><c> this</c>
+
+00:04:32.240 --> 00:04:32.250 align:start position:0%
+java is trying to decide is this
+ 
+
+00:04:32.250 --> 00:04:36.950 align:start position:0%
+java is trying to decide is this
+assignment<00:04:32.790><c> allowed</c><00:04:33.330><c> it</c><00:04:33.960><c> says</c><00:04:35.180><c> here</c><00:04:36.180><c> if</c><00:04:36.420><c> this</c>
+
+00:04:36.950 --> 00:04:36.960 align:start position:0%
+assignment allowed it says here if this
+ 
+
+00:04:36.960 --> 00:04:39.170 align:start position:0%
+assignment allowed it says here if this
+is<00:04:37.020><c> a</c><00:04:37.200><c> vengeful</c><00:04:37.530><c> s</c><00:04:37.860><c> list</c><00:04:38.160><c> and</c><00:04:38.370><c> this</c><00:04:38.790><c> is</c><00:04:38.910><c> an</c><00:04:39.060><c> s</c>
+
+00:04:39.170 --> 00:04:39.180 align:start position:0%
+is a vengeful s list and this is an s
+ 
+
+00:04:39.180 --> 00:04:41.000 align:start position:0%
+is a vengeful s list and this is an s
+list<00:04:39.450><c> that</c><00:04:39.570><c> says</c><00:04:39.690><c> is</c><00:04:39.960><c> the</c><00:04:40.200><c> vengeful</c><00:04:40.500><c> s</c><00:04:40.740><c> list</c>
+
+00:04:41.000 --> 00:04:41.010 align:start position:0%
+list that says is the vengeful s list
+ 
+
+00:04:41.010 --> 00:04:43.070 align:start position:0%
+list that says is the vengeful s list
+and<00:04:41.190><c> s</c><00:04:41.280><c> list</c><00:04:41.580><c> and</c><00:04:41.790><c> it</c><00:04:42.060><c> has</c><00:04:42.210><c> this</c><00:04:42.360><c> diagram</c><00:04:42.900><c> it</c>
+
+00:04:43.070 --> 00:04:43.080 align:start position:0%
+and s list and it has this diagram it
+ 
+
+00:04:43.080 --> 00:04:44.810 align:start position:0%
+and s list and it has this diagram it
+can<00:04:43.200><c> look</c><00:04:43.380><c> and</c><00:04:43.500><c> say</c><00:04:43.620><c> yes</c><00:04:43.890><c> indeed</c><00:04:44.220><c> eventual</c><00:04:44.670><c> s</c>
+
+00:04:44.810 --> 00:04:44.820 align:start position:0%
+can look and say yes indeed eventual s
+ 
+
+00:04:44.820 --> 00:04:47.180 align:start position:0%
+can look and say yes indeed eventual s
+list<00:04:45.090><c> is</c><00:04:45.540><c> a</c><00:04:45.600><c> subclass</c><00:04:46.050><c> of</c><00:04:46.260><c> s</c><00:04:46.440><c> list</c><00:04:46.710><c> so</c><00:04:47.100><c> I'm</c>
+
+00:04:47.180 --> 00:04:47.190 align:start position:0%
+list is a subclass of s list so I'm
+ 
+
+00:04:47.190 --> 00:04:49.040 align:start position:0%
+list is a subclass of s list so I'm
+going<00:04:47.370><c> to</c><00:04:47.460><c> allow</c><00:04:47.730><c> this</c><00:04:47.940><c> assignment</c><00:04:48.480><c> so</c><00:04:48.960><c> it</c>
+
+00:04:49.040 --> 00:04:49.050 align:start position:0%
+going to allow this assignment so it
+ 
+
+00:04:49.050 --> 00:04:50.960 align:start position:0%
+going to allow this assignment so it
+checks<00:04:49.260><c> the</c><00:04:49.350><c> right-hand</c><00:04:49.890><c> side</c><00:04:50.130><c> which</c><00:04:50.640><c> I</c><00:04:50.820><c> will</c>
+
+00:04:50.960 --> 00:04:50.970 align:start position:0%
+checks the right-hand side which I will
+ 
+
+00:04:50.970 --> 00:04:53.240 align:start position:0%
+checks the right-hand side which I will
+have<00:04:51.000><c> on</c><00:04:51.210><c> the</c><00:04:51.300><c> slides</c><00:04:51.540><c> is</c><00:04:51.720><c> just</c><00:04:51.930><c> RH</c><00:04:52.260><c> s</c><00:04:52.440><c> it</c>
+
+00:04:53.240 --> 00:04:53.250 align:start position:0%
+have on the slides is just RH s it
+ 
+
+00:04:53.250 --> 00:04:54.740 align:start position:0%
+have on the slides is just RH s it
+checks<00:04:53.460><c> the</c><00:04:53.550><c> right-hand</c><00:04:53.850><c> side</c><00:04:54.060><c> and</c><00:04:54.300><c> make</c><00:04:54.600><c> sure</c>
+
+00:04:54.740 --> 00:04:54.750 align:start position:0%
+checks the right-hand side and make sure
+ 
+
+00:04:54.750 --> 00:04:56.600 align:start position:0%
+checks the right-hand side and make sure
+that<00:04:54.900><c> this</c><00:04:55.110><c> type</c><00:04:55.440><c> is</c><00:04:55.650><c> compatible</c><00:04:56.250><c> with</c><00:04:56.400><c> the</c>
+
+00:04:56.600 --> 00:04:56.610 align:start position:0%
+that this type is compatible with the
+ 
+
+00:04:56.610 --> 00:04:58.820 align:start position:0%
+that this type is compatible with the
+left<00:04:56.820><c> hand</c><00:04:57.030><c> side</c><00:04:57.210><c> of</c><00:04:57.330><c> the</c><00:04:57.420><c> expression</c><00:04:57.710><c> now</c><00:04:58.710><c> by</c>
+
+00:04:58.820 --> 00:04:58.830 align:start position:0%
+left hand side of the expression now by
+ 
+
+00:04:58.830 --> 00:05:01.760 align:start position:0%
+left hand side of the expression now by
+contrast<00:04:59.010><c> if</c><00:04:59.760><c> we</c><00:05:00.000><c> create</c><00:05:00.300><c> an</c><00:05:00.390><c> S</c><00:05:00.600><c> list</c><00:05:00.990><c> right</c>
+
+00:05:01.760 --> 00:05:01.770 align:start position:0%
+contrast if we create an S list right
+ 
+
+00:05:01.770 --> 00:05:05.690 align:start position:0%
+contrast if we create an S list right
+this<00:05:02.760><c> has</c><00:05:03.000><c> static</c><00:05:03.600><c> type</c><00:05:03.810><c> s</c><00:05:04.350><c> list</c><00:05:04.830><c> and</c><00:05:05.070><c> this</c><00:05:05.490><c> has</c>
+
+00:05:05.690 --> 00:05:05.700 align:start position:0%
+this has static type s list and this has
+ 
+
+00:05:05.700 --> 00:05:08.420 align:start position:0%
+this has static type s list and this has
+static<00:05:06.270><c> type</c><00:05:06.480><c> vengeful</c><00:05:07.140><c> s</c><00:05:07.290><c> list</c><00:05:07.560><c> and</c><00:05:08.160><c> it</c><00:05:08.280><c> says</c>
+
+00:05:08.420 --> 00:05:08.430 align:start position:0%
+static type vengeful s list and it says
+ 
+
+00:05:08.430 --> 00:05:10.220 align:start position:0%
+static type vengeful s list and it says
+is<00:05:08.580><c> an</c><00:05:08.850><c> S</c><00:05:08.970><c> list</c><00:05:09.210><c> eventual</c><00:05:09.690><c> s</c><00:05:09.810><c> list</c>
+
+00:05:10.220 --> 00:05:10.230 align:start position:0%
+is an S list eventual s list
+ 
+
+00:05:10.230 --> 00:05:12.770 align:start position:0%
+is an S list eventual s list
+well<00:05:10.560><c> sometimes</c><00:05:11.160><c> but</c><00:05:11.490><c> not</c><00:05:11.610><c> always</c><00:05:11.850><c> and</c><00:05:12.240><c> so</c><00:05:12.660><c> the</c>
+
+00:05:12.770 --> 00:05:12.780 align:start position:0%
+well sometimes but not always and so the
+ 
+
+00:05:12.780 --> 00:05:15.170 align:start position:0%
+well sometimes but not always and so the
+compiler<00:05:13.500><c> plays</c><00:05:13.890><c> it</c><00:05:14.070><c> very</c><00:05:14.100><c> safe</c><00:05:14.490><c> and</c><00:05:14.700><c> it</c><00:05:15.030><c> says</c>
+
+00:05:15.170 --> 00:05:15.180 align:start position:0%
+compiler plays it very safe and it says
+ 
+
+00:05:15.180 --> 00:05:18.680 align:start position:0%
+compiler plays it very safe and it says
+this<00:05:15.330><c> is</c><00:05:15.480><c> not</c><00:05:15.630><c> allowed</c><00:05:15.900><c> and</c><00:05:16.170><c> will</c><00:05:16.440><c> crash</c><00:05:17.690><c> now</c>
+
+00:05:18.680 --> 00:05:18.690 align:start position:0%
+this is not allowed and will crash now
+ 
+
+00:05:18.690 --> 00:05:20.750 align:start position:0%
+this is not allowed and will crash now
+we<00:05:19.170><c> can</c><00:05:19.320><c> have</c><00:05:19.500><c> other</c><00:05:19.770><c> types</c><00:05:20.100><c> of</c><00:05:20.220><c> expressions</c>
+
+00:05:20.750 --> 00:05:20.760 align:start position:0%
+we can have other types of expressions
+ 
+
+00:05:20.760 --> 00:05:22.130 align:start position:0%
+we can have other types of expressions
+so<00:05:20.940><c> when</c><00:05:21.060><c> you</c><00:05:21.120><c> add</c><00:05:21.270><c> numbers</c><00:05:21.750><c> that's</c><00:05:21.990><c> an</c>
+
+00:05:22.130 --> 00:05:22.140 align:start position:0%
+so when you add numbers that's an
+ 
+
+00:05:22.140 --> 00:05:23.420 align:start position:0%
+so when you add numbers that's an
+expression<00:05:22.380><c> when</c><00:05:22.710><c> you</c><00:05:22.770><c> do</c><00:05:22.890><c> new</c><00:05:23.100><c> that's</c><00:05:23.340><c> an</c>
+
+00:05:23.420 --> 00:05:23.430 align:start position:0%
+expression when you do new that's an
+ 
+
+00:05:23.430 --> 00:05:25.850 align:start position:0%
+expression when you do new that's an
+expression<00:05:23.660><c> and</c><00:05:24.660><c> maybe</c><00:05:25.470><c> one</c><00:05:25.650><c> of</c><00:05:25.680><c> the</c><00:05:25.800><c> most</c>
+
+00:05:25.850 --> 00:05:25.860 align:start position:0%
+expression and maybe one of the most
+ 
+
+00:05:25.860 --> 00:05:29.410 align:start position:0%
+expression and maybe one of the most
+interesting<00:05:26.160><c> things</c><00:05:26.400><c> is</c><00:05:26.880><c> a</c><00:05:27.210><c> method</c><00:05:27.690><c> call</c><00:05:28.010><c> so</c>
+
+00:05:29.410 --> 00:05:29.420 align:start position:0%
+interesting things is a method call so
+ 
+
+00:05:29.420 --> 00:05:34.310 align:start position:0%
+interesting things is a method call so
+this<00:05:30.420><c> anytime</c><00:05:30.900><c> we</c><00:05:31.500><c> call</c><00:05:31.800><c> an</c><00:05:32.190><c> X</c><00:05:32.840><c> say</c><00:05:33.840><c> max</c><00:05:34.080><c> dog</c>
+
+00:05:34.310 --> 00:05:34.320 align:start position:0%
+this anytime we call an X say max dog
+ 
+
+00:05:34.320 --> 00:05:36.950 align:start position:0%
+this anytime we call an X say max dog
+and<00:05:35.070><c> it's</c><00:05:35.400><c> the</c><00:05:35.700><c> expression</c><00:05:35.970><c> here</c><00:05:36.660><c> are</c>
+
+00:05:36.950 --> 00:05:36.960 align:start position:0%
+and it's the expression here are
+ 
+
+00:05:36.960 --> 00:05:39.440 align:start position:0%
+and it's the expression here are
+actually<00:05:37.290><c> I'll</c><00:05:37.440><c> say</c><00:05:37.620><c> here</c><00:05:38.300><c> maybe</c><00:05:39.300><c> this</c>
+
+00:05:39.440 --> 00:05:39.450 align:start position:0%
+actually I'll say here maybe this
+ 
+
+00:05:39.450 --> 00:05:41.000 align:start position:0%
+actually I'll say here maybe this
+example<00:05:39.720><c> is</c><00:05:39.900><c> a</c><00:05:39.930><c> good</c><00:05:40.080><c> place</c><00:05:40.230><c> to</c><00:05:40.260><c> start</c><00:05:40.530><c> I</c><00:05:40.830><c> have</c>
+
+00:05:41.000 --> 00:05:41.010 align:start position:0%
+example is a good place to start I have
+ 
+
+00:05:41.010 --> 00:05:44.240 align:start position:0%
+example is a good place to start I have
+two<00:05:41.160><c> poodles</c><00:05:41.340><c> Frank</c><00:05:42.060><c> and</c><00:05:42.270><c> Frank</c><00:05:42.630><c> jr.</c><00:05:43.130><c> and</c><00:05:44.130><c> I</c>
+
+00:05:44.240 --> 00:05:44.250 align:start position:0%
+two poodles Frank and Frank jr. and I
+ 
+
+00:05:44.250 --> 00:05:46.910 align:start position:0%
+two poodles Frank and Frank jr. and I
+say<00:05:44.460><c> dog</c><00:05:44.880><c> larger</c><00:05:45.540><c> dog</c><00:05:45.690><c> equals</c><00:05:46.080><c> max</c><00:05:46.290><c> dog</c><00:05:46.530><c> Frank</c>
+
+00:05:46.910 --> 00:05:46.920 align:start position:0%
+say dog larger dog equals max dog Frank
+ 
+
+00:05:46.920 --> 00:05:49.280 align:start position:0%
+say dog larger dog equals max dog Frank
+Frank<00:05:47.280><c> jr.</c><00:05:47.610><c> so</c><00:05:48.270><c> the</c><00:05:48.390><c> question</c><00:05:48.690><c> is</c><00:05:48.780><c> what</c><00:05:49.050><c> is</c><00:05:49.170><c> the</c>
+
+00:05:49.280 --> 00:05:49.290 align:start position:0%
+Frank jr. so the question is what is the
+ 
+
+00:05:49.290 --> 00:05:51.890 align:start position:0%
+Frank jr. so the question is what is the
+compile<00:05:49.650><c> time</c><00:05:49.680><c> type</c><00:05:50.190><c> aka</c><00:05:50.730><c> the</c><00:05:51.120><c> static</c><00:05:51.480><c> type</c><00:05:51.660><c> of</c>
+
+00:05:51.890 --> 00:05:51.900 align:start position:0%
+compile time type aka the static type of
+ 
+
+00:05:51.900 --> 00:05:54.440 align:start position:0%
+compile time type aka the static type of
+the<00:05:52.080><c> max</c><00:05:52.290><c> dog</c><00:05:52.530><c> call</c><00:05:53.040><c> well</c><00:05:53.700><c> it's</c><00:05:53.940><c> whatever</c><00:05:54.210><c> you</c>
+
+00:05:54.440 --> 00:05:54.450 align:start position:0%
+the max dog call well it's whatever you
+ 
+
+00:05:54.450 --> 00:05:57.230 align:start position:0%
+the max dog call well it's whatever you
+declared<00:05:54.840><c> it</c><00:05:54.990><c> to</c><00:05:55.020><c> be</c><00:05:55.140><c> so</c><00:05:55.980><c> I</c><00:05:56.010><c> said</c><00:05:56.370><c> it's</c><00:05:56.640><c> public</c>
+
+00:05:57.230 --> 00:05:57.240 align:start position:0%
+declared it to be so I said it's public
+ 
+
+00:05:57.240 --> 00:05:58.070 align:start position:0%
+declared it to be so I said it's public
+dog
+
+00:05:58.070 --> 00:05:58.080 align:start position:0%
+dog
+ 
+
+00:05:58.080 --> 00:06:01.160 align:start position:0%
+dog
+therefore<00:05:58.740><c> the</c><00:05:59.490><c> compile</c><00:06:00.090><c> time</c><00:06:00.180><c> type</c><00:06:00.540><c> of</c><00:06:00.780><c> any</c>
+
+00:06:01.160 --> 00:06:01.170 align:start position:0%
+therefore the compile time type of any
+ 
+
+00:06:01.170 --> 00:06:04.700 align:start position:0%
+therefore the compile time type of any
+expression<00:06:01.890><c> that</c><00:06:02.070><c> uses</c><00:06:03.000><c> max</c><00:06:03.420><c> dog</c><00:06:03.660><c> or</c><00:06:03.960><c> say</c><00:06:04.140><c> any</c>
+
+00:06:04.700 --> 00:06:04.710 align:start position:0%
+expression that uses max dog or say any
+ 
+
+00:06:04.710 --> 00:06:08.300 align:start position:0%
+expression that uses max dog or say any
+call<00:06:05.190><c> to</c><00:06:05.220><c> max</c><00:06:05.640><c> dog</c><00:06:05.820><c> will</c><00:06:06.150><c> be</c><00:06:06.270><c> dog</c><00:06:06.480><c> okay</c><00:06:07.470><c> and</c><00:06:07.740><c> so</c>
+
+00:06:08.300 --> 00:06:08.310 align:start position:0%
+call to max dog will be dog okay and so
+ 
+
+00:06:08.310 --> 00:06:09.800 align:start position:0%
+call to max dog will be dog okay and so
+in<00:06:08.370><c> this</c><00:06:08.460><c> case</c><00:06:08.640><c> we</c><00:06:08.790><c> say</c><00:06:08.940><c> dog</c><00:06:09.150><c> larger</c><00:06:09.630><c> dog</c>
+
+00:06:09.800 --> 00:06:09.810 align:start position:0%
+in this case we say dog larger dog
+ 
+
+00:06:09.810 --> 00:06:11.720 align:start position:0%
+in this case we say dog larger dog
+equals<00:06:10.170><c> max</c><00:06:10.350><c> dog</c><00:06:10.590><c> Frank</c><00:06:10.920><c> and</c><00:06:11.100><c> Frank</c><00:06:11.220><c> jr.</c><00:06:11.580><c> it</c>
+
+00:06:11.720 --> 00:06:11.730 align:start position:0%
+equals max dog Frank and Frank jr. it
+ 
+
+00:06:11.730 --> 00:06:14.570 align:start position:0%
+equals max dog Frank and Frank jr. it
+says<00:06:12.060><c> okay</c><00:06:12.420><c> this</c><00:06:12.990><c> is</c><00:06:13.140><c> a</c><00:06:13.170><c> dog</c><00:06:13.410><c> is</c><00:06:13.680><c> a</c><00:06:13.950><c> dog</c><00:06:14.070><c> a</c><00:06:14.280><c> dog</c>
+
+00:06:14.570 --> 00:06:14.580 align:start position:0%
+says okay this is a dog is a dog a dog
+ 
+
+00:06:14.580 --> 00:06:17.390 align:start position:0%
+says okay this is a dog is a dog a dog
+yes<00:06:15.150><c> okay</c><00:06:15.630><c> so</c><00:06:15.660><c> that</c><00:06:15.870><c> lines</c><00:06:16.110><c> fine</c><00:06:16.410><c> but</c><00:06:17.310><c> then</c>
+
+00:06:17.390 --> 00:06:17.400 align:start position:0%
+yes okay so that lines fine but then
+ 
+
+00:06:17.400 --> 00:06:19.370 align:start position:0%
+yes okay so that lines fine but then
+when<00:06:17.490><c> it</c><00:06:17.580><c> gets</c><00:06:17.730><c> to</c><00:06:17.850><c> this</c><00:06:17.940><c> bottom</c><00:06:18.390><c> line</c><00:06:18.600><c> when</c><00:06:19.290><c> it</c>
+
+00:06:19.370 --> 00:06:19.380 align:start position:0%
+when it gets to this bottom line when it
+ 
+
+00:06:19.380 --> 00:06:21.830 align:start position:0%
+when it gets to this bottom line when it
+does<00:06:19.530><c> max</c><00:06:19.860><c> dog</c><00:06:20.100><c> Frank</c><00:06:20.430><c> and</c><00:06:20.640><c> Frank</c><00:06:20.790><c> jr.</c><00:06:21.150><c> even</c>
+
+00:06:21.830 --> 00:06:21.840 align:start position:0%
+does max dog Frank and Frank jr. even
+ 
+
+00:06:21.840 --> 00:06:23.780 align:start position:0%
+does max dog Frank and Frank jr. even
+though<00:06:21.960><c> the</c><00:06:22.080><c> runtime</c><00:06:22.620><c> type</c><00:06:22.890><c> of</c><00:06:23.160><c> these</c><00:06:23.490><c> two</c>
+
+00:06:23.780 --> 00:06:23.790 align:start position:0%
+though the runtime type of these two
+ 
+
+00:06:23.790 --> 00:06:26.900 align:start position:0%
+though the runtime type of these two
+objects<00:06:24.480><c> is</c><00:06:24.690><c> poodle</c><00:06:25.200><c> we</c><00:06:26.100><c> cannot</c><00:06:26.370><c> assign</c><00:06:26.730><c> the</c>
+
+00:06:26.900 --> 00:06:26.910 align:start position:0%
+objects is poodle we cannot assign the
+ 
+
+00:06:26.910 --> 00:06:29.360 align:start position:0%
+objects is poodle we cannot assign the
+result<00:06:27.030><c> to</c><00:06:27.270><c> a</c><00:06:27.390><c> poodle</c><00:06:27.750><c> variable</c><00:06:28.260><c> why</c><00:06:28.680><c> well</c>
+
+00:06:29.360 --> 00:06:29.370 align:start position:0%
+result to a poodle variable why well
+ 
+
+00:06:29.370 --> 00:06:31.280 align:start position:0%
+result to a poodle variable why well
+because<00:06:29.400><c> the</c><00:06:29.910><c> compiler</c><00:06:30.180><c> says</c><00:06:30.570><c> the</c><00:06:30.840><c> static</c>
+
+00:06:31.280 --> 00:06:31.290 align:start position:0%
+because the compiler says the static
+ 
+
+00:06:31.290 --> 00:06:34.940 align:start position:0%
+because the compiler says the static
+type<00:06:31.530><c> of</c><00:06:31.740><c> the</c><00:06:32.190><c> max</c><00:06:32.460><c> dog</c><00:06:32.760><c> call</c><00:06:33.090><c> is</c><00:06:33.600><c> dog</c><00:06:34.470><c> right</c>
+
+00:06:34.940 --> 00:06:34.950 align:start position:0%
+type of the max dog call is dog right
+ 
+
+00:06:34.950 --> 00:06:36.380 align:start position:0%
+type of the max dog call is dog right
+the<00:06:35.130><c> compile</c><00:06:35.400><c> time</c><00:06:35.430><c> type</c><00:06:35.820><c> is</c><00:06:36.000><c> whatever</c><00:06:36.180><c> you</c>
+
+00:06:36.380 --> 00:06:36.390 align:start position:0%
+the compile time type is whatever you
+ 
+
+00:06:36.390 --> 00:06:39.140 align:start position:0%
+the compile time type is whatever you
+specified<00:06:36.900><c> and</c><00:06:37.250><c> therefore</c><00:06:38.250><c> it</c>
+
+00:06:39.140 --> 00:06:39.150 align:start position:0%
+specified and therefore it
+ 
+
+00:06:39.150 --> 00:06:41.060 align:start position:0%
+specified and therefore it
+assign<00:06:39.480><c> that</c><00:06:39.690><c> to</c><00:06:39.900><c> a</c><00:06:40.020><c> poodle</c><00:06:40.530><c> variable</c><00:06:40.860><c> because</c>
+
+00:06:41.060 --> 00:06:41.070 align:start position:0%
+assign that to a poodle variable because
+ 
+
+00:06:41.070 --> 00:06:43.460 align:start position:0%
+assign that to a poodle variable because
+as<00:06:41.190><c> it</c><00:06:41.490><c> says</c><00:06:41.700><c> is</c><00:06:42.000><c> a</c><00:06:42.180><c> dog</c><00:06:42.450><c> a</c><00:06:42.480><c> poodle</c><00:06:42.990><c> well</c>
+
+00:06:43.460 --> 00:06:43.470 align:start position:0%
+as it says is a dog a poodle well
+ 
+
+00:06:43.470 --> 00:06:45.350 align:start position:0%
+as it says is a dog a poodle well
+sometimes<00:06:44.070><c> but</c><00:06:44.280><c> not</c><00:06:44.400><c> always</c><00:06:44.640><c> so</c><00:06:45.090><c> I</c><00:06:45.120><c> won't</c>
+
+00:06:45.350 --> 00:06:45.360 align:start position:0%
+sometimes but not always so I won't
+ 
+
+00:06:45.360 --> 00:06:45.830 align:start position:0%
+sometimes but not always so I won't
+allow<00:06:45.630><c> it</c>
+
+00:06:45.830 --> 00:06:45.840 align:start position:0%
+allow it
+ 
+
+00:06:45.840 --> 00:06:49.670 align:start position:0%
+allow it
+okay<00:06:46.730><c> now</c><00:06:47.730><c> there</c><00:06:47.940><c> is</c><00:06:48.060><c> some</c><00:06:48.750><c> time</c><00:06:48.990><c> so</c><00:06:49.290><c> sometimes</c>
+
+00:06:49.670 --> 00:06:49.680 align:start position:0%
+okay now there is some time so sometimes
+ 
+
+00:06:49.680 --> 00:06:51.080 align:start position:0%
+okay now there is some time so sometimes
+you<00:06:49.800><c> actually</c><00:06:49.950><c> want</c><00:06:50.370><c> this</c><00:06:50.550><c> to</c><00:06:50.730><c> work</c><00:06:50.880><c> and</c>
+
+00:06:51.080 --> 00:06:51.090 align:start position:0%
+you actually want this to work and
+ 
+
+00:06:51.090 --> 00:06:52.700 align:start position:0%
+you actually want this to work and
+casting<00:06:51.870><c> is</c><00:06:51.990><c> something</c><00:06:52.290><c> we're</c><00:06:52.380><c> gonna</c><00:06:52.470><c> do</c>
+
+00:06:52.700 --> 00:06:52.710 align:start position:0%
+casting is something we're gonna do
+ 
+
+00:06:52.710 --> 00:06:54.740 align:start position:0%
+casting is something we're gonna do
+rarely<00:06:53.100><c> and</c><00:06:53.280><c> in</c><00:06:53.430><c> fact</c><00:06:53.610><c> we</c><00:06:53.730><c> already</c><00:06:53.940><c> did</c><00:06:54.330><c> in</c><00:06:54.600><c> the</c>
+
+00:06:54.740 --> 00:06:54.750 align:start position:0%
+rarely and in fact we already did in the
+ 
+
+00:06:54.750 --> 00:06:57.980 align:start position:0%
+rarely and in fact we already did in the
+array<00:06:54.990><c> Dec</c><00:06:55.200><c> class</c><00:06:56.040><c> and</c><00:06:56.280><c> project</c><00:06:56.640><c> 1a</c><00:06:56.840><c> but</c><00:06:57.840><c> this</c>
+
+00:06:57.980 --> 00:06:57.990 align:start position:0%
+array Dec class and project 1a but this
+ 
+
+00:06:57.990 --> 00:07:00.950 align:start position:0%
+array Dec class and project 1a but this
+general<00:06:58.350><c> tool</c><00:06:58.650><c> of</c><00:06:58.740><c> casting</c><00:06:59.160><c> works</c><00:06:59.340><c> like</c><00:06:59.550><c> so</c><00:06:59.960><c> so</c>
+
+00:07:00.950 --> 00:07:00.960 align:start position:0%
+general tool of casting works like so so
+ 
+
+00:07:00.960 --> 00:07:02.540 align:start position:0%
+general tool of casting works like so so
+I<00:07:00.990><c> have</c><00:07:01.170><c> an</c><00:07:01.260><c> expression</c><00:07:01.560><c> whatever</c><00:07:02.100><c> it</c><00:07:02.340><c> may</c><00:07:02.490><c> be</c>
+
+00:07:02.540 --> 00:07:02.550 align:start position:0%
+I have an expression whatever it may be
+ 
+
+00:07:02.550 --> 00:07:04.610 align:start position:0%
+I have an expression whatever it may be
+it<00:07:03.090><c> could</c><00:07:03.240><c> be</c><00:07:03.300><c> a</c><00:07:03.390><c> method</c><00:07:03.750><c> call</c><00:07:03.960><c> it</c><00:07:04.290><c> could</c><00:07:04.440><c> be</c><00:07:04.530><c> an</c>
+
+00:07:04.610 --> 00:07:04.620 align:start position:0%
+it could be a method call it could be an
+ 
+
+00:07:04.620 --> 00:07:06.350 align:start position:0%
+it could be a method call it could be an
+instantiation<00:07:04.950><c> it</c><00:07:05.550><c> could</c><00:07:05.700><c> be</c><00:07:05.790><c> an</c><00:07:05.880><c> arithmetic</c>
+
+00:07:06.350 --> 00:07:06.360 align:start position:0%
+instantiation it could be an arithmetic
+ 
+
+00:07:06.360 --> 00:07:08.480 align:start position:0%
+instantiation it could be an arithmetic
+operation<00:07:06.930><c> it</c><00:07:07.110><c> could</c><00:07:07.230><c> be</c><00:07:07.350><c> some</c><00:07:07.560><c> giant</c><00:07:07.950><c> you</c>
+
+00:07:08.480 --> 00:07:08.490 align:start position:0%
+operation it could be some giant you
+ 
+
+00:07:08.490 --> 00:07:11.750 align:start position:0%
+operation it could be some giant you
+know<00:07:08.720><c> blob</c><00:07:09.720><c> of</c><00:07:09.900><c> stuff</c><00:07:10.340><c> there's</c><00:07:11.340><c> a</c><00:07:11.430><c> special</c>
+
+00:07:11.750 --> 00:07:11.760 align:start position:0%
+know blob of stuff there's a special
+ 
+
+00:07:11.760 --> 00:07:14.000 align:start position:0%
+know blob of stuff there's a special
+syntax<00:07:11.970><c> where</c><00:07:12.690><c> you</c><00:07:12.780><c> can</c><00:07:12.960><c> say</c><00:07:13.170><c> to</c><00:07:13.230><c> the</c><00:07:13.470><c> compiler</c>
+
+00:07:14.000 --> 00:07:14.010 align:start position:0%
+syntax where you can say to the compiler
+ 
+
+00:07:14.010 --> 00:07:17.360 align:start position:0%
+syntax where you can say to the compiler
+please<00:07:14.970><c> consider</c><00:07:15.450><c> this</c><00:07:15.840><c> expression</c><00:07:16.560><c> to</c><00:07:17.190><c> have</c>
+
+00:07:17.360 --> 00:07:17.370 align:start position:0%
+please consider this expression to have
+ 
+
+00:07:17.370 --> 00:07:19.670 align:start position:0%
+please consider this expression to have
+this<00:07:17.580><c> certain</c><00:07:17.760><c> compile</c><00:07:18.180><c> time</c><00:07:18.420><c> type</c><00:07:18.660><c> so</c><00:07:19.410><c> to</c><00:07:19.470><c> do</c>
+
+00:07:19.670 --> 00:07:19.680 align:start position:0%
+this certain compile time type so to do
+ 
+
+00:07:19.680 --> 00:07:22.100 align:start position:0%
+this certain compile time type so to do
+that<00:07:19.860><c> this</c><00:07:20.700><c> expression</c><00:07:21.300><c> as</c><00:07:21.420><c> compile</c><00:07:21.810><c> time</c>
+
+00:07:22.100 --> 00:07:22.110 align:start position:0%
+that this expression as compile time
+ 
+
+00:07:22.110 --> 00:07:25.010 align:start position:0%
+that this expression as compile time
+type<00:07:22.410><c> dog</c><00:07:22.800><c> why</c><00:07:23.340><c> because</c><00:07:23.820><c> it's</c><00:07:23.970><c> public</c><00:07:24.210><c> dog</c><00:07:24.690><c> max</c>
+
+00:07:25.010 --> 00:07:25.020 align:start position:0%
+type dog why because it's public dog max
+ 
+
+00:07:25.020 --> 00:07:27.770 align:start position:0%
+type dog why because it's public dog max
+dog<00:07:25.580><c> and</c><00:07:26.580><c> we</c><00:07:26.700><c> can</c><00:07:26.850><c> say</c><00:07:27.030><c> please</c><00:07:27.390><c> treat</c><00:07:27.630><c> this</c>
+
+00:07:27.770 --> 00:07:27.780 align:start position:0%
+dog and we can say please treat this
+ 
+
+00:07:27.780 --> 00:07:30.110 align:start position:0%
+dog and we can say please treat this
+like<00:07:27.960><c> a</c><00:07:27.990><c> poodle</c><00:07:28.260><c> okay</c><00:07:28.950><c> to</c><00:07:29.280><c> do</c><00:07:29.430><c> that</c><00:07:29.580><c> we</c><00:07:29.760><c> put</c><00:07:29.970><c> in</c>
+
+00:07:30.110 --> 00:07:30.120 align:start position:0%
+like a poodle okay to do that we put in
+ 
+
+00:07:30.120 --> 00:07:32.390 align:start position:0%
+like a poodle okay to do that we put in
+parentheses<00:07:30.720><c> the</c><00:07:31.140><c> name</c><00:07:31.410><c> of</c><00:07:31.650><c> the</c><00:07:31.770><c> class</c><00:07:31.980><c> that</c>
+
+00:07:32.390 --> 00:07:32.400 align:start position:0%
+parentheses the name of the class that
+ 
+
+00:07:32.400 --> 00:07:34.370 align:start position:0%
+parentheses the name of the class that
+we<00:07:32.490><c> want</c><00:07:32.670><c> it</c><00:07:32.760><c> to</c><00:07:32.850><c> treat</c><00:07:33.060><c> it</c><00:07:33.180><c> like</c><00:07:33.330><c> and</c><00:07:33.600><c> in</c><00:07:34.230><c> that</c>
+
+00:07:34.370 --> 00:07:34.380 align:start position:0%
+we want it to treat it like and in that
+ 
+
+00:07:34.380 --> 00:07:36.350 align:start position:0%
+we want it to treat it like and in that
+case<00:07:34.590><c> the</c><00:07:34.920><c> compiler</c><00:07:35.340><c> will</c><00:07:35.430><c> now</c><00:07:35.610><c> in</c><00:07:35.850><c> terms</c><00:07:36.240><c> of</c>
+
+00:07:36.350 --> 00:07:36.360 align:start position:0%
+case the compiler will now in terms of
+ 
+
+00:07:36.360 --> 00:07:37.520 align:start position:0%
+case the compiler will now in terms of
+its<00:07:36.480><c> type</c><00:07:36.690><c> checking</c><00:07:36.930><c> the</c><00:07:37.170><c> first</c><00:07:37.350><c> thing</c><00:07:37.500><c> that</c>
+
+00:07:37.520 --> 00:07:37.530 align:start position:0%
+its type checking the first thing that
+ 
+
+00:07:37.530 --> 00:07:38.660 align:start position:0%
+its type checking the first thing that
+compiler<00:07:37.980><c> does</c><00:07:38.160><c> is</c><00:07:38.370><c> it</c><00:07:38.490><c> make</c><00:07:38.640><c> sure</c>
+
+00:07:38.660 --> 00:07:38.670 align:start position:0%
+compiler does is it make sure
+ 
+
+00:07:38.670 --> 00:07:41.540 align:start position:0%
+compiler does is it make sure
+everything's<00:07:39.120><c> good</c><00:07:39.330><c> for</c><00:07:40.290><c> that</c><00:07:40.590><c> purpose</c><00:07:41.070><c> it</c>
+
+00:07:41.540 --> 00:07:41.550 align:start position:0%
+everything's good for that purpose it
+ 
+
+00:07:41.550 --> 00:07:44.780 align:start position:0%
+everything's good for that purpose it
+will<00:07:41.730><c> use</c><00:07:42.210><c> this</c><00:07:42.540><c> as</c><00:07:42.750><c> the</c><00:07:42.900><c> type</c><00:07:43.220><c> so</c><00:07:44.220><c> for</c><00:07:44.400><c> example</c>
+
+00:07:44.780 --> 00:07:44.790 align:start position:0%
+will use this as the type so for example
+ 
+
+00:07:44.790 --> 00:07:46.250 align:start position:0%
+will use this as the type so for example
+this<00:07:45.090><c> code</c><00:07:45.300><c> right</c><00:07:45.480><c> here</c><00:07:45.720><c> that</c><00:07:45.900><c> didn't</c><00:07:46.080><c> work</c><00:07:46.230><c> so</c>
+
+00:07:46.250 --> 00:07:46.260 align:start position:0%
+this code right here that didn't work so
+ 
+
+00:07:46.260 --> 00:07:48.320 align:start position:0%
+this code right here that didn't work so
+well<00:07:46.620><c> if</c><00:07:46.860><c> we</c><00:07:47.280><c> just</c><00:07:47.610><c> add</c><00:07:47.790><c> poodle</c><00:07:48.210><c> in</c>
+
+00:07:48.320 --> 00:07:48.330 align:start position:0%
+well if we just add poodle in
+ 
+
+00:07:48.330 --> 00:07:50.180 align:start position:0%
+well if we just add poodle in
+parentheses<00:07:48.870><c> here</c><00:07:49.050><c> the</c><00:07:49.500><c> compiler</c><00:07:49.920><c> will</c><00:07:50.070><c> say</c>
+
+00:07:50.180 --> 00:07:50.190 align:start position:0%
+parentheses here the compiler will say
+ 
+
+00:07:50.190 --> 00:07:52.310 align:start position:0%
+parentheses here the compiler will say
+okay<00:07:50.640><c> the</c><00:07:51.030><c> programmer</c><00:07:51.540><c> is</c><00:07:51.570><c> specified</c><00:07:52.140><c> that</c>
+
+00:07:52.310 --> 00:07:52.320 align:start position:0%
+okay the programmer is specified that
+ 
+
+00:07:52.320 --> 00:07:54.380 align:start position:0%
+okay the programmer is specified that
+the<00:07:52.440><c> output</c><00:07:52.860><c> of</c><00:07:52.890><c> the</c><00:07:53.010><c> max</c><00:07:53.250><c> dog</c><00:07:53.520><c> here</c><00:07:53.850><c> is</c><00:07:53.970><c> no</c>
+
+00:07:54.380 --> 00:07:54.390 align:start position:0%
+the output of the max dog here is no
+ 
+
+00:07:54.390 --> 00:07:56.540 align:start position:0%
+the output of the max dog here is no
+longer<00:07:54.630><c> static</c><00:07:55.200><c> type</c><00:07:55.410><c> dog</c><00:07:55.680><c> it</c><00:07:56.040><c> is</c><00:07:56.250><c> in</c><00:07:56.370><c> fact</c>
+
+00:07:56.540 --> 00:07:56.550 align:start position:0%
+longer static type dog it is in fact
+ 
+
+00:07:56.550 --> 00:07:59.450 align:start position:0%
+longer static type dog it is in fact
+type<00:07:57.090><c> poodle</c><00:07:57.630><c> is</c><00:07:57.840><c> the</c><00:07:58.350><c> poodle</c><00:07:58.620><c> of</c><00:07:58.740><c> pootle</c><00:07:59.010><c> yes</c>
+
+00:07:59.450 --> 00:07:59.460 align:start position:0%
+type poodle is the poodle of pootle yes
+ 
+
+00:07:59.460 --> 00:08:00.830 align:start position:0%
+type poodle is the poodle of pootle yes
+therefore<00:07:59.910><c> we're</c><00:08:00.450><c> good</c>
+
+00:08:00.830 --> 00:08:00.840 align:start position:0%
+therefore we're good
+ 
+
+00:08:00.840 --> 00:08:04.340 align:start position:0%
+therefore we're good
+now<00:08:01.740><c> that</c><00:08:01.950><c> approach</c><00:08:02.430><c> while</c><00:08:03.420><c> useful</c><00:08:03.780><c> can</c>
+
+00:08:04.340 --> 00:08:04.350 align:start position:0%
+now that approach while useful can
+ 
+
+00:08:04.350 --> 00:08:05.960 align:start position:0%
+now that approach while useful can
+sometimes<00:08:04.770><c> run</c><00:08:04.920><c> you</c><00:08:05.070><c> into</c><00:08:05.190><c> trouble</c><00:08:05.550><c> because</c>
+
+00:08:05.960 --> 00:08:05.970 align:start position:0%
+sometimes run you into trouble because
+ 
+
+00:08:05.970 --> 00:08:07.580 align:start position:0%
+sometimes run you into trouble because
+basically<00:08:06.600><c> what</c><00:08:06.720><c> you're</c><00:08:06.840><c> doing</c><00:08:06.870><c> is</c><00:08:07.170><c> tricking</c>
+
+00:08:07.580 --> 00:08:07.590 align:start position:0%
+basically what you're doing is tricking
+ 
+
+00:08:07.590 --> 00:08:09.080 align:start position:0%
+basically what you're doing is tricking
+the<00:08:07.710><c> compiler</c><00:08:08.190><c> you're</c><00:08:08.460><c> telling</c><00:08:08.760><c> the</c><00:08:08.850><c> compiler</c>
+
+00:08:09.080 --> 00:08:09.090 align:start position:0%
+the compiler you're telling the compiler
+ 
+
+00:08:09.090 --> 00:08:11.270 align:start position:0%
+the compiler you're telling the compiler
+please<00:08:09.570><c> don't</c><00:08:09.870><c> do</c><00:08:10.020><c> your</c><00:08:10.170><c> job</c><00:08:10.230><c> don't</c><00:08:10.680><c> don't</c><00:08:11.100><c> be</c>
+
+00:08:11.270 --> 00:08:11.280 align:start position:0%
+please don't do your job don't don't be
+ 
+
+00:08:11.280 --> 00:08:14.720 align:start position:0%
+please don't do your job don't don't be
+you<00:08:11.550><c> know</c><00:08:11.670><c> such</c><00:08:12.060><c> a</c><00:08:12.090><c> wimp</c><00:08:12.480><c> trust</c><00:08:13.110><c> me</c><00:08:13.550><c> so</c><00:08:14.550><c> it's</c><00:08:14.670><c> a</c>
+
+00:08:14.720 --> 00:08:14.730 align:start position:0%
+you know such a wimp trust me so it's a
+ 
+
+00:08:14.730 --> 00:08:16.550 align:start position:0%
+you know such a wimp trust me so it's a
+powerful<00:08:14.940><c> but</c><00:08:15.570><c> dangerous</c><00:08:15.960><c> tool</c><00:08:16.290><c> you</c><00:08:16.530><c> should</c>
+
+00:08:16.550 --> 00:08:16.560 align:start position:0%
+powerful but dangerous tool you should
+ 
+
+00:08:16.560 --> 00:08:19.430 align:start position:0%
+powerful but dangerous tool you should
+use<00:08:16.860><c> it</c><00:08:17.040><c> sparingly</c><00:08:17.570><c> and</c><00:08:18.570><c> it</c><00:08:18.720><c> basically</c><00:08:18.870><c> tells</c>
+
+00:08:19.430 --> 00:08:19.440 align:start position:0%
+use it sparingly and it basically tells
+ 
+
+00:08:19.440 --> 00:08:22.010 align:start position:0%
+use it sparingly and it basically tells
+java<00:08:19.830><c> treat</c><00:08:20.550><c> this</c><00:08:20.760><c> the</c><00:08:21.000><c> way</c><00:08:21.300><c> i</c><00:08:21.330><c> want</c><00:08:21.810><c> you</c><00:08:21.900><c> to</c>
+
+00:08:22.010 --> 00:08:22.020 align:start position:0%
+java treat this the way i want you to
+ 
+
+00:08:22.020 --> 00:08:24.740 align:start position:0%
+java treat this the way i want you to
+treat<00:08:22.230><c> it</c><00:08:22.370><c> so</c><00:08:23.370><c> let's</c><00:08:23.580><c> suppose</c><00:08:23.760><c> this</c><00:08:24.450><c> is</c><00:08:24.600><c> where</c>
+
+00:08:24.740 --> 00:08:24.750 align:start position:0%
+treat it so let's suppose this is where
+ 
+
+00:08:24.750 --> 00:08:27.380 align:start position:0%
+treat it so let's suppose this is where
+you<00:08:24.810><c> cannot</c><00:08:24.990><c> no</c><00:08:25.140><c> trouble</c><00:08:25.620><c> we</c><00:08:26.310><c> have</c><00:08:26.580><c> a</c><00:08:26.820><c> poodle</c>
+
+00:08:27.380 --> 00:08:27.390 align:start position:0%
+you cannot no trouble we have a poodle
+ 
+
+00:08:27.390 --> 00:08:29.690 align:start position:0%
+you cannot no trouble we have a poodle
+variable<00:08:27.840><c> and</c><00:08:28.020><c> a</c><00:08:28.170><c> Malamute</c><00:08:28.500><c> variable</c><00:08:29.070><c> now</c>
+
+00:08:29.690 --> 00:08:29.700 align:start position:0%
+variable and a Malamute variable now
+ 
+
+00:08:29.700 --> 00:08:31.490 align:start position:0%
+variable and a Malamute variable now
+both<00:08:29.910><c> of</c><00:08:29.940><c> these</c><00:08:30.180><c> are</c><00:08:30.240><c> dogs</c><00:08:30.540><c> so</c><00:08:31.110><c> we</c><00:08:31.140><c> can</c><00:08:31.230><c> pass</c>
+
+00:08:31.490 --> 00:08:31.500 align:start position:0%
+both of these are dogs so we can pass
+ 
+
+00:08:31.500 --> 00:08:34.940 align:start position:0%
+both of these are dogs so we can pass
+them<00:08:31.740><c> to</c><00:08:31.800><c> the</c><00:08:32.010><c> max</c><00:08:32.250><c> dog</c><00:08:33.080><c> method</c><00:08:34.080><c> and</c><00:08:34.260><c> this</c><00:08:34.770><c> will</c>
+
+00:08:34.940 --> 00:08:34.950 align:start position:0%
+them to the max dog method and this will
+ 
+
+00:08:34.950 --> 00:08:37.340 align:start position:0%
+them to the max dog method and this will
+turn<00:08:35.130><c> a</c><00:08:35.190><c> type</c><00:08:35.490><c> objective</c><00:08:36.060><c> type</c><00:08:36.270><c> dog</c><00:08:36.540><c> and</c><00:08:37.140><c> we</c>
+
+00:08:37.340 --> 00:08:37.350 align:start position:0%
+turn a type objective type dog and we
+ 
+
+00:08:37.350 --> 00:08:40.880 align:start position:0%
+turn a type objective type dog and we
+can<00:08:37.500><c> cast</c><00:08:37.770><c> it</c><00:08:37.950><c> to</c><00:08:38.010><c> poodle</c><00:08:38.630><c> well</c><00:08:39.630><c> the</c><00:08:40.590><c> compiler</c>
+
+00:08:40.880 --> 00:08:40.890 align:start position:0%
+can cast it to poodle well the compiler
+ 
+
+00:08:40.890 --> 00:08:42.650 align:start position:0%
+can cast it to poodle well the compiler
+ordinarily<00:08:41.640><c> if</c><00:08:41.850><c> we</c><00:08:41.940><c> didn't</c><00:08:42.150><c> have</c><00:08:42.210><c> poodle</c><00:08:42.480><c> here</c>
+
+00:08:42.650 --> 00:08:42.660 align:start position:0%
+ordinarily if we didn't have poodle here
+ 
+
+00:08:42.660 --> 00:08:45.080 align:start position:0%
+ordinarily if we didn't have poodle here
+would<00:08:42.810><c> say</c><00:08:42.840><c> no</c><00:08:43.140><c> no</c><00:08:43.380><c> no</c><00:08:43.500><c> no</c><00:08:43.800><c> this</c><00:08:44.340><c> is</c><00:08:44.520><c> a</c><00:08:44.550><c> dog</c><00:08:44.790><c> and</c>
+
+00:08:45.080 --> 00:08:45.090 align:start position:0%
+would say no no no no this is a dog and
+ 
+
+00:08:45.090 --> 00:08:46.160 align:start position:0%
+would say no no no no this is a dog and
+I<00:08:45.120><c> don't</c><00:08:45.180><c> know</c><00:08:45.360><c> what</c><00:08:45.450><c> kind</c><00:08:45.630><c> of</c><00:08:45.690><c> dog</c><00:08:45.870><c> this</c>
+
+00:08:46.160 --> 00:08:46.170 align:start position:0%
+I don't know what kind of dog this
+ 
+
+00:08:46.170 --> 00:08:47.930 align:start position:0%
+I don't know what kind of dog this
+expressions<00:08:46.740><c> gonna</c><00:08:46.950><c> get</c><00:08:47.130><c> back</c><00:08:47.310><c> but</c><00:08:47.700><c> we</c><00:08:47.820><c> can</c>
+
+00:08:47.930 --> 00:08:47.940 align:start position:0%
+expressions gonna get back but we can
+ 
+
+00:08:47.940 --> 00:08:49.760 align:start position:0%
+expressions gonna get back but we can
+say<00:08:48.090><c> no</c><00:08:48.390><c> trust</c><00:08:48.720><c> me</c><00:08:48.810><c> it's</c><00:08:49.110><c> gonna</c><00:08:49.350><c> be</c><00:08:49.500><c> a</c><00:08:49.530><c> pool</c>
+
+00:08:49.760 --> 00:08:49.770 align:start position:0%
+say no trust me it's gonna be a pool
+ 
+
+00:08:49.770 --> 00:08:51.830 align:start position:0%
+say no trust me it's gonna be a pool
+everything's<00:08:50.400><c> gonna</c><00:08:50.580><c> be</c><00:08:50.760><c> cool</c><00:08:50.940><c> but</c><00:08:51.570><c> in</c><00:08:51.690><c> this</c>
+
+00:08:51.830 --> 00:08:51.840 align:start position:0%
+everything's gonna be cool but in this
+ 
+
+00:08:51.840 --> 00:08:52.390 align:start position:0%
+everything's gonna be cool but in this
+case
+
+00:08:52.390 --> 00:08:52.400 align:start position:0%
+case
+ 
+
+00:08:52.400 --> 00:08:54.490 align:start position:0%
+case
+actually<00:08:52.940><c> the</c><00:08:53.090><c> result</c><00:08:53.450><c> is</c><00:08:53.660><c> Frank</c><00:08:53.930><c> senior</c><00:08:54.290><c> and</c>
+
+00:08:54.490 --> 00:08:54.500 align:start position:0%
+actually the result is Frank senior and
+ 
+
+00:08:54.500 --> 00:08:56.740 align:start position:0%
+actually the result is Frank senior and
+so<00:08:54.830><c> when</c><00:08:54.980><c> we</c><00:08:55.070><c> try</c><00:08:55.250><c> and</c><00:08:55.460><c> cast</c><00:08:55.760><c> that</c><00:08:56.120><c> Malamute</c>
+
+00:08:56.740 --> 00:08:56.750 align:start position:0%
+so when we try and cast that Malamute
+ 
+
+00:08:56.750 --> 00:08:58.810 align:start position:0%
+so when we try and cast that Malamute
+that<00:08:56.960><c> comes</c><00:08:57.140><c> back</c><00:08:57.380><c> as</c><00:08:57.590><c> a</c><00:08:57.650><c> poodle</c><00:08:58.010><c> then</c><00:08:58.640><c> at</c>
+
+00:08:58.810 --> 00:08:58.820 align:start position:0%
+that comes back as a poodle then at
+ 
+
+00:08:58.820 --> 00:09:01.480 align:start position:0%
+that comes back as a poodle then at
+runtime<00:08:59.150><c> we</c><00:08:59.840><c> run</c><00:09:00.020><c> into</c><00:09:00.170><c> trouble</c><00:09:00.560><c> so</c><00:09:01.220><c> in</c>
+
+00:09:01.480 --> 00:09:01.490 align:start position:0%
+runtime we run into trouble so in
+ 
+
+00:09:01.490 --> 00:09:02.920 align:start position:0%
+runtime we run into trouble so in
+particular<00:09:01.670><c> if</c><00:09:02.090><c> you</c><00:09:02.180><c> run</c><00:09:02.330><c> it</c><00:09:02.450><c> it</c><00:09:02.630><c> will</c><00:09:02.780><c> say</c>
+
+00:09:02.920 --> 00:09:02.930 align:start position:0%
+particular if you run it it will say
+ 
+
+00:09:02.930 --> 00:09:05.050 align:start position:0%
+particular if you run it it will say
+class<00:09:03.200><c> cast</c><00:09:03.590><c> exception</c><00:09:03.830><c> and</c><00:09:04.460><c> the</c><00:09:04.880><c> code</c>
+
+00:09:05.050 --> 00:09:05.060 align:start position:0%
+class cast exception and the code
+ 
+
+00:09:05.060 --> 00:09:07.510 align:start position:0%
+class cast exception and the code
+crashes<00:09:05.600><c> at</c><00:09:05.750><c> runtime</c><00:09:05.930><c> so</c><00:09:06.830><c> we</c><00:09:06.950><c> said</c><00:09:07.160><c> earlier</c>
+
+00:09:07.510 --> 00:09:07.520 align:start position:0%
+crashes at runtime so we said earlier
+ 
+
+00:09:07.520 --> 00:09:09.040 align:start position:0%
+crashes at runtime so we said earlier
+actually<00:09:07.880><c> in</c><00:09:07.940><c> the</c><00:09:08.000><c> very</c><00:09:08.210><c> first</c><00:09:08.570><c> lecture</c><00:09:08.750><c> that</c>
+
+00:09:09.040 --> 00:09:09.050 align:start position:0%
+actually in the very first lecture that
+ 
+
+00:09:09.050 --> 00:09:10.600 align:start position:0%
+actually in the very first lecture that
+one<00:09:09.140><c> of</c><00:09:09.260><c> the</c><00:09:09.350><c> great</c><00:09:09.560><c> things</c><00:09:09.800><c> about</c><00:09:09.890><c> Java</c><00:09:10.310><c> is</c><00:09:10.490><c> it</c>
+
+00:09:10.600 --> 00:09:10.610 align:start position:0%
+one of the great things about Java is it
+ 
+
+00:09:10.610 --> 00:09:11.560 align:start position:0%
+one of the great things about Java is it
+does<00:09:10.760><c> this</c><00:09:10.910><c> type</c><00:09:11.150><c> checking</c>
+
+00:09:11.560 --> 00:09:11.570 align:start position:0%
+does this type checking
+ 
+
+00:09:11.570 --> 00:09:13.180 align:start position:0%
+does this type checking
+meaning<00:09:12.110><c> that</c><00:09:12.230><c> nobody</c><00:09:12.590><c> on</c><00:09:12.650><c> the</c><00:09:12.740><c> other</c><00:09:12.860><c> end</c>
+
+00:09:13.180 --> 00:09:13.190 align:start position:0%
+meaning that nobody on the other end
+ 
+
+00:09:13.190 --> 00:09:15.160 align:start position:0%
+meaning that nobody on the other end
+should<00:09:13.250><c> run</c><00:09:13.460><c> into</c><00:09:13.700><c> type</c><00:09:13.880><c> errors</c><00:09:14.240><c> however</c><00:09:14.960><c> if</c>
+
+00:09:15.160 --> 00:09:15.170 align:start position:0%
+should run into type errors however if
+ 
+
+00:09:15.170 --> 00:09:17.080 align:start position:0%
+should run into type errors however if
+you<00:09:15.440><c> decide</c><00:09:15.620><c> to</c><00:09:15.830><c> use</c><00:09:16.040><c> casting</c><00:09:16.490><c> that</c><00:09:16.790><c> is</c><00:09:16.940><c> no</c>
+
+00:09:17.080 --> 00:09:17.090 align:start position:0%
+you decide to use casting that is no
+ 
+
+00:09:17.090 --> 00:09:18.960 align:start position:0%
+you decide to use casting that is no
+longer<00:09:17.240><c> true</c><00:09:17.600><c> so</c><00:09:18.230><c> in</c><00:09:18.350><c> that</c><00:09:18.440><c> sense</c><00:09:18.710><c> it</c><00:09:18.890><c> is</c>
+
+00:09:18.960 --> 00:09:18.970 align:start position:0%
+longer true so in that sense it is
+ 
+
+00:09:18.970 --> 00:09:21.220 align:start position:0%
+longer true so in that sense it is
+dangerous<00:09:19.970><c> but</c><00:09:20.360><c> sometimes</c><00:09:20.750><c> you'll</c><00:09:20.900><c> find</c><00:09:21.080><c> it</c>
+
+00:09:21.220 --> 00:09:21.230 align:start position:0%
+dangerous but sometimes you'll find it
+ 
+
+00:09:21.230 --> 00:09:23.710 align:start position:0%
+dangerous but sometimes you'll find it
+quite<00:09:21.260><c> handy</c>
+

@@ -1,0 +1,1040 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.760 align:start position:0%
+ 
+I<00:00:00.060><c> know</c><00:00:00.989><c> it's</c><00:00:01.199><c> hard</c><00:00:01.350><c> to</c><00:00:01.439><c> believe</c><00:00:01.589><c> but</c>
+
+00:00:01.760 --> 00:00:01.770 align:start position:0%
+I know it's hard to believe but
+ 
+
+00:00:01.770 --> 00:00:03.560 align:start position:0%
+I know it's hard to believe but
+sometimes<00:00:02.580><c> in</c><00:00:02.730><c> your</c><00:00:02.820><c> right</c><00:00:02.939><c> code</c><00:00:03.179><c> you</c><00:00:03.540><c> don't</c>
+
+00:00:03.560 --> 00:00:03.570 align:start position:0%
+sometimes in your right code you don't
+ 
+
+00:00:03.570 --> 00:00:05.329 align:start position:0%
+sometimes in your right code you don't
+just<00:00:03.929><c> want</c><00:00:04.140><c> to</c><00:00:04.200><c> send</c><00:00:04.529><c> it</c><00:00:04.620><c> to</c><00:00:04.650><c> the</c><00:00:04.799><c> autograder</c>
+
+00:00:05.329 --> 00:00:05.339 align:start position:0%
+just want to send it to the autograder
+ 
+
+00:00:05.339 --> 00:00:06.740 align:start position:0%
+just want to send it to the autograder
+and<00:00:05.460><c> then</c><00:00:05.759><c> immediately</c><00:00:06.210><c> forget</c><00:00:06.509><c> it</c><00:00:06.600><c> ever</c>
+
+00:00:06.740 --> 00:00:06.750 align:start position:0%
+and then immediately forget it ever
+ 
+
+00:00:06.750 --> 00:00:09.020 align:start position:0%
+and then immediately forget it ever
+existed<00:00:07.069><c> often</c><00:00:08.069><c> you</c><00:00:08.370><c> want</c><00:00:08.519><c> to</c><00:00:08.580><c> actually</c><00:00:08.700><c> share</c>
+
+00:00:09.020 --> 00:00:09.030 align:start position:0%
+existed often you want to actually share
+ 
+
+00:00:09.030 --> 00:00:10.459 align:start position:0%
+existed often you want to actually share
+that<00:00:09.090><c> code</c><00:00:09.450><c> so</c><00:00:09.510><c> we</c><00:00:09.780><c> could</c><00:00:09.900><c> be</c><00:00:10.019><c> used</c><00:00:10.230><c> by</c><00:00:10.440><c> other</c>
+
+00:00:10.459 --> 00:00:10.469 align:start position:0%
+that code so we could be used by other
+ 
+
+00:00:10.469 --> 00:00:13.009 align:start position:0%
+that code so we could be used by other
+programmers<00:00:11.070><c> or</c><00:00:11.340><c> users</c><00:00:11.670><c> so</c><00:00:12.480><c> in</c><00:00:12.570><c> order</c><00:00:12.660><c> to</c><00:00:12.809><c> do</c>
+
+00:00:13.009 --> 00:00:13.019 align:start position:0%
+programmers or users so in order to do
+ 
+
+00:00:13.019 --> 00:00:14.780 align:start position:0%
+programmers or users so in order to do
+that<00:00:13.170><c> you</c><00:00:13.650><c> would</c><00:00:13.740><c> need</c><00:00:13.769><c> to</c><00:00:14.099><c> somehow</c><00:00:14.370><c> give</c><00:00:14.639><c> your</c>
+
+00:00:14.780 --> 00:00:14.790 align:start position:0%
+that you would need to somehow give your
+ 
+
+00:00:14.790 --> 00:00:16.490 align:start position:0%
+that you would need to somehow give your
+dot<00:00:14.940><c> Java</c><00:00:15.240><c> files</c><00:00:15.540><c> or</c><00:00:15.780><c> your</c><00:00:15.870><c> doc</c><00:00:16.020><c> class</c><00:00:16.260><c> files</c>
+
+00:00:16.490 --> 00:00:16.500 align:start position:0%
+dot Java files or your doc class files
+ 
+
+00:00:16.500 --> 00:00:18.349 align:start position:0%
+dot Java files or your doc class files
+out<00:00:16.740><c> to</c><00:00:16.890><c> the</c><00:00:16.980><c> world</c><00:00:17.100><c> and</c><00:00:17.340><c> even</c><00:00:17.970><c> for</c><00:00:18.330><c> a</c>
+
+00:00:18.349 --> 00:00:18.359 align:start position:0%
+out to the world and even for a
+ 
+
+00:00:18.359 --> 00:00:19.670 align:start position:0%
+out to the world and even for a
+medium-sized<00:00:18.869><c> project</c><00:00:19.350><c> that</c><00:00:19.470><c> could</c><00:00:19.560><c> be</c>
+
+00:00:19.670 --> 00:00:19.680 align:start position:0%
+medium-sized project that could be
+ 
+
+00:00:19.680 --> 00:00:21.920 align:start position:0%
+medium-sized project that could be
+dozens<00:00:19.920><c> of</c><00:00:20.250><c> dot</c><00:00:20.369><c> class</c><00:00:20.609><c> files</c><00:00:20.880><c> now</c><00:00:21.689><c> for</c><00:00:21.840><c> this</c>
+
+00:00:21.920 --> 00:00:21.930 align:start position:0%
+dozens of dot class files now for this
+ 
+
+00:00:21.930 --> 00:00:23.179 align:start position:0%
+dozens of dot class files now for this
+ones<00:00:22.140><c> it's</c><00:00:22.289><c> easy</c><00:00:22.470><c> I'd</c><00:00:22.710><c> only</c><00:00:22.920><c> have</c><00:00:23.070><c> to</c>
+
+00:00:23.179 --> 00:00:23.189 align:start position:0%
+ones it's easy I'd only have to
+ 
+
+00:00:23.189 --> 00:00:24.740 align:start position:0%
+ones it's easy I'd only have to
+distribute<00:00:23.519><c> these</c><00:00:23.820><c> two</c><00:00:24.029><c> class</c><00:00:24.240><c> files</c><00:00:24.539><c> in</c>
+
+00:00:24.740 --> 00:00:24.750 align:start position:0%
+distribute these two class files in
+ 
+
+00:00:24.750 --> 00:00:26.269 align:start position:0%
+distribute these two class files in
+order<00:00:24.869><c> for</c><00:00:25.109><c> someone</c><00:00:25.289><c> to</c><00:00:25.380><c> use</c><00:00:25.560><c> this</c><00:00:25.769><c> mostly</c>
+
+00:00:26.269 --> 00:00:26.279 align:start position:0%
+order for someone to use this mostly
+ 
+
+00:00:26.279 --> 00:00:28.759 align:start position:0%
+order for someone to use this mostly
+useless<00:00:26.490><c> Oh</c><00:00:26.730><c> Josh</c><00:00:27.269><c> H</c><00:00:27.480><c> -</c><00:00:27.660><c> animal</c><00:00:27.990><c> package</c><00:00:28.289><c> but</c>
+
+00:00:28.759 --> 00:00:28.769 align:start position:0%
+useless Oh Josh H - animal package but
+ 
+
+00:00:28.769 --> 00:00:30.320 align:start position:0%
+useless Oh Josh H - animal package but
+for<00:00:28.949><c> a</c><00:00:28.980><c> lot</c><00:00:29.279><c> of</c><00:00:29.340><c> projects</c><00:00:29.730><c> they</c><00:00:29.970><c> could</c><00:00:30.119><c> be</c><00:00:30.210><c> much</c>
+
+00:00:30.320 --> 00:00:30.330 align:start position:0%
+for a lot of projects they could be much
+ 
+
+00:00:30.330 --> 00:00:32.810 align:start position:0%
+for a lot of projects they could be much
+bigger<00:00:30.560><c> so</c><00:00:31.560><c> what</c><00:00:31.710><c> we're</c><00:00:31.800><c> gonna</c><00:00:31.859><c> do</c><00:00:32.160><c> is</c><00:00:32.340><c> use</c>
+
+00:00:32.810 --> 00:00:32.820 align:start position:0%
+bigger so what we're gonna do is use
+ 
+
+00:00:32.820 --> 00:00:35.120 align:start position:0%
+bigger so what we're gonna do is use
+something<00:00:33.329><c> known</c><00:00:33.360><c> as</c><00:00:33.510><c> a</c><00:00:33.719><c> doc</c><00:00:34.230><c> jar</c><00:00:34.590><c> file</c><00:00:34.829><c> we're</c>
+
+00:00:35.120 --> 00:00:35.130 align:start position:0%
+something known as a doc jar file we're
+ 
+
+00:00:35.130 --> 00:00:37.010 align:start position:0%
+something known as a doc jar file we're
+gonna<00:00:35.250><c> create</c><00:00:35.550><c> one</c><00:00:35.760><c> and</c><00:00:36.000><c> it</c><00:00:36.420><c> basically</c><00:00:36.540><c> acts</c>
+
+00:00:37.010 --> 00:00:37.020 align:start position:0%
+gonna create one and it basically acts
+ 
+
+00:00:37.020 --> 00:00:39.709 align:start position:0%
+gonna create one and it basically acts
+as<00:00:37.260><c> a</c><00:00:37.440><c> bundle</c><00:00:38.370><c> of</c><00:00:38.760><c> a</c><00:00:39.239><c> bunch</c><00:00:39.450><c> of</c><00:00:39.570><c> different</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+as a bundle of a bunch of different
+ 
+
+00:00:39.719 --> 00:00:41.930 align:start position:0%
+as a bundle of a bunch of different
+class<00:00:40.260><c> files</c><00:00:40.559><c> you</c><00:00:41.010><c> can</c><00:00:41.190><c> share</c><00:00:41.399><c> as</c><00:00:41.520><c> a</c><00:00:41.610><c> single</c>
+
+00:00:41.930 --> 00:00:41.940 align:start position:0%
+class files you can share as a single
+ 
+
+00:00:41.940 --> 00:00:43.610 align:start position:0%
+class files you can share as a single
+file<00:00:42.090><c> and</c><00:00:42.329><c> then</c><00:00:42.690><c> someone</c><00:00:42.899><c> can</c><00:00:43.050><c> import</c><00:00:43.350><c> them</c>
+
+00:00:43.610 --> 00:00:43.620 align:start position:0%
+file and then someone can import them
+ 
+
+00:00:43.620 --> 00:00:46.279 align:start position:0%
+file and then someone can import them
+into<00:00:44.340><c> IntelliJ</c><00:00:45.090><c> or</c><00:00:45.239><c> sorry</c><00:00:45.510><c> specify</c><00:00:45.989><c> them</c><00:00:46.140><c> as</c><00:00:46.260><c> a</c>
+
+00:00:46.279 --> 00:00:46.289 align:start position:0%
+into IntelliJ or sorry specify them as a
+ 
+
+00:00:46.289 --> 00:00:48.680 align:start position:0%
+into IntelliJ or sorry specify them as a
+library<00:00:46.710><c> and</c><00:00:47.430><c> so</c><00:00:47.579><c> with</c><00:00:47.730><c> one</c><00:00:47.910><c> single</c><00:00:48.239><c> file</c><00:00:48.390><c> you</c>
+
+00:00:48.680 --> 00:00:48.690 align:start position:0%
+library and so with one single file you
+ 
+
+00:00:48.690 --> 00:00:50.510 align:start position:0%
+library and so with one single file you
+can<00:00:48.780><c> end</c><00:00:48.960><c> up</c><00:00:49.020><c> having</c><00:00:49.410><c> one</c><00:00:49.890><c> or</c><00:00:49.920><c> even</c><00:00:50.340><c> many</c>
+
+00:00:50.510 --> 00:00:50.520 align:start position:0%
+can end up having one or even many
+ 
+
+00:00:50.520 --> 00:00:52.930 align:start position:0%
+can end up having one or even many
+packages<00:00:51.030><c> all</c><00:00:51.270><c> at</c><00:00:51.510><c> once</c><00:00:51.690><c> at</c><00:00:52.260><c> your</c><00:00:52.410><c> fingertips</c>
+
+00:00:52.930 --> 00:00:52.940 align:start position:0%
+packages all at once at your fingertips
+ 
+
+00:00:52.940 --> 00:00:55.430 align:start position:0%
+packages all at once at your fingertips
+so<00:00:53.940><c> in</c><00:00:54.059><c> order</c><00:00:54.180><c> to</c><00:00:54.300><c> do</c><00:00:54.539><c> this</c><00:00:54.690><c> in</c><00:00:55.079><c> order</c><00:00:55.320><c> to</c>
+
+00:00:55.430 --> 00:00:55.440 align:start position:0%
+so in order to do this in order to
+ 
+
+00:00:55.440 --> 00:00:57.529 align:start position:0%
+so in order to do this in order to
+create<00:00:55.829><c> a</c><00:00:55.890><c> jar</c><00:00:56.129><c> file</c><00:00:56.370><c> I'm</c><00:00:56.730><c> gonna</c><00:00:56.879><c> use</c><00:00:57.000><c> IntelliJ</c>
+
+00:00:57.529 --> 00:00:57.539 align:start position:0%
+create a jar file I'm gonna use IntelliJ
+ 
+
+00:00:57.539 --> 00:00:59.240 align:start position:0%
+create a jar file I'm gonna use IntelliJ
+there<00:00:58.140><c> are</c><00:00:58.260><c> other</c><00:00:58.410><c> ways</c><00:00:58.649><c> to</c><00:00:58.829><c> do</c><00:00:58.949><c> it</c><00:00:59.070><c> there's</c>
+
+00:00:59.240 --> 00:00:59.250 align:start position:0%
+there are other ways to do it there's
+ 
+
+00:00:59.250 --> 00:01:01.099 align:start position:0%
+there are other ways to do it there's
+other<00:00:59.370><c> command-line</c><00:00:59.879><c> tools</c><00:01:00.180><c> but</c><00:01:00.539><c> this</c><00:01:00.750><c> is</c><00:01:00.930><c> the</c>
+
+00:01:01.099 --> 00:01:01.109 align:start position:0%
+other command-line tools but this is the
+ 
+
+00:01:01.109 --> 00:01:03.200 align:start position:0%
+other command-line tools but this is the
+easiest<00:01:01.590><c> way</c><00:01:01.829><c> and</c><00:01:02.070><c> the</c><00:01:02.250><c> one</c><00:01:02.399><c> that</c><00:01:02.609><c> we'll</c>
+
+00:01:03.200 --> 00:01:03.210 align:start position:0%
+easiest way and the one that we'll
+ 
+
+00:01:03.210 --> 00:01:05.750 align:start position:0%
+easiest way and the one that we'll
+recommend<00:01:03.719><c> you</c><00:01:03.780><c> use</c><00:01:03.870><c> for</c><00:01:04.049><c> this</c><00:01:04.140><c> class</c><00:01:04.489><c> so</c><00:01:05.489><c> I'm</c>
+
+00:01:05.750 --> 00:01:05.760 align:start position:0%
+recommend you use for this class so I'm
+ 
+
+00:01:05.760 --> 00:01:06.980 align:start position:0%
+recommend you use for this class so I'm
+just<00:01:05.880><c> gonna</c><00:01:05.970><c> follow</c><00:01:06.210><c> these</c><00:01:06.479><c> directions</c><00:01:06.600><c> on</c>
+
+00:01:06.980 --> 00:01:06.990 align:start position:0%
+just gonna follow these directions on
+ 
+
+00:01:06.990 --> 00:01:08.539 align:start position:0%
+just gonna follow these directions on
+the<00:01:07.080><c> slides</c><00:01:07.320><c> which</c><00:01:07.500><c> I</c><00:01:07.619><c> wrote</c><00:01:07.799><c> and</c><00:01:08.070><c> I'll</c><00:01:08.369><c> go</c><00:01:08.490><c> to</c>
+
+00:01:08.539 --> 00:01:08.549 align:start position:0%
+the slides which I wrote and I'll go to
+ 
+
+00:01:08.549 --> 00:01:11.630 align:start position:0%
+the slides which I wrote and I'll go to
+in<00:01:08.820><c> this</c><00:01:08.939><c> case</c><00:01:09.119><c> file</c><00:01:09.570><c> project</c><00:01:10.140><c> structure</c><00:01:10.640><c> so</c>
+
+00:01:11.630 --> 00:01:11.640 align:start position:0%
+in this case file project structure so
+ 
+
+00:01:11.640 --> 00:01:13.340 align:start position:0%
+in this case file project structure so
+we've<00:01:11.760><c> used</c><00:01:11.939><c> file</c><00:01:12.180><c> project</c><00:01:12.659><c> structure</c><00:01:12.869><c> before</c>
+
+00:01:13.340 --> 00:01:13.350 align:start position:0%
+we've used file project structure before
+ 
+
+00:01:13.350 --> 00:01:17.179 align:start position:0%
+we've used file project structure before
+to<00:01:14.070><c> get</c><00:01:14.220><c> libraries</c><00:01:14.760><c> into</c><00:01:15.509><c> our</c><00:01:16.189><c> IntelliJ</c>
+
+00:01:17.179 --> 00:01:17.189 align:start position:0%
+to get libraries into our IntelliJ
+ 
+
+00:01:17.189 --> 00:01:18.980 align:start position:0%
+to get libraries into our IntelliJ
+environment<00:01:17.820><c> and</c><00:01:17.970><c> there's</c><00:01:18.479><c> this</c><00:01:18.540><c> case</c><00:01:18.780><c> we</c>
+
+00:01:18.980 --> 00:01:18.990 align:start position:0%
+environment and there's this case we
+ 
+
+00:01:18.990 --> 00:01:21.080 align:start position:0%
+environment and there's this case we
+would<00:01:19.110><c> actually</c><00:01:19.259><c> in</c><00:01:20.040><c> this</c><00:01:20.220><c> case</c><00:01:20.400><c> we</c><00:01:20.939><c> already</c>
+
+00:01:21.080 --> 00:01:21.090 align:start position:0%
+would actually in this case we already
+ 
+
+00:01:21.090 --> 00:01:22.850 align:start position:0%
+would actually in this case we already
+gave<00:01:21.330><c> you</c><00:01:21.479><c> some</c><00:01:21.689><c> jar</c><00:01:21.900><c> files</c><00:01:22.170><c> that</c><00:01:22.619><c> you</c><00:01:22.770><c> would</c>
+
+00:01:22.850 --> 00:01:22.860 align:start position:0%
+gave you some jar files that you would
+ 
+
+00:01:22.860 --> 00:01:24.890 align:start position:0%
+gave you some jar files that you would
+be<00:01:23.040><c> adding</c><00:01:23.250><c> using</c><00:01:23.759><c> libraries</c><00:01:24.210><c> so</c><00:01:24.659><c> now</c><00:01:24.750><c> we're</c>
+
+00:01:24.890 --> 00:01:24.900 align:start position:0%
+be adding using libraries so now we're
+ 
+
+00:01:24.900 --> 00:01:26.539 align:start position:0%
+be adding using libraries so now we're
+doing<00:01:24.990><c> the</c><00:01:25.170><c> other</c><00:01:25.290><c> thing</c><00:01:25.619><c> where</c><00:01:26.189><c> we're</c><00:01:26.369><c> going</c>
+
+00:01:26.539 --> 00:01:26.549 align:start position:0%
+doing the other thing where we're going
+ 
+
+00:01:26.549 --> 00:01:28.580 align:start position:0%
+doing the other thing where we're going
+to<00:01:26.670><c> create</c><00:01:27.119><c> the</c><00:01:27.390><c> jar</c><00:01:27.600><c> files</c><00:01:27.810><c> themselves</c><00:01:27.990><c> so</c>
+
+00:01:28.580 --> 00:01:28.590 align:start position:0%
+to create the jar files themselves so
+ 
+
+00:01:28.590 --> 00:01:30.289 align:start position:0%
+to create the jar files themselves so
+that<00:01:28.740><c> other</c><00:01:28.890><c> people</c><00:01:28.950><c> could</c><00:01:29.549><c> add</c><00:01:29.790><c> them</c><00:01:30.180><c> to</c>
+
+00:01:30.289 --> 00:01:30.299 align:start position:0%
+that other people could add them to
+ 
+
+00:01:30.299 --> 00:01:32.840 align:start position:0%
+that other people could add them to
+their<00:01:30.390><c> library</c><00:01:30.810><c> later</c><00:01:31.009><c> so</c><00:01:32.009><c> to</c><00:01:32.070><c> do</c><00:01:32.250><c> this</c><00:01:32.400><c> after</c>
+
+00:01:32.840 --> 00:01:32.850 align:start position:0%
+their library later so to do this after
+ 
+
+00:01:32.850 --> 00:01:34.609 align:start position:0%
+their library later so to do this after
+doing<00:01:33.060><c> file</c><00:01:33.270><c> project</c><00:01:33.689><c> structure</c><00:01:33.990><c> I'm</c><00:01:34.409><c> going</c>
+
+00:01:34.609 --> 00:01:34.619 align:start position:0%
+doing file project structure I'm going
+ 
+
+00:01:34.619 --> 00:01:36.620 align:start position:0%
+doing file project structure I'm going
+to<00:01:34.680><c> collect</c><00:01:34.890><c> artifacts</c><00:01:35.490><c> jar</c><00:01:35.850><c> from</c><00:01:36.180><c> modules</c>
+
+00:01:36.620 --> 00:01:36.630 align:start position:0%
+to collect artifacts jar from modules
+ 
+
+00:01:36.630 --> 00:01:39.950 align:start position:0%
+to collect artifacts jar from modules
+with<00:01:36.780><c> dependencies</c><00:01:37.790><c> and</c><00:01:38.790><c> then</c><00:01:39.509><c> I</c><00:01:39.600><c> get</c><00:01:39.780><c> this</c>
+
+00:01:39.950 --> 00:01:39.960 align:start position:0%
+with dependencies and then I get this
+ 
+
+00:01:39.960 --> 00:01:43.969 align:start position:0%
+with dependencies and then I get this
+little<00:01:41.479><c> window</c><00:01:42.479><c> and</c><00:01:42.720><c> in</c><00:01:43.200><c> this</c><00:01:43.380><c> dialog</c><00:01:43.799><c> I'm</c>
+
+00:01:43.969 --> 00:01:43.979 align:start position:0%
+little window and in this dialog I'm
+ 
+
+00:01:43.979 --> 00:01:46.160 align:start position:0%
+little window and in this dialog I'm
+just<00:01:44.159><c> gonna</c><00:01:44.250><c> click</c><00:01:44.460><c> OK</c><00:01:44.759><c> twice</c><00:01:44.820><c> ok</c><00:01:45.750><c> you</c><00:01:46.049><c> could</c>
+
+00:01:46.160 --> 00:01:46.170 align:start position:0%
+just gonna click OK twice ok you could
+ 
+
+00:01:46.170 --> 00:01:47.719 align:start position:0%
+just gonna click OK twice ok you could
+do<00:01:46.290><c> more</c><00:01:46.409><c> stuff</c><00:01:46.680><c> but</c><00:01:47.369><c> that's</c><00:01:47.460><c> what</c><00:01:47.640><c> we're</c>
+
+00:01:47.719 --> 00:01:47.729 align:start position:0%
+do more stuff but that's what we're
+ 
+
+00:01:47.729 --> 00:01:49.789 align:start position:0%
+do more stuff but that's what we're
+gonna<00:01:47.820><c> do</c><00:01:48.000><c> so</c><00:01:48.290><c> after</c><00:01:49.290><c> you've</c><00:01:49.439><c> done</c><00:01:49.470><c> this</c>
+
+00:01:49.789 --> 00:01:49.799 align:start position:0%
+gonna do so after you've done this
+ 
+
+00:01:49.799 --> 00:01:51.950 align:start position:0%
+gonna do so after you've done this
+you've<00:01:50.220><c> specified</c><00:01:50.579><c> a</c><00:01:50.939><c> particular</c><00:01:51.180><c> artifact</c>
+
+00:01:51.950 --> 00:01:51.960 align:start position:0%
+you've specified a particular artifact
+ 
+
+00:01:51.960 --> 00:01:53.749 align:start position:0%
+you've specified a particular artifact
+you'd<00:01:52.140><c> like</c><00:01:52.259><c> IntelliJ</c><00:01:52.770><c> to</c><00:01:52.829><c> build</c><00:01:53.070><c> so</c><00:01:53.640><c> I'll</c>
+
+00:01:53.749 --> 00:01:53.759 align:start position:0%
+you'd like IntelliJ to build so I'll
+ 
+
+00:01:53.759 --> 00:01:56.889 align:start position:0%
+you'd like IntelliJ to build so I'll
+click<00:01:53.909><c> build</c><00:01:54.210><c> in</c><00:01:54.479><c> this</c><00:01:55.020><c> case</c><00:01:55.310><c> build</c><00:01:56.310><c> artifacts</c>
+
+00:01:56.889 --> 00:01:56.899 align:start position:0%
+click build in this case build artifacts
+ 
+
+00:01:56.899 --> 00:02:00.109 align:start position:0%
+click build in this case build artifacts
+build<00:01:57.899><c> again</c><00:01:58.250><c> and</c><00:01:59.250><c> now</c><00:01:59.369><c> it</c><00:01:59.460><c> cranks</c><00:01:59.729><c> along</c><00:01:59.969><c> and</c>
+
+00:02:00.109 --> 00:02:00.119 align:start position:0%
+build again and now it cranks along and
+ 
+
+00:02:00.119 --> 00:02:02.660 align:start position:0%
+build again and now it cranks along and
+does<00:02:00.270><c> something</c><00:02:00.600><c> ok</c><00:02:01.229><c> so</c><00:02:01.469><c> actually</c><00:02:02.280><c> what</c><00:02:02.579><c> it</c>
+
+00:02:02.660 --> 00:02:02.670 align:start position:0%
+does something ok so actually what it
+ 
+
+00:02:02.670 --> 00:02:03.139 align:start position:0%
+does something ok so actually what it
+just<00:02:02.790><c> did</c>
+
+00:02:03.139 --> 00:02:03.149 align:start position:0%
+just did
+ 
+
+00:02:03.149 --> 00:02:07.730 align:start position:0%
+just did
+is<00:02:03.210><c> if</c><00:02:03.630><c> I</c><00:02:03.750><c> go</c><00:02:03.960><c> now</c><00:02:04.170><c> to</c><00:02:04.229><c> my</c><00:02:05.990><c> computer</c><00:02:06.990><c> and</c><00:02:07.140><c> I</c><00:02:07.560><c> see</c>
+
+00:02:07.730 --> 00:02:07.740 align:start position:0%
+is if I go now to my computer and I see
+ 
+
+00:02:07.740 --> 00:02:09.680 align:start position:0%
+is if I go now to my computer and I see
+what<00:02:07.860><c> actually</c><00:02:07.950><c> got</c><00:02:08.160><c> produced</c><00:02:08.520><c> then</c><00:02:09.149><c> in</c><00:02:09.450><c> the</c>
+
+00:02:09.680 --> 00:02:09.690 align:start position:0%
+what actually got produced then in the
+ 
+
+00:02:09.690 --> 00:02:12.020 align:start position:0%
+what actually got produced then in the
+production<00:02:10.319><c> this</c><00:02:10.470><c> out</c><00:02:10.679><c> folder</c><00:02:11.220><c> there's</c><00:02:11.849><c> now</c>
+
+00:02:12.020 --> 00:02:12.030 align:start position:0%
+production this out folder there's now
+ 
+
+00:02:12.030 --> 00:02:13.490 align:start position:0%
+production this out folder there's now
+something<00:02:12.360><c> called</c><00:02:12.390><c> artifacts</c>
+
+00:02:13.490 --> 00:02:13.500 align:start position:0%
+something called artifacts
+ 
+
+00:02:13.500 --> 00:02:15.290 align:start position:0%
+something called artifacts
+and<00:02:13.620><c> if</c><00:02:13.710><c> I</c><00:02:13.770><c> go</c><00:02:13.890><c> in</c><00:02:14.040><c> there</c><00:02:14.190><c> there's</c><00:02:14.610><c> now</c><00:02:14.760><c> a</c><00:02:14.790><c> file</c>
+
+00:02:15.290 --> 00:02:15.300 align:start position:0%
+and if I go in there there's now a file
+ 
+
+00:02:15.300 --> 00:02:19.040 align:start position:0%
+and if I go in there there's now a file
+called<00:02:15.630><c> live</c><00:02:15.960><c> jar</c><00:02:17.060><c> so</c><00:02:18.060><c> once</c><00:02:18.570><c> I've</c><00:02:18.720><c> built</c><00:02:18.870><c> an</c>
+
+00:02:19.040 --> 00:02:19.050 align:start position:0%
+called live jar so once I've built an
+ 
+
+00:02:19.050 --> 00:02:21.650 align:start position:0%
+called live jar so once I've built an
+artifact<00:02:19.530><c> I</c><00:02:19.590><c> have</c><00:02:19.860><c> live</c><00:02:20.280><c> jar</c><00:02:20.910><c> in</c><00:02:21.210><c> this</c><00:02:21.450><c> case</c>
+
+00:02:21.650 --> 00:02:21.660 align:start position:0%
+artifact I have live jar in this case
+ 
+
+00:02:21.660 --> 00:02:23.360 align:start position:0%
+artifact I have live jar in this case
+the<00:02:21.900><c> version</c><00:02:22.440><c> I</c><00:02:22.560><c> did</c><00:02:22.740><c> in</c><00:02:22.890><c> the</c><00:02:22.980><c> slides</c><00:02:23.220><c> was</c>
+
+00:02:23.360 --> 00:02:23.370 align:start position:0%
+the version I did in the slides was
+ 
+
+00:02:23.370 --> 00:02:24.110 align:start position:0%
+the version I did in the slides was
+packaged<00:02:23.700><c> m'hona</c>
+
+00:02:24.110 --> 00:02:24.120 align:start position:0%
+packaged m'hona
+ 
+
+00:02:24.120 --> 00:02:26.630 align:start position:0%
+packaged m'hona
+jar<00:02:24.330><c> same</c><00:02:24.630><c> idea</c><00:02:24.870><c> and</c><00:02:25.740><c> at</c><00:02:25.890><c> that</c><00:02:25.980><c> point</c><00:02:26.160><c> you</c><00:02:26.490><c> can</c>
+
+00:02:26.630 --> 00:02:26.640 align:start position:0%
+jar same idea and at that point you can
+ 
+
+00:02:26.640 --> 00:02:28.370 align:start position:0%
+jar same idea and at that point you can
+give<00:02:26.820><c> this</c><00:02:27.000><c> jar</c><00:02:27.270><c> file</c><00:02:27.480><c> to</c><00:02:27.660><c> someone</c><00:02:27.870><c> else</c><00:02:28.050><c> who</c>
+
+00:02:28.370 --> 00:02:28.380 align:start position:0%
+give this jar file to someone else who
+ 
+
+00:02:28.380 --> 00:02:30.380 align:start position:0%
+give this jar file to someone else who
+can<00:02:28.530><c> then</c><00:02:28.680><c> use</c><00:02:29.160><c> it</c><00:02:29.370><c> as</c><00:02:29.520><c> a</c><00:02:29.610><c> library</c><00:02:30.000><c> for</c><00:02:30.240><c> that</c>
+
+00:02:30.380 --> 00:02:30.390 align:start position:0%
+can then use it as a library for that
+ 
+
+00:02:30.390 --> 00:02:32.720 align:start position:0%
+can then use it as a library for that
+program<00:02:30.660><c> their</c><00:02:30.959><c> programs</c><00:02:31.350><c> now</c><00:02:32.340><c> one</c><00:02:32.520><c> thing</c><00:02:32.640><c> I</c>
+
+00:02:32.720 --> 00:02:32.730 align:start position:0%
+program their programs now one thing I
+ 
+
+00:02:32.730 --> 00:02:34.070 align:start position:0%
+program their programs now one thing I
+want<00:02:32.760><c> to</c><00:02:32.910><c> mention</c><00:02:33.030><c> is</c><00:02:33.300><c> that</c><00:02:33.330><c> jar</c><00:02:33.690><c> files</c><00:02:33.930><c> are</c>
+
+00:02:34.070 --> 00:02:34.080 align:start position:0%
+want to mention is that jar files are
+ 
+
+00:02:34.080 --> 00:02:36.470 align:start position:0%
+want to mention is that jar files are
+actually<00:02:34.260><c> just</c><00:02:34.650><c> zip</c><00:02:34.980><c> files</c><00:02:35.220><c> and</c><00:02:35.550><c> we</c><00:02:36.150><c> can</c><00:02:36.270><c> go</c><00:02:36.420><c> to</c>
+
+00:02:36.470 --> 00:02:36.480 align:start position:0%
+actually just zip files and we can go to
+ 
+
+00:02:36.480 --> 00:02:39.770 align:start position:0%
+actually just zip files and we can go to
+live<00:02:36.690><c> jar</c><00:02:37.200><c> and</c><00:02:37.860><c> I</c><00:02:37.950><c> can</c><00:02:38.100><c> put</c><00:02:38.280><c> in</c><00:02:38.430><c> the</c><00:02:38.700><c> zip</c><00:02:38.780><c> yes</c>
+
+00:02:39.770 --> 00:02:39.780 align:start position:0%
+live jar and I can put in the zip yes
+ 
+
+00:02:39.780 --> 00:02:42.260 align:start position:0%
+live jar and I can put in the zip yes
+and<00:02:40.620><c> I</c><00:02:40.709><c> can</c><00:02:40.860><c> open</c><00:02:40.980><c> live</c><00:02:41.280><c> dot</c><00:02:41.520><c> zip</c><00:02:41.760><c> and</c><00:02:41.970><c> now</c><00:02:42.240><c> I</c>
+
+00:02:42.260 --> 00:02:42.270 align:start position:0%
+and I can open live dot zip and now I
+ 
+
+00:02:42.270 --> 00:02:44.120 align:start position:0%
+and I can open live dot zip and now I
+see<00:02:42.510><c> that</c><00:02:42.690><c> it's</c><00:02:42.780><c> actually</c><00:02:42.900><c> just</c><00:02:43.350><c> those</c><00:02:43.890><c> class</c>
+
+00:02:44.120 --> 00:02:44.130 align:start position:0%
+see that it's actually just those class
+ 
+
+00:02:44.130 --> 00:02:46.250 align:start position:0%
+see that it's actually just those class
+files<00:02:44.370><c> so</c><00:02:45.150><c> nothing</c><00:02:45.480><c> here</c><00:02:45.720><c> happened</c><00:02:46.080><c> that</c><00:02:46.170><c> was</c>
+
+00:02:46.250 --> 00:02:46.260 align:start position:0%
+files so nothing here happened that was
+ 
+
+00:02:46.260 --> 00:02:48.680 align:start position:0%
+files so nothing here happened that was
+very<00:02:46.410><c> magical</c><00:02:46.920><c> now</c><00:02:47.640><c> occasionally</c><00:02:47.910><c> jar</c><00:02:48.450><c> files</c>
+
+00:02:48.680 --> 00:02:48.690 align:start position:0%
+very magical now occasionally jar files
+ 
+
+00:02:48.690 --> 00:02:50.840 align:start position:0%
+very magical now occasionally jar files
+have<00:02:48.930><c> a</c><00:02:48.959><c> little</c><00:02:49.230><c> extra</c><00:02:49.440><c> meta</c><00:02:49.709><c> information</c><00:02:49.890><c> but</c>
+
+00:02:50.840 --> 00:02:50.850 align:start position:0%
+have a little extra meta information but
+ 
+
+00:02:50.850 --> 00:02:52.670 align:start position:0%
+have a little extra meta information but
+the<00:02:51.270><c> main</c><00:02:51.480><c> point</c><00:02:51.720><c> here</c><00:02:51.989><c> is</c><00:02:52.140><c> that</c><00:02:52.350><c> when</c><00:02:52.650><c> you</c>
+
+00:02:52.670 --> 00:02:52.680 align:start position:0%
+the main point here is that when you
+ 
+
+00:02:52.680 --> 00:02:54.290 align:start position:0%
+the main point here is that when you
+give<00:02:52.920><c> at</c><00:02:53.010><c> a</c><00:02:53.040><c> jar</c><00:02:53.310><c> file</c><00:02:53.520><c> you</c><00:02:53.820><c> are</c><00:02:53.850><c> giving</c><00:02:54.180><c> out</c>
+
+00:02:54.290 --> 00:02:54.300 align:start position:0%
+give at a jar file you are giving out
+ 
+
+00:02:54.300 --> 00:02:56.330 align:start position:0%
+give at a jar file you are giving out
+your<00:02:54.420><c> class</c><00:02:54.630><c> files</c><00:02:54.930><c> and</c><00:02:55.260><c> as</c><00:02:55.680><c> it</c><00:02:55.800><c> happens</c><00:02:56.130><c> it's</c>
+
+00:02:56.330 --> 00:02:56.340 align:start position:0%
+your class files and as it happens it's
+ 
+
+00:02:56.340 --> 00:02:58.400 align:start position:0%
+your class files and as it happens it's
+very<00:02:56.400><c> easy</c><00:02:56.880><c> to</c><00:02:57.120><c> take</c><00:02:57.270><c> a</c><00:02:57.300><c> class</c><00:02:57.600><c> file</c><00:02:57.840><c> and</c><00:02:58.200><c> turn</c>
+
+00:02:58.400 --> 00:02:58.410 align:start position:0%
+very easy to take a class file and turn
+ 
+
+00:02:58.410 --> 00:03:00.410 align:start position:0%
+very easy to take a class file and turn
+it<00:02:58.530><c> back</c><00:02:58.560><c> into</c><00:02:58.680><c> a</c><00:02:58.920><c> Java</c><00:02:59.160><c> file</c><00:02:59.430><c> so</c><00:03:00.000><c> it</c><00:03:00.090><c> does</c><00:03:00.239><c> not</c>
+
+00:03:00.410 --> 00:03:00.420 align:start position:0%
+it back into a Java file so it does not
+ 
+
+00:03:00.420 --> 00:03:02.360 align:start position:0%
+it back into a Java file so it does not
+make<00:03:00.630><c> your</c><00:03:00.720><c> code</c><00:03:00.930><c> safe</c><00:03:01.200><c> to</c><00:03:01.380><c> distribute</c><00:03:01.890><c> if</c><00:03:02.070><c> you</c>
+
+00:03:02.360 --> 00:03:02.370 align:start position:0%
+make your code safe to distribute if you
+ 
+
+00:03:02.370 --> 00:03:04.220 align:start position:0%
+make your code safe to distribute if you
+want<00:03:02.550><c> to</c><00:03:02.610><c> keep</c><00:03:02.790><c> your</c><00:03:03.120><c> ideas</c><00:03:03.480><c> safe</c><00:03:03.930><c> your</c>
+
+00:03:04.220 --> 00:03:04.230 align:start position:0%
+want to keep your ideas safe your
+ 
+
+00:03:04.230 --> 00:03:05.810 align:start position:0%
+want to keep your ideas safe your
+program<00:03:04.620><c> safe</c><00:03:04.890><c> keep</c><00:03:05.100><c> it</c><00:03:05.250><c> safe</c><00:03:05.400><c> from</c><00:03:05.520><c> reverse</c>
+
+00:03:05.810 --> 00:03:05.820 align:start position:0%
+program safe keep it safe from reverse
+ 
+
+00:03:05.820 --> 00:03:07.729 align:start position:0%
+program safe keep it safe from reverse
+engineering<00:03:06.270><c> making</c><00:03:06.900><c> a</c><00:03:06.989><c> jar</c><00:03:07.200><c> file</c><00:03:07.380><c> is</c><00:03:07.410><c> not</c>
+
+00:03:07.729 --> 00:03:07.739 align:start position:0%
+engineering making a jar file is not
+ 
+
+00:03:07.739 --> 00:03:09.740 align:start position:0%
+engineering making a jar file is not
+enough<00:03:08.040><c> and</c><00:03:08.489><c> similarly</c><00:03:08.970><c> if</c><00:03:09.150><c> you're</c><00:03:09.540><c> in</c><00:03:09.630><c> this</c>
+
+00:03:09.740 --> 00:03:09.750 align:start position:0%
+enough and similarly if you're in this
+ 
+
+00:03:09.750 --> 00:03:11.090 align:start position:0%
+enough and similarly if you're in this
+class<00:03:09.930><c> and</c><00:03:10.350><c> I</c><00:03:10.440><c> don't</c><00:03:10.500><c> know</c><00:03:10.650><c> you</c><00:03:10.709><c> have</c><00:03:10.830><c> a</c><00:03:10.890><c> friend</c>
+
+00:03:11.090 --> 00:03:11.100 align:start position:0%
+class and I don't know you have a friend
+ 
+
+00:03:11.100 --> 00:03:13.040 align:start position:0%
+class and I don't know you have a friend
+who's<00:03:11.220><c> stuck</c><00:03:11.459><c> and</c><00:03:11.730><c> you</c><00:03:12.330><c> give</c><00:03:12.480><c> them</c><00:03:12.540><c> a</c><00:03:12.660><c> jar</c><00:03:12.840><c> file</c>
+
+00:03:13.040 --> 00:03:13.050 align:start position:0%
+who's stuck and you give them a jar file
+ 
+
+00:03:13.050 --> 00:03:14.780 align:start position:0%
+who's stuck and you give them a jar file
+of<00:03:13.290><c> your</c><00:03:13.410><c> code</c><00:03:13.620><c> thinking</c><00:03:14.070><c> well</c><00:03:14.220><c> they</c><00:03:14.550><c> can't</c>
+
+00:03:14.780 --> 00:03:14.790 align:start position:0%
+of your code thinking well they can't
+ 
+
+00:03:14.790 --> 00:03:16.699 align:start position:0%
+of your code thinking well they can't
+like<00:03:15.120><c> just</c><00:03:15.150><c> copy</c><00:03:15.510><c> my</c><00:03:15.720><c> code</c><00:03:15.750><c> right</c><00:03:16.170><c> actually</c>
+
+00:03:16.699 --> 00:03:16.709 align:start position:0%
+like just copy my code right actually
+ 
+
+00:03:16.709 --> 00:03:18.170 align:start position:0%
+like just copy my code right actually
+they<00:03:16.830><c> can</c><00:03:16.890><c> if</c><00:03:17.340><c> they</c><00:03:17.580><c> know</c><00:03:17.670><c> what</c><00:03:17.790><c> they're</c><00:03:17.940><c> doing</c>
+
+00:03:18.170 --> 00:03:18.180 align:start position:0%
+they can if they know what they're doing
+ 
+
+00:03:18.180 --> 00:03:21.380 align:start position:0%
+they can if they know what they're doing
+it<00:03:18.840><c> will</c><00:03:18.989><c> take</c><00:03:19.280><c> somebody</c><00:03:20.280><c> who</c><00:03:20.760><c> has</c><00:03:21.150><c> Google</c>
+
+00:03:21.380 --> 00:03:21.390 align:start position:0%
+it will take somebody who has Google
+ 
+
+00:03:21.390 --> 00:03:24.199 align:start position:0%
+it will take somebody who has Google
+skills<00:03:21.810><c> maybe</c><00:03:22.140><c> I</c><00:03:22.590><c> don't</c><00:03:23.430><c> know</c><00:03:23.610><c> five</c><00:03:23.910><c> minutes</c>
+
+00:03:24.199 --> 00:03:24.209 align:start position:0%
+skills maybe I don't know five minutes
+ 
+
+00:03:24.209 --> 00:03:25.910 align:start position:0%
+skills maybe I don't know five minutes
+six<00:03:24.600><c> minutes</c><00:03:24.660><c> to</c><00:03:25.019><c> figure</c><00:03:25.260><c> out</c><00:03:25.380><c> how</c><00:03:25.560><c> to</c><00:03:25.620><c> do</c><00:03:25.769><c> this</c>
+
+00:03:25.910 --> 00:03:25.920 align:start position:0%
+six minutes to figure out how to do this
+ 
+
+00:03:25.920 --> 00:03:28.550 align:start position:0%
+six minutes to figure out how to do this
+maybe<00:03:26.549><c> try</c><00:03:26.760><c> it</c><00:03:26.790><c> out</c><00:03:26.940><c> yourself</c><00:03:27.030><c> kind</c><00:03:27.450><c> of</c><00:03:27.540><c> fun</c><00:03:27.690><c> so</c>
+
+00:03:28.550 --> 00:03:28.560 align:start position:0%
+maybe try it out yourself kind of fun so
+ 
+
+00:03:28.560 --> 00:03:30.170 align:start position:0%
+maybe try it out yourself kind of fun so
+just<00:03:28.739><c> be</c><00:03:28.830><c> aware</c><00:03:28.860><c> jar</c><00:03:29.489><c> files</c><00:03:29.700><c> don't</c><00:03:29.880><c> keep</c><00:03:30.090><c> you</c>
+
+00:03:30.170 --> 00:03:30.180 align:start position:0%
+just be aware jar files don't keep you
+ 
+
+00:03:30.180 --> 00:03:32.120 align:start position:0%
+just be aware jar files don't keep you
+safe<00:03:30.360><c> that's</c><00:03:31.170><c> it</c><00:03:31.320><c> for</c><00:03:31.470><c> jar</c><00:03:31.620><c> files</c><00:03:31.890><c> really</c>
+
+00:03:32.120 --> 00:03:32.130 align:start position:0%
+safe that's it for jar files really
+ 
+
+00:03:32.130 --> 00:03:33.650 align:start position:0%
+safe that's it for jar files really
+though<00:03:32.790><c> we</c><00:03:32.880><c> do</c><00:03:33.000><c> want</c><00:03:33.150><c> to</c><00:03:33.180><c> mention</c><00:03:33.330><c> one</c><00:03:33.630><c> more</c>
+
+00:03:33.650 --> 00:03:33.660 align:start position:0%
+though we do want to mention one more
+ 
+
+00:03:33.660 --> 00:03:35.479 align:start position:0%
+though we do want to mention one more
+thing<00:03:33.870><c> you'll</c><00:03:34.709><c> notice</c><00:03:35.010><c> it's</c><00:03:35.160><c> a</c><00:03:35.220><c> little</c>
+
+00:03:35.479 --> 00:03:35.489 align:start position:0%
+thing you'll notice it's a little
+ 
+
+00:03:35.489 --> 00:03:35.990 align:start position:0%
+thing you'll notice it's a little
+annoying
+
+00:03:35.990 --> 00:03:36.000 align:start position:0%
+annoying
+ 
+
+00:03:36.000 --> 00:03:38.270 align:start position:0%
+annoying
+and<00:03:36.120><c> IntelliJ</c><00:03:36.720><c> to</c><00:03:37.110><c> always</c><00:03:37.440><c> do</c><00:03:37.650><c> things</c><00:03:37.950><c> like</c>
+
+00:03:38.270 --> 00:03:38.280 align:start position:0%
+and IntelliJ to always do things like
+ 
+
+00:03:38.280 --> 00:03:41.360 align:start position:0%
+and IntelliJ to always do things like
+okay<00:03:38.540><c> project</c><00:03:39.540><c> structure</c><00:03:40.190><c> libraries</c><00:03:41.190><c> or</c>
+
+00:03:41.360 --> 00:03:41.370 align:start position:0%
+okay project structure libraries or
+ 
+
+00:03:41.370 --> 00:03:44.180 align:start position:0%
+okay project structure libraries or
+artifacts<00:03:41.850><c> or</c><00:03:42.060><c> whatever</c><00:03:42.299><c> else</c><00:03:42.510><c> and</c><00:03:43.190><c> setting</c>
+
+00:03:44.180 --> 00:03:44.190 align:start position:0%
+artifacts or whatever else and setting
+ 
+
+00:03:44.190 --> 00:03:48.740 align:start position:0%
+artifacts or whatever else and setting
+up<00:03:44.310><c> all</c><00:03:44.489><c> of</c><00:03:44.760><c> these</c><00:03:46.730><c> kind</c><00:03:47.730><c> of</c><00:03:47.760><c> meta</c><00:03:48.030><c> project</c>
+
+00:03:48.740 --> 00:03:48.750 align:start position:0%
+up all of these kind of meta project
+ 
+
+00:03:48.750 --> 00:03:51.860 align:start position:0%
+up all of these kind of meta project
+ideas<00:03:49.170><c> is</c><00:03:49.860><c> a</c><00:03:49.980><c> bit</c><00:03:50.190><c> of</c><00:03:50.280><c> pain</c><00:03:50.459><c> and</c><00:03:50.670><c> so</c><00:03:51.540><c> there</c>
+
+00:03:51.860 --> 00:03:51.870 align:start position:0%
+ideas is a bit of pain and so there
+ 
+
+00:03:51.870 --> 00:03:53.569 align:start position:0%
+ideas is a bit of pain and so there
+exists<00:03:52.230><c> something</c><00:03:52.739><c> known</c><00:03:52.829><c> as</c><00:03:52.860><c> a</c><00:03:52.980><c> build</c><00:03:53.280><c> system</c>
+
+00:03:53.569 --> 00:03:53.579 align:start position:0%
+exists something known as a build system
+ 
+
+00:03:53.579 --> 00:03:55.940 align:start position:0%
+exists something known as a build system
+that<00:03:53.940><c> automates</c><00:03:54.540><c> that</c><00:03:54.840><c> kind</c><00:03:55.170><c> of</c><00:03:55.260><c> process</c><00:03:55.500><c> it</c>
+
+00:03:55.940 --> 00:03:55.950 align:start position:0%
+that automates that kind of process it
+ 
+
+00:03:55.950 --> 00:03:57.170 align:start position:0%
+that automates that kind of process it
+does<00:03:56.070><c> more</c><00:03:56.280><c> I'm</c><00:03:56.610><c> not</c><00:03:56.760><c> really</c><00:03:56.850><c> gonna</c><00:03:57.000><c> talk</c>
+
+00:03:57.170 --> 00:03:57.180 align:start position:0%
+does more I'm not really gonna talk
+ 
+
+00:03:57.180 --> 00:03:58.819 align:start position:0%
+does more I'm not really gonna talk
+about<00:03:57.239><c> it</c><00:03:57.570><c> much</c><00:03:57.690><c> in</c><00:03:57.840><c> class</c><00:03:57.959><c> but</c><00:03:58.650><c> there's</c><00:03:58.799><c> a</c>
+
+00:03:58.819 --> 00:03:58.829 align:start position:0%
+about it much in class but there's a
+ 
+
+00:03:58.829 --> 00:04:00.350 align:start position:0%
+about it much in class but there's a
+bunch<00:03:59.010><c> of</c><00:03:59.130><c> build</c><00:03:59.340><c> systems</c><00:03:59.730><c> out</c><00:03:59.910><c> there</c><00:04:00.120><c> like</c>
+
+00:04:00.350 --> 00:04:00.360 align:start position:0%
+bunch of build systems out there like
+ 
+
+00:04:00.360 --> 00:04:02.330 align:start position:0%
+bunch of build systems out there like
+ant<00:04:00.660><c> maven</c><00:04:01.320><c> Gradle</c><00:04:01.769><c> which</c><00:04:02.010><c> seems</c><00:04:02.190><c> to</c><00:04:02.250><c> be</c>
+
+00:04:02.330 --> 00:04:02.340 align:start position:0%
+ant maven Gradle which seems to be
+ 
+
+00:04:02.340 --> 00:04:04.520 align:start position:0%
+ant maven Gradle which seems to be
+getting<00:04:02.670><c> very</c><00:04:02.700><c> popular</c><00:04:03.079><c> and</c><00:04:04.079><c> these</c><00:04:04.290><c> can</c><00:04:04.500><c> be</c>
+
+00:04:04.520 --> 00:04:04.530 align:start position:0%
+getting very popular and these can be
+ 
+
+00:04:04.530 --> 00:04:06.890 align:start position:0%
+getting very popular and these can be
+really<00:04:04.920><c> useful</c><00:04:05.430><c> for</c><00:04:05.459><c> big</c><00:04:05.760><c> teams</c><00:04:06.060><c> big</c><00:04:06.420><c> projects</c>
+
+00:04:06.890 --> 00:04:06.900 align:start position:0%
+really useful for big teams big projects
+ 
+
+00:04:06.900 --> 00:04:08.690 align:start position:0%
+really useful for big teams big projects
+where<00:04:07.350><c> you</c><00:04:07.769><c> don't</c><00:04:07.980><c> want</c><00:04:08.100><c> to</c><00:04:08.160><c> have</c><00:04:08.250><c> to</c><00:04:08.370><c> write</c>
+
+00:04:08.690 --> 00:04:08.700 align:start position:0%
+where you don't want to have to write
+ 
+
+00:04:08.700 --> 00:04:10.160 align:start position:0%
+where you don't want to have to write
+out<00:04:08.880><c> a</c><00:04:08.910><c> bunch</c><00:04:09.150><c> of</c><00:04:09.239><c> directions</c><00:04:09.480><c> like</c><00:04:09.840><c> we</c><00:04:09.959><c> do</c><00:04:10.079><c> in</c>
+
+00:04:10.160 --> 00:04:10.170 align:start position:0%
+out a bunch of directions like we do in
+ 
+
+00:04:10.170 --> 00:04:11.780 align:start position:0%
+out a bunch of directions like we do in
+the<00:04:10.200><c> labs</c><00:04:10.470><c> it's</c><00:04:10.769><c> like</c><00:04:10.890><c> go</c><00:04:11.040><c> to</c><00:04:11.100><c> file</c><00:04:11.579><c> project</c>
+
+00:04:11.780 --> 00:04:11.790 align:start position:0%
+the labs it's like go to file project
+ 
+
+00:04:11.790 --> 00:04:14.090 align:start position:0%
+the labs it's like go to file project
+structure<00:04:12.269><c> yadda</c><00:04:12.600><c> yadda</c><00:04:12.660><c> in</c><00:04:13.110><c> that</c><00:04:13.440><c> case</c><00:04:13.620><c> you</c>
+
+00:04:14.090 --> 00:04:14.100 align:start position:0%
+structure yadda yadda in that case you
+ 
+
+00:04:14.100 --> 00:04:16.310 align:start position:0%
+structure yadda yadda in that case you
+can<00:04:14.220><c> provide</c><00:04:14.549><c> a</c><00:04:14.610><c> file</c><00:04:15.060><c> that</c><00:04:15.540><c> automates</c><00:04:16.140><c> all</c>
+
+00:04:16.310 --> 00:04:16.320 align:start position:0%
+can provide a file that automates all
+ 
+
+00:04:16.320 --> 00:04:19.819 align:start position:0%
+can provide a file that automates all
+that<00:04:16.620><c> stuff</c><00:04:17.239><c> in</c><00:04:18.239><c> 61</c><00:04:18.630><c> be</c><00:04:18.870><c> our</c><00:04:18.989><c> projects</c><00:04:19.590><c> and</c><00:04:19.739><c> our</c>
+
+00:04:19.819 --> 00:04:19.829 align:start position:0%
+that stuff in 61 be our projects and our
+ 
+
+00:04:19.829 --> 00:04:21.380 align:start position:0%
+that stuff in 61 be our projects and our
+and<00:04:20.100><c> our</c><00:04:20.160><c> homeworks</c><00:04:20.519><c> are</c><00:04:20.640><c> just</c><00:04:20.820><c> not</c><00:04:20.970><c> quite</c><00:04:21.180><c> big</c>
+
+00:04:21.380 --> 00:04:21.390 align:start position:0%
+and our homeworks are just not quite big
+ 
+
+00:04:21.390 --> 00:04:23.330 align:start position:0%
+and our homeworks are just not quite big
+enough<00:04:21.450><c> to</c><00:04:21.750><c> really</c><00:04:21.900><c> justify</c><00:04:22.410><c> this</c><00:04:22.470><c> but</c><00:04:23.250><c> we</c>
+
+00:04:23.330 --> 00:04:23.340 align:start position:0%
+enough to really justify this but we
+ 
+
+00:04:23.340 --> 00:04:25.610 align:start position:0%
+enough to really justify this but we
+will<00:04:23.490><c> use</c><00:04:23.520><c> maven</c><00:04:23.970><c> and</c><00:04:24.270><c> project</c><00:04:24.660><c> three</c><00:04:24.960><c> at</c>
+
+00:04:25.610 --> 00:04:25.620 align:start position:0%
+will use maven and project three at
+ 
+
+00:04:25.620 --> 00:04:25.940 align:start position:0%
+will use maven and project three at
+least
+
+00:04:25.940 --> 00:04:25.950 align:start position:0%
+least
+ 
+
+00:04:25.950 --> 00:04:28.520 align:start position:0%
+least
+than<00:04:26.100><c> the</c><00:04:26.280><c> spring</c><00:04:26.610><c> 2017</c><00:04:26.970><c> semester</c><00:04:27.720><c> so</c><00:04:28.410><c> that's</c>
+
+00:04:28.520 --> 00:04:28.530 align:start position:0%
+than the spring 2017 semester so that's
+ 
+
+00:04:28.530 --> 00:04:30.200 align:start position:0%
+than the spring 2017 semester so that's
+it<00:04:28.650><c> for</c><00:04:28.800><c> jar</c><00:04:28.980><c> files</c><00:04:29.220><c> so</c><00:04:29.580><c> let's</c><00:04:29.730><c> move</c><00:04:29.850><c> on</c><00:04:30.030><c> to</c>
+
+00:04:30.200 --> 00:04:30.210 align:start position:0%
+it for jar files so let's move on to
+ 
+
+00:04:30.210 --> 00:04:34.190 align:start position:0%
+it for jar files so let's move on to
+some<00:04:30.690><c> other</c><00:04:30.750><c> exciting's</c><00:04:31.470><c> and</c><00:04:31.680><c> tactical</c><00:04:32.040><c> thing</c>
+

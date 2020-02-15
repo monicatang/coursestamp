@@ -1,0 +1,2208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.149 align:start position:0%
+ 
+in<00:00:00.120><c> the</c><00:00:00.989><c> last</c><00:00:01.170><c> several</c><00:00:01.380><c> lectures</c><00:00:01.500><c> we</c><00:00:01.920><c> talked</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+in the last several lectures we talked
+ 
+
+00:00:02.159 --> 00:00:05.390 align:start position:0%
+in the last several lectures we talked
+about<00:00:02.310><c> different</c><00:00:02.669><c> ways</c><00:00:02.879><c> to</c><00:00:03.060><c> sort</c><00:00:03.689><c> data</c><00:00:04.160><c> now</c><00:00:05.160><c> in</c>
+
+00:00:05.390 --> 00:00:05.400 align:start position:0%
+about different ways to sort data now in
+ 
+
+00:00:05.400 --> 00:00:06.470 align:start position:0%
+about different ways to sort data now in
+this<00:00:05.549><c> lecture</c><00:00:05.700><c> actually</c><00:00:05.970><c> going</c><00:00:06.210><c> to</c><00:00:06.330><c> take</c><00:00:06.450><c> a</c>
+
+00:00:06.470 --> 00:00:06.480 align:start position:0%
+this lecture actually going to take a
+ 
+
+00:00:06.480 --> 00:00:08.000 align:start position:0%
+this lecture actually going to take a
+step<00:00:06.839><c> back</c><00:00:07.080><c> and</c><00:00:07.109><c> stop</c><00:00:07.589><c> talking</c><00:00:07.770><c> about</c>
+
+00:00:08.000 --> 00:00:08.010 align:start position:0%
+step back and stop talking about
+ 
+
+00:00:08.010 --> 00:00:09.740 align:start position:0%
+step back and stop talking about
+specific<00:00:08.639><c> sort</c><00:00:08.880><c> and</c><00:00:09.059><c> start</c><00:00:09.240><c> talking</c><00:00:09.389><c> about</c>
+
+00:00:09.740 --> 00:00:09.750 align:start position:0%
+specific sort and start talking about
+ 
+
+00:00:09.750 --> 00:00:11.560 align:start position:0%
+specific sort and start talking about
+the<00:00:09.929><c> fundamental</c><00:00:10.590><c> nature</c><00:00:10.620><c> of</c><00:00:10.889><c> sorting</c><00:00:11.340><c> itself</c>
+
+00:00:11.560 --> 00:00:11.570 align:start position:0%
+the fundamental nature of sorting itself
+ 
+
+00:00:11.570 --> 00:00:13.820 align:start position:0%
+the fundamental nature of sorting itself
+so<00:00:12.570><c> first</c><00:00:12.809><c> I'll</c><00:00:12.960><c> just</c><00:00:13.110><c> mention</c><00:00:13.259><c> that</c><00:00:13.500><c> sorting</c>
+
+00:00:13.820 --> 00:00:13.830 align:start position:0%
+so first I'll just mention that sorting
+ 
+
+00:00:13.830 --> 00:00:15.440 align:start position:0%
+so first I'll just mention that sorting
+is<00:00:13.920><c> of</c><00:00:14.009><c> course</c><00:00:14.160><c> a</c><00:00:14.309><c> very</c><00:00:14.340><c> useful</c><00:00:14.610><c> task</c><00:00:15.030><c> we</c><00:00:15.299><c> like</c>
+
+00:00:15.440 --> 00:00:15.450 align:start position:0%
+is of course a very useful task we like
+ 
+
+00:00:15.450 --> 00:00:17.090 align:start position:0%
+is of course a very useful task we like
+to<00:00:15.570><c> put</c><00:00:15.719><c> things</c><00:00:15.750><c> in</c><00:00:16.080><c> order</c><00:00:16.170><c> right</c><00:00:16.680><c> so</c><00:00:16.949><c> for</c>
+
+00:00:17.090 --> 00:00:17.100 align:start position:0%
+to put things in order right so for
+ 
+
+00:00:17.100 --> 00:00:19.400 align:start position:0%
+to put things in order right so for
+example<00:00:17.160><c> you</c><00:00:17.520><c> have</c><00:00:17.550><c> open</c><00:00:17.970><c> a</c><00:00:18.119><c> sly</c><00:00:18.570><c> a</c><00:00:18.930><c> Google</c>
+
+00:00:19.400 --> 00:00:19.410 align:start position:0%
+example you have open a sly a Google
+ 
+
+00:00:19.410 --> 00:00:20.660 align:start position:0%
+example you have open a sly a Google
+sheet<00:00:19.439><c> spreadsheet</c><00:00:20.189><c> or</c><00:00:20.220><c> an</c><00:00:20.400><c> Excel</c>
+
+00:00:20.660 --> 00:00:20.670 align:start position:0%
+sheet spreadsheet or an Excel
+ 
+
+00:00:20.670 --> 00:00:22.310 align:start position:0%
+sheet spreadsheet or an Excel
+spreadsheet<00:00:20.699><c> or</c><00:00:21.210><c> whatever</c><00:00:21.480><c> and</c><00:00:21.720><c> you</c><00:00:22.080><c> want</c><00:00:22.230><c> to</c>
+
+00:00:22.310 --> 00:00:22.320 align:start position:0%
+spreadsheet or whatever and you want to
+ 
+
+00:00:22.320 --> 00:00:24.800 align:start position:0%
+spreadsheet or whatever and you want to
+sort<00:00:22.529><c> your</c><00:00:22.800><c> rose</c><00:00:23.670><c> by</c><00:00:24.029><c> I</c><00:00:24.300><c> don't</c><00:00:24.480><c> know</c><00:00:24.539><c> the</c><00:00:24.660><c> name</c>
+
+00:00:24.800 --> 00:00:24.810 align:start position:0%
+sort your rose by I don't know the name
+ 
+
+00:00:24.810 --> 00:00:26.599 align:start position:0%
+sort your rose by I don't know the name
+of<00:00:24.840><c> the</c><00:00:25.109><c> students</c><00:00:25.470><c> in</c><00:00:25.560><c> the</c><00:00:25.619><c> table</c><00:00:25.800><c> that's</c><00:00:26.340><c> sort</c>
+
+00:00:26.599 --> 00:00:26.609 align:start position:0%
+of the students in the table that's sort
+ 
+
+00:00:26.609 --> 00:00:28.490 align:start position:0%
+of the students in the table that's sort
+of<00:00:26.670><c> but</c><00:00:27.449><c> we</c><00:00:27.539><c> can</c><00:00:27.660><c> also</c><00:00:27.779><c> use</c><00:00:28.019><c> sorting</c><00:00:28.320><c> for</c><00:00:28.470><c> a</c>
+
+00:00:28.490 --> 00:00:28.500 align:start position:0%
+of but we can also use sorting for a
+ 
+
+00:00:28.500 --> 00:00:30.830 align:start position:0%
+of but we can also use sorting for a
+bunch<00:00:28.650><c> of</c><00:00:28.769><c> not</c><00:00:29.130><c> so</c><00:00:29.400><c> obvious</c><00:00:29.519><c> tasks</c><00:00:30.240><c> for</c>
+
+00:00:30.830 --> 00:00:30.840 align:start position:0%
+bunch of not so obvious tasks for
+ 
+
+00:00:30.840 --> 00:00:32.810 align:start position:0%
+bunch of not so obvious tasks for
+example<00:00:31.230><c> finding</c><00:00:31.830><c> duplicates</c><00:00:32.309><c> in</c><00:00:32.460><c> an</c><00:00:32.550><c> array</c>
+
+00:00:32.810 --> 00:00:32.820 align:start position:0%
+example finding duplicates in an array
+ 
+
+00:00:32.820 --> 00:00:34.729 align:start position:0%
+example finding duplicates in an array
+so<00:00:33.360><c> the</c><00:00:33.420><c> Viet</c><00:00:33.540><c> Minh</c><00:00:33.600><c> array</c><00:00:33.840><c> anyone</c><00:00:34.500><c> know</c><00:00:34.590><c> are</c>
+
+00:00:34.729 --> 00:00:34.739 align:start position:0%
+so the Viet Minh array anyone know are
+ 
+
+00:00:34.739 --> 00:00:36.020 align:start position:0%
+so the Viet Minh array anyone know are
+there<00:00:34.829><c> any</c><00:00:35.010><c> duplicates</c><00:00:35.370><c> you</c><00:00:35.760><c> can</c><00:00:35.910><c> of</c><00:00:36.000><c> course</c>
+
+00:00:36.020 --> 00:00:36.030 align:start position:0%
+there any duplicates you can of course
+ 
+
+00:00:36.030 --> 00:00:38.389 align:start position:0%
+there any duplicates you can of course
+look<00:00:36.390><c> at</c><00:00:36.510><c> every</c><00:00:36.690><c> pair</c><00:00:36.960><c> and</c><00:00:37.200><c> say</c><00:00:37.620><c> okay</c><00:00:38.160><c> well</c>
+
+00:00:38.389 --> 00:00:38.399 align:start position:0%
+look at every pair and say okay well
+ 
+
+00:00:38.399 --> 00:00:40.670 align:start position:0%
+look at every pair and say okay well
+this<00:00:39.329><c> pair</c><00:00:39.570><c> finally</c><00:00:40.020><c> I</c><00:00:40.050><c> found</c><00:00:40.140><c> one</c><00:00:40.500><c> where</c>
+
+00:00:40.670 --> 00:00:40.680 align:start position:0%
+this pair finally I found one where
+ 
+
+00:00:40.680 --> 00:00:42.200 align:start position:0%
+this pair finally I found one where
+there's<00:00:40.829><c> a</c><00:00:40.890><c> duplicates</c><00:00:41.340><c> but</c><00:00:41.760><c> an</c><00:00:41.850><c> even</c><00:00:41.910><c> better</c>
+
+00:00:42.200 --> 00:00:42.210 align:start position:0%
+there's a duplicates but an even better
+ 
+
+00:00:42.210 --> 00:00:44.930 align:start position:0%
+there's a duplicates but an even better
+with<00:00:42.390><c> bit</c><00:00:42.600><c> better</c><00:00:43.170><c> way</c><00:00:43.410><c> would</c><00:00:43.920><c> be</c><00:00:43.980><c> a</c><00:00:44.340><c> stick</c>
+
+00:00:44.930 --> 00:00:44.940 align:start position:0%
+with bit better way would be a stick
+ 
+
+00:00:44.940 --> 00:00:47.180 align:start position:0%
+with bit better way would be a stick
+your<00:00:45.120><c> a</c><00:00:45.149><c> sort</c><00:00:45.930><c> it</c><00:00:46.050><c> using</c><00:00:46.379><c> say</c><00:00:46.530><c> merge</c><00:00:46.710><c> sort</c><00:00:46.950><c> and</c>
+
+00:00:47.180 --> 00:00:47.190 align:start position:0%
+your a sort it using say merge sort and
+ 
+
+00:00:47.190 --> 00:00:49.580 align:start position:0%
+your a sort it using say merge sort and
+then<00:00:47.489><c> just</c><00:00:47.640><c> look</c><00:00:47.760><c> at</c><00:00:47.910><c> each</c><00:00:48.110><c> item</c><00:00:49.110><c> just</c><00:00:49.440><c> the</c>
+
+00:00:49.580 --> 00:00:49.590 align:start position:0%
+then just look at each item just the
+ 
+
+00:00:49.590 --> 00:00:51.560 align:start position:0%
+then just look at each item just the
+ones<00:00:49.890><c> next</c><00:00:50.070><c> to</c><00:00:50.250><c> it</c><00:00:50.370><c> and</c><00:00:50.550><c> that</c><00:00:51.090><c> will</c><00:00:51.149><c> take</c><00:00:51.360><c> less</c>
+
+00:00:51.560 --> 00:00:51.570 align:start position:0%
+ones next to it and that will take less
+ 
+
+00:00:51.570 --> 00:00:53.299 align:start position:0%
+ones next to it and that will take less
+time<00:00:51.629><c> overall</c><00:00:52.110><c> that's</c><00:00:52.920><c> something</c><00:00:53.129><c> you</c><00:00:53.190><c> can</c>
+
+00:00:53.299 --> 00:00:53.309 align:start position:0%
+time overall that's something you can
+ 
+
+00:00:53.309 --> 00:00:54.889 align:start position:0%
+time overall that's something you can
+think<00:00:53.370><c> about</c><00:00:53.460><c> later</c><00:00:53.760><c> if</c><00:00:53.910><c> you'd</c><00:00:54.030><c> like</c><00:00:54.149><c> also</c><00:00:54.809><c> in</c>
+
+00:00:54.889 --> 00:00:54.899 align:start position:0%
+think about later if you'd like also in
+ 
+
+00:00:54.899 --> 00:00:57.290 align:start position:0%
+think about later if you'd like also in
+the<00:00:54.960><c> study</c><00:00:55.140><c> guide</c><00:00:55.670><c> another</c><00:00:56.670><c> example</c><00:00:56.820><c> is</c><00:00:57.239><c> the</c>
+
+00:00:57.290 --> 00:00:57.300 align:start position:0%
+the study guide another example is the
+ 
+
+00:00:57.300 --> 00:00:58.970 align:start position:0%
+the study guide another example is the
+3-sum<00:00:57.899><c> problem</c><00:00:57.930><c> mentioned</c><00:00:58.739><c> in</c><00:00:58.800><c> a</c><00:00:58.859><c> much</c>
+
+00:00:58.970 --> 00:00:58.980 align:start position:0%
+3-sum problem mentioned in a much
+ 
+
+00:00:58.980 --> 00:01:00.439 align:start position:0%
+3-sum problem mentioned in a much
+earlier<00:00:59.100><c> lecture</c><00:00:59.579><c> so</c><00:00:59.850><c> that's</c><00:01:00.030><c> this</c><00:01:00.210><c> right</c>
+
+00:01:00.439 --> 00:01:00.449 align:start position:0%
+earlier lecture so that's this right
+ 
+
+00:01:00.449 --> 00:01:03.110 align:start position:0%
+earlier lecture so that's this right
+here<00:01:00.660><c> so</c><00:01:01.350><c> in</c><00:01:01.440><c> the</c><00:01:01.530><c> 3-sum</c><00:01:01.920><c> problem</c><00:01:01.949><c> you</c><00:01:02.550><c> have</c><00:01:02.969><c> to</c>
+
+00:01:03.110 --> 00:01:03.120 align:start position:0%
+here so in the 3-sum problem you have to
+ 
+
+00:01:03.120 --> 00:01:05.060 align:start position:0%
+here so in the 3-sum problem you have to
+find<00:01:03.420><c> three</c><00:01:03.960><c> it</c><00:01:04.260><c> gives</c><00:01:04.320><c> your</c><00:01:04.589><c> given</c><00:01:04.860><c> an</c><00:01:04.949><c> array</c>
+
+00:01:05.060 --> 00:01:05.070 align:start position:0%
+find three it gives your given an array
+ 
+
+00:01:05.070 --> 00:01:07.640 align:start position:0%
+find three it gives your given an array
+in<00:01:05.430><c> no</c><00:01:05.850><c> particular</c><00:01:06.000><c> order</c><00:01:06.360><c> you</c><00:01:07.170><c> want</c><00:01:07.350><c> to</c><00:01:07.500><c> find</c>
+
+00:01:07.640 --> 00:01:07.650 align:start position:0%
+in no particular order you want to find
+ 
+
+00:01:07.650 --> 00:01:09.800 align:start position:0%
+in no particular order you want to find
+do<00:01:07.860><c> there</c><00:01:08.040><c> exists</c><00:01:08.430><c> a</c><00:01:08.549><c> triplet</c><00:01:09.119><c> of</c><00:01:09.270><c> items</c><00:01:09.630><c> that</c>
+
+00:01:09.800 --> 00:01:09.810 align:start position:0%
+do there exists a triplet of items that
+ 
+
+00:01:09.810 --> 00:01:12.320 align:start position:0%
+do there exists a triplet of items that
+if<00:01:10.110><c> you</c><00:01:10.409><c> sum</c><00:01:10.740><c> them</c><00:01:10.920><c> you</c><00:01:11.130><c> get</c><00:01:11.280><c> zero</c><00:01:11.310><c> and</c><00:01:12.240><c> it</c>
+
+00:01:12.320 --> 00:01:12.330 align:start position:0%
+if you sum them you get zero and it
+ 
+
+00:01:12.330 --> 00:01:13.850 align:start position:0%
+if you sum them you get zero and it
+turns<00:01:12.510><c> out</c><00:01:12.630><c> that</c><00:01:12.689><c> naive</c><00:01:12.990><c> approach</c><00:01:13.200><c> is</c><00:01:13.560><c> just</c><00:01:13.770><c> to</c>
+
+00:01:13.850 --> 00:01:13.860 align:start position:0%
+turns out that naive approach is just to
+ 
+
+00:01:13.860 --> 00:01:15.560 align:start position:0%
+turns out that naive approach is just to
+consider<00:01:14.159><c> all</c><00:01:14.340><c> triplets</c><00:01:14.610><c> which</c><00:01:15.000><c> is</c><00:01:15.150><c> n</c><00:01:15.270><c> cubed</c>
+
+00:01:15.560 --> 00:01:15.570 align:start position:0%
+consider all triplets which is n cubed
+ 
+
+00:01:15.570 --> 00:01:18.050 align:start position:0%
+consider all triplets which is n cubed
+and<00:01:15.750><c> a</c><00:01:16.080><c> better</c><00:01:16.259><c> approach</c><00:01:16.530><c> involves</c><00:01:17.060><c> sorting</c>
+
+00:01:18.050 --> 00:01:18.060 align:start position:0%
+and a better approach involves sorting
+ 
+
+00:01:18.060 --> 00:01:19.999 align:start position:0%
+and a better approach involves sorting
+first<00:01:18.270><c> and</c><00:01:18.540><c> it'll</c><00:01:18.750><c> take</c><00:01:18.930><c> n</c><00:01:19.080><c> squared</c><00:01:19.439><c> and</c><00:01:19.650><c> again</c>
+
+00:01:19.999 --> 00:01:20.009 align:start position:0%
+first and it'll take n squared and again
+ 
+
+00:01:20.009 --> 00:01:22.070 align:start position:0%
+first and it'll take n squared and again
+study<00:01:20.430><c> guide</c><00:01:20.610><c> will</c><00:01:20.729><c> give</c><00:01:20.850><c> you</c><00:01:20.939><c> some</c><00:01:21.090><c> tips</c><00:01:21.240><c> or</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+study guide will give you some tips or
+ 
+
+00:01:22.080 --> 00:01:23.899 align:start position:0%
+study guide will give you some tips or
+give<00:01:22.290><c> you</c><00:01:22.380><c> scaffolding</c><00:01:23.280><c> for</c><00:01:23.460><c> thinking</c><00:01:23.729><c> about</c>
+
+00:01:23.899 --> 00:01:23.909 align:start position:0%
+give you scaffolding for thinking about
+ 
+
+00:01:23.909 --> 00:01:26.030 align:start position:0%
+give you scaffolding for thinking about
+these<00:01:24.090><c> two</c><00:01:24.210><c> problems</c><00:01:24.590><c> so</c><00:01:25.590><c> there's</c><00:01:25.740><c> many</c><00:01:25.890><c> ways</c>
+
+00:01:26.030 --> 00:01:26.040 align:start position:0%
+these two problems so there's many ways
+ 
+
+00:01:26.040 --> 00:01:27.830 align:start position:0%
+these two problems so there's many ways
+of<00:01:26.280><c> course</c><00:01:26.460><c> to</c><00:01:26.580><c> sort</c><00:01:26.820><c> an</c><00:01:26.970><c> array</c><00:01:27.060><c> whether</c><00:01:27.630><c> it's</c>
+
+00:01:27.830 --> 00:01:27.840 align:start position:0%
+of course to sort an array whether it's
+ 
+
+00:01:27.840 --> 00:01:30.230 align:start position:0%
+of course to sort an array whether it's
+for<00:01:28.049><c> the</c><00:01:28.380><c> basic</c><00:01:29.369><c> task</c><00:01:29.640><c> of</c><00:01:29.880><c> just</c><00:01:30.060><c> getting</c>
+
+00:01:30.230 --> 00:01:30.240 align:start position:0%
+for the basic task of just getting
+ 
+
+00:01:30.240 --> 00:01:32.600 align:start position:0%
+for the basic task of just getting
+things<00:01:30.450><c> in</c><00:01:30.570><c> order</c><00:01:30.689><c> or</c><00:01:31.259><c> if</c><00:01:32.130><c> you</c><00:01:32.280><c> want</c><00:01:32.430><c> to</c><00:01:32.490><c> use</c><00:01:32.579><c> it</c>
+
+00:01:32.600 --> 00:01:32.610 align:start position:0%
+things in order or if you want to use it
+ 
+
+00:01:32.610 --> 00:01:34.670 align:start position:0%
+things in order or if you want to use it
+as<00:01:32.850><c> a</c><00:01:32.880><c> stepping</c><00:01:33.360><c> stone</c><00:01:33.720><c> to</c><00:01:34.140><c> solving</c><00:01:34.500><c> some</c>
+
+00:01:34.670 --> 00:01:34.680 align:start position:0%
+as a stepping stone to solving some
+ 
+
+00:01:34.680 --> 00:01:37.460 align:start position:0%
+as a stepping stone to solving some
+bigger<00:01:34.950><c> other</c><00:01:35.759><c> problems</c><00:01:36.270><c> now</c><00:01:37.079><c> each</c><00:01:37.229><c> of</c><00:01:37.259><c> this</c>
+
+00:01:37.460 --> 00:01:37.470 align:start position:0%
+bigger other problems now each of this
+ 
+
+00:01:37.470 --> 00:01:38.600 align:start position:0%
+bigger other problems now each of this
+works<00:01:37.710><c> we</c><00:01:37.829><c> talked</c><00:01:38.040><c> about</c><00:01:38.159><c> they</c><00:01:38.400><c> all</c><00:01:38.490><c> have</c>
+
+00:01:38.600 --> 00:01:38.610 align:start position:0%
+works we talked about they all have
+ 
+
+00:01:38.610 --> 00:01:39.830 align:start position:0%
+works we talked about they all have
+their<00:01:38.759><c> own</c><00:01:38.820><c> different</c><00:01:39.270><c> trade-offs</c><00:01:39.540><c> and</c>
+
+00:01:39.830 --> 00:01:39.840 align:start position:0%
+their own different trade-offs and
+ 
+
+00:01:39.840 --> 00:01:41.840 align:start position:0%
+their own different trade-offs and
+features<00:01:40.170><c> I'll</c><00:01:40.409><c> briefly</c><00:01:41.130><c> talk</c><00:01:41.430><c> about</c><00:01:41.460><c> those</c>
+
+00:01:41.840 --> 00:01:41.850 align:start position:0%
+features I'll briefly talk about those
+ 
+
+00:01:41.850 --> 00:01:43.429 align:start position:0%
+features I'll briefly talk about those
+in<00:01:41.880><c> the</c><00:01:42.000><c> next</c><00:01:42.240><c> slide</c><00:01:42.420><c> of</c><00:01:42.630><c> what</c><00:01:43.049><c> this</c><00:01:43.140><c> lecture</c>
+
+00:01:43.429 --> 00:01:43.439 align:start position:0%
+in the next slide of what this lecture
+ 
+
+00:01:43.439 --> 00:01:45.380 align:start position:0%
+in the next slide of what this lecture
+is<00:01:43.470><c> mostly</c><00:01:43.770><c> going</c><00:01:43.890><c> to</c><00:01:43.979><c> be</c><00:01:44.070><c> about</c><00:01:44.189><c> is</c><00:01:44.490><c> how</c><00:01:45.090><c> hard</c>
+
+00:01:45.380 --> 00:01:45.390 align:start position:0%
+is mostly going to be about is how hard
+ 
+
+00:01:45.390 --> 00:01:48.590 align:start position:0%
+is mostly going to be about is how hard
+is<00:01:45.570><c> it</c><00:01:45.630><c> to</c><00:01:46.020><c> sort</c><00:01:46.200><c> period</c><00:01:46.799><c> okay</c><00:01:47.369><c> now</c><00:01:48.240><c> before</c><00:01:48.360><c> we</c>
+
+00:01:48.590 --> 00:01:48.600 align:start position:0%
+is it to sort period okay now before we
+ 
+
+00:01:48.600 --> 00:01:50.450 align:start position:0%
+is it to sort period okay now before we
+get<00:01:48.689><c> to</c><00:01:48.780><c> that</c><00:01:48.810><c> question</c><00:01:49.229><c> two</c><00:01:50.040><c> things</c><00:01:50.280><c> first</c>
+
+00:01:50.450 --> 00:01:50.460 align:start position:0%
+get to that question two things first
+ 
+
+00:01:50.460 --> 00:01:53.270 align:start position:0%
+get to that question two things first
+this<00:01:51.240><c> table</c><00:01:51.600><c> so</c><00:01:52.200><c> in</c><00:01:52.320><c> the</c><00:01:52.439><c> table</c><00:01:52.590><c> I</c><00:01:52.860><c> have</c><00:01:53.070><c> my</c>
+
+00:01:53.270 --> 00:01:53.280 align:start position:0%
+this table so in the table I have my
+ 
+
+00:01:53.280 --> 00:01:54.950 align:start position:0%
+this table so in the table I have my
+four<00:01:53.610><c> main</c><00:01:53.939><c> flavors</c><00:01:54.390><c> of</c><00:01:54.420><c> sorting</c><00:01:54.840><c> we've</c>
+
+00:01:54.950 --> 00:01:54.960 align:start position:0%
+four main flavors of sorting we've
+ 
+
+00:01:54.960 --> 00:01:56.660 align:start position:0%
+four main flavors of sorting we've
+talked<00:01:55.170><c> about</c><00:01:55.290><c> this</c><00:01:55.649><c> is</c><00:01:55.979><c> not</c><00:01:56.130><c> an</c><00:01:56.399><c> exhaustive</c>
+
+00:01:56.660 --> 00:01:56.670 align:start position:0%
+talked about this is not an exhaustive
+ 
+
+00:01:56.670 --> 00:01:58.700 align:start position:0%
+talked about this is not an exhaustive
+list<00:01:56.969><c> there</c><00:01:57.509><c> are</c><00:01:57.600><c> many</c><00:01:57.780><c> other</c><00:01:58.020><c> ways</c><00:01:58.110><c> to</c><00:01:58.500><c> sort</c>
+
+00:01:58.700 --> 00:01:58.710 align:start position:0%
+list there are many other ways to sort
+ 
+
+00:01:58.710 --> 00:02:00.679 align:start position:0%
+list there are many other ways to sort
+but<00:01:59.310><c> these</c><00:01:59.399><c> are</c><00:01:59.520><c> the</c><00:01:59.579><c> most</c><00:01:59.729><c> popular</c><00:02:00.360><c> and</c>
+
+00:02:00.679 --> 00:02:00.689 align:start position:0%
+but these are the most popular and
+ 
+
+00:02:00.689 --> 00:02:02.569 align:start position:0%
+but these are the most popular and
+famous<00:02:00.899><c> ones</c><00:02:01.290><c> we</c><00:02:01.770><c> have</c><00:02:01.890><c> a</c><00:02:01.920><c> selection</c><00:02:02.250><c> based</c>
+
+00:02:02.569 --> 00:02:02.579 align:start position:0%
+famous ones we have a selection based
+ 
+
+00:02:02.579 --> 00:02:05.030 align:start position:0%
+famous ones we have a selection based
+sort<00:02:02.939><c> in</c><00:02:03.149><c> our</c><00:02:03.329><c> case</c><00:02:03.540><c> using</c><00:02:03.780><c> a</c><00:02:03.930><c> heap</c><00:02:04.140><c> to</c><00:02:04.799><c> make</c><00:02:04.920><c> it</c>
+
+00:02:05.030 --> 00:02:05.040 align:start position:0%
+sort in our case using a heap to make it
+ 
+
+00:02:05.040 --> 00:02:07.190 align:start position:0%
+sort in our case using a heap to make it
+faster<00:02:05.399><c> we</c><00:02:05.759><c> have</c><00:02:05.880><c> insertion</c><00:02:06.420><c> based</c><00:02:06.780><c> sort</c><00:02:07.020><c> we</c>
+
+00:02:07.190 --> 00:02:07.200 align:start position:0%
+faster we have insertion based sort we
+ 
+
+00:02:07.200 --> 00:02:08.600 align:start position:0%
+faster we have insertion based sort we
+have<00:02:07.290><c> merging</c><00:02:07.740><c> base</c><00:02:07.979><c> towards</c><00:02:08.310><c> and</c><00:02:08.459><c> we</c><00:02:08.520><c> have</c>
+
+00:02:08.600 --> 00:02:08.610 align:start position:0%
+have merging base towards and we have
+ 
+
+00:02:08.610 --> 00:02:10.580 align:start position:0%
+have merging base towards and we have
+partitioning<00:02:09.179><c> based</c><00:02:09.479><c> sort</c><00:02:09.720><c> each</c><00:02:10.170><c> of</c><00:02:10.349><c> them</c><00:02:10.440><c> has</c>
+
+00:02:10.580 --> 00:02:10.590 align:start position:0%
+partitioning based sort each of them has
+ 
+
+00:02:10.590 --> 00:02:12.559 align:start position:0%
+partitioning based sort each of them has
+a<00:02:10.619><c> fundamental</c><00:02:11.069><c> idea</c><00:02:11.640><c> and</c><00:02:11.910><c> they</c><00:02:12.330><c> all</c><00:02:12.420><c> have</c><00:02:12.450><c> a</c>
+
+00:02:12.559 --> 00:02:12.569 align:start position:0%
+a fundamental idea and they all have a
+ 
+
+00:02:12.569 --> 00:02:13.820 align:start position:0%
+a fundamental idea and they all have a
+bunch<00:02:13.050><c> of</c><00:02:13.170><c> different</c>
+
+00:02:13.820 --> 00:02:13.830 align:start position:0%
+bunch of different
+ 
+
+00:02:13.830 --> 00:02:16.760 align:start position:0%
+bunch of different
+memory<00:02:14.040><c> usage</c><00:02:14.220><c> time</c><00:02:15.180><c> usage</c><00:02:15.840><c> and</c><00:02:16.050><c> some</c><00:02:16.440><c> extra</c>
+
+00:02:16.760 --> 00:02:16.770 align:start position:0%
+memory usage time usage and some extra
+ 
+
+00:02:16.770 --> 00:02:18.200 align:start position:0%
+memory usage time usage and some extra
+little<00:02:16.950><c> details</c><00:02:17.340><c> that</c><00:02:17.520><c> are</c><00:02:17.700><c> interesting</c><00:02:18.060><c> as</c>
+
+00:02:18.200 --> 00:02:18.210 align:start position:0%
+little details that are interesting as
+ 
+
+00:02:18.210 --> 00:02:19.670 align:start position:0%
+little details that are interesting as
+well<00:02:18.600><c> as</c><00:02:18.750><c> whether</c><00:02:18.900><c> or</c><00:02:19.050><c> not</c><00:02:19.110><c> the</c><00:02:19.320><c> sort</c><00:02:19.530><c> is</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+well as whether or not the sort is
+ 
+
+00:02:19.680 --> 00:02:23.120 align:start position:0%
+well as whether or not the sort is
+stable<00:02:20.100><c> okay</c><00:02:20.610><c> now</c><00:02:21.450><c> not</c><00:02:22.350><c> to</c><00:02:22.470><c> review</c><00:02:22.710><c> this</c><00:02:22.800><c> table</c>
+
+00:02:23.120 --> 00:02:23.130 align:start position:0%
+stable okay now not to review this table
+ 
+
+00:02:23.130 --> 00:02:25.070 align:start position:0%
+stable okay now not to review this table
+here<00:02:23.280><c> census</c><00:02:23.670><c> in</c><00:02:23.790><c> the</c><00:02:23.820><c> previous</c><00:02:24.090><c> lecture</c><00:02:24.480><c> but</c>
+
+00:02:25.070 --> 00:02:25.080 align:start position:0%
+here census in the previous lecture but
+ 
+
+00:02:25.080 --> 00:02:26.390 align:start position:0%
+here census in the previous lecture but
+i<00:02:25.140><c> do</c><00:02:25.260><c> want</c><00:02:25.410><c> to</c><00:02:25.440><c> focus</c><00:02:25.560><c> on</c><00:02:25.830><c> one</c><00:02:26.010><c> little</c><00:02:26.250><c> thing</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+i do want to focus on one little thing
+ 
+
+00:02:26.400 --> 00:02:28.940 align:start position:0%
+i do want to focus on one little thing
+here<00:02:26.580><c> which</c><00:02:26.910><c> is</c><00:02:27.060><c> the</c><00:02:27.150><c> runtimes</c><00:02:27.570><c> so</c><00:02:28.530><c> heap</c><00:02:28.710><c> sort</c>
+
+00:02:28.940 --> 00:02:28.950 align:start position:0%
+here which is the runtimes so heap sort
+ 
+
+00:02:28.950 --> 00:02:30.350 align:start position:0%
+here which is the runtimes so heap sort
+merge<00:02:29.160><c> sort</c><00:02:29.370><c> and</c><00:02:29.580><c> quicksort</c><00:02:29.730><c> are</c><00:02:30.210><c> all</c>
+
+00:02:30.350 --> 00:02:30.360 align:start position:0%
+merge sort and quicksort are all
+ 
+
+00:02:30.360 --> 00:02:32.480 align:start position:0%
+merge sort and quicksort are all
+basically<00:02:30.780><c> n</c><00:02:31.170><c> log</c><00:02:31.350><c> n</c><00:02:31.500><c> sorts</c><00:02:31.860><c> there's</c><00:02:32.100><c> a</c><00:02:32.160><c> little</c>
+
+00:02:32.480 --> 00:02:32.490 align:start position:0%
+basically n log n sorts there's a little
+ 
+
+00:02:32.490 --> 00:02:34.460 align:start position:0%
+basically n log n sorts there's a little
+bit<00:02:32.610><c> of</c><00:02:32.640><c> a</c><00:02:32.790><c> caveat</c><00:02:33.210><c> with</c><00:02:33.360><c> quicksort</c><00:02:33.780><c> plus</c><00:02:34.080><c> it's</c>
+
+00:02:34.460 --> 00:02:34.470 align:start position:0%
+bit of a caveat with quicksort plus it's
+ 
+
+00:02:34.470 --> 00:02:36.230 align:start position:0%
+bit of a caveat with quicksort plus it's
+basically<00:02:34.800><c> an</c><00:02:34.920><c> in</c><00:02:35.010><c> log</c><00:02:35.160><c> n</c><00:02:35.190><c> soort</c><00:02:35.550><c> as</c><00:02:35.970><c> long</c><00:02:36.150><c> as</c>
+
+00:02:36.230 --> 00:02:36.240 align:start position:0%
+basically an in log n soort as long as
+ 
+
+00:02:36.240 --> 00:02:38.270 align:start position:0%
+basically an in log n soort as long as
+you<00:02:36.300><c> do</c><00:02:36.420><c> things</c><00:02:36.660><c> right</c><00:02:36.840><c> inside</c><00:02:37.230><c> an</c><00:02:37.470><c> insertion</c>
+
+00:02:38.270 --> 00:02:38.280 align:start position:0%
+you do things right inside an insertion
+ 
+
+00:02:38.280 --> 00:02:41.390 align:start position:0%
+you do things right inside an insertion
+sort<00:02:38.520><c> is</c><00:02:38.700><c> N</c><00:02:38.910><c> squared</c><00:02:39.240><c> for</c><00:02:39.720><c> the</c><00:02:39.930><c> most</c><00:02:40.080><c> part</c><00:02:40.400><c> so</c>
+
+00:02:41.390 --> 00:02:41.400 align:start position:0%
+sort is N squared for the most part so
+ 
+
+00:02:41.400 --> 00:02:44.270 align:start position:0%
+sort is N squared for the most part so
+now<00:02:41.580><c> the</c><00:02:41.640><c> question</c><00:02:41.940><c> is</c><00:02:43.010><c> could</c><00:02:44.010><c> we</c><00:02:44.160><c> do</c><00:02:44.250><c> better</c>
+
+00:02:44.270 --> 00:02:44.280 align:start position:0%
+now the question is could we do better
+ 
+
+00:02:44.280 --> 00:02:46.700 align:start position:0%
+now the question is could we do better
+is<00:02:44.640><c> there</c><00:02:45.480><c> some</c><00:02:45.660><c> other</c><00:02:45.720><c> sort</c><00:02:46.140><c> not</c><00:02:46.440><c> in</c><00:02:46.590><c> this</c>
+
+00:02:46.700 --> 00:02:46.710 align:start position:0%
+is there some other sort not in this
+ 
+
+00:02:46.710 --> 00:02:48.920 align:start position:0%
+is there some other sort not in this
+list<00:02:46.950><c> that's</c><00:02:47.220><c> like</c><00:02:47.370><c> in</c><00:02:47.580><c> log</c><00:02:47.880><c> log</c><00:02:48.180><c> n</c><00:02:48.420><c> on</c><00:02:48.690><c> any</c>
+
+00:02:48.920 --> 00:02:48.930 align:start position:0%
+list that's like in log log n on any
+ 
+
+00:02:48.930 --> 00:02:51.260 align:start position:0%
+list that's like in log log n on any
+input<00:02:49.320><c> or</c><00:02:49.650><c> maybe</c><00:02:49.860><c> just</c><00:02:49.950><c> in</c><00:02:50.340><c> is</c><00:02:50.880><c> that</c><00:02:51.090><c> possible</c>
+
+00:02:51.260 --> 00:02:51.270 align:start position:0%
+input or maybe just in is that possible
+ 
+
+00:02:51.270 --> 00:02:53.240 align:start position:0%
+input or maybe just in is that possible
+and<00:02:51.780><c> so</c><00:02:52.230><c> what</c><00:02:52.380><c> this</c><00:02:52.500><c> lecture</c><00:02:52.830><c> is</c><00:02:52.860><c> going</c><00:02:52.950><c> to</c><00:02:53.160><c> be</c>
+
+00:02:53.240 --> 00:02:53.250 align:start position:0%
+and so what this lecture is going to be
+ 
+
+00:02:53.250 --> 00:02:55.490 align:start position:0%
+and so what this lecture is going to be
+about<00:02:53.340><c> is</c><00:02:53.610><c> addressing</c><00:02:54.300><c> that</c><00:02:54.390><c> question</c><00:02:54.500><c> but</c>
+
+00:02:55.490 --> 00:02:55.500 align:start position:0%
+about is addressing that question but
+ 
+
+00:02:55.500 --> 00:02:56.360 align:start position:0%
+about is addressing that question but
+the<00:02:55.560><c> second</c><00:02:55.830><c> thing</c><00:02:55.920><c> I</c><00:02:56.010><c> want</c><00:02:56.160><c> to</c><00:02:56.190><c> talk</c><00:02:56.340><c> about</c>
+
+00:02:56.360 --> 00:02:56.370 align:start position:0%
+the second thing I want to talk about
+ 
+
+00:02:56.370 --> 00:02:57.980 align:start position:0%
+the second thing I want to talk about
+before<00:02:56.730><c> we</c><00:02:56.880><c> get</c><00:02:57.060><c> there</c><00:02:57.209><c> is</c><00:02:57.420><c> some</c><00:02:57.810><c> math</c>
+
+00:02:57.980 --> 00:02:57.990 align:start position:0%
+before we get there is some math
+ 
+
+00:02:57.990 --> 00:02:59.840 align:start position:0%
+before we get there is some math
+problems<00:02:58.020><c> out</c><00:02:58.650><c> of</c><00:02:58.709><c> nowhere</c><00:02:59.040><c> just</c><00:02:59.490><c> to</c><00:02:59.610><c> get</c><00:02:59.730><c> us</c>
+
+00:02:59.840 --> 00:02:59.850 align:start position:0%
+problems out of nowhere just to get us
+ 
+
+00:02:59.850 --> 00:03:02.360 align:start position:0%
+problems out of nowhere just to get us
+primed<00:03:00.150><c> and</c><00:03:00.300><c> ready</c><00:03:01.040><c> so</c><00:03:02.040><c> my</c><00:03:02.130><c> first</c><00:03:02.250><c> question</c>
+
+00:03:02.360 --> 00:03:02.370 align:start position:0%
+primed and ready so my first question
+ 
+
+00:03:02.370 --> 00:03:04.580 align:start position:0%
+primed and ready so my first question
+for<00:03:02.760><c> you</c><00:03:02.820><c> Matt</c><00:03:03.209><c> from</c><00:03:03.420><c> out</c><00:03:03.540><c> of</c><00:03:03.570><c> nowhere</c><00:03:03.690><c> I</c><00:03:03.990><c> would</c>
+
+00:03:04.580 --> 00:03:04.590 align:start position:0%
+for you Matt from out of nowhere I would
+ 
+
+00:03:04.590 --> 00:03:06.020 align:start position:0%
+for you Matt from out of nowhere I would
+like<00:03:04.800><c> you</c><00:03:04.830><c> to</c><00:03:05.010><c> consider</c><00:03:05.160><c> the</c><00:03:05.490><c> functions</c><00:03:05.820><c> in</c>
+
+00:03:06.020 --> 00:03:06.030 align:start position:0%
+like you to consider the functions in
+ 
+
+00:03:06.030 --> 00:03:08.810 align:start position:0%
+like you to consider the functions in
+factorial<00:03:07.020><c> and</c><00:03:07.170><c> in</c><00:03:07.770><c> over</c><00:03:08.010><c> 2</c><00:03:08.190><c> to</c><00:03:08.340><c> the</c><00:03:08.400><c> N</c><00:03:08.550><c> over</c><00:03:08.670><c> 2</c>
+
+00:03:08.810 --> 00:03:08.820 align:start position:0%
+factorial and in over 2 to the N over 2
+ 
+
+00:03:08.820 --> 00:03:12.380 align:start position:0%
+factorial and in over 2 to the N over 2
+and<00:03:09.120><c> your</c><00:03:09.690><c> job</c><00:03:09.930><c> is</c><00:03:10.310><c> to</c><00:03:11.310><c> figure</c><00:03:11.520><c> out</c><00:03:11.730><c> is</c><00:03:11.910><c> it</c><00:03:12.090><c> true</c>
+
+00:03:12.380 --> 00:03:12.390 align:start position:0%
+and your job is to figure out is it true
+ 
+
+00:03:12.390 --> 00:03:14.660 align:start position:0%
+and your job is to figure out is it true
+that<00:03:12.630><c> in</c><00:03:13.080><c> fact</c><00:03:13.260><c> oriole</c><00:03:13.650><c> grows</c><00:03:14.010><c> at</c><00:03:14.190><c> least</c><00:03:14.459><c> as</c>
+
+00:03:14.660 --> 00:03:14.670 align:start position:0%
+that in fact oriole grows at least as
+ 
+
+00:03:14.670 --> 00:03:17.330 align:start position:0%
+that in fact oriole grows at least as
+quickly<00:03:14.880><c> as</c><00:03:15.150><c> n</c><00:03:15.450><c> over</c><00:03:15.959><c> 2</c><00:03:16.140><c> to</c><00:03:16.500><c> the</c><00:03:16.530><c> N</c><00:03:16.740><c> over</c><00:03:16.860><c> 2</c><00:03:16.980><c> and</c>
+
+00:03:17.330 --> 00:03:17.340 align:start position:0%
+quickly as n over 2 to the N over 2 and
+ 
+
+00:03:17.340 --> 00:03:18.979 align:start position:0%
+quickly as n over 2 to the N over 2 and
+you<00:03:17.820><c> should</c><00:03:17.970><c> prove</c><00:03:18.150><c> your</c><00:03:18.300><c> answer</c><00:03:18.570><c> and</c><00:03:18.810><c> by</c>
+
+00:03:18.979 --> 00:03:18.989 align:start position:0%
+you should prove your answer and by
+ 
+
+00:03:18.989 --> 00:03:21.410 align:start position:0%
+you should prove your answer and by
+proof<00:03:19.230><c> I</c><00:03:19.470><c> mean</c><00:03:19.769><c> just</c><00:03:19.800><c> convince</c><00:03:20.519><c> yourself</c><00:03:20.880><c> this</c>
+
+00:03:21.410 --> 00:03:21.420 align:start position:0%
+proof I mean just convince yourself this
+ 
+
+00:03:21.420 --> 00:03:22.729 align:start position:0%
+proof I mean just convince yourself this
+doesn't<00:03:21.570><c> have</c><00:03:21.690><c> to</c><00:03:21.810><c> be</c><00:03:21.900><c> a</c><00:03:21.989><c> formal</c><00:03:22.320><c> proof</c><00:03:22.590><c> or</c>
+
+00:03:22.729 --> 00:03:22.739 align:start position:0%
+doesn't have to be a formal proof or
+ 
+
+00:03:22.739 --> 00:03:24.890 align:start position:0%
+doesn't have to be a formal proof or
+anything<00:03:22.830><c> but</c><00:03:23.670><c> give</c><00:03:23.820><c> it</c><00:03:23.850><c> a</c><00:03:23.970><c> shot</c><00:03:24.120><c> use</c><00:03:24.690><c> however</c>
+
+00:03:24.890 --> 00:03:24.900 align:start position:0%
+anything but give it a shot use however
+ 
+
+00:03:24.900 --> 00:03:29.170 align:start position:0%
+anything but give it a shot use however
+much<00:03:25.170><c> time</c><00:03:25.350><c> feels</c><00:03:25.650><c> right</c><00:03:26.840><c> can</c><00:03:27.840><c> i'll</c><00:03:27.959><c> spoil</c><00:03:28.230><c> it</c>
+
+00:03:29.170 --> 00:03:29.180 align:start position:0%
+much time feels right can i'll spoil it
+ 
+
+00:03:29.180 --> 00:03:31.670 align:start position:0%
+much time feels right can i'll spoil it
+and<00:03:30.180><c> i</c><00:03:30.269><c> guess</c><00:03:30.450><c> i</c><00:03:30.690><c> should</c><00:03:30.900><c> bring</c><00:03:31.260><c> this</c><00:03:31.470><c> up</c><00:03:31.650><c> to</c>
+
+00:03:31.670 --> 00:03:31.680 align:start position:0%
+and i guess i should bring this up to
+ 
+
+00:03:31.680 --> 00:03:33.830 align:start position:0%
+and i guess i should bring this up to
+say<00:03:31.980><c> if</c><00:03:32.910><c> you</c><00:03:33.060><c> aren't</c><00:03:33.239><c> quite</c><00:03:33.420><c> sure</c><00:03:33.450><c> if</c><00:03:33.660><c> you</c>
+
+00:03:33.830 --> 00:03:33.840 align:start position:0%
+say if you aren't quite sure if you
+ 
+
+00:03:33.840 --> 00:03:35.270 align:start position:0%
+say if you aren't quite sure if you
+don't<00:03:33.959><c> over</c><00:03:34.080><c> exactly</c><00:03:34.350><c> what</c><00:03:34.590><c> that</c><00:03:34.680><c> means</c><00:03:34.739><c> you</c>
+
+00:03:35.270 --> 00:03:35.280 align:start position:0%
+don't over exactly what that means you
+ 
+
+00:03:35.280 --> 00:03:36.770 align:start position:0%
+don't over exactly what that means you
+can<00:03:35.430><c> informally</c><00:03:35.820><c> think</c><00:03:36.120><c> of</c><00:03:36.209><c> it</c><00:03:36.330><c> as</c><00:03:36.450><c> greater</c>
+
+00:03:36.770 --> 00:03:36.780 align:start position:0%
+can informally think of it as greater
+ 
+
+00:03:36.780 --> 00:03:38.960 align:start position:0%
+can informally think of it as greater
+than<00:03:36.989><c> or</c><00:03:37.080><c> equal</c><00:03:37.320><c> to</c><00:03:37.350><c> more</c><00:03:38.250><c> formally</c><00:03:38.700><c> it</c><00:03:38.790><c> just</c>
+
+00:03:38.960 --> 00:03:38.970 align:start position:0%
+than or equal to more formally it just
+ 
+
+00:03:38.970 --> 00:03:40.699 align:start position:0%
+than or equal to more formally it just
+says<00:03:39.120><c> that</c><00:03:39.360><c> for</c><00:03:39.600><c> sufficiently</c><00:03:39.989><c> large</c><00:03:40.019><c> in</c><00:03:40.440><c> this</c>
+
+00:03:40.699 --> 00:03:40.709 align:start position:0%
+says that for sufficiently large in this
+ 
+
+00:03:40.709 --> 00:03:48.150 align:start position:0%
+says that for sufficiently large in this
+function<00:03:41.070><c> is</c><00:03:41.160><c> bigger</c><00:03:41.430><c> than</c><00:03:41.700><c> this</c><00:03:41.850><c> function</c>
+
+00:03:48.150 --> 00:03:48.160 align:start position:0%
+ 
+ 
+
+00:03:48.160 --> 00:03:51.090 align:start position:0%
+ 
+ok<00:03:48.790><c> so</c><00:03:49.390><c> my</c><00:03:49.720><c> spoiler</c><00:03:50.140><c> I'm</c><00:03:50.740><c> going</c><00:03:50.890><c> to</c><00:03:50.950><c> write</c><00:03:51.070><c> out</c>
+
+00:03:51.090 --> 00:03:51.100 align:start position:0%
+ok so my spoiler I'm going to write out
+ 
+
+00:03:51.100 --> 00:03:53.790 align:start position:0%
+ok so my spoiler I'm going to write out
+n<00:03:51.370><c> factorial</c><00:03:51.760><c> and</c><00:03:52.290><c> I'm</c><00:03:53.290><c> also</c><00:03:53.410><c> going</c><00:03:53.590><c> to</c><00:03:53.680><c> write</c>
+
+00:03:53.790 --> 00:03:53.800 align:start position:0%
+n factorial and I'm also going to write
+ 
+
+00:03:53.800 --> 00:03:55.590 align:start position:0%
+n factorial and I'm also going to write
+out<00:03:53.830><c> n</c><00:03:54.100><c> over</c><00:03:54.310><c> 2</c><00:03:54.490><c> to</c><00:03:54.760><c> the</c><00:03:54.790><c> N</c><00:03:54.940><c> over</c><00:03:55.030><c> 2</c><00:03:55.150><c> for</c><00:03:55.450><c> some</c>
+
+00:03:55.590 --> 00:03:55.600 align:start position:0%
+out n over 2 to the N over 2 for some
+ 
+
+00:03:55.600 --> 00:03:56.940 align:start position:0%
+out n over 2 to the N over 2 for some
+particular<00:03:55.720><c> n</c><00:03:56.230><c> that's</c><00:03:56.530><c> going</c><00:03:56.680><c> to</c><00:03:56.740><c> be</c><00:03:56.830><c> my</c>
+
+00:03:56.940 --> 00:03:56.950 align:start position:0%
+particular n that's going to be my
+ 
+
+00:03:56.950 --> 00:03:59.580 align:start position:0%
+particular n that's going to be my
+approach<00:03:57.220><c> and</c><00:03:57.430><c> i'm</c><00:03:57.850><c> going</c><00:03:57.940><c> to</c><00:03:58.030><c> pick</c><00:03:58.120><c> n</c><00:03:58.410><c> so</c><00:03:59.410><c> just</c>
+
+00:03:59.580 --> 00:03:59.590 align:start position:0%
+approach and i'm going to pick n so just
+ 
+
+00:03:59.590 --> 00:04:01.410 align:start position:0%
+approach and i'm going to pick n so just
+to<00:03:59.680><c> show</c><00:03:59.800><c> you</c><00:03:59.830><c> an</c><00:03:59.950><c> example</c><00:04:00.010><c> for</c><00:04:00.460><c> 10</c><00:04:00.670><c> 10</c>
+
+00:04:01.410 --> 00:04:01.420 align:start position:0%
+to show you an example for 10 10
+ 
+
+00:04:01.420 --> 00:04:03.930 align:start position:0%
+to show you an example for 10 10
+factorial<00:04:01.750><c> of</c><00:04:01.990><c> 10</c><00:04:02.230><c> x</c><00:04:02.470><c> 9</c><00:04:02.650><c> x</c><00:04:02.680><c> 8</c><00:04:03.100><c> times</c><00:04:03.340><c> 7</c><00:04:03.460><c> times</c><00:04:03.640><c> 6</c>
+
+00:04:03.930 --> 00:04:03.940 align:start position:0%
+factorial of 10 x 9 x 8 times 7 times 6
+ 
+
+00:04:03.940 --> 00:04:07.170 align:start position:0%
+factorial of 10 x 9 x 8 times 7 times 6
+times<00:04:04.080><c> x</c><00:04:05.080><c> 1</c><00:04:05.460><c> whereas</c><00:04:06.460><c> in</c><00:04:06.610><c> over</c><00:04:06.790><c> 2</c><00:04:06.910><c> to</c><00:04:07.000><c> the</c><00:04:07.060><c> N</c>
+
+00:04:07.170 --> 00:04:07.180 align:start position:0%
+times x 1 whereas in over 2 to the N
+ 
+
+00:04:07.180 --> 00:04:09.210 align:start position:0%
+times x 1 whereas in over 2 to the N
+over<00:04:07.270><c> 2</c><00:04:07.360><c> is</c><00:04:07.570><c> 5</c><00:04:07.840><c> times</c><00:04:08.080><c> 5</c><00:04:08.320><c> times</c><00:04:08.380><c> 5</c><00:04:08.770><c> times</c><00:04:08.830><c> 5</c>
+
+00:04:09.210 --> 00:04:09.220 align:start position:0%
+over 2 is 5 times 5 times 5 times 5
+ 
+
+00:04:09.220 --> 00:04:11.670 align:start position:0%
+over 2 is 5 times 5 times 5 times 5
+times<00:04:09.340><c> 5</c><00:04:09.670><c> now</c><00:04:10.660><c> we</c><00:04:10.720><c> just</c><00:04:10.810><c> compare</c><00:04:11.230><c> these</c><00:04:11.440><c> two</c>
+
+00:04:11.670 --> 00:04:11.680 align:start position:0%
+times 5 now we just compare these two
+ 
+
+00:04:11.680 --> 00:04:15.450 align:start position:0%
+times 5 now we just compare these two
+values<00:04:13.110><c> element</c><00:04:14.110><c> by</c><00:04:14.230><c> element</c><00:04:14.260><c> or</c><00:04:14.740><c> product</c><00:04:15.340><c> by</c>
+
+00:04:15.450 --> 00:04:15.460 align:start position:0%
+values element by element or product by
+ 
+
+00:04:15.460 --> 00:04:19.199 align:start position:0%
+values element by element or product by
+product<00:04:15.700><c> we</c><00:04:16.600><c> see</c><00:04:16.900><c> that</c><00:04:17.519><c> not</c><00:04:18.519><c> product</c><00:04:18.790><c> what</c><00:04:19.150><c> do</c>
+
+00:04:19.199 --> 00:04:19.209 align:start position:0%
+product we see that not product what do
+ 
+
+00:04:19.209 --> 00:04:21.300 align:start position:0%
+product we see that not product what do
+you<00:04:19.239><c> call</c><00:04:19.390><c> them</c><00:04:19.480><c> multiple</c><00:04:20.019><c> kend</c><00:04:20.320><c> actually</c><00:04:21.250><c> I'm</c>
+
+00:04:21.300 --> 00:04:21.310 align:start position:0%
+you call them multiple kend actually I'm
+ 
+
+00:04:21.310 --> 00:04:22.410 align:start position:0%
+you call them multiple kend actually I'm
+going<00:04:21.430><c> to</c><00:04:21.520><c> remember</c><00:04:21.670><c> anyway</c><00:04:22.240><c> it's</c><00:04:22.330><c> not</c>
+
+00:04:22.410 --> 00:04:22.420 align:start position:0%
+going to remember anyway it's not
+ 
+
+00:04:22.420 --> 00:04:25.350 align:start position:0%
+going to remember anyway it's not
+important<00:04:22.780><c> so</c><00:04:23.170><c> we</c><00:04:23.710><c> compared</c><00:04:24.010><c> 10</c><00:04:24.190><c> to</c><00:04:24.280><c> 59</c><00:04:24.700><c> 58</c><00:04:24.970><c> 57</c>
+
+00:04:25.350 --> 00:04:25.360 align:start position:0%
+important so we compared 10 to 59 58 57
+ 
+
+00:04:25.360 --> 00:04:29.400 align:start position:0%
+important so we compared 10 to 59 58 57
+56<00:04:25.870><c> 25</c><00:04:26.410><c> and</c><00:04:27.130><c> we</c><00:04:27.490><c> get</c><00:04:27.730><c> that</c><00:04:28.510><c> this</c><00:04:28.870><c> 10</c><00:04:29.110><c> factorial</c>
+
+00:04:29.400 --> 00:04:29.410 align:start position:0%
+56 25 and we get that this 10 factorial
+ 
+
+00:04:29.410 --> 00:04:31.560 align:start position:0%
+56 25 and we get that this 10 factorial
+is<00:04:29.740><c> obviously</c><00:04:30.370><c> bigger</c><00:04:30.700><c> than</c><00:04:30.940><c> 5</c><00:04:31.150><c> to</c><00:04:31.270><c> the</c><00:04:31.330><c> five</c>
+
+00:04:31.560 --> 00:04:31.570 align:start position:0%
+is obviously bigger than 5 to the five
+ 
+
+00:04:31.570 --> 00:04:34.290 align:start position:0%
+is obviously bigger than 5 to the five
+on<00:04:32.410><c> and</c><00:04:32.680><c> so</c><00:04:32.800><c> indeed</c><00:04:33.190><c> for</c><00:04:33.460><c> large</c><00:04:33.670><c> n</c><00:04:33.850><c> we</c><00:04:34.180><c> know</c>
+
+00:04:34.290 --> 00:04:34.300 align:start position:0%
+on and so indeed for large n we know
+ 
+
+00:04:34.300 --> 00:04:36.120 align:start position:0%
+on and so indeed for large n we know
+that<00:04:34.450><c> n</c><00:04:34.540><c> factorial</c><00:04:34.930><c> is</c><00:04:35.230><c> greater</c><00:04:35.560><c> than</c><00:04:35.740><c> in</c><00:04:35.950><c> over</c>
+
+00:04:36.120 --> 00:04:36.130 align:start position:0%
+that n factorial is greater than in over
+ 
+
+00:04:36.130 --> 00:04:37.950 align:start position:0%
+that n factorial is greater than in over
+to<00:04:36.250><c> the</c><00:04:36.400><c> N</c><00:04:36.520><c> over</c><00:04:36.610><c> 2</c><00:04:36.730><c> that</c><00:04:37.090><c> is</c><00:04:37.210><c> just</c><00:04:37.510><c> look</c><00:04:37.690><c> at</c><00:04:37.810><c> any</c>
+
+00:04:37.950 --> 00:04:37.960 align:start position:0%
+to the N over 2 that is just look at any
+ 
+
+00:04:37.960 --> 00:04:40.650 align:start position:0%
+to the N over 2 that is just look at any
+other<00:04:38.080><c> number</c><00:04:38.850><c> 105</c><00:04:39.850><c> thousand</c><00:04:40.390><c> a</c><00:04:40.450><c> million</c>
+
+00:04:40.650 --> 00:04:40.660 align:start position:0%
+other number 105 thousand a million
+ 
+
+00:04:40.660 --> 00:04:42.450 align:start position:0%
+other number 105 thousand a million
+basically<00:04:41.440><c> the</c><00:04:41.560><c> same</c><00:04:41.680><c> pattern</c><00:04:42.010><c> holds</c><00:04:42.130><c> true</c>
+
+00:04:42.450 --> 00:04:42.460 align:start position:0%
+basically the same pattern holds true
+ 
+
+00:04:42.460 --> 00:04:44.700 align:start position:0%
+basically the same pattern holds true
+and<00:04:43.450><c> therefore</c><00:04:43.660><c> we</c><00:04:44.140><c> can</c><00:04:44.290><c> say</c><00:04:44.320><c> that</c><00:04:44.590><c> n</c>
+
+00:04:44.700 --> 00:04:44.710 align:start position:0%
+and therefore we can say that n
+ 
+
+00:04:44.710 --> 00:04:47.370 align:start position:0%
+and therefore we can say that n
+factorial<00:04:45.130><c> is</c><00:04:45.430><c> at</c><00:04:46.060><c> least</c><00:04:46.450><c> as</c><00:04:46.690><c> large</c><00:04:46.870><c> as</c><00:04:47.200><c> in</c>
+
+00:04:47.370 --> 00:04:47.380 align:start position:0%
+factorial is at least as large as in
+ 
+
+00:04:47.380 --> 00:04:49.350 align:start position:0%
+factorial is at least as large as in
+over<00:04:47.680><c> 2</c><00:04:47.830><c> to</c><00:04:48.070><c> the</c><00:04:48.100><c> N</c><00:04:48.250><c> over</c><00:04:48.370><c> 2</c><00:04:48.490><c> that's</c><00:04:49.180><c> math</c>
+
+00:04:49.350 --> 00:04:49.360 align:start position:0%
+over 2 to the N over 2 that's math
+ 
+
+00:04:49.360 --> 00:04:51.210 align:start position:0%
+over 2 to the N over 2 that's math
+problem<00:04:49.660><c> out</c><00:04:49.720><c> of</c><00:04:49.810><c> nowhere</c><00:04:49.930><c> number</c><00:04:50.290><c> one</c><00:04:50.440><c> but</c><00:04:51.190><c> I</c>
+
+00:04:51.210 --> 00:04:51.220 align:start position:0%
+problem out of nowhere number one but I
+ 
+
+00:04:51.220 --> 00:04:53.580 align:start position:0%
+problem out of nowhere number one but I
+have<00:04:51.370><c> another</c><00:04:51.580><c> for</c><00:04:51.820><c> you</c><00:04:52.020><c> so</c><00:04:53.020><c> now</c><00:04:53.170><c> I'd</c><00:04:53.320><c> like</c><00:04:53.440><c> you</c>
+
+00:04:53.580 --> 00:04:53.590 align:start position:0%
+have another for you so now I'd like you
+ 
+
+00:04:53.590 --> 00:04:55.350 align:start position:0%
+have another for you so now I'd like you
+to<00:04:53.710><c> say</c><00:04:53.860><c> given</c><00:04:54.430><c> that</c><00:04:54.460><c> fact</c><00:04:54.610><c> we</c><00:04:54.940><c> just</c><00:04:55.150><c> showed</c>
+
+00:04:55.350 --> 00:04:55.360 align:start position:0%
+to say given that fact we just showed
+ 
+
+00:04:55.360 --> 00:04:58.110 align:start position:0%
+to say given that fact we just showed
+that<00:04:55.870><c> in</c><00:04:56.020><c> a</c><00:04:56.140><c> n</c><00:04:56.470><c> factorial</c><00:04:56.890><c> is</c><00:04:57.190><c> greater</c><00:04:57.820><c> than</c><00:04:57.970><c> n</c>
+
+00:04:58.110 --> 00:04:58.120 align:start position:0%
+that in a n factorial is greater than n
+ 
+
+00:04:58.120 --> 00:05:00.090 align:start position:0%
+that in a n factorial is greater than n
+over<00:04:58.330><c> 2</c><00:04:58.480><c> to</c><00:04:58.570><c> the</c><00:04:58.630><c> N</c><00:04:58.780><c> over</c><00:04:58.900><c> 2</c><00:04:59.020><c> for</c><00:04:59.380><c> large</c><00:04:59.530><c> ends</c><00:04:59.920><c> I</c>
+
+00:05:00.090 --> 00:05:00.100 align:start position:0%
+over 2 to the N over 2 for large ends I
+ 
+
+00:05:00.100 --> 00:05:03.900 align:start position:0%
+over 2 to the N over 2 for large ends I
+want<00:05:00.850><c> you</c><00:05:00.940><c> to</c><00:05:01.060><c> show</c><00:05:01.300><c> that</c><00:05:01.750><c> log</c><00:05:02.110><c> n</c><00:05:02.320><c> factorial</c><00:05:02.910><c> is</c>
+
+00:05:03.900 --> 00:05:03.910 align:start position:0%
+want you to show that log n factorial is
+ 
+
+00:05:03.910 --> 00:05:05.790 align:start position:0%
+want you to show that log n factorial is
+greater<00:05:04.450><c> than</c><00:05:04.600><c> or</c><00:05:04.720><c> equal</c><00:05:04.930><c> to</c><00:05:04.960><c> n</c><00:05:05.260><c> log</c><00:05:05.440><c> in</c><00:05:05.620><c> and</c>
+
+00:05:05.790 --> 00:05:05.800 align:start position:0%
+greater than or equal to n log in and
+ 
+
+00:05:05.800 --> 00:05:08.430 align:start position:0%
+greater than or equal to n log in and
+formally<00:05:06.190><c> and</c><00:05:07.030><c> then</c><00:05:07.150><c> as</c><00:05:07.540><c> a</c><00:05:07.570><c> reminder</c><00:05:07.780><c> log</c><00:05:08.169><c> is</c>
+
+00:05:08.430 --> 00:05:08.440 align:start position:0%
+formally and then as a reminder log is
+ 
+
+00:05:08.440 --> 00:05:09.930 align:start position:0%
+formally and then as a reminder log is
+we<00:05:08.680><c> don't</c><00:05:08.740><c> really</c><00:05:08.830><c> care</c><00:05:09.010><c> what</c><00:05:09.160><c> base</c><00:05:09.430><c> you</c><00:05:09.760><c> just</c>
+
+00:05:09.930 --> 00:05:09.940 align:start position:0%
+we don't really care what base you just
+ 
+
+00:05:09.940 --> 00:05:11.130 align:start position:0%
+we don't really care what base you just
+show<00:05:10.060><c> it</c><00:05:10.180><c> for</c><00:05:10.300><c> any</c><00:05:10.419><c> base</c><00:05:10.600><c> if</c><00:05:10.810><c> you</c><00:05:10.900><c> want</c><00:05:11.080><c> to</c>
+
+00:05:11.130 --> 00:05:11.140 align:start position:0%
+show it for any base if you want to
+ 
+
+00:05:11.140 --> 00:05:13.020 align:start position:0%
+show it for any base if you want to
+specific<00:05:11.710><c> one</c><00:05:11.860><c> but</c><00:05:12.070><c> it's</c><00:05:12.190><c> just</c><00:05:12.430><c> not</c><00:05:12.669><c> really</c>
+
+00:05:13.020 --> 00:05:13.030 align:start position:0%
+specific one but it's just not really
+ 
+
+00:05:13.030 --> 00:05:14.580 align:start position:0%
+specific one but it's just not really
+part<00:05:13.210><c> of</c><00:05:13.240><c> the</c><00:05:13.300><c> thing</c><00:05:13.510><c> because</c><00:05:13.870><c> given</c><00:05:14.260><c> any</c><00:05:14.380><c> base</c>
+
+00:05:14.580 --> 00:05:14.590 align:start position:0%
+part of the thing because given any base
+ 
+
+00:05:14.590 --> 00:05:16.830 align:start position:0%
+part of the thing because given any base
+we<00:05:14.830><c> can</c><00:05:15.010><c> just</c><00:05:15.220><c> do</c><00:05:15.940><c> a</c><00:05:15.970><c> change</c><00:05:16.270><c> of</c><00:05:16.450><c> base</c><00:05:16.570><c> and</c><00:05:16.780><c> that</c>
+
+00:05:16.830 --> 00:05:16.840 align:start position:0%
+we can just do a change of base and that
+ 
+
+00:05:16.840 --> 00:05:18.480 align:start position:0%
+we can just do a change of base and that
+would<00:05:16.990><c> be</c><00:05:17.020><c> a</c><00:05:17.350><c> leading</c><00:05:17.740><c> constant</c><00:05:18.250><c> and</c><00:05:18.370><c> won't</c>
+
+00:05:18.480 --> 00:05:18.490 align:start position:0%
+would be a leading constant and won't
+ 
+
+00:05:18.490 --> 00:05:20.670 align:start position:0%
+would be a leading constant and won't
+affect<00:05:18.760><c> our</c><00:05:18.910><c> asymptotic</c><00:05:19.540><c> notation</c><00:05:19.990><c> so</c><00:05:20.530><c> give</c>
+
+00:05:20.670 --> 00:05:20.680 align:start position:0%
+affect our asymptotic notation so give
+ 
+
+00:05:20.680 --> 00:05:23.040 align:start position:0%
+affect our asymptotic notation so give
+this<00:05:20.830><c> a</c><00:05:20.950><c> shot</c><00:05:20.980><c> again</c><00:05:21.880><c> pause</c><00:05:22.360><c> the</c><00:05:22.540><c> video</c><00:05:22.630><c> think</c>
+
+00:05:23.040 --> 00:05:23.050 align:start position:0%
+this a shot again pause the video think
+ 
+
+00:05:23.050 --> 00:05:24.810 align:start position:0%
+this a shot again pause the video think
+about<00:05:23.230><c> it</c><00:05:23.350><c> and</c><00:05:23.500><c> then</c><00:05:23.590><c> I'll</c><00:05:23.680><c> spoil</c><00:05:23.950><c> it</c><00:05:24.220><c> with</c><00:05:24.370><c> my</c>
+
+00:05:24.810 --> 00:05:24.820 align:start position:0%
+about it and then I'll spoil it with my
+ 
+
+00:05:24.820 --> 00:05:31.409 align:start position:0%
+about it and then I'll spoil it with my
+approach<00:05:29.040><c> ok</c><00:05:30.040><c> I</c><00:05:30.310><c> hope</c><00:05:30.790><c> it's</c><00:05:30.940><c> no</c><00:05:31.060><c> surprise</c><00:05:31.390><c> i</c>
+
+00:05:31.409 --> 00:05:31.419 align:start position:0%
+approach ok I hope it's no surprise i
+ 
+
+00:05:31.419 --> 00:05:33.030 align:start position:0%
+approach ok I hope it's no surprise i
+might<00:05:31.750><c> be</c><00:05:31.840><c> taking</c><00:05:32.169><c> the</c><00:05:32.260><c> laws</c><00:05:32.440><c> of</c><00:05:32.470><c> both</c><00:05:32.830><c> sides</c>
+
+00:05:33.030 --> 00:05:33.040 align:start position:0%
+might be taking the laws of both sides
+ 
+
+00:05:33.040 --> 00:05:37.020 align:start position:0%
+might be taking the laws of both sides
+hint<00:05:33.840><c> ok</c><00:05:34.840><c> so</c><00:05:34.900><c> here's</c><00:05:35.290><c> my</c><00:05:35.380><c> spoiler</c><00:05:35.890><c> so</c><00:05:36.760><c> since</c><00:05:36.940><c> i</c>
+
+00:05:37.020 --> 00:05:37.030 align:start position:0%
+hint ok so here's my spoiler so since i
+ 
+
+00:05:37.030 --> 00:05:38.640 align:start position:0%
+hint ok so here's my spoiler so since i
+know<00:05:37.090><c> that</c><00:05:37.360><c> n</c><00:05:37.450><c> factorial</c><00:05:37.870><c> is</c><00:05:38.110><c> greater</c><00:05:38.350><c> than</c><00:05:38.500><c> n</c>
+
+00:05:38.640 --> 00:05:38.650 align:start position:0%
+know that n factorial is greater than n
+ 
+
+00:05:38.650 --> 00:05:41.670 align:start position:0%
+know that n factorial is greater than n
+over<00:05:38.830><c> 2</c><00:05:39.040><c> to</c><00:05:39.400><c> the</c><00:05:39.430><c> n</c><00:05:39.640><c> over</c><00:05:39.760><c> 2</c><00:05:40.000><c> for</c><00:05:40.210><c> large</c><00:05:40.390><c> n</c><00:05:40.680><c> then</c>
+
+00:05:41.670 --> 00:05:41.680 align:start position:0%
+over 2 to the n over 2 for large n then
+ 
+
+00:05:41.680 --> 00:05:43.800 align:start position:0%
+over 2 to the n over 2 for large n then
+if<00:05:41.770><c> i</c><00:05:41.830><c> take</c><00:05:42.010><c> the</c><00:05:42.190><c> log</c><00:05:42.340><c> of</c><00:05:42.370><c> both</c><00:05:42.610><c> sides</c><00:05:42.669><c> we</c><00:05:43.630><c> have</c>
+
+00:05:43.800 --> 00:05:43.810 align:start position:0%
+if i take the log of both sides we have
+ 
+
+00:05:43.810 --> 00:05:45.540 align:start position:0%
+if i take the log of both sides we have
+that<00:05:43.990><c> login</c><00:05:44.260><c> factorial</c><00:05:44.950><c> it's</c><00:05:45.280><c> greater</c><00:05:45.520><c> than</c>
+
+00:05:45.540 --> 00:05:45.550 align:start position:0%
+that login factorial it's greater than
+ 
+
+00:05:45.550 --> 00:05:49.260 align:start position:0%
+that login factorial it's greater than
+login<00:05:46.180><c> of</c><00:05:47.100><c> sight</c><00:05:48.100><c> log</c><00:05:48.340><c> of</c><00:05:48.550><c> n</c><00:05:48.700><c> over</c><00:05:48.790><c> 2</c><00:05:49.030><c> to</c><00:05:49.090><c> the</c><00:05:49.180><c> n</c>
+
+00:05:49.260 --> 00:05:49.270 align:start position:0%
+login of sight log of n over 2 to the n
+ 
+
+00:05:49.270 --> 00:05:51.750 align:start position:0%
+login of sight log of n over 2 to the n
+over<00:05:49.360><c> 2</c><00:05:49.540><c> no</c><00:05:49.840><c> big</c><00:05:49.990><c> surprises</c><00:05:50.290><c> here</c><00:05:50.590><c> i</c><00:05:50.740><c> can</c><00:05:51.610><c> bring</c>
+
+00:05:51.750 --> 00:05:51.760 align:start position:0%
+over 2 no big surprises here i can bring
+ 
+
+00:05:51.760 --> 00:05:53.550 align:start position:0%
+over 2 no big surprises here i can bring
+down<00:05:51.940><c> this</c><00:05:52.030><c> exponent</c><00:05:52.390><c> just</c><00:05:52.750><c> using</c><00:05:53.080><c> our</c><00:05:53.169><c> usual</c>
+
+00:05:53.550 --> 00:05:53.560 align:start position:0%
+down this exponent just using our usual
+ 
+
+00:05:53.560 --> 00:05:56.700 align:start position:0%
+down this exponent just using our usual
+logarithm<00:05:53.890><c> rules</c><00:05:54.390><c> at</c><00:05:55.390><c> this</c><00:05:55.540><c> point</c><00:05:55.810><c> i</c><00:05:55.960><c> can</c><00:05:56.380><c> drop</c>
+
+00:05:56.700 --> 00:05:56.710 align:start position:0%
+logarithm rules at this point i can drop
+ 
+
+00:05:56.710 --> 00:05:59.400 align:start position:0%
+logarithm rules at this point i can drop
+this<00:05:57.039><c> tube</c><00:05:57.370><c> and</c><00:05:57.640><c> i'll</c><00:05:58.210><c> say</c><00:05:58.390><c> that</c><00:05:58.419><c> if</c><00:05:59.020><c> we</c><00:05:59.169><c> drop</c>
+
+00:05:59.400 --> 00:05:59.410 align:start position:0%
+this tube and i'll say that if we drop
+ 
+
+00:05:59.410 --> 00:06:00.450 align:start position:0%
+this tube and i'll say that if we drop
+this<00:05:59.590><c> too</c><00:05:59.800><c> we're</c><00:06:00.010><c> discarding</c><00:06:00.400><c> the</c>
+
+00:06:00.450 --> 00:06:00.460 align:start position:0%
+this too we're discarding the
+ 
+
+00:06:00.460 --> 00:06:02.130 align:start position:0%
+this too we're discarding the
+unnecessary<00:06:00.610><c> constant</c><00:06:01.270><c> and</c><00:06:01.390><c> we</c><00:06:01.870><c> could</c><00:06:01.990><c> say</c>
+
+00:06:02.130 --> 00:06:02.140 align:start position:0%
+unnecessary constant and we could say
+ 
+
+00:06:02.140 --> 00:06:04.350 align:start position:0%
+unnecessary constant and we could say
+that<00:06:02.169><c> for</c><00:06:02.950><c> very</c><00:06:02.979><c> large</c><00:06:03.280><c> and</c><00:06:03.490><c> of</c><00:06:03.640><c> course</c><00:06:03.820><c> login</c>
+
+00:06:04.350 --> 00:06:04.360 align:start position:0%
+that for very large and of course login
+ 
+
+00:06:04.360 --> 00:06:06.150 align:start position:0%
+that for very large and of course login
+factorial<00:06:04.810><c> gross</c><00:06:05.080><c> at</c><00:06:05.229><c> least</c><00:06:05.410><c> as</c><00:06:05.530><c> quickly</c><00:06:05.740><c> as</c><00:06:05.950><c> n</c>
+
+00:06:06.150 --> 00:06:06.160 align:start position:0%
+factorial gross at least as quickly as n
+ 
+
+00:06:06.160 --> 00:06:09.090 align:start position:0%
+factorial gross at least as quickly as n
+log<00:06:06.430><c> n</c><00:06:06.729><c> over</c><00:06:07.150><c> 2</c><00:06:07.270><c> now</c><00:06:08.140><c> this</c><00:06:08.320><c> in</c><00:06:08.560><c> over</c><00:06:08.800><c> to</c><00:06:08.950><c> it</c>
+
+00:06:09.090 --> 00:06:09.100 align:start position:0%
+log n over 2 now this in over to it
+ 
+
+00:06:09.100 --> 00:06:10.800 align:start position:0%
+log n over 2 now this in over to it
+turns<00:06:09.280><c> out</c><00:06:09.430><c> if</c><00:06:09.550><c> you</c><00:06:09.640><c> think</c><00:06:09.820><c> about</c><00:06:09.910><c> it</c><00:06:10.060><c> login</c><00:06:10.720><c> /</c>
+
+00:06:10.800 --> 00:06:10.810 align:start position:0%
+turns out if you think about it login /
+ 
+
+00:06:10.810 --> 00:06:13.860 align:start position:0%
+turns out if you think about it login /
+2<00:06:11.080><c> is</c><00:06:11.229><c> just</c><00:06:11.440><c> login</c><00:06:11.620><c> minus</c><00:06:12.340><c> log</c><00:06:12.580><c> 2</c><00:06:12.850><c> so</c><00:06:13.330><c> this</c><00:06:13.450><c> too</c>
+
+00:06:13.860 --> 00:06:13.870 align:start position:0%
+2 is just login minus log 2 so this too
+ 
+
+00:06:13.870 --> 00:06:15.870 align:start position:0%
+2 is just login minus log 2 so this too
+is<00:06:14.020><c> not</c><00:06:14.200><c> very</c><00:06:14.380><c> important</c><00:06:14.800><c> so</c><00:06:15.580><c> we</c><00:06:15.669><c> can</c><00:06:15.789><c> just</c>
+
+00:06:15.870 --> 00:06:15.880 align:start position:0%
+is not very important so we can just
+ 
+
+00:06:15.880 --> 00:06:17.550 align:start position:0%
+is not very important so we can just
+drop<00:06:16.090><c> that</c><00:06:16.330><c> and</c><00:06:16.539><c> we</c><00:06:16.870><c> end</c><00:06:16.990><c> up</c><00:06:17.140><c> saying</c><00:06:17.350><c> that</c>
+
+00:06:17.550 --> 00:06:17.560 align:start position:0%
+drop that and we end up saying that
+ 
+
+00:06:17.560 --> 00:06:19.110 align:start position:0%
+drop that and we end up saying that
+login<00:06:17.740><c> factorial</c><00:06:18.340><c> grows</c><00:06:18.640><c> at</c><00:06:18.760><c> least</c><00:06:18.940><c> as</c>
+
+00:06:19.110 --> 00:06:19.120 align:start position:0%
+login factorial grows at least as
+ 
+
+00:06:19.120 --> 00:06:22.740 align:start position:0%
+login factorial grows at least as
+quickly<00:06:19.330><c> as</c><00:06:19.630><c> n</c><00:06:19.930><c> log</c><00:06:20.110><c> in</c><00:06:20.760><c> so</c><00:06:21.760><c> that's</c><00:06:22.240><c> makes</c><00:06:22.600><c> what</c>
+
+00:06:22.740 --> 00:06:22.750 align:start position:0%
+quickly as n log in so that's makes what
+ 
+
+00:06:22.750 --> 00:06:24.390 align:start position:0%
+quickly as n log in so that's makes what
+I<00:06:22.780><c> just</c><00:06:22.990><c> said</c><00:06:23.080><c> and</c><00:06:23.350><c> this</c><00:06:23.710><c> is</c><00:06:23.800><c> just</c><00:06:23.950><c> a</c><00:06:24.010><c> note</c><00:06:24.160><c> here</c>
+
+00:06:24.390 --> 00:06:24.400 align:start position:0%
+I just said and this is just a note here
+ 
+
+00:06:24.400 --> 00:06:25.830 align:start position:0%
+I just said and this is just a note here
+repeating<00:06:24.940><c> what</c><00:06:25.060><c> I</c><00:06:25.090><c> said</c><00:06:25.180><c> out</c><00:06:25.390><c> loud</c><00:06:25.419><c> that</c>
+
+00:06:25.830 --> 00:06:25.840 align:start position:0%
+repeating what I said out loud that
+ 
+
+00:06:25.840 --> 00:06:27.450 align:start position:0%
+repeating what I said out loud that
+login<00:06:26.289><c> /</c><00:06:26.350><c> 2</c><00:06:26.620><c> is</c><00:06:26.770><c> the</c><00:06:26.830><c> same</c><00:06:27.310><c> thing</c>
+
+00:06:27.450 --> 00:06:27.460 align:start position:0%
+login / 2 is the same thing
+ 
+
+00:06:27.460 --> 00:06:29.250 align:start position:0%
+login / 2 is the same thing
+asymptotically<00:06:27.760><c> as</c><00:06:28.360><c> long</c><00:06:28.690><c> again</c><00:06:28.840><c> that</c><00:06:29.110><c> is</c>
+
+00:06:29.250 --> 00:06:29.260 align:start position:0%
+asymptotically as long again that is
+ 
+
+00:06:29.260 --> 00:06:30.630 align:start position:0%
+asymptotically as long again that is
+their<00:06:29.410><c> big</c><00:06:29.560><c> theta</c><00:06:29.740><c> each</c><00:06:30.010><c> other</c><00:06:30.190><c> if</c><00:06:30.370><c> you</c><00:06:30.460><c> like</c>
+
+00:06:30.630 --> 00:06:30.640 align:start position:0%
+their big theta each other if you like
+ 
+
+00:06:30.640 --> 00:06:33.210 align:start position:0%
+their big theta each other if you like
+so<00:06:31.630><c> this</c><00:06:31.780><c> right</c><00:06:31.930><c> here</c><00:06:31.990><c> we</c><00:06:32.650><c> have</c><00:06:32.740><c> now</c><00:06:32.919><c> shown</c>
+
+00:06:33.210 --> 00:06:33.220 align:start position:0%
+so this right here we have now shown
+ 
+
+00:06:33.220 --> 00:06:36.570 align:start position:0%
+so this right here we have now shown
+this<00:06:33.789><c> seemingly</c><00:06:34.330><c> random</c><00:06:34.750><c> fact</c><00:06:34.960><c> now</c><00:06:35.770><c> why</c><00:06:36.250><c> do</c><00:06:36.310><c> we</c>
+
+00:06:36.570 --> 00:06:36.580 align:start position:0%
+this seemingly random fact now why do we
+ 
+
+00:06:36.580 --> 00:06:38.279 align:start position:0%
+this seemingly random fact now why do we
+keep<00:06:36.760><c> working</c><00:06:36.910><c> with</c><00:06:37.150><c> that</c><00:06:37.300><c> factorial</c><00:06:37.810><c> haven't</c>
+
+00:06:38.279 --> 00:06:38.289 align:start position:0%
+keep working with that factorial haven't
+ 
+
+00:06:38.289 --> 00:06:39.779 align:start position:0%
+keep working with that factorial haven't
+gotten<00:06:38.410><c> there</c><00:06:38.620><c> yet</c><00:06:38.650><c> math</c><00:06:39.310><c> problem</c><00:06:39.640><c> out</c><00:06:39.700><c> of</c>
+
+00:06:39.779 --> 00:06:39.789 align:start position:0%
+gotten there yet math problem out of
+ 
+
+00:06:39.789 --> 00:06:41.670 align:start position:0%
+gotten there yet math problem out of
+nowhere<00:06:39.880><c> but</c><00:06:40.840><c> hopefully</c><00:06:41.229><c> your</c><00:06:41.320><c> conventio</c>
+
+00:06:41.670 --> 00:06:41.680 align:start position:0%
+nowhere but hopefully your conventio
+ 
+
+00:06:41.680 --> 00:06:43.469 align:start position:0%
+nowhere but hopefully your conventio
+that<00:06:41.890><c> log</c><00:06:42.010><c> n</c><00:06:42.130><c> factorial</c><00:06:42.490><c> is</c><00:06:43.090><c> greater</c><00:06:43.330><c> than</c>
+
+00:06:43.469 --> 00:06:43.479 align:start position:0%
+that log n factorial is greater than
+ 
+
+00:06:43.479 --> 00:06:45.810 align:start position:0%
+that log n factorial is greater than
+Omega<00:06:44.410><c> R</c><00:06:44.560><c> so</c><00:06:44.680><c> I</c><00:06:44.740><c> today's</c><00:06:45.190><c> goes</c><00:06:45.460><c> at</c><00:06:45.580><c> least</c><00:06:45.729><c> this</c>
+
+00:06:45.810 --> 00:06:45.820 align:start position:0%
+Omega R so I today's goes at least this
+ 
+
+00:06:45.820 --> 00:06:49.020 align:start position:0%
+Omega R so I today's goes at least this
+back<00:06:46.030><c> fast</c><00:06:46.450><c> as</c><00:06:46.660><c> and</c><00:06:46.840><c> logon</c><00:06:47.400><c> okay</c><00:06:48.400><c> so</c><00:06:48.669><c> to</c><00:06:48.729><c> last</c>
+
+00:06:49.020 --> 00:06:49.030 align:start position:0%
+back fast as and logon okay so to last
+ 
+
+00:06:49.030 --> 00:06:52.409 align:start position:0%
+back fast as and logon okay so to last
+math<00:06:49.240><c> problems</c><00:06:50.310><c> this</c><00:06:51.310><c> well</c><00:06:51.880><c> this</c><00:06:52.030><c> doesn't</c><00:06:52.210><c> say</c>
+
+00:06:52.409 --> 00:06:52.419 align:start position:0%
+math problems this well this doesn't say
+ 
+
+00:06:52.419 --> 00:06:54.150 align:start position:0%
+math problems this well this doesn't say
+this<00:06:52.570><c> is</c><00:06:52.720><c> the</c><00:06:52.810><c> last</c><00:06:53.020><c> math</c><00:06:53.530><c> problem</c><00:06:53.950><c> than</c><00:06:54.100><c> I</c>
+
+00:06:54.150 --> 00:06:54.160 align:start position:0%
+this is the last math problem than I
+ 
+
+00:06:54.160 --> 00:06:56.969 align:start position:0%
+this is the last math problem than I
+have<00:06:54.310><c> like</c><00:06:54.640><c> a</c><00:06:54.669><c> trivia</c><00:06:55.120><c> question</c><00:06:55.270><c> next</c><00:06:55.890><c> so</c><00:06:56.890><c> we</c>
+
+00:06:56.969 --> 00:06:56.979 align:start position:0%
+have like a trivia question next so we
+ 
+
+00:06:56.979 --> 00:06:58.680 align:start position:0%
+have like a trivia question next so we
+have<00:06:57.070><c> n</c><00:06:57.160><c> log</c><00:06:57.340><c> in</c><00:06:57.520><c> and</c><00:06:57.700><c> I</c><00:06:58.120><c> want</c><00:06:58.300><c> you</c><00:06:58.360><c> to</c><00:06:58.479><c> show</c><00:06:58.660><c> me</c>
+
+00:06:58.680 --> 00:06:58.690 align:start position:0%
+have n log in and I want you to show me
+ 
+
+00:06:58.690 --> 00:07:01.620 align:start position:0%
+have n log in and I want you to show me
+that<00:06:58.960><c> this</c><00:06:59.650><c> or</c><00:06:59.950><c> yourself</c><00:07:00.700><c> that</c><00:07:01.330><c> it's</c><00:07:01.479><c> big</c>
+
+00:07:01.620 --> 00:07:01.630 align:start position:0%
+that this or yourself that it's big
+ 
+
+00:07:01.630 --> 00:07:03.420 align:start position:0%
+that this or yourself that it's big
+Omega<00:07:01.810><c> log</c><00:07:02.169><c> n</c><00:07:02.320><c> factorial</c><00:07:02.710><c> there</c><00:07:03.100><c> seems</c><00:07:03.280><c> to</c><00:07:03.340><c> be</c>
+
+00:07:03.420 --> 00:07:03.430 align:start position:0%
+Omega log n factorial there seems to be
+ 
+
+00:07:03.430 --> 00:07:04.980 align:start position:0%
+Omega log n factorial there seems to be
+an<00:07:03.520><c> extra</c><00:07:03.760><c> parentheses</c><00:07:04.270><c> but</c><00:07:04.479><c> we'll</c><00:07:04.720><c> live</c><00:07:04.870><c> with</c>
+
+00:07:04.980 --> 00:07:04.990 align:start position:0%
+an extra parentheses but we'll live with
+ 
+
+00:07:04.990 --> 00:07:07.860 align:start position:0%
+an extra parentheses but we'll live with
+that<00:07:05.400><c> and</c><00:07:06.400><c> you</c><00:07:06.760><c> know</c><00:07:06.850><c> that's</c><00:07:07.180><c> fine</c><00:07:07.419><c> imagine</c>
+
+00:07:07.860 --> 00:07:07.870 align:start position:0%
+that and you know that's fine imagine
+ 
+
+00:07:07.870 --> 00:07:09.510 align:start position:0%
+that and you know that's fine imagine
+it's<00:07:07.960><c> not</c><00:07:08.080><c> there</c><00:07:08.260><c> I'll</c><00:07:08.440><c> cover</c><00:07:08.620><c> it</c><00:07:08.740><c> well</c><00:07:09.460><c> i</c>
+
+00:07:09.510 --> 00:07:09.520 align:start position:0%
+it's not there I'll cover it well i
+ 
+
+00:07:09.520 --> 00:07:12.740 align:start position:0%
+it's not there I'll cover it well i
+can't<00:07:10.180><c> i'm</c><00:07:10.570><c> in</c><00:07:10.630><c> the</c><00:07:10.810><c> corner</c><00:07:11.080><c> over</c><00:07:11.320><c> here</c><00:07:11.410><c> anyway</c>
+
+00:07:12.740 --> 00:07:12.750 align:start position:0%
+can't i'm in the corner over here anyway
+ 
+
+00:07:12.750 --> 00:07:15.480 align:start position:0%
+can't i'm in the corner over here anyway
+so<00:07:13.750><c> try</c><00:07:14.440><c> and</c><00:07:14.530><c> figure</c><00:07:14.650><c> that</c><00:07:14.830><c> out</c><00:07:14.860><c> and</c><00:07:15.250><c> then</c><00:07:15.400><c> i</c>
+
+00:07:15.480 --> 00:07:15.490 align:start position:0%
+so try and figure that out and then i
+ 
+
+00:07:15.490 --> 00:07:20.340 align:start position:0%
+so try and figure that out and then i
+will<00:07:15.550><c> spoil</c><00:07:15.880><c> it</c><00:07:16.000><c> for</c><00:07:16.180><c> you</c><00:07:16.210><c> momentarily</c><00:07:19.350><c> okay</c>
+
+00:07:20.340 --> 00:07:20.350 align:start position:0%
+will spoil it for you momentarily okay
+ 
+
+00:07:20.350 --> 00:07:22.680 align:start position:0%
+will spoil it for you momentarily okay
+so<00:07:20.560><c> in</c><00:07:20.650><c> this</c><00:07:20.740><c> case</c><00:07:20.919><c> my</c><00:07:21.820><c> proof</c><00:07:22.030><c> is</c><00:07:22.180><c> as</c><00:07:22.330><c> follows</c>
+
+00:07:22.680 --> 00:07:22.690 align:start position:0%
+so in this case my proof is as follows
+ 
+
+00:07:22.690 --> 00:07:25.170 align:start position:0%
+so in this case my proof is as follows
+login<00:07:23.590><c> factorial</c><00:07:24.160><c> this</c><00:07:24.550><c> is</c><00:07:24.700><c> very</c><00:07:24.850><c> similar</c><00:07:25.060><c> to</c>
+
+00:07:25.170 --> 00:07:25.180 align:start position:0%
+login factorial this is very similar to
+ 
+
+00:07:25.180 --> 00:07:26.730 align:start position:0%
+login factorial this is very similar to
+the<00:07:25.330><c> first</c><00:07:25.450><c> one</c><00:07:25.570><c> we</c><00:07:25.840><c> did</c><00:07:25.960><c> but</c><00:07:26.470><c> now</c><00:07:26.560><c> we're</c><00:07:26.650><c> going</c>
+
+00:07:26.730 --> 00:07:26.740 align:start position:0%
+the first one we did but now we're going
+ 
+
+00:07:26.740 --> 00:07:28.740 align:start position:0%
+the first one we did but now we're going
+to<00:07:26.800><c> expand</c><00:07:27.160><c> out</c><00:07:27.280><c> of</c><00:07:27.400><c> some</c><00:07:27.610><c> the</c><00:07:28.450><c> login</c>
+
+00:07:28.740 --> 00:07:28.750 align:start position:0%
+to expand out of some the login
+ 
+
+00:07:28.750 --> 00:07:30.900 align:start position:0%
+to expand out of some the login
+factorial<00:07:29.260><c> is</c><00:07:29.350><c> login</c><00:07:29.620><c> plus</c><00:07:30.100><c> log</c><00:07:30.280><c> n</c><00:07:30.460><c> minus</c><00:07:30.729><c> 1</c>
+
+00:07:30.900 --> 00:07:30.910 align:start position:0%
+factorial is login plus log n minus 1
+ 
+
+00:07:30.910 --> 00:07:33.960 align:start position:0%
+factorial is login plus log n minus 1
+plus<00:07:31.030><c> log</c><00:07:31.330><c> n</c><00:07:31.510><c> minus</c><00:07:31.780><c> 2</c><00:07:31.810><c> plus</c><00:07:32.140><c> plus</c><00:07:33.130><c> log</c><00:07:33.340><c> 1</c><00:07:33.580><c> this</c>
+
+00:07:33.960 --> 00:07:33.970 align:start position:0%
+plus log n minus 2 plus plus log 1 this
+ 
+
+00:07:33.970 --> 00:07:36.570 align:start position:0%
+plus log n minus 2 plus plus log 1 this
+is<00:07:34.180><c> just</c><00:07:34.390><c> again</c><00:07:34.660><c> our</c><00:07:34.900><c> usual</c><00:07:35.410><c> rules</c><00:07:36.010><c> for</c>
+
+00:07:36.570 --> 00:07:36.580 align:start position:0%
+is just again our usual rules for
+ 
+
+00:07:36.580 --> 00:07:39.210 align:start position:0%
+is just again our usual rules for
+expanding<00:07:37.030><c> out</c><00:07:37.500><c> logarithms</c><00:07:38.500><c> right</c><00:07:38.800><c> this</c><00:07:39.070><c> is</c><00:07:39.190><c> a</c>
+
+00:07:39.210 --> 00:07:39.220 align:start position:0%
+expanding out logarithms right this is a
+ 
+
+00:07:39.220 --> 00:07:41.490 align:start position:0%
+expanding out logarithms right this is a
+product<00:07:39.520><c> we</c><00:07:40.180><c> can</c><00:07:40.300><c> turn</c><00:07:40.419><c> that</c><00:07:40.450><c> to</c><00:07:40.690><c> a</c><00:07:40.720><c> proc</c><00:07:41.140><c> the</c>
+
+00:07:41.490 --> 00:07:41.500 align:start position:0%
+product we can turn that to a proc the
+ 
+
+00:07:41.500 --> 00:07:43.469 align:start position:0%
+product we can turn that to a proc the
+log<00:07:41.710><c> of</c><00:07:41.919><c> a</c><00:07:41.979><c> product</c><00:07:42.220><c> of</c><00:07:42.490><c> things</c><00:07:42.760><c> which</c><00:07:43.210><c> we</c><00:07:43.360><c> can</c>
+
+00:07:43.469 --> 00:07:43.479 align:start position:0%
+log of a product of things which we can
+ 
+
+00:07:43.479 --> 00:07:47.010 align:start position:0%
+log of a product of things which we can
+turn<00:07:43.660><c> into</c><00:07:43.840><c> a</c><00:07:44.200><c> sum</c><00:07:44.650><c> of</c><00:07:44.680><c> logarithms</c><00:07:45.599><c> in</c><00:07:46.599><c> log</c><00:07:46.840><c> in</c>
+
+00:07:47.010 --> 00:07:47.020 align:start position:0%
+turn into a sum of logarithms in log in
+ 
+
+00:07:47.020 --> 00:07:49.380 align:start position:0%
+turn into a sum of logarithms in log in
+by<00:07:47.169><c> contrast</c><00:07:47.620><c> it</c><00:07:47.800><c> login</c><00:07:48.250><c> plus</c><00:07:48.550><c> log</c><00:07:48.760><c> n</c><00:07:48.970><c> plus</c><00:07:49.210><c> log</c>
+
+00:07:49.380 --> 00:07:49.390 align:start position:0%
+by contrast it login plus log n plus log
+ 
+
+00:07:49.390 --> 00:07:52.440 align:start position:0%
+by contrast it login plus log n plus log
+n<00:07:49.570><c> plus</c><00:07:49.810><c> plus</c><00:07:50.650><c> log</c><00:07:50.830><c> in</c><00:07:51.010><c> other</c><00:07:51.880><c> words</c><00:07:52.030><c> we</c><00:07:52.360><c> have</c>
+
+00:07:52.440 --> 00:07:52.450 align:start position:0%
+n plus plus log in other words we have
+ 
+
+00:07:52.450 --> 00:07:55.290 align:start position:0%
+n plus plus log in other words we have
+the<00:07:52.539><c> same</c><00:07:52.780><c> number</c><00:07:52.810><c> of</c><00:07:53.260><c> logs</c><00:07:54.250><c> but</c><00:07:54.940><c> in</c><00:07:55.030><c> this</c><00:07:55.120><c> case</c>
+
+00:07:55.290 --> 00:07:55.300 align:start position:0%
+the same number of logs but in this case
+ 
+
+00:07:55.300 --> 00:07:57.420 align:start position:0%
+the same number of logs but in this case
+they're<00:07:55.539><c> all</c><00:07:55.690><c> login</c><00:07:56.260><c> in</c><00:07:56.440><c> this</c><00:07:56.950><c> case</c><00:07:57.130><c> they</c><00:07:57.310><c> get</c>
+
+00:07:57.420 --> 00:07:57.430 align:start position:0%
+they're all login in this case they get
+ 
+
+00:07:57.430 --> 00:07:59.460 align:start position:0%
+they're all login in this case they get
+smaller<00:07:57.640><c> and</c><00:07:57.940><c> so</c><00:07:58.539><c> in</c><00:07:58.660><c> this</c><00:07:58.720><c> case</c><00:07:58.900><c> we</c><00:07:59.200><c> could</c><00:07:59.349><c> see</c>
+
+00:07:59.460 --> 00:07:59.470 align:start position:0%
+smaller and so in this case we could see
+ 
+
+00:07:59.470 --> 00:08:01.409 align:start position:0%
+smaller and so in this case we could see
+that<00:07:59.590><c> in</c><00:07:59.740><c> login</c><00:08:00.160><c> will</c><00:08:00.460><c> grow</c><00:08:00.610><c> at</c><00:08:00.729><c> least</c><00:08:00.970><c> as</c><00:08:01.210><c> fast</c>
+
+00:08:01.409 --> 00:08:01.419 align:start position:0%
+that in login will grow at least as fast
+ 
+
+00:08:01.419 --> 00:08:03.330 align:start position:0%
+that in login will grow at least as fast
+as<00:08:01.630><c> log</c><00:08:01.930><c> n</c><00:08:02.080><c> factorial</c><00:08:02.410><c> right</c><00:08:02.830><c> this</c><00:08:03.130><c> thing</c>
+
+00:08:03.330 --> 00:08:03.340 align:start position:0%
+as log n factorial right this thing
+ 
+
+00:08:03.340 --> 00:08:05.700 align:start position:0%
+as log n factorial right this thing
+right<00:08:03.490><c> here</c><00:08:03.550><c> is</c><00:08:03.940><c> bigger</c><00:08:04.750><c> than</c><00:08:05.320><c> this</c><00:08:05.530><c> right</c>
+
+00:08:05.700 --> 00:08:05.710 align:start position:0%
+right here is bigger than this right
+ 
+
+00:08:05.710 --> 00:08:09.240 align:start position:0%
+right here is bigger than this right
+here<00:08:06.990><c> so</c><00:08:07.990><c> we've</c><00:08:08.169><c> shown</c><00:08:08.470><c> a</c><00:08:08.500><c> couple</c><00:08:08.800><c> of</c><00:08:09.040><c> things</c>
+
+00:08:09.240 --> 00:08:09.250 align:start position:0%
+here so we've shown a couple of things
+ 
+
+00:08:09.250 --> 00:08:13.140 align:start position:0%
+here so we've shown a couple of things
+right<00:08:09.490><c> so</c><00:08:09.940><c> we've</c><00:08:10.060><c> shown</c><00:08:10.210><c> the</c><00:08:10.360><c> n</c><00:08:10.480><c> log</c><00:08:10.690><c> n</c><00:08:10.919><c> is</c><00:08:12.150><c> big</c>
+
+00:08:13.140 --> 00:08:13.150 align:start position:0%
+right so we've shown the n log n is big
+ 
+
+00:08:13.150 --> 00:08:14.970 align:start position:0%
+right so we've shown the n log n is big
+Omega<00:08:13.419><c> log</c><00:08:13.690><c> n</c><00:08:13.840><c> factorial</c><00:08:14.169><c> we</c>
+
+00:08:14.970 --> 00:08:14.980 align:start position:0%
+Omega log n factorial we
+ 
+
+00:08:14.980 --> 00:08:16.860 align:start position:0%
+Omega log n factorial we
+login<00:08:15.400><c> factorial</c><00:08:15.820><c> is</c><00:08:15.940><c> big</c><00:08:16.150><c> Omega</c><00:08:16.330><c> and</c><00:08:16.540><c> login</c>
+
+00:08:16.860 --> 00:08:16.870 align:start position:0%
+login factorial is big Omega and login
+ 
+
+00:08:16.870 --> 00:08:19.290 align:start position:0%
+login factorial is big Omega and login
+and<00:08:17.260><c> so</c><00:08:17.920><c> my</c><00:08:18.400><c> question</c><00:08:18.730><c> for</c><00:08:18.760><c> you</c><00:08:18.880><c> is</c><00:08:18.970><c> which</c><00:08:19.270><c> of</c>
+
+00:08:19.290 --> 00:08:19.300 align:start position:0%
+and so my question for you is which of
+ 
+
+00:08:19.300 --> 00:08:21.480 align:start position:0%
+and so my question for you is which of
+the<00:08:19.450><c> following</c><00:08:19.600><c> things</c><00:08:19.840><c> can</c><00:08:20.200><c> we</c><00:08:20.320><c> say</c><00:08:20.470><c> can</c><00:08:21.400><c> we</c>
+
+00:08:21.480 --> 00:08:21.490 align:start position:0%
+the following things can we say can we
+ 
+
+00:08:21.490 --> 00:08:23.490 align:start position:0%
+the following things can we say can we
+say<00:08:21.640><c> the</c><00:08:21.730><c> N</c><00:08:21.850><c> log</c><00:08:22.000><c> in</c><00:08:22.180><c> at</c><00:08:22.330><c> theta</c><00:08:22.660><c> log</c><00:08:23.350><c> n</c>
+
+00:08:23.490 --> 00:08:23.500 align:start position:0%
+say the N log in at theta log n
+ 
+
+00:08:23.500 --> 00:08:25.500 align:start position:0%
+say the N log in at theta log n
+factorial<00:08:23.860><c> can</c><00:08:24.550><c> we</c><00:08:24.610><c> see</c><00:08:24.700><c> the</c><00:08:24.820><c> login</c><00:08:25.090><c> factorial</c>
+
+00:08:25.500 --> 00:08:25.510 align:start position:0%
+factorial can we see the login factorial
+ 
+
+00:08:25.510 --> 00:08:27.450 align:start position:0%
+factorial can we see the login factorial
+of<00:08:25.540><c> theta</c><00:08:25.750><c> n</c><00:08:25.900><c> log</c><00:08:26.050><c> in</c><00:08:26.200><c> both</c><00:08:27.070><c> of</c><00:08:27.250><c> those</c><00:08:27.400><c> things</c>
+
+00:08:27.450 --> 00:08:27.460 align:start position:0%
+of theta n log in both of those things
+ 
+
+00:08:27.460 --> 00:08:31.590 align:start position:0%
+of theta n log in both of those things
+or<00:08:27.880><c> neither</c><00:08:29.040><c> so</c><00:08:30.040><c> think</c><00:08:30.400><c> about</c><00:08:30.490><c> that</c><00:08:30.640><c> and</c><00:08:31.000><c> I'll</c>
+
+00:08:31.590 --> 00:08:31.600 align:start position:0%
+or neither so think about that and I'll
+ 
+
+00:08:31.600 --> 00:08:37.260 align:start position:0%
+or neither so think about that and I'll
+spoil<00:08:31.870><c> it</c><00:08:32.050><c> on</c><00:08:32.169><c> the</c><00:08:32.260><c> next</c><00:08:32.440><c> slide</c><00:08:35.430><c> all</c><00:08:36.430><c> right</c><00:08:36.610><c> so</c>
+
+00:08:37.260 --> 00:08:37.270 align:start position:0%
+spoil it on the next slide all right so
+ 
+
+00:08:37.270 --> 00:08:39.900 align:start position:0%
+spoil it on the next slide all right so
+going<00:08:37.479><c> through</c><00:08:37.570><c> this</c><00:08:37.840><c> the</c><00:08:38.710><c> question</c><00:08:39.010><c> is</c><00:08:39.160><c> what</c>
+
+00:08:39.900 --> 00:08:39.910 align:start position:0%
+going through this the question is what
+ 
+
+00:08:39.910 --> 00:08:40.890 align:start position:0%
+going through this the question is what
+do<00:08:39.970><c> we</c><00:08:40.000><c> have</c><00:08:40.180><c> this</c><00:08:40.419><c> is</c><00:08:40.570><c> basically</c><00:08:40.780><c> a</c>
+
+00:08:40.890 --> 00:08:40.900 align:start position:0%
+do we have this is basically a
+ 
+
+00:08:40.900 --> 00:08:42.600 align:start position:0%
+do we have this is basically a
+definition<00:08:41.410><c> test</c><00:08:41.650><c> and</c><00:08:41.890><c> kind</c><00:08:42.220><c> of</c><00:08:42.250><c> a</c><00:08:42.340><c> reminder</c>
+
+00:08:42.600 --> 00:08:42.610 align:start position:0%
+definition test and kind of a reminder
+ 
+
+00:08:42.610 --> 00:08:45.690 align:start position:0%
+definition test and kind of a reminder
+here<00:08:42.910><c> so</c><00:08:43.630><c> it</c><00:08:43.690><c> turns</c><00:08:43.840><c> out</c><00:08:43.990><c> oops</c><00:08:44.560><c> all</c><00:08:45.040><c> right</c><00:08:45.280><c> so</c>
+
+00:08:45.690 --> 00:08:45.700 align:start position:0%
+here so it turns out oops all right so
+ 
+
+00:08:45.700 --> 00:08:46.920 align:start position:0%
+here so it turns out oops all right so
+it<00:08:45.760><c> turns</c><00:08:45.850><c> out</c><00:08:46.060><c> we</c><00:08:46.180><c> can</c><00:08:46.300><c> say</c><00:08:46.420><c> it's</c><00:08:46.570><c> both</c><00:08:46.720><c> a</c><00:08:46.870><c> and</c>
+
+00:08:46.920 --> 00:08:46.930 align:start position:0%
+it turns out we can say it's both a and
+ 
+
+00:08:46.930 --> 00:08:49.890 align:start position:0%
+it turns out we can say it's both a and
+B<00:08:47.440><c> and</c><00:08:47.620><c> the</c><00:08:48.310><c> basic</c><00:08:48.580><c> reasoning</c><00:08:48.970><c> is</c><00:08:49.120><c> just</c><00:08:49.750><c> the</c>
+
+00:08:49.890 --> 00:08:49.900 align:start position:0%
+B and the basic reasoning is just the
+ 
+
+00:08:49.900 --> 00:08:51.930 align:start position:0%
+B and the basic reasoning is just the
+way<00:08:49.990><c> I</c><00:08:50.020><c> think</c><00:08:50.290><c> about</c><00:08:50.380><c> is</c><00:08:50.620><c> informally</c><00:08:51.430><c> you</c><00:08:51.820><c> can</c>
+
+00:08:51.930 --> 00:08:51.940 align:start position:0%
+way I think about is informally you can
+ 
+
+00:08:51.940 --> 00:08:53.820 align:start position:0%
+way I think about is informally you can
+imagine<00:08:52.150><c> this</c><00:08:52.450><c> means</c><00:08:52.690><c> n</c><00:08:52.870><c> log</c><00:08:53.140><c> n</c><00:08:53.350><c> is</c><00:08:53.530><c> greater</c>
+
+00:08:53.820 --> 00:08:53.830 align:start position:0%
+imagine this means n log n is greater
+ 
+
+00:08:53.830 --> 00:08:55.920 align:start position:0%
+imagine this means n log n is greater
+than<00:08:54.130><c> or</c><00:08:54.280><c> equal</c><00:08:54.490><c> to</c><00:08:54.520><c> log</c><00:08:54.730><c> in</c><00:08:54.910><c> factorial</c><00:08:55.450><c> right</c>
+
+00:08:55.920 --> 00:08:55.930 align:start position:0%
+than or equal to log in factorial right
+ 
+
+00:08:55.930 --> 00:08:57.870 align:start position:0%
+than or equal to log in factorial right
+that's<00:08:56.230><c> just</c><00:08:56.440><c> roughly</c><00:08:57.160><c> speaking</c><00:08:57.310><c> what</c><00:08:57.700><c> this</c>
+
+00:08:57.870 --> 00:08:57.880 align:start position:0%
+that's just roughly speaking what this
+ 
+
+00:08:57.880 --> 00:08:59.130 align:start position:0%
+that's just roughly speaking what this
+means<00:08:58.090><c> how</c><00:08:58.240><c> you</c><00:08:58.300><c> can</c><00:08:58.480><c> read</c><00:08:58.660><c> it</c><00:08:58.780><c> off</c><00:08:58.900><c> in</c><00:08:59.050><c> your</c>
+
+00:08:59.130 --> 00:08:59.140 align:start position:0%
+means how you can read it off in your
+ 
+
+00:08:59.140 --> 00:09:00.990 align:start position:0%
+means how you can read it off in your
+brain<00:08:59.350><c> you</c><00:08:59.920><c> are</c><00:09:00.040><c> not</c><00:09:00.190><c> trained</c><00:09:00.550><c> you</c><00:09:00.700><c> haven't</c>
+
+00:09:00.990 --> 00:09:01.000 align:start position:0%
+brain you are not trained you haven't
+ 
+
+00:09:01.000 --> 00:09:02.700 align:start position:0%
+brain you are not trained you haven't
+been<00:09:01.120><c> since</c><00:09:01.300><c> birth</c><00:09:01.600><c> thinking</c><00:09:02.170><c> about</c><00:09:02.560><c> big</c>
+
+00:09:02.700 --> 00:09:02.710 align:start position:0%
+been since birth thinking about big
+ 
+
+00:09:02.710 --> 00:09:04.350 align:start position:0%
+been since birth thinking about big
+omegas<00:09:03.130><c> so</c><00:09:03.550><c> it</c><00:09:03.610><c> could</c><00:09:03.670><c> be</c><00:09:03.730><c> a</c><00:09:03.820><c> little</c><00:09:04.000><c> hard</c><00:09:04.240><c> to</c>
+
+00:09:04.350 --> 00:09:04.360 align:start position:0%
+omegas so it could be a little hard to
+ 
+
+00:09:04.360 --> 00:09:06.780 align:start position:0%
+omegas so it could be a little hard to
+read<00:09:04.510><c> but</c><00:09:04.990><c> you</c><00:09:05.620><c> can</c><00:09:05.770><c> translate</c><00:09:06.250><c> it</c><00:09:06.490><c> it's</c><00:09:06.700><c> a</c>
+
+00:09:06.780 --> 00:09:06.790 align:start position:0%
+read but you can translate it it's a
+ 
+
+00:09:06.790 --> 00:09:08.130 align:start position:0%
+read but you can translate it it's a
+little<00:09:06.910><c> messy</c><00:09:07.150><c> you</c><00:09:07.510><c> could</c><00:09:07.630><c> translate</c><00:09:07.930><c> it</c><00:09:08.050><c> to</c>
+
+00:09:08.130 --> 00:09:08.140 align:start position:0%
+little messy you could translate it to
+ 
+
+00:09:08.140 --> 00:09:09.960 align:start position:0%
+little messy you could translate it to
+me<00:09:08.290><c> an</c><00:09:08.380><c> N</c><00:09:08.500><c> log</c><00:09:08.650><c> n</c><00:09:08.710><c> is</c><00:09:09.340><c> greater</c><00:09:09.580><c> than</c><00:09:09.820><c> or</c><00:09:09.940><c> equal</c>
+
+00:09:09.960 --> 00:09:09.970 align:start position:0%
+me an N log n is greater than or equal
+ 
+
+00:09:09.970 --> 00:09:12.180 align:start position:0%
+me an N log n is greater than or equal
+to<00:09:10.150><c> log</c><00:09:10.300><c> n</c><00:09:10.450><c> factorial</c><00:09:10.780><c> and</c><00:09:11.410><c> over</c><00:09:11.770><c> here</c><00:09:11.800><c> we</c>
+
+00:09:12.180 --> 00:09:12.190 align:start position:0%
+to log n factorial and over here we
+ 
+
+00:09:12.190 --> 00:09:14.100 align:start position:0%
+to log n factorial and over here we
+could<00:09:12.310><c> say</c><00:09:12.430><c> log</c><00:09:12.610><c> n</c><00:09:12.730><c> factorial</c><00:09:13.120><c> is</c><00:09:13.750><c> greater</c>
+
+00:09:14.100 --> 00:09:14.110 align:start position:0%
+could say log n factorial is greater
+ 
+
+00:09:14.110 --> 00:09:17.100 align:start position:0%
+could say log n factorial is greater
+than<00:09:14.200><c> in</c><00:09:14.410><c> log</c><00:09:14.800><c> in</c><00:09:15.210><c> these</c><00:09:16.210><c> two</c><00:09:16.450><c> statements</c><00:09:16.720><c> both</c>
+
+00:09:17.100 --> 00:09:17.110 align:start position:0%
+than in log in these two statements both
+ 
+
+00:09:17.110 --> 00:09:20.310 align:start position:0%
+than in log in these two statements both
+based<00:09:17.470><c> basically</c><00:09:18.190><c> both</c><00:09:18.700><c> say</c><00:09:19.060><c> in</c><00:09:19.810><c> log</c><00:09:20.050><c> in</c><00:09:20.230><c> and</c>
+
+00:09:20.310 --> 00:09:20.320 align:start position:0%
+based basically both say in log in and
+ 
+
+00:09:20.320 --> 00:09:22.200 align:start position:0%
+based basically both say in log in and
+equal<00:09:20.590><c> to</c><00:09:20.740><c> log</c><00:09:20.860><c> n</c><00:09:21.040><c> factorial</c><00:09:21.400><c> and</c><00:09:21.760><c> this</c><00:09:22.000><c> one's</c>
+
+00:09:22.200 --> 00:09:22.210 align:start position:0%
+equal to log n factorial and this one's
+ 
+
+00:09:22.210 --> 00:09:24.840 align:start position:0%
+equal to log n factorial and this one's
+log<00:09:22.420><c> in</c><00:09:22.540><c> fact</c><00:09:22.720><c> or</c><00:09:22.870><c> equals</c><00:09:23.170><c> n</c><00:09:23.290><c> log</c><00:09:23.440><c> N</c><00:09:23.590><c> and</c><00:09:23.620><c> so</c><00:09:24.430><c> the</c>
+
+00:09:24.840 --> 00:09:24.850 align:start position:0%
+log in fact or equals n log N and so the
+ 
+
+00:09:24.850 --> 00:09:26.250 align:start position:0%
+log in fact or equals n log N and so the
+only<00:09:25.030><c> way</c><00:09:25.240><c> you</c><00:09:25.300><c> can</c><00:09:25.450><c> reconcile</c><00:09:25.960><c> these</c><00:09:26.200><c> two</c>
+
+00:09:26.250 --> 00:09:26.260 align:start position:0%
+only way you can reconcile these two
+ 
+
+00:09:26.260 --> 00:09:28.470 align:start position:0%
+only way you can reconcile these two
+facts<00:09:26.740><c> that</c><00:09:27.310><c> this</c><00:09:27.640><c> function</c><00:09:28.030><c> is</c><00:09:28.120><c> greater</c><00:09:28.360><c> than</c>
+
+00:09:28.470 --> 00:09:28.480 align:start position:0%
+facts that this function is greater than
+ 
+
+00:09:28.480 --> 00:09:29.880 align:start position:0%
+facts that this function is greater than
+equal<00:09:28.690><c> to</c><00:09:28.720><c> this</c><00:09:28.840><c> this</c><00:09:29.170><c> is</c><00:09:29.350><c> greater</c><00:09:29.530><c> than</c><00:09:29.650><c> equal</c>
+
+00:09:29.880 --> 00:09:29.890 align:start position:0%
+equal to this this is greater than equal
+ 
+
+00:09:29.890 --> 00:09:31.650 align:start position:0%
+equal to this this is greater than equal
+this<00:09:30.040><c> is</c><00:09:30.250><c> to</c><00:09:30.430><c> say</c><00:09:30.580><c> that</c><00:09:30.730><c> they're</c><00:09:30.880><c> equal</c><00:09:31.150><c> that's</c>
+
+00:09:31.650 --> 00:09:31.660 align:start position:0%
+this is to say that they're equal that's
+ 
+
+00:09:31.660 --> 00:09:34.260 align:start position:0%
+this is to say that they're equal that's
+the<00:09:31.840><c> rough</c><00:09:32.530><c> way</c><00:09:33.130><c> I</c><00:09:33.160><c> think</c><00:09:33.400><c> about</c><00:09:33.670><c> it</c><00:09:33.970><c> whenever</c>
+
+00:09:34.260 --> 00:09:34.270 align:start position:0%
+the rough way I think about it whenever
+ 
+
+00:09:34.270 --> 00:09:35.460 align:start position:0%
+the rough way I think about it whenever
+I'm<00:09:34.390><c> trying</c><00:09:34.600><c> to</c><00:09:34.660><c> translate</c><00:09:34.990><c> the</c><00:09:35.170><c> symbols</c>
+
+00:09:35.460 --> 00:09:35.470 align:start position:0%
+I'm trying to translate the symbols
+ 
+
+00:09:35.470 --> 00:09:36.660 align:start position:0%
+I'm trying to translate the symbols
+especially<00:09:35.920><c> working</c><00:09:36.100><c> with</c><00:09:36.310><c> someone</c><00:09:36.490><c> who</c>
+
+00:09:36.660 --> 00:09:36.670 align:start position:0%
+especially working with someone who
+ 
+
+00:09:36.670 --> 00:09:38.730 align:start position:0%
+especially working with someone who
+doesn't<00:09:36.790><c> know</c><00:09:37.060><c> they</c><00:09:37.210><c> symbols</c><00:09:37.600><c> well</c><00:09:37.750><c> and</c><00:09:38.560><c> so</c>
+
+00:09:38.730 --> 00:09:38.740 align:start position:0%
+doesn't know they symbols well and so
+ 
+
+00:09:38.740 --> 00:09:41.040 align:start position:0%
+doesn't know they symbols well and so
+ultimately<00:09:39.130><c> what</c><00:09:39.910><c> we've</c><00:09:40.120><c> just</c><00:09:40.150><c> shown</c><00:09:40.570><c> all</c>
+
+00:09:41.040 --> 00:09:41.050 align:start position:0%
+ultimately what we've just shown all
+ 
+
+00:09:41.050 --> 00:09:42.600 align:start position:0%
+ultimately what we've just shown all
+that<00:09:41.380><c> work</c><00:09:41.530><c> we've</c><00:09:41.710><c> just</c><00:09:41.950><c> done</c><00:09:42.130><c> this</c><00:09:42.400><c> math</c>
+
+00:09:42.600 --> 00:09:42.610 align:start position:0%
+that work we've just done this math
+ 
+
+00:09:42.610 --> 00:09:44.190 align:start position:0%
+that work we've just done this math
+problem<00:09:42.640><c> Adam</c><00:09:43.120><c> nowhere</c><00:09:43.420><c> has</c><00:09:43.750><c> been</c><00:09:43.930><c> to</c><00:09:44.020><c> show</c>
+
+00:09:44.190 --> 00:09:44.200 align:start position:0%
+problem Adam nowhere has been to show
+ 
+
+00:09:44.200 --> 00:09:46.620 align:start position:0%
+problem Adam nowhere has been to show
+that<00:09:44.410><c> n</c><00:09:44.650><c> log</c><00:09:44.860><c> in</c><00:09:45.010><c> and</c><00:09:45.220><c> log</c><00:09:45.280><c> n</c><00:09:45.880><c> factorial</c><00:09:46.330><c> are</c>
+
+00:09:46.620 --> 00:09:46.630 align:start position:0%
+that n log in and log n factorial are
+ 
+
+00:09:46.630 --> 00:09:48.270 align:start position:0%
+that n log in and log n factorial are
+basically<00:09:47.110><c> the</c><00:09:47.350><c> same</c><00:09:47.860><c> function</c>
+
+00:09:48.270 --> 00:09:48.280 align:start position:0%
+basically the same function
+ 
+
+00:09:48.280 --> 00:09:49.830 align:start position:0%
+basically the same function
+asymptotically<00:09:48.790><c> that</c><00:09:49.210><c> is</c><00:09:49.330><c> they'll</c><00:09:49.720><c> be</c><00:09:49.810><c> a</c>
+
+00:09:49.830 --> 00:09:49.840 align:start position:0%
+asymptotically that is they'll be a
+ 
+
+00:09:49.840 --> 00:09:51.150 align:start position:0%
+asymptotically that is they'll be a
+little<00:09:49.990><c> different</c><00:09:50.230><c> in</c><00:09:50.470><c> terms</c><00:09:50.590><c> of</c><00:09:50.740><c> their</c><00:09:50.860><c> exact</c>
+
+00:09:51.150 --> 00:09:51.160 align:start position:0%
+little different in terms of their exact
+ 
+
+00:09:51.160 --> 00:09:53.100 align:start position:0%
+little different in terms of their exact
+value<00:09:51.460><c> but</c><00:09:51.940><c> asymptotically</c><00:09:52.360><c> they</c><00:09:52.810><c> converge</c>
+
+00:09:53.100 --> 00:09:53.110 align:start position:0%
+value but asymptotically they converge
+ 
+
+00:09:53.110 --> 00:09:54.360 align:start position:0%
+value but asymptotically they converge
+to<00:09:53.350><c> the</c><00:09:53.380><c> same</c><00:09:53.620><c> thing</c><00:09:53.860><c> so</c><00:09:54.040><c> they</c><00:09:54.130><c> track</c><00:09:54.340><c> each</c>
+
+00:09:54.360 --> 00:09:54.370 align:start position:0%
+to the same thing so they track each
+ 
+
+00:09:54.370 --> 00:09:56.160 align:start position:0%
+to the same thing so they track each
+other<00:09:54.640><c> beautifully</c><00:09:54.820><c> as</c><00:09:55.300><c> we</c><00:09:55.630><c> move</c><00:09:55.810><c> to</c><00:09:55.990><c> large</c>
+
+00:09:56.160 --> 00:09:56.170 align:start position:0%
+other beautifully as we move to large
+ 
+
+00:09:56.170 --> 00:10:01.140 align:start position:0%
+other beautifully as we move to large
+end<00:09:56.460><c> ok</c><00:09:57.460><c> now</c><00:09:59.100><c> why</c><00:10:00.100><c> do</c><00:10:00.160><c> we</c><00:10:00.370><c> do</c><00:10:00.490><c> this</c><00:10:00.520><c> again</c><00:10:00.820><c> I</c>
+
+00:10:01.140 --> 00:10:01.150 align:start position:0%
+end ok now why do we do this again I
+ 
+
+00:10:01.150 --> 00:10:02.970 align:start position:0%
+end ok now why do we do this again I
+mean<00:10:01.480><c> I</c><00:10:01.540><c> haven't</c><00:10:01.720><c> said</c><00:10:01.990><c> but</c><00:10:02.680><c> if</c><00:10:02.770><c> I</c><00:10:02.830><c> was</c>
+
+00:10:02.970 --> 00:10:02.980 align:start position:0%
+mean I haven't said but if I was
+ 
+
+00:10:02.980 --> 00:10:04.260 align:start position:0%
+mean I haven't said but if I was
+important<00:10:03.340><c> for</c><00:10:03.370><c> us</c><00:10:03.460><c> to</c><00:10:03.550><c> prime</c><00:10:03.850><c> it</c><00:10:03.880><c> to</c><00:10:04.120><c> make</c>
+
+00:10:04.260 --> 00:10:04.270 align:start position:0%
+important for us to prime it to make
+ 
+
+00:10:04.270 --> 00:10:05.910 align:start position:0%
+important for us to prime it to make
+sure<00:10:04.390><c> we</c><00:10:04.540><c> really</c><00:10:04.930><c> understand</c><00:10:05.440><c> the</c><00:10:05.590><c> nature</c><00:10:05.710><c> of</c>
+
+00:10:05.910 --> 00:10:05.920 align:start position:0%
+sure we really understand the nature of
+ 
+
+00:10:05.920 --> 00:10:08.250 align:start position:0%
+sure we really understand the nature of
+big<00:10:06.130><c> Omega</c><00:10:06.400><c> and</c><00:10:07.180><c> theta</c><00:10:07.240><c> because</c><00:10:08.080><c> it'll</c><00:10:08.230><c> be</c>
+
+00:10:08.250 --> 00:10:08.260 align:start position:0%
+big Omega and theta because it'll be
+ 
+
+00:10:08.260 --> 00:10:09.660 align:start position:0%
+big Omega and theta because it'll be
+really<00:10:08.410><c> important</c><00:10:08.830><c> moving</c><00:10:08.980><c> forward</c><00:10:09.100><c> with</c><00:10:09.580><c> the</c>
+
+00:10:09.660 --> 00:10:09.670 align:start position:0%
+really important moving forward with the
+ 
+
+00:10:09.670 --> 00:10:12.150 align:start position:0%
+really important moving forward with the
+rest<00:10:09.820><c> of</c><00:10:09.940><c> this</c><00:10:10.000><c> lecture</c>
+

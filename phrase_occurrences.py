@@ -15,6 +15,7 @@ def find_occurrences(phrase, filename):
   titles = []
   urls = []
   phrases = []
+  term_idxes = []
   with open(filename) as file:
     data = json.load(file)
     for video_title in data:
@@ -28,13 +29,18 @@ def find_occurrences(phrase, filename):
             titles.append(title)
             urls.append(youtube + youtube_id + "?start=" + timestamp)
             context = ""
-            if(index >0):
-              context+=video_data[timestamps[index-1]]
-            context+=video_data[timestamps[index]]
-            if(index <len(timestamps)-1):
+            if(index==0):
+              term_idxes.append(video_data[timestamps[index]].find(phrase))
+              context+=video_data[timestamps[index]]
               context+=video_data[timestamps[index+1]]
+            else:
+              term_idxes.append(len(video_data[timestamps[index-1]])+video_data[timestamps[index]].find(phrase))
+              context+=video_data[timestamps[index-1]]
+              context+=video_data[timestamps[index]]
+              if(index!=len(timestamps)-1):
+                context+=video_data[timestamps[index+1]]
             phrases.append(context)
-  return titles, urls, phrases
+  return titles, urls, phrases, term_idxes
 
 if __name__ == '__main__':
   args = sys.argv

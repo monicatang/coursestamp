@@ -1,0 +1,2088 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.079 --> 00:00:02.570 align:start position:0%
+ 
+graphs<00:00:01.079><c> are</c><00:00:01.319><c> a</c><00:00:01.350><c> fascinating</c><00:00:01.979><c> data</c><00:00:02.129><c> structure</c>
+
+00:00:02.570 --> 00:00:02.580 align:start position:0%
+graphs are a fascinating data structure
+ 
+
+00:00:02.580 --> 00:00:04.249 align:start position:0%
+graphs are a fascinating data structure
+because<00:00:02.879><c> not</c><00:00:03.060><c> only</c><00:00:03.330><c> are</c><00:00:03.510><c> they</c><00:00:03.659><c> practically</c>
+
+00:00:04.249 --> 00:00:04.259 align:start position:0%
+because not only are they practically
+ 
+
+00:00:04.259 --> 00:00:06.650 align:start position:0%
+because not only are they practically
+incredibly<00:00:04.830><c> useful</c><00:00:04.950><c> but</c><00:00:05.700><c> they</c><00:00:05.790><c> also</c><00:00:06.000><c> unlock</c><00:00:06.629><c> a</c>
+
+00:00:06.650 --> 00:00:06.660 align:start position:0%
+incredibly useful but they also unlock a
+ 
+
+00:00:06.660 --> 00:00:08.660 align:start position:0%
+incredibly useful but they also unlock a
+really<00:00:07.259><c> large</c><00:00:07.529><c> number</c><00:00:07.950><c> of</c><00:00:07.980><c> very</c><00:00:08.400><c> difficult</c>
+
+00:00:08.660 --> 00:00:08.670 align:start position:0%
+really large number of very difficult
+ 
+
+00:00:08.670 --> 00:00:11.180 align:start position:0%
+really large number of very difficult
+and<00:00:09.090><c> interesting</c><00:00:09.599><c> math</c><00:00:09.750><c> problems</c><00:00:10.200><c> then</c>
+
+00:00:11.180 --> 00:00:11.190 align:start position:0%
+and interesting math problems then
+ 
+
+00:00:11.190 --> 00:00:12.290 align:start position:0%
+and interesting math problems then
+what's<00:00:11.400><c> interesting</c><00:00:11.550><c> about</c><00:00:11.880><c> these</c><00:00:12.030><c> problems</c>
+
+00:00:12.290 --> 00:00:12.300 align:start position:0%
+what's interesting about these problems
+ 
+
+00:00:12.300 --> 00:00:14.570 align:start position:0%
+what's interesting about these problems
+is<00:00:12.540><c> that</c><00:00:12.660><c> not</c><00:00:13.380><c> only</c><00:00:13.500><c> are</c><00:00:13.710><c> they</c><00:00:13.830><c> difficult</c><00:00:14.040><c> but</c>
+
+00:00:14.570 --> 00:00:14.580 align:start position:0%
+is that not only are they difficult but
+ 
+
+00:00:14.580 --> 00:00:16.400 align:start position:0%
+is that not only are they difficult but
+they're<00:00:14.730><c> easy</c><00:00:14.910><c> to</c><00:00:15.150><c> state</c><00:00:15.420><c> so</c><00:00:15.990><c> there's</c><00:00:16.170><c> so</c><00:00:16.320><c> many</c>
+
+00:00:16.400 --> 00:00:16.410 align:start position:0%
+they're easy to state so there's so many
+ 
+
+00:00:16.410 --> 00:00:17.810 align:start position:0%
+they're easy to state so there's so many
+neat<00:00:16.650><c> problems</c><00:00:17.010><c> you</c><00:00:17.100><c> can</c><00:00:17.220><c> talk</c><00:00:17.430><c> about</c><00:00:17.460><c> with</c>
+
+00:00:17.810 --> 00:00:17.820 align:start position:0%
+neat problems you can talk about with
+ 
+
+00:00:17.820 --> 00:00:20.060 align:start position:0%
+neat problems you can talk about with
+graphs<00:00:18.060><c> where</c><00:00:18.330><c> you</c><00:00:18.840><c> can</c><00:00:18.990><c> you</c><00:00:19.380><c> can</c><00:00:19.529><c> explain</c><00:00:19.920><c> it</c>
+
+00:00:20.060 --> 00:00:20.070 align:start position:0%
+graphs where you can you can explain it
+ 
+
+00:00:20.070 --> 00:00:21.470 align:start position:0%
+graphs where you can you can explain it
+to<00:00:20.250><c> somebody</c><00:00:20.430><c> maybe</c><00:00:20.760><c> in</c><00:00:20.939><c> a</c><00:00:21.000><c> minute</c><00:00:21.210><c> as</c><00:00:21.270><c> young</c>
+
+00:00:21.470 --> 00:00:21.480 align:start position:0%
+to somebody maybe in a minute as young
+ 
+
+00:00:21.480 --> 00:00:24.859 align:start position:0%
+to somebody maybe in a minute as young
+as<00:00:21.660><c> like</c><00:00:21.840><c> eight</c><00:00:22.140><c> and</c><00:00:23.359><c> the</c><00:00:24.359><c> solution</c><00:00:24.779><c> is</c>
+
+00:00:24.859 --> 00:00:24.869 align:start position:0%
+as like eight and the solution is
+ 
+
+00:00:24.869 --> 00:00:25.970 align:start position:0%
+as like eight and the solution is
+actually<00:00:24.990><c> something</c><00:00:25.320><c> maybe</c><00:00:25.619><c> they</c><00:00:25.830><c> can</c>
+
+00:00:25.970 --> 00:00:25.980 align:start position:0%
+actually something maybe they can
+ 
+
+00:00:25.980 --> 00:00:27.439 align:start position:0%
+actually something maybe they can
+understand<00:00:26.430><c> but</c><00:00:26.609><c> coming</c><00:00:26.849><c> up</c><00:00:26.939><c> with</c><00:00:27.060><c> the</c><00:00:27.119><c> answer</c>
+
+00:00:27.439 --> 00:00:27.449 align:start position:0%
+understand but coming up with the answer
+ 
+
+00:00:27.449 --> 00:00:29.359 align:start position:0%
+understand but coming up with the answer
+is<00:00:27.630><c> often</c><00:00:27.810><c> very</c><00:00:28.109><c> tricky</c><00:00:28.320><c> so</c><00:00:28.680><c> some</c><00:00:28.830><c> examples</c><00:00:29.279><c> of</c>
+
+00:00:29.359 --> 00:00:29.369 align:start position:0%
+is often very tricky so some examples of
+ 
+
+00:00:29.369 --> 00:00:31.460 align:start position:0%
+is often very tricky so some examples of
+those<00:00:29.460><c> problems</c><00:00:29.849><c> well</c><00:00:30.779><c> given</c><00:00:31.050><c> a</c><00:00:31.109><c> graph</c><00:00:31.289><c> is</c>
+
+00:00:31.460 --> 00:00:31.470 align:start position:0%
+those problems well given a graph is
+ 
+
+00:00:31.470 --> 00:00:34.700 align:start position:0%
+those problems well given a graph is
+there<00:00:31.619><c> a</c><00:00:31.650><c> path</c><00:00:31.920><c> between</c><00:00:32.160><c> vertices</c><00:00:32.809><c> SMT</c><00:00:33.809><c> that's</c>
+
+00:00:34.700 --> 00:00:34.710 align:start position:0%
+there a path between vertices SMT that's
+ 
+
+00:00:34.710 --> 00:00:37.040 align:start position:0%
+there a path between vertices SMT that's
+a<00:00:34.770><c> pretty</c><00:00:34.920><c> simple</c><00:00:35.250><c> one</c><00:00:35.540><c> how</c><00:00:36.540><c> about</c><00:00:36.570><c> what</c><00:00:36.960><c> is</c>
+
+00:00:37.040 --> 00:00:37.050 align:start position:0%
+a pretty simple one how about what is
+ 
+
+00:00:37.050 --> 00:00:39.380 align:start position:0%
+a pretty simple one how about what is
+the<00:00:37.170><c> shortest</c><00:00:37.590><c> path</c><00:00:37.710><c> between</c><00:00:38.280><c> vertices</c><00:00:38.820><c> s</c><00:00:39.149><c> and</c>
+
+00:00:39.380 --> 00:00:39.390 align:start position:0%
+the shortest path between vertices s and
+ 
+
+00:00:39.390 --> 00:00:42.049 align:start position:0%
+the shortest path between vertices s and
+T<00:00:39.530><c> what</c><00:00:40.530><c> about</c><00:00:40.680><c> a</c><00:00:40.710><c> cycle</c><00:00:41.160><c> how</c><00:00:41.489><c> do</c><00:00:41.550><c> we</c><00:00:41.670><c> tell</c><00:00:41.879><c> if</c><00:00:41.910><c> a</c>
+
+00:00:42.049 --> 00:00:42.059 align:start position:0%
+T what about a cycle how do we tell if a
+ 
+
+00:00:42.059 --> 00:00:44.270 align:start position:0%
+T what about a cycle how do we tell if a
+graph<00:00:42.300><c> contains</c><00:00:42.780><c> cycles</c><00:00:43.290><c> but</c><00:00:43.800><c> just</c><00:00:44.010><c> give</c><00:00:44.190><c> you</c>
+
+00:00:44.270 --> 00:00:44.280 align:start position:0%
+graph contains cycles but just give you
+ 
+
+00:00:44.280 --> 00:00:45.590 align:start position:0%
+graph contains cycles but just give you
+the<00:00:44.460><c> graph</c><00:00:44.670><c> object</c><00:00:44.879><c> and</c><00:00:45.270><c> we'll</c><00:00:45.360><c> talk</c><00:00:45.480><c> about</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+the graph object and we'll talk about
+ 
+
+00:00:45.600 --> 00:00:47.389 align:start position:0%
+the graph object and we'll talk about
+representation<00:00:46.379><c> soon</c><00:00:46.559><c> how</c><00:00:46.860><c> would</c><00:00:46.980><c> you</c><00:00:47.070><c> know</c>
+
+00:00:47.389 --> 00:00:47.399 align:start position:0%
+representation soon how would you know
+ 
+
+00:00:47.399 --> 00:00:49.490 align:start position:0%
+representation soon how would you know
+is<00:00:47.460><c> there</c><00:00:47.700><c> a</c><00:00:47.730><c> cycle</c><00:00:48.120><c> or</c><00:00:48.210><c> not</c><00:00:48.390><c> now</c><00:00:49.140><c> how</c><00:00:49.260><c> about</c><00:00:49.320><c> an</c>
+
+00:00:49.490 --> 00:00:49.500 align:start position:0%
+is there a cycle or not now how about an
+ 
+
+00:00:49.500 --> 00:00:51.979 align:start position:0%
+is there a cycle or not now how about an
+Euler<00:00:49.890><c> tour</c><00:00:49.920><c> this</c><00:00:50.850><c> is</c><00:00:51.000><c> a</c><00:00:51.030><c> cycle</c><00:00:51.570><c> that</c><00:00:51.660><c> uses</c>
+
+00:00:51.979 --> 00:00:51.989 align:start position:0%
+Euler tour this is a cycle that uses
+ 
+
+00:00:51.989 --> 00:00:55.100 align:start position:0%
+Euler tour this is a cycle that uses
+every<00:00:52.289><c> edge</c><00:00:52.440><c> exactly</c><00:00:53.010><c> one</c><00:00:53.520><c> time</c><00:00:53.930><c> how</c><00:00:54.930><c> about</c><00:00:54.989><c> a</c>
+
+00:00:55.100 --> 00:00:55.110 align:start position:0%
+every edge exactly one time how about a
+ 
+
+00:00:55.110 --> 00:00:57.380 align:start position:0%
+every edge exactly one time how about a
+Hamilton<00:00:55.620><c> tour</c><00:00:55.860><c> which</c><00:00:56.010><c> is</c><00:00:56.160><c> similar</c><00:00:56.550><c> which</c><00:00:57.210><c> is</c>
+
+00:00:57.380 --> 00:00:57.390 align:start position:0%
+Hamilton tour which is similar which is
+ 
+
+00:00:57.390 --> 00:01:01.010 align:start position:0%
+Hamilton tour which is similar which is
+not<00:00:57.719><c> related</c><00:00:58.410><c> to</c><00:00:58.739><c> the</c><00:00:59.070><c> hit</c><00:00:59.250><c> musical</c><00:00:59.820><c> haha</c><00:01:00.420><c> okay</c>
+
+00:01:01.010 --> 00:01:01.020 align:start position:0%
+not related to the hit musical haha okay
+ 
+
+00:01:01.020 --> 00:01:02.569 align:start position:0%
+not related to the hit musical haha okay
+I<00:01:01.050><c> couldn't</c><00:01:01.320><c> resist</c><00:01:01.469><c> that</c><00:01:01.710><c> Jo</c><00:01:01.949><c> it's</c><00:01:02.129><c> just</c><00:01:02.370><c> bad</c>
+
+00:01:02.569 --> 00:01:02.579 align:start position:0%
+I couldn't resist that Jo it's just bad
+ 
+
+00:01:02.579 --> 00:01:04.880 align:start position:0%
+I couldn't resist that Jo it's just bad
+leave<00:01:03.030><c> it</c><00:01:03.149><c> you</c><00:01:04.049><c> could</c><00:01:04.199><c> pretend</c><00:01:04.409><c> I</c><00:01:04.500><c> didn't</c><00:01:04.769><c> say</c>
+
+00:01:04.880 --> 00:01:04.890 align:start position:0%
+leave it you could pretend I didn't say
+ 
+
+00:01:04.890 --> 00:01:07.399 align:start position:0%
+leave it you could pretend I didn't say
+it<00:01:04.979><c> yeah</c><00:01:05.270><c> so</c><00:01:06.270><c> Hamilton</c><00:01:06.720><c> tours</c><00:01:06.930><c> is</c><00:01:07.170><c> there</c><00:01:07.380><c> a</c>
+
+00:01:07.399 --> 00:01:07.409 align:start position:0%
+it yeah so Hamilton tours is there a
+ 
+
+00:01:07.409 --> 00:01:09.590 align:start position:0%
+it yeah so Hamilton tours is there a
+cycle<00:01:07.830><c> that</c><00:01:07.860><c> uses</c><00:01:08.280><c> every</c><00:01:08.640><c> vertex</c><00:01:09.030><c> exactly</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+cycle that uses every vertex exactly
+ 
+
+00:01:09.600 --> 00:01:11.780 align:start position:0%
+cycle that uses every vertex exactly
+once<00:01:09.960><c> it's</c><00:01:10.500><c> these</c><00:01:11.040><c> two</c><00:01:11.220><c> questions</c><00:01:11.640><c> actually</c>
+
+00:01:11.780 --> 00:01:11.790 align:start position:0%
+once it's these two questions actually
+ 
+
+00:01:11.790 --> 00:01:13.580 align:start position:0%
+once it's these two questions actually
+they<00:01:12.060><c> seem</c><00:01:12.119><c> very</c><00:01:12.270><c> similar</c><00:01:12.840><c> but</c><00:01:13.200><c> one</c><00:01:13.380><c> of</c><00:01:13.409><c> them</c>
+
+00:01:13.580 --> 00:01:13.590 align:start position:0%
+they seem very similar but one of them
+ 
+
+00:01:13.590 --> 00:01:15.590 align:start position:0%
+they seem very similar but one of them
+is<00:01:13.619><c> insanely</c><00:01:14.340><c> hard</c><00:01:14.580><c> in</c><00:01:14.909><c> the</c><00:01:15.299><c> sense</c><00:01:15.509><c> that</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+is insanely hard in the sense that
+ 
+
+00:01:15.600 --> 00:01:17.240 align:start position:0%
+is insanely hard in the sense that
+writing<00:01:16.140><c> an</c><00:01:16.259><c> algorithm</c><00:01:16.500><c> that's</c><00:01:16.650><c> efficient</c><00:01:17.159><c> is</c>
+
+00:01:17.240 --> 00:01:17.250 align:start position:0%
+writing an algorithm that's efficient is
+ 
+
+00:01:17.250 --> 00:01:18.890 align:start position:0%
+writing an algorithm that's efficient is
+near<00:01:17.430><c> impossible</c><00:01:17.520><c> the</c><00:01:18.330><c> other</c><00:01:18.450><c> one</c><00:01:18.570><c> turns</c><00:01:18.750><c> out</c>
+
+00:01:18.890 --> 00:01:18.900 align:start position:0%
+near impossible the other one turns out
+ 
+
+00:01:18.900 --> 00:01:21.649 align:start position:0%
+near impossible the other one turns out
+to<00:01:19.020><c> be</c><00:01:19.140><c> fairly</c><00:01:19.409><c> easy</c><00:01:20.390><c> connectivity</c><00:01:21.390><c> is</c><00:01:21.509><c> the</c>
+
+00:01:21.649 --> 00:01:21.659 align:start position:0%
+to be fairly easy connectivity is the
+ 
+
+00:01:21.659 --> 00:01:23.510 align:start position:0%
+to be fairly easy connectivity is the
+graph<00:01:21.869><c> fully</c><00:01:22.140><c> connected</c><00:01:22.619><c> that</c><00:01:22.799><c> is</c><00:01:22.950><c> is</c><00:01:23.130><c> there</c><00:01:23.490><c> a</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+graph fully connected that is is there a
+ 
+
+00:01:23.520 --> 00:01:25.190 align:start position:0%
+graph fully connected that is is there a
+path<00:01:23.790><c> from</c><00:01:24.090><c> any</c><00:01:24.270><c> vertex</c><00:01:24.360><c> to</c><00:01:24.810><c> any</c><00:01:24.930><c> other</c><00:01:25.020><c> vertex</c>
+
+00:01:25.190 --> 00:01:25.200 align:start position:0%
+path from any vertex to any other vertex
+ 
+
+00:01:25.200 --> 00:01:29.179 align:start position:0%
+path from any vertex to any other vertex
+and<00:01:25.860><c> for</c><00:01:26.490><c> you</c><00:01:26.580><c> I</c><00:01:26.610><c> mean</c><00:01:26.909><c> being</c><00:01:27.180><c> a</c><00:01:27.330><c> primate</c><00:01:28.189><c> you</c>
+
+00:01:29.179 --> 00:01:29.189 align:start position:0%
+and for you I mean being a primate you
+ 
+
+00:01:29.189 --> 00:01:30.859 align:start position:0%
+and for you I mean being a primate you
+look<00:01:29.400><c> at</c><00:01:29.520><c> a</c><00:01:29.549><c> graph</c><00:01:29.759><c> and</c><00:01:30.000><c> you</c><00:01:30.090><c> kind</c><00:01:30.329><c> of</c><00:01:30.360><c> see</c><00:01:30.630><c> you</c>
+
+00:01:30.859 --> 00:01:30.869 align:start position:0%
+look at a graph and you kind of see you
+ 
+
+00:01:30.869 --> 00:01:32.210 align:start position:0%
+look at a graph and you kind of see you
+could<00:01:31.020><c> tell</c><00:01:31.259><c> whether</c><00:01:31.470><c> or</c><00:01:31.619><c> not</c><00:01:31.710><c> but</c><00:01:32.040><c> for</c><00:01:32.189><c> a</c>
+
+00:01:32.210 --> 00:01:32.220 align:start position:0%
+could tell whether or not but for a
+ 
+
+00:01:32.220 --> 00:01:33.710 align:start position:0%
+could tell whether or not but for a
+computer<00:01:32.430><c> of</c><00:01:32.640><c> course</c><00:01:32.670><c> it's</c><00:01:33.360><c> not</c><00:01:33.540><c> so</c><00:01:33.689><c> obvious</c>
+
+00:01:33.710 --> 00:01:33.720 align:start position:0%
+computer of course it's not so obvious
+ 
+
+00:01:33.720 --> 00:01:35.719 align:start position:0%
+computer of course it's not so obvious
+because<00:01:34.380><c> there</c><00:01:34.530><c> isn't</c><00:01:34.770><c> that</c><00:01:34.829><c> immediate</c><00:01:35.460><c> you</c>
+
+00:01:35.719 --> 00:01:35.729 align:start position:0%
+because there isn't that immediate you
+ 
+
+00:01:35.729 --> 00:01:38.210 align:start position:0%
+because there isn't that immediate you
+know<00:01:35.820><c> visual</c><00:01:36.180><c> cortex</c><00:01:36.659><c> thing</c><00:01:36.960><c> going</c><00:01:37.439><c> on</c><00:01:37.560><c> so</c>
+
+00:01:38.210 --> 00:01:38.220 align:start position:0%
+know visual cortex thing going on so
+ 
+
+00:01:38.220 --> 00:01:39.560 align:start position:0%
+know visual cortex thing going on so
+with<00:01:38.340><c> the</c><00:01:38.430><c> connectivity</c><00:01:38.790><c> this</c><00:01:39.119><c> actually</c><00:01:39.450><c> ends</c>
+
+00:01:39.560 --> 00:01:39.570 align:start position:0%
+with the connectivity this actually ends
+ 
+
+00:01:39.570 --> 00:01:40.940 align:start position:0%
+with the connectivity this actually ends
+up<00:01:39.630><c> being</c><00:01:39.689><c> a</c><00:01:40.049><c> you</c><00:01:40.320><c> know</c><00:01:40.350><c> slightly</c><00:01:40.710><c> more</c>
+
+00:01:40.940 --> 00:01:40.950 align:start position:0%
+up being a you know slightly more
+ 
+
+00:01:40.950 --> 00:01:43.190 align:start position:0%
+up being a you know slightly more
+challenging<00:01:40.979><c> no</c><00:01:41.579><c> not</c><00:01:41.729><c> a</c><00:01:41.759><c> very</c><00:01:41.970><c> hard</c><00:01:42.150><c> one</c><00:01:42.299><c> by</c>
+
+00:01:43.190 --> 00:01:43.200 align:start position:0%
+challenging no not a very hard one by
+ 
+
+00:01:43.200 --> 00:01:45.200 align:start position:0%
+challenging no not a very hard one by
+connectivity<00:01:43.860><c> is</c><00:01:44.009><c> there</c><00:01:44.549><c> some</c><00:01:44.700><c> vertex</c><00:01:45.090><c> that</c>
+
+00:01:45.200 --> 00:01:45.210 align:start position:0%
+connectivity is there some vertex that
+ 
+
+00:01:45.210 --> 00:01:46.100 align:start position:0%
+connectivity is there some vertex that
+if<00:01:45.329><c> you</c><00:01:45.450><c> destroy</c><00:01:45.899><c> it</c>
+
+00:01:46.100 --> 00:01:46.110 align:start position:0%
+if you destroy it
+ 
+
+00:01:46.110 --> 00:01:49.520 align:start position:0%
+if you destroy it
+the<00:01:46.710><c> graph</c><00:01:46.950><c> is</c><00:01:47.340><c> no</c><00:01:47.790><c> longer</c><00:01:48.180><c> connected</c><00:01:48.720><c> so</c><00:01:49.380><c> for</c>
+
+00:01:49.520 --> 00:01:49.530 align:start position:0%
+the graph is no longer connected so for
+ 
+
+00:01:49.530 --> 00:01:51.380 align:start position:0%
+the graph is no longer connected so for
+example<00:01:49.860><c> can</c><00:01:49.979><c> I</c><00:01:50.009><c> find</c><00:01:50.280><c> a</c><00:01:50.430><c> subway</c><00:01:50.820><c> station</c><00:01:51.030><c> that</c>
+
+00:01:51.380 --> 00:01:51.390 align:start position:0%
+example can I find a subway station that
+ 
+
+00:01:51.390 --> 00:01:53.300 align:start position:0%
+example can I find a subway station that
+if<00:01:51.479><c> I</c><00:01:51.570><c> eliminate</c><00:01:51.899><c> it</c><00:01:52.259><c> there's</c><00:01:52.680><c> two</c><00:01:52.860><c> distinct</c>
+
+00:01:53.300 --> 00:01:53.310 align:start position:0%
+if I eliminate it there's two distinct
+ 
+
+00:01:53.310 --> 00:01:55.520 align:start position:0%
+if I eliminate it there's two distinct
+subways<00:01:53.820><c> some</c><00:01:54.060><c> central</c><00:01:54.600><c> hub</c><00:01:54.810><c> for</c><00:01:54.840><c> example</c>
+
+00:01:55.520 --> 00:01:55.530 align:start position:0%
+subways some central hub for example
+ 
+
+00:01:55.530 --> 00:01:58.580 align:start position:0%
+subways some central hub for example
+another<00:01:56.310><c> planarity</c><00:01:57.149><c> this</c><00:01:58.140><c> one's</c><00:01:58.320><c> actually</c><00:01:58.439><c> a</c>
+
+00:01:58.580 --> 00:01:58.590 align:start position:0%
+another planarity this one's actually a
+ 
+
+00:01:58.590 --> 00:02:00.679 align:start position:0%
+another planarity this one's actually a
+very<00:01:58.860><c> interesting</c><00:01:58.950><c> one</c><00:01:59.490><c> mathematically</c><00:02:00.119><c> so</c>
+
+00:02:00.679 --> 00:02:00.689 align:start position:0%
+very interesting one mathematically so
+ 
+
+00:02:00.689 --> 00:02:03.080 align:start position:0%
+very interesting one mathematically so
+it's<00:02:00.840><c> can</c><00:02:01.170><c> you</c><00:02:01.200><c> take</c><00:02:01.530><c> the</c><00:02:01.710><c> graph</c><00:02:01.950><c> and</c><00:02:02.189><c> draw</c><00:02:02.939><c> it</c>
+
+00:02:03.080 --> 00:02:03.090 align:start position:0%
+it's can you take the graph and draw it
+ 
+
+00:02:03.090 --> 00:02:05.330 align:start position:0%
+it's can you take the graph and draw it
+on<00:02:03.270><c> a</c><00:02:03.360><c> piece</c><00:02:03.600><c> of</c><00:02:03.750><c> paper</c><00:02:03.960><c> such</c><00:02:04.350><c> that</c><00:02:04.590><c> no</c><00:02:04.860><c> edges</c>
+
+00:02:05.330 --> 00:02:05.340 align:start position:0%
+on a piece of paper such that no edges
+ 
+
+00:02:05.340 --> 00:02:07.490 align:start position:0%
+on a piece of paper such that no edges
+are<00:02:05.520><c> crossing</c><00:02:06.030><c> so</c><00:02:06.689><c> there</c><00:02:06.840><c> are</c><00:02:06.960><c> some</c><00:02:07.170><c> graphs</c>
+
+00:02:07.490 --> 00:02:07.500 align:start position:0%
+are crossing so there are some graphs
+ 
+
+00:02:07.500 --> 00:02:09.350 align:start position:0%
+are crossing so there are some graphs
+such<00:02:08.129><c> that</c><00:02:08.399><c> if</c><00:02:08.550><c> you</c><00:02:08.640><c> lay</c><00:02:08.789><c> out</c><00:02:08.819><c> the</c><00:02:09.060><c> vertices</c>
+
+00:02:09.350 --> 00:02:09.360 align:start position:0%
+such that if you lay out the vertices
+ 
+
+00:02:09.360 --> 00:02:10.910 align:start position:0%
+such that if you lay out the vertices
+just<00:02:09.750><c> right</c><00:02:09.959><c> there's</c><00:02:10.200><c> no</c><00:02:10.319><c> edges</c><00:02:10.619><c> that</c><00:02:10.739><c> cross</c>
+
+00:02:10.910 --> 00:02:10.920 align:start position:0%
+just right there's no edges that cross
+ 
+
+00:02:10.920 --> 00:02:12.559 align:start position:0%
+just right there's no edges that cross
+physically<00:02:11.610><c> but</c><00:02:12.060><c> there's</c><00:02:12.209><c> some</c><00:02:12.300><c> graphs</c><00:02:12.510><c> that</c>
+
+00:02:12.559 --> 00:02:12.569 align:start position:0%
+physically but there's some graphs that
+ 
+
+00:02:12.569 --> 00:02:13.820 align:start position:0%
+physically but there's some graphs that
+actually<00:02:12.900><c> physically</c><00:02:13.230><c> come</c><00:02:13.500><c> out</c>
+
+00:02:13.820 --> 00:02:13.830 align:start position:0%
+actually physically come out
+ 
+
+00:02:13.830 --> 00:02:16.310 align:start position:0%
+actually physically come out
+those<00:02:14.040><c> are</c><00:02:14.160><c> non</c><00:02:14.340><c> planar</c><00:02:14.670><c> graphs</c><00:02:15.030><c> and</c><00:02:15.810><c> this</c><00:02:16.200><c> is</c>
+
+00:02:16.310 --> 00:02:16.320 align:start position:0%
+those are non planar graphs and this is
+ 
+
+00:02:16.320 --> 00:02:18.250 align:start position:0%
+those are non planar graphs and this is
+actually<00:02:16.680><c> a</c><00:02:16.710><c> pretty</c><00:02:16.890><c> interesting</c><00:02:16.980><c> problem</c>
+
+00:02:18.250 --> 00:02:18.260 align:start position:0%
+actually a pretty interesting problem
+ 
+
+00:02:18.260 --> 00:02:21.040 align:start position:0%
+actually a pretty interesting problem
+isomorphism<00:02:19.260><c> this</c><00:02:19.530><c> is</c><00:02:19.710><c> perhaps</c><00:02:19.890><c> the</c><00:02:20.100><c> most</c>
+
+00:02:21.040 --> 00:02:21.050 align:start position:0%
+isomorphism this is perhaps the most
+ 
+
+00:02:21.050 --> 00:02:23.330 align:start position:0%
+isomorphism this is perhaps the most
+fascinating<00:02:22.050><c> mathematically</c><00:02:23.010><c> which</c><00:02:23.160><c> is</c>
+
+00:02:23.330 --> 00:02:23.340 align:start position:0%
+fascinating mathematically which is
+ 
+
+00:02:23.340 --> 00:02:25.130 align:start position:0%
+fascinating mathematically which is
+given<00:02:23.910><c> to</c><00:02:23.940><c> graph</c><00:02:24.240><c> so</c><00:02:24.450><c> they</c><00:02:24.540><c> actually</c><00:02:24.690><c> the</c><00:02:24.930><c> same</c>
+
+00:02:25.130 --> 00:02:25.140 align:start position:0%
+given to graph so they actually the same
+ 
+
+00:02:25.140 --> 00:02:26.540 align:start position:0%
+given to graph so they actually the same
+graph<00:02:25.440><c> like</c><00:02:25.710><c> maybe</c><00:02:25.920><c> you</c><00:02:26.040><c> just</c><00:02:26.190><c> took</c><00:02:26.340><c> the</c>
+
+00:02:26.540 --> 00:02:26.550 align:start position:0%
+graph like maybe you just took the
+ 
+
+00:02:26.550 --> 00:02:28.610 align:start position:0%
+graph like maybe you just took the
+vertices<00:02:26.940><c> and</c><00:02:27.150><c> move</c><00:02:27.300><c> them</c><00:02:27.450><c> around</c><00:02:27.570><c> and</c><00:02:28.440><c> this</c>
+
+00:02:28.610 --> 00:02:28.620 align:start position:0%
+vertices and move them around and this
+ 
+
+00:02:28.620 --> 00:02:30.620 align:start position:0%
+vertices and move them around and this
+has<00:02:28.800><c> been</c><00:02:28.890><c> a</c><00:02:28.950><c> long-standing</c><00:02:29.220><c> dispute</c><00:02:29.850><c> in</c>
+
+00:02:30.620 --> 00:02:30.630 align:start position:0%
+has been a long-standing dispute in
+ 
+
+00:02:30.630 --> 00:02:32.840 align:start position:0%
+has been a long-standing dispute in
+mathematics<00:02:31.200><c> whether</c><00:02:31.590><c> or</c><00:02:31.770><c> not</c><00:02:31.890><c> an</c><00:02:32.460><c> algorithm</c>
+
+00:02:32.840 --> 00:02:32.850 align:start position:0%
+mathematics whether or not an algorithm
+ 
+
+00:02:32.850 --> 00:02:35.570 align:start position:0%
+mathematics whether or not an algorithm
+for<00:02:33.540><c> this</c><00:02:33.750><c> has</c><00:02:34.470><c> a</c><00:02:34.500><c> certain</c><00:02:34.920><c> runtime</c><00:02:35.400><c> the</c>
+
+00:02:35.570 --> 00:02:35.580 align:start position:0%
+for this has a certain runtime the
+ 
+
+00:02:35.580 --> 00:02:37.250 align:start position:0%
+for this has a certain runtime the
+optimal<00:02:36.030><c> algorithm</c><00:02:36.330><c> and</c><00:02:36.720><c> I'm</c><00:02:36.840><c> not</c><00:02:36.990><c> gonna</c><00:02:37.110><c> talk</c>
+
+00:02:37.250 --> 00:02:37.260 align:start position:0%
+optimal algorithm and I'm not gonna talk
+ 
+
+00:02:37.260 --> 00:02:39.170 align:start position:0%
+optimal algorithm and I'm not gonna talk
+about<00:02:37.530><c> it</c><00:02:37.650><c> much</c><00:02:37.740><c> on</c><00:02:37.920><c> this</c><00:02:38.070><c> level</c><00:02:38.250><c> and</c><00:02:39.000><c> so</c>
+
+00:02:39.170 --> 00:02:39.180 align:start position:0%
+about it much on this level and so
+ 
+
+00:02:39.180 --> 00:02:40.910 align:start position:0%
+about it much on this level and so
+what's<00:02:39.390><c> interesting</c><00:02:39.570><c> about</c><00:02:39.780><c> graphs</c><00:02:40.200><c> again</c><00:02:40.710><c> is</c>
+
+00:02:40.910 --> 00:02:40.920 align:start position:0%
+what's interesting about graphs again is
+ 
+
+00:02:40.920 --> 00:02:42.620 align:start position:0%
+what's interesting about graphs again is
+that<00:02:41.100><c> these</c><00:02:41.580><c> problems</c><00:02:41.820><c> are</c><00:02:41.970><c> often</c><00:02:42.150><c> easy</c><00:02:42.510><c> to</c>
+
+00:02:42.620 --> 00:02:42.630 align:start position:0%
+that these problems are often easy to
+ 
+
+00:02:42.630 --> 00:02:44.510 align:start position:0%
+that these problems are often easy to
+state<00:02:42.960><c> but</c><00:02:43.470><c> they</c><00:02:43.560><c> can</c><00:02:43.680><c> be</c><00:02:43.800><c> super</c><00:02:44.130><c> hard</c><00:02:44.280><c> and</c><00:02:44.460><c> in</c>
+
+00:02:44.510 --> 00:02:44.520 align:start position:0%
+state but they can be super hard and in
+ 
+
+00:02:44.520 --> 00:02:46.310 align:start position:0%
+state but they can be super hard and in
+fact<00:02:44.670><c> it's</c><00:02:44.880><c> not</c><00:02:45.240><c> obvious</c><00:02:45.720><c> whether</c><00:02:46.110><c> or</c><00:02:46.230><c> not</c>
+
+00:02:46.310 --> 00:02:46.320 align:start position:0%
+fact it's not obvious whether or not
+ 
+
+00:02:46.320 --> 00:02:47.480 align:start position:0%
+fact it's not obvious whether or not
+they're<00:02:46.500><c> easy</c><00:02:46.710><c> they're</c><00:02:46.860><c> hard</c><00:02:47.340><c> they're</c>
+
+00:02:47.480 --> 00:02:47.490 align:start position:0%
+they're easy they're hard they're
+ 
+
+00:02:47.490 --> 00:02:50.000 align:start position:0%
+they're easy they're hard they're
+actually<00:02:47.970><c> computationally</c><00:02:48.690><c> intractable</c><00:02:49.010><c> so</c>
+
+00:02:50.000 --> 00:02:50.010 align:start position:0%
+actually computationally intractable so
+ 
+
+00:02:50.010 --> 00:02:52.310 align:start position:0%
+actually computationally intractable so
+just<00:02:50.370><c> look</c><00:02:50.580><c> at</c><00:02:50.730><c> a</c><00:02:50.760><c> glance</c><00:02:51.090><c> these</c><00:02:51.900><c> different</c>
+
+00:02:52.310 --> 00:02:52.320 align:start position:0%
+just look at a glance these different
+ 
+
+00:02:52.320 --> 00:02:54.100 align:start position:0%
+just look at a glance these different
+problems<00:02:52.590><c> they're</c><00:02:52.710><c> all</c><00:02:52.830><c> part</c><00:02:53.100><c> of</c><00:02:53.160><c> a</c><00:02:53.250><c> different</c>
+
+00:02:54.100 --> 00:02:54.110 align:start position:0%
+problems they're all part of a different
+ 
+
+00:02:54.110 --> 00:02:56.570 align:start position:0%
+problems they're all part of a different
+complexity<00:02:55.110><c> classes</c><00:02:55.380><c> the</c><00:02:55.710><c> word</c><00:02:55.860><c> some</c><00:02:56.460><c> are</c>
+
+00:02:56.570 --> 00:02:56.580 align:start position:0%
+complexity classes the word some are
+ 
+
+00:02:56.580 --> 00:02:58.040 align:start position:0%
+complexity classes the word some are
+easy<00:02:56.730><c> some</c><00:02:56.850><c> are</c><00:02:57.180><c> hard</c><00:02:57.390><c> some</c><00:02:57.660><c> are</c><00:02:57.750><c> intractable</c>
+
+00:02:58.040 --> 00:02:58.050 align:start position:0%
+easy some are hard some are intractable
+ 
+
+00:02:58.050 --> 00:03:00.530 align:start position:0%
+easy some are hard some are intractable
+and<00:02:58.650><c> and</c><00:02:59.400><c> sometimes</c><00:02:59.730><c> it's</c><00:02:59.910><c> hard</c><00:02:59.970><c> to</c><00:03:00.120><c> tell</c>
+
+00:03:00.530 --> 00:03:00.540 align:start position:0%
+and and sometimes it's hard to tell
+ 
+
+00:03:00.540 --> 00:03:02.450 align:start position:0%
+and and sometimes it's hard to tell
+that's<00:03:01.140><c> a</c><00:03:01.230><c> nice</c><00:03:01.410><c> neat</c><00:03:01.710><c> feature</c><00:03:01.950><c> of</c><00:03:02.100><c> graphs</c>
+
+00:03:02.450 --> 00:03:02.460 align:start position:0%
+that's a nice neat feature of graphs
+ 
+
+00:03:02.460 --> 00:03:03.530 align:start position:0%
+that's a nice neat feature of graphs
+right<00:03:02.760><c> if</c><00:03:02.910><c> you're</c><00:03:03.030><c> somebody's</c><00:03:03.390><c> a</c><00:03:03.450><c> little</c>
+
+00:03:03.530 --> 00:03:03.540 align:start position:0%
+right if you're somebody's a little
+ 
+
+00:03:03.540 --> 00:03:05.540 align:start position:0%
+right if you're somebody's a little
+mathematically<00:03:04.200><c> inclined</c><00:03:04.560><c> there's</c><00:03:05.070><c> so</c><00:03:05.370><c> much</c>
+
+00:03:05.540 --> 00:03:05.550 align:start position:0%
+mathematically inclined there's so much
+ 
+
+00:03:05.550 --> 00:03:07.430 align:start position:0%
+mathematically inclined there's so much
+richness<00:03:05.850><c> here</c><00:03:06.330><c> and</c><00:03:06.510><c> if</c><00:03:06.780><c> you</c><00:03:06.870><c> get</c><00:03:07.020><c> involved</c>
+
+00:03:07.430 --> 00:03:07.440 align:start position:0%
+richness here and if you get involved
+ 
+
+00:03:07.440 --> 00:03:09.590 align:start position:0%
+richness here and if you get involved
+for<00:03:07.590><c> example</c><00:03:07.710><c> in</c><00:03:08.100><c> CS</c><00:03:08.400><c> theory</c><00:03:08.820><c> one</c><00:03:09.240><c> of</c><00:03:09.360><c> the</c><00:03:09.420><c> many</c>
+
+00:03:09.590 --> 00:03:09.600 align:start position:0%
+for example in CS theory one of the many
+ 
+
+00:03:09.600 --> 00:03:11.000 align:start position:0%
+for example in CS theory one of the many
+things<00:03:09.780><c> that</c><00:03:09.930><c> this</c><00:03:10.170><c> class</c><00:03:10.380><c> likes</c><00:03:10.710><c> to</c><00:03:10.860><c> give</c>
+
+00:03:11.000 --> 00:03:11.010 align:start position:0%
+things that this class likes to give
+ 
+
+00:03:11.010 --> 00:03:13.670 align:start position:0%
+things that this class likes to give
+hints<00:03:11.310><c> of</c><00:03:11.520><c> what</c><00:03:11.700><c> CS</c><00:03:12.060><c> is</c><00:03:12.240><c> like</c><00:03:12.420><c> the</c><00:03:13.170><c> graphs</c><00:03:13.440><c> are</c>
+
+00:03:13.670 --> 00:03:13.680 align:start position:0%
+hints of what CS is like the graphs are
+ 
+
+00:03:13.680 --> 00:03:16.880 align:start position:0%
+hints of what CS is like the graphs are
+one<00:03:13.800><c> of</c><00:03:13.920><c> the</c><00:03:14.130><c> richest</c><00:03:14.640><c> areas</c><00:03:15.090><c> for</c><00:03:15.390><c> theory</c><00:03:15.890><c> so</c>
+
+00:03:16.880 --> 00:03:16.890 align:start position:0%
+one of the richest areas for theory so
+ 
+
+00:03:16.890 --> 00:03:18.440 align:start position:0%
+one of the richest areas for theory so
+some<00:03:17.040><c> examples</c><00:03:17.520><c> of</c><00:03:17.670><c> graphs</c><00:03:17.880><c> okay</c><00:03:18.180><c> we</c><00:03:18.300><c> saw</c>
+
+00:03:18.440 --> 00:03:18.450 align:start position:0%
+some examples of graphs okay we saw
+ 
+
+00:03:18.450 --> 00:03:21.170 align:start position:0%
+some examples of graphs okay we saw
+before<00:03:18.840><c> the</c><00:03:19.410><c> Paris</c><00:03:19.709><c> metro</c><00:03:20.100><c> and</c><00:03:20.790><c> so</c><00:03:20.940><c> with</c><00:03:21.150><c> our</c>
+
+00:03:21.170 --> 00:03:21.180 align:start position:0%
+before the Paris metro and so with our
+ 
+
+00:03:21.180 --> 00:03:22.729 align:start position:0%
+before the Paris metro and so with our
+eyes<00:03:21.510><c> we</c><00:03:21.780><c> can</c><00:03:21.930><c> already</c><00:03:22.050><c> see</c><00:03:22.290><c> a</c><00:03:22.320><c> number</c><00:03:22.650><c> of</c>
+
+00:03:22.729 --> 00:03:22.739 align:start position:0%
+eyes we can already see a number of
+ 
+
+00:03:22.739 --> 00:03:24.050 align:start position:0%
+eyes we can already see a number of
+traits<00:03:23.160><c> the</c><00:03:23.580><c> graphs</c>
+
+00:03:24.050 --> 00:03:24.060 align:start position:0%
+traits the graphs
+ 
+
+00:03:24.060 --> 00:03:25.910 align:start position:0%
+traits the graphs
+undirected<00:03:24.480><c> and</c><00:03:24.989><c> that's</c><00:03:25.170><c> easy</c><00:03:25.410><c> you</c><00:03:25.590><c> can</c><00:03:25.739><c> tell</c>
+
+00:03:25.910 --> 00:03:25.920 align:start position:0%
+undirected and that's easy you can tell
+ 
+
+00:03:25.920 --> 00:03:27.800 align:start position:0%
+undirected and that's easy you can tell
+instantly<00:03:26.310><c> there's</c><00:03:27.000><c> no</c><00:03:27.090><c> algorithm</c><00:03:27.390><c> for</c><00:03:27.660><c> that</c>
+
+00:03:27.800 --> 00:03:27.810 align:start position:0%
+instantly there's no algorithm for that
+ 
+
+00:03:27.810 --> 00:03:29.990 align:start position:0%
+instantly there's no algorithm for that
+now<00:03:28.320><c> you</c><00:03:28.410><c> can</c><00:03:28.530><c> tell</c><00:03:28.680><c> it's</c><00:03:28.800><c> connected</c><00:03:29.280><c> and</c><00:03:29.760><c> in</c>
+
+00:03:29.990 --> 00:03:30.000 align:start position:0%
+now you can tell it's connected and in
+ 
+
+00:03:30.000 --> 00:03:31.280 align:start position:0%
+now you can tell it's connected and in
+that<00:03:30.150><c> case</c><00:03:30.390><c> you</c><00:03:30.540><c> would</c><00:03:30.600><c> actually</c><00:03:30.780><c> need</c><00:03:30.930><c> to</c><00:03:31.170><c> do</c>
+
+00:03:31.280 --> 00:03:31.290 align:start position:0%
+that case you would actually need to do
+ 
+
+00:03:31.290 --> 00:03:33.110 align:start position:0%
+that case you would actually need to do
+some<00:03:31.500><c> more</c><00:03:31.770><c> sophisticated</c><00:03:32.400><c> work</c><00:03:32.670><c> to</c><00:03:32.880><c> see</c><00:03:33.030><c> if</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+some more sophisticated work to see if
+ 
+
+00:03:33.120 --> 00:03:34.729 align:start position:0%
+some more sophisticated work to see if
+they're<00:03:33.330><c> all</c><00:03:33.530><c> connected</c>
+
+00:03:34.729 --> 00:03:34.739 align:start position:0%
+they're all connected
+ 
+
+00:03:34.739 --> 00:03:36.650 align:start position:0%
+they're all connected
+so<00:03:35.160><c> as</c><00:03:35.370><c> an</c><00:03:35.520><c> algorithmic</c><00:03:36.000><c> problem</c><00:03:36.300><c> this</c><00:03:36.480><c> is</c>
+
+00:03:36.650 --> 00:03:36.660 align:start position:0%
+so as an algorithmic problem this is
+ 
+
+00:03:36.660 --> 00:03:39.890 align:start position:0%
+so as an algorithmic problem this is
+non-trivial<00:03:37.080><c> but</c><00:03:37.530><c> pretty</c><00:03:38.160><c> easy</c><00:03:38.310><c> it</c><00:03:39.150><c> is</c><00:03:39.300><c> cyclic</c>
+
+00:03:39.890 --> 00:03:39.900 align:start position:0%
+non-trivial but pretty easy it is cyclic
+ 
+
+00:03:39.900 --> 00:03:42.229 align:start position:0%
+non-trivial but pretty easy it is cyclic
+right<00:03:40.620><c> so</c><00:03:40.770><c> if</c><00:03:40.860><c> we</c><00:03:40.920><c> look</c><00:03:41.070><c> there</c><00:03:41.250><c> are</c><00:03:41.430><c> cycles</c>
+
+00:03:42.229 --> 00:03:42.239 align:start position:0%
+right so if we look there are cycles
+ 
+
+00:03:42.239 --> 00:03:46.490 align:start position:0%
+right so if we look there are cycles
+here<00:03:42.360><c> it's</c><00:03:42.630><c> not</c><00:03:42.810><c> a</c><00:03:42.870><c> tree</c><00:03:43.230><c> we</c><00:03:44.190><c> can</c><00:03:44.340><c> go</c><00:03:44.959><c> like</c><00:03:45.959><c> for</c>
+
+00:03:46.490 --> 00:03:46.500 align:start position:0%
+here it's not a tree we can go like for
+ 
+
+00:03:46.500 --> 00:03:49.220 align:start position:0%
+here it's not a tree we can go like for
+example<00:03:46.560><c> we</c><00:03:47.070><c> can</c><00:03:47.220><c> go</c><00:03:47.540><c> here</c><00:03:48.540><c> right</c><00:03:48.900><c> that's</c><00:03:49.140><c> a</c>
+
+00:03:49.220 --> 00:03:49.230 align:start position:0%
+example we can go here right that's a
+ 
+
+00:03:49.230 --> 00:03:52.760 align:start position:0%
+example we can go here right that's a
+cycle<00:03:49.610><c> and</c><00:03:50.610><c> it</c><00:03:50.940><c> is</c><00:03:51.060><c> vertex</c><00:03:51.540><c> labeled</c><00:03:52.170><c> in</c><00:03:52.320><c> this</c>
+
+00:03:52.760 --> 00:03:52.770 align:start position:0%
+cycle and it is vertex labeled in this
+ 
+
+00:03:52.770 --> 00:03:54.500 align:start position:0%
+cycle and it is vertex labeled in this
+sense<00:03:52.980><c> each</c><00:03:53.160><c> vertex</c><00:03:53.550><c> has</c><00:03:53.670><c> a</c><00:03:53.790><c> color</c><00:03:54.060><c> so</c><00:03:54.300><c> we</c><00:03:54.390><c> can</c>
+
+00:03:54.500 --> 00:03:54.510 align:start position:0%
+sense each vertex has a color so we can
+ 
+
+00:03:54.510 --> 00:03:56.990 align:start position:0%
+sense each vertex has a color so we can
+think<00:03:54.600><c> of</c><00:03:54.690><c> that</c><00:03:54.810><c> as</c><00:03:54.959><c> a</c><00:03:54.989><c> label</c><00:03:55.280><c> and</c><00:03:56.280><c> so</c><00:03:56.430><c> telling</c>
+
+00:03:56.990 --> 00:03:57.000 align:start position:0%
+think of that as a label and so telling
+ 
+
+00:03:57.000 --> 00:03:58.760 align:start position:0%
+think of that as a label and so telling
+this<00:03:57.120><c> connected</c><00:03:57.600><c> or</c><00:03:57.720><c> cyclic</c><00:03:58.050><c> is</c><00:03:58.230><c> actually</c><00:03:58.739><c> a</c>
+
+00:03:58.760 --> 00:03:58.770 align:start position:0%
+this connected or cyclic is actually a
+ 
+
+00:03:58.770 --> 00:04:00.560 align:start position:0%
+this connected or cyclic is actually a
+computational<00:03:59.580><c> problem</c><00:03:59.760><c> the</c><00:04:00.180><c> both</c><00:04:00.360><c> of</c><00:04:00.390><c> those</c>
+
+00:04:00.560 --> 00:04:00.570 align:start position:0%
+computational problem the both of those
+ 
+
+00:04:00.570 --> 00:04:01.479 align:start position:0%
+computational problem the both of those
+are<00:04:00.720><c> actually</c><00:04:00.930><c> pretty</c><00:04:01.050><c> easy</c>
+
+00:04:01.479 --> 00:04:01.489 align:start position:0%
+are actually pretty easy
+ 
+
+00:04:01.489 --> 00:04:04.970 align:start position:0%
+are actually pretty easy
+how<00:04:02.489><c> about</c><00:04:02.610><c> Bart</c><00:04:03.060><c> so</c><00:04:03.870><c> the</c><00:04:04.110><c> Bay</c><00:04:04.230><c> Area</c><00:04:04.530><c> Rapid</c>
+
+00:04:04.970 --> 00:04:04.980 align:start position:0%
+how about Bart so the Bay Area Rapid
+ 
+
+00:04:04.980 --> 00:04:07.310 align:start position:0%
+how about Bart so the Bay Area Rapid
+Transit<00:04:05.220><c> System</c><00:04:05.520><c> in</c><00:04:05.910><c> the</c><00:04:06.660><c> San</c><00:04:06.810><c> Francisco</c><00:04:07.200><c> Bay</c>
+
+00:04:07.310 --> 00:04:07.320 align:start position:0%
+Transit System in the San Francisco Bay
+ 
+
+00:04:07.320 --> 00:04:12.620 align:start position:0%
+Transit System in the San Francisco Bay
+Area<00:04:07.350><c> question</c><00:04:08.160><c> for</c><00:04:08.310><c> you</c><00:04:08.370><c> is</c><00:04:08.580><c> it</c><00:04:08.850><c> a</c><00:04:09.030><c> tree</c><00:04:11.630><c> in</c>
+
+00:04:12.620 --> 00:04:12.630 align:start position:0%
+Area question for you is it a tree in
+ 
+
+00:04:12.630 --> 00:04:16.400 align:start position:0%
+Area question for you is it a tree in
+other<00:04:12.810><c> words</c><00:04:12.959><c> are</c><00:04:13.110><c> there</c><00:04:13.230><c> cycles</c><00:04:15.200><c> okay</c>
+
+00:04:16.400 --> 00:04:16.410 align:start position:0%
+other words are there cycles okay
+ 
+
+00:04:16.410 --> 00:04:17.960 align:start position:0%
+other words are there cycles okay
+well<00:04:16.950><c> well</c><00:04:17.130><c> notice</c><00:04:17.400><c> there</c><00:04:17.549><c> is</c><00:04:17.640><c> actually</c><00:04:17.940><c> one</c>
+
+00:04:17.960 --> 00:04:17.970 align:start position:0%
+well well notice there is actually one
+ 
+
+00:04:17.970 --> 00:04:20.270 align:start position:0%
+well well notice there is actually one
+little<00:04:18.299><c> cycle</c><00:04:18.690><c> here</c><00:04:19.049><c> though</c><00:04:19.799><c> it's</c><00:04:19.980><c> kind</c><00:04:20.220><c> of</c>
+
+00:04:20.270 --> 00:04:20.280 align:start position:0%
+little cycle here though it's kind of
+ 
+
+00:04:20.280 --> 00:04:22.099 align:start position:0%
+little cycle here though it's kind of
+tricky<00:04:20.549><c> because</c><00:04:20.790><c> these</c><00:04:21.209><c> edges</c><00:04:21.570><c> don't</c><00:04:21.780><c> exist</c>
+
+00:04:22.099 --> 00:04:22.109 align:start position:0%
+tricky because these edges don't exist
+ 
+
+00:04:22.109 --> 00:04:24.260 align:start position:0%
+tricky because these edges don't exist
+at<00:04:22.229><c> the</c><00:04:22.350><c> same</c><00:04:22.530><c> time</c><00:04:22.770><c> of</c><00:04:22.919><c> day</c><00:04:23.070><c> so</c><00:04:23.100><c> I</c><00:04:23.640><c> guess</c><00:04:24.000><c> I</c>
+
+00:04:24.260 --> 00:04:24.270 align:start position:0%
+at the same time of day so I guess I
+ 
+
+00:04:24.270 --> 00:04:25.730 align:start position:0%
+at the same time of day so I guess I
+would<00:04:24.419><c> call</c><00:04:24.450><c> it</c><00:04:24.690><c> a</c><00:04:24.720><c> cycle</c><00:04:24.930><c> but</c><00:04:25.410><c> maybe</c><00:04:25.590><c> you</c>
+
+00:04:25.730 --> 00:04:25.740 align:start position:0%
+would call it a cycle but maybe you
+ 
+
+00:04:25.740 --> 00:04:27.600 align:start position:0%
+would call it a cycle but maybe you
+don't<00:04:25.979><c> because</c><00:04:26.160><c> you</c><00:04:26.520><c> know</c><00:04:26.610><c> these</c><00:04:26.820><c> two</c><00:04:27.000><c> edges</c>
+
+00:04:27.600 --> 00:04:27.610 align:start position:0%
+don't because you know these two edges
+ 
+
+00:04:27.610 --> 00:04:29.309 align:start position:0%
+don't because you know these two edges
+they<00:04:27.879><c> never</c><00:04:28.030><c> they</c><00:04:28.270><c> never</c><00:04:28.360><c> exist</c><00:04:28.930><c> at</c><00:04:29.050><c> the</c><00:04:29.169><c> same</c>
+
+00:04:29.309 --> 00:04:29.319 align:start position:0%
+they never they never exist at the same
+ 
+
+00:04:29.319 --> 00:04:32.159 align:start position:0%
+they never they never exist at the same
+time<00:04:29.560><c> at</c><00:04:29.770><c> least</c><00:04:29.830><c> under</c><00:04:30.310><c> these</c><00:04:30.460><c> rules</c><00:04:31.169><c> another</c>
+
+00:04:32.159 --> 00:04:32.169 align:start position:0%
+time at least under these rules another
+ 
+
+00:04:32.169 --> 00:04:34.469 align:start position:0%
+time at least under these rules another
+example<00:04:32.620><c> is</c><00:04:32.770><c> this</c><00:04:33.099><c> is</c><00:04:33.280><c> a</c><00:04:33.310><c> very</c><00:04:33.460><c> old</c><00:04:33.699><c> photo</c><00:04:34.210><c> here</c>
+
+00:04:34.469 --> 00:04:34.479 align:start position:0%
+example is this is a very old photo here
+ 
+
+00:04:34.479 --> 00:04:36.390 align:start position:0%
+example is this is a very old photo here
+now<00:04:34.659><c> for</c><00:04:34.719><c> our</c><00:04:35.050><c> site</c><00:04:35.319><c> figure</c><00:04:35.560><c> from</c><00:04:36.069><c> December</c>
+
+00:04:36.390 --> 00:04:36.400 align:start position:0%
+now for our site figure from December
+ 
+
+00:04:36.400 --> 00:04:39.270 align:start position:0%
+now for our site figure from December
+2010<00:04:36.819><c> but</c><00:04:37.539><c> in</c><00:04:37.629><c> this</c><00:04:37.750><c> case</c><00:04:37.930><c> someone</c><00:04:38.919><c> created</c><00:04:39.219><c> a</c>
+
+00:04:39.270 --> 00:04:39.280 align:start position:0%
+2010 but in this case someone created a
+ 
+
+00:04:39.280 --> 00:04:41.610 align:start position:0%
+2010 but in this case someone created a
+neat<00:04:39.460><c> little</c><00:04:39.580><c> graph</c><00:04:39.909><c> to</c><00:04:40.300><c> show</c><00:04:40.620><c> connections</c>
+
+00:04:41.610 --> 00:04:41.620 align:start position:0%
+neat little graph to show connections
+ 
+
+00:04:41.620 --> 00:04:44.999 align:start position:0%
+neat little graph to show connections
+between<00:04:42.030><c> cities</c><00:04:43.030><c> so</c><00:04:43.629><c> in</c><00:04:44.229><c> other</c><00:04:44.439><c> words</c><00:04:44.590><c> if</c><00:04:44.800><c> I</c>
+
+00:04:44.999 --> 00:04:45.009 align:start position:0%
+between cities so in other words if I
+ 
+
+00:04:45.009 --> 00:04:47.429 align:start position:0%
+between cities so in other words if I
+see<00:04:45.219><c> an</c><00:04:45.310><c> edge</c><00:04:45.490><c> from</c><00:04:46.199><c> presumably</c><00:04:47.199><c> this</c><00:04:47.379><c> is</c>
+
+00:04:47.429 --> 00:04:47.439 align:start position:0%
+see an edge from presumably this is
+ 
+
+00:04:47.439 --> 00:04:51.029 align:start position:0%
+see an edge from presumably this is
+Honolulu<00:04:48.129><c> to</c><00:04:48.669><c> Seattle</c><00:04:49.659><c> and</c><00:04:49.810><c> so</c><00:04:49.960><c> forth</c><00:04:50.199><c> that</c><00:04:50.979><c> is</c>
+
+00:04:51.029 --> 00:04:51.039 align:start position:0%
+Honolulu to Seattle and so forth that is
+ 
+
+00:04:51.039 --> 00:04:53.070 align:start position:0%
+Honolulu to Seattle and so forth that is
+the<00:04:51.639><c> weight</c><00:04:51.969><c> of</c><00:04:52.180><c> the</c><00:04:52.300><c> edge</c><00:04:52.419><c> that</c><00:04:52.719><c> is</c><00:04:52.870><c> the</c>
+
+00:04:53.070 --> 00:04:53.080 align:start position:0%
+the weight of the edge that is the
+ 
+
+00:04:53.080 --> 00:04:55.350 align:start position:0%
+the weight of the edge that is the
+intensity<00:04:53.770><c> of</c><00:04:54.069><c> each</c><00:04:54.250><c> edge</c><00:04:54.520><c> is</c><00:04:54.759><c> the</c><00:04:55.090><c> number</c><00:04:55.330><c> of</c>
+
+00:04:55.350 --> 00:04:55.360 align:start position:0%
+intensity of each edge is the number of
+ 
+
+00:04:55.360 --> 00:04:58.950 align:start position:0%
+intensity of each edge is the number of
+friends<00:04:55.750><c> between</c><00:04:55.990><c> cities</c><00:04:56.590><c> and</c><00:04:56.830><c> the</c><00:04:57.780><c> in</c><00:04:58.780><c> this</c>
+
+00:04:58.950 --> 00:04:58.960 align:start position:0%
+friends between cities and the in this
+ 
+
+00:04:58.960 --> 00:05:01.459 align:start position:0%
+friends between cities and the in this
+figure<00:04:59.289><c> then</c><00:04:59.469><c> a</c><00:04:59.500><c> bright</c><00:05:00.219><c> edge</c><00:05:00.460><c> indicates</c><00:05:01.150><c> a</c>
+
+00:05:01.459 --> 00:05:01.469 align:start position:0%
+figure then a bright edge indicates a
+ 
+
+00:05:01.469 --> 00:05:03.540 align:start position:0%
+figure then a bright edge indicates a
+larger<00:05:02.469><c> number</c><00:05:02.620><c> of</c><00:05:02.740><c> friends</c><00:05:03.069><c> between</c><00:05:03.310><c> those</c>
+
+00:05:03.540 --> 00:05:03.550 align:start position:0%
+larger number of friends between those
+ 
+
+00:05:03.550 --> 00:05:04.800 align:start position:0%
+larger number of friends between those
+places<00:05:03.789><c> it's</c><00:05:04.389><c> also</c><00:05:04.509><c> kind</c><00:05:04.719><c> of</c><00:05:04.750><c> interesting</c>
+
+00:05:04.800 --> 00:05:04.810 align:start position:0%
+places it's also kind of interesting
+ 
+
+00:05:04.810 --> 00:05:06.689 align:start position:0%
+places it's also kind of interesting
+because<00:05:05.199><c> you</c><00:05:05.439><c> can</c><00:05:05.560><c> see</c><00:05:05.620><c> that</c><00:05:05.889><c> there</c><00:05:06.099><c> some</c>
+
+00:05:06.689 --> 00:05:06.699 align:start position:0%
+because you can see that there some
+ 
+
+00:05:06.699 --> 00:05:08.339 align:start position:0%
+because you can see that there some
+places<00:05:06.969><c> in</c><00:05:07.210><c> the</c><00:05:07.240><c> world</c><00:05:07.330><c> that</c><00:05:07.659><c> have</c><00:05:07.900><c> lots</c><00:05:08.169><c> of</c>
+
+00:05:08.339 --> 00:05:08.349 align:start position:0%
+places in the world that have lots of
+ 
+
+00:05:08.349 --> 00:05:10.980 align:start position:0%
+places in the world that have lots of
+people<00:05:08.620><c> that</c><00:05:08.979><c> at</c><00:05:09.129><c> least</c><00:05:09.279><c> as</c><00:05:09.490><c> of</c><00:05:09.729><c> 2010</c><00:05:10.300><c> did</c><00:05:10.810><c> not</c>
+
+00:05:10.980 --> 00:05:10.990 align:start position:0%
+people that at least as of 2010 did not
+ 
+
+00:05:10.990 --> 00:05:13.709 align:start position:0%
+people that at least as of 2010 did not
+have<00:05:11.169><c> many</c><00:05:11.319><c> people</c><00:05:11.620><c> on</c><00:05:11.710><c> Facebook</c><00:05:12.599><c> so</c><00:05:13.599><c> it's</c>
+
+00:05:13.709 --> 00:05:13.719 align:start position:0%
+have many people on Facebook so it's
+ 
+
+00:05:13.719 --> 00:05:15.510 align:start position:0%
+have many people on Facebook so it's
+kind<00:05:13.900><c> of</c><00:05:13.930><c> cute</c><00:05:14.110><c> you</c><00:05:14.379><c> can</c><00:05:14.529><c> see</c><00:05:14.650><c> this</c><00:05:14.800><c> as</c><00:05:14.979><c> a</c><00:05:15.009><c> neat</c>
+
+00:05:15.510 --> 00:05:15.520 align:start position:0%
+kind of cute you can see this as a neat
+ 
+
+00:05:15.520 --> 00:05:19.019 align:start position:0%
+kind of cute you can see this as a neat
+visualization<00:05:16.500><c> another</c><00:05:17.500><c> cool</c><00:05:17.710><c> example</c><00:05:18.029><c> is</c>
+
+00:05:19.019 --> 00:05:19.029 align:start position:0%
+visualization another cool example is
+ 
+
+00:05:19.029 --> 00:05:22.140 align:start position:0%
+visualization another cool example is
+this<00:05:19.779><c> graph</c><00:05:20.050><c> of</c><00:05:20.259><c> scientific</c><00:05:20.949><c> journals</c><00:05:21.279><c> so</c><00:05:22.060><c> in</c>
+
+00:05:22.140 --> 00:05:22.150 align:start position:0%
+this graph of scientific journals so in
+ 
+
+00:05:22.150 --> 00:05:24.689 align:start position:0%
+this graph of scientific journals so in
+this<00:05:22.270><c> case</c><00:05:22.479><c> each</c><00:05:22.930><c> journal</c><00:05:23.650><c> right</c><00:05:23.979><c> so</c><00:05:24.159><c> whenever</c>
+
+00:05:24.689 --> 00:05:24.699 align:start position:0%
+this case each journal right so whenever
+ 
+
+00:05:24.699 --> 00:05:27.149 align:start position:0%
+this case each journal right so whenever
+researchers<00:05:25.479><c> published</c><00:05:25.900><c> work</c><00:05:26.110><c> they</c><00:05:26.590><c> spread</c>
+
+00:05:27.149 --> 00:05:27.159 align:start position:0%
+researchers published work they spread
+ 
+
+00:05:27.159 --> 00:05:29.159 align:start position:0%
+researchers published work they spread
+it<00:05:27.250><c> to</c><00:05:27.370><c> the</c><00:05:27.460><c> world</c><00:05:27.639><c> by</c><00:05:27.939><c> writing</c><00:05:28.689><c> it</c><00:05:28.870><c> up</c><00:05:28.960><c> in</c><00:05:29.080><c> a</c>
+
+00:05:29.159 --> 00:05:29.169 align:start position:0%
+it to the world by writing it up in a
+ 
+
+00:05:29.169 --> 00:05:30.899 align:start position:0%
+it to the world by writing it up in a
+document<00:05:29.590><c> sending</c><00:05:29.949><c> it</c><00:05:30.039><c> out</c><00:05:30.129><c> for</c><00:05:30.310><c> review</c><00:05:30.639><c> by</c>
+
+00:05:30.899 --> 00:05:30.909 align:start position:0%
+document sending it out for review by
+ 
+
+00:05:30.909 --> 00:05:32.519 align:start position:0%
+document sending it out for review by
+other<00:05:31.120><c> experts</c><00:05:31.330><c> in</c><00:05:31.659><c> the</c><00:05:31.719><c> field</c><00:05:31.810><c> the</c><00:05:32.500><c> other</c>
+
+00:05:32.519 --> 00:05:32.529 align:start position:0%
+other experts in the field the other
+ 
+
+00:05:32.529 --> 00:05:34.350 align:start position:0%
+other experts in the field the other
+experts<00:05:33.069><c> decide</c><00:05:33.370><c> ok</c><00:05:33.669><c> that</c><00:05:33.849><c> seems</c><00:05:34.060><c> aboveboard</c>
+
+00:05:34.350 --> 00:05:34.360 align:start position:0%
+experts decide ok that seems aboveboard
+ 
+
+00:05:34.360 --> 00:05:36.589 align:start position:0%
+experts decide ok that seems aboveboard
+and<00:05:34.810><c> then</c><00:05:35.199><c> it</c><00:05:35.319><c> goes</c><00:05:35.440><c> into</c><00:05:35.620><c> a</c><00:05:35.740><c> journal</c><00:05:36.129><c> which</c>
+
+00:05:36.589 --> 00:05:36.599 align:start position:0%
+and then it goes into a journal which
+ 
+
+00:05:36.599 --> 00:05:38.730 align:start position:0%
+and then it goes into a journal which
+sometimes<00:05:37.599><c> they're</c><00:05:37.810><c> open</c><00:05:38.050><c> access</c><00:05:38.199><c> sometimes</c>
+
+00:05:38.730 --> 00:05:38.740 align:start position:0%
+sometimes they're open access sometimes
+ 
+
+00:05:38.740 --> 00:05:40.769 align:start position:0%
+sometimes they're open access sometimes
+you<00:05:38.979><c> have</c><00:05:39.069><c> to</c><00:05:39.159><c> pay</c><00:05:39.279><c> to</c><00:05:39.339><c> access</c><00:05:39.789><c> them</c><00:05:39.969><c> and</c><00:05:40.629><c> so</c>
+
+00:05:40.769 --> 00:05:40.779 align:start position:0%
+you have to pay to access them and so
+ 
+
+00:05:40.779 --> 00:05:42.719 align:start position:0%
+you have to pay to access them and so
+this<00:05:40.930><c> is</c><00:05:41.080><c> an</c><00:05:41.289><c> analysis</c><00:05:41.529><c> of</c><00:05:42.009><c> all</c><00:05:42.490><c> the</c>
+
+00:05:42.719 --> 00:05:42.729 align:start position:0%
+this is an analysis of all the
+ 
+
+00:05:42.729 --> 00:05:44.129 align:start position:0%
+this is an analysis of all the
+scientific<00:05:43.089><c> journals</c><00:05:43.509><c> they</c><00:05:43.719><c> could</c><00:05:43.870><c> get</c><00:05:43.990><c> their</c>
+
+00:05:44.129 --> 00:05:44.139 align:start position:0%
+scientific journals they could get their
+ 
+
+00:05:44.139 --> 00:05:46.529 align:start position:0%
+scientific journals they could get their
+hands<00:05:44.349><c> on</c><00:05:44.529><c> and</c><00:05:45.190><c> so</c><00:05:45.339><c> this</c><00:05:45.580><c> node</c><00:05:46.210><c> here</c>
+
+00:05:46.529 --> 00:05:46.539 align:start position:0%
+hands on and so this node here
+ 
+
+00:05:46.539 --> 00:05:49.140 align:start position:0%
+hands on and so this node here
+represents<00:05:47.169><c> a</c><00:05:47.319><c> single</c><00:05:47.710><c> journal</c><00:05:48.190><c> in</c><00:05:48.940><c> this</c>
+
+00:05:49.140 --> 00:05:49.150 align:start position:0%
+represents a single journal in this
+ 
+
+00:05:49.150 --> 00:05:50.969 align:start position:0%
+represents a single journal in this
+particular<00:05:49.629><c> case</c><00:05:49.810><c> this</c><00:05:49.960><c> is</c><00:05:50.020><c> a</c><00:05:50.139><c> journal</c><00:05:50.680><c> about</c>
+
+00:05:50.969 --> 00:05:50.979 align:start position:0%
+particular case this is a journal about
+ 
+
+00:05:50.979 --> 00:05:52.829 align:start position:0%
+particular case this is a journal about
+the<00:05:51.370><c> topic</c><00:05:51.729><c> social</c><00:05:52.210><c> and</c><00:05:52.419><c> personality</c>
+
+00:05:52.829 --> 00:05:52.839 align:start position:0%
+the topic social and personality
+ 
+
+00:05:52.839 --> 00:05:56.999 align:start position:0%
+the topic social and personality
+psychology<00:05:53.849><c> that</c><00:05:54.849><c> is</c><00:05:54.909><c> an</c><00:05:55.690><c> interesting</c><00:05:56.259><c> title</c>
+
+00:05:56.999 --> 00:05:57.009 align:start position:0%
+psychology that is an interesting title
+ 
+
+00:05:57.009 --> 00:05:59.640 align:start position:0%
+psychology that is an interesting title
+ok<00:05:57.460><c> we</c><00:05:58.330><c> have</c><00:05:58.449><c> biochemistry</c><00:05:59.139><c> we</c><00:05:59.529><c> have</c>
+
+00:05:59.640 --> 00:05:59.650 align:start position:0%
+ok we have biochemistry we have
+ 
+
+00:05:59.650 --> 00:06:01.860 align:start position:0%
+ok we have biochemistry we have
+toxicology<00:06:00.400><c> and</c><00:06:00.639><c> so</c><00:06:00.789><c> forth</c><00:06:01.029><c> and</c><00:06:01.210><c> so</c><00:06:01.689><c> each</c><00:06:01.839><c> of</c>
+
+00:06:01.860 --> 00:06:01.870 align:start position:0%
+toxicology and so forth and so each of
+ 
+
+00:06:01.870 --> 00:06:04.260 align:start position:0%
+toxicology and so forth and so each of
+these<00:06:02.110><c> has</c><00:06:02.349><c> a</c><00:06:02.379><c> vertex</c><00:06:02.830><c> label</c><00:06:03.219><c> now</c><00:06:03.819><c> what</c><00:06:04.120><c> these</c>
+
+00:06:04.260 --> 00:06:04.270 align:start position:0%
+these has a vertex label now what these
+ 
+
+00:06:04.270 --> 00:06:07.170 align:start position:0%
+these has a vertex label now what these
+edge<00:06:04.479><c> represent</c><00:06:05.259><c> is</c><00:06:05.800><c> if</c><00:06:06.129><c> you</c><00:06:06.460><c> are</c><00:06:06.610><c> reading</c><00:06:06.849><c> one</c>
+
+00:06:07.170 --> 00:06:07.180 align:start position:0%
+edge represent is if you are reading one
+ 
+
+00:06:07.180 --> 00:06:10.050 align:start position:0%
+edge represent is if you are reading one
+journal<00:06:07.589><c> and</c><00:06:08.589><c> you</c><00:06:08.830><c> decide</c><00:06:09.129><c> to</c><00:06:09.400><c> click</c><00:06:09.729><c> through</c>
+
+00:06:10.050 --> 00:06:10.060 align:start position:0%
+journal and you decide to click through
+ 
+
+00:06:10.060 --> 00:06:11.999 align:start position:0%
+journal and you decide to click through
+to<00:06:10.300><c> another</c><00:06:10.539><c> linked</c><00:06:10.990><c> article</c><00:06:11.319><c> because</c><00:06:11.589><c> often</c>
+
+00:06:11.999 --> 00:06:12.009 align:start position:0%
+to another linked article because often
+ 
+
+00:06:12.009 --> 00:06:13.649 align:start position:0%
+to another linked article because often
+you<00:06:12.099><c> want</c><00:06:12.250><c> to</c><00:06:12.370><c> cite</c><00:06:12.580><c> other</c><00:06:12.849><c> scientific</c><00:06:13.479><c> work</c>
+
+00:06:13.649 --> 00:06:13.659 align:start position:0%
+you want to cite other scientific work
+ 
+
+00:06:13.659 --> 00:06:15.929 align:start position:0%
+you want to cite other scientific work
+if<00:06:14.199><c> you</c><00:06:14.349><c> do</c><00:06:14.560><c> that</c><00:06:14.740><c> click</c><00:06:14.979><c> it</c><00:06:15.189><c> was</c><00:06:15.400><c> logged</c><00:06:15.669><c> in</c>
+
+00:06:15.929 --> 00:06:15.939 align:start position:0%
+if you do that click it was logged in
+ 
+
+00:06:15.939 --> 00:06:18.450 align:start position:0%
+if you do that click it was logged in
+this<00:06:16.029><c> case</c><00:06:16.270><c> and</c><00:06:16.870><c> so</c><00:06:16.990><c> in</c><00:06:17.080><c> this</c><00:06:17.169><c> case</c><00:06:17.430><c> what</c><00:06:18.430><c> the</c>
+
+00:06:18.450 --> 00:06:18.460 align:start position:0%
+this case and so in this case what the
+ 
+
+00:06:18.460 --> 00:06:20.909 align:start position:0%
+this case and so in this case what the
+graph<00:06:18.879><c> tells</c><00:06:19.240><c> us</c><00:06:19.419><c> is</c><00:06:19.599><c> if</c><00:06:20.050><c> there</c><00:06:20.289><c> were</c><00:06:20.409><c> a</c><00:06:20.439><c> large</c>
+
+00:06:20.909 --> 00:06:20.919 align:start position:0%
+graph tells us is if there were a large
+ 
+
+00:06:20.919 --> 00:06:22.800 align:start position:0%
+graph tells us is if there were a large
+number<00:06:21.039><c> of</c><00:06:21.370><c> clicks</c><00:06:21.729><c> between</c><00:06:22.120><c> this</c><00:06:22.330><c> journal</c><00:06:22.689><c> in</c>
+
+00:06:22.800 --> 00:06:22.810 align:start position:0%
+number of clicks between this journal in
+ 
+
+00:06:22.810 --> 00:06:24.839 align:start position:0%
+number of clicks between this journal in
+this<00:06:22.960><c> journal</c><00:06:23.229><c> right</c><00:06:23.439><c> this</c><00:06:23.620><c> may</c><00:06:23.770><c> be</c><00:06:23.830><c> about</c><00:06:24.189><c> so</c>
+
+00:06:24.839 --> 00:06:24.849 align:start position:0%
+this journal right this may be about so
+ 
+
+00:06:24.849 --> 00:06:26.879 align:start position:0%
+this journal right this may be about so
+this<00:06:24.939><c> is</c><00:06:25.089><c> an</c><00:06:25.180><c> organic</c><00:06:25.599><c> chemistry</c><00:06:25.960><c> journal</c><00:06:26.319><c> and</c>
+
+00:06:26.879 --> 00:06:26.889 align:start position:0%
+this is an organic chemistry journal and
+ 
+
+00:06:26.889 --> 00:06:27.990 align:start position:0%
+this is an organic chemistry journal and
+this<00:06:26.979><c> is</c><00:06:27.129><c> International</c><00:06:27.699><c> Studies</c>
+
+00:06:27.990 --> 00:06:28.000 align:start position:0%
+this is International Studies
+ 
+
+00:06:28.000 --> 00:06:30.240 align:start position:0%
+this is International Studies
+interesting<00:06:28.479><c> that</c><00:06:28.599><c> there's</c><00:06:28.750><c> a</c><00:06:28.839><c> link</c><00:06:29.020><c> here</c><00:06:29.250><c> so</c>
+
+00:06:30.240 --> 00:06:30.250 align:start position:0%
+interesting that there's a link here so
+ 
+
+00:06:30.250 --> 00:06:31.469 align:start position:0%
+interesting that there's a link here so
+maybe<00:06:30.430><c> this</c><00:06:30.699><c> was</c><00:06:30.909><c> about</c><00:06:31.210><c> you</c><00:06:31.449><c> know</c>
+
+00:06:31.469 --> 00:06:31.479 align:start position:0%
+maybe this was about you know
+ 
+
+00:06:31.479 --> 00:06:33.510 align:start position:0%
+maybe this was about you know
+manufacturing<00:06:31.810><c> processes</c><00:06:32.800><c> and</c><00:06:33.099><c> how</c><00:06:33.219><c> they</c>
+
+00:06:33.510 --> 00:06:33.520 align:start position:0%
+manufacturing processes and how they
+ 
+
+00:06:33.520 --> 00:06:38.129 align:start position:0%
+manufacturing processes and how they
+were<00:06:34.979><c> spread</c><00:06:35.979><c> from</c><00:06:36.339><c> let's</c><00:06:36.699><c> say</c><00:06:36.969><c> China</c><00:06:37.899><c> to</c>
+
+00:06:38.129 --> 00:06:38.139 align:start position:0%
+were spread from let's say China to
+ 
+
+00:06:38.139 --> 00:06:40.050 align:start position:0%
+were spread from let's say China to
+Korea<00:06:38.289><c> who</c><00:06:38.680><c> knows</c><00:06:38.860><c> what</c><00:06:39.039><c> and</c><00:06:39.279><c> then</c><00:06:39.699><c> maybe</c><00:06:39.819><c> this</c>
+
+00:06:40.050 --> 00:06:40.060 align:start position:0%
+Korea who knows what and then maybe this
+ 
+
+00:06:40.060 --> 00:06:40.810 align:start position:0%
+Korea who knows what and then maybe this
+article
+
+00:06:40.810 --> 00:06:40.820 align:start position:0%
+article
+ 
+
+00:06:40.820 --> 00:06:42.370 align:start position:0%
+article
+I<00:06:40.910><c> mean</c><00:06:41.180><c> maybe</c><00:06:41.600><c> there</c><00:06:41.750><c> was</c><00:06:41.840><c> a</c><00:06:41.870><c> link</c><00:06:42.080><c> to</c><00:06:42.230><c> some</c>
+
+00:06:42.370 --> 00:06:42.380 align:start position:0%
+I mean maybe there was a link to some
+ 
+
+00:06:42.380 --> 00:06:44.110 align:start position:0%
+I mean maybe there was a link to some
+articles<00:06:42.710><c> about</c><00:06:42.860><c> International</c><00:06:43.400><c> Studies</c><00:06:43.700><c> so</c>
+
+00:06:44.110 --> 00:06:44.120 align:start position:0%
+articles about International Studies so
+ 
+
+00:06:44.120 --> 00:06:45.250 align:start position:0%
+articles about International Studies so
+there<00:06:44.300><c> were</c><00:06:44.390><c> enough</c><00:06:44.570><c> people</c><00:06:44.720><c> clicking</c><00:06:45.020><c> on</c>
+
+00:06:45.250 --> 00:06:45.260 align:start position:0%
+there were enough people clicking on
+ 
+
+00:06:45.260 --> 00:06:48.400 align:start position:0%
+there were enough people clicking on
+articles<00:06:46.250><c> in</c><00:06:46.490><c> this</c><00:06:46.790><c> journal</c><00:06:47.260><c> articles</c><00:06:48.260><c> for</c>
+
+00:06:48.400 --> 00:06:48.410 align:start position:0%
+articles in this journal articles for
+ 
+
+00:06:48.410 --> 00:06:50.320 align:start position:0%
+articles in this journal articles for
+example<00:06:48.440><c> about</c><00:06:48.860><c> that</c><00:06:49.040><c> topic</c><00:06:49.370><c> I</c><00:06:49.460><c> mentioned</c><00:06:49.790><c> and</c>
+
+00:06:50.320 --> 00:06:50.330 align:start position:0%
+example about that topic I mentioned and
+ 
+
+00:06:50.330 --> 00:06:51.760 align:start position:0%
+example about that topic I mentioned and
+so<00:06:50.450><c> then</c><00:06:50.720><c> once</c><00:06:50.990><c> that</c><00:06:51.080><c> gets</c><00:06:51.290><c> above</c><00:06:51.560><c> some</c>
+
+00:06:51.760 --> 00:06:51.770 align:start position:0%
+so then once that gets above some
+ 
+
+00:06:51.770 --> 00:06:53.230 align:start position:0%
+so then once that gets above some
+threshold<00:06:51.800><c> they</c><00:06:52.310><c> decide</c><00:06:52.550><c> to</c><00:06:52.580><c> draw</c><00:06:52.820><c> this</c><00:06:52.970><c> link</c>
+
+00:06:53.230 --> 00:06:53.240 align:start position:0%
+threshold they decide to draw this link
+ 
+
+00:06:53.240 --> 00:06:56.020 align:start position:0%
+threshold they decide to draw this link
+and<00:06:54.200><c> so</c><00:06:54.350><c> we</c><00:06:54.470><c> can</c><00:06:54.590><c> see</c><00:06:54.770><c> here</c><00:06:55.010><c> I'm</c><00:06:55.190><c> nice</c><00:06:55.550><c> taxonomy</c>
+
+00:06:56.020 --> 00:06:56.030 align:start position:0%
+and so we can see here I'm nice taxonomy
+ 
+
+00:06:56.030 --> 00:06:58.120 align:start position:0%
+and so we can see here I'm nice taxonomy
+of<00:06:56.300><c> all</c><00:06:56.510><c> of</c><00:06:56.690><c> science</c><00:06:57.050><c> anyway</c><00:06:57.320><c> and</c><00:06:57.830><c> we</c><00:06:57.890><c> can</c><00:06:58.010><c> see</c>
+
+00:06:58.120 --> 00:06:58.130 align:start position:0%
+of all of science anyway and we can see
+ 
+
+00:06:58.130 --> 00:06:59.920 align:start position:0%
+of all of science anyway and we can see
+this<00:06:58.280><c> cool</c><00:06:58.490><c> arc</c><00:06:58.790><c> that</c><00:06:59.090><c> we</c><00:06:59.210><c> have</c><00:06:59.360><c> down</c><00:06:59.570><c> here</c><00:06:59.810><c> the</c>
+
+00:06:59.920 --> 00:06:59.930 align:start position:0%
+this cool arc that we have down here the
+ 
+
+00:06:59.930 --> 00:07:02.410 align:start position:0%
+this cool arc that we have down here the
+life<00:07:00.110><c> sciences</c><00:07:00.590><c> nicely</c><00:07:01.070><c> in</c><00:07:01.190><c> green</c><00:07:01.430><c> but</c><00:07:02.330><c> they</c>
+
+00:07:02.410 --> 00:07:02.420 align:start position:0%
+life sciences nicely in green but they
+ 
+
+00:07:02.420 --> 00:07:04.870 align:start position:0%
+life sciences nicely in green but they
+kind<00:07:02.600><c> of</c><00:07:02.630><c> arc</c><00:07:02.870><c> into</c><00:07:03.350><c> well</c><00:07:03.620><c> sometimes</c><00:07:04.280><c> biology</c>
+
+00:07:04.870 --> 00:07:04.880 align:start position:0%
+kind of arc into well sometimes biology
+ 
+
+00:07:04.880 --> 00:07:07.510 align:start position:0%
+kind of arc into well sometimes biology
+journals<00:07:05.240><c> will</c><00:07:05.420><c> talk</c><00:07:05.630><c> about</c><00:07:05.960><c> or</c><00:07:06.710><c> say</c><00:07:07.280><c> plant</c>
+
+00:07:07.510 --> 00:07:07.520 align:start position:0%
+journals will talk about or say plant
+ 
+
+00:07:07.520 --> 00:07:09.820 align:start position:0%
+journals will talk about or say plant
+agriculture<00:07:07.940><c> might</c><00:07:08.630><c> relate</c><00:07:09.140><c> to</c><00:07:09.200><c> biotech</c>
+
+00:07:09.820 --> 00:07:09.830 align:start position:0%
+agriculture might relate to biotech
+ 
+
+00:07:09.830 --> 00:07:11.770 align:start position:0%
+agriculture might relate to biotech
+which<00:07:10.130><c> then</c><00:07:10.340><c> goes</c><00:07:10.610><c> to</c><00:07:10.640><c> toxicology</c><00:07:11.540><c> which</c>
+
+00:07:11.770 --> 00:07:11.780 align:start position:0%
+which then goes to toxicology which
+ 
+
+00:07:11.780 --> 00:07:14.140 align:start position:0%
+which then goes to toxicology which
+relates<00:07:12.140><c> to</c><00:07:12.460><c> biochemistry</c><00:07:13.460><c> which</c><00:07:13.670><c> then</c><00:07:13.910><c> some</c>
+
+00:07:14.140 --> 00:07:14.150 align:start position:0%
+relates to biochemistry which then some
+ 
+
+00:07:14.150 --> 00:07:15.190 align:start position:0%
+relates to biochemistry which then some
+of<00:07:14.270><c> those</c><00:07:14.330><c> journals</c><00:07:14.690><c> are</c><00:07:14.810><c> related</c><00:07:15.110><c> to</c>
+
+00:07:15.190 --> 00:07:15.200 align:start position:0%
+of those journals are related to
+ 
+
+00:07:15.200 --> 00:07:16.780 align:start position:0%
+of those journals are related to
+analytical<00:07:15.740><c> chemistry</c><00:07:16.100><c> to</c><00:07:16.370><c> organic</c>
+
+00:07:16.780 --> 00:07:16.790 align:start position:0%
+analytical chemistry to organic
+ 
+
+00:07:16.790 --> 00:07:18.550 align:start position:0%
+analytical chemistry to organic
+chemistry<00:07:16.820><c> to</c><00:07:17.240><c> physical</c><00:07:17.630><c> chemistry</c><00:07:18.020><c> to</c>
+
+00:07:18.550 --> 00:07:18.560 align:start position:0%
+chemistry to physical chemistry to
+ 
+
+00:07:18.560 --> 00:07:20.740 align:start position:0%
+chemistry to physical chemistry to
+statistical<00:07:19.160><c> physics</c><00:07:19.490><c> up</c><00:07:19.970><c> into</c><00:07:20.330><c> material</c>
+
+00:07:20.740 --> 00:07:20.750 align:start position:0%
+statistical physics up into material
+ 
+
+00:07:20.750 --> 00:07:23.200 align:start position:0%
+statistical physics up into material
+science<00:07:21.140><c> so</c><00:07:21.710><c> this</c><00:07:21.860><c> is</c><00:07:21.980><c> nice</c><00:07:22.220><c> you</c><00:07:22.670><c> can</c><00:07:22.880><c> see</c><00:07:23.090><c> the</c>
+
+00:07:23.200 --> 00:07:23.210 align:start position:0%
+science so this is nice you can see the
+ 
+
+00:07:23.210 --> 00:07:25.810 align:start position:0%
+science so this is nice you can see the
+whole<00:07:23.330><c> physics</c><00:07:23.750><c> to</c><00:07:23.900><c> biology</c><00:07:24.080><c> sweep</c><00:07:24.700><c> here</c><00:07:25.700><c> we</c>
+
+00:07:25.810 --> 00:07:25.820 align:start position:0%
+whole physics to biology sweep here we
+ 
+
+00:07:25.820 --> 00:07:27.610 align:start position:0%
+whole physics to biology sweep here we
+see<00:07:25.970><c> a</c><00:07:26.000><c> bunch</c><00:07:26.180><c> of</c><00:07:26.300><c> humanities</c><00:07:26.870><c> so</c><00:07:27.410><c> we</c><00:07:27.500><c> see</c>
+
+00:07:27.610 --> 00:07:27.620 align:start position:0%
+see a bunch of humanities so we see
+ 
+
+00:07:27.620 --> 00:07:30.190 align:start position:0%
+see a bunch of humanities so we see
+archeology<00:07:28.310><c> Human</c><00:07:28.700><c> Geography</c><00:07:29.200><c> clustered</c>
+
+00:07:30.190 --> 00:07:30.200 align:start position:0%
+archeology Human Geography clustered
+ 
+
+00:07:30.200 --> 00:07:31.750 align:start position:0%
+archeology Human Geography clustered
+together<00:07:30.350><c> I</c><00:07:30.710><c> think</c><00:07:31.040><c> there's</c><00:07:31.250><c> a</c><00:07:31.340><c> lot</c><00:07:31.490><c> of</c><00:07:31.580><c> really</c>
+
+00:07:31.750 --> 00:07:31.760 align:start position:0%
+together I think there's a lot of really
+ 
+
+00:07:31.760 --> 00:07:34.720 align:start position:0%
+together I think there's a lot of really
+neat<00:07:31.970><c> richness</c><00:07:32.390><c> with</c><00:07:32.570><c> this</c><00:07:32.690><c> figure</c><00:07:33.580><c> and</c><00:07:34.580><c> so</c>
+
+00:07:34.720 --> 00:07:34.730 align:start position:0%
+neat richness with this figure and so
+ 
+
+00:07:34.730 --> 00:07:37.270 align:start position:0%
+neat richness with this figure and so
+this<00:07:34.880><c> again</c><00:07:35.540><c> what</c><00:07:36.530><c> could</c><00:07:36.650><c> it</c><00:07:36.680><c> be</c><00:07:36.770><c> useful</c><00:07:37.130><c> for</c>
+
+00:07:37.270 --> 00:07:37.280 align:start position:0%
+this again what could it be useful for
+ 
+
+00:07:37.280 --> 00:07:38.650 align:start position:0%
+this again what could it be useful for
+well<00:07:37.520><c> it's</c><00:07:37.700><c> nice</c><00:07:37.880><c> because</c><00:07:38.120><c> it</c><00:07:38.360><c> gives</c><00:07:38.390><c> you</c><00:07:38.630><c> a</c>
+
+00:07:38.650 --> 00:07:38.660 align:start position:0%
+well it's nice because it gives you a
+ 
+
+00:07:38.660 --> 00:07:40.660 align:start position:0%
+well it's nice because it gives you a
+picture<00:07:38.840><c> of</c><00:07:39.050><c> the</c><00:07:39.320><c> structure</c><00:07:40.280><c> of</c><00:07:40.400><c> human</c>
+
+00:07:40.660 --> 00:07:40.670 align:start position:0%
+picture of the structure of human
+ 
+
+00:07:40.670 --> 00:07:41.200 align:start position:0%
+picture of the structure of human
+endeavor
+
+00:07:41.200 --> 00:07:41.210 align:start position:0%
+endeavor
+ 
+
+00:07:41.210 --> 00:07:43.060 align:start position:0%
+endeavor
+so<00:07:41.330><c> again</c><00:07:41.510><c> graphs</c><00:07:41.780><c> are</c><00:07:41.990><c> very</c><00:07:42.200><c> versatile</c><00:07:42.770><c> data</c>
+
+00:07:43.060 --> 00:07:43.070 align:start position:0%
+so again graphs are very versatile data
+ 
+
+00:07:43.070 --> 00:07:45.460 align:start position:0%
+so again graphs are very versatile data
+structure<00:07:43.490><c> and</c><00:07:43.790><c> you</c><00:07:44.150><c> could</c><00:07:44.300><c> imagine</c><00:07:44.690><c> that</c>
+
+00:07:45.460 --> 00:07:45.470 align:start position:0%
+structure and you could imagine that
+ 
+
+00:07:45.470 --> 00:07:47.920 align:start position:0%
+structure and you could imagine that
+those<00:07:45.830><c> other</c><00:07:46.040><c> questions</c><00:07:46.480><c> that</c><00:07:47.480><c> we</c><00:07:47.510><c> discussed</c>
+
+00:07:47.920 --> 00:07:47.930 align:start position:0%
+those other questions that we discussed
+ 
+
+00:07:47.930 --> 00:07:49.570 align:start position:0%
+those other questions that we discussed
+before<00:07:48.110><c> about</c><00:07:48.530><c> cycles</c><00:07:49.010><c> and</c><00:07:49.130><c> so</c><00:07:49.220><c> forth</c><00:07:49.430><c> they</c>
+
+00:07:49.570 --> 00:07:49.580 align:start position:0%
+before about cycles and so forth they
+ 
+
+00:07:49.580 --> 00:07:51.220 align:start position:0%
+before about cycles and so forth they
+could<00:07:49.760><c> be</c><00:07:49.880><c> interesting</c><00:07:50.390><c> maybe</c><00:07:50.660><c> maybe</c><00:07:50.990><c> not</c>
+
+00:07:51.220 --> 00:07:51.230 align:start position:0%
+could be interesting maybe maybe not
+ 
+
+00:07:51.230 --> 00:07:53.260 align:start position:0%
+could be interesting maybe maybe not
+here<00:07:52.190><c> we</c><00:07:52.310><c> could</c><00:07:52.400><c> see</c><00:07:52.550><c> that</c><00:07:52.670><c> pretty</c><00:07:52.880><c> much</c><00:07:53.030><c> the</c>
+
+00:07:53.260 --> 00:07:53.270 align:start position:0%
+here we could see that pretty much the
+ 
+
+00:07:53.270 --> 00:07:55.450 align:start position:0%
+here we could see that pretty much the
+world<00:07:53.630><c> of</c><00:07:53.810><c> journals</c><00:07:54.140><c> is</c><00:07:54.290><c> connected</c><00:07:54.710><c> though</c><00:07:55.100><c> to</c>
+
+00:07:55.450 --> 00:07:55.460 align:start position:0%
+world of journals is connected though to
+ 
+
+00:07:55.460 --> 00:07:56.800 align:start position:0%
+world of journals is connected though to
+be<00:07:55.580><c> honest</c><00:07:55.850><c> that's</c><00:07:56.000><c> a</c><00:07:56.090><c> little</c><00:07:56.330><c> bit</c><00:07:56.450><c> of</c><00:07:56.570><c> an</c>
+
+00:07:56.800 --> 00:07:56.810 align:start position:0%
+be honest that's a little bit of an
+ 
+
+00:07:56.810 --> 00:07:58.420 align:start position:0%
+be honest that's a little bit of an
+artifact<00:07:57.410><c> of</c><00:07:57.650><c> the</c><00:07:57.980><c> fact</c><00:07:58.160><c> that</c><00:07:58.250><c> these</c>
+
+00:07:58.420 --> 00:07:58.430 align:start position:0%
+artifact of the fact that these
+ 
+
+00:07:58.430 --> 00:07:59.920 align:start position:0%
+artifact of the fact that these
+thresholds<00:07:58.880><c> were</c><00:07:59.000><c> chosen</c><00:07:59.210><c> probably</c>
+
+00:07:59.920 --> 00:07:59.930 align:start position:0%
+thresholds were chosen probably
+ 
+
+00:07:59.930 --> 00:08:01.390 align:start position:0%
+thresholds were chosen probably
+precisely<00:08:00.290><c> so</c><00:08:00.620><c> that</c><00:08:00.860><c> it</c><00:08:00.950><c> was</c><00:08:01.040><c> just</c><00:08:01.070><c> barely</c>
+
+00:08:01.390 --> 00:08:01.400 align:start position:0%
+precisely so that it was just barely
+ 
+
+00:08:01.400 --> 00:08:03.970 align:start position:0%
+precisely so that it was just barely
+connected<00:08:01.900><c> that</c><00:08:02.900><c> is</c><00:08:02.960><c> suppose</c><00:08:03.710><c> they</c><00:08:03.860><c> decide</c>
+
+00:08:03.970 --> 00:08:03.980 align:start position:0%
+connected that is suppose they decide
+ 
+
+00:08:03.980 --> 00:08:05.560 align:start position:0%
+connected that is suppose they decide
+the<00:08:04.250><c> number</c><00:08:04.460><c> of</c><00:08:04.550><c> clicks</c><00:08:04.730><c> that's</c><00:08:04.970><c> needed</c><00:08:05.360><c> for</c><00:08:05.540><c> a</c>
+
+00:08:05.560 --> 00:08:05.570 align:start position:0%
+the number of clicks that's needed for a
+ 
+
+00:08:05.570 --> 00:08:07.360 align:start position:0%
+the number of clicks that's needed for a
+connection<00:08:05.930><c> is</c><00:08:06.050><c> only</c><00:08:06.110><c> one</c><00:08:06.560><c> then</c><00:08:07.130><c> I</c><00:08:07.160><c> bet</c><00:08:07.340><c> you</c>
+
+00:08:07.360 --> 00:08:07.370 align:start position:0%
+connection is only one then I bet you
+ 
+
+00:08:07.370 --> 00:08:09.460 align:start position:0%
+connection is only one then I bet you
+every<00:08:07.670><c> single</c><00:08:07.820><c> one</c><00:08:08.000><c> of</c><00:08:08.060><c> these</c><00:08:08.210><c> notes</c><00:08:08.960><c> will</c><00:08:09.170><c> be</c>
+
+00:08:09.460 --> 00:08:09.470 align:start position:0%
+every single one of these notes will be
+ 
+
+00:08:09.470 --> 00:08:12.910 align:start position:0%
+every single one of these notes will be
+directly<00:08:10.070><c> connected</c><00:08:10.550><c> to</c><00:08:10.640><c> every</c><00:08:10.820><c> other</c><00:08:11.920><c> last</c>
+
+00:08:12.910 --> 00:08:12.920 align:start position:0%
+directly connected to every other last
+ 
+
+00:08:12.920 --> 00:08:14.830 align:start position:0%
+directly connected to every other last
+example<00:08:13.850><c> I</c><00:08:13.940><c> here</c><00:08:14.240><c> is</c><00:08:14.390><c> something</c><00:08:14.630><c> called</c>
+
+00:08:14.830 --> 00:08:14.840 align:start position:0%
+example I here is something called
+ 
+
+00:08:14.840 --> 00:08:16.750 align:start position:0%
+example I here is something called
+wordnet<00:08:15.320><c> that's</c><00:08:16.070><c> actually</c><00:08:16.340><c> a</c><00:08:16.370><c> really</c><00:08:16.490><c> cool</c>
+
+00:08:16.750 --> 00:08:16.760 align:start position:0%
+wordnet that's actually a really cool
+ 
+
+00:08:16.760 --> 00:08:19.570 align:start position:0%
+wordnet that's actually a really cool
+idea<00:08:17.090><c> we</c><00:08:17.690><c> mentioned</c><00:08:18.350><c> it</c><00:08:18.500><c> briefly</c><00:08:18.650><c> earlier</c><00:08:19.340><c> in</c>
+
+00:08:19.570 --> 00:08:19.580 align:start position:0%
+idea we mentioned it briefly earlier in
+ 
+
+00:08:19.580 --> 00:08:21.400 align:start position:0%
+idea we mentioned it briefly earlier in
+a<00:08:19.670><c> lecture</c><00:08:19.880><c> about</c><00:08:20.300><c> hypo</c><00:08:20.900><c> names</c><00:08:21.110><c> and</c><00:08:21.290><c> hyper</c>
+
+00:08:21.400 --> 00:08:21.410 align:start position:0%
+a lecture about hypo names and hyper
+ 
+
+00:08:21.410 --> 00:08:24.040 align:start position:0%
+a lecture about hypo names and hyper
+names<00:08:21.710><c> with</c><00:08:21.980><c> inheritance</c><00:08:22.690><c> but</c><00:08:23.690><c> if</c><00:08:23.780><c> we</c><00:08:23.870><c> look</c>
+
+00:08:24.040 --> 00:08:24.050 align:start position:0%
+names with inheritance but if we look
+ 
+
+00:08:24.050 --> 00:08:27.070 align:start position:0%
+names with inheritance but if we look
+here<00:08:24.230><c> each</c><00:08:24.620><c> edge</c><00:08:24.980><c> represents</c><00:08:25.310><c> that</c><00:08:26.300><c> one</c><00:08:26.900><c> word</c>
+
+00:08:27.070 --> 00:08:27.080 align:start position:0%
+here each edge represents that one word
+ 
+
+00:08:27.080 --> 00:08:29.770 align:start position:0%
+here each edge represents that one word
+is<00:08:27.200><c> a</c><00:08:27.350><c> type</c><00:08:27.560><c> of</c><00:08:27.590><c> another</c><00:08:28.430><c> thing</c><00:08:28.700><c> so</c><00:08:29.630><c> for</c>
+
+00:08:29.770 --> 00:08:29.780 align:start position:0%
+is a type of another thing so for
+ 
+
+00:08:29.780 --> 00:08:31.570 align:start position:0%
+is a type of another thing so for
+example<00:08:30.110><c> variation</c><00:08:30.770><c> is</c><00:08:30.890><c> a</c><00:08:30.920><c> type</c><00:08:31.130><c> of</c><00:08:31.160><c> change</c>
+
+00:08:31.570 --> 00:08:31.580 align:start position:0%
+example variation is a type of change
+ 
+
+00:08:31.580 --> 00:08:33.850 align:start position:0%
+example variation is a type of change
+changes<00:08:32.360><c> the</c><00:08:32.450><c> type</c><00:08:32.599><c> of</c><00:08:32.630><c> action</c><00:08:33.080><c> actions</c><00:08:33.650><c> are</c><00:08:33.830><c> a</c>
+
+00:08:33.850 --> 00:08:33.860 align:start position:0%
+changes the type of action actions are a
+ 
+
+00:08:33.860 --> 00:08:35.350 align:start position:0%
+changes the type of action actions are a
+type<00:08:34.040><c> of</c><00:08:34.070><c> human</c><00:08:34.460><c> activity</c><00:08:34.969><c> which</c><00:08:35.240><c> is</c>
+
+00:08:35.350 --> 00:08:35.360 align:start position:0%
+type of human activity which is
+ 
+
+00:08:35.360 --> 00:08:38.050 align:start position:0%
+type of human activity which is
+ultimately<00:08:35.570><c> an</c><00:08:35.930><c> event</c><00:08:36.200><c> okay</c><00:08:36.940><c> jumping</c><00:08:37.940><c> or</c>
+
+00:08:38.050 --> 00:08:38.060 align:start position:0%
+ultimately an event okay jumping or
+ 
+
+00:08:38.060 --> 00:08:40.719 align:start position:0%
+ultimately an event okay jumping or
+leaping<00:08:38.090><c> that</c><00:08:38.960><c> notion</c><00:08:39.680><c> of</c><00:08:39.830><c> jumping</c><00:08:40.190><c> is</c><00:08:40.370><c> a</c><00:08:40.400><c> type</c>
+
+00:08:40.719 --> 00:08:40.729 align:start position:0%
+leaping that notion of jumping is a type
+ 
+
+00:08:40.729 --> 00:08:42.370 align:start position:0%
+leaping that notion of jumping is a type
+of<00:08:40.760><c> increase</c><00:08:41.240><c> and</c><00:08:41.450><c> increases</c><00:08:42.110><c> a</c><00:08:42.140><c> type</c><00:08:42.349><c> of</c>
+
+00:08:42.370 --> 00:08:42.380 align:start position:0%
+of increase and increases a type of
+ 
+
+00:08:42.380 --> 00:08:44.920 align:start position:0%
+of increase and increases a type of
+modification<00:08:43.099><c> and</c><00:08:43.280><c> so</c><00:08:43.700><c> forth</c><00:08:43.940><c> so</c><00:08:44.660><c> this</c><00:08:44.780><c> is</c><00:08:44.870><c> a</c>
+
+00:08:44.920 --> 00:08:44.930 align:start position:0%
+modification and so forth so this is a
+ 
+
+00:08:44.930 --> 00:08:47.350 align:start position:0%
+modification and so forth so this is a
+cool<00:08:45.080><c> database</c><00:08:45.500><c> that</c><00:08:45.740><c> lets</c><00:08:45.920><c> you</c><00:08:46.160><c> explore</c><00:08:46.880><c> all</c>
+
+00:08:47.350 --> 00:08:47.360 align:start position:0%
+cool database that lets you explore all
+ 
+
+00:08:47.360 --> 00:08:50.230 align:start position:0%
+cool database that lets you explore all
+of<00:08:47.930><c> the</c><00:08:48.050><c> different</c><00:08:48.430><c> concepts</c><00:08:49.430><c> in</c><00:08:49.580><c> English</c><00:08:49.880><c> and</c>
+
+00:08:50.230 --> 00:08:50.240 align:start position:0%
+of the different concepts in English and
+ 
+
+00:08:50.240 --> 00:08:51.910 align:start position:0%
+of the different concepts in English and
+I'll<00:08:50.450><c> mention</c><00:08:50.630><c> just</c><00:08:50.780><c> briefly</c><00:08:50.990><c> that</c><00:08:51.650><c> some</c>
+
+00:08:51.910 --> 00:08:51.920 align:start position:0%
+I'll mention just briefly that some
+ 
+
+00:08:51.920 --> 00:08:53.340 align:start position:0%
+I'll mention just briefly that some
+words<00:08:52.130><c> belong</c><00:08:52.520><c> to</c><00:08:52.700><c> multiple</c><00:08:52.820><c> Kahn</c>
+
+00:08:53.340 --> 00:08:53.350 align:start position:0%
+words belong to multiple Kahn
+ 
+
+00:08:53.350 --> 00:08:55.320 align:start position:0%
+words belong to multiple Kahn
+ceps<00:08:53.650><c> so</c><00:08:54.010><c> for</c><00:08:54.130><c> example</c><00:08:54.460><c> we</c><00:08:54.610><c> have</c><00:08:54.730><c> here</c><00:08:54.940><c> jump</c>
+
+00:08:55.320 --> 00:08:55.330 align:start position:0%
+ceps so for example we have here jump
+ 
+
+00:08:55.330 --> 00:08:57.930 align:start position:0%
+ceps so for example we have here jump
+and<00:08:55.510><c> leap</c><00:08:55.750><c> here</c><00:08:56.290><c> we</c><00:08:56.410><c> have</c><00:08:56.500><c> jump</c><00:08:56.770><c> so</c><00:08:57.460><c> this</c><00:08:57.640><c> looks</c>
+
+00:08:57.930 --> 00:08:57.940 align:start position:0%
+and leap here we have jump so this looks
+ 
+
+00:08:57.940 --> 00:09:00.240 align:start position:0%
+and leap here we have jump so this looks
+like<00:08:58.030><c> jump</c><00:08:58.810><c> and</c><00:08:58.990><c> parachuting</c><00:08:59.500><c> so</c><00:09:00.070><c> this</c>
+
+00:09:00.240 --> 00:09:00.250 align:start position:0%
+like jump and parachuting so this
+ 
+
+00:09:00.250 --> 00:09:02.610 align:start position:0%
+like jump and parachuting so this
+concept<00:09:00.730><c> is</c><00:09:00.970><c> a</c><00:09:01.180><c> type</c><00:09:01.420><c> of</c><00:09:01.450><c> descent</c><00:09:01.930><c> and</c><00:09:02.110><c> this</c>
+
+00:09:02.610 --> 00:09:02.620 align:start position:0%
+concept is a type of descent and this
+ 
+
+00:09:02.620 --> 00:09:04.110 align:start position:0%
+concept is a type of descent and this
+type<00:09:02.800><c> of</c><00:09:02.830><c> jumping</c><00:09:03.280><c> is</c><00:09:03.400><c> a</c><00:09:03.430><c> type</c><00:09:03.640><c> of</c><00:09:03.790><c> increase</c>
+
+00:09:04.110 --> 00:09:04.120 align:start position:0%
+type of jumping is a type of increase
+ 
+
+00:09:04.120 --> 00:09:06.390 align:start position:0%
+type of jumping is a type of increase
+and<00:09:04.390><c> if</c><00:09:04.750><c> you</c><00:09:04.840><c> want</c><00:09:05.020><c> you</c><00:09:05.170><c> can</c><00:09:05.260><c> browse</c><00:09:05.500><c> this</c><00:09:05.740><c> now</c>
+
+00:09:06.390 --> 00:09:06.400 align:start position:0%
+and if you want you can browse this now
+ 
+
+00:09:06.400 --> 00:09:08.430 align:start position:0%
+and if you want you can browse this now
+this<00:09:06.820><c> lecture</c><00:09:07.180><c> is</c><00:09:07.270><c> not</c><00:09:07.420><c> about</c><00:09:07.720><c> word</c><00:09:07.900><c> net</c><00:09:08.110><c> so</c>
+
+00:09:08.430 --> 00:09:08.440 align:start position:0%
+this lecture is not about word net so
+ 
+
+00:09:08.440 --> 00:09:09.750 align:start position:0%
+this lecture is not about word net so
+that<00:09:08.470><c> stuff's</c><00:09:08.860><c> not</c><00:09:09.040><c> super</c><00:09:09.310><c> important</c><00:09:09.610><c> there's</c>
+
+00:09:09.750 --> 00:09:09.760 align:start position:0%
+that stuff's not super important there's
+ 
+
+00:09:09.760 --> 00:09:11.400 align:start position:0%
+that stuff's not super important there's
+that<00:09:09.910><c> was</c><00:09:10.000><c> kind</c><00:09:10.150><c> of</c><00:09:10.180><c> cool</c><00:09:10.300><c> but</c><00:09:11.050><c> this</c><00:09:11.140><c> graph</c>
+
+00:09:11.400 --> 00:09:11.410 align:start position:0%
+that was kind of cool but this graph
+ 
+
+00:09:11.410 --> 00:09:12.660 align:start position:0%
+that was kind of cool but this graph
+right<00:09:11.680><c> here</c><00:09:11.740><c> you</c><00:09:12.220><c> can</c><00:09:12.370><c> think</c><00:09:12.520><c> of</c><00:09:12.550><c> each</c>
+
+00:09:12.660 --> 00:09:12.670 align:start position:0%
+right here you can think of each
+ 
+
+00:09:12.670 --> 00:09:14.970 align:start position:0%
+right here you can think of each
+directed<00:09:13.300><c> edge</c><00:09:13.450><c> as</c><00:09:13.660><c> representing</c><00:09:14.320><c> in</c><00:09:14.440><c> is</c><00:09:14.620><c> a</c>
+
+00:09:14.970 --> 00:09:14.980 align:start position:0%
+directed edge as representing in is a
+ 
+
+00:09:14.980 --> 00:09:18.630 align:start position:0%
+directed edge as representing in is a
+type<00:09:15.310><c> of</c><00:09:15.900><c> relationship</c><00:09:16.900><c> and</c><00:09:17.220><c> again</c><00:09:18.220><c> trying</c><00:09:18.580><c> to</c>
+
+00:09:18.630 --> 00:09:18.640 align:start position:0%
+type of relationship and again trying to
+ 
+
+00:09:18.640 --> 00:09:22.410 align:start position:0%
+type of relationship and again trying to
+demonstrate<00:09:19.180><c> the</c><00:09:19.360><c> versatility</c><00:09:19.960><c> of</c><00:09:20.080><c> grass</c>
+

@@ -1,0 +1,448 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.629 align:start position:0%
+ 
+let's<00:00:00.930><c> consider</c><00:00:01.110><c> a</c><00:00:01.350><c> more</c><00:00:01.650><c> realistic</c><00:00:01.949><c> example</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+let's consider a more realistic example
+ 
+
+00:00:02.639 --> 00:00:04.430 align:start position:0%
+let's consider a more realistic example
+of<00:00:02.820><c> what</c><00:00:03.000><c> happens</c><00:00:03.389><c> when</c><00:00:03.540><c> an</c><00:00:03.659><c> exception</c><00:00:03.929><c> is</c><00:00:04.230><c> not</c>
+
+00:00:04.430 --> 00:00:04.440 align:start position:0%
+of what happens when an exception is not
+ 
+
+00:00:04.440 --> 00:00:07.430 align:start position:0%
+of what happens when an exception is not
+caught<00:00:04.740><c> so</c><00:00:05.730><c> here</c><00:00:06.000><c> in</c><00:00:06.210><c> homework</c><00:00:06.810><c> 1</c><00:00:06.870><c> this</c><00:00:07.319><c> is</c>
+
+00:00:07.430 --> 00:00:07.440 align:start position:0%
+caught so here in homework 1 this is
+ 
+
+00:00:07.440 --> 00:00:09.650 align:start position:0%
+caught so here in homework 1 this is
+inspired<00:00:07.799><c> by</c><00:00:07.919><c> homework</c><00:00:08.250><c> 1</c><00:00:08.429><c> we</c><00:00:08.970><c> have</c><00:00:09.150><c> a</c><00:00:09.360><c> class</c>
+
+00:00:09.650 --> 00:00:09.660 align:start position:0%
+inspired by homework 1 we have a class
+ 
+
+00:00:09.660 --> 00:00:11.959 align:start position:0%
+inspired by homework 1 we have a class
+called<00:00:09.960><c> guitar</c><00:00:10.320><c> hero</c><00:00:10.530><c> light</c><00:00:10.740><c> it</c><00:00:11.490><c> is</c><00:00:11.639><c> a</c><00:00:11.670><c> method</c>
+
+00:00:11.959 --> 00:00:11.969 align:start position:0%
+called guitar hero light it is a method
+ 
+
+00:00:11.969 --> 00:00:12.499 align:start position:0%
+called guitar hero light it is a method
+called<00:00:12.150><c> main</c>
+
+00:00:12.499 --> 00:00:12.509 align:start position:0%
+called main
+ 
+
+00:00:12.509 --> 00:00:15.289 align:start position:0%
+called main
+it<00:00:13.139><c> calls</c><00:00:13.469><c> guitar</c><00:00:14.040><c> string</c><00:00:14.280><c> example</c><00:00:14.849><c> in</c><00:00:15.089><c> some</c>
+
+00:00:15.289 --> 00:00:15.299 align:start position:0%
+it calls guitar string example in some
+ 
+
+00:00:15.299 --> 00:00:17.300 align:start position:0%
+it calls guitar string example in some
+other<00:00:15.420><c> class</c><00:00:15.599><c> and</c><00:00:16.230><c> that</c><00:00:16.350><c> in</c><00:00:16.470><c> turn</c><00:00:16.619><c> calls</c><00:00:16.920><c> a</c><00:00:17.070><c> ray</c>
+
+00:00:17.300 --> 00:00:17.310 align:start position:0%
+other class and that in turn calls a ray
+ 
+
+00:00:17.310 --> 00:00:21.170 align:start position:0%
+other class and that in turn calls a ray
+ring<00:00:17.550><c> buffer</c><00:00:17.730><c> dot</c><00:00:18.150><c> peak</c><00:00:18.470><c> ok</c><00:00:19.470><c> so</c><00:00:20.430><c> let's</c><00:00:21.060><c> imagine</c>
+
+00:00:21.170 --> 00:00:21.180 align:start position:0%
+ring buffer dot peak ok so let's imagine
+ 
+
+00:00:21.180 --> 00:00:23.810 align:start position:0%
+ring buffer dot peak ok so let's imagine
+that<00:00:22.020><c> something</c><00:00:22.350><c> goes</c><00:00:22.680><c> wrong</c><00:00:22.769><c> in</c><00:00:23.100><c> peak</c><00:00:23.310><c> and</c><00:00:23.490><c> a</c>
+
+00:00:23.810 --> 00:00:23.820 align:start position:0%
+that something goes wrong in peak and a
+ 
+
+00:00:23.820 --> 00:00:26.330 align:start position:0%
+that something goes wrong in peak and a
+runtime<00:00:24.359><c> exception</c><00:00:24.869><c> gets</c><00:00:25.019><c> thrown</c><00:00:25.320><c> well</c><00:00:26.220><c> what</c>
+
+00:00:26.330 --> 00:00:26.340 align:start position:0%
+runtime exception gets thrown well what
+ 
+
+00:00:26.340 --> 00:00:27.740 align:start position:0%
+runtime exception gets thrown well what
+the<00:00:26.430><c> Java</c><00:00:26.670><c> interpreter</c><00:00:27.090><c> will</c><00:00:27.300><c> do</c><00:00:27.449><c> is</c><00:00:27.599><c> it'll</c>
+
+00:00:27.740 --> 00:00:27.750 align:start position:0%
+the Java interpreter will do is it'll
+ 
+
+00:00:27.750 --> 00:00:29.990 align:start position:0%
+the Java interpreter will do is it'll
+say<00:00:27.960><c> is</c><00:00:28.140><c> somebody</c><00:00:28.859><c> in</c><00:00:29.010><c> peak</c><00:00:29.279><c> going</c><00:00:29.699><c> to</c><00:00:29.820><c> catch</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+say is somebody in peak going to catch
+ 
+
+00:00:30.000 --> 00:00:31.939 align:start position:0%
+say is somebody in peak going to catch
+or<00:00:30.330><c> it</c><00:00:30.570><c> will</c><00:00:30.779><c> the</c><00:00:30.929><c> peak</c><00:00:31.140><c> method</c><00:00:31.529><c> catch</c><00:00:31.740><c> the</c>
+
+00:00:31.939 --> 00:00:31.949 align:start position:0%
+or it will the peak method catch the
+ 
+
+00:00:31.949 --> 00:00:34.160 align:start position:0%
+or it will the peak method catch the
+exception<00:00:32.210><c> let's</c><00:00:33.210><c> say</c><00:00:33.360><c> it</c><00:00:33.450><c> does</c><00:00:33.600><c> not</c><00:00:33.719><c> catch</c><00:00:33.989><c> it</c>
+
+00:00:34.160 --> 00:00:34.170 align:start position:0%
+exception let's say it does not catch it
+ 
+
+00:00:34.170 --> 00:00:36.920 align:start position:0%
+exception let's say it does not catch it
+well<00:00:35.040><c> in</c><00:00:35.130><c> that</c><00:00:35.219><c> case</c><00:00:35.280><c> the</c><00:00:35.969><c> exception</c><00:00:36.660><c> began</c>
+
+00:00:36.920 --> 00:00:36.930 align:start position:0%
+well in that case the exception began
+ 
+
+00:00:36.930 --> 00:00:38.360 align:start position:0%
+well in that case the exception began
+descending<00:00:37.350><c> what's</c><00:00:37.710><c> known</c><00:00:37.860><c> as</c><00:00:38.010><c> the</c><00:00:38.160><c> call</c>
+
+00:00:38.360 --> 00:00:38.370 align:start position:0%
+descending what's known as the call
+ 
+
+00:00:38.370 --> 00:00:40.310 align:start position:0%
+descending what's known as the call
+stack<00:00:38.700><c> it's</c><00:00:39.030><c> the</c><00:00:39.239><c> stack</c><00:00:39.480><c> of</c><00:00:39.690><c> methods</c><00:00:40.050><c> that</c><00:00:40.140><c> get</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+stack it's the stack of methods that get
+ 
+
+00:00:40.320 --> 00:00:43.400 align:start position:0%
+stack it's the stack of methods that get
+called<00:00:40.590><c> so</c><00:00:41.190><c> now</c><00:00:41.430><c> we</c><00:00:41.489><c> basically</c><00:00:41.850><c> pop</c><00:00:42.570><c> this</c><00:00:43.170><c> off</c>
+
+00:00:43.400 --> 00:00:43.410 align:start position:0%
+called so now we basically pop this off
+ 
+
+00:00:43.410 --> 00:00:44.750 align:start position:0%
+called so now we basically pop this off
+of<00:00:43.559><c> the</c><00:00:43.649><c> stack</c><00:00:43.860><c> we</c><00:00:44.100><c> can</c><00:00:44.219><c> mentally</c><00:00:44.579><c> imagine</c>
+
+00:00:44.750 --> 00:00:44.760 align:start position:0%
+of the stack we can mentally imagine
+ 
+
+00:00:44.760 --> 00:00:46.369 align:start position:0%
+of the stack we can mentally imagine
+that<00:00:45.090><c> we're</c><00:00:45.270><c> moving</c><00:00:45.480><c> down</c><00:00:45.660><c> the</c><00:00:45.899><c> stack</c><00:00:46.200><c> of</c>
+
+00:00:46.369 --> 00:00:46.379 align:start position:0%
+that we're moving down the stack of
+ 
+
+00:00:46.379 --> 00:00:48.799 align:start position:0%
+that we're moving down the stack of
+methods<00:00:46.710><c> so</c><00:00:47.640><c> we</c><00:00:47.760><c> then</c><00:00:47.879><c> look</c><00:00:48.090><c> for</c><00:00:48.270><c> a</c><00:00:48.300><c> catch</c><00:00:48.570><c> in</c>
+
+00:00:48.799 --> 00:00:48.809 align:start position:0%
+methods so we then look for a catch in
+ 
+
+00:00:48.809 --> 00:00:52.069 align:start position:0%
+methods so we then look for a catch in
+the<00:00:49.230><c> sample</c><00:00:49.980><c> method</c><00:00:50.480><c> now</c><00:00:51.480><c> let's</c><00:00:51.690><c> say</c><00:00:51.809><c> sample</c>
+
+00:00:52.069 --> 00:00:52.079 align:start position:0%
+the sample method now let's say sample
+ 
+
+00:00:52.079 --> 00:00:54.590 align:start position:0%
+the sample method now let's say sample
+also<00:00:52.410><c> does</c><00:00:52.710><c> not</c><00:00:52.829><c> catch</c><00:00:53.070><c> it</c><00:00:53.309><c> so</c><00:00:54.000><c> this</c><00:00:54.149><c> exception</c>
+
+00:00:54.590 --> 00:00:54.600 align:start position:0%
+also does not catch it so this exception
+ 
+
+00:00:54.600 --> 00:00:56.660 align:start position:0%
+also does not catch it so this exception
+will<00:00:54.750><c> now</c><00:00:54.870><c> move</c><00:00:55.020><c> up</c><00:00:55.199><c> to</c><00:00:55.350><c> the</c><00:00:55.440><c> main</c><00:00:55.590><c> method</c><00:00:55.800><c> now</c>
+
+00:00:56.660 --> 00:00:56.670 align:start position:0%
+will now move up to the main method now
+ 
+
+00:00:56.670 --> 00:00:58.400 align:start position:0%
+will now move up to the main method now
+at<00:00:56.789><c> this</c><00:00:56.940><c> point</c><00:00:57.149><c> if</c><00:00:57.390><c> we</c><00:00:57.420><c> caught</c><00:00:57.750><c> the</c><00:00:57.899><c> exception</c>
+
+00:00:58.400 --> 00:00:58.410 align:start position:0%
+at this point if we caught the exception
+ 
+
+00:00:58.410 --> 00:00:59.840 align:start position:0%
+at this point if we caught the exception
+we<00:00:58.739><c> could</c><00:00:58.890><c> print</c><00:00:59.039><c> out</c><00:00:59.100><c> a</c><00:00:59.160><c> message</c><00:00:59.520><c> that</c><00:00:59.670><c> said</c>
+
+00:00:59.840 --> 00:00:59.850 align:start position:0%
+we could print out a message that said
+ 
+
+00:00:59.850 --> 00:01:01.790 align:start position:0%
+we could print out a message that said
+something<00:01:00.090><c> like</c><00:01:00.329><c> something</c><00:01:00.840><c> went</c><00:01:01.140><c> wrong</c><00:01:01.350><c> when</c>
+
+00:01:01.790 --> 00:01:01.800 align:start position:0%
+something like something went wrong when
+ 
+
+00:01:01.800 --> 00:01:04.460 align:start position:0%
+something like something went wrong when
+calling<00:01:02.250><c> guitar</c><00:01:02.609><c> string</c><00:01:02.910><c> dot</c><00:01:03.120><c> sample</c><00:01:03.539><c> but</c><00:01:04.290><c> if</c>
+
+00:01:04.460 --> 00:01:04.470 align:start position:0%
+calling guitar string dot sample but if
+ 
+
+00:01:04.470 --> 00:01:06.560 align:start position:0%
+calling guitar string dot sample but if
+we<00:01:04.650><c> don't</c><00:01:04.949><c> catch</c><00:01:05.220><c> it</c><00:01:05.250><c> in</c><00:01:05.610><c> this</c><00:01:06.060><c> case</c><00:01:06.270><c> the</c>
+
+00:01:06.560 --> 00:01:06.570 align:start position:0%
+we don't catch it in this case the
+ 
+
+00:01:06.570 --> 00:01:08.810 align:start position:0%
+we don't catch it in this case the
+program<00:01:06.930><c> will</c><00:01:07.080><c> crash</c><00:01:07.320><c> and</c><00:01:07.680><c> then</c><00:01:08.220><c> the</c><00:01:08.250><c> Java</c>
+
+00:01:08.810 --> 00:01:08.820 align:start position:0%
+program will crash and then the Java
+ 
+
+00:01:08.820 --> 00:01:10.580 align:start position:0%
+program will crash and then the Java
+interpreter<00:01:09.270><c> will</c><00:01:09.600><c> do</c><00:01:09.810><c> the</c><00:01:10.140><c> best</c><00:01:10.229><c> thing</c><00:01:10.470><c> it</c>
+
+00:01:10.580 --> 00:01:10.590 align:start position:0%
+interpreter will do the best thing it
+ 
+
+00:01:10.590 --> 00:01:12.469 align:start position:0%
+interpreter will do the best thing it
+can<00:01:10.710><c> imagine</c><00:01:11.100><c> which</c><00:01:11.430><c> is</c><00:01:11.640><c> print</c><00:01:11.970><c> out</c><00:01:12.060><c> here</c><00:01:12.330><c> with</c>
+
+00:01:12.469 --> 00:01:12.479 align:start position:0%
+can imagine which is print out here with
+ 
+
+00:01:12.479 --> 00:01:15.020 align:start position:0%
+can imagine which is print out here with
+known<00:01:12.689><c> as</c><00:01:12.810><c> a</c><00:01:12.960><c> stack</c><00:01:13.260><c> trace</c><00:01:13.409><c> yeah</c><00:01:13.950><c> so</c><00:01:14.760><c> basically</c>
+
+00:01:15.020 --> 00:01:15.030 align:start position:0%
+known as a stack trace yeah so basically
+ 
+
+00:01:15.030 --> 00:01:16.580 align:start position:0%
+known as a stack trace yeah so basically
+if<00:01:15.180><c> the</c><00:01:15.270><c> exception</c><00:01:15.540><c> gets</c><00:01:15.810><c> to</c><00:01:16.049><c> the</c><00:01:16.170><c> bottom</c><00:01:16.500><c> of</c>
+
+00:01:16.580 --> 00:01:16.590 align:start position:0%
+if the exception gets to the bottom of
+ 
+
+00:01:16.590 --> 00:01:18.530 align:start position:0%
+if the exception gets to the bottom of
+the<00:01:16.740><c> call</c><00:01:16.920><c> stack</c><00:01:17.220><c> the</c><00:01:17.549><c> program</c><00:01:17.909><c> crashes</c><00:01:18.330><c> and</c>
+
+00:01:18.530 --> 00:01:18.540 align:start position:0%
+the call stack the program crashes and
+ 
+
+00:01:18.540 --> 00:01:20.300 align:start position:0%
+the call stack the program crashes and
+we<00:01:18.600><c> get</c><00:01:18.750><c> a</c><00:01:18.780><c> message</c><00:01:19.140><c> here</c><00:01:19.409><c> and</c><00:01:19.530><c> ideally</c>
+
+00:01:20.300 --> 00:01:20.310 align:start position:0%
+we get a message here and ideally
+ 
+
+00:01:20.310 --> 00:01:22.460 align:start position:0%
+we get a message here and ideally
+because<00:01:20.880><c> this</c><00:01:21.240><c> message</c><00:01:21.450><c> is</c><00:01:21.720><c> kind</c><00:01:21.930><c> of</c><00:01:22.020><c> jargony</c>
+
+00:01:22.460 --> 00:01:22.470 align:start position:0%
+because this message is kind of jargony
+ 
+
+00:01:22.470 --> 00:01:24.560 align:start position:0%
+because this message is kind of jargony
+I<00:01:22.560><c> mean</c><00:01:22.770><c> imagine</c><00:01:22.920><c> you</c><00:01:23.159><c> know</c><00:01:23.340><c> someone</c><00:01:24.330><c> on</c><00:01:24.450><c> their</c>
+
+00:01:24.560 --> 00:01:24.570 align:start position:0%
+I mean imagine you know someone on their
+ 
+
+00:01:24.570 --> 00:01:26.600 align:start position:0%
+I mean imagine you know someone on their
+cell<00:01:24.780><c> phone</c><00:01:24.990><c> using</c><00:01:25.350><c> an</c><00:01:25.619><c> Android</c><00:01:26.460><c> app</c><00:01:26.580><c> that</c>
+
+00:01:26.600 --> 00:01:26.610 align:start position:0%
+cell phone using an Android app that
+ 
+
+00:01:26.610 --> 00:01:28.520 align:start position:0%
+cell phone using an Android app that
+crashes<00:01:27.060><c> but</c><00:01:27.630><c> just</c><00:01:27.810><c> prints</c><00:01:28.049><c> out</c><00:01:28.110><c> this</c><00:01:28.290><c> message</c>
+
+00:01:28.520 --> 00:01:28.530 align:start position:0%
+crashes but just prints out this message
+ 
+
+00:01:28.530 --> 00:01:29.780 align:start position:0%
+crashes but just prints out this message
+they're<00:01:28.799><c> gonna</c><00:01:28.920><c> have</c><00:01:29.070><c> no</c><00:01:29.220><c> idea</c><00:01:29.490><c> what</c><00:01:29.610><c> it</c><00:01:29.700><c> means</c>
+
+00:01:29.780 --> 00:01:29.790 align:start position:0%
+they're gonna have no idea what it means
+ 
+
+00:01:29.790 --> 00:01:31.670 align:start position:0%
+they're gonna have no idea what it means
+they're<00:01:30.030><c> not</c><00:01:30.180><c> a</c><00:01:30.210><c> programmer</c><00:01:30.600><c> probably</c><00:01:31.170><c> so</c>
+
+00:01:31.670 --> 00:01:31.680 align:start position:0%
+they're not a programmer probably so
+ 
+
+00:01:31.680 --> 00:01:33.499 align:start position:0%
+they're not a programmer probably so
+ideally<00:01:32.100><c> the</c><00:01:32.520><c> person</c><00:01:32.970><c> who</c><00:01:33.030><c> actually</c><00:01:33.299><c> sees</c>
+
+00:01:33.499 --> 00:01:33.509 align:start position:0%
+ideally the person who actually sees
+ 
+
+00:01:33.509 --> 00:01:35.090 align:start position:0%
+ideally the person who actually sees
+this<00:01:33.750><c> call</c><00:01:33.990><c> trait</c><00:01:34.229><c> the</c><00:01:34.439><c> stack</c><00:01:34.680><c> trace</c><00:01:34.829><c> is</c>
+
+00:01:35.090 --> 00:01:35.100 align:start position:0%
+this call trait the stack trace is
+ 
+
+00:01:35.100 --> 00:01:37.910 align:start position:0%
+this call trait the stack trace is
+actually<00:01:35.729><c> a</c><00:01:35.759><c> programmer</c><00:01:36.270><c> but</c><00:01:36.479><c> maybe</c><00:01:36.869><c> not</c><00:01:37.049><c> and</c>
+
+00:01:37.910 --> 00:01:37.920 align:start position:0%
+actually a programmer but maybe not and
+ 
+
+00:01:37.920 --> 00:01:38.990 align:start position:0%
+actually a programmer but maybe not and
+so<00:01:38.040><c> in</c><00:01:38.130><c> this</c><00:01:38.220><c> case</c><00:01:38.430><c> the</c><00:01:38.640><c> stack</c><00:01:38.850><c> trace</c>
+
+00:01:38.990 --> 00:01:39.000 align:start position:0%
+so in this case the stack trace
+ 
+
+00:01:39.000 --> 00:01:41.330 align:start position:0%
+so in this case the stack trace
+basically<00:01:39.570><c> says</c><00:01:39.780><c> Guitar</c><00:01:40.500><c> Hero</c><00:01:40.710><c> like</c><00:01:40.890><c> Java</c>
+
+00:01:41.330 --> 00:01:41.340 align:start position:0%
+basically says Guitar Hero like Java
+ 
+
+00:01:41.340 --> 00:01:44.060 align:start position:0%
+basically says Guitar Hero like Java
+online<00:01:41.939><c> 110</c><00:01:42.390><c> ran</c><00:01:43.170><c> into</c><00:01:43.409><c> trouble</c><00:01:43.740><c> when</c><00:01:43.890><c> it</c><00:01:43.979><c> was</c>
+
+00:01:44.060 --> 00:01:44.070 align:start position:0%
+online 110 ran into trouble when it was
+ 
+
+00:01:44.070 --> 00:01:47.179 align:start position:0%
+online 110 ran into trouble when it was
+calling<00:01:44.399><c> a</c><00:01:44.430><c> guitar</c><00:01:44.759><c> string</c><00:01:45.060><c> sample</c><00:01:45.710><c> and</c><00:01:46.710><c> on</c>
+
+00:01:47.179 --> 00:01:47.189 align:start position:0%
+calling a guitar string sample and on
+ 
+
+00:01:47.189 --> 00:01:49.580 align:start position:0%
+calling a guitar string sample and on
+line<00:01:47.399><c> 48</c><00:01:47.820><c> of</c><00:01:48.030><c> this</c><00:01:48.240><c> method</c><00:01:48.630><c> we</c><00:01:49.020><c> then</c><00:01:49.259><c> called</c><00:01:49.530><c> a</c>
+
+00:01:49.580 --> 00:01:49.590 align:start position:0%
+line 48 of this method we then called a
+ 
+
+00:01:49.590 --> 00:01:51.260 align:start position:0%
+line 48 of this method we then called a
+ray<00:01:49.710><c> ring</c><00:01:49.920><c> buffer</c><00:01:50.100><c> dot</c><00:01:50.399><c> peek</c><00:01:50.610><c> oh</c><00:01:50.820><c> and</c><00:01:51.180><c> it's</c>
+
+00:01:51.260 --> 00:01:51.270 align:start position:0%
+ray ring buffer dot peek oh and it's
+ 
+
+00:01:51.270 --> 00:01:53.030 align:start position:0%
+ray ring buffer dot peek oh and it's
+actually<00:01:51.540><c> on</c><00:01:51.630><c> line</c><00:01:51.840><c> 63</c><00:01:52.439><c> of</c><00:01:52.470><c> a</c><00:01:52.619><c> raymond</c><00:01:52.890><c> ring</c>
+
+00:01:53.030 --> 00:01:53.040 align:start position:0%
+actually on line 63 of a raymond ring
+ 
+
+00:01:53.040 --> 00:01:54.770 align:start position:0%
+actually on line 63 of a raymond ring
+buffer<00:01:53.340><c> that</c><00:01:53.460><c> things</c><00:01:53.670><c> went</c><00:01:53.880><c> wrong</c><00:01:54.000><c> and</c><00:01:54.360><c> so</c>
+
+00:01:54.770 --> 00:01:54.780 align:start position:0%
+buffer that things went wrong and so
+ 
+
+00:01:54.780 --> 00:01:56.359 align:start position:0%
+buffer that things went wrong and so
+this<00:01:54.960><c> stack</c><00:01:55.140><c> Trace</c><00:01:55.380><c> is</c><00:01:55.590><c> hopefully</c><00:01:56.040><c> helpful</c>
+
+00:01:56.359 --> 00:01:56.369 align:start position:0%
+this stack Trace is hopefully helpful
+ 
+
+00:01:56.369 --> 00:01:58.759 align:start position:0%
+this stack Trace is hopefully helpful
+for<00:01:56.579><c> somebody</c>
+

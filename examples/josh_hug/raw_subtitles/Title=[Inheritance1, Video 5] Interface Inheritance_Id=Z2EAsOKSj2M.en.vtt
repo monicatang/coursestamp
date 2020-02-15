@@ -1,0 +1,1256 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.119 align:start position:0%
+ 
+this<00:00:00.960><c> brings</c><00:00:01.230><c> us</c><00:00:01.410><c> to</c><00:00:01.560><c> an</c><00:00:01.680><c> incredibly</c>
+
+00:00:02.119 --> 00:00:02.129 align:start position:0%
+this brings us to an incredibly
+ 
+
+00:00:02.129 --> 00:00:03.710 align:start position:0%
+this brings us to an incredibly
+important<00:00:02.669><c> term</c><00:00:02.909><c> that</c><00:00:03.149><c> I</c><00:00:03.270><c> hope</c><00:00:03.510><c> you'll</c>
+
+00:00:03.710 --> 00:00:03.720 align:start position:0%
+important term that I hope you'll
+ 
+
+00:00:03.720 --> 00:00:05.539 align:start position:0%
+important term that I hope you'll
+remember<00:00:03.870><c> from</c><00:00:04.200><c> this</c><00:00:04.410><c> class</c><00:00:04.680><c> that</c><00:00:05.400><c> is</c>
+
+00:00:05.539 --> 00:00:05.549 align:start position:0%
+remember from this class that is
+ 
+
+00:00:05.549 --> 00:00:08.299 align:start position:0%
+remember from this class that is
+interphase<00:00:06.299><c> inheritance</c><00:00:06.899><c> so</c><00:00:07.680><c> we'll</c><00:00:08.069><c> come</c><00:00:08.220><c> to</c>
+
+00:00:08.299 --> 00:00:08.309 align:start position:0%
+interphase inheritance so we'll come to
+ 
+
+00:00:08.309 --> 00:00:09.500 align:start position:0%
+interphase inheritance so we'll come to
+understand<00:00:08.730><c> it</c><00:00:08.849><c> over</c><00:00:08.970><c> the</c><00:00:09.059><c> rest</c><00:00:09.179><c> of</c><00:00:09.389><c> this</c>
+
+00:00:09.500 --> 00:00:09.510 align:start position:0%
+understand it over the rest of this
+ 
+
+00:00:09.510 --> 00:00:12.560 align:start position:0%
+understand it over the rest of this
+lecture<00:00:09.750><c> but</c><00:00:10.469><c> basically</c><00:00:11.370><c> for</c><00:00:11.639><c> now</c><00:00:11.759><c> anytime</c>
+
+00:00:12.560 --> 00:00:12.570 align:start position:0%
+lecture but basically for now anytime
+ 
+
+00:00:12.570 --> 00:00:14.509 align:start position:0%
+lecture but basically for now anytime
+you<00:00:12.719><c> use</c><00:00:12.750><c> the</c><00:00:13.110><c> implements</c><00:00:13.710><c> key</c><00:00:13.889><c> word</c><00:00:14.070><c> we're</c>
+
+00:00:14.509 --> 00:00:14.519 align:start position:0%
+you use the implements key word we're
+ 
+
+00:00:14.519 --> 00:00:15.620 align:start position:0%
+you use the implements key word we're
+doing<00:00:14.759><c> what's</c><00:00:14.940><c> called</c><00:00:15.030><c> interface</c>
+
+00:00:15.620 --> 00:00:15.630 align:start position:0%
+doing what's called interface
+ 
+
+00:00:15.630 --> 00:00:17.750 align:start position:0%
+doing what's called interface
+inheritance<00:00:16.230><c> so</c><00:00:16.890><c> what</c><00:00:17.010><c> I</c><00:00:17.039><c> mean</c><00:00:17.220><c> by</c><00:00:17.279><c> that</c><00:00:17.400><c> is</c>
+
+00:00:17.750 --> 00:00:17.760 align:start position:0%
+inheritance so what I mean by that is
+ 
+
+00:00:17.760 --> 00:00:20.750 align:start position:0%
+inheritance so what I mean by that is
+all<00:00:18.150><c> subclasses</c><00:00:18.960><c> are</c><00:00:19.080><c> said</c><00:00:19.500><c> to</c><00:00:19.650><c> inherit</c><00:00:20.310><c> this</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+all subclasses are said to inherit this
+ 
+
+00:00:20.760 --> 00:00:22.910 align:start position:0%
+all subclasses are said to inherit this
+interface<00:00:21.300><c> from</c><00:00:21.779><c> their</c><00:00:21.930><c> superclass</c><00:00:22.439><c> right</c><00:00:22.769><c> so</c>
+
+00:00:22.910 --> 00:00:22.920 align:start position:0%
+interface from their superclass right so
+ 
+
+00:00:22.920 --> 00:00:23.929 align:start position:0%
+interface from their superclass right so
+if<00:00:22.980><c> any</c><00:00:23.100><c> just</c><00:00:23.250><c> any</c><00:00:23.400><c> hyponym</c>
+
+00:00:23.929 --> 00:00:23.939 align:start position:0%
+if any just any hyponym
+ 
+
+00:00:23.939 --> 00:00:26.089 align:start position:0%
+if any just any hyponym
+it<00:00:24.300><c> inherits</c><00:00:24.750><c> the</c><00:00:24.840><c> interface</c><00:00:25.260><c> so</c><00:00:25.949><c> in</c><00:00:26.039><c> other</c>
+
+00:00:26.089 --> 00:00:26.099 align:start position:0%
+it inherits the interface so in other
+ 
+
+00:00:26.099 --> 00:00:28.009 align:start position:0%
+it inherits the interface so in other
+words<00:00:26.340><c> whenever</c><00:00:26.939><c> you</c><00:00:27.060><c> go</c><00:00:27.240><c> through</c><00:00:27.510><c> when</c><00:00:27.900><c> you</c>
+
+00:00:28.009 --> 00:00:28.019 align:start position:0%
+words whenever you go through when you
+ 
+
+00:00:28.019 --> 00:00:31.040 align:start position:0%
+words whenever you go through when you
+say<00:00:28.289><c> X</c><00:00:29.250><c> implements</c><00:00:29.970><c> list</c><00:00:30.210><c> 61b</c>
+
+00:00:31.040 --> 00:00:31.050 align:start position:0%
+say X implements list 61b
+ 
+
+00:00:31.050 --> 00:00:33.049 align:start position:0%
+say X implements list 61b
+in<00:00:31.260><c> the</c><00:00:31.619><c> same</c><00:00:31.800><c> way</c><00:00:31.980><c> that</c><00:00:32.160><c> I</c><00:00:32.219><c> have</c><00:00:32.550><c> a</c><00:00:32.579><c> license</c>
+
+00:00:33.049 --> 00:00:33.059 align:start position:0%
+in the same way that I have a license
+ 
+
+00:00:33.059 --> 00:00:34.160 align:start position:0%
+in the same way that I have a license
+that<00:00:33.120><c> says</c><00:00:33.390><c> I'm</c><00:00:33.540><c> a</c><00:00:33.630><c> doctor</c>
+
+00:00:34.160 --> 00:00:34.170 align:start position:0%
+that says I'm a doctor
+ 
+
+00:00:34.170 --> 00:00:35.720 align:start position:0%
+that says I'm a doctor
+that's<00:00:34.410><c> a</c><00:00:34.500><c> lot</c><00:00:34.710><c> you're</c><00:00:34.860><c> gonna</c><00:00:34.920><c> expect</c><00:00:35.399><c> from</c><00:00:35.579><c> me</c>
+
+00:00:35.720 --> 00:00:35.730 align:start position:0%
+that's a lot you're gonna expect from me
+ 
+
+00:00:35.730 --> 00:00:39.049 align:start position:0%
+that's a lot you're gonna expect from me
+okay<00:00:36.030><c> same</c><00:00:36.660><c> deal</c><00:00:37.040><c> so</c><00:00:38.040><c> the</c><00:00:38.129><c> interface</c><00:00:38.520><c> consists</c>
+
+00:00:39.049 --> 00:00:39.059 align:start position:0%
+okay same deal so the interface consists
+ 
+
+00:00:39.059 --> 00:00:40.639 align:start position:0%
+okay same deal so the interface consists
+of<00:00:39.120><c> all</c><00:00:39.329><c> the</c><00:00:39.540><c> methods</c><00:00:39.870><c> signatures</c><00:00:40.260><c> all</c><00:00:40.469><c> the</c>
+
+00:00:40.639 --> 00:00:40.649 align:start position:0%
+of all the methods signatures all the
+ 
+
+00:00:40.649 --> 00:00:42.020 align:start position:0%
+of all the methods signatures all the
+things<00:00:40.829><c> you</c><00:00:40.950><c> expect</c><00:00:41.040><c> the</c><00:00:41.340><c> doctor</c><00:00:41.730><c> to</c><00:00:41.850><c> be</c><00:00:41.879><c> able</c>
+
+00:00:42.020 --> 00:00:42.030 align:start position:0%
+things you expect the doctor to be able
+ 
+
+00:00:42.030 --> 00:00:44.150 align:start position:0%
+things you expect the doctor to be able
+to<00:00:42.149><c> do</c><00:00:42.329><c> prescribe</c><00:00:42.870><c> drugs</c><00:00:43.140><c> like</c><00:00:43.680><c> help</c><00:00:43.890><c> you</c><00:00:44.010><c> when</c>
+
+00:00:44.150 --> 00:00:44.160 align:start position:0%
+to do prescribe drugs like help you when
+ 
+
+00:00:44.160 --> 00:00:46.670 align:start position:0%
+to do prescribe drugs like help you when
+you're<00:00:44.280><c> sick</c><00:00:44.489><c> those</c><00:00:44.730><c> kind</c><00:00:44.969><c> of</c><00:00:45.000><c> things</c><00:00:45.680><c> and</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+you're sick those kind of things and
+ 
+
+00:00:46.680 --> 00:00:48.560 align:start position:0%
+you're sick those kind of things and
+actually<00:00:47.100><c> it</c><00:00:47.309><c> turns</c><00:00:47.579><c> out</c><00:00:47.730><c> that</c><00:00:47.789><c> these</c><00:00:48.030><c> these</c>
+
+00:00:48.560 --> 00:00:48.570 align:start position:0%
+actually it turns out that these these
+ 
+
+00:00:48.570 --> 00:00:50.510 align:start position:0%
+actually it turns out that these these
+relationships<00:00:49.200><c> can</c><00:00:49.289><c> be</c><00:00:49.520><c> multi-generational</c>
+
+00:00:50.510 --> 00:00:50.520 align:start position:0%
+relationships can be multi-generational
+ 
+
+00:00:50.520 --> 00:00:53.660 align:start position:0%
+relationships can be multi-generational
+that<00:00:51.059><c> is</c><00:00:51.239><c> we</c><00:00:51.629><c> can</c><00:00:51.809><c> have</c><00:00:51.989><c> say</c><00:00:52.710><c> government</c>
+
+00:00:53.660 --> 00:00:53.670 align:start position:0%
+that is we can have say government
+ 
+
+00:00:53.670 --> 00:00:55.220 align:start position:0%
+that is we can have say government
+official<00:00:54.270><c> at</c><00:00:54.390><c> the</c><00:00:54.510><c> very</c><00:00:54.690><c> top</c><00:00:54.899><c> government</c>
+
+00:00:55.220 --> 00:00:55.230 align:start position:0%
+official at the very top government
+ 
+
+00:00:55.230 --> 00:00:57.860 align:start position:0%
+official at the very top government
+officials<00:00:55.890><c> should</c><00:00:56.129><c> serve</c><00:00:56.520><c> the</c><00:00:56.789><c> people</c><00:00:57.090><c> lower</c>
+
+00:00:57.860 --> 00:00:57.870 align:start position:0%
+officials should serve the people lower
+ 
+
+00:00:57.870 --> 00:01:00.020 align:start position:0%
+officials should serve the people lower
+down<00:00:57.989><c> we</c><00:00:58.289><c> may</c><00:00:58.410><c> have</c><00:00:58.559><c> mayor</c><00:00:58.920><c> so</c><00:00:59.430><c> a</c><00:00:59.460><c> mayor</c><00:00:59.730><c> is</c><00:01:00.000><c> a</c>
+
+00:01:00.020 --> 00:01:00.030 align:start position:0%
+down we may have mayor so a mayor is a
+ 
+
+00:01:00.030 --> 00:01:02.270 align:start position:0%
+down we may have mayor so a mayor is a
+governmental<00:01:00.660><c> official</c><00:01:00.899><c> so</c><00:01:01.680><c> it</c><00:01:01.739><c> does</c><00:01:01.890><c> all</c><00:01:02.070><c> the</c>
+
+00:01:02.270 --> 00:01:02.280 align:start position:0%
+governmental official so it does all the
+ 
+
+00:01:02.280 --> 00:01:03.830 align:start position:0%
+governmental official so it does all the
+things<00:01:02.460><c> that</c><00:01:02.640><c> governmental</c><00:01:03.000><c> officials</c><00:01:03.570><c> share</c>
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+things that governmental officials share
+ 
+
+00:01:03.840 --> 00:01:06.140 align:start position:0%
+things that governmental officials share
+serving<00:01:04.589><c> people</c><00:01:04.769><c> but</c><00:01:05.339><c> the</c><00:01:05.430><c> mayor</c><00:01:05.610><c> also</c><00:01:05.939><c> has</c><00:01:06.060><c> to</c>
+
+00:01:06.140 --> 00:01:06.150 align:start position:0%
+serving people but the mayor also has to
+ 
+
+00:01:06.150 --> 00:01:08.030 align:start position:0%
+serving people but the mayor also has to
+do<00:01:06.270><c> things</c><00:01:06.510><c> like</c><00:01:06.689><c> balance</c><00:01:06.960><c> city</c><00:01:07.439><c> budget</c><00:01:07.860><c> or</c>
+
+00:01:08.030 --> 00:01:08.040 align:start position:0%
+do things like balance city budget or
+ 
+
+00:01:08.040 --> 00:01:09.620 align:start position:0%
+do things like balance city budget or
+whatever<00:01:08.280><c> that</c><00:01:08.460><c> may</c><00:01:08.670><c> mean</c><00:01:08.700><c> and</c><00:01:09.060><c> then</c><00:01:09.390><c> you</c><00:01:09.479><c> may</c>
+
+00:01:09.620 --> 00:01:09.630 align:start position:0%
+whatever that may mean and then you may
+ 
+
+00:01:09.630 --> 00:01:11.660 align:start position:0%
+whatever that may mean and then you may
+have<00:01:09.720><c> specific</c><00:01:09.930><c> mayor's</c><00:01:10.439><c> like</c><00:01:10.799><c> LaGuardia</c><00:01:11.460><c> or</c>
+
+00:01:11.660 --> 00:01:11.670 align:start position:0%
+have specific mayor's like LaGuardia or
+ 
+
+00:01:11.670 --> 00:01:16.039 align:start position:0%
+have specific mayor's like LaGuardia or
+whatever<00:01:11.939><c> okay</c><00:01:12.500><c> so</c><00:01:13.500><c> in</c><00:01:14.220><c> the</c><00:01:15.150><c> diagrams</c><00:01:15.930><c> that</c>
+
+00:01:16.039 --> 00:01:16.049 align:start position:0%
+whatever okay so in the diagrams that
+ 
+
+00:01:16.049 --> 00:01:17.870 align:start position:0%
+whatever okay so in the diagrams that
+I'm<00:01:16.200><c> gonna</c><00:01:16.350><c> have</c><00:01:16.590><c> in</c><00:01:16.740><c> the</c><00:01:16.799><c> future</c><00:01:16.979><c> I'm</c><00:01:17.700><c> gonna</c>
+
+00:01:17.870 --> 00:01:17.880 align:start position:0%
+I'm gonna have in the future I'm gonna
+ 
+
+00:01:17.880 --> 00:01:20.090 align:start position:0%
+I'm gonna have in the future I'm gonna
+specify<00:01:18.119><c> that</c><00:01:18.570><c> any</c><00:01:18.689><c> interface</c><00:01:19.320><c> is</c><00:01:19.680><c> gonna</c><00:01:19.950><c> be</c>
+
+00:01:20.090 --> 00:01:20.100 align:start position:0%
+specify that any interface is gonna be
+ 
+
+00:01:20.100 --> 00:01:22.520 align:start position:0%
+specify that any interface is gonna be
+in<00:01:20.159><c> white</c><00:01:20.369><c> and</c><00:01:20.580><c> any</c><00:01:20.909><c> class</c><00:01:21.270><c> is</c><00:01:21.540><c> in</c><00:01:21.659><c> green</c><00:01:21.930><c> so</c>
+
+00:01:22.520 --> 00:01:22.530 align:start position:0%
+in white and any class is in green so
+ 
+
+00:01:22.530 --> 00:01:23.810 align:start position:0%
+in white and any class is in green so
+you<00:01:22.590><c> can</c><00:01:22.770><c> think</c><00:01:22.979><c> if</c><00:01:23.100><c> you</c><00:01:23.189><c> want</c><00:01:23.340><c> to</c><00:01:23.400><c> use</c><00:01:23.490><c> people</c>
+
+00:01:23.810 --> 00:01:23.820 align:start position:0%
+you can think if you want to use people
+ 
+
+00:01:23.820 --> 00:01:26.330 align:start position:0%
+you can think if you want to use people
+as<00:01:24.180><c> an</c><00:01:24.390><c> example</c><00:01:24.840><c> these</c><00:01:25.170><c> are</c><00:01:25.229><c> job</c><00:01:25.650><c> titles</c><00:01:26.130><c> or</c>
+
+00:01:26.330 --> 00:01:26.340 align:start position:0%
+as an example these are job titles or
+ 
+
+00:01:26.340 --> 00:01:27.800 align:start position:0%
+as an example these are job titles or
+categories<00:01:26.790><c> of</c><00:01:26.850><c> people</c><00:01:27.030><c> and</c><00:01:27.390><c> these</c><00:01:27.570><c> are</c><00:01:27.630><c> gonna</c>
+
+00:01:27.800 --> 00:01:27.810 align:start position:0%
+categories of people and these are gonna
+ 
+
+00:01:27.810 --> 00:01:30.590 align:start position:0%
+categories of people and these are gonna
+be<00:01:28.020><c> specific</c><00:01:28.560><c> people</c><00:01:28.740><c> so</c><00:01:29.600><c> interface</c>
+
+00:01:30.590 --> 00:01:30.600 align:start position:0%
+be specific people so interface
+ 
+
+00:01:30.600 --> 00:01:32.420 align:start position:0%
+be specific people so interface
+inheritance<00:01:31.229><c> is</c><00:01:31.409><c> going</c><00:01:31.770><c> to</c><00:01:31.890><c> be</c><00:01:31.979><c> just</c><00:01:32.189><c> an</c>
+
+00:01:32.420 --> 00:01:32.430 align:start position:0%
+inheritance is going to be just an
+ 
+
+00:01:32.430 --> 00:01:34.429 align:start position:0%
+inheritance is going to be just an
+incredibly<00:01:33.030><c> useful</c><00:01:33.270><c> tool</c><00:01:33.540><c> for</c><00:01:33.960><c> generalizing</c>
+
+00:01:34.429 --> 00:01:34.439 align:start position:0%
+incredibly useful tool for generalizing
+ 
+
+00:01:34.439 --> 00:01:36.260 align:start position:0%
+incredibly useful tool for generalizing
+code<00:01:34.770><c> I</c><00:01:34.799><c> think</c><00:01:34.979><c> it's</c><00:01:35.250><c> a</c><00:01:35.340><c> really</c><00:01:35.790><c> really</c><00:01:35.970><c> lovely</c>
+
+00:01:36.260 --> 00:01:36.270 align:start position:0%
+code I think it's a really really lovely
+ 
+
+00:01:36.270 --> 00:01:38.420 align:start position:0%
+code I think it's a really really lovely
+idea<00:01:36.780><c> and</c><00:01:36.990><c> programming</c><00:01:37.439><c> languages</c><00:01:37.710><c> and</c><00:01:38.040><c> we've</c>
+
+00:01:38.420 --> 00:01:38.430 align:start position:0%
+idea and programming languages and we've
+ 
+
+00:01:38.430 --> 00:01:39.980 align:start position:0%
+idea and programming languages and we've
+already<00:01:38.549><c> seen</c><00:01:38.880><c> an</c><00:01:39.030><c> action</c><00:01:39.390><c> in</c><00:01:39.509><c> fact</c><00:01:39.659><c> if</c><00:01:39.900><c> we</c>
+
+00:01:39.980 --> 00:01:39.990 align:start position:0%
+already seen an action in fact if we
+ 
+
+00:01:39.990 --> 00:01:42.530 align:start position:0%
+already seen an action in fact if we
+look<00:01:40.200><c> at</c><00:01:40.350><c> our</c><00:01:40.439><c> word</c><00:01:40.619><c> utils</c><00:01:41.009><c> class</c><00:01:41.340><c> it</c><00:01:42.210><c> can</c>
+
+00:01:42.530 --> 00:01:42.540 align:start position:0%
+look at our word utils class it can
+ 
+
+00:01:42.540 --> 00:01:44.300 align:start position:0%
+look at our word utils class it can
+handle<00:01:42.840><c> any</c><00:01:43.020><c> kind</c><00:01:43.259><c> of</c><00:01:43.290><c> list</c><00:01:43.470><c> and</c><00:01:43.680><c> that's</c><00:01:44.040><c> real</c>
+
+00:01:44.300 --> 00:01:44.310 align:start position:0%
+handle any kind of list and that's real
+ 
+
+00:01:44.310 --> 00:01:48.440 align:start position:0%
+handle any kind of list and that's real
+nice<00:01:45.350><c> so</c><00:01:46.490><c> given</c><00:01:47.490><c> that</c><00:01:47.520><c> fact</c><00:01:47.880><c> let's</c><00:01:48.240><c> talk</c><00:01:48.420><c> a</c>
+
+00:01:48.440 --> 00:01:48.450 align:start position:0%
+nice so given that fact let's talk a
+ 
+
+00:01:48.450 --> 00:01:50.090 align:start position:0%
+nice so given that fact let's talk a
+little<00:01:48.570><c> bit</c><00:01:48.840><c> about</c><00:01:49.100><c> implementation</c>
+
+00:01:50.090 --> 00:01:50.100 align:start position:0%
+little bit about implementation
+ 
+
+00:01:50.100 --> 00:01:51.889 align:start position:0%
+little bit about implementation
+inheritance<00:01:50.369><c> and</c><00:01:50.970><c> how</c><00:01:51.270><c> it</c><00:01:51.390><c> interacts</c><00:01:51.780><c> with</c>
+
+00:01:51.889 --> 00:01:51.899 align:start position:0%
+inheritance and how it interacts with
+ 
+
+00:01:51.899 --> 00:01:54.560 align:start position:0%
+inheritance and how it interacts with
+the<00:01:52.079><c> golden</c><00:01:52.470><c> rule</c><00:01:52.680><c> of</c><00:01:52.860><c> equals</c><00:01:53.360><c> so</c><00:01:54.360><c> there's</c><00:01:54.540><c> a</c>
+
+00:01:54.560 --> 00:01:54.570 align:start position:0%
+the golden rule of equals so there's a
+ 
+
+00:01:54.570 --> 00:01:56.209 align:start position:0%
+the golden rule of equals so there's a
+little<00:01:54.720><c> bit</c><00:01:54.930><c> of</c><00:01:55.049><c> a</c><00:01:55.110><c> paradox</c><00:01:55.530><c> that</c><00:01:55.799><c> a</c><00:01:55.829><c> student</c>
+
+00:01:56.209 --> 00:01:56.219 align:start position:0%
+little bit of a paradox that a student
+ 
+
+00:01:56.219 --> 00:01:58.340 align:start position:0%
+little bit of a paradox that a student
+some<00:01:56.490><c> number</c><00:01:56.790><c> of</c><00:01:56.880><c> semesters</c><00:01:57.299><c> ago</c><00:01:57.450><c> as</c><00:01:57.840><c> a</c><00:01:57.869><c> little</c>
+
+00:01:58.340 --> 00:01:58.350 align:start position:0%
+some number of semesters ago as a little
+ 
+
+00:01:58.350 --> 00:01:59.929 align:start position:0%
+some number of semesters ago as a little
+bit<00:01:58.469><c> next</c><00:01:58.680><c> about</c><00:01:58.950><c> I</c><00:01:59.070><c> decided</c><00:01:59.310><c> to</c><00:01:59.490><c> roll</c><00:01:59.670><c> it</c><00:01:59.790><c> into</c>
+
+00:01:59.929 --> 00:01:59.939 align:start position:0%
+bit next about I decided to roll it into
+ 
+
+00:01:59.939 --> 00:02:01.340 align:start position:0%
+bit next about I decided to roll it into
+lecture<00:02:00.329><c> maybe</c><00:02:00.600><c> it's</c><00:02:00.780><c> not</c><00:02:00.840><c> the</c><00:02:00.960><c> most</c><00:02:01.079><c> exciting</c>
+
+00:02:01.340 --> 00:02:01.350 align:start position:0%
+lecture maybe it's not the most exciting
+ 
+
+00:02:01.350 --> 00:02:02.709 align:start position:0%
+lecture maybe it's not the most exciting
+thing<00:02:01.530><c> but</c><00:02:01.770><c> I'm</c><00:02:01.860><c> gonna</c><00:02:01.950><c> bring</c><00:02:02.130><c> it</c><00:02:02.280><c> up</c><00:02:02.340><c> anyway</c>
+
+00:02:02.709 --> 00:02:02.719 align:start position:0%
+thing but I'm gonna bring it up anyway
+ 
+
+00:02:02.719 --> 00:02:06.709 align:start position:0%
+thing but I'm gonna bring it up anyway
+so<00:02:03.719><c> the</c><00:02:04.649><c> first</c><00:02:04.890><c> fact</c><00:02:05.159><c> is</c><00:02:05.369><c> whenever</c><00:02:05.820><c> you</c><00:02:06.119><c> say</c><00:02:06.360><c> x</c>
+
+00:02:06.709 --> 00:02:06.719 align:start position:0%
+so the first fact is whenever you say x
+ 
+
+00:02:06.719 --> 00:02:08.630 align:start position:0%
+so the first fact is whenever you say x
+equals<00:02:07.079><c> y</c><00:02:07.439><c> or</c><00:02:07.979><c> whenever</c><00:02:08.190><c> you</c><00:02:08.340><c> pass</c><00:02:08.580><c> a</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+equals y or whenever you pass a
+ 
+
+00:02:08.640 --> 00:02:10.639 align:start position:0%
+equals y or whenever you pass a
+parameter<00:02:08.940><c> to</c><00:02:09.300><c> a</c><00:02:09.479><c> function</c><00:02:09.899><c> you're</c><00:02:10.440><c> just</c>
+
+00:02:10.639 --> 00:02:10.649 align:start position:0%
+parameter to a function you're just
+ 
+
+00:02:10.649 --> 00:02:12.949 align:start position:0%
+parameter to a function you're just
+copying<00:02:10.830><c> the</c><00:02:11.099><c> bits</c><00:02:11.280><c> remember</c><00:02:11.700><c> that</c><00:02:11.959><c> to</c>
+
+00:02:12.949 --> 00:02:12.959 align:start position:0%
+copying the bits remember that to
+ 
+
+00:02:12.959 --> 00:02:14.220 align:start position:0%
+copying the bits remember that to
+remember<00:02:13.530><c> we</c><00:02:13.739><c> had</c><00:02:13.860><c> this</c>
+
+00:02:14.220 --> 00:02:14.230 align:start position:0%
+remember we had this
+ 
+
+00:02:14.230 --> 00:02:16.380 align:start position:0%
+remember we had this
+type<00:02:14.650><c> checking</c><00:02:15.040><c> in</c><00:02:15.129><c> Java</c><00:02:15.340><c> which</c><00:02:16.060><c> is</c><00:02:16.120><c> that</c><00:02:16.360><c> a</c>
+
+00:02:16.380 --> 00:02:16.390 align:start position:0%
+type checking in Java which is that a
+ 
+
+00:02:16.390 --> 00:02:18.390 align:start position:0%
+type checking in Java which is that a
+memory<00:02:16.629><c> box</c><00:02:16.900><c> can</c><00:02:17.200><c> only</c><00:02:17.410><c> hold</c><00:02:17.650><c> 64-bit</c>
+
+00:02:18.390 --> 00:02:18.400 align:start position:0%
+memory box can only hold 64-bit
+ 
+
+00:02:18.400 --> 00:02:20.460 align:start position:0%
+memory box can only hold 64-bit
+addresses<00:02:18.970><c> for</c><00:02:19.150><c> the</c><00:02:19.239><c> appropriate</c><00:02:19.660><c> type</c><00:02:19.870><c> so</c><00:02:20.379><c> in</c>
+
+00:02:20.460 --> 00:02:20.470 align:start position:0%
+addresses for the appropriate type so in
+ 
+
+00:02:20.470 --> 00:02:22.020 align:start position:0%
+addresses for the appropriate type so in
+other<00:02:20.530><c> words</c><00:02:20.709><c> we</c><00:02:20.830><c> can't</c><00:02:21.010><c> say</c><00:02:21.190><c> string</c><00:02:21.489><c> x</c><00:02:21.670><c> equals</c>
+
+00:02:22.020 --> 00:02:22.030 align:start position:0%
+other words we can't say string x equals
+ 
+
+00:02:22.030 --> 00:02:23.430 align:start position:0%
+other words we can't say string x equals
+new<00:02:22.180><c> dog</c><00:02:22.360><c> that's</c><00:02:22.720><c> not</c><00:02:22.930><c> allowed</c>
+
+00:02:23.430 --> 00:02:23.440 align:start position:0%
+new dog that's not allowed
+ 
+
+00:02:23.440 --> 00:02:25.530 align:start position:0%
+new dog that's not allowed
+however<00:02:24.160><c> we</c><00:02:24.610><c> look</c><00:02:24.790><c> at</c><00:02:24.879><c> this</c><00:02:25.030><c> code</c><00:02:25.300><c> it</c><00:02:25.450><c> actually</c>
+
+00:02:25.530 --> 00:02:25.540 align:start position:0%
+however we look at this code it actually
+ 
+
+00:02:25.540 --> 00:02:27.240 align:start position:0%
+however we look at this code it actually
+seems<00:02:25.900><c> like</c><00:02:25.959><c> we're</c><00:02:26.200><c> doing</c><00:02:26.440><c> that</c><00:02:26.590><c> we're</c><00:02:27.040><c> saying</c>
+
+00:02:27.240 --> 00:02:27.250 align:start position:0%
+seems like we're doing that we're saying
+ 
+
+00:02:27.250 --> 00:02:29.309 align:start position:0%
+seems like we're doing that we're saying
+new<00:02:27.459><c> a</c><00:02:27.489><c> list</c><00:02:27.910><c> and</c><00:02:28.209><c> we're</c><00:02:28.599><c> storing</c><00:02:28.840><c> it</c><00:02:28.989><c> in</c><00:02:29.080><c> an</c><00:02:29.200><c> a</c>
+
+00:02:29.309 --> 00:02:29.319 align:start position:0%
+new a list and we're storing it in an a
+ 
+
+00:02:29.319 --> 00:02:31.890 align:start position:0%
+new a list and we're storing it in an a
+list<00:02:29.560><c> boxes</c><00:02:30.220><c> a</c><00:02:30.340><c> list</c><00:02:30.640><c> memory</c><00:02:30.940><c> box</c><00:02:31.239><c> and</c><00:02:31.660><c> we're</c>
+
+00:02:31.890 --> 00:02:31.900 align:start position:0%
+list boxes a list memory box and we're
+ 
+
+00:02:31.900 --> 00:02:33.449 align:start position:0%
+list boxes a list memory box and we're
+passing<00:02:32.290><c> it</c><00:02:32.380><c> into</c><00:02:32.590><c> this</c><00:02:32.709><c> box</c><00:02:32.920><c> we're</c><00:02:33.280><c> copying</c>
+
+00:02:33.449 --> 00:02:33.459 align:start position:0%
+passing it into this box we're copying
+ 
+
+00:02:33.459 --> 00:02:35.550 align:start position:0%
+passing it into this box we're copying
+the<00:02:33.730><c> bits</c><00:02:33.940><c> so</c><00:02:34.630><c> in</c><00:02:34.690><c> other</c><00:02:34.750><c> words</c><00:02:34.930><c> how</c><00:02:35.230><c> did</c><00:02:35.380><c> these</c>
+
+00:02:35.550 --> 00:02:35.560 align:start position:0%
+the bits so in other words how did these
+ 
+
+00:02:35.560 --> 00:02:37.680 align:start position:0%
+the bits so in other words how did these
+bits<00:02:35.920><c> which</c><00:02:36.340><c> are</c><00:02:36.489><c> stored</c><00:02:36.700><c> in</c><00:02:36.880><c> an</c><00:02:36.970><c> S</c><00:02:37.180><c> list</c><00:02:37.450><c> box</c>
+
+00:02:37.680 --> 00:02:37.690 align:start position:0%
+bits which are stored in an S list box
+ 
+
+00:02:37.690 --> 00:02:39.330 align:start position:0%
+bits which are stored in an S list box
+are<00:02:37.900><c> in</c><00:02:37.959><c> a</c><00:02:38.050><c> list</c><00:02:38.260><c> box</c><00:02:38.470><c> how</c><00:02:38.860><c> did</c><00:02:38.980><c> those</c><00:02:39.069><c> end</c><00:02:39.280><c> up</c>
+
+00:02:39.330 --> 00:02:39.340 align:start position:0%
+are in a list box how did those end up
+ 
+
+00:02:39.340 --> 00:02:42.839 align:start position:0%
+are in a list box how did those end up
+in<00:02:39.519><c> a</c><00:02:39.580><c> list</c><00:02:39.760><c> 61b</c><00:02:40.450><c> box</c><00:02:40.980><c> well</c><00:02:41.980><c> let's</c><00:02:42.489><c> actually</c>
+
+00:02:42.839 --> 00:02:42.849 align:start position:0%
+in a list 61b box well let's actually
+ 
+
+00:02:42.849 --> 00:02:44.670 align:start position:0%
+in a list 61b box well let's actually
+just<00:02:43.209><c> for</c><00:02:43.480><c> the</c><00:02:43.569><c> sake</c><00:02:43.750><c> of</c><00:02:43.780><c> the</c><00:02:43.989><c> argument</c><00:02:44.140><c> let's</c>
+
+00:02:44.670 --> 00:02:44.680 align:start position:0%
+just for the sake of the argument let's
+ 
+
+00:02:44.680 --> 00:02:47.430 align:start position:0%
+just for the sake of the argument let's
+run<00:02:45.640><c> this</c><00:02:45.790><c> in</c><00:02:45.940><c> the</c><00:02:46.030><c> debugger</c><00:02:46.330><c> and</c><00:02:46.540><c> see</c><00:02:47.080><c> exactly</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+run this in the debugger and see exactly
+ 
+
+00:02:47.440 --> 00:02:48.660 align:start position:0%
+run this in the debugger and see exactly
+what<00:02:47.680><c> I</c><00:02:47.709><c> mean</c><00:02:47.799><c> in</c><00:02:48.069><c> case</c><00:02:48.220><c> you</c><00:02:48.370><c> didn't</c><00:02:48.580><c> quite</c>
+
+00:02:48.660 --> 00:02:48.670 align:start position:0%
+what I mean in case you didn't quite
+ 
+
+00:02:48.670 --> 00:02:50.910 align:start position:0%
+what I mean in case you didn't quite
+follow<00:02:48.849><c> that</c><00:02:49.060><c> so</c><00:02:50.019><c> we</c><00:02:50.140><c> look</c><00:02:50.290><c> in</c><00:02:50.380><c> the</c><00:02:50.470><c> visualizer</c>
+
+00:02:50.910 --> 00:02:50.920 align:start position:0%
+follow that so we look in the visualizer
+ 
+
+00:02:50.920 --> 00:02:53.580 align:start position:0%
+follow that so we look in the visualizer
+when<00:02:51.580><c> we</c><00:02:51.670><c> get</c><00:02:51.790><c> to</c><00:02:51.910><c> this</c><00:02:52.030><c> point</c><00:02:52.269><c> in</c><00:02:52.480><c> our</c><00:02:52.599><c> code</c><00:02:52.840><c> we</c>
+
+00:02:53.580 --> 00:02:53.590 align:start position:0%
+when we get to this point in our code we
+ 
+
+00:02:53.590 --> 00:02:55.020 align:start position:0%
+when we get to this point in our code we
+see<00:02:53.739><c> the</c><00:02:53.890><c> elk</c><00:02:54.069><c> are</c><00:02:54.340><c> watching</c><00:02:54.790><c> yadda</c><00:02:54.970><c> yadda</c>
+
+00:02:55.020 --> 00:02:55.030 align:start position:0%
+see the elk are watching yadda yadda
+ 
+
+00:02:55.030 --> 00:02:58.020 align:start position:0%
+see the elk are watching yadda yadda
+yadda<00:02:55.209><c> and</c><00:02:55.739><c> we</c><00:02:56.739><c> step</c><00:02:57.010><c> into</c><00:02:57.190><c> this</c><00:02:57.370><c> thing</c><00:02:58.000><c> so</c>
+
+00:02:58.020 --> 00:02:58.030 align:start position:0%
+yadda and we step into this thing so
+ 
+
+00:02:58.030 --> 00:03:00.569 align:start position:0%
+yadda and we step into this thing so
+here's<00:02:58.450><c> some</c><00:02:58.660><c> list</c><00:02:58.930><c> it</c><00:02:59.319><c> is</c><00:02:59.440><c> a</c><00:02:59.470><c> 64-bit</c><00:03:00.190><c> memory</c>
+
+00:03:00.569 --> 00:03:00.579 align:start position:0%
+here's some list it is a 64-bit memory
+ 
+
+00:03:00.579 --> 00:03:03.300 align:start position:0%
+here's some list it is a 64-bit memory
+box<00:03:00.970><c> that</c><00:03:01.540><c> holds</c><00:03:01.900><c> the</c><00:03:01.989><c> address</c><00:03:02.140><c> of</c><00:03:02.709><c> a</c><00:03:02.860><c> list</c><00:03:03.130><c> and</c>
+
+00:03:03.300 --> 00:03:03.310 align:start position:0%
+box that holds the address of a list and
+ 
+
+00:03:03.310 --> 00:03:06.449 align:start position:0%
+box that holds the address of a list and
+then<00:03:04.030><c> whenever</c><00:03:04.180><c> we</c><00:03:04.420><c> go</c><00:03:04.630><c> we</c><00:03:04.900><c> step</c><00:03:05.140><c> in</c><00:03:05.349><c> we</c><00:03:06.040><c> get</c>
+
+00:03:06.449 --> 00:03:06.459 align:start position:0%
+then whenever we go we step in we get
+ 
+
+00:03:06.459 --> 00:03:08.490 align:start position:0%
+then whenever we go we step in we get
+here<00:03:06.700><c> we</c><00:03:07.090><c> see</c><00:03:07.239><c> a</c><00:03:07.269><c> new</c><00:03:07.599><c> variable</c><00:03:07.989><c> is</c><00:03:08.140><c> created</c>
+
+00:03:08.490 --> 00:03:08.500 align:start position:0%
+here we see a new variable is created
+ 
+
+00:03:08.500 --> 00:03:10.020 align:start position:0%
+here we see a new variable is created
+called<00:03:08.650><c> list</c><00:03:08.890><c> and</c><00:03:09.130><c> it's</c><00:03:09.340><c> a</c><00:03:09.430><c> different</c><00:03:09.849><c> type</c>
+
+00:03:10.020 --> 00:03:10.030 align:start position:0%
+called list and it's a different type
+ 
+
+00:03:10.030 --> 00:03:13.740 align:start position:0%
+called list and it's a different type
+list<00:03:10.329><c> 61b</c><00:03:10.840><c> yet</c><00:03:11.650><c> these</c><00:03:12.519><c> bits</c><00:03:12.790><c> get</c><00:03:13.150><c> copied</c><00:03:13.510><c> here</c>
+
+00:03:13.740 --> 00:03:13.750 align:start position:0%
+list 61b yet these bits get copied here
+ 
+
+00:03:13.750 --> 00:03:16.289 align:start position:0%
+list 61b yet these bits get copied here
+but<00:03:14.140><c> they're</c><00:03:14.260><c> not</c><00:03:14.380><c> quite</c><00:03:14.620><c> the</c><00:03:14.799><c> same</c><00:03:14.950><c> time</c><00:03:15.299><c> so</c>
+
+00:03:16.289 --> 00:03:16.299 align:start position:0%
+but they're not quite the same time so
+ 
+
+00:03:16.299 --> 00:03:18.180 align:start position:0%
+but they're not quite the same time so
+how<00:03:16.390><c> is</c><00:03:16.569><c> this</c><00:03:16.690><c> resolved</c><00:03:17.290><c> well</c><00:03:17.829><c> the</c><00:03:17.920><c> answer</c><00:03:18.160><c> is</c>
+
+00:03:18.180 --> 00:03:18.190 align:start position:0%
+how is this resolved well the answer is
+ 
+
+00:03:18.190 --> 00:03:20.610 align:start position:0%
+how is this resolved well the answer is
+simple<00:03:18.310><c> in</c><00:03:18.730><c> Java</c><00:03:19.030><c> Java</c><00:03:19.840><c> really</c><00:03:20.139><c> thinks</c><00:03:20.410><c> of</c><00:03:20.530><c> an</c>
+
+00:03:20.610 --> 00:03:20.620 align:start position:0%
+simple in Java Java really thinks of an
+ 
+
+00:03:20.620 --> 00:03:23.340 align:start position:0%
+simple in Java Java really thinks of an
+S<00:03:20.829><c> list</c><00:03:21.100><c> or</c><00:03:21.280><c> an</c><00:03:21.340><c> A</c><00:03:21.489><c> List</c><00:03:21.730><c> as</c><00:03:21.880><c> a</c><00:03:21.940><c> list</c><00:03:22.450><c> right</c><00:03:22.930><c> same</c>
+
+00:03:23.340 --> 00:03:23.350 align:start position:0%
+S list or an A List as a list right same
+ 
+
+00:03:23.350 --> 00:03:25.470 align:start position:0%
+S list or an A List as a list right same
+deal<00:03:23.530><c> here</c><00:03:23.590><c> with</c><00:03:23.829><c> this</c><00:03:23.980><c> example</c><00:03:24.280><c> an</c><00:03:24.489><c> A</c><00:03:24.639><c> List</c><00:03:24.910><c> it</c>
+
+00:03:25.470 --> 00:03:25.480 align:start position:0%
+deal here with this example an A List it
+ 
+
+00:03:25.480 --> 00:03:28.470 align:start position:0%
+deal here with this example an A List it
+is<00:03:25.900><c> a</c><00:03:25.930><c> list</c><00:03:26.410><c> 61p</c><00:03:27.100><c> so</c><00:03:27.730><c> it</c><00:03:27.819><c> makes</c><00:03:27.970><c> perfect</c><00:03:28.209><c> sense</c>
+
+00:03:28.470 --> 00:03:28.480 align:start position:0%
+is a list 61p so it makes perfect sense
+ 
+
+00:03:28.480 --> 00:03:31.319 align:start position:0%
+is a list 61p so it makes perfect sense
+that<00:03:28.900><c> a</c><00:03:29.109><c> list</c><00:03:29.530><c> 61</c><00:03:29.980><c> B</c><00:03:30.130><c> variable</c><00:03:30.430><c> can</c><00:03:30.940><c> hold</c><00:03:31.120><c> the</c>
+
+00:03:31.319 --> 00:03:31.329 align:start position:0%
+that a list 61 B variable can hold the
+ 
+
+00:03:31.329 --> 00:03:33.539 align:start position:0%
+that a list 61 B variable can hold the
+address<00:03:31.750><c> here</c><00:03:32.049><c> in</c><00:03:32.350><c> other</c><00:03:32.680><c> words</c><00:03:32.859><c> you</c><00:03:33.400><c> know</c><00:03:33.489><c> you</c>
+
+00:03:33.539 --> 00:03:33.549 align:start position:0%
+address here in other words you know you
+ 
+
+00:03:33.549 --> 00:03:36.599 align:start position:0%
+address here in other words you know you
+may<00:03:33.760><c> be</c><00:03:33.810><c> a</c><00:03:34.810><c> Western</c><00:03:35.620><c> doctor</c><00:03:36.069><c> an</c><00:03:36.220><c> Eastern</c>
+
+00:03:36.599 --> 00:03:36.609 align:start position:0%
+may be a Western doctor an Eastern
+ 
+
+00:03:36.609 --> 00:03:38.460 align:start position:0%
+may be a Western doctor an Eastern
+doctor<00:03:37.030><c> whoever</c><00:03:37.420><c> whatever</c><00:03:37.720><c> tradition</c><00:03:38.109><c> you</c>
+
+00:03:38.460 --> 00:03:38.470 align:start position:0%
+doctor whoever whatever tradition you
+ 
+
+00:03:38.470 --> 00:03:40.050 align:start position:0%
+doctor whoever whatever tradition you
+make<00:03:38.620><c> em</c><00:03:38.799><c> come</c><00:03:39.100><c> from</c><00:03:39.340><c> but</c><00:03:39.730><c> if</c><00:03:39.819><c> there's</c><00:03:39.970><c> a</c>
+
+00:03:40.050 --> 00:03:40.060 align:start position:0%
+make em come from but if there's a
+ 
+
+00:03:40.060 --> 00:03:43.020 align:start position:0%
+make em come from but if there's a
+commonality<00:03:40.569><c> about</c><00:03:41.380><c> what</c><00:03:42.220><c> things</c><00:03:42.430><c> we</c><00:03:42.639><c> expect</c>
+
+00:03:43.020 --> 00:03:43.030 align:start position:0%
+commonality about what things we expect
+ 
+
+00:03:43.030 --> 00:03:45.330 align:start position:0%
+commonality about what things we expect
+from<00:03:43.150><c> those</c><00:03:43.359><c> doctors</c><00:03:43.780><c> then</c><00:03:44.170><c> it's</c><00:03:44.470><c> safe</c><00:03:44.799><c> to</c><00:03:45.250><c> be</c>
+
+00:03:45.330 --> 00:03:45.340 align:start position:0%
+from those doctors then it's safe to be
+ 
+
+00:03:45.340 --> 00:03:47.699 align:start position:0%
+from those doctors then it's safe to be
+able<00:03:45.400><c> to</c><00:03:45.549><c> ask</c><00:03:45.700><c> them</c><00:03:45.970><c> to</c><00:03:46.150><c> say</c><00:03:46.329><c> help</c><00:03:46.720><c> us</c><00:03:46.900><c> ok</c><00:03:47.290><c> the</c>
+
+00:03:47.699 --> 00:03:47.709 align:start position:0%
+able to ask them to say help us ok the
+ 
+
+00:03:47.709 --> 00:03:49.979 align:start position:0%
+able to ask them to say help us ok the
+results<00:03:48.069><c> we</c><00:03:48.160><c> get</c><00:03:48.310><c> back</c><00:03:48.459><c> may</c><00:03:48.700><c> be</c><00:03:48.760><c> different</c><00:03:49.209><c> but</c>
+
+00:03:49.979 --> 00:03:49.989 align:start position:0%
+results we get back may be different but
+ 
+
+00:03:49.989 --> 00:03:51.720 align:start position:0%
+results we get back may be different but
+we<00:03:50.200><c> can</c><00:03:50.350><c> safely</c><00:03:50.650><c> ask</c><00:03:50.980><c> it</c><00:03:51.250><c> and</c><00:03:51.400><c> they</c><00:03:51.459><c> won't</c><00:03:51.609><c> get</c>
+
+00:03:51.720 --> 00:03:51.730 align:start position:0%
+we can safely ask it and they won't get
+ 
+
+00:03:51.730 --> 00:03:53.129 align:start position:0%
+we can safely ask it and they won't get
+confused<00:03:52.209><c> maybe</c><00:03:52.540><c> that's</c><00:03:52.780><c> the</c><00:03:52.840><c> way</c><00:03:52.930><c> to</c><00:03:52.989><c> think</c>
+
+00:03:53.129 --> 00:03:53.139 align:start position:0%
+confused maybe that's the way to think
+ 
+
+00:03:53.139 --> 00:03:53.610 align:start position:0%
+confused maybe that's the way to think
+about<00:03:53.260><c> it</c>
+
+00:03:53.610 --> 00:03:53.620 align:start position:0%
+about it
+ 
+
+00:03:53.620 --> 00:03:55.979 align:start position:0%
+about it
+the<00:03:54.310><c> jargony</c><00:03:54.760><c> way</c><00:03:54.910><c> of</c><00:03:55.000><c> putting</c><00:03:55.269><c> it</c><00:03:55.329><c> is</c><00:03:55.450><c> that</c><00:03:55.900><c> if</c>
+
+00:03:55.979 --> 00:03:55.989 align:start position:0%
+the jargony way of putting it is that if
+ 
+
+00:03:55.989 --> 00:03:59.039 align:start position:0%
+the jargony way of putting it is that if
+X<00:03:56.200><c> is</c><00:03:56.470><c> a</c><00:03:56.650><c> superclass</c><00:03:57.160><c> of</c><00:03:57.370><c> Y</c><00:03:57.549><c> then</c><00:03:58.329><c> memory</c><00:03:58.540><c> boxes</c>
+
+00:03:59.039 --> 00:03:59.049 align:start position:0%
+X is a superclass of Y then memory boxes
+ 
+
+00:03:59.049 --> 00:04:01.319 align:start position:0%
+X is a superclass of Y then memory boxes
+for<00:03:59.230><c> the</c><00:03:59.319><c> class</c><00:03:59.500><c> X</c><00:03:59.799><c> may</c><00:04:00.099><c> contain</c><00:04:00.489><c> Y</c><00:04:00.670><c> in</c><00:04:01.150><c> other</c>
+
+00:04:01.319 --> 00:04:01.329 align:start position:0%
+for the class X may contain Y in other
+ 
+
+00:04:01.329 --> 00:04:02.610 align:start position:0%
+for the class X may contain Y in other
+words<00:04:01.480><c> the</c><00:04:02.139><c> list</c>
+
+00:04:02.610 --> 00:04:02.620 align:start position:0%
+words the list
+ 
+
+00:04:02.620 --> 00:04:05.729 align:start position:0%
+words the list
+61<00:04:03.069><c> be</c><00:04:03.250><c> a</c><00:04:03.609><c> list</c><00:04:04.090><c> 61</c><00:04:04.480><c> be</c><00:04:04.599><c> variable</c><00:04:04.989><c> can</c><00:04:05.349><c> hold</c><00:04:05.500><c> a</c>
+
+00:04:05.729 --> 00:04:05.739 align:start position:0%
+61 be a list 61 be variable can hold a
+ 
+
+00:04:05.739 --> 00:04:07.259 align:start position:0%
+61 be a list 61 be variable can hold a
+reference<00:04:06.069><c> to</c><00:04:06.220><c> an</c><00:04:06.310><c> S</c><00:04:06.430><c> list</c><00:04:06.700><c> in</c><00:04:06.819><c> a</c><00:04:06.910><c> list</c><00:04:07.120><c> or</c>
+
+00:04:07.259 --> 00:04:07.269 align:start position:0%
+reference to an S list in a list or
+ 
+
+00:04:07.269 --> 00:04:09.870 align:start position:0%
+reference to an S list in a list or
+indeed<00:04:07.690><c> any</c><00:04:07.900><c> list</c><00:04:08.139><c> that</c><00:04:08.319><c> could</c><00:04:08.410><c> ever</c><00:04:08.530><c> be</c><00:04:08.880><c> so</c>
+
+00:04:09.870 --> 00:04:09.880 align:start position:0%
+indeed any list that could ever be so
+ 
+
+00:04:09.880 --> 00:04:11.309 align:start position:0%
+indeed any list that could ever be so
+let's<00:04:10.030><c> see</c><00:04:10.150><c> if</c><00:04:10.209><c> that</c><00:04:10.359><c> actually</c><00:04:10.389><c> made</c><00:04:10.900><c> sense</c><00:04:11.079><c> to</c>
+
+00:04:11.309 --> 00:04:11.319 align:start position:0%
+let's see if that actually made sense to
+ 
+
+00:04:11.319 --> 00:04:13.319 align:start position:0%
+let's see if that actually made sense to
+you<00:04:11.410><c> ok</c><00:04:11.709><c> this</c><00:04:12.160><c> will</c><00:04:12.280><c> be</c><00:04:12.400><c> the</c><00:04:12.519><c> rest</c><00:04:12.760><c> of</c><00:04:12.940><c> our</c><00:04:13.060><c> kind</c>
+
+00:04:13.319 --> 00:04:13.329 align:start position:0%
+you ok this will be the rest of our kind
+ 
+
+00:04:13.329 --> 00:04:17.849 align:start position:0%
+you ok this will be the rest of our kind
+of<00:04:13.470><c> tedious</c><00:04:15.900><c> inheritance</c><00:04:16.900><c> philosophy</c>
+
+00:04:17.849 --> 00:04:17.859 align:start position:0%
+of tedious inheritance philosophy
+ 
+
+00:04:17.859 --> 00:04:19.979 align:start position:0%
+of tedious inheritance philosophy
+lecture<00:04:18.190><c> but</c><00:04:18.729><c> consider</c><00:04:19.269><c> this</c><00:04:19.450><c> question</c><00:04:19.840><c> and</c>
+
+00:04:19.979 --> 00:04:19.989 align:start position:0%
+lecture but consider this question and
+ 
+
+00:04:19.989 --> 00:04:22.080 align:start position:0%
+lecture but consider this question and
+maybe<00:04:20.079><c> pause</c><00:04:20.349><c> it</c><00:04:20.530><c> here</c><00:04:20.579><c> will</c><00:04:21.579><c> this</c><00:04:21.849><c> code</c>
+
+00:04:22.080 --> 00:04:22.090 align:start position:0%
+maybe pause it here will this code
+ 
+
+00:04:22.090 --> 00:04:23.820 align:start position:0%
+maybe pause it here will this code
+compile<00:04:22.570><c> what</c><00:04:22.900><c> do</c><00:04:22.960><c> you</c><00:04:23.020><c> think</c><00:04:23.169><c> it'll</c><00:04:23.289><c> do</c><00:04:23.500><c> and</c>
+
+00:04:23.820 --> 00:04:23.830 align:start position:0%
+compile what do you think it'll do and
+ 
+
+00:04:23.830 --> 00:04:25.620 align:start position:0%
+compile what do you think it'll do and
+if<00:04:24.370><c> so</c><00:04:24.550><c> what</c><00:04:24.760><c> will</c><00:04:24.820><c> happen</c><00:04:25.090><c> when</c><00:04:25.150><c> it</c><00:04:25.210><c> runs</c><00:04:25.419><c> and</c>
+
+00:04:25.620 --> 00:04:25.630 align:start position:0%
+if so what will happen when it runs and
+ 
+
+00:04:25.630 --> 00:04:27.200 align:start position:0%
+if so what will happen when it runs and
+this<00:04:25.720><c> is</c><00:04:25.840><c> a</c><00:04:25.870><c> bit</c><00:04:26.080><c> of</c><00:04:26.169><c> a</c><00:04:26.260><c> test</c><00:04:26.740><c> of</c><00:04:26.919><c> your</c>
+
+00:04:27.200 --> 00:04:27.210 align:start position:0%
+this is a bit of a test of your
+ 
+
+00:04:27.210 --> 00:04:28.610 align:start position:0%
+this is a bit of a test of your
+deep<00:04:27.300><c> understanding</c><00:04:27.660><c> of</c><00:04:28.110><c> the</c><00:04:28.169><c> golden</c><00:04:28.470><c> rule</c><00:04:28.590><c> of</c>
+
+00:04:28.610 --> 00:04:28.620 align:start position:0%
+deep understanding of the golden rule of
+ 
+
+00:04:28.620 --> 00:04:31.279 align:start position:0%
+deep understanding of the golden rule of
+equals<00:04:29.009><c> so</c><00:04:29.729><c> think</c><00:04:30.030><c> about</c><00:04:30.150><c> this</c><00:04:30.449><c> pause</c><00:04:31.110><c> the</c>
+
+00:04:31.279 --> 00:04:31.289 align:start position:0%
+equals so think about this pause the
+ 
+
+00:04:31.289 --> 00:04:40.909 align:start position:0%
+equals so think about this pause the
+video<00:04:31.560><c> and</c><00:04:31.830><c> then</c><00:04:32.130><c> I'll</c><00:04:32.250><c> spoil</c><00:04:32.610><c> it</c><00:04:39.590><c> okay</c><00:04:40.620><c> I</c><00:04:40.740><c> was</c>
+
+00:04:40.909 --> 00:04:40.919 align:start position:0%
+video and then I'll spoil it okay I was
+ 
+
+00:04:40.919 --> 00:04:42.620 align:start position:0%
+video and then I'll spoil it okay I was
+assuming<00:04:41.099><c> you're</c><00:04:41.340><c> pausing</c><00:04:41.759><c> so</c><00:04:42.030><c> that's</c><00:04:42.300><c> giving</c>
+
+00:04:42.620 --> 00:04:42.630 align:start position:0%
+assuming you're pausing so that's giving
+ 
+
+00:04:42.630 --> 00:04:45.200 align:start position:0%
+assuming you're pausing so that's giving
+you<00:04:42.720><c> time</c><00:04:42.870><c> to</c><00:04:42.930><c> pause</c><00:04:43.229><c> all</c><00:04:43.590><c> right</c><00:04:43.680><c> um</c><00:04:44.639><c> let's</c><00:04:45.090><c> try</c>
+
+00:04:45.200 --> 00:04:45.210 align:start position:0%
+you time to pause all right um let's try
+ 
+
+00:04:45.210 --> 00:04:49.249 align:start position:0%
+you time to pause all right um let's try
+running<00:04:45.449><c> it</c><00:04:45.770><c> so</c><00:04:46.770><c> in</c><00:04:46.919><c> this</c><00:04:47.130><c> file</c><00:04:47.580><c> I</c><00:04:48.229><c> have</c><00:04:49.229><c> the</c>
+
+00:04:49.249 --> 00:04:49.259 align:start position:0%
+running it so in this file I have the
+ 
+
+00:04:49.259 --> 00:04:53.960 align:start position:0%
+running it so in this file I have the
+code<00:04:49.620><c> commented</c><00:04:50.310><c> out</c><00:04:51.259><c> let's</c><00:04:52.259><c> here</c><00:04:52.860><c> exit</c><00:04:53.759><c> this</c>
+
+00:04:53.960 --> 00:04:53.970 align:start position:0%
+code commented out let's here exit this
+ 
+
+00:04:53.970 --> 00:04:58.300 align:start position:0%
+code commented out let's here exit this
+debugging<00:04:54.599><c> session</c><00:04:55.069><c> instead</c><00:04:56.069><c> let's</c><00:04:56.610><c> run</c><00:04:56.940><c> this</c>
+
+00:04:58.300 --> 00:04:58.310 align:start position:0%
+debugging session instead let's run this
+ 
+
+00:04:58.310 --> 00:05:05.510 align:start position:0%
+debugging session instead let's run this
+run<00:04:59.780><c> is</c><00:05:00.780><c> it</c><00:05:00.960><c> dinner</c><00:05:01.460><c> okay</c><00:05:03.440><c> debugger</c><00:05:04.440><c> all</c><00:05:05.310><c> right</c>
+
+00:05:05.510 --> 00:05:05.520 align:start position:0%
+run is it dinner okay debugger all right
+ 
+
+00:05:05.520 --> 00:05:08.480 align:start position:0%
+run is it dinner okay debugger all right
+so<00:05:05.970><c> when</c><00:05:06.060><c> I</c><00:05:06.090><c> run</c><00:05:06.300><c> this</c><00:05:06.449><c> code</c><00:05:06.860><c> we</c><00:05:07.860><c> get</c><00:05:08.070><c> up</c><00:05:08.310><c> to</c>
+
+00:05:08.480 --> 00:05:08.490 align:start position:0%
+so when I run this code we get up to
+ 
+
+00:05:08.490 --> 00:05:09.860 align:start position:0%
+so when I run this code we get up to
+this<00:05:08.580><c> point</c><00:05:08.789><c> we'll</c><00:05:09.180><c> do</c><00:05:09.300><c> the</c><00:05:09.419><c> dip</c><00:05:09.570><c> will</c>
+
+00:05:09.860 --> 00:05:09.870 align:start position:0%
+this point we'll do the dip will
+ 
+
+00:05:09.870 --> 00:05:11.779 align:start position:0%
+this point we'll do the dip will
+actually<00:05:10.259><c> show</c><00:05:10.440><c> the</c><00:05:10.470><c> visualizer</c><00:05:11.099><c> and</c><00:05:11.340><c> we'll</c>
+
+00:05:11.779 --> 00:05:11.789 align:start position:0%
+actually show the visualizer and we'll
+ 
+
+00:05:11.789 --> 00:05:13.969 align:start position:0%
+actually show the visualizer and we'll
+step<00:05:11.940><c> over</c><00:05:12.270><c> this</c><00:05:12.419><c> so</c><00:05:13.199><c> we</c><00:05:13.289><c> see</c><00:05:13.440><c> that</c><00:05:13.560><c> this</c><00:05:13.710><c> first</c>
+
+00:05:13.969 --> 00:05:13.979 align:start position:0%
+step over this so we see that this first
+ 
+
+00:05:13.979 --> 00:05:15.980 align:start position:0%
+step over this so we see that this first
+line<00:05:14.160><c> it</c><00:05:14.340><c> compiled</c><00:05:14.759><c> fine</c><00:05:15.060><c> first</c><00:05:15.479><c> of</c><00:05:15.599><c> all</c><00:05:15.720><c> we</c>
+
+00:05:15.980 --> 00:05:15.990 align:start position:0%
+line it compiled fine first of all we
+ 
+
+00:05:15.990 --> 00:05:17.270 align:start position:0%
+line it compiled fine first of all we
+know<00:05:16.110><c> that</c><00:05:16.289><c> because</c><00:05:16.380><c> we're</c><00:05:16.590><c> no</c><00:05:16.680><c> red</c><00:05:16.860><c> squiggly</c>
+
+00:05:17.270 --> 00:05:17.280 align:start position:0%
+know that because we're no red squiggly
+ 
+
+00:05:17.280 --> 00:05:19.070 align:start position:0%
+know that because we're no red squiggly
+so<00:05:17.340><c> the</c><00:05:17.490><c> answer</c><00:05:17.699><c> is</c><00:05:17.729><c> not</c><00:05:17.880><c> a</c><00:05:18.060><c> and</c><00:05:18.389><c> then</c><00:05:18.990><c> how</c>
+
+00:05:19.070 --> 00:05:19.080 align:start position:0%
+so the answer is not a and then how
+ 
+
+00:05:19.080 --> 00:05:19.790 align:start position:0%
+so the answer is not a and then how
+about<00:05:19.139><c> this</c><00:05:19.380><c> line</c>
+
+00:05:19.790 --> 00:05:19.800 align:start position:0%
+about this line
+ 
+
+00:05:19.800 --> 00:05:22.820 align:start position:0%
+about this line
+well<00:05:20.159><c> creates</c><00:05:20.550><c> a</c><00:05:20.729><c> new</c><00:05:20.940><c> s</c><00:05:21.270><c> list</c><00:05:21.900><c> and</c><00:05:22.199><c> then</c><00:05:22.740><c> it</c>
+
+00:05:22.820 --> 00:05:22.830 align:start position:0%
+well creates a new s list and then it
+ 
+
+00:05:22.830 --> 00:05:24.469 align:start position:0%
+well creates a new s list and then it
+stores<00:05:23.130><c> that</c><00:05:23.220><c> address</c><00:05:23.699><c> and</c><00:05:23.940><c> some</c><00:05:24.090><c> list</c><00:05:24.300><c> that's</c>
+
+00:05:24.469 --> 00:05:24.479 align:start position:0%
+stores that address and some list that's
+ 
+
+00:05:24.479 --> 00:05:27.080 align:start position:0%
+stores that address and some list that's
+totally<00:05:24.870><c> fine</c><00:05:25.639><c> and</c><00:05:26.639><c> then</c><00:05:26.759><c> what</c><00:05:26.849><c> happens</c>
+
+00:05:27.080 --> 00:05:27.090 align:start position:0%
+totally fine and then what happens
+ 
+
+00:05:27.090 --> 00:05:29.300 align:start position:0%
+totally fine and then what happens
+whenever<00:05:27.240><c> we</c><00:05:27.419><c> try</c><00:05:27.599><c> and</c><00:05:27.720><c> add</c><00:05:27.840><c> first</c><00:05:28.199><c> well</c><00:05:29.190><c> it</c>
+
+00:05:29.300 --> 00:05:29.310 align:start position:0%
+whenever we try and add first well it
+ 
+
+00:05:29.310 --> 00:05:31.580 align:start position:0%
+whenever we try and add first well it
+turns<00:05:29.520><c> out</c><00:05:29.729><c> that</c><00:05:29.789><c> this</c><00:05:30.270><c> some</c><00:05:30.750><c> list</c><00:05:30.990><c> pointer</c>
+
+00:05:31.580 --> 00:05:31.590 align:start position:0%
+turns out that this some list pointer
+ 
+
+00:05:31.590 --> 00:05:33.620 align:start position:0%
+turns out that this some list pointer
+will<00:05:32.190><c> actually</c><00:05:32.550><c> be</c><00:05:32.639><c> able</c><00:05:32.729><c> to</c><00:05:32.880><c> execute</c><00:05:33.270><c> ad</c>
+
+00:05:33.620 --> 00:05:33.630 align:start position:0%
+will actually be able to execute ad
+ 
+
+00:05:33.630 --> 00:05:35.570 align:start position:0%
+will actually be able to execute ad
+first<00:05:34.050><c> so</c><00:05:34.590><c> when</c><00:05:34.710><c> I</c><00:05:34.740><c> click</c><00:05:34.979><c> this</c><00:05:35.159><c> thing</c><00:05:35.400><c> right</c>
+
+00:05:35.570 --> 00:05:35.580 align:start position:0%
+first so when I click this thing right
+ 
+
+00:05:35.580 --> 00:05:37.700 align:start position:0%
+first so when I click this thing right
+here<00:05:35.610><c> it'll</c><00:05:36.389><c> work</c><00:05:36.509><c> just</c><00:05:36.539><c> fine</c><00:05:36.870><c> okay</c>
+
+00:05:37.700 --> 00:05:37.710 align:start position:0%
+here it'll work just fine okay
+ 
+
+00:05:37.710 --> 00:05:41.149 align:start position:0%
+here it'll work just fine okay
+so<00:05:37.979><c> the</c><00:05:38.070><c> answer</c><00:05:38.280><c> is</c><00:05:38.310><c> in</c><00:05:38.550><c> fact</c><00:05:38.580><c> B</c><00:05:39.020><c> great</c><00:05:40.159><c> so</c>
+
+00:05:41.149 --> 00:05:41.159 align:start position:0%
+so the answer is in fact B great so
+ 
+
+00:05:41.159 --> 00:05:42.200 align:start position:0%
+so the answer is in fact B great so
+that's<00:05:41.310><c> a</c><00:05:41.370><c> little</c><00:05:41.550><c> bit</c><00:05:41.699><c> more</c><00:05:41.880><c> about</c><00:05:42.060><c> the</c>
+
+00:05:42.200 --> 00:05:42.210 align:start position:0%
+that's a little bit more about the
+ 
+
+00:05:42.210 --> 00:05:43.730 align:start position:0%
+that's a little bit more about the
+golden<00:05:42.479><c> rule</c><00:05:42.599><c> equals</c><00:05:42.960><c> just</c><00:05:43.289><c> making</c><00:05:43.560><c> sure</c>
+
+00:05:43.730 --> 00:05:43.740 align:start position:0%
+golden rule equals just making sure
+ 
+
+00:05:43.740 --> 00:05:45.529 align:start position:0%
+golden rule equals just making sure
+these<00:05:44.430><c> are</c><00:05:44.580><c> things</c><00:05:44.820><c> you</c><00:05:44.940><c> might</c><00:05:45.090><c> not</c><00:05:45.270><c> think</c>
+
+00:05:45.529 --> 00:05:45.539 align:start position:0%
+these are things you might not think
+ 
+
+00:05:45.539 --> 00:05:47.149 align:start position:0%
+these are things you might not think
+about<00:05:45.719><c> really</c><00:05:46.139><c> deeply</c><00:05:46.500><c> and</c><00:05:46.650><c> critically</c><00:05:46.740><c> when</c>
+
+00:05:47.149 --> 00:05:47.159 align:start position:0%
+about really deeply and critically when
+ 
+
+00:05:47.159 --> 00:05:48.499 align:start position:0%
+about really deeply and critically when
+you're<00:05:47.250><c> learning</c><00:05:47.370><c> how</c><00:05:47.550><c> to</c><00:05:47.610><c> program</c><00:05:47.849><c> but</c><00:05:48.479><c> I</c>
+
+00:05:48.499 --> 00:05:48.509 align:start position:0%
+you're learning how to program but I
+ 
+
+00:05:48.509 --> 00:05:50.089 align:start position:0%
+you're learning how to program but I
+figured<00:05:48.780><c> I'd</c><00:05:48.870><c> bring</c><00:05:48.990><c> them</c><00:05:49.199><c> up</c><00:05:49.349><c> since</c><00:05:49.680><c> hey</c><00:05:49.860><c> you</c>
+
+00:05:50.089 --> 00:05:50.099 align:start position:0%
+figured I'd bring them up since hey you
+ 
+
+00:05:50.099 --> 00:05:54.590 align:start position:0%
+figured I'd bring them up since hey you
+can<00:05:50.250><c> always</c><00:05:50.430><c> watch</c><00:05:50.639><c> me</c><00:05:50.820><c> at</c><00:05:50.909><c> 1.5</c><00:05:51.570><c> X</c><00:05:51.780><c> or</c><00:05:52.020><c> 2x</c><00:05:52.229><c> B</c>
+

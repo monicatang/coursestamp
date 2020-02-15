@@ -1,0 +1,1056 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.330 align:start position:0%
+ 
+now<00:00:00.840><c> that</c><00:00:01.050><c> we</c><00:00:01.110><c> understand</c><00:00:01.650><c> the</c><00:00:01.770><c> intricacies</c>
+
+00:00:02.330 --> 00:00:02.340 align:start position:0%
+now that we understand the intricacies
+ 
+
+00:00:02.340 --> 00:00:04.760 align:start position:0%
+now that we understand the intricacies
+that<00:00:02.550><c> go</c><00:00:02.820><c> into</c><00:00:03.230><c> solving</c><00:00:04.230><c> the</c><00:00:04.380><c> mystery</c><00:00:04.680><c> of</c><00:00:04.710><c> the</c>
+
+00:00:04.760 --> 00:00:04.770 align:start position:0%
+that go into solving the mystery of the
+ 
+
+00:00:04.770 --> 00:00:06.650 align:start position:0%
+that go into solving the mystery of the
+walrus<00:00:05.009><c> we're</c><00:00:05.549><c> ready</c><00:00:05.730><c> to</c><00:00:05.910><c> finally</c><00:00:06.270><c> build</c><00:00:06.450><c> a</c>
+
+00:00:06.650 --> 00:00:06.660 align:start position:0%
+walrus we're ready to finally build a
+ 
+
+00:00:06.660 --> 00:00:08.990 align:start position:0%
+walrus we're ready to finally build a
+list<00:00:07.080><c> so</c><00:00:08.010><c> the</c><00:00:08.099><c> difference</c><00:00:08.370><c> between</c><00:00:08.460><c> a</c><00:00:08.610><c> list</c><00:00:08.849><c> in</c>
+
+00:00:08.990 --> 00:00:09.000 align:start position:0%
+list so the difference between a list in
+ 
+
+00:00:09.000 --> 00:00:10.580 align:start position:0%
+list so the difference between a list in
+an<00:00:09.059><c> array</c><00:00:09.269><c> is</c><00:00:09.480><c> that</c><00:00:09.630><c> a</c><00:00:09.660><c> list</c><00:00:09.929><c> is</c><00:00:10.139><c> going</c><00:00:10.320><c> to</c><00:00:10.469><c> be</c>
+
+00:00:10.580 --> 00:00:10.590 align:start position:0%
+an array is that a list is going to be
+ 
+
+00:00:10.590 --> 00:00:12.890 align:start position:0%
+an array is that a list is going to be
+able<00:00:10.679><c> to</c><00:00:10.860><c> grow</c><00:00:11.040><c> arbitrarily</c><00:00:11.670><c> large</c><00:00:11.969><c> unlike</c><00:00:12.870><c> a</c>
+
+00:00:12.890 --> 00:00:12.900 align:start position:0%
+able to grow arbitrarily large unlike a
+ 
+
+00:00:12.900 --> 00:00:16.430 align:start position:0%
+able to grow arbitrarily large unlike a
+Java<00:00:13.230><c> array</c><00:00:13.620><c> which</c><00:00:13.860><c> is</c><00:00:13.889><c> of</c><00:00:14.130><c> a</c><00:00:14.190><c> fixed</c><00:00:14.580><c> size</c><00:00:15.440><c> so</c>
+
+00:00:16.430 --> 00:00:16.440 align:start position:0%
+Java array which is of a fixed size so
+ 
+
+00:00:16.440 --> 00:00:17.779 align:start position:0%
+Java array which is of a fixed size so
+we're<00:00:16.770><c> gonna</c><00:00:16.890><c> build</c><00:00:17.100><c> this</c><00:00:17.279><c> totally</c><00:00:17.609><c> from</c>
+
+00:00:17.779 --> 00:00:17.789 align:start position:0%
+we're gonna build this totally from
+ 
+
+00:00:17.789 --> 00:00:20.570 align:start position:0%
+we're gonna build this totally from
+scratch<00:00:18.060><c> and</c><00:00:18.859><c> for</c><00:00:19.859><c> reasons</c><00:00:20.160><c> it</c><00:00:20.310><c> won't</c><00:00:20.460><c> be</c>
+
+00:00:20.570 --> 00:00:20.580 align:start position:0%
+scratch and for reasons it won't be
+ 
+
+00:00:20.580 --> 00:00:22.730 align:start position:0%
+scratch and for reasons it won't be
+clear<00:00:20.820><c> right</c><00:00:20.850><c> now</c><00:00:21.029><c> our</c><00:00:21.630><c> list</c><00:00:21.960><c> is</c><00:00:22.260><c> going</c><00:00:22.619><c> to</c>
+
+00:00:22.730 --> 00:00:22.740 align:start position:0%
+clear right now our list is going to
+ 
+
+00:00:22.740 --> 00:00:25.670 align:start position:0%
+clear right now our list is going to
+have<00:00:23.220><c> two</c><00:00:23.539><c> variables</c><00:00:24.539><c> the</c><00:00:24.930><c> first</c><00:00:25.199><c> is</c><00:00:25.410><c> going</c><00:00:25.560><c> to</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+have two variables the first is going to
+ 
+
+00:00:25.680 --> 00:00:28.400 align:start position:0%
+have two variables the first is going to
+be<00:00:25.800><c> an</c><00:00:26.130><c> integer</c><00:00:26.580><c> call</c><00:00:27.180><c> first</c><00:00:27.480><c> and</c><00:00:27.750><c> the</c><00:00:28.109><c> second</c>
+
+00:00:28.400 --> 00:00:28.410 align:start position:0%
+be an integer call first and the second
+ 
+
+00:00:28.410 --> 00:00:30.589 align:start position:0%
+be an integer call first and the second
+will<00:00:28.500><c> be</c><00:00:28.529><c> a</c><00:00:28.859><c> pointer</c><00:00:29.609><c> or</c><00:00:29.820><c> an</c><00:00:29.970><c> address</c><00:00:30.150><c> of</c>
+
+00:00:30.589 --> 00:00:30.599 align:start position:0%
+will be a pointer or an address of
+ 
+
+00:00:30.599 --> 00:00:33.410 align:start position:0%
+will be a pointer or an address of
+another<00:00:30.779><c> int</c><00:00:31.439><c> list</c><00:00:31.619><c> and</c><00:00:31.949><c> our</c><00:00:32.700><c> list</c><00:00:32.940><c> ultimately</c>
+
+00:00:33.410 --> 00:00:33.420 align:start position:0%
+another int list and our list ultimately
+ 
+
+00:00:33.420 --> 00:00:34.580 align:start position:0%
+another int list and our list ultimately
+is<00:00:33.570><c> going</c><00:00:33.660><c> to</c><00:00:33.750><c> be</c><00:00:33.840><c> used</c><00:00:34.050><c> for</c><00:00:34.230><c> storing</c><00:00:34.500><c> only</c>
+
+00:00:34.580 --> 00:00:34.590 align:start position:0%
+is going to be used for storing only
+ 
+
+00:00:34.590 --> 00:00:37.700 align:start position:0%
+is going to be used for storing only
+integers<00:00:35.130><c> for</c><00:00:35.489><c> simplicity</c><00:00:36.290><c> so</c><00:00:37.290><c> let's</c><00:00:37.469><c> start</c>
+
+00:00:37.700 --> 00:00:37.710 align:start position:0%
+integers for simplicity so let's start
+ 
+
+00:00:37.710 --> 00:00:42.139 align:start position:0%
+integers for simplicity so let's start
+off<00:00:37.920><c> this</c><00:00:38.610><c> class</c><00:00:40.309><c> so</c><00:00:41.309><c> our</c><00:00:41.550><c> class</c><00:00:41.730><c> is</c><00:00:41.940><c> called</c>
+
+00:00:42.139 --> 00:00:42.149 align:start position:0%
+off this class so our class is called
+ 
+
+00:00:42.149 --> 00:00:43.790 align:start position:0%
+off this class so our class is called
+int<00:00:42.329><c> list</c><00:00:42.510><c> and</c><00:00:42.780><c> as</c><00:00:43.079><c> promised</c><00:00:43.500><c> we're</c><00:00:43.620><c> going</c><00:00:43.739><c> to</c>
+
+00:00:43.790 --> 00:00:43.800 align:start position:0%
+int list and as promised we're going to
+ 
+
+00:00:43.800 --> 00:00:46.940 align:start position:0%
+int list and as promised we're going to
+have<00:00:43.980><c> public</c><00:00:44.670><c> and</c><00:00:45.090><c> first</c><00:00:45.539><c> and</c><00:00:45.809><c> then</c><00:00:46.530><c> public</c>
+
+00:00:46.940 --> 00:00:46.950 align:start position:0%
+have public and first and then public
+ 
+
+00:00:46.950 --> 00:00:49.220 align:start position:0%
+have public and first and then public
+int<00:00:47.190><c> list</c><00:00:47.520><c> rest</c><00:00:48.090><c> okay</c>
+
+00:00:49.220 --> 00:00:49.230 align:start position:0%
+int list rest okay
+ 
+
+00:00:49.230 --> 00:00:50.930 align:start position:0%
+int list rest okay
+now<00:00:49.559><c> if</c><00:00:49.620><c> you</c><00:00:49.680><c> came</c><00:00:49.829><c> from</c><00:00:49.950><c> 61a</c><00:00:50.520><c> you</c><00:00:50.579><c> roughly</c>
+
+00:00:50.930 --> 00:00:50.940 align:start position:0%
+now if you came from 61a you roughly
+ 
+
+00:00:50.940 --> 00:00:53.180 align:start position:0%
+now if you came from 61a you roughly
+know<00:00:51.059><c> where</c><00:00:51.329><c> this</c><00:00:51.480><c> is</c><00:00:51.629><c> going</c><00:00:51.930><c> otherwise</c><00:00:52.800><c> maybe</c>
+
+00:00:53.180 --> 00:00:53.190 align:start position:0%
+know where this is going otherwise maybe
+ 
+
+00:00:53.190 --> 00:00:56.029 align:start position:0%
+know where this is going otherwise maybe
+a<00:00:53.340><c> little</c><00:00:53.460><c> mysterious</c><00:00:54.500><c> so</c><00:00:55.500><c> it</c><00:00:55.559><c> turns</c><00:00:55.770><c> out</c><00:00:55.890><c> that</c>
+
+00:00:56.029 --> 00:00:56.039 align:start position:0%
+a little mysterious so it turns out that
+ 
+
+00:00:56.039 --> 00:00:57.350 align:start position:0%
+a little mysterious so it turns out that
+we've<00:00:56.160><c> actually</c><00:00:56.280><c> already</c><00:00:56.579><c> implemented</c><00:00:57.300><c> a</c>
+
+00:00:57.350 --> 00:00:57.360 align:start position:0%
+we've actually already implemented a
+ 
+
+00:00:57.360 --> 00:00:59.389 align:start position:0%
+we've actually already implemented a
+list<00:00:57.600><c> we're</c><00:00:57.870><c> done</c><00:00:58.050><c> what</c><00:00:58.710><c> how</c><00:00:59.039><c> can</c><00:00:59.219><c> that</c><00:00:59.340><c> be</c>
+
+00:00:59.389 --> 00:00:59.399 align:start position:0%
+list we're done what how can that be
+ 
+
+00:00:59.399 --> 00:01:01.880 align:start position:0%
+list we're done what how can that be
+well<00:00:59.940><c> let's</c><00:01:00.390><c> try</c><00:01:00.510><c> it</c><00:01:00.629><c> out</c><00:01:00.690><c> I'm</c><00:01:01.500><c> gonna</c><00:01:01.680><c> make</c><00:01:01.800><c> an</c>
+
+00:01:01.880 --> 00:01:01.890 align:start position:0%
+well let's try it out I'm gonna make an
+ 
+
+00:01:01.890 --> 00:01:07.130 align:start position:0%
+well let's try it out I'm gonna make an
+INT<00:01:02.010><c> list</c><00:01:02.100><c> called</c><00:01:02.430><c> f</c><00:01:02.640><c> okay</c><00:01:03.650><c> so</c><00:01:04.650><c> int</c><00:01:04.830><c> list</c><00:01:05.040><c> L</c><00:01:06.140><c> we</c>
+
+00:01:07.130 --> 00:01:07.140 align:start position:0%
+INT list called f okay so int list L we
+ 
+
+00:01:07.140 --> 00:01:09.950 align:start position:0%
+INT list called f okay so int list L we
+can<00:01:07.320><c> say</c><00:01:07.500><c> new</c><00:01:07.830><c> int</c><00:01:08.070><c> list</c><00:01:08.280><c> and</c><00:01:09.180><c> then</c><00:01:09.510><c> gets</c><00:01:09.689><c> the</c><00:01:09.780><c> L</c>
+
+00:01:09.950 --> 00:01:09.960 align:start position:0%
+can say new int list and then gets the L
+ 
+
+00:01:09.960 --> 00:01:12.980 align:start position:0%
+can say new int list and then gets the L
+dot<00:01:10.260><c> first</c><00:01:10.500><c> equals</c><00:01:10.890><c> 5</c><00:01:11.130><c> l</c><00:01:11.760><c> dot</c><00:01:12.090><c> rest</c><00:01:12.390><c> equals</c>
+
+00:01:12.980 --> 00:01:12.990 align:start position:0%
+dot first equals 5 l dot rest equals
+ 
+
+00:01:12.990 --> 00:01:14.719 align:start position:0%
+dot first equals 5 l dot rest equals
+null<00:01:13.200><c> and</c><00:01:13.470><c> that</c><00:01:14.159><c> would</c><00:01:14.280><c> be</c><00:01:14.369><c> a</c><00:01:14.400><c> list</c><00:01:14.670><c> that</c>
+
+00:01:14.719 --> 00:01:14.729 align:start position:0%
+null and that would be a list that
+ 
+
+00:01:14.729 --> 00:01:17.950 align:start position:0%
+null and that would be a list that
+contains<00:01:14.970><c> the</c><00:01:15.270><c> number</c><00:01:15.509><c> 5</c><00:01:15.720><c> I</c><00:01:16.020><c> could</c><00:01:16.979><c> then</c><00:01:17.100><c> say</c>
+
+00:01:17.950 --> 00:01:17.960 align:start position:0%
+contains the number 5 I could then say
+ 
+
+00:01:17.960 --> 00:01:21.499 align:start position:0%
+contains the number 5 I could then say
+actually<00:01:18.960><c> no</c><00:01:18.990><c> what</c><00:01:19.229><c> no</c><00:01:19.530><c> I</c><00:01:19.710><c> think</c><00:01:19.830><c> l</c><00:01:20.130><c> dot</c><00:01:20.549><c> R</c><00:01:20.759><c> s</c><00:01:21.150><c> is</c>
+
+00:01:21.499 --> 00:01:21.509 align:start position:0%
+actually no what no I think l dot R s is
+ 
+
+00:01:21.509 --> 00:01:25.670 align:start position:0%
+actually no what no I think l dot R s is
+going<00:01:21.900><c> to</c><00:01:22.020><c> be</c><00:01:22.170><c> a</c><00:01:22.350><c> new</c><00:01:22.619><c> int</c><00:01:22.920><c> list</c><00:01:24.259><c> and</c><00:01:25.259><c> then</c><00:01:25.439><c> l</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+going to be a new int list and then l
+ 
+
+00:01:25.680 --> 00:01:29.539 align:start position:0%
+going to be a new int list and then l
+dot<00:01:26.009><c> rest</c><00:01:26.340><c> dot</c><00:01:26.729><c> first</c><00:01:27.090><c> is</c><00:01:27.479><c> gonna</c><00:01:27.630><c> be</c><00:01:27.750><c> 10</c><00:01:28.340><c> and</c><00:01:29.340><c> so</c>
+
+00:01:29.539 --> 00:01:29.549 align:start position:0%
+dot rest dot first is gonna be 10 and so
+ 
+
+00:01:29.549 --> 00:01:31.880 align:start position:0%
+dot rest dot first is gonna be 10 and so
+forth<00:01:29.990><c> now</c><00:01:30.990><c> this</c><00:01:31.110><c> is</c><00:01:31.200><c> a</c><00:01:31.229><c> little</c><00:01:31.470><c> awkward</c><00:01:31.590><c> of</c>
+
+00:01:31.880 --> 00:01:31.890 align:start position:0%
+forth now this is a little awkward of
+ 
+
+00:01:31.890 --> 00:01:34.730 align:start position:0%
+forth now this is a little awkward of
+course<00:01:32.100><c> to</c><00:01:32.250><c> use</c><00:01:32.840><c> but</c><00:01:33.840><c> let's</c><00:01:33.869><c> keep</c><00:01:34.200><c> going</c><00:01:34.409><c> so</c><00:01:34.710><c> I</c>
+
+00:01:34.730 --> 00:01:34.740 align:start position:0%
+course to use but let's keep going so I
+ 
+
+00:01:34.740 --> 00:01:36.770 align:start position:0%
+course to use but let's keep going so I
+could<00:01:34.920><c> say</c><00:01:35.040><c> L</c><00:01:35.220><c> dot</c><00:01:35.520><c> rest</c><00:01:36.000><c> dot</c><00:01:36.360><c> rest</c>
+
+00:01:36.770 --> 00:01:36.780 align:start position:0%
+could say L dot rest dot rest
+ 
+
+00:01:36.780 --> 00:01:39.980 align:start position:0%
+could say L dot rest dot rest
+equals<00:01:37.049><c> new</c><00:01:37.229><c> int</c><00:01:37.380><c> list</c><00:01:37.970><c> l</c><00:01:38.970><c> dot</c><00:01:39.329><c> rest</c><00:01:39.570><c> that</c><00:01:39.750><c> rest</c>
+
+00:01:39.980 --> 00:01:39.990 align:start position:0%
+equals new int list l dot rest that rest
+ 
+
+00:01:39.990 --> 00:01:43.219 align:start position:0%
+equals new int list l dot rest that rest
+up<00:01:40.170><c> first</c><00:01:40.380><c> equals</c><00:01:40.710><c> 15</c><00:01:41.100><c> and</c><00:01:41.450><c> at</c><00:01:42.450><c> this</c><00:01:42.570><c> point</c><00:01:42.810><c> we</c>
+
+00:01:43.219 --> 00:01:43.229 align:start position:0%
+up first equals 15 and at this point we
+ 
+
+00:01:43.229 --> 00:01:46.160 align:start position:0%
+up first equals 15 and at this point we
+well<00:01:43.950><c> can't</c><00:01:44.490><c> really</c><00:01:44.670><c> see</c><00:01:44.790><c> what's</c><00:01:44.939><c> going</c><00:01:45.119><c> on</c><00:01:45.210><c> so</c>
+
+00:01:46.160 --> 00:01:46.170 align:start position:0%
+well can't really see what's going on so
+ 
+
+00:01:46.170 --> 00:01:47.990 align:start position:0%
+well can't really see what's going on so
+I'm<00:01:46.229><c> gonna</c><00:01:46.320><c> take</c><00:01:46.530><c> this</c><00:01:46.710><c> code</c><00:01:47.009><c> and</c><00:01:47.280><c> I'm</c><00:01:47.909><c> gonna</c>
+
+00:01:47.990 --> 00:01:48.000 align:start position:0%
+I'm gonna take this code and I'm gonna
+ 
+
+00:01:48.000 --> 00:01:50.090 align:start position:0%
+I'm gonna take this code and I'm gonna
+copy<00:01:48.210><c> it</c><00:01:48.360><c> into</c><00:01:48.810><c> our</c><00:01:49.170><c> good</c><00:01:49.619><c> old</c><00:01:49.799><c> Java</c>
+
+00:01:50.090 --> 00:01:50.100 align:start position:0%
+copy it into our good old Java
+ 
+
+00:01:50.100 --> 00:01:51.980 align:start position:0%
+copy it into our good old Java
+visualizer<00:01:50.640><c> so</c><00:01:50.970><c> we</c><00:01:51.060><c> can</c><00:01:51.180><c> understand</c><00:01:51.630><c> what's</c>
+
+00:01:51.980 --> 00:01:51.990 align:start position:0%
+visualizer so we can understand what's
+ 
+
+00:01:51.990 --> 00:01:55.370 align:start position:0%
+visualizer so we can understand what's
+going<00:01:52.320><c> on</c><00:01:53.630><c> so</c><00:01:54.630><c> if</c><00:01:54.750><c> it</c><00:01:54.840><c> visualize</c><00:01:55.200><c> the</c>
+
+00:01:55.370 --> 00:01:55.380 align:start position:0%
+going on so if it visualize the
+ 
+
+00:01:55.380 --> 00:01:58.340 align:start position:0%
+going on so if it visualize the
+execution<00:01:55.950><c> of</c><00:01:56.070><c> this</c><00:01:56.159><c> class</c><00:01:56.990><c> after</c><00:01:57.990><c> I</c><00:01:58.020><c> create</c>
+
+00:01:58.340 --> 00:01:58.350 align:start position:0%
+execution of this class after I create
+ 
+
+00:01:58.350 --> 00:02:01.399 align:start position:0%
+execution of this class after I create
+this<00:01:58.500><c> first</c><00:01:58.770><c> list</c><00:01:59.329><c> scroll</c><00:02:00.329><c> for</c><00:02:00.570><c> it</c><00:02:00.659><c> after</c>
+
+00:02:01.399 --> 00:02:01.409 align:start position:0%
+this first list scroll for it after
+ 
+
+00:02:01.409 --> 00:02:02.810 align:start position:0%
+this first list scroll for it after
+these<00:02:01.590><c> three</c><00:02:01.829><c> lines</c><00:02:01.979><c> of</c><00:02:02.159><c> code</c><00:02:02.340><c> are</c><00:02:02.460><c> done</c><00:02:02.610><c> I</c>
+
+00:02:02.810 --> 00:02:02.820 align:start position:0%
+these three lines of code are done I
+ 
+
+00:02:02.820 --> 00:02:06.350 align:start position:0%
+these three lines of code are done I
+have<00:02:03.210><c> L</c><00:02:03.840><c> an</c><00:02:04.439><c> int</c><00:02:04.979><c> list</c><00:02:05.189><c> which</c><00:02:05.670><c> has</c><00:02:05.700><c> a</c><00:02:05.939><c> value</c>
+
+00:02:06.350 --> 00:02:06.360 align:start position:0%
+have L an int list which has a value
+ 
+
+00:02:06.360 --> 00:02:08.620 align:start position:0%
+have L an int list which has a value
+called<00:02:06.780><c> first</c><00:02:07.140><c> five</c><00:02:07.740><c> and</c>
+
+00:02:08.620 --> 00:02:08.630 align:start position:0%
+called first five and
+ 
+
+00:02:08.630 --> 00:02:11.650 align:start position:0%
+called first five and
+No<00:02:09.400><c> so</c><00:02:10.400><c> if</c><00:02:10.520><c> I</c><00:02:10.610><c> run</c><00:02:10.790><c> these</c><00:02:10.910><c> next</c><00:02:11.210><c> two</c><00:02:11.300><c> lines</c><00:02:11.480><c> of</c>
+
+00:02:11.650 --> 00:02:11.660 align:start position:0%
+No so if I run these next two lines of
+ 
+
+00:02:11.660 --> 00:02:13.660 align:start position:0%
+No so if I run these next two lines of
+code<00:02:11.840><c> which</c><00:02:12.200><c> all</c><00:02:12.350><c> scam</c><00:02:12.650><c> forward</c><00:02:13.070><c> to</c><00:02:13.220><c> so</c><00:02:13.490><c> these</c>
+
+00:02:13.660 --> 00:02:13.670 align:start position:0%
+code which all scam forward to so these
+ 
+
+00:02:13.670 --> 00:02:16.180 align:start position:0%
+code which all scam forward to so these
+two<00:02:13.850><c> lines</c><00:02:14.060><c> of</c><00:02:14.180><c> code</c><00:02:14.360><c> are</c><00:02:14.480><c> done</c><00:02:14.630><c> l</c><00:02:15.440><c> dot</c><00:02:15.770><c> rest</c><00:02:15.980><c> is</c>
+
+00:02:16.180 --> 00:02:16.190 align:start position:0%
+two lines of code are done l dot rest is
+ 
+
+00:02:16.190 --> 00:02:18.310 align:start position:0%
+two lines of code are done l dot rest is
+now<00:02:16.310><c> a</c><00:02:16.340><c> new</c><00:02:16.640><c> int</c><00:02:16.880><c> list</c><00:02:17.090><c> which</c><00:02:17.570><c> has</c><00:02:17.600><c> first</c><00:02:18.050><c> ten</c>
+
+00:02:18.310 --> 00:02:18.320 align:start position:0%
+now a new int list which has first ten
+ 
+
+00:02:18.320 --> 00:02:22.210 align:start position:0%
+now a new int list which has first ten
+and<00:02:18.530><c> rational</c><00:02:19.130><c> okay</c><00:02:20.500><c> well</c><00:02:21.500><c> at</c><00:02:21.590><c> this</c><00:02:21.770><c> point</c><00:02:22.040><c> if</c>
+
+00:02:22.210 --> 00:02:22.220 align:start position:0%
+and rational okay well at this point if
+ 
+
+00:02:22.220 --> 00:02:23.740 align:start position:0%
+and rational okay well at this point if
+we<00:02:22.430><c> tried</c><00:02:22.610><c> to</c><00:02:22.730><c> imagine</c><00:02:22.910><c> how</c><00:02:23.300><c> would</c><00:02:23.480><c> I</c><00:02:23.510><c> add</c><00:02:23.720><c> a</c>
+
+00:02:23.740 --> 00:02:23.750 align:start position:0%
+we tried to imagine how would I add a
+ 
+
+00:02:23.750 --> 00:02:26.290 align:start position:0%
+we tried to imagine how would I add a
+third<00:02:24.260><c> value</c><00:02:24.650><c> to</c><00:02:24.770><c> the</c><00:02:24.830><c> list</c><00:02:25.040><c> we</c><00:02:25.310><c> could</c><00:02:25.760><c> say</c><00:02:25.940><c> L</c>
+
+00:02:26.290 --> 00:02:26.300 align:start position:0%
+third value to the list we could say L
+ 
+
+00:02:26.300 --> 00:02:29.680 align:start position:0%
+third value to the list we could say L
+dot<00:02:26.720><c> rest</c><00:02:27.130><c> dot</c><00:02:28.130><c> rest</c><00:02:28.460><c> and</c><00:02:28.760><c> in</c><00:02:29.240><c> that</c><00:02:29.360><c> case</c><00:02:29.540><c> we'd</c>
+
+00:02:29.680 --> 00:02:29.690 align:start position:0%
+dot rest dot rest and in that case we'd
+ 
+
+00:02:29.690 --> 00:02:32.290 align:start position:0%
+dot rest dot rest and in that case we'd
+be<00:02:29.780><c> talking</c><00:02:29.930><c> about</c><00:02:30.200><c> this</c><00:02:30.680><c> box</c><00:02:31.460><c> right</c><00:02:31.700><c> here</c><00:02:31.760><c> all</c>
+
+00:02:32.290 --> 00:02:32.300 align:start position:0%
+be talking about this box right here all
+ 
+
+00:02:32.300 --> 00:02:33.970 align:start position:0%
+be talking about this box right here all
+that<00:02:32.570><c> rest</c><00:02:32.780><c> that</c><00:02:32.870><c> rest</c><00:02:33.200><c> equals</c><00:02:33.500><c> new</c><00:02:33.650><c> int</c><00:02:33.680><c> list</c>
+
+00:02:33.970 --> 00:02:33.980 align:start position:0%
+that rest that rest equals new int list
+ 
+
+00:02:33.980 --> 00:02:36.520 align:start position:0%
+that rest that rest equals new int list
+so<00:02:34.940><c> after</c><00:02:35.240><c> I</c><00:02:35.270><c> say</c><00:02:35.540><c> L</c><00:02:35.720><c> that</c><00:02:35.930><c> rest</c><00:02:36.140><c> that</c><00:02:36.230><c> rest</c>
+
+00:02:36.520 --> 00:02:36.530 align:start position:0%
+so after I say L that rest that rest
+ 
+
+00:02:36.530 --> 00:02:37.600 align:start position:0%
+so after I say L that rest that rest
+equals<00:02:36.830><c> new</c><00:02:36.950><c> in</c><00:02:37.070><c> list</c>
+
+00:02:37.600 --> 00:02:37.610 align:start position:0%
+equals new in list
+ 
+
+00:02:37.610 --> 00:02:39.640 align:start position:0%
+equals new in list
+what<00:02:38.240><c> do</c><00:02:38.300><c> you</c><00:02:38.360><c> suppose</c><00:02:38.630><c> happens</c><00:02:39.050><c> okay</c><00:02:39.440><c> so</c><00:02:39.500><c> I'll</c>
+
+00:02:39.640 --> 00:02:39.650 align:start position:0%
+what do you suppose happens okay so I'll
+ 
+
+00:02:39.650 --> 00:02:41.920 align:start position:0%
+what do you suppose happens okay so I'll
+just<00:02:39.680><c> skim</c><00:02:40.040><c> for</c><00:02:40.310><c> just</c><00:02:40.490><c> a</c><00:02:40.550><c> little</c><00:02:40.760><c> bit</c><00:02:40.880><c> we</c><00:02:41.780><c> end</c>
+
+00:02:41.920 --> 00:02:41.930 align:start position:0%
+just skim for just a little bit we end
+ 
+
+00:02:41.930 --> 00:02:43.360 align:start position:0%
+just skim for just a little bit we end
+up<00:02:42.080><c> getting</c><00:02:42.200><c> an</c><00:02:42.470><c> int</c><00:02:42.620><c> list</c><00:02:42.830><c> which</c><00:02:43.040><c> has</c><00:02:43.070><c> the</c>
+
+00:02:43.360 --> 00:02:43.370 align:start position:0%
+up getting an int list which has the
+ 
+
+00:02:43.370 --> 00:02:46.000 align:start position:0%
+up getting an int list which has the
+default<00:02:43.700><c> values</c><00:02:44.030><c> of</c><00:02:44.240><c> all</c><00:02:44.450><c> zeros</c><00:02:44.840><c> and</c><00:02:45.770><c> at</c><00:02:45.890><c> that</c>
+
+00:02:46.000 --> 00:02:46.010 align:start position:0%
+default values of all zeros and at that
+ 
+
+00:02:46.010 --> 00:02:49.150 align:start position:0%
+default values of all zeros and at that
+point<00:02:46.250><c> we</c><00:02:46.400><c> could</c><00:02:46.580><c> say</c><00:02:47.000><c> okay</c><00:02:47.450><c> know</c><00:02:47.600><c> what</c><00:02:47.750><c> l</c><00:02:48.260><c> dot</c>
+
+00:02:49.150 --> 00:02:49.160 align:start position:0%
+point we could say okay know what l dot
+ 
+
+00:02:49.160 --> 00:02:53.440 align:start position:0%
+point we could say okay know what l dot
+rest<00:02:49.490><c> dot</c><00:02:50.360><c> rest</c><00:02:50.660><c> dot</c><00:02:51.410><c> first</c><00:02:51.770><c> is</c><00:02:52.040><c> 15</c><00:02:52.610><c> in</c><00:02:52.910><c> that</c>
+
+00:02:53.440 --> 00:02:53.450 align:start position:0%
+rest dot rest dot first is 15 in that
+ 
+
+00:02:53.450 --> 00:02:57.250 align:start position:0%
+rest dot rest dot first is 15 in that
+case<00:02:54.010><c> we</c><00:02:55.010><c> are</c><00:02:55.280><c> telling</c><00:02:55.940><c> Java</c><00:02:56.360><c> we'd</c><00:02:56.990><c> like</c><00:02:57.110><c> to</c>
+
+00:02:57.250 --> 00:02:57.260 align:start position:0%
+case we are telling Java we'd like to
+ 
+
+00:02:57.260 --> 00:03:00.100 align:start position:0%
+case we are telling Java we'd like to
+set<00:02:57.470><c> this</c><00:02:57.800><c> box</c><00:02:58.130><c> this</c><00:02:58.550><c> memory</c><00:02:59.270><c> box</c><00:02:59.480><c> here</c><00:02:59.720><c> its</c>
+
+00:03:00.100 --> 00:03:00.110 align:start position:0%
+set this box this memory box here its
+ 
+
+00:03:00.110 --> 00:03:02.770 align:start position:0%
+set this box this memory box here its
+bits<00:03:00.410><c> equal</c><00:03:00.950><c> to</c><00:03:01.010><c> 15</c><00:03:01.370><c> so</c><00:03:02.270><c> what</c><00:03:02.390><c> we've</c><00:03:02.540><c> done</c><00:03:02.720><c> now</c>
+
+00:03:02.770 --> 00:03:02.780 align:start position:0%
+bits equal to 15 so what we've done now
+ 
+
+00:03:02.780 --> 00:03:05.620 align:start position:0%
+bits equal to 15 so what we've done now
+is<00:03:03.140><c> built</c><00:03:03.530><c> a</c><00:03:03.620><c> list</c><00:03:03.830><c> now</c><00:03:04.270><c> of</c><00:03:05.270><c> course</c><00:03:05.390><c> it's</c><00:03:05.570><c> a</c>
+
+00:03:05.620 --> 00:03:05.630 align:start position:0%
+is built a list now of course it's a
+ 
+
+00:03:05.630 --> 00:03:07.090 align:start position:0%
+is built a list now of course it's a
+little<00:03:05.690><c> awkward</c><00:03:06.080><c> to</c><00:03:06.110><c> use</c><00:03:06.380><c> right</c><00:03:06.680><c> I</c><00:03:06.740><c> mean</c><00:03:06.950><c> like</c>
+
+00:03:07.090 --> 00:03:07.100 align:start position:0%
+little awkward to use right I mean like
+ 
+
+00:03:07.100 --> 00:03:08.440 align:start position:0%
+little awkward to use right I mean like
+who<00:03:07.400><c> wants</c><00:03:07.610><c> to</c><00:03:07.700><c> write</c><00:03:07.820><c> code</c><00:03:08.000><c> that</c><00:03:08.240><c> looks</c><00:03:08.330><c> like</c>
+
+00:03:08.440 --> 00:03:08.450 align:start position:0%
+who wants to write code that looks like
+ 
+
+00:03:08.450 --> 00:03:10.660 align:start position:0%
+who wants to write code that looks like
+this<00:03:08.590><c> so</c><00:03:09.590><c> we</c><00:03:09.650><c> could</c><00:03:09.770><c> make</c><00:03:09.980><c> things</c><00:03:10.160><c> slightly</c>
+
+00:03:10.660 --> 00:03:10.670 align:start position:0%
+this so we could make things slightly
+ 
+
+00:03:10.670 --> 00:03:14.410 align:start position:0%
+this so we could make things slightly
+better<00:03:11.120><c> by</c><00:03:12.430><c> working</c><00:03:13.430><c> a</c><00:03:13.640><c> little</c><00:03:13.760><c> bit</c><00:03:14.030><c> backwards</c>
+
+00:03:14.410 --> 00:03:14.420 align:start position:0%
+better by working a little bit backwards
+ 
+
+00:03:14.420 --> 00:03:16.410 align:start position:0%
+better by working a little bit backwards
+so<00:03:14.840><c> first</c><00:03:15.080><c> I'm</c><00:03:15.290><c> gonna</c><00:03:15.470><c> create</c><00:03:15.920><c> a</c><00:03:15.980><c> constructor</c>
+
+00:03:16.410 --> 00:03:16.420 align:start position:0%
+so first I'm gonna create a constructor
+ 
+
+00:03:16.420 --> 00:03:19.690 align:start position:0%
+so first I'm gonna create a constructor
+where<00:03:17.420><c> I'm</c><00:03:17.480><c> gonna</c><00:03:17.600><c> say</c><00:03:17.750><c> public</c><00:03:18.110><c> int</c><00:03:18.290><c> list</c><00:03:18.700><c> int</c>
+
+00:03:19.690 --> 00:03:19.700 align:start position:0%
+where I'm gonna say public int list int
+ 
+
+00:03:19.700 --> 00:03:26.560 align:start position:0%
+where I'm gonna say public int list int
+F<00:03:20.500><c> int</c><00:03:21.500><c> list</c><00:03:21.800><c> H</c><00:03:22.360><c> I'm</c><00:03:23.360><c> sorry</c><00:03:23.660><c> are</c><00:03:24.520><c> well</c><00:03:25.520><c> and</c><00:03:26.420><c> then</c>
+
+00:03:26.560 --> 00:03:26.570 align:start position:0%
+F int list H I'm sorry are well and then
+ 
+
+00:03:26.570 --> 00:03:29.710 align:start position:0%
+F int list H I'm sorry are well and then
+I'm<00:03:26.660><c> gonna</c><00:03:26.780><c> say</c><00:03:26.990><c> F</c><00:03:27.980><c> equals</c><00:03:28.580><c> first</c><00:03:28.850><c> breast</c>
+
+00:03:29.710 --> 00:03:29.720 align:start position:0%
+I'm gonna say F equals first breast
+ 
+
+00:03:29.720 --> 00:03:34.690 align:start position:0%
+I'm gonna say F equals first breast
+equals<00:03:30.110><c> R</c><00:03:30.320><c> oops</c><00:03:30.950><c> wrong</c><00:03:31.130><c> way</c><00:03:31.310><c> around</c><00:03:32.980><c> and</c><00:03:33.980><c> then</c>
+
+00:03:34.690 --> 00:03:34.700 align:start position:0%
+equals R oops wrong way around and then
+ 
+
+00:03:34.700 --> 00:03:36.280 align:start position:0%
+equals R oops wrong way around and then
+what<00:03:34.880><c> I'm</c><00:03:34.970><c> gonna</c><00:03:35.090><c> do</c><00:03:35.330><c> is</c><00:03:35.600><c> I'm</c><00:03:35.780><c> actually</c><00:03:35.900><c> going</c>
+
+00:03:36.280 --> 00:03:36.290 align:start position:0%
+what I'm gonna do is I'm actually going
+ 
+
+00:03:36.290 --> 00:03:39.190 align:start position:0%
+what I'm gonna do is I'm actually going
+to<00:03:36.459><c> build</c><00:03:37.459><c> my</c><00:03:37.700><c> list</c><00:03:37.910><c> the</c><00:03:38.209><c> other</c><00:03:38.420><c> way</c><00:03:38.660><c> around</c>
+
+00:03:39.190 --> 00:03:39.200 align:start position:0%
+to build my list the other way around
+ 
+
+00:03:39.200 --> 00:03:41.860 align:start position:0%
+to build my list the other way around
+okay<00:03:39.530><c> so</c><00:03:39.860><c> let's</c><00:03:40.070><c> try</c><00:03:40.340><c> that</c><00:03:40.400><c> out</c><00:03:40.700><c> it</c><00:03:41.360><c> lists</c><00:03:41.660><c> L</c>
+
+00:03:41.860 --> 00:03:41.870 align:start position:0%
+okay so let's try that out it lists L
+ 
+
+00:03:41.870 --> 00:03:44.430 align:start position:0%
+okay so let's try that out it lists L
+equals<00:03:42.230><c> new</c><00:03:42.350><c> int</c><00:03:42.530><c> list</c><00:03:42.830><c> I'm</c><00:03:43.280><c> gonna</c><00:03:43.520><c> say</c><00:03:43.730><c> 15</c>
+
+00:03:44.430 --> 00:03:44.440 align:start position:0%
+equals new int list I'm gonna say 15
+ 
+
+00:03:44.440 --> 00:03:49.600 align:start position:0%
+equals new int list I'm gonna say 15
+null<00:03:45.700><c> and</c><00:03:46.700><c> I'm</c><00:03:47.180><c> gonna</c><00:03:47.330><c> say</c><00:03:47.890><c> L</c><00:03:48.890><c> equals</c><00:03:49.430><c> new</c><00:03:49.580><c> int</c>
+
+00:03:49.600 --> 00:03:49.610 align:start position:0%
+null and I'm gonna say L equals new int
+ 
+
+00:03:49.610 --> 00:03:53.380 align:start position:0%
+null and I'm gonna say L equals new int
+list<00:03:50.060><c> 10</c><00:03:50.540><c> L</c><00:03:51.280><c> and</c><00:03:52.280><c> I'm</c><00:03:52.400><c> gonna</c><00:03:52.490><c> say</c><00:03:52.670><c> L</c><00:03:52.880><c> equals</c><00:03:53.270><c> new</c>
+
+00:03:53.380 --> 00:03:53.390 align:start position:0%
+list 10 L and I'm gonna say L equals new
+ 
+
+00:03:53.390 --> 00:03:57.430 align:start position:0%
+list 10 L and I'm gonna say L equals new
+int<00:03:53.420><c> list</c><00:03:53.750><c> 5</c><00:03:54.110><c> L</c><00:03:54.820><c> so</c><00:03:55.820><c> this</c><00:03:55.970><c> is</c><00:03:56.030><c> also</c><00:03:56.450><c> kind</c><00:03:57.230><c> of</c>
+
+00:03:57.430 --> 00:03:57.440 align:start position:0%
+int list 5 L so this is also kind of
+ 
+
+00:03:57.440 --> 00:03:59.290 align:start position:0%
+int list 5 L so this is also kind of
+awkward<00:03:57.800><c> code</c><00:03:58.070><c> but</c><00:03:58.880><c> it's</c><00:03:59.000><c> a</c><00:03:59.030><c> little</c><00:03:59.180><c> more</c>
+
+00:03:59.290 --> 00:03:59.300 align:start position:0%
+awkward code but it's a little more
+ 
+
+00:03:59.300 --> 00:04:02.110 align:start position:0%
+awkward code but it's a little more
+concise<00:03:59.800><c> so</c><00:04:00.800><c> let's</c><00:04:00.950><c> try</c><00:04:01.100><c> running</c><00:04:01.310><c> this</c><00:04:01.610><c> and</c>
+
+00:04:02.110 --> 00:04:02.120 align:start position:0%
+concise so let's try running this and
+ 
+
+00:04:02.120 --> 00:04:06.070 align:start position:0%
+concise so let's try running this and
+seeing<00:04:02.330><c> what</c><00:04:02.450><c> happens</c><00:04:04.660><c> okay</c><00:04:05.660><c> any</c><00:04:05.840><c> syntax</c>
+
+00:04:06.070 --> 00:04:06.080 align:start position:0%
+seeing what happens okay any syntax
+ 
+
+00:04:06.080 --> 00:04:09.070 align:start position:0%
+seeing what happens okay any syntax
+errors<00:04:06.440><c> nope</c><00:04:06.860><c> good</c><00:04:07.330><c> okay</c><00:04:08.330><c> so</c><00:04:08.390><c> we</c><00:04:08.540><c> say</c><00:04:08.660><c> int</c><00:04:08.900><c> list</c>
+
+00:04:09.070 --> 00:04:09.080 align:start position:0%
+errors nope good okay so we say int list
+ 
+
+00:04:09.080 --> 00:04:10.480 align:start position:0%
+errors nope good okay so we say int list
+L<00:04:09.290><c> equals</c><00:04:09.590><c> new</c><00:04:09.680><c> int</c><00:04:09.709><c> list</c><00:04:10.010><c> that's</c><00:04:10.220><c> saying</c><00:04:10.400><c> I</c>
+
+00:04:10.480 --> 00:04:10.490 align:start position:0%
+L equals new int list that's saying I
+ 
+
+00:04:10.490 --> 00:04:13.600 align:start position:0%
+L equals new int list that's saying I
+want<00:04:10.790><c> a</c><00:04:10.910><c> new</c><00:04:11.060><c> int</c><00:04:11.209><c> list</c><00:04:11.420><c> that</c><00:04:11.600><c> has</c><00:04:11.720><c> 15</c><00:04:12.370><c> at</c><00:04:13.370><c> the</c>
+
+00:04:13.600 --> 00:04:13.610 align:start position:0%
+want a new int list that has 15 at the
+ 
+
+00:04:13.610 --> 00:04:15.520 align:start position:0%
+want a new int list that has 15 at the
+front<00:04:13.850><c> whereas</c><00:04:14.660><c> the</c><00:04:14.840><c> first</c><00:04:15.020><c> value</c><00:04:15.230><c> and</c>
+
+00:04:15.520 --> 00:04:15.530 align:start position:0%
+front whereas the first value and
+ 
+
+00:04:15.530 --> 00:04:17.469 align:start position:0%
+front whereas the first value and
+nothing<00:04:16.040><c> is</c><00:04:16.160><c> the</c><00:04:16.280><c> rest</c><00:04:16.459><c> so</c><00:04:17.090><c> after</c><00:04:17.330><c> running</c>
+
+00:04:17.469 --> 00:04:17.479 align:start position:0%
+nothing is the rest so after running
+ 
+
+00:04:17.479 --> 00:04:20.830 align:start position:0%
+nothing is the rest so after running
+that<00:04:17.750><c> I</c><00:04:18.970><c> end</c><00:04:19.970><c> up</c><00:04:20.060><c> with</c><00:04:20.150><c> this</c>
+
+00:04:20.830 --> 00:04:20.840 align:start position:0%
+that I end up with this
+ 
+
+00:04:20.840 --> 00:04:23.080 align:start position:0%
+that I end up with this
+now<00:04:21.620><c> many</c><00:04:21.799><c> say</c><00:04:22.010><c> you</c><00:04:22.400><c> know</c><00:04:22.490><c> what</c><00:04:22.639><c> actually</c><00:04:22.820><c> you</c>
+
+00:04:23.080 --> 00:04:23.090 align:start position:0%
+now many say you know what actually you
+ 
+
+00:04:23.090 --> 00:04:25.810 align:start position:0%
+now many say you know what actually you
+know<00:04:23.210><c> what</c><00:04:23.330><c> I</c><00:04:23.389><c> want</c><00:04:23.570><c> L</c><00:04:23.720><c> to</c><00:04:23.750><c> be</c><00:04:23.930><c> I</c><00:04:24.230><c> want</c><00:04:24.889><c> L</c><00:04:25.100><c> to</c><00:04:25.430><c> be</c>
+
+00:04:25.810 --> 00:04:25.820 align:start position:0%
+know what I want L to be I want L to be
+ 
+
+00:04:25.820 --> 00:04:27.520 align:start position:0%
+know what I want L to be I want L to be
+a<00:04:25.850><c> list</c><00:04:26.270><c> which</c><00:04:26.480><c> has</c><00:04:26.510><c> ten</c><00:04:26.870><c> at</c><00:04:26.990><c> the</c><00:04:27.110><c> front</c><00:04:27.350><c> and</c>
+
+00:04:27.520 --> 00:04:27.530 align:start position:0%
+a list which has ten at the front and
+ 
+
+00:04:27.530 --> 00:04:29.500 align:start position:0%
+a list which has ten at the front and
+has<00:04:27.830><c> my</c><00:04:27.980><c> old</c><00:04:28.250><c> list</c><00:04:28.639><c> of</c><00:04:28.850><c> the</c><00:04:28.940><c> back</c><00:04:29.090><c> some</c><00:04:29.360><c> other</c>
+
+00:04:29.500 --> 00:04:29.510 align:start position:0%
+has my old list of the back some other
+ 
+
+00:04:29.510 --> 00:04:31.180 align:start position:0%
+has my old list of the back some other
+words<00:04:29.660><c> this</c><00:04:29.720><c> should</c><00:04:29.870><c> be</c><00:04:29.960><c> ten</c><00:04:30.200><c> here</c><00:04:30.530><c> and</c><00:04:30.680><c> then</c>
+
+00:04:31.180 --> 00:04:31.190 align:start position:0%
+words this should be ten here and then
+ 
+
+00:04:31.190 --> 00:04:34.270 align:start position:0%
+words this should be ten here and then
+this<00:04:31.700><c> list</c><00:04:32.060><c> after</c><00:04:32.360><c> ten</c><00:04:32.950><c> so</c><00:04:33.950><c> after</c><00:04:34.160><c> running</c>
+
+00:04:34.270 --> 00:04:34.280 align:start position:0%
+this list after ten so after running
+ 
+
+00:04:34.280 --> 00:04:39.670 align:start position:0%
+this list after ten so after running
+this<00:04:34.520><c> code</c><00:04:35.139><c> sure</c><00:04:36.139><c> enough</c><00:04:37.660><c> we</c><00:04:38.660><c> get</c><00:04:38.810><c> this</c><00:04:39.260><c> right</c>
+
+00:04:39.670 --> 00:04:39.680 align:start position:0%
+this code sure enough we get this right
+ 
+
+00:04:39.680 --> 00:04:42.820 align:start position:0%
+this code sure enough we get this right
+so<00:04:39.950><c> L</c><00:04:40.610><c> is</c><00:04:40.850><c> no</c><00:04:41.030><c> longer</c><00:04:41.270><c> this</c><00:04:41.630><c> original</c><00:04:42.080><c> list</c><00:04:42.260><c> it</c>
+
+00:04:42.820 --> 00:04:42.830 align:start position:0%
+so L is no longer this original list it
+ 
+
+00:04:42.830 --> 00:04:44.800 align:start position:0%
+so L is no longer this original list it
+is<00:04:42.980><c> now</c><00:04:43.160><c> the</c><00:04:43.700><c> new</c><00:04:43.850><c> list</c><00:04:44.090><c> we</c><00:04:44.240><c> just</c><00:04:44.450><c> built</c><00:04:44.630><c> which</c>
+
+00:04:44.800 --> 00:04:44.810 align:start position:0%
+is now the new list we just built which
+ 
+
+00:04:44.810 --> 00:04:46.480 align:start position:0%
+is now the new list we just built which
+has<00:04:44.960><c> ten</c><00:04:45.169><c> at</c><00:04:45.260><c> the</c><00:04:45.290><c> front</c><00:04:45.590><c> pointing</c><00:04:45.980><c> at</c><00:04:46.070><c> this</c>
+
+00:04:46.480 --> 00:04:46.490 align:start position:0%
+has ten at the front pointing at this
+ 
+
+00:04:46.490 --> 00:04:49.090 align:start position:0%
+has ten at the front pointing at this
+now<00:04:47.480><c> when</c><00:04:47.630><c> I</c><00:04:47.690><c> say</c><00:04:47.840><c> l</c><00:04:48.050><c> equals</c><00:04:48.620><c> new</c><00:04:48.770><c> int</c><00:04:48.800><c> list</c>
+
+00:04:49.090 --> 00:04:49.100 align:start position:0%
+now when I say l equals new int list
+ 
+
+00:04:49.100 --> 00:04:50.950 align:start position:0%
+now when I say l equals new int list
+five<00:04:49.370><c> L</c><00:04:49.580><c> and</c><00:04:49.850><c> if</c><00:04:50.120><c> you're</c><00:04:50.240><c> not</c><00:04:50.389><c> quite</c><00:04:50.600><c> following</c>
+
+00:04:50.950 --> 00:04:50.960 align:start position:0%
+five L and if you're not quite following
+ 
+
+00:04:50.960 --> 00:04:52.450 align:start position:0%
+five L and if you're not quite following
+I<00:04:51.080><c> urge</c><00:04:51.260><c> you</c><00:04:51.410><c> to</c><00:04:51.440><c> pause</c><00:04:51.710><c> the</c><00:04:51.919><c> video</c><00:04:52.010><c> and</c><00:04:52.310><c> try</c>
+
+00:04:52.450 --> 00:04:52.460 align:start position:0%
+I urge you to pause the video and try
+ 
+
+00:04:52.460 --> 00:04:54.129 align:start position:0%
+I urge you to pause the video and try
+and<00:04:52.639><c> read</c><00:04:53.090><c> ahead</c><00:04:53.210><c> and</c><00:04:53.540><c> guess</c><00:04:53.690><c> what</c><00:04:53.870><c> I'm</c><00:04:53.960><c> about</c>
+
+00:04:54.129 --> 00:04:54.139 align:start position:0%
+and read ahead and guess what I'm about
+ 
+
+00:04:54.139 --> 00:04:56.890 align:start position:0%
+and read ahead and guess what I'm about
+to<00:04:54.200><c> do</c><00:04:54.669><c> so</c><00:04:55.669><c> what</c><00:04:55.790><c> I'm</c><00:04:55.880><c> saying</c><00:04:56.030><c> is</c><00:04:56.150><c> I</c><00:04:56.270><c> want</c><00:04:56.419><c> L</c><00:04:56.630><c> not</c>
+
+00:04:56.890 --> 00:04:56.900 align:start position:0%
+to do so what I'm saying is I want L not
+ 
+
+00:04:56.900 --> 00:04:58.810 align:start position:0%
+to do so what I'm saying is I want L not
+to<00:04:57.050><c> be</c><00:04:57.200><c> what</c><00:04:57.350><c> it</c><00:04:57.440><c> currently</c><00:04:57.740><c> is</c><00:04:57.919><c> I</c><00:04:58.220><c> want</c><00:04:58.729><c> to</c>
+
+00:04:58.810 --> 00:04:58.820 align:start position:0%
+to be what it currently is I want to
+ 
+
+00:04:58.820 --> 00:05:00.400 align:start position:0%
+to be what it currently is I want to
+give<00:04:58.940><c> you</c><00:04:59.030><c> the</c><00:04:59.150><c> address</c><00:04:59.270><c> of</c><00:04:59.720><c> a</c><00:04:59.810><c> new</c><00:04:59.960><c> list</c><00:05:00.229><c> which</c>
+
+00:05:00.400 --> 00:05:00.410 align:start position:0%
+give you the address of a new list which
+ 
+
+00:05:00.410 --> 00:05:02.530 align:start position:0%
+give you the address of a new list which
+has<00:05:00.440><c> five</c><00:05:00.800><c> at</c><00:05:00.979><c> the</c><00:05:01.070><c> front</c><00:05:01.310><c> and</c><00:05:01.490><c> which</c><00:05:02.180><c> points</c>
+
+00:05:02.530 --> 00:05:02.540 align:start position:0%
+has five at the front and which points
+ 
+
+00:05:02.540 --> 00:05:05.500 align:start position:0%
+has five at the front and which points
+at<00:05:02.660><c> the</c><00:05:02.900><c> old</c><00:05:03.080><c> list</c><00:05:03.350><c> that</c><00:05:03.560><c> I've</c><00:05:03.650><c> created</c><00:05:04.419><c> so</c><00:05:05.419><c> in</c>
+
+00:05:05.500 --> 00:05:05.510 align:start position:0%
+at the old list that I've created so in
+ 
+
+00:05:05.510 --> 00:05:07.870 align:start position:0%
+at the old list that I've created so in
+this<00:05:05.630><c> case</c><00:05:05.870><c> we</c><00:05:06.290><c> create</c><00:05:06.470><c> a</c><00:05:06.620><c> new</c><00:05:06.800><c> node</c><00:05:06.830><c> so</c><00:05:07.639><c> here's</c>
+
+00:05:07.870 --> 00:05:07.880 align:start position:0%
+this case we create a new node so here's
+ 
+
+00:05:07.880 --> 00:05:09.840 align:start position:0%
+this case we create a new node so here's
+the<00:05:08.030><c> new</c><00:05:08.180><c> list</c><00:05:08.450><c> that</c><00:05:08.540><c> we're</c><00:05:08.720><c> gonna</c><00:05:08.810><c> point</c><00:05:09.080><c> L</c><00:05:09.320><c> at</c>
+
+00:05:09.840 --> 00:05:09.850 align:start position:0%
+the new list that we're gonna point L at
+ 
+
+00:05:09.850 --> 00:05:13.810 align:start position:0%
+the new list that we're gonna point L at
+we<00:05:10.850><c> put</c><00:05:11.090><c> the</c><00:05:11.240><c> value</c><00:05:11.570><c> five</c><00:05:12.560><c> in</c><00:05:12.860><c> and</c><00:05:13.160><c> then</c><00:05:13.760><c> you</c>
+
+00:05:13.810 --> 00:05:13.820 align:start position:0%
+we put the value five in and then you
+ 
+
+00:05:13.820 --> 00:05:15.760 align:start position:0%
+we put the value five in and then you
+say<00:05:13.970><c> you</c><00:05:14.030><c> know</c><00:05:14.180><c> what</c><00:05:14.330><c> I</c><00:05:14.479><c> want</c><00:05:14.780><c> rest</c><00:05:15.139><c> to</c><00:05:15.650><c> be</c>
+
+00:05:15.760 --> 00:05:15.770 align:start position:0%
+say you know what I want rest to be
+ 
+
+00:05:15.770 --> 00:05:18.159 align:start position:0%
+say you know what I want rest to be
+equal<00:05:16.100><c> to</c><00:05:16.190><c> R</c><00:05:16.340><c> what's</c><00:05:16.729><c> our</c><00:05:17.000><c> R</c><00:05:17.479><c> is</c><00:05:17.780><c> just</c><00:05:17.960><c> going</c><00:05:18.080><c> to</c>
+
+00:05:18.159 --> 00:05:18.169 align:start position:0%
+equal to R what's our R is just going to
+ 
+
+00:05:18.169 --> 00:05:19.629 align:start position:0%
+equal to R what's our R is just going to
+be<00:05:18.229><c> the</c><00:05:18.350><c> address</c><00:05:18.830><c> that</c><00:05:18.860><c> was</c><00:05:19.070><c> passed</c><00:05:19.340><c> in</c><00:05:19.520><c> the</c>
+
+00:05:19.629 --> 00:05:19.639 align:start position:0%
+be the address that was passed in the
+ 
+
+00:05:19.639 --> 00:05:22.270 align:start position:0%
+be the address that was passed in the
+constructor<00:05:20.180><c> which</c><00:05:20.450><c> is</c><00:05:20.600><c> the</c><00:05:20.750><c> old</c><00:05:20.900><c> list</c><00:05:21.200><c> so</c><00:05:22.190><c> at</c>
+
+00:05:22.270 --> 00:05:22.280 align:start position:0%
+constructor which is the old list so at
+ 
+
+00:05:22.280 --> 00:05:24.850 align:start position:0%
+constructor which is the old list so at
+that<00:05:22.400><c> point</c><00:05:22.610><c> rest</c><00:05:23.210><c> points</c><00:05:23.750><c> it</c><00:05:23.900><c> this</c><00:05:24.440><c> int</c><00:05:24.650><c> list</c>
+
+00:05:24.850 --> 00:05:24.860 align:start position:0%
+that point rest points it this int list
+ 
+
+00:05:24.860 --> 00:05:27.130 align:start position:0%
+that point rest points it this int list
+instance<00:05:25.370><c> here</c><00:05:25.640><c> right</c><00:05:25.910><c> here</c><00:05:26.120><c> the</c><00:05:26.720><c> old</c><00:05:26.900><c> list</c>
+
+00:05:27.130 --> 00:05:27.140 align:start position:0%
+instance here right here the old list
+ 
+
+00:05:27.140 --> 00:05:29.920 align:start position:0%
+instance here right here the old list
+and<00:05:27.380><c> so</c><00:05:28.190><c> once</c><00:05:28.430><c> everything</c><00:05:28.669><c> said</c><00:05:29.030><c> and</c><00:05:29.060><c> done</c><00:05:29.180><c> we</c>
+
+00:05:29.920 --> 00:05:29.930 align:start position:0%
+and so once everything said and done we
+ 
+
+00:05:29.930 --> 00:05:33.250 align:start position:0%
+and so once everything said and done we
+end<00:05:29.960><c> up</c><00:05:30.140><c> with</c><00:05:30.289><c> lists</c><00:05:30.590><c> five</c><00:05:30.890><c> ten</c><00:05:31.430><c> fifty</c><00:05:31.970><c> okay</c><00:05:32.570><c> so</c>
+
+00:05:33.250 --> 00:05:33.260 align:start position:0%
+end up with lists five ten fifty okay so
+ 
+
+00:05:33.260 --> 00:05:34.570 align:start position:0%
+end up with lists five ten fifty okay so
+there<00:05:33.380><c> was</c><00:05:33.470><c> nothing</c><00:05:33.680><c> new</c><00:05:34.100><c> there</c><00:05:34.370><c> that</c><00:05:34.520><c> we</c>
+
+00:05:34.570 --> 00:05:34.580 align:start position:0%
+there was nothing new there that we
+ 
+
+00:05:34.580 --> 00:05:36.190 align:start position:0%
+there was nothing new there that we
+hadn't<00:05:34.910><c> seen</c><00:05:34.970><c> in</c><00:05:35.330><c> the</c><00:05:35.510><c> mystery</c><00:05:35.810><c> of</c><00:05:35.900><c> the</c><00:05:35.990><c> walrus</c>
+
+00:05:36.190 --> 00:05:36.200 align:start position:0%
+hadn't seen in the mystery of the walrus
+ 
+
+00:05:36.200 --> 00:05:38.170 align:start position:0%
+hadn't seen in the mystery of the walrus
+though<00:05:37.070><c> it</c><00:05:37.190><c> can</c><00:05:37.340><c> be</c><00:05:37.460><c> a</c><00:05:37.490><c> little</c><00:05:37.669><c> bit</c><00:05:37.850><c> hard</c><00:05:38.090><c> to</c>
+
+00:05:38.170 --> 00:05:38.180 align:start position:0%
+though it can be a little bit hard to
+ 
+
+00:05:38.180 --> 00:05:39.670 align:start position:0%
+though it can be a little bit hard to
+wrap<00:05:38.390><c> your</c><00:05:38.419><c> brain</c><00:05:38.660><c> around</c><00:05:38.750><c> and</c><00:05:39.260><c> if</c><00:05:39.380><c> you</c><00:05:39.410><c> didn't</c>
+
+00:05:39.670 --> 00:05:39.680 align:start position:0%
+wrap your brain around and if you didn't
+ 
+
+00:05:39.680 --> 00:05:41.380 align:start position:0%
+wrap your brain around and if you didn't
+quite<00:05:39.830><c> get</c><00:05:40.010><c> it</c><00:05:40.070><c> you</c><00:05:40.460><c> know</c><00:05:40.580><c> watch</c><00:05:40.850><c> again</c><00:05:41.150><c> and</c>
+
+00:05:41.380 --> 00:05:41.390 align:start position:0%
+quite get it you know watch again and
+ 
+
+00:05:41.390 --> 00:05:44.650 align:start position:0%
+quite get it you know watch again and
+try<00:05:41.600><c> and</c><00:05:41.690><c> guess</c><00:05:41.840><c> what</c><00:05:42.050><c> I'm</c><00:05:42.140><c> about</c><00:05:42.320><c> to</c><00:05:42.380><c> do</c>
+

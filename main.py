@@ -31,12 +31,18 @@ def home():
 
 @app.route('/<search_term>', methods=('GET', 'POST'))
 def results(search_term):
-    data, phrases = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
+    urls, raw_phrases = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
+    leftContexts = []
+    rightContexts = []
+    for phrase in raw_phrases:
+        idx = phrase.find(search_term)
+        leftContexts.append(phrase[:idx])
+        rightContexts.append(phrase[idx+len(search_term):])
     search = QueryForm(request.form)
     if request.method == 'POST':
         search_string = request.form['query']
         return redirect('/'+search_string)
-    return render_template('index.html', form=search, name=search_term, data=data, showViewer=len(data)>0)
+    return render_template('index.html', form=search, name=search_term, urls=urls, leftContexts=leftContexts, rightContexts=rightContexts, showViewer=len(urls)>0)
 
 def listen():
     search = QueryForm(request.form)

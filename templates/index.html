@@ -35,10 +35,10 @@
         {% endif %}
         <br>
         
-        <div style="float:left;width:33%;overflow:scroll;height:600px">
-          <h3 style="padding:32px;" class="title">{{ name }}</h3>
+        <div style="float:left;width:33%;overflow:scroll;height:600px;padding:32px">
+          <h3 style="padding-bottom:32px" class="title">{{ name }}</h3>
           {% for url in urls %}
-              <p id="{{url}}" onclick="setYTClip(this)"> {{ leftContexts[loop.index0] }}<b>{{ name }}</b> {{ rightContexts[loop.index0] }} </p>
+              <p style="cursor:pointer;padding-bottom:10px" id="{{url}}" onclick="setYTClip(this)"> {{ leftContexts[loop.index0] }}<b>{{ name }}</b> {{ rightContexts[loop.index0] }} </p>
           {% endfor %}
         </div>
       </center>

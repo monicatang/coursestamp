@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script type=text/javascript>
+      function setYTClip(item) {
+          var id = $(item).attr("id");
+          $("iframe").attr("src", id);
+      }
+  </script>
   <head>
     <meta charset="utf-8">
     <title>coursestamp</title>
@@ -8,7 +15,7 @@
   <body>
     <div class="container">
       <center>
-        <img style="width:400px; padding-top:100px; padding-bottom:20px" src="{{url_for('static', filename='logo.png')}}" align="middle" />
+        <img style="width:400px; padding-top:20px; padding-bottom:20px" src="{{url_for('static', filename='logo.png')}}" align="middle" />
         <form  action="" method="post" role="form">
           {{ form.hidden_tag() }}
           <div class="form-group">
@@ -16,12 +23,27 @@
           </div>                        
           <button type="submit" class="btn btn-success">Submit</button>
         </form>
+        {% if showViewer == true %}
+        <iframe width="560" height="315" src="{{data[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {% endif %}
         <br>
         <h3 style="padding:32px" class="title">{{ name }}</h3>
         {% for item in data %}
-            <p> {{ item }} </p>
+            <p id="{{item}}" onclick="setYTClip(this)"> {{ item }} </p>
         {% endfor %}
       </center>
     </div>
+    <div class='container'>
+        <h3>Test</h3>
+            <form>
+                <a id=test><button class='btn btn-default'>Test</button></a>
+            </form>
+    </div>
+    <!-- <div class='container'>
+        <h3>Test</h3>
+            <form>
+                <a href=# id=test2><button class='btn btn-default'>Test2</button></a>
+            </form>
+    </div> -->
   </body>
 </html>

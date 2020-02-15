@@ -14,8 +14,8 @@
   <head>
     <meta charset="utf-8">
     <title>coursestamp</title>
-    <link rel="stylesheet" media="screen" href="static/bootstrap.min.css">
-    <link rel="stylesheet" media="screen" href="static/custom.css">
+    <link rel="stylesheet" media="screen" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+    <link rel="stylesheet" media="screen" href="{{ url_for('static', filename='custom.css') }}">
   </head>
   <body>
     <div class="container">
@@ -32,11 +32,11 @@
             </div>
           </form>
         {% if showViewer == true %}
-        <iframe style="float:right;padding-top:32px;padding-left:32px" width="66%" height="500px" src="{{urls[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="66%" height="500px" src="{{urls[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
         <br>
         
-        <div style="float:left;width:33%;overflow:scroll;height:500px;padding:16px">
+        <div id="excerpt-sidebar">
           {% for url in urls %}
               <div class="shadow-sm p-3 mb-5 rounded bg-white border-top border-3" style="margin-bottom:30px;margin-top:10px;padding:10px">
               <div class="excerpt-box">

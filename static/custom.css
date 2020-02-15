@@ -35,3 +35,17 @@
 	padding-bottom:20px;
 	cursor:pointer;
 }
+
+#excerpt-sidebar {
+	float:left;
+	width:33%;
+	overflow:scroll;
+	height:500px;
+	padding:16px;
+}
+
+iframe {
+	float:right;
+	padding-top:32px;
+	padding-left:32px;
+}

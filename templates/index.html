@@ -15,11 +15,12 @@
     <meta charset="utf-8">
     <title>coursestamp</title>
     <link rel="stylesheet" media="screen" href="static/bootstrap.min.css">
+    <link rel="stylesheet" media="screen" href="static/custom.css">
   </head>
   <body>
     <div class="container">
       <center>
-        <img style="width:400px; padding-top:80px; padding-bottom:20px;cursor:pointer" src="{{url_for('static', filename='logo.png')}}" align="middle" onclick="backToMain()"/>
+        <img id="logo" src="{{url_for('static', filename='logo.png')}}" align="middle" onclick="backToMain()"/>
           <form action="" method="post" role="form">
             {{ form.hidden_tag() }}
             <div class="input-group">
@@ -37,8 +38,10 @@
         
         <div style="float:left;width:33%;overflow:scroll;height:500px;padding:16px">
           {% for url in urls %}
-              <div style="background-color:#dbedff;margin-bottom:30px;margin-top:10px;padding:10px">
-              <p style="text-transform: uppercase;font-size:11px;font-weight:bold;width:100%;text-overflow: ellipsis;white-space:nowrap;overflow:hidden;padding:10px 5px">{{ titleContexts[loop.index0] }}</p>
+              <div class="shadow-sm p-3 mb-5 rounded bg-white border-top border-3" style="margin-bottom:30px;margin-top:10px;padding:10px">
+              <div class="excerpt-box">
+              <span>{{ titleContexts[loop.index0] }}</span>
+              </div>
               <p style="cursor:pointer;" id="{{url}}" onclick="setYTClip(this)"> {{ leftContexts[loop.index0] }}<b>{{ name }}</b> {{ rightContexts[loop.index0] }} </p>
               </div>
           {% endfor %}

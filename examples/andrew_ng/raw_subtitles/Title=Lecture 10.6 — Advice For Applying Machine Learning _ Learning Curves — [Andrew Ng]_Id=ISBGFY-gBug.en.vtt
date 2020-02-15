@@ -1,0 +1,2408 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:01.640 align:start position:0%
+ 
+in<00:00:00.120><c> this</c><00:00:00.390><c> video</c><00:00:00.750><c> I'd</c><00:00:01.020><c> like</c><00:00:01.140><c> to</c><00:00:01.199><c> tell</c><00:00:01.469><c> you</c><00:00:01.620><c> about</c>
+
+00:00:01.640 --> 00:00:01.650 align:start position:0%
+in this video I'd like to tell you about
+ 
+
+00:00:01.650 --> 00:00:04.610 align:start position:0%
+in this video I'd like to tell you about
+learning<00:00:02.129><c> curves</c><00:00:02.629><c> learning</c><00:00:03.629><c> curves</c><00:00:03.929><c> is</c><00:00:04.259><c> often</c>
+
+00:00:04.610 --> 00:00:04.620 align:start position:0%
+learning curves learning curves is often
+ 
+
+00:00:04.620 --> 00:00:06.650 align:start position:0%
+learning curves learning curves is often
+a<00:00:04.710><c> very</c><00:00:04.740><c> useful</c><00:00:05.160><c> thing</c><00:00:05.400><c> to</c><00:00:05.609><c> plot</c><00:00:06.029><c> if</c><00:00:06.359><c> either</c>
+
+00:00:06.650 --> 00:00:06.660 align:start position:0%
+a very useful thing to plot if either
+ 
+
+00:00:06.660 --> 00:00:08.750 align:start position:0%
+a very useful thing to plot if either
+you<00:00:07.170><c> want</c><00:00:07.440><c> to</c><00:00:07.529><c> sanity</c><00:00:08.220><c> check</c><00:00:08.460><c> that</c><00:00:08.490><c> your</c>
+
+00:00:08.750 --> 00:00:08.760 align:start position:0%
+you want to sanity check that your
+ 
+
+00:00:08.760 --> 00:00:10.940 align:start position:0%
+you want to sanity check that your
+algorithm<00:00:09.030><c> is</c><00:00:09.269><c> working</c><00:00:09.660><c> correctly</c><00:00:09.809><c> or</c><00:00:10.290><c> if</c><00:00:10.860><c> you</c>
+
+00:00:10.940 --> 00:00:10.950 align:start position:0%
+algorithm is working correctly or if you
+ 
+
+00:00:10.950 --> 00:00:12.709 align:start position:0%
+algorithm is working correctly or if you
+want<00:00:11.190><c> to</c><00:00:11.370><c> improve</c><00:00:11.790><c> the</c><00:00:11.849><c> performance</c><00:00:12.120><c> of</c><00:00:12.599><c> the</c>
+
+00:00:12.709 --> 00:00:12.719 align:start position:0%
+want to improve the performance of the
+ 
+
+00:00:12.719 --> 00:00:15.620 align:start position:0%
+want to improve the performance of the
+algorithm<00:00:13.019><c> and</c><00:00:13.730><c> learning</c><00:00:14.730><c> curves</c><00:00:15.000><c> is</c><00:00:15.269><c> a</c><00:00:15.299><c> tool</c>
+
+00:00:15.620 --> 00:00:15.630 align:start position:0%
+algorithm and learning curves is a tool
+ 
+
+00:00:15.630 --> 00:00:17.960 align:start position:0%
+algorithm and learning curves is a tool
+that<00:00:15.870><c> I</c><00:00:16.049><c> actually</c><00:00:16.199><c> use</c><00:00:16.590><c> very</c><00:00:16.800><c> often</c><00:00:17.490><c> to</c><00:00:17.760><c> try</c><00:00:17.940><c> to</c>
+
+00:00:17.960 --> 00:00:17.970 align:start position:0%
+that I actually use very often to try to
+ 
+
+00:00:17.970 --> 00:00:20.000 align:start position:0%
+that I actually use very often to try to
+diagnose<00:00:18.539><c> if</c><00:00:18.840><c> a</c><00:00:19.410><c> particular</c><00:00:19.890><c> learning</c>
+
+00:00:20.000 --> 00:00:20.010 align:start position:0%
+diagnose if a particular learning
+ 
+
+00:00:20.010 --> 00:00:22.160 align:start position:0%
+diagnose if a particular learning
+algorithm<00:00:20.699><c> may</c><00:00:21.150><c> be</c><00:00:21.180><c> suffering</c><00:00:21.330><c> from</c><00:00:21.840><c> a</c><00:00:21.990><c> bias</c>
+
+00:00:22.160 --> 00:00:22.170 align:start position:0%
+algorithm may be suffering from a bias
+ 
+
+00:00:22.170 --> 00:00:26.380 align:start position:0%
+algorithm may be suffering from a bias
+or<00:00:22.650><c> variance</c><00:00:22.740><c> problem</c><00:00:23.670><c> or</c><00:00:23.880><c> a</c><00:00:23.910><c> bit</c><00:00:24.090><c> of</c><00:00:24.119><c> both</c>
+
+00:00:26.380 --> 00:00:26.390 align:start position:0%
+or variance problem or a bit of both
+ 
+
+00:00:26.390 --> 00:00:29.210 align:start position:0%
+or variance problem or a bit of both
+case<00:00:27.390><c> what</c><00:00:27.660><c> a</c><00:00:27.689><c> learning</c><00:00:28.109><c> curve</c><00:00:28.439><c> is</c><00:00:28.680><c> to</c><00:00:28.980><c> plot</c><00:00:29.160><c> a</c>
+
+00:00:29.210 --> 00:00:29.220 align:start position:0%
+case what a learning curve is to plot a
+ 
+
+00:00:29.220 --> 00:00:31.999 align:start position:0%
+case what a learning curve is to plot a
+learning<00:00:29.730><c> curve</c><00:00:29.970><c> what</c><00:00:30.720><c> I</c><00:00:30.750><c> usually</c><00:00:31.050><c> do</c><00:00:31.410><c> is</c><00:00:31.679><c> plot</c>
+
+00:00:31.999 --> 00:00:32.009 align:start position:0%
+learning curve what I usually do is plot
+ 
+
+00:00:32.009 --> 00:00:35.660 align:start position:0%
+learning curve what I usually do is plot
+J<00:00:32.430><c> train</c><00:00:32.460><c> which</c><00:00:33.120><c> is</c><00:00:33.149><c> the</c><00:00:33.630><c> say</c><00:00:34.309><c> average</c><00:00:35.309><c> squared</c>
+
+00:00:35.660 --> 00:00:35.670 align:start position:0%
+J train which is the say average squared
+ 
+
+00:00:35.670 --> 00:00:39.020 align:start position:0%
+J train which is the say average squared
+error<00:00:35.790><c> on</c><00:00:35.940><c> my</c><00:00:36.090><c> training</c><00:00:36.120><c> set</c><00:00:36.690><c> or</c><00:00:37.309><c> J</c><00:00:38.309><c> CV</c><00:00:38.730><c> which</c>
+
+00:00:39.020 --> 00:00:39.030 align:start position:0%
+error on my training set or J CV which
+ 
+
+00:00:39.030 --> 00:00:41.119 align:start position:0%
+error on my training set or J CV which
+is<00:00:39.239><c> the</c><00:00:39.450><c> average</c><00:00:39.690><c> squared</c><00:00:39.989><c> error</c><00:00:40.260><c> on</c><00:00:40.590><c> my</c><00:00:40.860><c> cross</c>
+
+00:00:41.119 --> 00:00:41.129 align:start position:0%
+is the average squared error on my cross
+ 
+
+00:00:41.129 --> 00:00:43.250 align:start position:0%
+is the average squared error on my cross
+validation<00:00:41.610><c> set</c><00:00:41.969><c> and</c><00:00:42.239><c> I'm</c><00:00:42.780><c> going</c><00:00:42.809><c> to</c><00:00:42.989><c> plot</c>
+
+00:00:43.250 --> 00:00:43.260 align:start position:0%
+validation set and I'm going to plot
+ 
+
+00:00:43.260 --> 00:00:46.369 align:start position:0%
+validation set and I'm going to plot
+that<00:00:43.500><c> as</c><00:00:43.739><c> a</c><00:00:43.770><c> function</c><00:00:43.920><c> of</c><00:00:44.550><c> M</c><00:00:44.910><c> that</c><00:00:45.329><c> is</c><00:00:45.390><c> of</c><00:00:45.809><c> as</c><00:00:46.350><c> a</c>
+
+00:00:46.369 --> 00:00:46.379 align:start position:0%
+that as a function of M that is of as a
+ 
+
+00:00:46.379 --> 00:00:47.840 align:start position:0%
+that as a function of M that is of as a
+function<00:00:46.860><c> of</c><00:00:47.010><c> the</c><00:00:47.190><c> number</c><00:00:47.219><c> of</c><00:00:47.520><c> training</c>
+
+00:00:47.840 --> 00:00:47.850 align:start position:0%
+function of the number of training
+ 
+
+00:00:47.850 --> 00:00:51.110 align:start position:0%
+function of the number of training
+examples<00:00:48.149><c> I</c><00:00:48.719><c> have</c><00:00:48.750><c> and</c><00:00:49.170><c> so</c><00:00:49.890><c> M</c><00:00:50.160><c> is</c><00:00:50.670><c> usually</c><00:00:51.090><c> a</c>
+
+00:00:51.110 --> 00:00:51.120 align:start position:0%
+examples I have and so M is usually a
+ 
+
+00:00:51.120 --> 00:00:53.090 align:start position:0%
+examples I have and so M is usually a
+constant<00:00:51.780><c> like</c><00:00:51.930><c> maybe</c><00:00:52.140><c> I</c><00:00:52.260><c> just</c><00:00:52.500><c> have</c><00:00:52.739><c> you</c><00:00:53.010><c> know</c>
+
+00:00:53.090 --> 00:00:53.100 align:start position:0%
+constant like maybe I just have you know
+ 
+
+00:00:53.100 --> 00:00:55.580 align:start position:0%
+constant like maybe I just have you know
+100<00:00:53.579><c> training</c><00:00:53.760><c> examples</c><00:00:54.050><c> but</c><00:00:55.050><c> what</c><00:00:55.260><c> I'm</c><00:00:55.379><c> going</c>
+
+00:00:55.580 --> 00:00:55.590 align:start position:0%
+100 training examples but what I'm going
+ 
+
+00:00:55.590 --> 00:00:58.639 align:start position:0%
+100 training examples but what I'm going
+to<00:00:55.649><c> do</c><00:00:55.860><c> is</c><00:00:56.629><c> artificially</c><00:00:57.629><c> reduce</c><00:00:58.079><c> my</c><00:00:58.289><c> training</c>
+
+00:00:58.639 --> 00:00:58.649 align:start position:0%
+to do is artificially reduce my training
+ 
+
+00:00:58.649 --> 00:01:00.410 align:start position:0%
+to do is artificially reduce my training
+set<00:00:58.859><c> size</c><00:00:59.070><c> so</c><00:00:59.309><c> that</c><00:00:59.460><c> deliberately</c><00:00:59.969><c> limit</c>
+
+00:01:00.410 --> 00:01:00.420 align:start position:0%
+set size so that deliberately limit
+ 
+
+00:01:00.420 --> 00:01:03.709 align:start position:0%
+set size so that deliberately limit
+myself<00:01:00.570><c> to</c><00:01:00.930><c> using</c><00:01:01.469><c> only</c><00:01:01.680><c> say</c><00:01:02.070><c> 10</c><00:01:02.460><c> or</c><00:01:02.760><c> 20</c><00:01:03.210><c> or</c><00:01:03.390><c> 30</c>
+
+00:01:03.709 --> 00:01:03.719 align:start position:0%
+myself to using only say 10 or 20 or 30
+ 
+
+00:01:03.719 --> 00:01:06.500 align:start position:0%
+myself to using only say 10 or 20 or 30
+or<00:01:03.960><c> 40</c><00:01:04.229><c> training</c><00:01:04.589><c> examples</c><00:01:05.189><c> and</c><00:01:05.430><c> plots</c><00:01:06.240><c> what</c>
+
+00:01:06.500 --> 00:01:06.510 align:start position:0%
+or 40 training examples and plots what
+ 
+
+00:01:06.510 --> 00:01:07.969 align:start position:0%
+or 40 training examples and plots what
+the<00:01:06.600><c> training</c><00:01:06.930><c> error</c><00:01:07.080><c> is</c><00:01:07.350><c> and</c><00:01:07.710><c> what</c><00:01:07.890><c> the</c>
+
+00:01:07.969 --> 00:01:07.979 align:start position:0%
+the training error is and what the
+ 
+
+00:01:07.979 --> 00:01:09.920 align:start position:0%
+the training error is and what the
+cross-validation<00:01:08.220><c> error</c><00:01:08.880><c> is</c><00:01:09.150><c> for</c><00:01:09.780><c> these</c>
+
+00:01:09.920 --> 00:01:09.930 align:start position:0%
+cross-validation error is for these
+ 
+
+00:01:09.930 --> 00:01:13.010 align:start position:0%
+cross-validation error is for these
+smaller<00:01:10.290><c> training</c><00:01:10.710><c> set</c><00:01:11.040><c> sizes</c><00:01:11.330><c> so</c><00:01:12.330><c> let's</c><00:01:12.810><c> see</c>
+
+00:01:13.010 --> 00:01:13.020 align:start position:0%
+smaller training set sizes so let's see
+ 
+
+00:01:13.020 --> 00:01:14.539 align:start position:0%
+smaller training set sizes so let's see
+what<00:01:13.229><c> these</c><00:01:13.380><c> parts</c><00:01:13.799><c> might</c><00:01:13.979><c> look</c><00:01:14.100><c> like</c>
+
+00:01:14.539 --> 00:01:14.549 align:start position:0%
+what these parts might look like
+ 
+
+00:01:14.549 --> 00:01:16.460 align:start position:0%
+what these parts might look like
+suppose<00:01:15.030><c> I</c><00:01:15.060><c> have</c><00:01:15.299><c> only</c><00:01:15.570><c> one</c><00:01:15.960><c> training</c><00:01:16.290><c> example</c>
+
+00:01:16.460 --> 00:01:16.470 align:start position:0%
+suppose I have only one training example
+ 
+
+00:01:16.470 --> 00:01:18.830 align:start position:0%
+suppose I have only one training example
+like<00:01:17.189><c> that</c><00:01:17.220><c> shown</c><00:01:17.400><c> in</c><00:01:17.729><c> this</c><00:01:18.119><c> first</c><00:01:18.360><c> example</c>
+
+00:01:18.830 --> 00:01:18.840 align:start position:0%
+like that shown in this first example
+ 
+
+00:01:18.840 --> 00:01:20.300 align:start position:0%
+like that shown in this first example
+here<00:01:19.110><c> and</c><00:01:19.380><c> let's</c><00:01:19.650><c> say</c><00:01:19.799><c> I'm</c><00:01:19.920><c> fitting</c><00:01:20.250><c> a</c>
+
+00:01:20.300 --> 00:01:20.310 align:start position:0%
+here and let's say I'm fitting a
+ 
+
+00:01:20.310 --> 00:01:22.789 align:start position:0%
+here and let's say I'm fitting a
+quadratic<00:01:20.729><c> function</c><00:01:21.259><c> well</c><00:01:22.259><c> if</c><00:01:22.380><c> I</c><00:01:22.500><c> have</c><00:01:22.590><c> only</c>
+
+00:01:22.789 --> 00:01:22.799 align:start position:0%
+quadratic function well if I have only
+ 
+
+00:01:22.799 --> 00:01:25.730 align:start position:0%
+quadratic function well if I have only
+one<00:01:23.070><c> training</c><00:01:23.250><c> example</c><00:01:24.110><c> I'm</c><00:01:25.110><c> going</c><00:01:25.409><c> to</c><00:01:25.530><c> be</c><00:01:25.619><c> the</c>
+
+00:01:25.730 --> 00:01:25.740 align:start position:0%
+one training example I'm going to be the
+ 
+
+00:01:25.740 --> 00:01:27.920 align:start position:0%
+one training example I'm going to be the
+fitted<00:01:26.159><c> perfectly</c><00:01:26.369><c> right</c><00:01:26.970><c> this</c><00:01:27.150><c> you</c><00:01:27.360><c> know</c><00:01:27.479><c> for</c>
+
+00:01:27.920 --> 00:01:27.930 align:start position:0%
+fitted perfectly right this you know for
+ 
+
+00:01:27.930 --> 00:01:29.600 align:start position:0%
+fitted perfectly right this you know for
+the<00:01:27.990><c> quadratic</c><00:01:28.470><c> function</c><00:01:28.619><c> going</c><00:01:29.430><c> to</c><00:01:29.490><c> have</c>
+
+00:01:29.600 --> 00:01:29.610 align:start position:0%
+the quadratic function going to have
+ 
+
+00:01:29.610 --> 00:01:31.510 align:start position:0%
+the quadratic function going to have
+zero<00:01:30.000><c> error</c><00:01:30.210><c> on</c><00:01:30.540><c> the</c><00:01:30.659><c> one</c><00:01:30.869><c> training</c><00:01:31.110><c> example</c>
+
+00:01:31.510 --> 00:01:31.520 align:start position:0%
+zero error on the one training example
+ 
+
+00:01:31.520 --> 00:01:34.010 align:start position:0%
+zero error on the one training example
+if<00:01:32.520><c> I</c><00:01:32.640><c> have</c><00:01:32.759><c> two</c><00:01:32.939><c> training</c><00:01:33.299><c> examples</c><00:01:33.810><c> well</c>
+
+00:01:34.010 --> 00:01:34.020 align:start position:0%
+if I have two training examples well
+ 
+
+00:01:34.020 --> 00:01:35.450 align:start position:0%
+if I have two training examples well
+with<00:01:34.229><c> a</c><00:01:34.259><c> quadratic</c><00:01:34.530><c> function</c><00:01:34.860><c> that</c><00:01:35.220><c> can</c><00:01:35.340><c> also</c>
+
+00:01:35.450 --> 00:01:35.460 align:start position:0%
+with a quadratic function that can also
+ 
+
+00:01:35.460 --> 00:01:37.730 align:start position:0%
+with a quadratic function that can also
+fit<00:01:35.880><c> that</c><00:01:36.030><c> very</c><00:01:36.540><c> well</c><00:01:36.750><c> so</c><00:01:37.110><c> even</c><00:01:37.500><c> if</c><00:01:37.619><c> I</c><00:01:37.680><c> were</c>
+
+00:01:37.730 --> 00:01:37.740 align:start position:0%
+fit that very well so even if I were
+ 
+
+00:01:37.740 --> 00:01:39.679 align:start position:0%
+fit that very well so even if I were
+using<00:01:38.040><c> regularization</c><00:01:38.159><c> I</c><00:01:38.850><c> can</c><00:01:39.000><c> probably</c><00:01:39.270><c> fit</c>
+
+00:01:39.679 --> 00:01:39.689 align:start position:0%
+using regularization I can probably fit
+ 
+
+00:01:39.689 --> 00:01:41.899 align:start position:0%
+using regularization I can probably fit
+this<00:01:39.840><c> quite</c><00:01:40.170><c> well</c><00:01:40.200><c> and</c><00:01:40.680><c> if</c><00:01:41.280><c> I'm</c><00:01:41.400><c> using</c><00:01:41.640><c> the</c>
+
+00:01:41.899 --> 00:01:41.909 align:start position:0%
+this quite well and if I'm using the
+ 
+
+00:01:41.909 --> 00:01:43.460 align:start position:0%
+this quite well and if I'm using the
+regularization<00:01:42.329><c> i</c><00:01:42.869><c> pre</c><00:01:43.079><c> lifted</c><00:01:43.380><c> this</c>
+
+00:01:43.460 --> 00:01:43.470 align:start position:0%
+regularization i pre lifted this
+ 
+
+00:01:43.470 --> 00:01:46.460 align:start position:0%
+regularization i pre lifted this
+perfectly<00:01:43.979><c> and</c><00:01:44.540><c> if</c><00:01:45.540><c> I</c><00:01:45.630><c> have</c><00:01:45.750><c> three</c><00:01:46.079><c> training</c>
+
+00:01:46.460 --> 00:01:46.470 align:start position:0%
+perfectly and if I have three training
+ 
+
+00:01:46.470 --> 00:01:48.649 align:start position:0%
+perfectly and if I have three training
+examples<00:01:46.920><c> again</c><00:01:47.549><c> you</c><00:01:47.909><c> can</c><00:01:48.090><c> fit</c><00:01:48.329><c> the</c><00:01:48.479><c> quadratic</c>
+
+00:01:48.649 --> 00:01:48.659 align:start position:0%
+examples again you can fit the quadratic
+ 
+
+00:01:48.659 --> 00:01:53.300 align:start position:0%
+examples again you can fit the quadratic
+function<00:01:49.079><c> perfectly</c><00:01:50.149><c> so</c><00:01:51.149><c> if</c><00:01:51.450><c> M</c><00:01:51.689><c> equals</c><00:01:51.810><c> 1</c><00:01:52.320><c> or</c><00:01:53.009><c> M</c>
+
+00:01:53.300 --> 00:01:53.310 align:start position:0%
+function perfectly so if M equals 1 or M
+ 
+
+00:01:53.310 --> 00:01:56.899 align:start position:0%
+function perfectly so if M equals 1 or M
+equals<00:01:53.399><c> 2</c><00:01:53.909><c> or</c><00:01:54.149><c> M</c><00:01:54.390><c> equals</c><00:01:54.420><c> 3</c><00:01:55.189><c> my</c><00:01:56.189><c> training</c><00:01:56.729><c> error</c>
+
+00:01:56.899 --> 00:01:56.909 align:start position:0%
+equals 2 or M equals 3 my training error
+ 
+
+00:01:56.909 --> 00:02:00.139 align:start position:0%
+equals 2 or M equals 3 my training error
+on<00:01:57.390><c> my</c><00:01:58.049><c> training</c><00:01:58.079><c> set</c><00:01:58.680><c> is</c><00:01:58.950><c> going</c><00:01:59.399><c> to</c><00:01:59.549><c> be</c><00:01:59.700><c> 0</c>
+
+00:02:00.139 --> 00:02:00.149 align:start position:0%
+on my training set is going to be 0
+ 
+
+00:02:00.149 --> 00:02:02.230 align:start position:0%
+on my training set is going to be 0
+assuming<00:02:00.990><c> I'm</c><00:02:01.290><c> not</c><00:02:01.469><c> using</c>
+
+00:02:02.230 --> 00:02:02.240 align:start position:0%
+assuming I'm not using
+ 
+
+00:02:02.240 --> 00:02:04.660 align:start position:0%
+assuming I'm not using
+or<00:02:02.780><c> it</c><00:02:02.930><c> may</c><00:02:03.049><c> be</c><00:02:03.110><c> slightly</c><00:02:03.440><c> larger</c><00:02:03.890><c> than</c><00:02:03.920><c> 0</c><00:02:04.340><c> if</c><00:02:04.549><c> I</c>
+
+00:02:04.660 --> 00:02:04.670 align:start position:0%
+or it may be slightly larger than 0 if I
+ 
+
+00:02:04.670 --> 00:02:06.910 align:start position:0%
+or it may be slightly larger than 0 if I
+am<00:02:04.820><c> using</c><00:02:05.060><c> regularization</c><00:02:05.540><c> and</c><00:02:06.440><c> by</c><00:02:06.650><c> the</c><00:02:06.710><c> way</c>
+
+00:02:06.910 --> 00:02:06.920 align:start position:0%
+am using regularization and by the way
+ 
+
+00:02:06.920 --> 00:02:09.100 align:start position:0%
+am using regularization and by the way
+if<00:02:07.220><c> I</c><00:02:07.369><c> have</c><00:02:07.580><c> a</c><00:02:07.610><c> large</c><00:02:07.940><c> training</c><00:02:08.240><c> set</c><00:02:08.660><c> and</c><00:02:08.929><c> I'm</c>
+
+00:02:09.100 --> 00:02:09.110 align:start position:0%
+if I have a large training set and I'm
+ 
+
+00:02:09.110 --> 00:02:11.170 align:start position:0%
+if I have a large training set and I'm
+artificially<00:02:09.920><c> restricting</c><00:02:10.490><c> the</c><00:02:10.670><c> size</c><00:02:10.819><c> of</c><00:02:11.060><c> my</c>
+
+00:02:11.170 --> 00:02:11.180 align:start position:0%
+artificially restricting the size of my
+ 
+
+00:02:11.180 --> 00:02:13.199 align:start position:0%
+artificially restricting the size of my
+training<00:02:11.240><c> set</c><00:02:11.750><c> in</c><00:02:11.990><c> order</c><00:02:12.319><c> to</c><00:02:12.500><c> apply</c><00:02:12.620><c> j-train</c>
+
+00:02:13.199 --> 00:02:13.209 align:start position:0%
+training set in order to apply j-train
+ 
+
+00:02:13.209 --> 00:02:17.470 align:start position:0%
+training set in order to apply j-train
+here<00:02:14.209><c> if</c><00:02:14.630><c> I</c><00:02:14.780><c> set</c><00:02:14.840><c> M</c><00:02:15.050><c> equals</c><00:02:15.590><c> 3</c><00:02:15.680><c> say</c><00:02:16.190><c> and</c><00:02:17.120><c> I</c><00:02:17.180><c> train</c>
+
+00:02:17.470 --> 00:02:17.480 align:start position:0%
+here if I set M equals 3 say and I train
+ 
+
+00:02:17.480 --> 00:02:20.559 align:start position:0%
+here if I set M equals 3 say and I train
+on<00:02:17.600><c> only</c><00:02:17.810><c> 3</c><00:02:18.140><c> examples</c><00:02:18.500><c> then</c><00:02:19.400><c> for</c><00:02:19.940><c> this</c><00:02:20.150><c> figure</c>
+
+00:02:20.559 --> 00:02:20.569 align:start position:0%
+on only 3 examples then for this figure
+ 
+
+00:02:20.569 --> 00:02:22.600 align:start position:0%
+on only 3 examples then for this figure
+I'm<00:02:20.870><c> going</c><00:02:21.380><c> to</c><00:02:21.530><c> measure</c><00:02:21.739><c> my</c><00:02:22.069><c> training</c><00:02:22.459><c> error</c>
+
+00:02:22.600 --> 00:02:22.610 align:start position:0%
+I'm going to measure my training error
+ 
+
+00:02:22.610 --> 00:02:24.610 align:start position:0%
+I'm going to measure my training error
+only<00:02:23.150><c> on</c><00:02:23.360><c> the</c><00:02:23.510><c> three</c><00:02:23.690><c> examples</c><00:02:24.350><c> that</c><00:02:24.590><c> I</c>
+
+00:02:24.610 --> 00:02:24.620 align:start position:0%
+only on the three examples that I
+ 
+
+00:02:24.620 --> 00:02:27.790 align:start position:0%
+only on the three examples that I
+actually<00:02:24.920><c> fit</c><00:02:25.340><c> my</c><00:02:25.489><c> data</c><00:02:25.670><c> to</c><00:02:26.030><c> and</c><00:02:26.360><c> so</c><00:02:27.230><c> even</c><00:02:27.590><c> if</c><00:02:27.709><c> I</c>
+
+00:02:27.790 --> 00:02:27.800 align:start position:0%
+actually fit my data to and so even if I
+ 
+
+00:02:27.800 --> 00:02:30.130 align:start position:0%
+actually fit my data to and so even if I
+have<00:02:27.980><c> say</c><00:02:28.250><c> 100</c><00:02:28.790><c> training</c><00:02:29.150><c> examples</c><00:02:29.300><c> but</c><00:02:29.989><c> if</c><00:02:30.110><c> I</c>
+
+00:02:30.130 --> 00:02:30.140 align:start position:0%
+have say 100 training examples but if I
+ 
+
+00:02:30.140 --> 00:02:32.110 align:start position:0%
+have say 100 training examples but if I
+want<00:02:30.350><c> to</c><00:02:30.440><c> plot</c><00:02:30.709><c> what</c><00:02:31.340><c> my</c><00:02:31.459><c> training</c><00:02:31.819><c> error</c><00:02:31.970><c> is</c>
+
+00:02:32.110 --> 00:02:32.120 align:start position:0%
+want to plot what my training error is
+ 
+
+00:02:32.120 --> 00:02:34.780 align:start position:0%
+want to plot what my training error is
+for<00:02:32.480><c> M</c><00:02:32.569><c> equals</c><00:02:32.690><c> 3</c><00:02:32.959><c> what</c><00:02:33.890><c> I'm</c><00:02:33.980><c> going</c><00:02:34.190><c> to</c><00:02:34.280><c> do</c><00:02:34.430><c> is</c>
+
+00:02:34.780 --> 00:02:34.790 align:start position:0%
+for M equals 3 what I'm going to do is
+ 
+
+00:02:34.790 --> 00:02:36.790 align:start position:0%
+for M equals 3 what I'm going to do is
+measure<00:02:35.060><c> my</c><00:02:35.360><c> training</c><00:02:35.720><c> error</c><00:02:35.900><c> only</c><00:02:36.170><c> on</c><00:02:36.650><c> the</c>
+
+00:02:36.790 --> 00:02:36.800 align:start position:0%
+measure my training error only on the
+ 
+
+00:02:36.800 --> 00:02:39.100 align:start position:0%
+measure my training error only on the
+three<00:02:37.010><c> examples</c><00:02:37.370><c> that</c><00:02:37.790><c> I've</c><00:02:38.030><c> actually</c><00:02:38.510><c> fit</c><00:02:38.780><c> my</c>
+
+00:02:39.100 --> 00:02:39.110 align:start position:0%
+three examples that I've actually fit my
+ 
+
+00:02:39.110 --> 00:02:41.470 align:start position:0%
+three examples that I've actually fit my
+hypothesis<00:02:39.860><c> to</c><00:02:40.100><c> and</c><00:02:40.340><c> not</c><00:02:40.880><c> on</c><00:02:41.060><c> all</c><00:02:41.209><c> the</c><00:02:41.360><c> other</c>
+
+00:02:41.470 --> 00:02:41.480 align:start position:0%
+hypothesis to and not on all the other
+ 
+
+00:02:41.480 --> 00:02:43.930 align:start position:0%
+hypothesis to and not on all the other
+examples<00:02:41.810><c> that</c><00:02:42.260><c> I</c><00:02:42.680><c> had</c><00:02:42.860><c> deliberately</c><00:02:43.310><c> omitted</c>
+
+00:02:43.930 --> 00:02:43.940 align:start position:0%
+examples that I had deliberately omitted
+ 
+
+00:02:43.940 --> 00:02:46.120 align:start position:0%
+examples that I had deliberately omitted
+from<00:02:44.060><c> the</c><00:02:44.239><c> training</c><00:02:44.570><c> process</c><00:02:44.720><c> so</c><00:02:45.590><c> just</c><00:02:46.040><c> to</c>
+
+00:02:46.120 --> 00:02:46.130 align:start position:0%
+from the training process so just to
+ 
+
+00:02:46.130 --> 00:02:48.370 align:start position:0%
+from the training process so just to
+summarize<00:02:46.580><c> what</c><00:02:46.610><c> we've</c><00:02:47.030><c> seen</c><00:02:47.269><c> is</c><00:02:47.630><c> that</c><00:02:47.660><c> if</c><00:02:48.230><c> the</c>
+
+00:02:48.370 --> 00:02:48.380 align:start position:0%
+summarize what we've seen is that if the
+ 
+
+00:02:48.380 --> 00:02:50.530 align:start position:0%
+summarize what we've seen is that if the
+training<00:02:48.620><c> set</c><00:02:48.890><c> size</c><00:02:49.100><c> is</c><00:02:49.310><c> small</c><00:02:49.670><c> then</c><00:02:50.510><c> the</c>
+
+00:02:50.530 --> 00:02:50.540 align:start position:0%
+training set size is small then the
+ 
+
+00:02:50.540 --> 00:02:52.900 align:start position:0%
+training set size is small then the
+training<00:02:50.720><c> error</c><00:02:51.290><c> is</c><00:02:51.650><c> going</c><00:02:52.220><c> to</c><00:02:52.370><c> be</c><00:02:52.459><c> small</c><00:02:52.760><c> as</c>
+
+00:02:52.900 --> 00:02:52.910 align:start position:0%
+training error is going to be small as
+ 
+
+00:02:52.910 --> 00:02:54.220 align:start position:0%
+training error is going to be small as
+well<00:02:53.120><c> because</c><00:02:53.480><c> you</c><00:02:53.630><c> know</c><00:02:53.720><c> you</c><00:02:53.810><c> have</c><00:02:53.870><c> a</c><00:02:54.019><c> small</c>
+
+00:02:54.220 --> 00:02:54.230 align:start position:0%
+well because you know you have a small
+ 
+
+00:02:54.230 --> 00:02:56.020 align:start position:0%
+well because you know you have a small
+training<00:02:54.590><c> set</c><00:02:54.739><c> it's</c><00:02:55.340><c> going</c><00:02:55.519><c> to</c><00:02:55.610><c> be</c><00:02:55.670><c> very</c><00:02:55.940><c> easy</c>
+
+00:02:56.020 --> 00:02:56.030 align:start position:0%
+training set it's going to be very easy
+ 
+
+00:02:56.030 --> 00:02:59.530 align:start position:0%
+training set it's going to be very easy
+to<00:02:56.630><c> fit</c><00:02:57.260><c> your</c><00:02:57.709><c> training</c><00:02:58.130><c> set</c><00:02:58.340><c> very</c><00:02:58.550><c> well</c><00:02:59.209><c> maybe</c>
+
+00:02:59.530 --> 00:02:59.540 align:start position:0%
+to fit your training set very well maybe
+ 
+
+00:02:59.540 --> 00:03:04.240 align:start position:0%
+to fit your training set very well maybe
+even<00:02:59.840><c> perfectly</c><00:03:00.790><c> now</c><00:03:02.200><c> say</c><00:03:03.200><c> I</c><00:03:03.230><c> have</c><00:03:03.440><c> M</c><00:03:03.650><c> equals</c><00:03:03.980><c> 4</c>
+
+00:03:04.240 --> 00:03:04.250 align:start position:0%
+even perfectly now say I have M equals 4
+ 
+
+00:03:04.250 --> 00:03:05.710 align:start position:0%
+even perfectly now say I have M equals 4
+examples<00:03:04.790><c> well</c><00:03:05.090><c> then</c><00:03:05.300><c> the</c><00:03:05.510><c> quadratic</c>
+
+00:03:05.710 --> 00:03:05.720 align:start position:0%
+examples well then the quadratic
+ 
+
+00:03:05.720 --> 00:03:08.140 align:start position:0%
+examples well then the quadratic
+function<00:03:06.230><c> can</c><00:03:06.739><c> no</c><00:03:06.860><c> longer</c><00:03:07.130><c> fit</c><00:03:07.519><c> this</c><00:03:07.640><c> data</c><00:03:07.820><c> set</c>
+
+00:03:08.140 --> 00:03:08.150 align:start position:0%
+function can no longer fit this data set
+ 
+
+00:03:08.150 --> 00:03:11.259 align:start position:0%
+function can no longer fit this data set
+perfectly<00:03:08.570><c> and</c><00:03:08.870><c> if</c><00:03:09.650><c> I</c><00:03:09.799><c> have</c><00:03:10.040><c> M</c><00:03:10.220><c> equals</c><00:03:10.519><c> 5</c><00:03:10.790><c> then</c>
+
+00:03:11.259 --> 00:03:11.269 align:start position:0%
+perfectly and if I have M equals 5 then
+ 
+
+00:03:11.269 --> 00:03:12.940 align:start position:0%
+perfectly and if I have M equals 5 then
+you<00:03:11.480><c> know</c><00:03:11.600><c> maybe</c><00:03:11.959><c> a</c><00:03:12.079><c> quadratic</c><00:03:12.440><c> function</c><00:03:12.590><c> can</c>
+
+00:03:12.940 --> 00:03:12.950 align:start position:0%
+you know maybe a quadratic function can
+ 
+
+00:03:12.950 --> 00:03:15.190 align:start position:0%
+you know maybe a quadratic function can
+fit<00:03:13.160><c> this</c><00:03:13.370><c> data</c><00:03:13.579><c> or</c><00:03:13.850><c> so</c><00:03:14.000><c> so</c><00:03:14.269><c> but</c><00:03:14.900><c> as</c><00:03:15.019><c> my</c>
+
+00:03:15.190 --> 00:03:15.200 align:start position:0%
+fit this data or so so but as my
+ 
+
+00:03:15.200 --> 00:03:17.170 align:start position:0%
+fit this data or so so but as my
+training<00:03:15.470><c> set</c><00:03:15.709><c> gets</c><00:03:15.920><c> larger</c><00:03:16.459><c> it</c><00:03:17.090><c> becomes</c>
+
+00:03:17.170 --> 00:03:17.180 align:start position:0%
+training set gets larger it becomes
+ 
+
+00:03:17.180 --> 00:03:19.600 align:start position:0%
+training set gets larger it becomes
+harder<00:03:17.840><c> and</c><00:03:17.959><c> harder</c><00:03:18.380><c> to</c><00:03:18.650><c> ensure</c><00:03:19.070><c> that</c><00:03:19.100><c> I</c><00:03:19.459><c> can</c>
+
+00:03:19.600 --> 00:03:19.610 align:start position:0%
+harder and harder to ensure that I can
+ 
+
+00:03:19.610 --> 00:03:21.520 align:start position:0%
+harder and harder to ensure that I can
+find<00:03:19.850><c> the</c><00:03:19.940><c> quadratic</c><00:03:20.420><c> function</c><00:03:20.570><c> that</c><00:03:20.989><c> passes</c>
+
+00:03:21.520 --> 00:03:21.530 align:start position:0%
+find the quadratic function that passes
+ 
+
+00:03:21.530 --> 00:03:25.930 align:start position:0%
+find the quadratic function that passes
+through<00:03:21.920><c> all</c><00:03:22.160><c> my</c><00:03:22.190><c> examples</c><00:03:22.970><c> perfectly</c><00:03:24.820><c> so</c><00:03:25.820><c> in</c>
+
+00:03:25.930 --> 00:03:25.940 align:start position:0%
+through all my examples perfectly so in
+ 
+
+00:03:25.940 --> 00:03:28.660 align:start position:0%
+through all my examples perfectly so in
+fact<00:03:26.180><c> as</c><00:03:26.540><c> the</c><00:03:26.780><c> training</c><00:03:27.049><c> set</c><00:03:27.320><c> size</c><00:03:27.560><c> grows</c><00:03:27.950><c> what</c>
+
+00:03:28.660 --> 00:03:28.670 align:start position:0%
+fact as the training set size grows what
+ 
+
+00:03:28.670 --> 00:03:30.789 align:start position:0%
+fact as the training set size grows what
+you<00:03:28.820><c> find</c><00:03:29.090><c> is</c><00:03:29.299><c> that</c><00:03:29.329><c> my</c><00:03:29.989><c> average</c><00:03:30.019><c> training</c>
+
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+you find is that my average training
+ 
+
+00:03:30.799 --> 00:03:33.100 align:start position:0%
+you find is that my average training
+error<00:03:31.100><c> actually</c><00:03:31.430><c> increases</c><00:03:32.390><c> and</c><00:03:32.660><c> so</c><00:03:32.930><c> if</c><00:03:33.019><c> you</c>
+
+00:03:33.100 --> 00:03:33.110 align:start position:0%
+error actually increases and so if you
+ 
+
+00:03:33.110 --> 00:03:35.380 align:start position:0%
+error actually increases and so if you
+plot<00:03:33.410><c> this</c><00:03:33.650><c> figure</c><00:03:34.010><c> what</c><00:03:34.579><c> you</c><00:03:34.610><c> find</c><00:03:34.970><c> is</c><00:03:35.269><c> that</c>
+
+00:03:35.380 --> 00:03:35.390 align:start position:0%
+plot this figure what you find is that
+ 
+
+00:03:35.390 --> 00:03:37.960 align:start position:0%
+plot this figure what you find is that
+the<00:03:36.350><c> training</c><00:03:36.709><c> set</c><00:03:37.040><c> error</c><00:03:37.220><c> that</c><00:03:37.760><c> is</c><00:03:37.940><c> the</c>
+
+00:03:37.960 --> 00:03:37.970 align:start position:0%
+the training set error that is the
+ 
+
+00:03:37.970 --> 00:03:40.960 align:start position:0%
+the training set error that is the
+average<00:03:38.660><c> error</c><00:03:39.140><c> on</c><00:03:39.380><c> your</c><00:03:39.410><c> hypothesis</c><00:03:40.220><c> grows</c>
+
+00:03:40.960 --> 00:03:40.970 align:start position:0%
+average error on your hypothesis grows
+ 
+
+00:03:40.970 --> 00:03:43.930 align:start position:0%
+average error on your hypothesis grows
+as<00:03:41.329><c> M</c><00:03:41.690><c> grows</c><00:03:42.100><c> and</c><00:03:43.100><c> just</c><00:03:43.310><c> to</c><00:03:43.400><c> repeat</c><00:03:43.730><c> the</c>
+
+00:03:43.930 --> 00:03:43.940 align:start position:0%
+as M grows and just to repeat the
+ 
+
+00:03:43.940 --> 00:03:46.030 align:start position:0%
+as M grows and just to repeat the
+intuition<00:03:44.510><c> is</c><00:03:44.690><c> that</c><00:03:44.900><c> when</c><00:03:45.140><c> M</c><00:03:45.320><c> is</c><00:03:45.470><c> small</c><00:03:45.650><c> when</c>
+
+00:03:46.030 --> 00:03:46.040 align:start position:0%
+intuition is that when M is small when
+ 
+
+00:03:46.040 --> 00:03:48.009 align:start position:0%
+intuition is that when M is small when
+you<00:03:46.130><c> have</c><00:03:46.220><c> very</c><00:03:46.430><c> few</c><00:03:46.670><c> training</c><00:03:47.000><c> examples</c><00:03:47.510><c> it's</c>
+
+00:03:48.009 --> 00:03:48.019 align:start position:0%
+you have very few training examples it's
+ 
+
+00:03:48.019 --> 00:03:49.960 align:start position:0%
+you have very few training examples it's
+pretty<00:03:48.290><c> easy</c><00:03:48.500><c> to</c><00:03:48.890><c> fit</c><00:03:49.100><c> every</c><00:03:49.430><c> single</c><00:03:49.609><c> one</c><00:03:49.910><c> of</c>
+
+00:03:49.960 --> 00:03:49.970 align:start position:0%
+pretty easy to fit every single one of
+ 
+
+00:03:49.970 --> 00:03:51.759 align:start position:0%
+pretty easy to fit every single one of
+your<00:03:50.150><c> training</c><00:03:50.510><c> examples</c><00:03:50.900><c> perfectly</c><00:03:51.079><c> and</c><00:03:51.590><c> so</c>
+
+00:03:51.759 --> 00:03:51.769 align:start position:0%
+your training examples perfectly and so
+ 
+
+00:03:51.769 --> 00:03:54.640 align:start position:0%
+your training examples perfectly and so
+your<00:03:52.310><c> error</c><00:03:52.519><c> is</c><00:03:52.970><c> going</c><00:03:53.120><c> to</c><00:03:53.239><c> be</c><00:03:53.329><c> small</c><00:03:53.660><c> whereas</c>
+
+00:03:54.640 --> 00:03:54.650 align:start position:0%
+your error is going to be small whereas
+ 
+
+00:03:54.650 --> 00:03:56.740 align:start position:0%
+your error is going to be small whereas
+when<00:03:54.859><c> M</c><00:03:55.040><c> is</c><00:03:55.160><c> larger</c><00:03:55.640><c> then</c><00:03:56.000><c> it</c><00:03:56.209><c> gets</c><00:03:56.420><c> somewhat</c>
+
+00:03:56.740 --> 00:03:56.750 align:start position:0%
+when M is larger then it gets somewhat
+ 
+
+00:03:56.750 --> 00:03:58.210 align:start position:0%
+when M is larger then it gets somewhat
+harder<00:03:57.170><c> to</c><00:03:57.350><c> fit</c><00:03:57.560><c> all</c><00:03:57.739><c> the</c><00:03:57.859><c> new</c><00:03:57.950><c> training</c>
+
+00:03:58.210 --> 00:03:58.220 align:start position:0%
+harder to fit all the new training
+ 
+
+00:03:58.220 --> 00:04:00.200 align:start position:0%
+harder to fit all the new training
+examples<00:03:58.760><c> perfectly</c>
+
+00:04:00.200 --> 00:04:00.210 align:start position:0%
+examples perfectly
+ 
+
+00:04:00.210 --> 00:04:02.450 align:start position:0%
+examples perfectly
+your<00:04:00.690><c> training</c><00:04:00.990><c> set</c><00:04:01.230><c> error</c><00:04:01.380><c> becomes</c><00:04:02.160><c> a</c><00:04:02.250><c> little</c>
+
+00:04:02.450 --> 00:04:02.460 align:start position:0%
+your training set error becomes a little
+ 
+
+00:04:02.460 --> 00:04:05.030 align:start position:0%
+your training set error becomes a little
+bit<00:04:02.550><c> larger</c><00:04:02.940><c> now</c><00:04:03.630><c> how</c><00:04:04.560><c> about</c><00:04:04.740><c> the</c><00:04:04.890><c> cross</c>
+
+00:04:05.030 --> 00:04:05.040 align:start position:0%
+bit larger now how about the cross
+ 
+
+00:04:05.040 --> 00:04:06.200 align:start position:0%
+bit larger now how about the cross
+validation<00:04:05.130><c> error</c>
+
+00:04:06.200 --> 00:04:06.210 align:start position:0%
+validation error
+ 
+
+00:04:06.210 --> 00:04:08.750 align:start position:0%
+validation error
+well<00:04:06.840><c> the</c><00:04:06.990><c> cross</c><00:04:07.200><c> validation</c><00:04:07.230><c> error</c><00:04:07.980><c> is</c><00:04:08.400><c> my</c>
+
+00:04:08.750 --> 00:04:08.760 align:start position:0%
+well the cross validation error is my
+ 
+
+00:04:08.760 --> 00:04:11.330 align:start position:0%
+well the cross validation error is my
+error<00:04:09.030><c> on</c><00:04:09.390><c> this</c><00:04:09.690><c> cross</c><00:04:10.320><c> validation</c><00:04:10.830><c> set</c><00:04:11.190><c> that</c>
+
+00:04:11.330 --> 00:04:11.340 align:start position:0%
+error on this cross validation set that
+ 
+
+00:04:11.340 --> 00:04:14.300 align:start position:0%
+error on this cross validation set that
+I<00:04:11.370><c> haven't</c><00:04:11.640><c> seen</c><00:04:11.970><c> and</c><00:04:12.240><c> so</c><00:04:13.140><c> you</c><00:04:13.920><c> know</c><00:04:14.010><c> when</c><00:04:14.280><c> I</c>
+
+00:04:14.300 --> 00:04:14.310 align:start position:0%
+I haven't seen and so you know when I
+ 
+
+00:04:14.310 --> 00:04:15.860 align:start position:0%
+I haven't seen and so you know when I
+have<00:04:14.610><c> a</c><00:04:14.640><c> very</c><00:04:14.910><c> small</c><00:04:15.150><c> training</c><00:04:15.540><c> set</c>
+
+00:04:15.860 --> 00:04:15.870 align:start position:0%
+have a very small training set
+ 
+
+00:04:15.870 --> 00:04:17.750 align:start position:0%
+have a very small training set
+I'm<00:04:16.050><c> not</c><00:04:16.260><c> going</c><00:04:16.470><c> to</c><00:04:16.500><c> generalize</c><00:04:17.070><c> well</c><00:04:17.400><c> what</c>
+
+00:04:17.750 --> 00:04:17.760 align:start position:0%
+I'm not going to generalize well what
+ 
+
+00:04:17.760 --> 00:04:19.520 align:start position:0%
+I'm not going to generalize well what
+just<00:04:18.090><c> not</c><00:04:18.300><c> going</c><00:04:18.570><c> to</c><00:04:18.660><c> do</c><00:04:18.780><c> well</c><00:04:18.930><c> in</c><00:04:19.080><c> that</c><00:04:19.230><c> so</c>
+
+00:04:19.520 --> 00:04:19.530 align:start position:0%
+just not going to do well in that so
+ 
+
+00:04:19.530 --> 00:04:21.650 align:start position:0%
+just not going to do well in that so
+right<00:04:19.800><c> this</c><00:04:20.010><c> this</c><00:04:20.460><c> hypothesis</c><00:04:21.150><c> here</c><00:04:21.300><c> doesn't</c>
+
+00:04:21.650 --> 00:04:21.660 align:start position:0%
+right this this hypothesis here doesn't
+ 
+
+00:04:21.660 --> 00:04:23.780 align:start position:0%
+right this this hypothesis here doesn't
+look<00:04:21.780><c> like</c><00:04:22.080><c> a</c><00:04:22.110><c> good</c><00:04:22.350><c> one</c><00:04:22.590><c> and</c><00:04:23.190><c> is</c><00:04:23.310><c> only</c><00:04:23.430><c> when</c><00:04:23.760><c> I</c>
+
+00:04:23.780 --> 00:04:23.790 align:start position:0%
+look like a good one and is only when I
+ 
+
+00:04:23.790 --> 00:04:25.580 align:start position:0%
+look like a good one and is only when I
+get<00:04:24.000><c> to</c><00:04:24.120><c> a</c><00:04:24.150><c> larger</c><00:04:24.570><c> training</c><00:04:24.750><c> set</c><00:04:24.930><c> that</c><00:04:25.440><c> you</c>
+
+00:04:25.580 --> 00:04:25.590 align:start position:0%
+get to a larger training set that you
+ 
+
+00:04:25.590 --> 00:04:27.620 align:start position:0%
+get to a larger training set that you
+know<00:04:25.740><c> I'm</c><00:04:25.920><c> starting</c><00:04:26.340><c> to</c><00:04:26.400><c> get</c><00:04:26.610><c> hypotheses</c><00:04:27.600><c> that</c>
+
+00:04:27.620 --> 00:04:27.630 align:start position:0%
+know I'm starting to get hypotheses that
+ 
+
+00:04:27.630 --> 00:04:30.140 align:start position:0%
+know I'm starting to get hypotheses that
+maybe<00:04:28.050><c> fit</c><00:04:28.350><c> the</c><00:04:28.470><c> data</c><00:04:28.620><c> somewhat</c><00:04:29.070><c> better</c><00:04:29.280><c> so</c>
+
+00:04:30.140 --> 00:04:30.150 align:start position:0%
+maybe fit the data somewhat better so
+ 
+
+00:04:30.150 --> 00:04:32.480 align:start position:0%
+maybe fit the data somewhat better so
+your<00:04:30.720><c> cross-validation</c><00:04:31.140><c> error</c><00:04:31.710><c> and</c><00:04:32.340><c> your</c>
+
+00:04:32.480 --> 00:04:32.490 align:start position:0%
+your cross-validation error and your
+ 
+
+00:04:32.490 --> 00:04:36.890 align:start position:0%
+your cross-validation error and your
+test<00:04:32.760><c> set</c><00:04:32.910><c> error</c><00:04:33.090><c> will</c><00:04:34.910><c> tend</c><00:04:35.910><c> to</c><00:04:36.000><c> decrease</c><00:04:36.480><c> as</c>
+
+00:04:36.890 --> 00:04:36.900 align:start position:0%
+test set error will tend to decrease as
+ 
+
+00:04:36.900 --> 00:04:38.900 align:start position:0%
+test set error will tend to decrease as
+your<00:04:37.200><c> training</c><00:04:37.530><c> set</c><00:04:37.710><c> size</c><00:04:37.920><c> increases</c><00:04:38.610><c> because</c>
+
+00:04:38.900 --> 00:04:38.910 align:start position:0%
+your training set size increases because
+ 
+
+00:04:38.910 --> 00:04:41.390 align:start position:0%
+your training set size increases because
+the<00:04:39.090><c> more</c><00:04:39.450><c> data</c><00:04:39.630><c> you</c><00:04:39.780><c> have</c><00:04:40.140><c> the</c><00:04:40.380><c> better</c><00:04:40.860><c> you</c><00:04:41.220><c> do</c>
+
+00:04:41.390 --> 00:04:41.400 align:start position:0%
+the more data you have the better you do
+ 
+
+00:04:41.400 --> 00:04:43.730 align:start position:0%
+the more data you have the better you do
+at<00:04:41.430><c> generalizing</c><00:04:41.730><c> to</c><00:04:42.540><c> new</c><00:04:42.810><c> examples</c><00:04:42.990><c> or</c><00:04:43.530><c> just</c>
+
+00:04:43.730 --> 00:04:43.740 align:start position:0%
+at generalizing to new examples or just
+ 
+
+00:04:43.740 --> 00:04:45.920 align:start position:0%
+at generalizing to new examples or just
+the<00:04:44.130><c> more</c><00:04:44.310><c> data</c><00:04:44.520><c> you</c><00:04:44.700><c> have</c><00:04:45.030><c> the</c><00:04:45.270><c> better</c><00:04:45.690><c> the</c>
+
+00:04:45.920 --> 00:04:45.930 align:start position:0%
+the more data you have the better the
+ 
+
+00:04:45.930 --> 00:04:48.560 align:start position:0%
+the more data you have the better the
+hypothesis<00:04:46.620><c> you</c><00:04:46.770><c> fit</c><00:04:47.010><c> so</c><00:04:47.820><c> if</c><00:04:47.910><c> you</c><00:04:48.000><c> plot</c><00:04:48.240><c> J</c>
+
+00:04:48.560 --> 00:04:48.570 align:start position:0%
+hypothesis you fit so if you plot J
+ 
+
+00:04:48.570 --> 00:04:51.530 align:start position:0%
+hypothesis you fit so if you plot J
+train<00:04:48.600><c> and</c><00:04:49.200><c> JCV</c><00:04:49.710><c> this</c><00:04:50.670><c> is</c><00:04:50.820><c> the</c><00:04:50.940><c> sort</c><00:04:51.210><c> of</c><00:04:51.270><c> figure</c>
+
+00:04:51.530 --> 00:04:51.540 align:start position:0%
+train and JCV this is the sort of figure
+ 
+
+00:04:51.540 --> 00:04:53.840 align:start position:0%
+train and JCV this is the sort of figure
+you<00:04:51.690><c> get</c><00:04:51.870><c> now</c><00:04:52.620><c> let's</c><00:04:53.160><c> look</c><00:04:53.340><c> at</c><00:04:53.520><c> what</c><00:04:53.730><c> the</c>
+
+00:04:53.840 --> 00:04:53.850 align:start position:0%
+you get now let's look at what the
+ 
+
+00:04:53.850 --> 00:04:56.000 align:start position:0%
+you get now let's look at what the
+learning<00:04:54.210><c> curves</c><00:04:54.510><c> may</c><00:04:54.660><c> look</c><00:04:54.870><c> like</c><00:04:55.110><c> if</c><00:04:55.440><c> we</c><00:04:55.740><c> have</c>
+
+00:04:56.000 --> 00:04:56.010 align:start position:0%
+learning curves may look like if we have
+ 
+
+00:04:56.010 --> 00:04:58.190 align:start position:0%
+learning curves may look like if we have
+either<00:04:56.400><c> high</c><00:04:56.820><c> bias</c><00:04:57.150><c> or</c><00:04:57.510><c> high</c><00:04:57.690><c> variance</c>
+
+00:04:58.190 --> 00:04:58.200 align:start position:0%
+either high bias or high variance
+ 
+
+00:04:58.200 --> 00:05:00.500 align:start position:0%
+either high bias or high variance
+problems<00:04:58.680><c> suppose</c><00:04:59.310><c> your</c><00:04:59.490><c> hypothesis</c><00:05:00.240><c> has</c>
+
+00:05:00.500 --> 00:05:00.510 align:start position:0%
+problems suppose your hypothesis has
+ 
+
+00:05:00.510 --> 00:05:02.630 align:start position:0%
+problems suppose your hypothesis has
+high<00:05:00.750><c> bias</c><00:05:00.990><c> and</c><00:05:01.590><c> to</c><00:05:01.770><c> explain</c><00:05:02.100><c> this</c><00:05:02.310><c> I'm</c><00:05:02.490><c> going</c>
+
+00:05:02.630 --> 00:05:02.640 align:start position:0%
+high bias and to explain this I'm going
+ 
+
+00:05:02.640 --> 00:05:05.120 align:start position:0%
+high bias and to explain this I'm going
+to<00:05:02.700><c> use</c><00:05:02.760><c> our</c><00:05:03.120><c> stand</c><00:05:03.900><c> an</c><00:05:03.990><c> example</c><00:05:04.530><c> of</c><00:05:04.740><c> fitting</c><00:05:05.040><c> a</c>
+
+00:05:05.120 --> 00:05:05.130 align:start position:0%
+to use our stand an example of fitting a
+ 
+
+00:05:05.130 --> 00:05:06.980 align:start position:0%
+to use our stand an example of fitting a
+straight<00:05:05.160><c> line</c><00:05:05.430><c> to</c><00:05:05.640><c> data</c><00:05:06.090><c> that</c><00:05:06.630><c> you</c><00:05:06.930><c> know</c>
+
+00:05:06.980 --> 00:05:06.990 align:start position:0%
+straight line to data that you know
+ 
+
+00:05:06.990 --> 00:05:08.600 align:start position:0%
+straight line to data that you know
+can't<00:05:07.050><c> really</c><00:05:07.560><c> be</c><00:05:07.680><c> fit</c><00:05:07.890><c> well</c><00:05:08.100><c> by</c><00:05:08.250><c> a</c><00:05:08.280><c> straight</c>
+
+00:05:08.600 --> 00:05:08.610 align:start position:0%
+can't really be fit well by a straight
+ 
+
+00:05:08.610 --> 00:05:11.660 align:start position:0%
+can't really be fit well by a straight
+line<00:05:08.660><c> so</c><00:05:09.660><c> we</c><00:05:09.810><c> end</c><00:05:09.930><c> up</c><00:05:10.020><c> with</c><00:05:10.170><c> a</c><00:05:10.640><c> hypothesis</c><00:05:11.640><c> that</c>
+
+00:05:11.660 --> 00:05:11.670 align:start position:0%
+line so we end up with a hypothesis that
+ 
+
+00:05:11.670 --> 00:05:14.960 align:start position:0%
+line so we end up with a hypothesis that
+maybe<00:05:11.880><c> looks</c><00:05:12.180><c> like</c><00:05:12.330><c> that</c><00:05:13.040><c> now</c><00:05:14.040><c> let's</c><00:05:14.730><c> think</c>
+
+00:05:14.960 --> 00:05:14.970 align:start position:0%
+maybe looks like that now let's think
+ 
+
+00:05:14.970 --> 00:05:17.240 align:start position:0%
+maybe looks like that now let's think
+what<00:05:15.330><c> would</c><00:05:15.480><c> happen</c><00:05:15.720><c> if</c><00:05:16.170><c> we</c><00:05:16.380><c> were</c><00:05:16.560><c> to</c><00:05:16.770><c> increase</c>
+
+00:05:17.240 --> 00:05:17.250 align:start position:0%
+what would happen if we were to increase
+ 
+
+00:05:17.250 --> 00:05:19.850 align:start position:0%
+what would happen if we were to increase
+the<00:05:17.370><c> training</c><00:05:17.610><c> set</c><00:05:18.210><c> size</c><00:05:18.420><c> so</c><00:05:18.810><c> if</c><00:05:19.020><c> instead</c><00:05:19.500><c> of</c><00:05:19.590><c> 5</c>
+
+00:05:19.850 --> 00:05:19.860 align:start position:0%
+the training set size so if instead of 5
+ 
+
+00:05:19.860 --> 00:05:22.370 align:start position:0%
+the training set size so if instead of 5
+examples<00:05:20.100><c> like</c><00:05:20.640><c> what's</c><00:05:20.850><c> drawn</c><00:05:21.120><c> there</c><00:05:21.380><c> imagine</c>
+
+00:05:22.370 --> 00:05:22.380 align:start position:0%
+examples like what's drawn there imagine
+ 
+
+00:05:22.380 --> 00:05:24.110 align:start position:0%
+examples like what's drawn there imagine
+that<00:05:22.590><c> we</c><00:05:22.680><c> have</c><00:05:22.830><c> a</c><00:05:22.860><c> lot</c><00:05:23.190><c> more</c><00:05:23.220><c> training</c>
+
+00:05:24.110 --> 00:05:24.120 align:start position:0%
+that we have a lot more training
+ 
+
+00:05:24.120 --> 00:05:26.570 align:start position:0%
+that we have a lot more training
+examples<00:05:24.570><c> well</c><00:05:25.440><c> what</c><00:05:25.710><c> happens</c><00:05:26.070><c> if</c><00:05:26.280><c> you</c><00:05:26.340><c> fit</c><00:05:26.550><c> a</c>
+
+00:05:26.570 --> 00:05:26.580 align:start position:0%
+examples well what happens if you fit a
+ 
+
+00:05:26.580 --> 00:05:28.760 align:start position:0%
+examples well what happens if you fit a
+straight<00:05:26.850><c> line</c><00:05:26.910><c> to</c><00:05:27.210><c> this</c><00:05:27.390><c> what</c><00:05:28.140><c> you</c><00:05:28.290><c> find</c><00:05:28.530><c> is</c>
+
+00:05:28.760 --> 00:05:28.770 align:start position:0%
+straight line to this what you find is
+ 
+
+00:05:28.770 --> 00:05:30.350 align:start position:0%
+straight line to this what you find is
+that<00:05:28.800><c> you</c><00:05:28.950><c> end</c><00:05:29.190><c> up</c><00:05:29.310><c> with</c><00:05:29.370><c> you</c><00:05:29.820><c> know</c><00:05:29.970><c> pretty</c>
+
+00:05:30.350 --> 00:05:30.360 align:start position:0%
+that you end up with you know pretty
+ 
+
+00:05:30.360 --> 00:05:31.580 align:start position:0%
+that you end up with you know pretty
+much<00:05:30.480><c> the</c><00:05:30.780><c> same</c><00:05:31.020><c> straight</c><00:05:31.320><c> line</c>
+
+00:05:31.580 --> 00:05:31.590 align:start position:0%
+much the same straight line
+ 
+
+00:05:31.590 --> 00:05:35.150 align:start position:0%
+much the same straight line
+I<00:05:31.830><c> mean</c><00:05:32.600><c> you</c><00:05:33.600><c> destroy</c><00:05:34.230><c> a</c><00:05:34.260><c> line</c><00:05:34.410><c> just</c><00:05:34.620><c> conflict</c>
+
+00:05:35.150 --> 00:05:35.160 align:start position:0%
+I mean you destroy a line just conflict
+ 
+
+00:05:35.160 --> 00:05:37.100 align:start position:0%
+I mean you destroy a line just conflict
+this<00:05:35.280><c> data</c><00:05:35.490><c> and</c><00:05:35.880><c> getting</c><00:05:36.390><c> a</c><00:05:36.480><c> ton</c><00:05:36.690><c> more</c><00:05:36.870><c> data</c>
+
+00:05:37.100 --> 00:05:37.110 align:start position:0%
+this data and getting a ton more data
+ 
+
+00:05:37.110 --> 00:05:38.960 align:start position:0%
+this data and getting a ton more data
+well<00:05:37.620><c> the</c><00:05:38.010><c> straight</c><00:05:38.250><c> line</c><00:05:38.460><c> isn't</c><00:05:38.790><c> going</c><00:05:38.910><c> to</c>
+
+00:05:38.960 --> 00:05:38.970 align:start position:0%
+well the straight line isn't going to
+ 
+
+00:05:38.970 --> 00:05:40.910 align:start position:0%
+well the straight line isn't going to
+change<00:05:39.000><c> that</c><00:05:39.420><c> much</c><00:05:39.660><c> this</c><00:05:40.350><c> is</c><00:05:40.530><c> the</c><00:05:40.680><c> best</c>
+
+00:05:40.910 --> 00:05:40.920 align:start position:0%
+change that much this is the best
+ 
+
+00:05:40.920 --> 00:05:42.530 align:start position:0%
+change that much this is the best
+possible<00:05:41.220><c> straight</c><00:05:41.610><c> line</c><00:05:41.850><c> fit</c><00:05:42.060><c> to</c><00:05:42.180><c> this</c><00:05:42.300><c> data</c>
+
+00:05:42.530 --> 00:05:42.540 align:start position:0%
+possible straight line fit to this data
+ 
+
+00:05:42.540 --> 00:05:44.090 align:start position:0%
+possible straight line fit to this data
+but<00:05:42.870><c> the</c><00:05:42.990><c> straight</c><00:05:43.200><c> line</c><00:05:43.230><c> just</c><00:05:43.440><c> can't</c><00:05:43.890><c> fit</c>
+
+00:05:44.090 --> 00:05:44.100 align:start position:0%
+but the straight line just can't fit
+ 
+
+00:05:44.100 --> 00:05:46.370 align:start position:0%
+but the straight line just can't fit
+this<00:05:44.220><c> data</c><00:05:44.400><c> set</c><00:05:44.730><c> that</c><00:05:44.760><c> well</c><00:05:45.180><c> so</c><00:05:45.750><c> if</c><00:05:46.080><c> you</c><00:05:46.170><c> plot</c>
+
+00:05:46.370 --> 00:05:46.380 align:start position:0%
+this data set that well so if you plot
+ 
+
+00:05:46.380 --> 00:05:49.790 align:start position:0%
+this data set that well so if you plot
+the<00:05:46.530><c> cross-validation</c><00:05:46.770><c> error</c><00:05:48.410><c> this</c><00:05:49.410><c> is</c><00:05:49.590><c> what</c>
+
+00:05:49.790 --> 00:05:49.800 align:start position:0%
+the cross-validation error this is what
+ 
+
+00:05:49.800 --> 00:05:52.130 align:start position:0%
+the cross-validation error this is what
+it<00:05:49.890><c> will</c><00:05:49.950><c> look</c><00:05:50.010><c> like</c><00:05:50.390><c> over</c><00:05:51.390><c> here</c><00:05:51.690><c> on</c><00:05:51.810><c> the</c><00:05:51.900><c> left</c>
+
+00:05:52.130 --> 00:05:52.140 align:start position:0%
+it will look like over here on the left
+ 
+
+00:05:52.140 --> 00:05:53.960 align:start position:0%
+it will look like over here on the left
+if<00:05:52.410><c> you</c><00:05:52.530><c> have</c><00:05:52.680><c> a</c><00:05:52.710><c> very</c><00:05:53.010><c> miniscule</c><00:05:53.610><c> training</c>
+
+00:05:53.960 --> 00:05:53.970 align:start position:0%
+if you have a very miniscule training
+ 
+
+00:05:53.970 --> 00:05:55.430 align:start position:0%
+if you have a very miniscule training
+set<00:05:54.180><c> size</c><00:05:54.420><c> that</c><00:05:54.720><c> you</c><00:05:54.810><c> have</c><00:05:54.840><c> you</c><00:05:55.170><c> know</c><00:05:55.260><c> maybe</c>
+
+00:05:55.430 --> 00:05:55.440 align:start position:0%
+set size that you have you know maybe
+ 
+
+00:05:55.440 --> 00:05:57.410 align:start position:0%
+set size that you have you know maybe
+just<00:05:55.560><c> one</c><00:05:55.980><c> training</c><00:05:56.280><c> example</c><00:05:56.430><c> it's</c><00:05:57.090><c> not</c><00:05:57.240><c> going</c>
+
+00:05:57.410 --> 00:05:57.420 align:start position:0%
+just one training example it's not going
+ 
+
+00:05:57.420 --> 00:05:59.480 align:start position:0%
+just one training example it's not going
+to<00:05:57.480><c> do</c><00:05:57.630><c> well</c><00:05:57.810><c> but</c><00:05:58.680><c> by</c><00:05:58.890><c> the</c><00:05:58.950><c> time</c><00:05:59.250><c> you've</c>
+
+00:05:59.480 --> 00:05:59.490 align:start position:0%
+to do well but by the time you've
+ 
+
+00:05:59.490 --> 00:06:00.770 align:start position:0%
+to do well but by the time you've
+reached<00:05:59.760><c> a</c><00:05:59.940><c> certain</c><00:06:00.300><c> number</c><00:06:00.420><c> of</c><00:06:00.570><c> training</c>
+
+00:06:00.770 --> 00:06:00.780 align:start position:0%
+reached a certain number of training
+ 
+
+00:06:00.780 --> 00:06:03.380 align:start position:0%
+reached a certain number of training
+examples<00:06:01.020><c> you've</c><00:06:01.920><c> almost</c><00:06:02.640><c> fit</c><00:06:03.000><c> the</c><00:06:03.150><c> best</c>
+
+00:06:03.380 --> 00:06:03.390 align:start position:0%
+examples you've almost fit the best
+ 
+
+00:06:03.390 --> 00:06:05.630 align:start position:0%
+examples you've almost fit the best
+possible<00:06:03.510><c> straight</c><00:06:03.930><c> line</c><00:06:04.380><c> and</c><00:06:04.650><c> even</c><00:06:05.430><c> if</c><00:06:05.550><c> you</c>
+
+00:06:05.630 --> 00:06:05.640 align:start position:0%
+possible straight line and even if you
+ 
+
+00:06:05.640 --> 00:06:07.589 align:start position:0%
+possible straight line and even if you
+end<00:06:05.790><c> up</c><00:06:05.940><c> with</c><00:06:06.090><c> a</c><00:06:06.180><c> much</c><00:06:06.360><c> larger</c><00:06:06.660><c> training</c><00:06:06.900><c> set</c>
+
+00:06:07.589 --> 00:06:07.599 align:start position:0%
+end up with a much larger training set
+ 
+
+00:06:07.599 --> 00:06:09.959 align:start position:0%
+end up with a much larger training set
+with<00:06:07.929><c> much</c><00:06:08.139><c> larger</c><00:06:08.349><c> value</c><00:06:08.949><c> of</c><00:06:09.039><c> em</c><00:06:09.279><c> you</c><00:06:09.939><c> know</c>
+
+00:06:09.959 --> 00:06:09.969 align:start position:0%
+with much larger value of em you know
+ 
+
+00:06:09.969 --> 00:06:11.669 align:start position:0%
+with much larger value of em you know
+you're<00:06:10.240><c> basically</c><00:06:10.779><c> getting</c><00:06:11.169><c> the</c><00:06:11.469><c> same</c>
+
+00:06:11.669 --> 00:06:11.679 align:start position:0%
+you're basically getting the same
+ 
+
+00:06:11.679 --> 00:06:12.959 align:start position:0%
+you're basically getting the same
+straight<00:06:12.009><c> line</c><00:06:12.039><c> and</c><00:06:12.490><c> so</c><00:06:12.729><c> the</c>
+
+00:06:12.959 --> 00:06:12.969 align:start position:0%
+straight line and so the
+ 
+
+00:06:12.969 --> 00:06:15.329 align:start position:0%
+straight line and so the
+cross-validation<00:06:13.349><c> error</c><00:06:14.349><c> let</c><00:06:14.770><c> me</c><00:06:14.860><c> label</c><00:06:15.039><c> that</c>
+
+00:06:15.329 --> 00:06:15.339 align:start position:0%
+cross-validation error let me label that
+ 
+
+00:06:15.339 --> 00:06:18.059 align:start position:0%
+cross-validation error let me label that
+what<00:06:15.909><c> test</c><00:06:16.149><c> set</c><00:06:16.330><c> error</c><00:06:16.449><c> will</c><00:06:16.659><c> plateau</c><00:06:17.469><c> out</c><00:06:17.649><c> or</c>
+
+00:06:18.059 --> 00:06:18.069 align:start position:0%
+what test set error will plateau out or
+ 
+
+00:06:18.069 --> 00:06:20.399 align:start position:0%
+what test set error will plateau out or
+flatten<00:06:18.669><c> out</c><00:06:18.819><c> pretty</c><00:06:19.270><c> soon</c><00:06:19.629><c> once</c><00:06:20.229><c> you've</c>
+
+00:06:20.399 --> 00:06:20.409 align:start position:0%
+flatten out pretty soon once you've
+ 
+
+00:06:20.409 --> 00:06:23.279 align:start position:0%
+flatten out pretty soon once you've
+reached<00:06:20.709><c> beyond</c><00:06:21.490><c> a</c><00:06:21.669><c> certain</c><00:06:22.080><c> number</c><00:06:23.080><c> of</c>
+
+00:06:23.279 --> 00:06:23.289 align:start position:0%
+reached beyond a certain number of
+ 
+
+00:06:23.289 --> 00:06:25.320 align:start position:0%
+reached beyond a certain number of
+training<00:06:23.529><c> examples</c><00:06:23.770><c> so</c><00:06:24.429><c> that</c><00:06:24.459><c> you</c><00:06:24.669><c> pretty</c>
+
+00:06:25.320 --> 00:06:25.330 align:start position:0%
+training examples so that you pretty
+ 
+
+00:06:25.330 --> 00:06:27.600 align:start position:0%
+training examples so that you pretty
+much<00:06:25.569><c> fit</c><00:06:25.929><c> the</c><00:06:26.349><c> best</c><00:06:26.559><c> possible</c><00:06:26.709><c> straight</c><00:06:27.159><c> line</c>
+
+00:06:27.600 --> 00:06:27.610 align:start position:0%
+much fit the best possible straight line
+ 
+
+00:06:27.610 --> 00:06:30.089 align:start position:0%
+much fit the best possible straight line
+and<00:06:27.899><c> how</c><00:06:28.899><c> about</c><00:06:28.990><c> training</c><00:06:29.379><c> error</c>
+
+00:06:30.089 --> 00:06:30.099 align:start position:0%
+and how about training error
+ 
+
+00:06:30.099 --> 00:06:33.059 align:start position:0%
+and how about training error
+well<00:06:30.309><c> the</c><00:06:30.879><c> training</c><00:06:31.330><c> error</c><00:06:31.509><c> will</c><00:06:31.869><c> again</c><00:06:32.800><c> be</c>
+
+00:06:33.059 --> 00:06:33.069 align:start position:0%
+well the training error will again be
+ 
+
+00:06:33.069 --> 00:06:37.589 align:start position:0%
+well the training error will again be
+small<00:06:33.459><c> and</c><00:06:35.189><c> what</c><00:06:36.189><c> you</c><00:06:36.309><c> find</c><00:06:36.610><c> in</c><00:06:36.909><c> the</c><00:06:36.999><c> high</c><00:06:37.149><c> bias</c>
+
+00:06:37.589 --> 00:06:37.599 align:start position:0%
+small and what you find in the high bias
+ 
+
+00:06:37.599 --> 00:06:40.920 align:start position:0%
+small and what you find in the high bias
+case<00:06:37.899><c> is</c><00:06:38.199><c> that</c><00:06:38.379><c> the</c><00:06:38.559><c> training</c><00:06:38.889><c> error</c><00:06:39.689><c> will</c><00:06:40.689><c> end</c>
+
+00:06:40.920 --> 00:06:40.930 align:start position:0%
+case is that the training error will end
+ 
+
+00:06:40.930 --> 00:06:43.639 align:start position:0%
+case is that the training error will end
+up<00:06:41.139><c> close</c><00:06:41.619><c> to</c><00:06:42.459><c> the</c><00:06:42.550><c> cross</c><00:06:42.789><c> validation</c><00:06:42.819><c> error</c>
+
+00:06:43.639 --> 00:06:43.649 align:start position:0%
+up close to the cross validation error
+ 
+
+00:06:43.649 --> 00:06:46.559 align:start position:0%
+up close to the cross validation error
+because<00:06:44.649><c> you</c><00:06:44.680><c> have</c><00:06:45.009><c> so</c><00:06:45.249><c> few</c><00:06:45.459><c> parameters</c><00:06:45.699><c> in</c><00:06:46.389><c> so</c>
+
+00:06:46.559 --> 00:06:46.569 align:start position:0%
+because you have so few parameters in so
+ 
+
+00:06:46.569 --> 00:06:48.959 align:start position:0%
+because you have so few parameters in so
+much<00:06:46.749><c> data</c><00:06:46.990><c> at</c><00:06:47.409><c> least</c><00:06:47.469><c> when</c><00:06:47.740><c> M</c><00:06:47.919><c> is</c><00:06:48.069><c> large</c><00:06:48.309><c> the</c>
+
+00:06:48.959 --> 00:06:48.969 align:start position:0%
+much data at least when M is large the
+ 
+
+00:06:48.969 --> 00:06:50.850 align:start position:0%
+much data at least when M is large the
+performance<00:06:49.569><c> on</c><00:06:49.779><c> the</c><00:06:49.899><c> training</c><00:06:50.080><c> set</c><00:06:50.439><c> and</c><00:06:50.740><c> when</c>
+
+00:06:50.850 --> 00:06:50.860 align:start position:0%
+performance on the training set and when
+ 
+
+00:06:50.860 --> 00:06:52.499 align:start position:0%
+performance on the training set and when
+the<00:06:50.919><c> cross-validation</c><00:06:51.309><c> set</c><00:06:51.999><c> would</c><00:06:52.180><c> be</c><00:06:52.209><c> very</c>
+
+00:06:52.499 --> 00:06:52.509 align:start position:0%
+the cross-validation set would be very
+ 
+
+00:06:52.509 --> 00:06:54.899 align:start position:0%
+the cross-validation set would be very
+similar<00:06:52.839><c> and</c><00:06:53.289><c> so</c><00:06:54.099><c> this</c><00:06:54.339><c> is</c><00:06:54.490><c> what</c><00:06:54.729><c> your</c>
+
+00:06:54.899 --> 00:06:54.909 align:start position:0%
+similar and so this is what your
+ 
+
+00:06:54.909 --> 00:06:56.760 align:start position:0%
+similar and so this is what your
+learning<00:06:55.089><c> curves</c><00:06:55.509><c> will</c><00:06:55.749><c> look</c><00:06:55.779><c> like</c><00:06:56.139><c> before</c><00:06:56.559><c> if</c>
+
+00:06:56.760 --> 00:06:56.770 align:start position:0%
+learning curves will look like before if
+ 
+
+00:06:56.770 --> 00:06:59.070 align:start position:0%
+learning curves will look like before if
+you<00:06:56.889><c> have</c><00:06:57.129><c> an</c><00:06:57.249><c> algorithm</c><00:06:57.550><c> that</c><00:06:57.939><c> has</c><00:06:58.419><c> high</c><00:06:58.719><c> bias</c>
+
+00:06:59.070 --> 00:06:59.080 align:start position:0%
+you have an algorithm that has high bias
+ 
+
+00:06:59.080 --> 00:07:02.579 align:start position:0%
+you have an algorithm that has high bias
+and<00:06:59.879><c> finally</c><00:07:00.879><c> the</c><00:07:01.059><c> problem</c><00:07:01.300><c> of</c><00:07:01.659><c> high</c><00:07:01.839><c> bias</c><00:07:02.139><c> is</c>
+
+00:07:02.579 --> 00:07:02.589 align:start position:0%
+and finally the problem of high bias is
+ 
+
+00:07:02.589 --> 00:07:05.040 align:start position:0%
+and finally the problem of high bias is
+reflected<00:07:03.279><c> in</c><00:07:03.490><c> the</c><00:07:03.580><c> fact</c><00:07:03.789><c> that</c><00:07:04.119><c> both</c><00:07:04.719><c> the</c>
+
+00:07:05.040 --> 00:07:05.050 align:start position:0%
+reflected in the fact that both the
+ 
+
+00:07:05.050 --> 00:07:07.469 align:start position:0%
+reflected in the fact that both the
+cross<00:07:05.769><c> validation</c><00:07:05.860><c> and</c><00:07:06.639><c> error</c><00:07:06.939><c> and</c><00:07:07.209><c> the</c>
+
+00:07:07.469 --> 00:07:07.479 align:start position:0%
+cross validation and error and the
+ 
+
+00:07:07.479 --> 00:07:10.259 align:start position:0%
+cross validation and error and the
+training<00:07:07.869><c> error</c><00:07:08.080><c> are</c><00:07:08.860><c> high</c><00:07:09.219><c> and</c><00:07:09.639><c> so</c><00:07:09.999><c> you</c><00:07:10.059><c> end</c>
+
+00:07:10.259 --> 00:07:10.269 align:start position:0%
+training error are high and so you end
+ 
+
+00:07:10.269 --> 00:07:12.559 align:start position:0%
+training error are high and so you end
+up<00:07:10.419><c> with</c><00:07:10.539><c> a</c><00:07:10.629><c> relatively</c><00:07:11.110><c> high</c><00:07:11.229><c> value</c><00:07:11.949><c> of</c><00:07:12.159><c> both</c>
+
+00:07:12.559 --> 00:07:12.569 align:start position:0%
+up with a relatively high value of both
+ 
+
+00:07:12.569 --> 00:07:16.350 align:start position:0%
+up with a relatively high value of both
+JCV<00:07:13.569><c> and</c><00:07:13.809><c> the</c><00:07:14.019><c> j-train</c><00:07:14.550><c> this</c><00:07:15.550><c> also</c><00:07:15.789><c> implies</c>
+
+00:07:16.350 --> 00:07:16.360 align:start position:0%
+JCV and the j-train this also implies
+ 
+
+00:07:16.360 --> 00:07:18.570 align:start position:0%
+JCV and the j-train this also implies
+something<00:07:16.719><c> very</c><00:07:17.050><c> interesting</c><00:07:17.369><c> which</c><00:07:18.369><c> is</c><00:07:18.399><c> that</c>
+
+00:07:18.570 --> 00:07:18.580 align:start position:0%
+something very interesting which is that
+ 
+
+00:07:18.580 --> 00:07:20.219 align:start position:0%
+something very interesting which is that
+if<00:07:18.909><c> a</c><00:07:18.999><c> learning</c><00:07:19.209><c> algorithm</c><00:07:19.719><c> that</c><00:07:19.749><c> has</c><00:07:19.930><c> high</c>
+
+00:07:20.219 --> 00:07:20.229 align:start position:0%
+if a learning algorithm that has high
+ 
+
+00:07:20.229 --> 00:07:23.459 align:start position:0%
+if a learning algorithm that has high
+bias<00:07:20.529><c> as</c><00:07:21.389><c> we</c><00:07:22.389><c> get</c><00:07:22.629><c> more</c><00:07:22.839><c> and</c><00:07:22.990><c> more</c><00:07:23.050><c> training</c>
+
+00:07:23.459 --> 00:07:23.469 align:start position:0%
+bias as we get more and more training
+ 
+
+00:07:23.469 --> 00:07:25.499 align:start position:0%
+bias as we get more and more training
+examples<00:07:23.499><c> that</c><00:07:24.219><c> is</c><00:07:24.399><c> as</c><00:07:24.550><c> we</c><00:07:24.849><c> move</c><00:07:25.059><c> to</c><00:07:25.240><c> the</c><00:07:25.360><c> right</c>
+
+00:07:25.499 --> 00:07:25.509 align:start position:0%
+examples that is as we move to the right
+ 
+
+00:07:25.509 --> 00:07:27.839 align:start position:0%
+examples that is as we move to the right
+to<00:07:25.689><c> this</c><00:07:25.839><c> figure</c><00:07:26.079><c> will</c><00:07:26.740><c> notice</c><00:07:27.129><c> that</c><00:07:27.550><c> the</c>
+
+00:07:27.839 --> 00:07:27.849 align:start position:0%
+to this figure will notice that the
+ 
+
+00:07:27.849 --> 00:07:29.790 align:start position:0%
+to this figure will notice that the
+cross-validation<00:07:28.209><c> error</c><00:07:28.959><c> isn't</c><00:07:29.349><c> going</c><00:07:29.769><c> down</c>
+
+00:07:29.790 --> 00:07:29.800 align:start position:0%
+cross-validation error isn't going down
+ 
+
+00:07:29.800 --> 00:07:32.609 align:start position:0%
+cross-validation error isn't going down
+much<00:07:30.219><c> it's</c><00:07:30.579><c> basically</c><00:07:30.939><c> flattened</c><00:07:31.539><c> out</c><00:07:31.749><c> and</c><00:07:32.019><c> so</c>
+
+00:07:32.609 --> 00:07:32.619 align:start position:0%
+much it's basically flattened out and so
+ 
+
+00:07:32.619 --> 00:07:34.170 align:start position:0%
+much it's basically flattened out and so
+if<00:07:32.919><c> a</c><00:07:33.069><c> learning</c><00:07:33.279><c> algorithm</c><00:07:33.789><c> is</c><00:07:33.819><c> already</c>
+
+00:07:34.170 --> 00:07:34.180 align:start position:0%
+if a learning algorithm is already
+ 
+
+00:07:34.180 --> 00:07:37.139 align:start position:0%
+if a learning algorithm is already
+suffering<00:07:34.449><c> from</c><00:07:34.629><c> high</c><00:07:34.930><c> bias</c><00:07:35.969><c> getting</c><00:07:36.969><c> more</c>
+
+00:07:37.139 --> 00:07:37.149 align:start position:0%
+suffering from high bias getting more
+ 
+
+00:07:37.149 --> 00:07:39.359 align:start position:0%
+suffering from high bias getting more
+training<00:07:37.569><c> data</c><00:07:37.599><c> by</c><00:07:38.319><c> itself</c><00:07:38.349><c> will</c><00:07:39.009><c> actually</c>
+
+00:07:39.359 --> 00:07:39.369 align:start position:0%
+training data by itself will actually
+ 
+
+00:07:39.369 --> 00:07:40.980 align:start position:0%
+training data by itself will actually
+not<00:07:39.579><c> help</c><00:07:39.879><c> that</c><00:07:40.089><c> much</c><00:07:40.329><c> and</c><00:07:40.599><c> there's</c><00:07:40.930><c> a</c>
+
+00:07:40.980 --> 00:07:40.990 align:start position:0%
+not help that much and there's a
+ 
+
+00:07:40.990 --> 00:07:43.439 align:start position:0%
+not help that much and there's a
+complete<00:07:41.349><c> example</c><00:07:41.860><c> in</c><00:07:42.099><c> the</c><00:07:42.879><c> figure</c><00:07:43.209><c> on</c><00:07:43.240><c> the</c>
+
+00:07:43.439 --> 00:07:43.449 align:start position:0%
+complete example in the figure on the
+ 
+
+00:07:43.449 --> 00:07:46.079 align:start position:0%
+complete example in the figure on the
+right<00:07:43.529><c> here</c><00:07:44.529><c> we</c><00:07:44.860><c> had</c><00:07:45.069><c> only</c><00:07:45.339><c> five</c><00:07:45.579><c> training</c>
+
+00:07:46.079 --> 00:07:46.089 align:start position:0%
+right here we had only five training
+ 
+
+00:07:46.089 --> 00:07:47.939 align:start position:0%
+right here we had only five training
+examples<00:07:46.569><c> and</c><00:07:46.809><c> we</c><00:07:47.139><c> fit</c><00:07:47.349><c> a</c><00:07:47.379><c> certain</c><00:07:47.559><c> straight</c>
+
+00:07:47.939 --> 00:07:47.949 align:start position:0%
+examples and we fit a certain straight
+ 
+
+00:07:47.949 --> 00:07:50.129 align:start position:0%
+examples and we fit a certain straight
+line<00:07:48.159><c> and</c><00:07:48.399><c> when</c><00:07:49.029><c> we</c><00:07:49.119><c> had</c><00:07:49.269><c> a</c><00:07:49.300><c> ton</c><00:07:49.569><c> more</c><00:07:49.749><c> training</c>
+
+00:07:50.129 --> 00:07:50.139 align:start position:0%
+line and when we had a ton more training
+ 
+
+00:07:50.139 --> 00:07:52.049 align:start position:0%
+line and when we had a ton more training
+data<00:07:50.349><c> we</c><00:07:50.740><c> still</c><00:07:51.009><c> ended</c><00:07:51.279><c> up</c><00:07:51.399><c> with</c><00:07:51.459><c> roughly</c><00:07:51.909><c> the</c>
+
+00:07:52.049 --> 00:07:52.059 align:start position:0%
+data we still ended up with roughly the
+ 
+
+00:07:52.059 --> 00:07:54.329 align:start position:0%
+data we still ended up with roughly the
+same<00:07:52.329><c> straight</c><00:07:52.689><c> line</c><00:07:52.719><c> and</c><00:07:53.199><c> so</c><00:07:53.439><c> the</c><00:07:53.949><c> learning</c>
+
+00:07:54.329 --> 00:07:54.339 align:start position:0%
+same straight line and so the learning
+ 
+
+00:07:54.339 --> 00:07:56.429 align:start position:0%
+same straight line and so the learning
+algorithm<00:07:54.699><c> has</c><00:07:54.729><c> high</c><00:07:54.819><c> bias</c><00:07:55.479><c> just</c><00:07:56.110><c> give</c><00:07:56.289><c> me</c><00:07:56.379><c> a</c>
+
+00:07:56.429 --> 00:07:56.439 align:start position:0%
+algorithm has high bias just give me a
+ 
+
+00:07:56.439 --> 00:07:58.170 align:start position:0%
+algorithm has high bias just give me a
+lot<00:07:56.619><c> more</c><00:07:56.649><c> training</c><00:07:56.979><c> data</c><00:07:57.309><c> that</c><00:07:57.699><c> doesn't</c>
+
+00:07:58.170 --> 00:07:58.180 align:start position:0%
+lot more training data that doesn't
+ 
+
+00:07:58.180 --> 00:08:01.170 align:start position:0%
+lot more training data that doesn't
+actually<00:07:58.509><c> help</c><00:07:58.930><c> you</c><00:07:59.259><c> get</c><00:08:00.039><c> a</c><00:08:00.069><c> much</c><00:08:00.369><c> lower</c><00:08:00.639><c> cross</c>
+
+00:08:01.170 --> 00:08:01.180 align:start position:0%
+actually help you get a much lower cross
+ 
+
+00:08:01.180 --> 00:08:03.899 align:start position:0%
+actually help you get a much lower cross
+validation<00:08:01.749><c> error</c><00:08:02.019><c> or</c><00:08:02.379><c> test</c><00:08:02.619><c> set</c><00:08:02.800><c> error</c><00:08:02.949><c> so</c>
+
+00:08:03.899 --> 00:08:03.909 align:start position:0%
+validation error or test set error so
+ 
+
+00:08:03.909 --> 00:08:05.909 align:start position:0%
+validation error or test set error so
+knowing<00:08:04.449><c> if</c><00:08:04.719><c> your</c><00:08:04.930><c> learning</c><00:08:05.079><c> algorithm</c><00:08:05.529><c> is</c>
+
+00:08:05.909 --> 00:08:05.919 align:start position:0%
+knowing if your learning algorithm is
+ 
+
+00:08:05.919 --> 00:08:07.649 align:start position:0%
+knowing if your learning algorithm is
+suffering<00:08:06.009><c> from</c><00:08:06.490><c> high</c><00:08:06.699><c> bias</c><00:08:06.969><c> seems</c><00:08:07.479><c> like</c><00:08:07.629><c> a</c>
+
+00:08:07.649 --> 00:08:07.659 align:start position:0%
+suffering from high bias seems like a
+ 
+
+00:08:07.659 --> 00:08:08.950 align:start position:0%
+suffering from high bias seems like a
+useful<00:08:07.959><c> thing</c><00:08:08.169><c> to</c><00:08:08.349><c> know</c>
+
+00:08:08.950 --> 00:08:08.960 align:start position:0%
+useful thing to know
+ 
+
+00:08:08.960 --> 00:08:11.379 align:start position:0%
+useful thing to know
+this<00:08:09.530><c> can</c><00:08:09.680><c> prevent</c><00:08:09.949><c> you</c><00:08:10.220><c> from</c><00:08:10.400><c> wasting</c><00:08:11.150><c> a</c><00:08:11.270><c> lot</c>
+
+00:08:11.379 --> 00:08:11.389 align:start position:0%
+this can prevent you from wasting a lot
+ 
+
+00:08:11.389 --> 00:08:12.969 align:start position:0%
+this can prevent you from wasting a lot
+of<00:08:11.539><c> time</c><00:08:11.750><c> collecting</c><00:08:12.050><c> more</c><00:08:12.560><c> training</c><00:08:12.590><c> data</c>
+
+00:08:12.969 --> 00:08:12.979 align:start position:0%
+of time collecting more training data
+ 
+
+00:08:12.979 --> 00:08:15.129 align:start position:0%
+of time collecting more training data
+where<00:08:13.580><c> it</c><00:08:13.699><c> might</c><00:08:13.850><c> just</c><00:08:14.539><c> not</c><00:08:14.750><c> end</c><00:08:14.990><c> up</c><00:08:15.110><c> being</c>
+
+00:08:15.129 --> 00:08:15.139 align:start position:0%
+where it might just not end up being
+ 
+
+00:08:15.139 --> 00:08:17.559 align:start position:0%
+where it might just not end up being
+helpful<00:08:15.650><c> next</c><00:08:16.520><c> let's</c><00:08:16.759><c> look</c><00:08:16.910><c> at</c><00:08:17.060><c> the</c><00:08:17.150><c> setting</c>
+
+00:08:17.559 --> 00:08:17.569 align:start position:0%
+helpful next let's look at the setting
+ 
+
+00:08:17.569 --> 00:08:20.020 align:start position:0%
+helpful next let's look at the setting
+of<00:08:17.750><c> a</c><00:08:18.199><c> learning</c><00:08:18.889><c> algorithm</c><00:08:19.190><c> that</c><00:08:19.639><c> may</c><00:08:19.819><c> have</c>
+
+00:08:20.020 --> 00:08:20.030 align:start position:0%
+of a learning algorithm that may have
+ 
+
+00:08:20.030 --> 00:08:23.010 align:start position:0%
+of a learning algorithm that may have
+high<00:08:20.270><c> variance</c><00:08:20.889><c> let's</c><00:08:21.889><c> first</c><00:08:22.190><c> look</c><00:08:22.460><c> at</c><00:08:22.669><c> the</c>
+
+00:08:23.010 --> 00:08:23.020 align:start position:0%
+high variance let's first look at the
+ 
+
+00:08:23.020 --> 00:08:26.290 align:start position:0%
+high variance let's first look at the
+training<00:08:24.020><c> error</c><00:08:24.229><c> if</c><00:08:25.160><c> you</c><00:08:25.340><c> have</c><00:08:25.580><c> a</c><00:08:25.759><c> very</c><00:08:26.030><c> small</c>
+
+00:08:26.290 --> 00:08:26.300 align:start position:0%
+training error if you have a very small
+ 
+
+00:08:26.300 --> 00:08:28.330 align:start position:0%
+training error if you have a very small
+training<00:08:26.630><c> set</c><00:08:26.750><c> like</c><00:08:27.229><c> five</c><00:08:27.470><c> training</c><00:08:27.889><c> examples</c>
+
+00:08:28.330 --> 00:08:28.340 align:start position:0%
+training set like five training examples
+ 
+
+00:08:28.340 --> 00:08:31.150 align:start position:0%
+training set like five training examples
+shown<00:08:28.669><c> on</c><00:08:28.880><c> the</c><00:08:29.150><c> figure</c><00:08:29.690><c> on</c><00:08:29.720><c> the</c><00:08:29.810><c> right</c><00:08:30.110><c> and</c><00:08:30.349><c> if</c>
+
+00:08:31.150 --> 00:08:31.160 align:start position:0%
+shown on the figure on the right and if
+ 
+
+00:08:31.160 --> 00:08:32.790 align:start position:0%
+shown on the figure on the right and if
+we're<00:08:31.580><c> fitting</c><00:08:31.880><c> say</c><00:08:32.149><c> a</c><00:08:32.180><c> very</c><00:08:32.419><c> high</c><00:08:32.719><c> order</c>
+
+00:08:32.790 --> 00:08:32.800 align:start position:0%
+we're fitting say a very high order
+ 
+
+00:08:32.800 --> 00:08:35.529 align:start position:0%
+we're fitting say a very high order
+polynomial<00:08:33.800><c> I've</c><00:08:34.159><c> written</c><00:08:34.430><c> 100</c><00:08:34.909><c> degree</c><00:08:35.149><c> 100</c>
+
+00:08:35.529 --> 00:08:35.539 align:start position:0%
+polynomial I've written 100 degree 100
+ 
+
+00:08:35.539 --> 00:08:37.600 align:start position:0%
+polynomial I've written 100 degree 100
+degree<00:08:35.839><c> polynomial</c><00:08:36.529><c> which</c><00:08:36.740><c> really</c><00:08:37.250><c> no</c><00:08:37.459><c> one</c>
+
+00:08:37.600 --> 00:08:37.610 align:start position:0%
+degree polynomial which really no one
+ 
+
+00:08:37.610 --> 00:08:40.449 align:start position:0%
+degree polynomial which really no one
+uses<00:08:37.820><c> but</c><00:08:38.209><c> just</c><00:08:38.419><c> for</c><00:08:38.510><c> illustration</c><00:08:38.930><c> and</c><00:08:39.459><c> if</c>
+
+00:08:40.449 --> 00:08:40.459 align:start position:0%
+uses but just for illustration and if
+ 
+
+00:08:40.459 --> 00:08:42.610 align:start position:0%
+uses but just for illustration and if
+we're<00:08:40.669><c> using</c><00:08:40.849><c> a</c><00:08:41.240><c> fairly</c><00:08:41.779><c> small</c><00:08:42.169><c> value</c><00:08:42.229><c> of</c>
+
+00:08:42.610 --> 00:08:42.620 align:start position:0%
+we're using a fairly small value of
+ 
+
+00:08:42.620 --> 00:08:44.800 align:start position:0%
+we're using a fairly small value of
+lambda<00:08:42.709><c> maybe</c><00:08:43.339><c> not</c><00:08:43.580><c> maybe</c><00:08:43.969><c> not</c><00:08:44.089><c> zero</c><00:08:44.600><c> but</c>
+
+00:08:44.800 --> 00:08:44.810 align:start position:0%
+lambda maybe not maybe not zero but
+ 
+
+00:08:44.810 --> 00:08:47.230 align:start position:0%
+lambda maybe not maybe not zero but
+fairly<00:08:45.050><c> small</c><00:08:45.350><c> value</c><00:08:45.740><c> of</c><00:08:45.770><c> lambda</c><00:08:45.970><c> then</c><00:08:46.970><c> we'll</c>
+
+00:08:47.230 --> 00:08:47.240 align:start position:0%
+fairly small value of lambda then we'll
+ 
+
+00:08:47.240 --> 00:08:49.360 align:start position:0%
+fairly small value of lambda then we'll
+end<00:08:47.480><c> up</c><00:08:47.690><c> you</c><00:08:47.930><c> know</c><00:08:47.959><c> fitting</c><00:08:48.290><c> this</c><00:08:48.560><c> data</c><00:08:48.770><c> very</c>
+
+00:08:49.360 --> 00:08:49.370 align:start position:0%
+end up you know fitting this data very
+ 
+
+00:08:49.370 --> 00:08:53.290 align:start position:0%
+end up you know fitting this data very
+well<00:08:49.700><c> that</c><00:08:50.600><c> with</c><00:08:50.870><c> a</c><00:08:50.899><c> function</c><00:08:51.649><c> that</c><00:08:52.089><c> over</c><00:08:53.089><c> fit</c>
+
+00:08:53.290 --> 00:08:53.300 align:start position:0%
+well that with a function that over fit
+ 
+
+00:08:53.300 --> 00:08:56.560 align:start position:0%
+well that with a function that over fit
+says<00:08:53.649><c> so</c><00:08:54.649><c> if</c><00:08:55.130><c> the</c><00:08:55.670><c> training</c><00:08:55.910><c> set</c><00:08:56.180><c> size</c><00:08:56.360><c> is</c>
+
+00:08:56.560 --> 00:08:56.570 align:start position:0%
+says so if the training set size is
+ 
+
+00:08:56.570 --> 00:08:59.980 align:start position:0%
+says so if the training set size is
+small<00:08:56.870><c> our</c><00:08:57.279><c> training</c><00:08:58.279><c> error</c><00:08:58.459><c> does</c><00:08:59.029><c> J</c><00:08:59.480><c> train</c><00:08:59.930><c> of</c>
+
+00:08:59.980 --> 00:08:59.990 align:start position:0%
+small our training error does J train of
+ 
+
+00:08:59.990 --> 00:09:03.820 align:start position:0%
+small our training error does J train of
+theta<00:09:00.640><c> will</c><00:09:01.640><c> be</c><00:09:01.820><c> small</c><00:09:02.149><c> and</c><00:09:02.570><c> as</c><00:09:03.350><c> this</c><00:09:03.470><c> training</c>
+
+00:09:03.820 --> 00:09:03.830 align:start position:0%
+theta will be small and as this training
+ 
+
+00:09:03.830 --> 00:09:06.010 align:start position:0%
+theta will be small and as this training
+set<00:09:04.010><c> size</c><00:09:04.220><c> increases</c><00:09:04.970><c> a</c><00:09:05.000><c> bit</c><00:09:05.089><c> you</c><00:09:05.540><c> know</c><00:09:05.660><c> we</c><00:09:05.899><c> may</c>
+
+00:09:06.010 --> 00:09:06.020 align:start position:0%
+set size increases a bit you know we may
+ 
+
+00:09:06.020 --> 00:09:07.900 align:start position:0%
+set size increases a bit you know we may
+still<00:09:06.290><c> be</c><00:09:06.350><c> overfitting</c><00:09:07.010><c> this</c><00:09:07.339><c> data</c><00:09:07.580><c> a</c><00:09:07.700><c> little</c>
+
+00:09:07.900 --> 00:09:07.910 align:start position:0%
+still be overfitting this data a little
+ 
+
+00:09:07.910 --> 00:09:11.410 align:start position:0%
+still be overfitting this data a little
+bit<00:09:08.240><c> but</c><00:09:08.990><c> it</c><00:09:09.890><c> also</c><00:09:10.070><c> becomes</c><00:09:10.490><c> slightly</c><00:09:10.910><c> harder</c>
+
+00:09:11.410 --> 00:09:11.420 align:start position:0%
+bit but it also becomes slightly harder
+ 
+
+00:09:11.420 --> 00:09:14.530 align:start position:0%
+bit but it also becomes slightly harder
+to<00:09:11.630><c> fit</c><00:09:12.320><c> this</c><00:09:12.500><c> data</c><00:09:12.709><c> set</c><00:09:13.040><c> perfectly</c><00:09:13.490><c> and</c><00:09:13.820><c> so</c><00:09:14.209><c> as</c>
+
+00:09:14.530 --> 00:09:14.540 align:start position:0%
+to fit this data set perfectly and so as
+ 
+
+00:09:14.540 --> 00:09:16.780 align:start position:0%
+to fit this data set perfectly and so as
+a<00:09:14.570><c> training</c><00:09:14.899><c> set</c><00:09:15.170><c> size</c><00:09:15.320><c> increases</c><00:09:15.520><c> we'll</c><00:09:16.520><c> find</c>
+
+00:09:16.780 --> 00:09:16.790 align:start position:0%
+a training set size increases we'll find
+ 
+
+00:09:16.790 --> 00:09:20.050 align:start position:0%
+a training set size increases we'll find
+that<00:09:16.880><c> J</c><00:09:17.149><c> train</c><00:09:18.220><c> increases</c><00:09:19.220><c> because</c><00:09:19.670><c> it's</c><00:09:19.880><c> just</c>
+
+00:09:20.050 --> 00:09:20.060 align:start position:0%
+that J train increases because it's just
+ 
+
+00:09:20.060 --> 00:09:21.400 align:start position:0%
+that J train increases because it's just
+a<00:09:20.120><c> little</c><00:09:20.270><c> harder</c><00:09:20.570><c> to</c><00:09:20.720><c> fit</c><00:09:20.870><c> the</c><00:09:20.959><c> training</c><00:09:21.260><c> set</c>
+
+00:09:21.400 --> 00:09:21.410 align:start position:0%
+a little harder to fit the training set
+ 
+
+00:09:21.410 --> 00:09:23.920 align:start position:0%
+a little harder to fit the training set
+perfectly<00:09:21.560><c> when</c><00:09:22.250><c> we</c><00:09:22.339><c> have</c><00:09:22.490><c> more</c><00:09:22.670><c> examples</c><00:09:23.209><c> but</c>
+
+00:09:23.920 --> 00:09:23.930 align:start position:0%
+perfectly when we have more examples but
+ 
+
+00:09:23.930 --> 00:09:25.329 align:start position:0%
+perfectly when we have more examples but
+the<00:09:24.020><c> training</c><00:09:24.260><c> set</c><00:09:24.500><c> error</c><00:09:24.649><c> will</c><00:09:24.980><c> still</c><00:09:25.220><c> be</c>
+
+00:09:25.329 --> 00:09:25.339 align:start position:0%
+the training set error will still be
+ 
+
+00:09:25.339 --> 00:09:27.490 align:start position:0%
+the training set error will still be
+pretty<00:09:25.579><c> low</c><00:09:25.850><c> now</c><00:09:26.660><c> how</c><00:09:27.020><c> about</c><00:09:27.200><c> the</c><00:09:27.380><c> cross</c>
+
+00:09:27.490 --> 00:09:27.500 align:start position:0%
+pretty low now how about the cross
+ 
+
+00:09:27.500 --> 00:09:30.550 align:start position:0%
+pretty low now how about the cross
+validation<00:09:27.620><c> error</c><00:09:28.420><c> well</c><00:09:29.420><c> in</c><00:09:29.690><c> the</c><00:09:30.380><c> high</c>
+
+00:09:30.550 --> 00:09:30.560 align:start position:0%
+validation error well in the high
+ 
+
+00:09:30.560 --> 00:09:32.590 align:start position:0%
+validation error well in the high
+variance<00:09:31.010><c> setting</c><00:09:31.490><c> our</c><00:09:31.730><c> hypothesis</c><00:09:32.570><c> is</c>
+
+00:09:32.590 --> 00:09:32.600 align:start position:0%
+variance setting our hypothesis is
+ 
+
+00:09:32.600 --> 00:09:34.600 align:start position:0%
+variance setting our hypothesis is
+overfitting<00:09:33.500><c> and</c><00:09:33.800><c> so</c><00:09:34.190><c> the</c><00:09:34.370><c> cross-validation</c>
+
+00:09:34.600 --> 00:09:34.610 align:start position:0%
+overfitting and so the cross-validation
+ 
+
+00:09:34.610 --> 00:09:37.990 align:start position:0%
+overfitting and so the cross-validation
+error<00:09:35.300><c> will</c><00:09:35.630><c> remain</c><00:09:35.930><c> high</c><00:09:36.260><c> even</c><00:09:36.649><c> as</c><00:09:37.610><c> we</c><00:09:37.760><c> get</c>
+
+00:09:37.990 --> 00:09:38.000 align:start position:0%
+error will remain high even as we get
+ 
+
+00:09:38.000 --> 00:09:39.699 align:start position:0%
+error will remain high even as we get
+you<00:09:38.180><c> know</c><00:09:38.209><c> a</c><00:09:38.480><c> moderate</c><00:09:38.959><c> number</c><00:09:39.110><c> of</c><00:09:39.320><c> training</c>
+
+00:09:39.699 --> 00:09:39.709 align:start position:0%
+you know a moderate number of training
+ 
+
+00:09:39.709 --> 00:09:42.190 align:start position:0%
+you know a moderate number of training
+examples<00:09:39.770><c> and</c><00:09:40.459><c> so</c><00:09:40.700><c> maybe</c><00:09:41.360><c> the</c><00:09:42.050><c> cross</c>
+
+00:09:42.190 --> 00:09:42.200 align:start position:0%
+examples and so maybe the cross
+ 
+
+00:09:42.200 --> 00:09:44.740 align:start position:0%
+examples and so maybe the cross
+validation<00:09:42.320><c> error</c><00:09:43.100><c> may</c><00:09:43.820><c> look</c><00:09:44.000><c> like</c><00:09:44.209><c> that</c><00:09:44.390><c> and</c>
+
+00:09:44.740 --> 00:09:44.750 align:start position:0%
+validation error may look like that and
+ 
+
+00:09:44.750 --> 00:09:48.310 align:start position:0%
+validation error may look like that and
+the<00:09:45.680><c> indicative</c><00:09:46.279><c> diagnostic</c><00:09:47.240><c> that</c><00:09:47.690><c> we</c><00:09:47.839><c> have</c><00:09:48.079><c> a</c>
+
+00:09:48.310 --> 00:09:48.320 align:start position:0%
+the indicative diagnostic that we have a
+ 
+
+00:09:48.320 --> 00:09:51.069 align:start position:0%
+the indicative diagnostic that we have a
+high<00:09:48.649><c> variance</c><00:09:48.980><c> problem</c><00:09:49.279><c> is</c><00:09:50.240><c> the</c><00:09:50.540><c> fact</c><00:09:50.810><c> that</c>
+
+00:09:51.069 --> 00:09:51.079 align:start position:0%
+high variance problem is the fact that
+ 
+
+00:09:51.079 --> 00:09:54.460 align:start position:0%
+high variance problem is the fact that
+there's<00:09:51.709><c> this</c><00:09:51.860><c> large</c><00:09:52.430><c> gap</c><00:09:53.000><c> between</c><00:09:53.470><c> the</c>
+
+00:09:54.460 --> 00:09:54.470 align:start position:0%
+there's this large gap between the
+ 
+
+00:09:54.470 --> 00:09:55.930 align:start position:0%
+there's this large gap between the
+training<00:09:54.860><c> error</c><00:09:55.040><c> and</c><00:09:55.430><c> the</c><00:09:55.550><c> cross-validation</c>
+
+00:09:55.930 --> 00:09:55.940 align:start position:0%
+training error and the cross-validation
+ 
+
+00:09:55.940 --> 00:09:58.990 align:start position:0%
+training error and the cross-validation
+error<00:09:56.570><c> and</c><00:09:56.899><c> looking</c><00:09:57.890><c> at</c><00:09:57.950><c> this</c><00:09:58.130><c> figure</c><00:09:58.370><c> if</c><00:09:58.790><c> we</c>
+
+00:09:58.990 --> 00:09:59.000 align:start position:0%
+error and looking at this figure if we
+ 
+
+00:09:59.000 --> 00:10:01.060 align:start position:0%
+error and looking at this figure if we
+think<00:09:59.240><c> about</c><00:09:59.480><c> adding</c><00:10:00.200><c> more</c><00:10:00.380><c> training</c><00:10:00.860><c> data</c>
+
+00:10:01.060 --> 00:10:01.070 align:start position:0%
+think about adding more training data
+ 
+
+00:10:01.070 --> 00:10:02.829 align:start position:0%
+think about adding more training data
+that<00:10:01.430><c> is</c><00:10:01.730><c> taking</c><00:10:02.149><c> this</c><00:10:02.270><c> figure</c><00:10:02.600><c> and</c>
+
+00:10:02.829 --> 00:10:02.839 align:start position:0%
+that is taking this figure and
+ 
+
+00:10:02.839 --> 00:10:05.199 align:start position:0%
+that is taking this figure and
+extrapolating<00:10:03.740><c> to</c><00:10:03.770><c> the</c><00:10:03.980><c> right</c><00:10:04.190><c> we</c><00:10:04.880><c> can</c><00:10:05.029><c> kind</c>
+
+00:10:05.199 --> 00:10:05.209 align:start position:0%
+extrapolating to the right we can kind
+ 
+
+00:10:05.209 --> 00:10:07.930 align:start position:0%
+extrapolating to the right we can kind
+of<00:10:05.240><c> tell</c><00:10:05.480><c> that</c><00:10:05.720><c> you</c><00:10:06.020><c> know</c><00:10:06.200><c> the</c><00:10:06.920><c> two</c><00:10:07.430><c> curves</c><00:10:07.730><c> the</c>
+
+00:10:07.930 --> 00:10:07.940 align:start position:0%
+of tell that you know the two curves the
+ 
+
+00:10:07.940 --> 00:10:09.579 align:start position:0%
+of tell that you know the two curves the
+blue<00:10:08.120><c> curve</c><00:10:08.450><c> and</c><00:10:08.690><c> the</c><00:10:08.750><c> magenta</c><00:10:09.050><c> curve</c><00:10:09.440><c> are</c>
+
+00:10:09.579 --> 00:10:09.589 align:start position:0%
+blue curve and the magenta curve are
+ 
+
+00:10:09.589 --> 00:10:12.190 align:start position:0%
+blue curve and the magenta curve are
+converging<00:10:10.130><c> to</c><00:10:10.160><c> each</c><00:10:10.399><c> other</c><00:10:10.670><c> and</c><00:10:10.970><c> so</c><00:10:11.779><c> if</c><00:10:12.050><c> we</c>
+
+00:10:12.190 --> 00:10:12.200 align:start position:0%
+converging to each other and so if we
+ 
+
+00:10:12.200 --> 00:10:14.139 align:start position:0%
+converging to each other and so if we
+were<00:10:12.380><c> to</c><00:10:12.560><c> extrapolate</c><00:10:12.980><c> this</c><00:10:13.579><c> figure</c><00:10:13.910><c> to</c><00:10:13.940><c> the</c>
+
+00:10:14.139 --> 00:10:14.149 align:start position:0%
+were to extrapolate this figure to the
+ 
+
+00:10:14.149 --> 00:10:20.220 align:start position:0%
+were to extrapolate this figure to the
+right
+
+00:10:20.220 --> 00:10:20.230 align:start position:0%
+ 
+ 
+
+00:10:20.230 --> 00:10:23.470 align:start position:0%
+ 
+then<00:10:21.230><c> it</c><00:10:21.380><c> seems</c><00:10:21.590><c> likely</c><00:10:21.890><c> that</c><00:10:22.370><c> the</c><00:10:23.150><c> training</c>
+
+00:10:23.470 --> 00:10:23.480 align:start position:0%
+then it seems likely that the training
+ 
+
+00:10:23.480 --> 00:10:25.960 align:start position:0%
+then it seems likely that the training
+error<00:10:23.600><c> would</c><00:10:23.900><c> keep</c><00:10:24.080><c> on</c><00:10:24.260><c> going</c><00:10:24.290><c> up</c><00:10:24.770><c> and</c><00:10:25.070><c> the</c>
+
+00:10:25.960 --> 00:10:25.970 align:start position:0%
+error would keep on going up and the
+ 
+
+00:10:25.970 --> 00:10:28.750 align:start position:0%
+error would keep on going up and the
+cross-validation<00:10:27.070><c> error</c><00:10:28.070><c> would</c><00:10:28.400><c> keep</c><00:10:28.610><c> on</c>
+
+00:10:28.750 --> 00:10:28.760 align:start position:0%
+cross-validation error would keep on
+ 
+
+00:10:28.760 --> 00:10:30.940 align:start position:0%
+cross-validation error would keep on
+going<00:10:28.790><c> down</c><00:10:29.300><c> and</c><00:10:29.660><c> the</c><00:10:30.230><c> thing</c><00:10:30.410><c> we</c><00:10:30.500><c> really</c><00:10:30.740><c> care</c>
+
+00:10:30.940 --> 00:10:30.950 align:start position:0%
+going down and the thing we really care
+ 
+
+00:10:30.950 --> 00:10:33.160 align:start position:0%
+going down and the thing we really care
+about<00:10:30.980><c> is</c><00:10:31.370><c> the</c><00:10:31.490><c> cross-validation</c><00:10:31.730><c> error</c><00:10:32.480><c> or</c>
+
+00:10:33.160 --> 00:10:33.170 align:start position:0%
+about is the cross-validation error or
+ 
+
+00:10:33.170 --> 00:10:36.400 align:start position:0%
+about is the cross-validation error or
+the<00:10:33.350><c> test</c><00:10:33.590><c> set</c><00:10:33.770><c> error</c><00:10:33.800><c> right</c><00:10:34.550><c> and</c><00:10:34.820><c> so</c><00:10:35.630><c> in</c><00:10:35.900><c> this</c>
+
+00:10:36.400 --> 00:10:36.410 align:start position:0%
+the test set error right and so in this
+ 
+
+00:10:36.410 --> 00:10:37.810 align:start position:0%
+the test set error right and so in this
+sort<00:10:36.680><c> of</c><00:10:36.740><c> figure</c><00:10:37.070><c> I</c><00:10:37.100><c> can</c><00:10:37.310><c> kind</c><00:10:37.550><c> of</c><00:10:37.580><c> tell</c><00:10:37.760><c> that</c>
+
+00:10:37.810 --> 00:10:37.820 align:start position:0%
+sort of figure I can kind of tell that
+ 
+
+00:10:37.820 --> 00:10:39.760 align:start position:0%
+sort of figure I can kind of tell that
+you<00:10:38.210><c> know</c><00:10:38.360><c> if</c><00:10:38.600><c> we</c><00:10:38.690><c> keep</c><00:10:38.870><c> on</c><00:10:39.050><c> adding</c><00:10:39.290><c> training</c>
+
+00:10:39.760 --> 00:10:39.770 align:start position:0%
+you know if we keep on adding training
+ 
+
+00:10:39.770 --> 00:10:41.410 align:start position:0%
+you know if we keep on adding training
+examples<00:10:40.190><c> to</c><00:10:40.280><c> extrapolate</c><00:10:40.790><c> to</c><00:10:40.820><c> the</c><00:10:40.970><c> right</c>
+
+00:10:41.410 --> 00:10:41.420 align:start position:0%
+examples to extrapolate to the right
+ 
+
+00:10:41.420 --> 00:10:43.810 align:start position:0%
+examples to extrapolate to the right
+well<00:10:41.840><c> our</c><00:10:42.170><c> cross</c><00:10:42.650><c> validation</c><00:10:43.130><c> error</c><00:10:43.430><c> will</c>
+
+00:10:43.810 --> 00:10:43.820 align:start position:0%
+well our cross validation error will
+ 
+
+00:10:43.820 --> 00:10:46.300 align:start position:0%
+well our cross validation error will
+keep<00:10:44.180><c> on</c><00:10:44.330><c> coming</c><00:10:44.510><c> down</c><00:10:44.870><c> and</c><00:10:45.200><c> so</c><00:10:45.500><c> any</c><00:10:46.130><c> high</c>
+
+00:10:46.300 --> 00:10:46.310 align:start position:0%
+keep on coming down and so any high
+ 
+
+00:10:46.310 --> 00:10:48.580 align:start position:0%
+keep on coming down and so any high
+variance<00:10:46.790><c> setting</c><00:10:47.240><c> getting</c><00:10:47.810><c> more</c><00:10:48.200><c> training</c>
+
+00:10:48.580 --> 00:10:48.590 align:start position:0%
+variance setting getting more training
+ 
+
+00:10:48.590 --> 00:10:51.580 align:start position:0%
+variance setting getting more training
+data<00:10:48.620><c> is</c><00:10:49.190><c> indeed</c><00:10:49.910><c> likely</c><00:10:50.540><c> to</c><00:10:50.690><c> help</c><00:10:50.900><c> and</c><00:10:51.140><c> so</c>
+
+00:10:51.580 --> 00:10:51.590 align:start position:0%
+data is indeed likely to help and so
+ 
+
+00:10:51.590 --> 00:10:53.530 align:start position:0%
+data is indeed likely to help and so
+this<00:10:51.860><c> again</c><00:10:52.010><c> seems</c><00:10:52.520><c> like</c><00:10:52.790><c> a</c><00:10:52.820><c> useful</c><00:10:53.150><c> thing</c><00:10:53.510><c> to</c>
+
+00:10:53.530 --> 00:10:53.540 align:start position:0%
+this again seems like a useful thing to
+ 
+
+00:10:53.540 --> 00:10:55.330 align:start position:0%
+this again seems like a useful thing to
+know<00:10:53.840><c> if</c><00:10:54.170><c> your</c><00:10:54.320><c> learning</c><00:10:54.470><c> algorithm</c><00:10:55.130><c> is</c>
+
+00:10:55.330 --> 00:10:55.340 align:start position:0%
+know if your learning algorithm is
+ 
+
+00:10:55.340 --> 00:10:57.130 align:start position:0%
+know if your learning algorithm is
+suffering<00:10:55.700><c> from</c><00:10:56.300><c> a</c><00:10:56.450><c> high</c><00:10:56.630><c> variance</c><00:10:56.900><c> problem</c>
+
+00:10:57.130 --> 00:10:57.140 align:start position:0%
+suffering from a high variance problem
+ 
+
+00:10:57.140 --> 00:10:59.260 align:start position:0%
+suffering from a high variance problem
+because<00:10:57.770><c> that</c><00:10:57.980><c> tells</c><00:10:58.190><c> you</c><00:10:58.400><c> for</c><00:10:58.640><c> example</c><00:10:58.850><c> then</c>
+
+00:10:59.260 --> 00:10:59.270 align:start position:0%
+because that tells you for example then
+ 
+
+00:10:59.270 --> 00:11:01.390 align:start position:0%
+because that tells you for example then
+it<00:10:59.390><c> may</c><00:10:59.540><c> be</c><00:10:59.600><c> worth</c><00:10:59.930><c> your</c><00:11:00.110><c> while</c><00:11:00.320><c> to</c><00:11:00.980><c> see</c><00:11:01.190><c> if</c><00:11:01.280><c> you</c>
+
+00:11:01.390 --> 00:11:01.400 align:start position:0%
+it may be worth your while to see if you
+ 
+
+00:11:01.400 --> 00:11:02.850 align:start position:0%
+it may be worth your while to see if you
+can<00:11:01.550><c> go</c><00:11:01.700><c> and</c><00:11:01.820><c> get</c><00:11:01.970><c> some</c><00:11:02.180><c> more</c><00:11:02.210><c> training</c><00:11:02.540><c> data</c>
+
+00:11:02.850 --> 00:11:02.860 align:start position:0%
+can go and get some more training data
+ 
+
+00:11:02.860 --> 00:11:05.860 align:start position:0%
+can go and get some more training data
+now<00:11:03.860><c> on</c><00:11:04.190><c> the</c><00:11:04.490><c> previous</c><00:11:04.700><c> slide</c><00:11:05.150><c> and</c><00:11:05.420><c> this</c><00:11:05.630><c> slide</c>
+
+00:11:05.860 --> 00:11:05.870 align:start position:0%
+now on the previous slide and this slide
+ 
+
+00:11:05.870 --> 00:11:08.380 align:start position:0%
+now on the previous slide and this slide
+I've<00:11:06.170><c> drawn</c><00:11:06.440><c> fairly</c><00:11:06.920><c> clean</c><00:11:07.280><c> fairly</c><00:11:07.760><c> idealized</c>
+
+00:11:08.380 --> 00:11:08.390 align:start position:0%
+I've drawn fairly clean fairly idealized
+ 
+
+00:11:08.390 --> 00:11:10.300 align:start position:0%
+I've drawn fairly clean fairly idealized
+curves<00:11:08.900><c> if</c><00:11:09.140><c> you</c><00:11:09.290><c> plot</c><00:11:09.500><c> these</c><00:11:09.650><c> curves</c><00:11:09.710><c> for</c><00:11:10.190><c> an</c>
+
+00:11:10.300 --> 00:11:10.310 align:start position:0%
+curves if you plot these curves for an
+ 
+
+00:11:10.310 --> 00:11:12.640 align:start position:0%
+curves if you plot these curves for an
+actual<00:11:10.490><c> learning</c><00:11:11.060><c> algorithm</c><00:11:11.540><c> sometimes</c><00:11:12.170><c> you</c>
+
+00:11:12.640 --> 00:11:12.650 align:start position:0%
+actual learning algorithm sometimes you
+ 
+
+00:11:12.650 --> 00:11:14.560 align:start position:0%
+actual learning algorithm sometimes you
+will<00:11:12.860><c> actually</c><00:11:13.160><c> see</c><00:11:13.700><c> you</c><00:11:13.970><c> know</c><00:11:14.030><c> pretty</c><00:11:14.450><c> much</c>
+
+00:11:14.560 --> 00:11:14.570 align:start position:0%
+will actually see you know pretty much
+ 
+
+00:11:14.570 --> 00:11:16.150 align:start position:0%
+will actually see you know pretty much
+curves<00:11:15.110><c> like</c><00:11:15.320><c> what</c><00:11:15.500><c> I've</c><00:11:15.620><c> drawn</c><00:11:15.860><c> here</c>
+
+00:11:16.150 --> 00:11:16.160 align:start position:0%
+curves like what I've drawn here
+ 
+
+00:11:16.160 --> 00:11:18.280 align:start position:0%
+curves like what I've drawn here
+although<00:11:16.370><c> sometimes</c><00:11:17.120><c> you</c><00:11:17.450><c> see</c><00:11:17.750><c> curves</c><00:11:18.080><c> a</c>
+
+00:11:18.280 --> 00:11:18.290 align:start position:0%
+although sometimes you see curves a
+ 
+
+00:11:18.290 --> 00:11:19.900 align:start position:0%
+although sometimes you see curves a
+little<00:11:18.560><c> bit</c><00:11:18.680><c> noisier</c><00:11:19.130><c> a</c><00:11:19.160><c> little</c><00:11:19.460><c> bit</c><00:11:19.550><c> Messier</c>
+
+00:11:19.900 --> 00:11:19.910 align:start position:0%
+little bit noisier a little bit Messier
+ 
+
+00:11:19.910 --> 00:11:22.210 align:start position:0%
+little bit noisier a little bit Messier
+than<00:11:20.120><c> this</c><00:11:20.300><c> but</c><00:11:20.960><c> plotting</c><00:11:21.830><c> learning</c><00:11:21.980><c> curves</c>
+
+00:11:22.210 --> 00:11:22.220 align:start position:0%
+than this but plotting learning curves
+ 
+
+00:11:22.220 --> 00:11:24.970 align:start position:0%
+than this but plotting learning curves
+like<00:11:22.580><c> these</c><00:11:22.790><c> can</c><00:11:23.540><c> often</c><00:11:23.720><c> tell</c><00:11:24.080><c> you</c><00:11:24.320><c> that</c><00:11:24.800><c> can</c>
+
+00:11:24.970 --> 00:11:24.980 align:start position:0%
+like these can often tell you that can
+ 
+
+00:11:24.980 --> 00:11:26.320 align:start position:0%
+like these can often tell you that can
+often<00:11:25.250><c> help</c><00:11:25.370><c> you</c><00:11:25.580><c> figure</c><00:11:25.760><c> out</c><00:11:25.970><c> if</c><00:11:26.210><c> your</c>
+
+00:11:26.320 --> 00:11:26.330 align:start position:0%
+often help you figure out if your
+ 
+
+00:11:26.330 --> 00:11:27.490 align:start position:0%
+often help you figure out if your
+learning<00:11:26.360><c> algorithm</c><00:11:26.960><c> is</c><00:11:26.990><c> suffering</c><00:11:27.050><c> from</c>
+
+00:11:27.490 --> 00:11:27.500 align:start position:0%
+learning algorithm is suffering from
+ 
+
+00:11:27.500 --> 00:11:29.860 align:start position:0%
+learning algorithm is suffering from
+bias<00:11:27.920><c> or</c><00:11:28.160><c> variance</c><00:11:28.190><c> or</c><00:11:28.820><c> even</c><00:11:29.510><c> a</c><00:11:29.540><c> little</c><00:11:29.750><c> bit</c>
+
+00:11:29.860 --> 00:11:29.870 align:start position:0%
+bias or variance or even a little bit
+ 
+
+00:11:29.870 --> 00:11:32.110 align:start position:0%
+bias or variance or even a little bit
+ago<00:11:30.200><c> so</c><00:11:30.830><c> when</c><00:11:31.040><c> I'm</c><00:11:31.160><c> trying</c><00:11:31.490><c> to</c><00:11:31.610><c> improve</c><00:11:31.910><c> the</c>
+
+00:11:32.110 --> 00:11:32.120 align:start position:0%
+ago so when I'm trying to improve the
+ 
+
+00:11:32.120 --> 00:11:34.030 align:start position:0%
+ago so when I'm trying to improve the
+performance<00:11:32.150><c> of</c><00:11:32.780><c> a</c><00:11:32.900><c> learning</c><00:11:33.050><c> algorithm</c><00:11:33.530><c> one</c>
+
+00:11:34.030 --> 00:11:34.040 align:start position:0%
+performance of a learning algorithm one
+ 
+
+00:11:34.040 --> 00:11:36.370 align:start position:0%
+performance of a learning algorithm one
+thing<00:11:34.250><c> that</c><00:11:34.460><c> I'll</c><00:11:34.610><c> almost</c><00:11:35.030><c> always</c><00:11:35.450><c> do</c><00:11:35.870><c> is</c><00:11:36.110><c> plot</c>
+
+00:11:36.370 --> 00:11:36.380 align:start position:0%
+thing that I'll almost always do is plot
+ 
+
+00:11:36.380 --> 00:11:39.160 align:start position:0%
+thing that I'll almost always do is plot
+these<00:11:36.560><c> learning</c><00:11:37.010><c> curves</c><00:11:37.280><c> and</c><00:11:38.020><c> usually</c><00:11:39.020><c> this</c>
+
+00:11:39.160 --> 00:11:39.170 align:start position:0%
+these learning curves and usually this
+ 
+
+00:11:39.170 --> 00:11:40.600 align:start position:0%
+these learning curves and usually this
+will<00:11:39.350><c> give</c><00:11:39.470><c> you</c><00:11:39.560><c> a</c><00:11:39.590><c> better</c><00:11:39.740><c> sense</c><00:11:40.040><c> of</c><00:11:40.340><c> where</c>
+
+00:11:40.600 --> 00:11:40.610 align:start position:0%
+will give you a better sense of where
+ 
+
+00:11:40.610 --> 00:11:43.460 align:start position:0%
+will give you a better sense of where
+this<00:11:40.730><c> adviser</c><00:11:41.090><c> variance</c><00:11:41.690><c> problem</c>
+
+00:11:43.460 --> 00:11:43.470 align:start position:0%
+this adviser variance problem
+ 
+
+00:11:43.470 --> 00:11:46.430 align:start position:0%
+this adviser variance problem
+and<00:11:43.610><c> in</c><00:11:44.610><c> the</c><00:11:44.790><c> next</c><00:11:45.000><c> video</c><00:11:45.210><c> we'll</c><00:11:45.660><c> see</c><00:11:45.900><c> how</c><00:11:45.930><c> this</c>
+
+00:11:46.430 --> 00:11:46.440 align:start position:0%
+and in the next video we'll see how this
+ 
+
+00:11:46.440 --> 00:11:48.530 align:start position:0%
+and in the next video we'll see how this
+can<00:11:46.680><c> help</c><00:11:46.890><c> suggest</c><00:11:47.430><c> specific</c><00:11:48.000><c> actions</c><00:11:48.450><c> to</c>
+
+00:11:48.530 --> 00:11:48.540 align:start position:0%
+can help suggest specific actions to
+ 
+
+00:11:48.540 --> 00:11:51.020 align:start position:0%
+can help suggest specific actions to
+take<00:11:48.870><c> or</c><00:11:49.200><c> to</c><00:11:49.230><c> not</c><00:11:49.530><c> take</c><00:11:49.800><c> in</c><00:11:50.010><c> order</c><00:11:50.670><c> to</c><00:11:50.820><c> try</c><00:11:51.000><c> to</c>
+
+00:11:51.020 --> 00:11:51.030 align:start position:0%
+take or to not take in order to try to
+ 
+
+00:11:51.030 --> 00:11:52.790 align:start position:0%
+take or to not take in order to try to
+improve<00:11:51.510><c> the</c><00:11:51.660><c> performance</c><00:11:51.810><c> of</c><00:11:52.350><c> your</c><00:11:52.410><c> learning</c>
+
+00:11:52.790 --> 00:11:52.800 align:start position:0%
+improve the performance of your learning
+ 
+
+00:11:52.800 --> 00:11:55.280 align:start position:0%
+improve the performance of your learning
+algorithm
+

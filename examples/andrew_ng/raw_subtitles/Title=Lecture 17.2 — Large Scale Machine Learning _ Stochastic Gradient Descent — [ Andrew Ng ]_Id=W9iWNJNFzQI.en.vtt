@@ -1,0 +1,2704 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.450 align:start position:0%
+ 
+for<00:00:00.719><c> many</c><00:00:00.870><c> learning</c><00:00:01.170><c> algorithms</c><00:00:01.770><c> among</c><00:00:02.250><c> the</c>
+
+00:00:02.450 --> 00:00:02.460 align:start position:0%
+for many learning algorithms among the
+ 
+
+00:00:02.460 --> 00:00:04.370 align:start position:0%
+for many learning algorithms among the
+linear<00:00:02.879><c> regression</c><00:00:03.330><c> logistic</c><00:00:03.380><c> regression</c>
+
+00:00:04.370 --> 00:00:04.380 align:start position:0%
+linear regression logistic regression
+ 
+
+00:00:04.380 --> 00:00:06.650 align:start position:0%
+linear regression logistic regression
+and<00:00:04.650><c> neural</c><00:00:04.710><c> networks</c><00:00:05.370><c> the</c><00:00:05.940><c> way</c><00:00:06.120><c> we</c><00:00:06.270><c> derive</c>
+
+00:00:06.650 --> 00:00:06.660 align:start position:0%
+and neural networks the way we derive
+ 
+
+00:00:06.660 --> 00:00:08.600 align:start position:0%
+and neural networks the way we derive
+the<00:00:06.870><c> algorithm</c><00:00:07.350><c> was</c><00:00:07.620><c> by</c><00:00:07.830><c> coming</c><00:00:08.309><c> up</c><00:00:08.370><c> with</c><00:00:08.429><c> a</c>
+
+00:00:08.600 --> 00:00:08.610 align:start position:0%
+the algorithm was by coming up with a
+ 
+
+00:00:08.610 --> 00:00:10.430 align:start position:0%
+the algorithm was by coming up with a
+cost<00:00:09.000><c> function</c><00:00:09.240><c> or</c><00:00:09.750><c> coming</c><00:00:10.110><c> up</c><00:00:10.139><c> with</c><00:00:10.320><c> an</c>
+
+00:00:10.430 --> 00:00:10.440 align:start position:0%
+cost function or coming up with an
+ 
+
+00:00:10.440 --> 00:00:13.070 align:start position:0%
+cost function or coming up with an
+optimization<00:00:11.160><c> objective</c><00:00:11.670><c> and</c><00:00:11.880><c> then</c><00:00:12.509><c> using</c><00:00:12.960><c> an</c>
+
+00:00:13.070 --> 00:00:13.080 align:start position:0%
+optimization objective and then using an
+ 
+
+00:00:13.080 --> 00:00:14.780 align:start position:0%
+optimization objective and then using an
+algorithm<00:00:13.320><c> like</c><00:00:13.650><c> gradient</c><00:00:13.799><c> descent</c><00:00:14.250><c> to</c>
+
+00:00:14.780 --> 00:00:14.790 align:start position:0%
+algorithm like gradient descent to
+ 
+
+00:00:14.790 --> 00:00:17.000 align:start position:0%
+algorithm like gradient descent to
+minimize<00:00:14.820><c> that</c><00:00:15.389><c> cost</c><00:00:15.450><c> function</c><00:00:16.109><c> when</c><00:00:16.920><c> you</c>
+
+00:00:17.000 --> 00:00:17.010 align:start position:0%
+minimize that cost function when you
+ 
+
+00:00:17.010 --> 00:00:19.220 align:start position:0%
+minimize that cost function when you
+have<00:00:17.130><c> a</c><00:00:17.160><c> very</c><00:00:17.400><c> large</c><00:00:17.609><c> training</c><00:00:18.090><c> set</c><00:00:18.449><c> gradient</c>
+
+00:00:19.220 --> 00:00:19.230 align:start position:0%
+have a very large training set gradient
+ 
+
+00:00:19.230 --> 00:00:21.140 align:start position:0%
+have a very large training set gradient
+descent<00:00:19.560><c> becomes</c><00:00:19.980><c> a</c><00:00:20.189><c> computationally</c><00:00:21.119><c> very</c>
+
+00:00:21.140 --> 00:00:21.150 align:start position:0%
+descent becomes a computationally very
+ 
+
+00:00:21.150 --> 00:00:23.810 align:start position:0%
+descent becomes a computationally very
+expensive<00:00:21.449><c> procedure</c><00:00:21.990><c> in</c><00:00:22.680><c> this</c><00:00:23.189><c> video</c><00:00:23.519><c> we'll</c>
+
+00:00:23.810 --> 00:00:23.820 align:start position:0%
+expensive procedure in this video we'll
+ 
+
+00:00:23.820 --> 00:00:26.029 align:start position:0%
+expensive procedure in this video we'll
+talk<00:00:23.939><c> about</c><00:00:24.240><c> a</c><00:00:24.390><c> modification</c><00:00:24.900><c> to</c><00:00:25.529><c> the</c><00:00:25.619><c> basic</c>
+
+00:00:26.029 --> 00:00:26.039 align:start position:0%
+talk about a modification to the basic
+ 
+
+00:00:26.039 --> 00:00:27.830 align:start position:0%
+talk about a modification to the basic
+gradient<00:00:26.430><c> descent</c><00:00:26.730><c> algorithm</c><00:00:27.210><c> called</c>
+
+00:00:27.830 --> 00:00:27.840 align:start position:0%
+gradient descent algorithm called
+ 
+
+00:00:27.840 --> 00:00:29.900 align:start position:0%
+gradient descent algorithm called
+stochastic<00:00:28.349><c> gradient</c><00:00:28.650><c> descent</c><00:00:29.189><c> which</c><00:00:29.730><c> will</c>
+
+00:00:29.900 --> 00:00:29.910 align:start position:0%
+stochastic gradient descent which will
+ 
+
+00:00:29.910 --> 00:00:31.849 align:start position:0%
+stochastic gradient descent which will
+allow<00:00:30.119><c> us</c><00:00:30.330><c> to</c><00:00:30.359><c> scale</c><00:00:30.779><c> these</c><00:00:30.990><c> algorithms</c><00:00:31.349><c> to</c>
+
+00:00:31.849 --> 00:00:31.859 align:start position:0%
+allow us to scale these algorithms to
+ 
+
+00:00:31.859 --> 00:00:38.209 align:start position:0%
+allow us to scale these algorithms to
+much<00:00:32.070><c> bigger</c><00:00:32.250><c> training</c><00:00:32.579><c> sets</c><00:00:37.040><c> suppose</c><00:00:38.040><c> you</c>
+
+00:00:38.209 --> 00:00:38.219 align:start position:0%
+much bigger training sets suppose you
+ 
+
+00:00:38.219 --> 00:00:39.889 align:start position:0%
+much bigger training sets suppose you
+are<00:00:38.309><c> training</c><00:00:38.640><c> a</c><00:00:38.969><c> linear</c><00:00:39.390><c> regression</c><00:00:39.510><c> model</c>
+
+00:00:39.889 --> 00:00:39.899 align:start position:0%
+are training a linear regression model
+ 
+
+00:00:39.899 --> 00:00:42.380 align:start position:0%
+are training a linear regression model
+using<00:00:40.620><c> gradient</c><00:00:41.010><c> descent</c><00:00:41.070><c> as</c><00:00:41.730><c> the</c><00:00:42.210><c> quick</c>
+
+00:00:42.380 --> 00:00:42.390 align:start position:0%
+using gradient descent as the quick
+ 
+
+00:00:42.390 --> 00:00:45.229 align:start position:0%
+using gradient descent as the quick
+recap<00:00:42.780><c> the</c><00:00:43.280><c> hypothesis</c><00:00:44.280><c> will</c><00:00:44.640><c> look</c><00:00:44.789><c> like</c><00:00:44.969><c> this</c>
+
+00:00:45.229 --> 00:00:45.239 align:start position:0%
+recap the hypothesis will look like this
+ 
+
+00:00:45.239 --> 00:00:47.569 align:start position:0%
+recap the hypothesis will look like this
+and<00:00:45.539><c> the</c><00:00:46.140><c> cost</c><00:00:46.590><c> function</c><00:00:46.800><c> will</c><00:00:47.280><c> look</c><00:00:47.309><c> like</c>
+
+00:00:47.569 --> 00:00:47.579 align:start position:0%
+and the cost function will look like
+ 
+
+00:00:47.579 --> 00:00:49.880 align:start position:0%
+and the cost function will look like
+this<00:00:47.879><c> which</c><00:00:48.239><c> is</c><00:00:48.360><c> this</c><00:00:48.480><c> sort</c><00:00:48.660><c> of</c><00:00:48.780><c> one-half</c><00:00:49.649><c> of</c>
+
+00:00:49.880 --> 00:00:49.890 align:start position:0%
+this which is this sort of one-half of
+ 
+
+00:00:49.890 --> 00:00:52.040 align:start position:0%
+this which is this sort of one-half of
+the<00:00:49.950><c> average</c><00:00:50.520><c> squared</c><00:00:51.000><c> error</c><00:00:51.210><c> of</c><00:00:51.629><c> your</c>
+
+00:00:52.040 --> 00:00:52.050 align:start position:0%
+the average squared error of your
+ 
+
+00:00:52.050 --> 00:00:53.869 align:start position:0%
+the average squared error of your
+hypothesis<00:00:52.860><c> on</c><00:00:53.100><c> your</c><00:00:53.250><c> M</c><00:00:53.430><c> training</c><00:00:53.730><c> examples</c>
+
+00:00:53.869 --> 00:00:53.879 align:start position:0%
+hypothesis on your M training examples
+ 
+
+00:00:53.879 --> 00:00:57.229 align:start position:0%
+hypothesis on your M training examples
+and<00:00:54.480><c> the</c><00:00:55.350><c> cost</c><00:00:55.949><c> function</c><00:00:56.129><c> we've</c><00:00:56.610><c> already</c><00:00:56.820><c> seen</c>
+
+00:00:57.229 --> 00:00:57.239 align:start position:0%
+and the cost function we've already seen
+ 
+
+00:00:57.239 --> 00:00:58.910 align:start position:0%
+and the cost function we've already seen
+looks<00:00:57.780><c> like</c><00:00:57.930><c> this</c><00:00:58.109><c> sort</c><00:00:58.289><c> of</c><00:00:58.379><c> bow</c><00:00:58.620><c> shape</c>
+
+00:00:58.910 --> 00:00:58.920 align:start position:0%
+looks like this sort of bow shape
+ 
+
+00:00:58.920 --> 00:01:00.830 align:start position:0%
+looks like this sort of bow shape
+functions<00:00:59.430><c> to</c><00:00:59.609><c> plot</c><00:00:59.850><c> it</c><00:01:00.030><c> as</c><00:01:00.180><c> a</c><00:01:00.210><c> function</c><00:01:00.359><c> of</c>
+
+00:01:00.830 --> 00:01:00.840 align:start position:0%
+functions to plot it as a function of
+ 
+
+00:01:00.840 --> 00:01:03.290 align:start position:0%
+functions to plot it as a function of
+the<00:01:00.930><c> parameters</c><00:01:01.500><c> theta0</c><00:01:01.920><c> and</c><00:01:02.219><c> theta1</c><00:01:02.340><c> the</c>
+
+00:01:03.290 --> 00:01:03.300 align:start position:0%
+the parameters theta0 and theta1 the
+ 
+
+00:01:03.300 --> 00:01:05.420 align:start position:0%
+the parameters theta0 and theta1 the
+cost<00:01:03.539><c> function</c><00:01:03.750><c> J</c><00:01:04.049><c> is</c><00:01:04.559><c> the</c><00:01:04.710><c> sort</c><00:01:04.920><c> of</c><00:01:05.010><c> a</c><00:01:05.159><c> bowl</c>
+
+00:01:05.420 --> 00:01:05.430 align:start position:0%
+cost function J is the sort of a bowl
+ 
+
+00:01:05.430 --> 00:01:07.850 align:start position:0%
+cost function J is the sort of a bowl
+shape<00:01:05.460><c> function</c><00:01:06.180><c> and</c><00:01:06.560><c> gradient</c><00:01:07.560><c> descent</c>
+
+00:01:07.850 --> 00:01:07.860 align:start position:0%
+shape function and gradient descent
+ 
+
+00:01:07.860 --> 00:01:10.340 align:start position:0%
+shape function and gradient descent
+looks<00:01:08.460><c> like</c><00:01:08.640><c> this</c><00:01:08.880><c> where</c><00:01:09.210><c> in</c><00:01:09.540><c> the</c><00:01:09.900><c> inner</c><00:01:10.229><c> loop</c>
+
+00:01:10.340 --> 00:01:10.350 align:start position:0%
+looks like this where in the inner loop
+ 
+
+00:01:10.350 --> 00:01:12.170 align:start position:0%
+looks like this where in the inner loop
+of<00:01:10.500><c> gradient</c><00:01:10.830><c> descent</c><00:01:11.159><c> you</c><00:01:11.430><c> repeatedly</c>
+
+00:01:12.170 --> 00:01:12.180 align:start position:0%
+of gradient descent you repeatedly
+ 
+
+00:01:12.180 --> 00:01:14.450 align:start position:0%
+of gradient descent you repeatedly
+update<00:01:12.450><c> the</c><00:01:12.780><c> parameters</c><00:01:12.930><c> theta</c><00:01:13.470><c> using</c><00:01:14.010><c> that</c>
+
+00:01:14.450 --> 00:01:14.460 align:start position:0%
+update the parameters theta using that
+ 
+
+00:01:14.460 --> 00:01:18.080 align:start position:0%
+update the parameters theta using that
+expression<00:01:15.619><c> now</c><00:01:16.619><c> in</c><00:01:17.040><c> the</c><00:01:17.430><c> rest</c><00:01:17.640><c> of</c><00:01:17.790><c> this</c><00:01:17.909><c> video</c>
+
+00:01:18.080 --> 00:01:18.090 align:start position:0%
+expression now in the rest of this video
+ 
+
+00:01:18.090 --> 00:01:20.060 align:start position:0%
+expression now in the rest of this video
+I'm<00:01:18.570><c> going</c><00:01:18.810><c> to</c><00:01:18.930><c> keep</c><00:01:19.170><c> using</c><00:01:19.439><c> linear</c>
+
+00:01:20.060 --> 00:01:20.070 align:start position:0%
+I'm going to keep using linear
+ 
+
+00:01:20.070 --> 00:01:22.850 align:start position:0%
+I'm going to keep using linear
+regression<00:01:20.100><c> as</c><00:01:20.820><c> the</c><00:01:21.450><c> running</c><00:01:21.720><c> example</c><00:01:21.930><c> but</c>
+
+00:01:22.850 --> 00:01:22.860 align:start position:0%
+regression as the running example but
+ 
+
+00:01:22.860 --> 00:01:24.920 align:start position:0%
+regression as the running example but
+the<00:01:22.979><c> idea</c><00:01:23.310><c> is</c><00:01:23.520><c> here</c><00:01:23.909><c> the</c><00:01:24.180><c> idea</c><00:01:24.479><c> of</c><00:01:24.600><c> stochastic</c>
+
+00:01:24.920 --> 00:01:24.930 align:start position:0%
+the idea is here the idea of stochastic
+ 
+
+00:01:24.930 --> 00:01:27.140 align:start position:0%
+the idea is here the idea of stochastic
+gradient<00:01:25.229><c> descent</c><00:01:25.500><c> is</c><00:01:25.950><c> fully</c><00:01:26.310><c> general</c><00:01:26.610><c> and</c>
+
+00:01:27.140 --> 00:01:27.150 align:start position:0%
+gradient descent is fully general and
+ 
+
+00:01:27.150 --> 00:01:28.640 align:start position:0%
+gradient descent is fully general and
+also<00:01:27.420><c> applies</c><00:01:27.900><c> to</c><00:01:27.930><c> other</c><00:01:28.439><c> learning</c>
+
+00:01:28.640 --> 00:01:28.650 align:start position:0%
+also applies to other learning
+ 
+
+00:01:28.650 --> 00:01:30.319 align:start position:0%
+also applies to other learning
+algorithms<00:01:29.310><c> like</c><00:01:29.430><c> logistic</c><00:01:29.490><c> regression</c><00:01:30.240><c> in</c>
+
+00:01:30.319 --> 00:01:30.329 align:start position:0%
+algorithms like logistic regression in
+ 
+
+00:01:30.329 --> 00:01:32.450 align:start position:0%
+algorithms like logistic regression in
+neural<00:01:30.630><c> networks</c><00:01:30.659><c> and</c><00:01:31.290><c> other</c><00:01:31.860><c> algorithms</c>
+
+00:01:32.450 --> 00:01:32.460 align:start position:0%
+neural networks and other algorithms
+ 
+
+00:01:32.460 --> 00:01:34.969 align:start position:0%
+neural networks and other algorithms
+that<00:01:32.850><c> are</c><00:01:33.119><c> based</c><00:01:33.390><c> on</c><00:01:33.600><c> training</c><00:01:34.439><c> gradient</c>
+
+00:01:34.969 --> 00:01:34.979 align:start position:0%
+that are based on training gradient
+ 
+
+00:01:34.979 --> 00:01:38.149 align:start position:0%
+that are based on training gradient
+descent<00:01:35.310><c> on</c><00:01:35.549><c> the</c><00:01:35.790><c> specific</c><00:01:36.750><c> training</c><00:01:37.110><c> set</c><00:01:37.290><c> so</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+descent on the specific training set so
+ 
+
+00:01:38.159 --> 00:01:39.770 align:start position:0%
+descent on the specific training set so
+here's<00:01:38.549><c> a</c><00:01:38.610><c> picture</c><00:01:38.820><c> of</c><00:01:39.000><c> what</c><00:01:39.509><c> gradient</c>
+
+00:01:39.770 --> 00:01:39.780 align:start position:0%
+here's a picture of what gradient
+ 
+
+00:01:39.780 --> 00:01:41.810 align:start position:0%
+here's a picture of what gradient
+descent<00:01:39.960><c> does</c><00:01:40.409><c> if</c><00:01:40.770><c> the</c><00:01:41.040><c> parameters</c><00:01:41.549><c> are</c>
+
+00:01:41.810 --> 00:01:41.820 align:start position:0%
+descent does if the parameters are
+ 
+
+00:01:41.820 --> 00:01:44.060 align:start position:0%
+descent does if the parameters are
+initialized<00:01:42.360><c> at</c><00:01:42.509><c> a</c><00:01:42.570><c> point</c><00:01:42.750><c> there</c><00:01:43.049><c> then</c><00:01:43.710><c> as</c><00:01:43.920><c> you</c>
+
+00:01:44.060 --> 00:01:44.070 align:start position:0%
+initialized at a point there then as you
+ 
+
+00:01:44.070 --> 00:01:45.289 align:start position:0%
+initialized at a point there then as you
+run<00:01:44.250><c> gradient</c><00:01:44.369><c> descent</c><00:01:44.640><c> different</c>
+
+00:01:45.289 --> 00:01:45.299 align:start position:0%
+run gradient descent different
+ 
+
+00:01:45.299 --> 00:01:47.569 align:start position:0%
+run gradient descent different
+iterations<00:01:45.869><c> of</c><00:01:46.049><c> gradient</c><00:01:46.110><c> descent</c><00:01:46.770><c> will</c><00:01:47.310><c> take</c>
+
+00:01:47.569 --> 00:01:47.579 align:start position:0%
+iterations of gradient descent will take
+ 
+
+00:01:47.579 --> 00:01:49.910 align:start position:0%
+iterations of gradient descent will take
+the<00:01:47.729><c> parameters</c><00:01:48.329><c> to</c><00:01:48.780><c> the</c><00:01:48.990><c> global</c><00:01:49.439><c> minimum</c><00:01:49.530><c> so</c>
+
+00:01:49.910 --> 00:01:49.920 align:start position:0%
+the parameters to the global minimum so
+ 
+
+00:01:49.920 --> 00:01:51.800 align:start position:0%
+the parameters to the global minimum so
+take<00:01:50.159><c> a</c><00:01:50.189><c> trajectory</c><00:01:50.460><c> that</c><00:01:50.970><c> looks</c><00:01:51.420><c> like</c><00:01:51.630><c> that</c>
+
+00:01:51.800 --> 00:01:51.810 align:start position:0%
+take a trajectory that looks like that
+ 
+
+00:01:51.810 --> 00:01:54.170 align:start position:0%
+take a trajectory that looks like that
+and<00:01:51.869><c> heads</c><00:01:52.350><c> pretty</c><00:01:52.770><c> directly</c><00:01:53.280><c> to</c><00:01:53.820><c> the</c><00:01:53.939><c> Google</c>
+
+00:01:54.170 --> 00:01:54.180 align:start position:0%
+and heads pretty directly to the Google
+ 
+
+00:01:54.180 --> 00:01:54.750 align:start position:0%
+and heads pretty directly to the Google
+woman
+
+00:01:54.750 --> 00:01:54.760 align:start position:0%
+woman
+ 
+
+00:01:54.760 --> 00:01:57.940 align:start position:0%
+woman
+now<00:01:55.760><c> the</c><00:01:55.820><c> problem</c><00:01:56.300><c> with</c><00:01:56.420><c> gradient</c><00:01:56.930><c> descent</c><00:01:56.990><c> is</c>
+
+00:01:57.940 --> 00:01:57.950 align:start position:0%
+now the problem with gradient descent is
+ 
+
+00:01:57.950 --> 00:02:01.810 align:start position:0%
+now the problem with gradient descent is
+that<00:01:57.980><c> if</c><00:01:58.760><c> M</c><00:01:59.030><c> is</c><00:01:59.060><c> large</c><00:01:59.510><c> then</c><00:02:00.500><c> computing</c><00:02:01.490><c> this</c>
+
+00:02:01.810 --> 00:02:01.820 align:start position:0%
+that if M is large then computing this
+ 
+
+00:02:01.820 --> 00:02:04.360 align:start position:0%
+that if M is large then computing this
+derivative<00:02:02.150><c> term</c><00:02:02.800><c> can</c><00:02:03.800><c> be</c><00:02:03.830><c> very</c><00:02:04.160><c> expensive</c>
+
+00:02:04.360 --> 00:02:04.370 align:start position:0%
+derivative term can be very expensive
+ 
+
+00:02:04.370 --> 00:02:07.240 align:start position:0%
+derivative term can be very expensive
+because<00:02:04.910><c> this</c><00:02:05.270><c> requires</c><00:02:05.660><c> summing</c><00:02:06.320><c> over</c><00:02:06.500><c> all</c><00:02:06.710><c> M</c>
+
+00:02:07.240 --> 00:02:07.250 align:start position:0%
+because this requires summing over all M
+ 
+
+00:02:07.250 --> 00:02:13.300 align:start position:0%
+because this requires summing over all M
+examples<00:02:08.090><c> so</c><00:02:08.720><c> if</c><00:02:08.750><c> M</c><00:02:09.140><c> is</c><00:02:09.820><c> 300</c><00:02:10.820><c> million</c><00:02:12.040><c> so</c><00:02:13.040><c> in</c>
+
+00:02:13.300 --> 00:02:13.310 align:start position:0%
+examples so if M is 300 million so in
+ 
+
+00:02:13.310 --> 00:02:15.010 align:start position:0%
+examples so if M is 300 million so in
+the<00:02:13.400><c> United</c><00:02:13.790><c> States</c><00:02:14.000><c> there</c><00:02:14.270><c> are</c><00:02:14.300><c> about</c><00:02:14.360><c> 300</c>
+
+00:02:15.010 --> 00:02:15.020 align:start position:0%
+the United States there are about 300
+ 
+
+00:02:15.020 --> 00:02:16.900 align:start position:0%
+the United States there are about 300
+million<00:02:15.320><c> people</c><00:02:15.440><c> and</c><00:02:15.860><c> so</c><00:02:16.040><c> the</c><00:02:16.220><c> US</c><00:02:16.670><c> would</c><00:02:16.850><c> be</c>
+
+00:02:16.900 --> 00:02:16.910 align:start position:0%
+million people and so the US would be
+ 
+
+00:02:16.910 --> 00:02:19.420 align:start position:0%
+million people and so the US would be
+united<00:02:17.300><c> states</c><00:02:17.330><c> census</c><00:02:18.050><c> data</c><00:02:18.260><c> we</c><00:02:18.680><c> have</c><00:02:18.890><c> on</c><00:02:19.280><c> the</c>
+
+00:02:19.420 --> 00:02:19.430 align:start position:0%
+united states census data we have on the
+ 
+
+00:02:19.430 --> 00:02:21.130 align:start position:0%
+united states census data we have on the
+order<00:02:19.580><c> of</c><00:02:19.820><c> that</c><00:02:19.940><c> many</c><00:02:20.210><c> records</c><00:02:20.630><c> so</c><00:02:20.990><c> if</c><00:02:21.080><c> you</c>
+
+00:02:21.130 --> 00:02:21.140 align:start position:0%
+order of that many records so if you
+ 
+
+00:02:21.140 --> 00:02:22.780 align:start position:0%
+order of that many records so if you
+want<00:02:21.320><c> to</c><00:02:21.380><c> fit</c><00:02:21.620><c> the</c><00:02:21.740><c> linear</c><00:02:22.040><c> regression</c><00:02:22.460><c> model</c>
+
+00:02:22.780 --> 00:02:22.790 align:start position:0%
+want to fit the linear regression model
+ 
+
+00:02:22.790 --> 00:02:25.570 align:start position:0%
+want to fit the linear regression model
+to<00:02:22.820><c> that</c><00:02:23.000><c> then</c><00:02:23.900><c> you</c><00:02:24.050><c> need</c><00:02:24.200><c> to</c><00:02:24.320><c> sum</c><00:02:24.560><c> over</c><00:02:24.590><c> 300</c>
+
+00:02:25.570 --> 00:02:25.580 align:start position:0%
+to that then you need to sum over 300
+ 
+
+00:02:25.580 --> 00:02:27.220 align:start position:0%
+to that then you need to sum over 300
+million<00:02:25.790><c> records</c><00:02:26.360><c> and</c><00:02:26.630><c> that's</c><00:02:26.930><c> very</c>
+
+00:02:27.220 --> 00:02:27.230 align:start position:0%
+million records and that's very
+ 
+
+00:02:27.230 --> 00:02:29.650 align:start position:0%
+million records and that's very
+expensive<00:02:27.860><c> to</c><00:02:28.730><c> give</c><00:02:28.910><c> the</c><00:02:29.030><c> algorithm</c><00:02:29.300><c> a</c><00:02:29.450><c> name</c>
+
+00:02:29.650 --> 00:02:29.660 align:start position:0%
+expensive to give the algorithm a name
+ 
+
+00:02:29.660 --> 00:02:31.690 align:start position:0%
+expensive to give the algorithm a name
+this<00:02:30.050><c> particular</c><00:02:30.260><c> version</c><00:02:31.040><c> of</c><00:02:31.250><c> gradient</c>
+
+00:02:31.690 --> 00:02:31.700 align:start position:0%
+this particular version of gradient
+ 
+
+00:02:31.700 --> 00:02:34.480 align:start position:0%
+this particular version of gradient
+descent<00:02:32.030><c> is</c><00:02:32.180><c> also</c><00:02:32.780><c> called</c><00:02:33.170><c> batch</c><00:02:33.650><c> gradient</c>
+
+00:02:34.480 --> 00:02:34.490 align:start position:0%
+descent is also called batch gradient
+ 
+
+00:02:34.490 --> 00:02:38.410 align:start position:0%
+descent is also called batch gradient
+descent<00:02:34.990><c> and</c><00:02:35.990><c> the</c><00:02:36.890><c> term</c><00:02:37.130><c> that</c><00:02:37.550><c> refers</c><00:02:38.180><c> to</c><00:02:38.209><c> the</c>
+
+00:02:38.410 --> 00:02:38.420 align:start position:0%
+descent and the term that refers to the
+ 
+
+00:02:38.420 --> 00:02:39.940 align:start position:0%
+descent and the term that refers to the
+fact<00:02:38.660><c> that</c><00:02:38.780><c> we're</c><00:02:39.020><c> looking</c><00:02:39.140><c> at</c><00:02:39.470><c> all</c><00:02:39.680><c> of</c><00:02:39.860><c> the</c>
+
+00:02:39.940 --> 00:02:39.950 align:start position:0%
+fact that we're looking at all of the
+ 
+
+00:02:39.950 --> 00:02:41.710 align:start position:0%
+fact that we're looking at all of the
+training<00:02:40.310><c> examples</c><00:02:40.820><c> at</c><00:02:41.000><c> the</c><00:02:41.030><c> time</c><00:02:41.300><c> the</c><00:02:41.510><c> cause</c>
+
+00:02:41.710 --> 00:02:41.720 align:start position:0%
+training examples at the time the cause
+ 
+
+00:02:41.720 --> 00:02:43.480 align:start position:0%
+training examples at the time the cause
+of<00:02:41.750><c> a</c><00:02:42.110><c> batch</c><00:02:42.350><c> of</c><00:02:42.380><c> all</c><00:02:42.950><c> of</c><00:02:43.130><c> the</c><00:02:43.220><c> training</c>
+
+00:02:43.480 --> 00:02:43.490 align:start position:0%
+of a batch of all of the training
+ 
+
+00:02:43.490 --> 00:02:46.300 align:start position:0%
+of a batch of all of the training
+examples<00:02:44.330><c> it</c><00:02:44.750><c> really</c><00:02:44.990><c> isn't</c><00:02:45.260><c> maybe</c><00:02:45.920><c> the</c><00:02:46.100><c> best</c>
+
+00:02:46.300 --> 00:02:46.310 align:start position:0%
+examples it really isn't maybe the best
+ 
+
+00:02:46.310 --> 00:02:48.970 align:start position:0%
+examples it really isn't maybe the best
+thing<00:02:46.580><c> but</c><00:02:47.080><c> this</c><00:02:48.080><c> is</c><00:02:48.230><c> one</c><00:02:48.410><c> machine</c><00:02:48.530><c> learning</c>
+
+00:02:48.970 --> 00:02:48.980 align:start position:0%
+thing but this is one machine learning
+ 
+
+00:02:48.980 --> 00:02:50.740 align:start position:0%
+thing but this is one machine learning
+people<00:02:49.130><c> call</c><00:02:49.610><c> this</c><00:02:49.790><c> particular</c><00:02:50.030><c> version</c><00:02:50.630><c> of</c>
+
+00:02:50.740 --> 00:02:50.750 align:start position:0%
+people call this particular version of
+ 
+
+00:02:50.750 --> 00:02:52.750 align:start position:0%
+people call this particular version of
+being<00:02:50.930><c> in</c><00:02:51.080><c> the</c><00:02:51.170><c> center</c><00:02:51.470><c> and</c><00:02:51.709><c> if</c><00:02:52.190><c> you</c><00:02:52.310><c> imagine</c>
+
+00:02:52.750 --> 00:02:52.760 align:start position:0%
+being in the center and if you imagine
+ 
+
+00:02:52.760 --> 00:02:54.520 align:start position:0%
+being in the center and if you imagine
+really<00:02:52.790><c> that</c><00:02:53.270><c> you</c><00:02:53.480><c> know</c><00:02:53.570><c> you</c><00:02:53.720><c> have</c><00:02:53.930><c> 300</c>
+
+00:02:54.520 --> 00:02:54.530 align:start position:0%
+really that you know you have 300
+ 
+
+00:02:54.530 --> 00:02:56.800 align:start position:0%
+really that you know you have 300
+million<00:02:54.830><c> census</c><00:02:55.520><c> records</c><00:02:55.940><c> stored</c><00:02:56.420><c> away</c><00:02:56.630><c> on</c>
+
+00:02:56.800 --> 00:02:56.810 align:start position:0%
+million census records stored away on
+ 
+
+00:02:56.810 --> 00:02:59.170 align:start position:0%
+million census records stored away on
+disk<00:02:57.140><c> the</c><00:02:57.830><c> way</c><00:02:57.950><c> those</c><00:02:58.160><c> album</c><00:02:58.459><c> works</c><00:02:58.670><c> is</c><00:02:58.970><c> you</c>
+
+00:02:59.170 --> 00:02:59.180 align:start position:0%
+disk the way those album works is you
+ 
+
+00:02:59.180 --> 00:03:01.660 align:start position:0%
+disk the way those album works is you
+will<00:02:59.300><c> need</c><00:02:59.510><c> to</c><00:02:59.750><c> read</c><00:03:00.350><c> into</c><00:03:00.560><c> your</c><00:03:01.280><c> computer</c>
+
+00:03:01.660 --> 00:03:01.670 align:start position:0%
+will need to read into your computer
+ 
+
+00:03:01.670 --> 00:03:04.090 align:start position:0%
+will need to read into your computer
+memory<00:03:02.030><c> all</c><00:03:02.239><c> 300</c><00:03:02.930><c> million</c><00:03:03.110><c> records</c><00:03:03.620><c> in</c><00:03:03.920><c> order</c>
+
+00:03:04.090 --> 00:03:04.100 align:start position:0%
+memory all 300 million records in order
+ 
+
+00:03:04.100 --> 00:03:06.100 align:start position:0%
+memory all 300 million records in order
+to<00:03:04.430><c> compute</c><00:03:04.730><c> this</c><00:03:04.940><c> derivative</c><00:03:05.120><c> term</c><00:03:05.540><c> you</c><00:03:05.900><c> need</c>
+
+00:03:06.100 --> 00:03:06.110 align:start position:0%
+to compute this derivative term you need
+ 
+
+00:03:06.110 --> 00:03:08.140 align:start position:0%
+to compute this derivative term you need
+to<00:03:06.290><c> stream</c><00:03:06.620><c> all</c><00:03:06.860><c> of</c><00:03:06.890><c> these</c><00:03:07.100><c> records</c><00:03:07.489><c> through</c>
+
+00:03:08.140 --> 00:03:08.150 align:start position:0%
+to stream all of these records through
+ 
+
+00:03:08.150 --> 00:03:10.060 align:start position:0%
+to stream all of these records through
+computer<00:03:08.660><c> because</c><00:03:09.200><c> you</c><00:03:09.290><c> can't</c><00:03:09.470><c> store</c><00:03:09.860><c> all</c>
+
+00:03:10.060 --> 00:03:10.070 align:start position:0%
+computer because you can't store all
+ 
+
+00:03:10.070 --> 00:03:11.590 align:start position:0%
+computer because you can't store all
+your<00:03:10.250><c> records</c><00:03:10.459><c> and</c><00:03:10.820><c> computer</c><00:03:11.150><c> memories</c><00:03:11.420><c> you</c>
+
+00:03:11.590 --> 00:03:11.600 align:start position:0%
+your records and computer memories you
+ 
+
+00:03:11.600 --> 00:03:13.570 align:start position:0%
+your records and computer memories you
+need<00:03:11.750><c> to</c><00:03:11.870><c> be</c><00:03:11.989><c> through</c><00:03:12.230><c> them</c><00:03:12.410><c> and</c><00:03:12.739><c> slowly</c><00:03:13.250><c> you</c>
+
+00:03:13.570 --> 00:03:13.580 align:start position:0%
+need to be through them and slowly you
+ 
+
+00:03:13.580 --> 00:03:15.250 align:start position:0%
+need to be through them and slowly you
+know<00:03:13.640><c> accumulate</c><00:03:14.360><c> the</c><00:03:14.540><c> sum</c><00:03:14.750><c> in</c><00:03:14.930><c> order</c><00:03:15.170><c> to</c>
+
+00:03:15.250 --> 00:03:15.260 align:start position:0%
+know accumulate the sum in order to
+ 
+
+00:03:15.260 --> 00:03:17.199 align:start position:0%
+know accumulate the sum in order to
+compute<00:03:15.500><c> the</c><00:03:15.620><c> derivative</c><00:03:15.650><c> and</c><00:03:16.400><c> then</c><00:03:17.000><c> having</c>
+
+00:03:17.199 --> 00:03:17.209 align:start position:0%
+compute the derivative and then having
+ 
+
+00:03:17.209 --> 00:03:19.690 align:start position:0%
+compute the derivative and then having
+done<00:03:17.300><c> all</c><00:03:17.660><c> that</c><00:03:17.870><c> work</c><00:03:18.080><c> that</c><00:03:18.890><c> allows</c><00:03:19.250><c> you</c><00:03:19.489><c> to</c>
+
+00:03:19.690 --> 00:03:19.700 align:start position:0%
+done all that work that allows you to
+ 
+
+00:03:19.700 --> 00:03:21.759 align:start position:0%
+done all that work that allows you to
+take<00:03:19.910><c> one</c><00:03:20.330><c> step</c><00:03:20.480><c> of</c><00:03:20.810><c> gradient</c><00:03:20.840><c> descent</c><00:03:21.440><c> and</c>
+
+00:03:21.759 --> 00:03:21.769 align:start position:0%
+take one step of gradient descent and
+ 
+
+00:03:21.769 --> 00:03:24.460 align:start position:0%
+take one step of gradient descent and
+now<00:03:22.700><c> you</c><00:03:22.760><c> need</c><00:03:23.330><c> to</c><00:03:23.510><c> do</c><00:03:23.750><c> the</c><00:03:23.870><c> whole</c><00:03:24.050><c> thing</c><00:03:24.080><c> again</c>
+
+00:03:24.460 --> 00:03:24.470 align:start position:0%
+now you need to do the whole thing again
+ 
+
+00:03:24.470 --> 00:03:26.440 align:start position:0%
+now you need to do the whole thing again
+you<00:03:24.709><c> know</c><00:03:24.800><c> scan</c><00:03:25.100><c> through</c><00:03:25.340><c> all</c><00:03:25.400><c> 300</c><00:03:26.269><c> million</c>
+
+00:03:26.440 --> 00:03:26.450 align:start position:0%
+you know scan through all 300 million
+ 
+
+00:03:26.450 --> 00:03:29.229 align:start position:0%
+you know scan through all 300 million
+records<00:03:26.930><c> accumulate</c><00:03:27.739><c> these</c><00:03:27.890><c> sums</c><00:03:28.220><c> and</c><00:03:28.489><c> having</c>
+
+00:03:29.229 --> 00:03:29.239 align:start position:0%
+records accumulate these sums and having
+ 
+
+00:03:29.239 --> 00:03:31.090 align:start position:0%
+records accumulate these sums and having
+done<00:03:29.360><c> all</c><00:03:29.480><c> that</c><00:03:29.660><c> work</c><00:03:29.870><c> you</c><00:03:30.410><c> can</c><00:03:30.590><c> take</c><00:03:30.709><c> another</c>
+
+00:03:31.090 --> 00:03:31.100 align:start position:0%
+done all that work you can take another
+ 
+
+00:03:31.100 --> 00:03:32.560 align:start position:0%
+done all that work you can take another
+little<00:03:31.430><c> step</c><00:03:31.580><c> using</c><00:03:31.820><c> getting</c><00:03:32.090><c> this</c><00:03:32.180><c> end</c><00:03:32.360><c> and</c>
+
+00:03:32.560 --> 00:03:32.570 align:start position:0%
+little step using getting this end and
+ 
+
+00:03:32.570 --> 00:03:34.990 align:start position:0%
+little step using getting this end and
+then<00:03:32.720><c> do</c><00:03:33.140><c> that</c><00:03:33.290><c> again</c><00:03:33.650><c> and</c><00:03:34.040><c> then</c><00:03:34.250><c> as</c><00:03:34.640><c> you</c><00:03:34.790><c> take</c>
+
+00:03:34.990 --> 00:03:35.000 align:start position:0%
+then do that again and then as you take
+ 
+
+00:03:35.000 --> 00:03:37.060 align:start position:0%
+then do that again and then as you take
+you<00:03:35.480><c> had</c><00:03:35.600><c> a</c><00:03:35.630><c> third</c><00:03:35.900><c> step</c><00:03:36.170><c> and</c><00:03:36.440><c> so</c><00:03:36.590><c> on</c><00:03:36.620><c> and</c><00:03:36.980><c> so</c>
+
+00:03:37.060 --> 00:03:37.070 align:start position:0%
+you had a third step and so on and so
+ 
+
+00:03:37.070 --> 00:03:39.190 align:start position:0%
+you had a third step and so on and so
+it's<00:03:37.220><c> gonna</c><00:03:37.340><c> take</c><00:03:37.489><c> a</c><00:03:37.549><c> long</c><00:03:37.820><c> time</c><00:03:37.850><c> in</c><00:03:38.420><c> order</c><00:03:38.720><c> to</c>
+
+00:03:39.190 --> 00:03:39.200 align:start position:0%
+it's gonna take a long time in order to
+ 
+
+00:03:39.200 --> 00:03:41.530 align:start position:0%
+it's gonna take a long time in order to
+get<00:03:39.380><c> the</c><00:03:39.500><c> Apple</c><00:03:39.799><c> to</c><00:03:39.860><c> converge</c><00:03:40.190><c> in</c><00:03:40.549><c> contrast</c><00:03:41.299><c> to</c>
+
+00:03:41.530 --> 00:03:41.540 align:start position:0%
+get the Apple to converge in contrast to
+ 
+
+00:03:41.540 --> 00:03:43.120 align:start position:0%
+get the Apple to converge in contrast to
+batch<00:03:41.750><c> gradient</c><00:03:42.019><c> descent</c><00:03:42.260><c> what</c><00:03:42.860><c> we're</c><00:03:42.980><c> going</c>
+
+00:03:43.120 --> 00:03:43.130 align:start position:0%
+batch gradient descent what we're going
+ 
+
+00:03:43.130 --> 00:03:44.949 align:start position:0%
+batch gradient descent what we're going
+to<00:03:43.190><c> do</c><00:03:43.400><c> is</c><00:03:43.700><c> come</c><00:03:44.030><c> up</c><00:03:44.060><c> with</c><00:03:44.209><c> a</c><00:03:44.540><c> different</c>
+
+00:03:44.949 --> 00:03:44.959 align:start position:0%
+to do is come up with a different
+ 
+
+00:03:44.959 --> 00:03:46.870 align:start position:0%
+to do is come up with a different
+algorithm<00:03:45.260><c> that</c><00:03:45.799><c> doesn't</c><00:03:46.250><c> need</c><00:03:46.340><c> to</c><00:03:46.489><c> look</c><00:03:46.640><c> at</c>
+
+00:03:46.870 --> 00:03:46.880 align:start position:0%
+algorithm that doesn't need to look at
+ 
+
+00:03:46.880 --> 00:03:49.090 align:start position:0%
+algorithm that doesn't need to look at
+all<00:03:47.060><c> of</c><00:03:47.120><c> the</c><00:03:47.450><c> training</c><00:03:47.810><c> examples</c><00:03:47.870><c> you</c><00:03:48.769><c> know</c><00:03:48.920><c> in</c>
+
+00:03:49.090 --> 00:03:49.100 align:start position:0%
+all of the training examples you know in
+ 
+
+00:03:49.100 --> 00:03:51.250 align:start position:0%
+all of the training examples you know in
+every<00:03:49.400><c> single</c><00:03:49.580><c> iteration</c><00:03:50.209><c> but</c><00:03:50.750><c> that</c><00:03:50.930><c> needs</c><00:03:51.140><c> to</c>
+
+00:03:51.250 --> 00:03:51.260 align:start position:0%
+every single iteration but that needs to
+ 
+
+00:03:51.260 --> 00:03:53.850 align:start position:0%
+every single iteration but that needs to
+look<00:03:51.290><c> at</c><00:03:51.530><c> only</c><00:03:51.709><c> a</c><00:03:51.860><c> single</c><00:03:52.310><c> training</c><00:03:52.790><c> example</c>
+
+00:03:53.850 --> 00:03:53.860 align:start position:0%
+look at only a single training example
+ 
+
+00:03:53.860 --> 00:03:55.950 align:start position:0%
+look at only a single training example
+one<00:03:53.980><c> iteration</c><00:03:54.520><c> before</c><00:03:55.270><c> moving</c><00:03:55.480><c> on</c><00:03:55.720><c> to</c><00:03:55.870><c> the</c>
+
+00:03:55.950 --> 00:03:55.960 align:start position:0%
+one iteration before moving on to the
+ 
+
+00:03:55.960 --> 00:03:57.780 align:start position:0%
+one iteration before moving on to the
+new<00:03:56.080><c> algorithm</c><00:03:56.380><c> here's</c><00:03:56.950><c> just</c><00:03:57.550><c> a</c><00:03:57.610><c> batch</c>
+
+00:03:57.780 --> 00:03:57.790 align:start position:0%
+new algorithm here's just a batch
+ 
+
+00:03:57.790 --> 00:03:59.520 align:start position:0%
+new algorithm here's just a batch
+gradient<00:03:58.060><c> descent</c><00:03:58.300><c> album</c><00:03:59.050><c> written</c><00:03:59.350><c> on</c><00:03:59.440><c> the</c>
+
+00:03:59.520 --> 00:03:59.530 align:start position:0%
+gradient descent album written on the
+ 
+
+00:03:59.530 --> 00:04:01.500 align:start position:0%
+gradient descent album written on the
+game<00:03:59.710><c> with</c><00:03:59.980><c> that</c><00:04:00.640><c> being</c><00:04:00.910><c> the</c><00:04:01.090><c> cost</c><00:04:01.330><c> function</c>
+
+00:04:01.500 --> 00:04:01.510 align:start position:0%
+game with that being the cost function
+ 
+
+00:04:01.510 --> 00:04:04.320 align:start position:0%
+game with that being the cost function
+and<00:04:02.050><c> that</c><00:04:02.260><c> being</c><00:04:02.470><c> the</c><00:04:02.530><c> update</c><00:04:02.980><c> and</c><00:04:03.250><c> of</c><00:04:04.030><c> course</c>
+
+00:04:04.320 --> 00:04:04.330 align:start position:0%
+and that being the update and of course
+ 
+
+00:04:04.330 --> 00:04:07.680 align:start position:0%
+and that being the update and of course
+this<00:04:04.900><c> term</c><00:04:05.290><c> here</c><00:04:05.730><c> that's</c><00:04:06.730><c> used</c><00:04:07.120><c> in</c><00:04:07.390><c> the</c>
+
+00:04:07.680 --> 00:04:07.690 align:start position:0%
+this term here that's used in the
+ 
+
+00:04:07.690 --> 00:04:09.840 align:start position:0%
+this term here that's used in the
+gradient<00:04:08.170><c> descent</c><00:04:08.260><c> rule</c><00:04:08.560><c> that</c><00:04:09.310><c> is</c><00:04:09.640><c> the</c>
+
+00:04:09.840 --> 00:04:09.850 align:start position:0%
+gradient descent rule that is the
+ 
+
+00:04:09.850 --> 00:04:12.180 align:start position:0%
+gradient descent rule that is the
+partial<00:04:10.090><c> derivative</c><00:04:10.470><c> with</c><00:04:11.470><c> respect</c><00:04:11.920><c> to</c><00:04:12.010><c> the</c>
+
+00:04:12.180 --> 00:04:12.190 align:start position:0%
+partial derivative with respect to the
+ 
+
+00:04:12.190 --> 00:04:15.090 align:start position:0%
+partial derivative with respect to the
+parameter<00:04:12.640><c> theta</c><00:04:12.820><c> J</c><00:04:13.000><c> of</c><00:04:13.450><c> our</c><00:04:14.110><c> optimization</c>
+
+00:04:15.090 --> 00:04:15.100 align:start position:0%
+parameter theta J of our optimization
+ 
+
+00:04:15.100 --> 00:04:18.780 align:start position:0%
+parameter theta J of our optimization
+objective<00:04:15.450><c> J</c><00:04:16.450><c> train</c><00:04:16.660><c> of</c><00:04:16.720><c> theta</c><00:04:17.430><c> now</c><00:04:18.430><c> let's</c>
+
+00:04:18.780 --> 00:04:18.790 align:start position:0%
+objective J train of theta now let's
+ 
+
+00:04:18.790 --> 00:04:20.670 align:start position:0%
+objective J train of theta now let's
+look<00:04:18.880><c> at</c><00:04:19.090><c> the</c><00:04:19.390><c> more</c><00:04:19.570><c> efficient</c><00:04:20.170><c> algorithm</c>
+
+00:04:20.670 --> 00:04:20.680 align:start position:0%
+look at the more efficient algorithm
+ 
+
+00:04:20.680 --> 00:04:23.580 align:start position:0%
+look at the more efficient algorithm
+that<00:04:20.829><c> scales</c><00:04:20.980><c> better</c><00:04:21.549><c> to</c><00:04:22.090><c> largely</c><00:04:22.570><c> assess</c><00:04:23.050><c> in</c>
+
+00:04:23.580 --> 00:04:23.590 align:start position:0%
+that scales better to largely assess in
+ 
+
+00:04:23.590 --> 00:04:25.290 align:start position:0%
+that scales better to largely assess in
+order<00:04:23.920><c> to</c><00:04:24.070><c> work</c><00:04:24.250><c> out</c><00:04:24.370><c> the</c><00:04:24.430><c> algorithms</c><00:04:24.940><c> cost</c>
+
+00:04:25.290 --> 00:04:25.300 align:start position:0%
+order to work out the algorithms cost
+ 
+
+00:04:25.300 --> 00:04:27.690 align:start position:0%
+order to work out the algorithms cost
+the<00:04:25.420><c> Casagrande</c><00:04:25.960><c> sent</c><00:04:26.350><c> this</c><00:04:26.890><c> write</c><00:04:27.400><c> out</c><00:04:27.580><c> the</c>
+
+00:04:27.690 --> 00:04:27.700 align:start position:0%
+the Casagrande sent this write out the
+ 
+
+00:04:27.700 --> 00:04:28.920 align:start position:0%
+the Casagrande sent this write out the
+cost<00:04:27.910><c> function</c><00:04:28.360><c> in</c><00:04:28.480><c> a</c><00:04:28.570><c> slightly</c><00:04:28.810><c> different</c>
+
+00:04:28.920 --> 00:04:28.930 align:start position:0%
+cost function in a slightly different
+ 
+
+00:04:28.930 --> 00:04:31.500 align:start position:0%
+cost function in a slightly different
+way<00:04:29.260><c> when</c><00:04:29.620><c> I</c><00:04:29.710><c> defined</c><00:04:30.100><c> the</c><00:04:30.340><c> cost</c><00:04:30.700><c> of</c><00:04:31.030><c> a</c>
+
+00:04:31.500 --> 00:04:31.510 align:start position:0%
+way when I defined the cost of a
+ 
+
+00:04:31.510 --> 00:04:33.900 align:start position:0%
+way when I defined the cost of a
+parameter<00:04:32.020><c> theta</c><00:04:32.260><c> with</c><00:04:33.220><c> respect</c><00:04:33.250><c> to</c><00:04:33.760><c> a</c>
+
+00:04:33.900 --> 00:04:33.910 align:start position:0%
+parameter theta with respect to a
+ 
+
+00:04:33.910 --> 00:04:37.409 align:start position:0%
+parameter theta with respect to a
+training<00:04:34.840><c> example</c><00:04:34.990><c> X</c><00:04:35.590><c> I</c><00:04:35.740><c> comma</c><00:04:36.010><c> Y</c><00:04:36.300><c> to</c><00:04:37.300><c> be</c><00:04:37.390><c> equal</c>
+
+00:04:37.409 --> 00:04:37.419 align:start position:0%
+training example X I comma Y to be equal
+ 
+
+00:04:37.419 --> 00:04:40.770 align:start position:0%
+training example X I comma Y to be equal
+to<00:04:37.930><c> 1/2</c><00:04:38.800><c> times</c><00:04:38.830><c> the</c><00:04:39.580><c> squared</c><00:04:39.910><c> error</c><00:04:40.180><c> that</c><00:04:40.540><c> my</c>
+
+00:04:40.770 --> 00:04:40.780 align:start position:0%
+to 1/2 times the squared error that my
+ 
+
+00:04:40.780 --> 00:04:43.440 align:start position:0%
+to 1/2 times the squared error that my
+hypothesis<00:04:41.470><c> incurs</c><00:04:42.130><c> on</c><00:04:42.370><c> that</c><00:04:42.550><c> example</c><00:04:42.880><c> exact</c>
+
+00:04:43.440 --> 00:04:43.450 align:start position:0%
+hypothesis incurs on that example exact
+ 
+
+00:04:43.450 --> 00:04:46.110 align:start position:0%
+hypothesis incurs on that example exact
+on<00:04:43.660><c> the</c><00:04:43.750><c> Y</c><00:04:43.930><c> I</c><00:04:43.960><c> so</c><00:04:44.410><c> this</c><00:04:45.160><c> cost</c><00:04:45.430><c> function</c><00:04:45.640><c> term</c>
+
+00:04:46.110 --> 00:04:46.120 align:start position:0%
+on the Y I so this cost function term
+ 
+
+00:04:46.120 --> 00:04:48.120 align:start position:0%
+on the Y I so this cost function term
+really<00:04:46.390><c> measures</c><00:04:46.810><c> how</c><00:04:47.350><c> well</c><00:04:47.620><c> is</c><00:04:47.890><c> my</c>
+
+00:04:48.120 --> 00:04:48.130 align:start position:0%
+really measures how well is my
+ 
+
+00:04:48.130 --> 00:04:51.420 align:start position:0%
+really measures how well is my
+hypothesis<00:04:48.910><c> doing</c><00:04:49.240><c> on</c><00:04:49.419><c> a</c><00:04:49.480><c> single</c><00:04:50.380><c> example</c><00:04:51.010><c> X</c><00:04:51.280><c> I</c>
+
+00:04:51.420 --> 00:04:51.430 align:start position:0%
+hypothesis doing on a single example X I
+ 
+
+00:04:51.430 --> 00:04:55.050 align:start position:0%
+hypothesis doing on a single example X I
+comma<00:04:51.730><c> Y</c><00:04:51.970><c> I</c><00:04:52.470><c> now</c><00:04:53.470><c> you</c><00:04:53.530><c> notice</c><00:04:54.100><c> that</c><00:04:54.460><c> the</c>
+
+00:04:55.050 --> 00:04:55.060 align:start position:0%
+comma Y I now you notice that the
+ 
+
+00:04:55.060 --> 00:04:58.469 align:start position:0%
+comma Y I now you notice that the
+overall<00:04:55.510><c> cost</c><00:04:56.169><c> function</c><00:04:56.740><c> J</c><00:04:57.040><c> train</c><00:04:57.400><c> can</c><00:04:58.150><c> now</c><00:04:58.300><c> be</c>
+
+00:04:58.469 --> 00:04:58.479 align:start position:0%
+overall cost function J train can now be
+ 
+
+00:04:58.479 --> 00:05:01.200 align:start position:0%
+overall cost function J train can now be
+written<00:04:58.960><c> in</c><00:04:59.320><c> this</c><00:04:59.890><c> equivalent</c><00:05:00.430><c> form</c><00:05:00.700><c> so</c><00:05:00.970><c> J</c>
+
+00:05:01.200 --> 00:05:01.210 align:start position:0%
+written in this equivalent form so J
+ 
+
+00:05:01.210 --> 00:05:04.140 align:start position:0%
+written in this equivalent form so J
+train<00:05:01.540><c> is</c><00:05:01.810><c> just</c><00:05:02.260><c> the</c><00:05:02.860><c> average</c><00:05:03.340><c> over</c><00:05:03.550><c> my</c><00:05:03.850><c> M</c>
+
+00:05:04.140 --> 00:05:04.150 align:start position:0%
+train is just the average over my M
+ 
+
+00:05:04.150 --> 00:05:06.840 align:start position:0%
+train is just the average over my M
+training<00:05:04.419><c> examples</c><00:05:04.510><c> of</c><00:05:05.290><c> the</c><00:05:05.740><c> cost</c><00:05:06.160><c> of</c><00:05:06.520><c> my</c>
+
+00:05:06.840 --> 00:05:06.850 align:start position:0%
+training examples of the cost of my
+ 
+
+00:05:06.850 --> 00:05:09.360 align:start position:0%
+training examples of the cost of my
+hypothesis<00:05:07.600><c> on</c><00:05:07.870><c> that</c><00:05:08.050><c> example</c><00:05:08.380><c> X</c><00:05:08.680><c> I</c><00:05:08.860><c> comma</c><00:05:09.130><c> Y</c>
+
+00:05:09.360 --> 00:05:09.370 align:start position:0%
+hypothesis on that example X I comma Y
+ 
+
+00:05:09.370 --> 00:05:11.969 align:start position:0%
+hypothesis on that example X I comma Y
+light<00:05:09.640><c> island</c><00:05:10.419><c> put</c><00:05:10.570><c> this</c><00:05:10.780><c> view</c><00:05:11.110><c> of</c><00:05:11.380><c> the</c><00:05:11.710><c> cost</c>
+
+00:05:11.969 --> 00:05:11.979 align:start position:0%
+light island put this view of the cost
+ 
+
+00:05:11.979 --> 00:05:14.070 align:start position:0%
+light island put this view of the cost
+function<00:05:12.190><c> for</c><00:05:12.669><c> linear</c><00:05:12.790><c> regression</c><00:05:12.990><c> let</c><00:05:13.990><c> me</c>
+
+00:05:14.070 --> 00:05:14.080 align:start position:0%
+function for linear regression let me
+ 
+
+00:05:14.080 --> 00:05:16.080 align:start position:0%
+function for linear regression let me
+now<00:05:14.200><c> write</c><00:05:14.440><c> out</c><00:05:14.710><c> what</c><00:05:15.130><c> stochastic</c><00:05:15.729><c> gradient</c>
+
+00:05:16.080 --> 00:05:16.090 align:start position:0%
+now write out what stochastic gradient
+ 
+
+00:05:16.090 --> 00:05:19.950 align:start position:0%
+now write out what stochastic gradient
+descent<00:05:16.450><c> does</c><00:05:18.210><c> the</c><00:05:19.210><c> first</c><00:05:19.479><c> step</c><00:05:19.750><c> of</c>
+
+00:05:19.950 --> 00:05:19.960 align:start position:0%
+descent does the first step of
+ 
+
+00:05:19.960 --> 00:05:22.590 align:start position:0%
+descent does the first step of
+stochastic<00:05:20.320><c> gradient</c><00:05:20.620><c> descent</c><00:05:20.890><c> is</c><00:05:21.600><c> to</c>
+
+00:05:22.590 --> 00:05:22.600 align:start position:0%
+stochastic gradient descent is to
+ 
+
+00:05:22.600 --> 00:05:27.330 align:start position:0%
+stochastic gradient descent is to
+randomly<00:05:23.169><c> shuffle</c><00:05:25.140><c> the</c><00:05:26.140><c> data</c><00:05:26.320><c> set</c><00:05:26.590><c> so</c><00:05:26.979><c> by</c><00:05:27.160><c> that</c>
+
+00:05:27.330 --> 00:05:27.340 align:start position:0%
+randomly shuffle the data set so by that
+ 
+
+00:05:27.340 --> 00:05:29.909 align:start position:0%
+randomly shuffle the data set so by that
+I<00:05:27.370><c> just</c><00:05:27.550><c> mean</c><00:05:27.790><c> randomly</c><00:05:28.780><c> shuffle</c><00:05:29.229><c> or</c><00:05:29.470><c> randomly</c>
+
+00:05:29.909 --> 00:05:29.919 align:start position:0%
+I just mean randomly shuffle or randomly
+ 
+
+00:05:29.919 --> 00:05:32.370 align:start position:0%
+I just mean randomly shuffle or randomly
+reorder<00:05:30.280><c> your</c><00:05:31.210><c> M</c><00:05:31.390><c> training</c><00:05:31.720><c> examples</c>
+
+00:05:32.370 --> 00:05:32.380 align:start position:0%
+reorder your M training examples
+ 
+
+00:05:32.380 --> 00:05:34.610 align:start position:0%
+reorder your M training examples
+sort<00:05:32.650><c> of</c><00:05:32.680><c> a</c><00:05:32.770><c> standard</c><00:05:32.979><c> pre-processing</c><00:05:33.850><c> step</c>
+
+00:05:34.610 --> 00:05:34.620 align:start position:0%
+sort of a standard pre-processing step
+ 
+
+00:05:34.620 --> 00:05:37.020 align:start position:0%
+sort of a standard pre-processing step
+come<00:05:35.620><c> back</c><00:05:35.860><c> to</c><00:05:36.040><c> this</c><00:05:36.160><c> in</c><00:05:36.370><c> a</c><00:05:36.430><c> minute</c>
+
+00:05:37.020 --> 00:05:37.030 align:start position:0%
+come back to this in a minute
+ 
+
+00:05:37.030 --> 00:05:39.870 align:start position:0%
+come back to this in a minute
+but<00:05:37.630><c> the</c><00:05:37.840><c> main</c><00:05:38.110><c> work</c><00:05:38.770><c> of</c><00:05:39.070><c> stochastic</c><00:05:39.580><c> gradient</c>
+
+00:05:39.870 --> 00:05:39.880 align:start position:0%
+but the main work of stochastic gradient
+ 
+
+00:05:39.880 --> 00:05:42.080 align:start position:0%
+but the main work of stochastic gradient
+descent<00:05:40.150><c> is</c><00:05:40.690><c> then</c><00:05:40.990><c> done</c><00:05:41.230><c> in</c><00:05:41.530><c> the</c><00:05:41.800><c> following</c>
+
+00:05:42.080 --> 00:05:42.090 align:start position:0%
+descent is then done in the following
+ 
+
+00:05:42.090 --> 00:05:46.560 align:start position:0%
+descent is then done in the following
+we're<00:05:43.090><c> going</c><00:05:43.270><c> to</c><00:05:43.390><c> repeat</c><00:05:44.460><c> for</c><00:05:45.460><c> I</c><00:05:45.490><c> equals</c><00:05:46.240><c> 1</c>
+
+00:05:46.560 --> 00:05:46.570 align:start position:0%
+we're going to repeat for I equals 1
+ 
+
+00:05:46.570 --> 00:05:49.200 align:start position:0%
+we're going to repeat for I equals 1
+through<00:05:46.840><c> m</c><00:05:47.320><c> so</c><00:05:47.770><c> repeatedly</c><00:05:48.370><c> scan</c><00:05:48.760><c> through</c><00:05:49.060><c> my</c>
+
+00:05:49.200 --> 00:05:49.210 align:start position:0%
+through m so repeatedly scan through my
+ 
+
+00:05:49.210 --> 00:05:52.230 align:start position:0%
+through m so repeatedly scan through my
+training<00:05:49.540><c> examples</c><00:05:49.990><c> and</c><00:05:51.090><c> perform</c><00:05:52.090><c> the</c>
+
+00:05:52.230 --> 00:05:52.240 align:start position:0%
+training examples and perform the
+ 
+
+00:05:52.240 --> 00:05:53.820 align:start position:0%
+training examples and perform the
+following<00:05:52.270><c> update</c><00:05:52.870><c> to</c><00:05:53.050><c> update</c><00:05:53.170><c> the</c><00:05:53.500><c> parameter</c>
+
+00:05:53.820 --> 00:05:53.830 align:start position:0%
+following update to update the parameter
+ 
+
+00:05:53.830 --> 00:05:58.560 align:start position:0%
+following update to update the parameter
+theta<00:05:53.980><c> J</c><00:05:54.160><c> as</c><00:05:54.580><c> theta</c><00:05:55.000><c> J</c><00:05:55.390><c> minus</c><00:05:56.250><c> alpha</c><00:05:57.250><c> times</c><00:05:57.790><c> H</c>
+
+00:05:58.560 --> 00:05:58.570 align:start position:0%
+theta J as theta J minus alpha times H
+ 
+
+00:05:58.570 --> 00:06:06.980 align:start position:0%
+theta J as theta J minus alpha times H
+of<00:05:59.050><c> X</c><00:05:59.560><c> I</c><00:06:00.300><c> minus</c><00:06:01.300><c> y</c><00:06:01.570><c> I</c><00:06:02.700><c> times</c><00:06:03.700><c> thanks</c><00:06:04.150><c> I</c><00:06:05.070><c> okay</c><00:06:06.070><c> and</c>
+
+00:06:06.980 --> 00:06:06.990 align:start position:0%
+of X I minus y I times thanks I okay and
+ 
+
+00:06:06.990 --> 00:06:10.110 align:start position:0%
+of X I minus y I times thanks I okay and
+we're<00:06:07.990><c> going</c><00:06:08.140><c> to</c><00:06:08.200><c> do</c><00:06:08.440><c> this</c><00:06:08.620><c> update</c><00:06:08.890><c> as</c><00:06:09.310><c> usual</c>
+
+00:06:10.110 --> 00:06:10.120 align:start position:0%
+we're going to do this update as usual
+ 
+
+00:06:10.120 --> 00:06:14.960 align:start position:0%
+we're going to do this update as usual
+for<00:06:10.420><c> all</c><00:06:10.660><c> values</c><00:06:11.410><c> of</c><00:06:11.490><c> J</c><00:06:12.660><c> now</c><00:06:13.660><c> you</c><00:06:14.230><c> notice</c><00:06:14.590><c> that</c>
+
+00:06:14.960 --> 00:06:14.970 align:start position:0%
+for all values of J now you notice that
+ 
+
+00:06:14.970 --> 00:06:21.510 align:start position:0%
+for all values of J now you notice that
+this<00:06:15.970><c> term</c><00:06:16.390><c> over</c><00:06:16.660><c> here</c><00:06:17.910><c> this</c><00:06:18.910><c> is</c><00:06:19.180><c> exactly</c><00:06:20.520><c> what</c>
+
+00:06:21.510 --> 00:06:21.520 align:start position:0%
+this term over here this is exactly what
+ 
+
+00:06:21.520 --> 00:06:23.670 align:start position:0%
+this term over here this is exactly what
+we<00:06:21.640><c> have</c><00:06:21.850><c> inside</c><00:06:22.330><c> the</c><00:06:22.570><c> summation</c><00:06:23.140><c> for</c><00:06:23.470><c> batch</c>
+
+00:06:23.670 --> 00:06:23.680 align:start position:0%
+we have inside the summation for batch
+ 
+
+00:06:23.680 --> 00:06:26.280 align:start position:0%
+we have inside the summation for batch
+gradient<00:06:24.010><c> descent</c><00:06:24.480><c> in</c><00:06:25.480><c> fact</c><00:06:25.810><c> but</c><00:06:26.020><c> they'll</c><00:06:26.140><c> see</c>
+
+00:06:26.280 --> 00:06:26.290 align:start position:0%
+gradient descent in fact but they'll see
+ 
+
+00:06:26.290 --> 00:06:27.750 align:start position:0%
+gradient descent in fact but they'll see
+you<00:06:26.350><c> there</c><00:06:26.500><c> are</c><00:06:26.620><c> familiar</c><00:06:27.040><c> of</c><00:06:27.070><c> calculus</c><00:06:27.610><c> as</c>
+
+00:06:27.750 --> 00:06:27.760 align:start position:0%
+you there are familiar of calculus as
+ 
+
+00:06:27.760 --> 00:06:30.000 align:start position:0%
+you there are familiar of calculus as
+possible<00:06:28.210><c> to</c><00:06:28.270><c> show</c><00:06:28.480><c> that</c><00:06:28.510><c> that</c><00:06:29.110><c> term</c><00:06:29.410><c> here</c><00:06:29.740><c> is</c>
+
+00:06:30.000 --> 00:06:30.010 align:start position:0%
+possible to show that that term here is
+ 
+
+00:06:30.010 --> 00:06:33.300 align:start position:0%
+possible to show that that term here is
+this<00:06:30.370><c> term</c><00:06:30.640><c> here</c><00:06:30.670><c> is</c><00:06:31.290><c> equal</c><00:06:32.290><c> to</c><00:06:32.350><c> the</c><00:06:33.040><c> partial</c>
+
+00:06:33.300 --> 00:06:33.310 align:start position:0%
+this term here is equal to the partial
+ 
+
+00:06:33.310 --> 00:06:36.060 align:start position:0%
+this term here is equal to the partial
+derivative<00:06:34.090><c> respect</c><00:06:34.420><c> my</c><00:06:35.320><c> parameter</c><00:06:35.770><c> theta</c><00:06:35.920><c> J</c>
+
+00:06:36.060 --> 00:06:36.070 align:start position:0%
+derivative respect my parameter theta J
+ 
+
+00:06:36.070 --> 00:06:41.250 align:start position:0%
+derivative respect my parameter theta J
+of<00:06:36.550><c> the</c><00:06:36.760><c> cost</c><00:06:37.090><c> of</c><00:06:37.980><c> the</c><00:06:38.980><c> parameters</c><00:06:39.400><c> theta</c><00:06:39.580><c> on</c><00:06:40.260><c> X</c>
+
+00:06:41.250 --> 00:06:41.260 align:start position:0%
+of the cost of the parameters theta on X
+ 
+
+00:06:41.260 --> 00:06:44.520 align:start position:0%
+of the cost of the parameters theta on X
+I<00:06:41.470><c> comma</c><00:06:41.860><c> Y</c><00:06:42.160><c> only</c><00:06:42.660><c> where</c><00:06:43.660><c> cost</c><00:06:43.960><c> is</c><00:06:44.140><c> of</c><00:06:44.320><c> course</c>
+
+00:06:44.520 --> 00:06:44.530 align:start position:0%
+I comma Y only where cost is of course
+ 
+
+00:06:44.530 --> 00:06:46.320 align:start position:0%
+I comma Y only where cost is of course
+this<00:06:45.130><c> thing</c><00:06:45.310><c> that</c><00:06:45.490><c> was</c><00:06:45.610><c> defined</c><00:06:46.000><c> previously</c>
+
+00:06:46.320 --> 00:06:46.330 align:start position:0%
+this thing that was defined previously
+ 
+
+00:06:46.330 --> 00:06:50.040 align:start position:0%
+this thing that was defined previously
+and<00:06:47.610><c> just</c><00:06:48.610><c> the</c><00:06:48.760><c> rap</c><00:06:48.970><c> of</c><00:06:49.000><c> the</c><00:06:49.240><c> algorithm</c><00:06:49.690><c> let</c><00:06:49.930><c> me</c>
+
+00:06:50.040 --> 00:06:50.050 align:start position:0%
+and just the rap of the algorithm let me
+ 
+
+00:06:50.050 --> 00:06:53.430 align:start position:0%
+and just the rap of the algorithm let me
+close<00:06:50.290><c> my</c><00:06:50.350><c> curly</c><00:06:50.620><c> braces</c><00:06:51.250><c> over</c><00:06:51.700><c> there</c><00:06:52.440><c> so</c>
+
+00:06:53.430 --> 00:06:53.440 align:start position:0%
+close my curly braces over there so
+ 
+
+00:06:53.440 --> 00:06:55.530 align:start position:0%
+close my curly braces over there so
+what's<00:06:54.160><c> the</c><00:06:54.340><c> cost</c><00:06:54.550><c> of</c><00:06:54.760><c> gradient</c><00:06:55.090><c> descent</c><00:06:55.150><c> is</c>
+
+00:06:55.530 --> 00:06:55.540 align:start position:0%
+what's the cost of gradient descent is
+ 
+
+00:06:55.540 --> 00:06:58.380 align:start position:0%
+what's the cost of gradient descent is
+doing<00:06:55.930><c> is</c><00:06:56.260><c> is</c><00:06:56.620><c> actually</c><00:06:56.980><c> scanning</c><00:06:57.910><c> through</c>
+
+00:06:58.380 --> 00:06:58.390 align:start position:0%
+doing is is actually scanning through
+ 
+
+00:06:58.390 --> 00:07:00.420 align:start position:0%
+doing is is actually scanning through
+the<00:06:58.510><c> training</c><00:06:58.840><c> examples</c><00:06:59.350><c> and</c><00:06:59.770><c> first</c><00:07:00.220><c> it's</c>
+
+00:07:00.420 --> 00:07:00.430 align:start position:0%
+the training examples and first it's
+ 
+
+00:07:00.430 --> 00:07:01.770 align:start position:0%
+the training examples and first it's
+going<00:07:00.580><c> to</c><00:07:00.640><c> look</c><00:07:00.820><c> at</c><00:07:00.970><c> my</c><00:07:01.270><c> first</c><00:07:01.510><c> training</c>
+
+00:07:01.770 --> 00:07:01.780 align:start position:0%
+going to look at my first training
+ 
+
+00:07:01.780 --> 00:07:05.340 align:start position:0%
+going to look at my first training
+example<00:07:01.870><c> x1</c><00:07:02.560><c> comma</c><00:07:02.980><c> y1</c><00:07:03.100><c> and</c><00:07:03.910><c> then</c><00:07:04.870><c> looking</c><00:07:05.080><c> at</c>
+
+00:07:05.340 --> 00:07:05.350 align:start position:0%
+example x1 comma y1 and then looking at
+ 
+
+00:07:05.350 --> 00:07:07.470 align:start position:0%
+example x1 comma y1 and then looking at
+only<00:07:05.590><c> this</c><00:07:06.040><c> first</c><00:07:06.280><c> example</c><00:07:06.640><c> is</c><00:07:07.000><c> going</c><00:07:07.090><c> to</c><00:07:07.300><c> take</c>
+
+00:07:07.470 --> 00:07:07.480 align:start position:0%
+only this first example is going to take
+ 
+
+00:07:07.480 --> 00:07:09.180 align:start position:0%
+only this first example is going to take
+like<00:07:07.660><c> they</c><00:07:07.960><c> see</c><00:07:08.020><c> a</c><00:07:08.140><c> little</c><00:07:08.350><c> gradient</c><00:07:08.890><c> descent</c>
+
+00:07:09.180 --> 00:07:09.190 align:start position:0%
+like they see a little gradient descent
+ 
+
+00:07:09.190 --> 00:07:12.360 align:start position:0%
+like they see a little gradient descent
+step<00:07:09.430><c> with</c><00:07:09.970><c> respect</c><00:07:10.330><c> to</c><00:07:10.600><c> the</c><00:07:11.080><c> cost</c><00:07:11.470><c> of</c><00:07:11.740><c> justice</c>
+
+00:07:12.360 --> 00:07:12.370 align:start position:0%
+step with respect to the cost of justice
+ 
+
+00:07:12.370 --> 00:07:14.070 align:start position:0%
+step with respect to the cost of justice
+first<00:07:12.640><c> training</c><00:07:13.000><c> example</c><00:07:13.120><c> so</c><00:07:13.660><c> in</c><00:07:13.750><c> other</c><00:07:13.870><c> words</c>
+
+00:07:14.070 --> 00:07:14.080 align:start position:0%
+first training example so in other words
+ 
+
+00:07:14.080 --> 00:07:15.630 align:start position:0%
+first training example so in other words
+it's<00:07:14.200><c> going</c><00:07:14.320><c> to</c><00:07:14.440><c> look</c><00:07:14.800><c> at</c><00:07:14.950><c> the</c><00:07:15.040><c> first</c><00:07:15.220><c> example</c>
+
+00:07:15.630 --> 00:07:15.640 align:start position:0%
+it's going to look at the first example
+ 
+
+00:07:15.640 --> 00:07:18.030 align:start position:0%
+it's going to look at the first example
+and<00:07:15.970><c> modify</c><00:07:16.900><c> the</c><00:07:16.960><c> parameters</c><00:07:17.290><c> a</c><00:07:17.560><c> little</c><00:07:17.860><c> bit</c>
+
+00:07:18.030 --> 00:07:18.040 align:start position:0%
+and modify the parameters a little bit
+ 
+
+00:07:18.040 --> 00:07:20.550 align:start position:0%
+and modify the parameters a little bit
+to<00:07:18.610><c> fit</c><00:07:18.910><c> just</c><00:07:19.300><c> the</c><00:07:19.420><c> first</c><00:07:19.660><c> training</c><00:07:19.960><c> example</c><00:07:20.140><c> a</c>
+
+00:07:20.550 --> 00:07:20.560 align:start position:0%
+to fit just the first training example a
+ 
+
+00:07:20.560 --> 00:07:22.610 align:start position:0%
+to fit just the first training example a
+little<00:07:20.680><c> bit</c><00:07:20.770><c> better</c><00:07:21.000><c> having</c><00:07:22.000><c> done</c><00:07:22.330><c> this</c>
+
+00:07:22.610 --> 00:07:22.620 align:start position:0%
+little bit better having done this
+ 
+
+00:07:22.620 --> 00:07:25.590 align:start position:0%
+little bit better having done this
+inside<00:07:23.620><c> this</c><00:07:23.860><c> in</c><00:07:24.070><c> the</c><00:07:24.160><c> for</c><00:07:24.400><c> loop</c><00:07:24.610><c> is</c><00:07:24.880><c> then</c>
+
+00:07:25.590 --> 00:07:25.600 align:start position:0%
+inside this in the for loop is then
+ 
+
+00:07:25.600 --> 00:07:27.720 align:start position:0%
+inside this in the for loop is then
+going<00:07:25.840><c> to</c><00:07:25.900><c> go</c><00:07:26.560><c> on</c><00:07:26.800><c> to</c><00:07:27.070><c> the</c><00:07:27.160><c> second</c><00:07:27.550><c> training</c>
+
+00:07:27.720 --> 00:07:27.730 align:start position:0%
+going to go on to the second training
+ 
+
+00:07:27.730 --> 00:07:28.470 align:start position:0%
+going to go on to the second training
+example
+
+00:07:28.470 --> 00:07:28.480 align:start position:0%
+example
+ 
+
+00:07:28.480 --> 00:07:31.890 align:start position:0%
+example
+and<00:07:28.600><c> what</c><00:07:29.500><c> is</c><00:07:29.590><c> going</c><00:07:29.800><c> to</c><00:07:29.860><c> do</c><00:07:30.070><c> there</c><00:07:30.370><c> is</c><00:07:30.900><c> take</c>
+
+00:07:31.890 --> 00:07:31.900 align:start position:0%
+and what is going to do there is take
+ 
+
+00:07:31.900 --> 00:07:33.690 align:start position:0%
+and what is going to do there is take
+another<00:07:32.230><c> little</c><00:07:32.500><c> step</c><00:07:32.830><c> in</c><00:07:32.980><c> parameter</c><00:07:33.520><c> space</c>
+
+00:07:33.690 --> 00:07:33.700 align:start position:0%
+another little step in parameter space
+ 
+
+00:07:33.700 --> 00:07:35.940 align:start position:0%
+another little step in parameter space
+so<00:07:33.940><c> modify</c><00:07:34.360><c> the</c><00:07:34.420><c> parameters</c><00:07:35.050><c> just</c><00:07:35.620><c> a</c><00:07:35.710><c> little</c>
+
+00:07:35.940 --> 00:07:35.950 align:start position:0%
+so modify the parameters just a little
+ 
+
+00:07:35.950 --> 00:07:37.980 align:start position:0%
+so modify the parameters just a little
+bit<00:07:36.100><c> to</c><00:07:36.580><c> try</c><00:07:36.730><c> to</c><00:07:36.820><c> fit</c><00:07:37.090><c> just</c><00:07:37.510><c> the</c><00:07:37.660><c> second</c>
+
+00:07:37.980 --> 00:07:37.990 align:start position:0%
+bit to try to fit just the second
+ 
+
+00:07:37.990 --> 00:07:39.300 align:start position:0%
+bit to try to fit just the second
+training<00:07:38.200><c> example</c><00:07:38.320><c> a</c><00:07:38.620><c> little</c><00:07:38.740><c> bit</c><00:07:38.860><c> better</c>
+
+00:07:39.300 --> 00:07:39.310 align:start position:0%
+training example a little bit better
+ 
+
+00:07:39.310 --> 00:07:42.300 align:start position:0%
+training example a little bit better
+having<00:07:40.000><c> done</c><00:07:40.150><c> that</c><00:07:40.210><c> is</c><00:07:40.750><c> then</c><00:07:41.650><c> going</c><00:07:41.860><c> to</c><00:07:41.950><c> go</c><00:07:42.190><c> on</c>
+
+00:07:42.300 --> 00:07:42.310 align:start position:0%
+having done that is then going to go on
+ 
+
+00:07:42.310 --> 00:07:46.680 align:start position:0%
+having done that is then going to go on
+to<00:07:42.520><c> my</c><00:07:42.670><c> third</c><00:07:42.700><c> training</c><00:07:43.450><c> example</c><00:07:43.930><c> and</c><00:07:45.690><c> modify</c>
+
+00:07:46.680 --> 00:07:46.690 align:start position:0%
+to my third training example and modify
+ 
+
+00:07:46.690 --> 00:07:48.630 align:start position:0%
+to my third training example and modify
+the<00:07:46.750><c> parameters</c><00:07:47.230><c> to</c><00:07:47.500><c> fit</c><00:07:47.530><c> to</c><00:07:47.980><c> try</c><00:07:48.130><c> to</c><00:07:48.190><c> fit</c><00:07:48.400><c> just</c>
+
+00:07:48.630 --> 00:07:48.640 align:start position:0%
+the parameters to fit to try to fit just
+ 
+
+00:07:48.640 --> 00:07:50.130 align:start position:0%
+the parameters to fit to try to fit just
+the<00:07:48.820><c> third</c><00:07:49.090><c> training</c><00:07:49.360><c> example</c><00:07:49.810><c> a</c><00:07:49.870><c> little</c><00:07:50.050><c> bit</c>
+
+00:07:50.130 --> 00:07:50.140 align:start position:0%
+the third training example a little bit
+ 
+
+00:07:50.140 --> 00:07:51.870 align:start position:0%
+the third training example a little bit
+better<00:07:50.290><c> and</c><00:07:50.710><c> so</c><00:07:51.490><c> on</c>
+
+00:07:51.870 --> 00:07:51.880 align:start position:0%
+better and so on
+ 
+
+00:07:51.880 --> 00:07:53.640 align:start position:0%
+better and so on
+until<00:07:52.240><c> you</c><00:07:52.660><c> get</c><00:07:52.960><c> through</c><00:07:53.170><c> the</c><00:07:53.350><c> entire</c>
+
+00:07:53.640 --> 00:07:53.650 align:start position:0%
+until you get through the entire
+ 
+
+00:07:53.650 --> 00:07:56.610 align:start position:0%
+until you get through the entire
+training<00:07:53.950><c> set</c><00:07:54.310><c> and</c><00:07:54.700><c> then</c><00:07:55.330><c> this</c><00:07:55.540><c> outer</c><00:07:55.810><c> repeat</c>
+
+00:07:56.610 --> 00:07:56.620 align:start position:0%
+training set and then this outer repeat
+ 
+
+00:07:56.620 --> 00:07:58.950 align:start position:0%
+training set and then this outer repeat
+loop<00:07:56.830><c> may</c><00:07:57.280><c> cause</c><00:07:57.910><c> it</c><00:07:58.090><c> to</c><00:07:58.120><c> take</c><00:07:58.450><c> multiple</c>
+
+00:07:58.950 --> 00:07:58.960 align:start position:0%
+loop may cause it to take multiple
+ 
+
+00:07:58.960 --> 00:08:01.290 align:start position:0%
+loop may cause it to take multiple
+passes<00:07:59.380><c> over</c><00:07:59.770><c> the</c><00:07:59.890><c> entire</c><00:08:00.160><c> training</c><00:08:00.430><c> set</c><00:08:00.730><c> this</c>
+
+00:08:01.290 --> 00:08:01.300 align:start position:0%
+passes over the entire training set this
+ 
+
+00:08:01.300 --> 00:08:03.510 align:start position:0%
+passes over the entire training set this
+view<00:08:01.600><c> of</c><00:08:01.840><c> stochastic</c><00:08:02.560><c> gradient</c><00:08:02.680><c> descent</c><00:08:02.950><c> also</c>
+
+00:08:03.510 --> 00:08:03.520 align:start position:0%
+view of stochastic gradient descent also
+ 
+
+00:08:03.520 --> 00:08:05.580 align:start position:0%
+view of stochastic gradient descent also
+motivates<00:08:04.270><c> why</c><00:08:04.480><c> we</c><00:08:04.720><c> wanted</c><00:08:05.020><c> to</c><00:08:05.080><c> start</c><00:08:05.530><c> by</c>
+
+00:08:05.580 --> 00:08:05.590 align:start position:0%
+motivates why we wanted to start by
+ 
+
+00:08:05.590 --> 00:08:07.800 align:start position:0%
+motivates why we wanted to start by
+randomly<00:08:06.160><c> shuffling</c><00:08:06.700><c> the</c><00:08:06.820><c> data</c><00:08:07.000><c> set</c><00:08:07.300><c> this</c>
+
+00:08:07.800 --> 00:08:07.810 align:start position:0%
+randomly shuffling the data set this
+ 
+
+00:08:07.810 --> 00:08:09.540 align:start position:0%
+randomly shuffling the data set this
+just<00:08:08.050><c> ensures</c><00:08:08.380><c> that</c><00:08:08.410><c> when</c><00:08:08.800><c> we</c><00:08:08.890><c> scan</c><00:08:09.190><c> through</c>
+
+00:08:09.540 --> 00:08:09.550 align:start position:0%
+just ensures that when we scan through
+ 
+
+00:08:09.550 --> 00:08:11.430 align:start position:0%
+just ensures that when we scan through
+the<00:08:09.790><c> training</c><00:08:10.150><c> set</c><00:08:10.330><c> here</c><00:08:10.630><c> that</c><00:08:11.020><c> we</c><00:08:11.140><c> end</c><00:08:11.290><c> up</c>
+
+00:08:11.430 --> 00:08:11.440 align:start position:0%
+the training set here that we end up
+ 
+
+00:08:11.440 --> 00:08:13.350 align:start position:0%
+the training set here that we end up
+visiting<00:08:11.680><c> the</c><00:08:12.130><c> training</c><00:08:12.460><c> examples</c><00:08:12.940><c> and</c><00:08:13.180><c> some</c>
+
+00:08:13.350 --> 00:08:13.360 align:start position:0%
+visiting the training examples and some
+ 
+
+00:08:13.360 --> 00:08:15.960 align:start position:0%
+visiting the training examples and some
+sort<00:08:13.600><c> of</c><00:08:13.660><c> randomly</c><00:08:14.260><c> sorted</c><00:08:14.500><c> order</c><00:08:14.970><c> depending</c>
+
+00:08:15.960 --> 00:08:15.970 align:start position:0%
+sort of randomly sorted order depending
+ 
+
+00:08:15.970 --> 00:08:17.490 align:start position:0%
+sort of randomly sorted order depending
+on<00:08:16.060><c> whether</c><00:08:16.210><c> your</c><00:08:16.390><c> data</c><00:08:16.630><c> already</c><00:08:17.170><c> came</c>
+
+00:08:17.490 --> 00:08:17.500 align:start position:0%
+on whether your data already came
+ 
+
+00:08:17.500 --> 00:08:19.290 align:start position:0%
+on whether your data already came
+randomly<00:08:17.980><c> sorted</c><00:08:18.190><c> or</c><00:08:18.670><c> whether</c><00:08:18.820><c> it</c><00:08:19.030><c> came</c>
+
+00:08:19.290 --> 00:08:19.300 align:start position:0%
+randomly sorted or whether it came
+ 
+
+00:08:19.300 --> 00:08:21.210 align:start position:0%
+randomly sorted or whether it came
+originally<00:08:19.600><c> sorted</c><00:08:20.230><c> in</c><00:08:20.350><c> some</c><00:08:20.590><c> strange</c><00:08:20.890><c> order</c>
+
+00:08:21.210 --> 00:08:21.220 align:start position:0%
+originally sorted in some strange order
+ 
+
+00:08:21.220 --> 00:08:23.850 align:start position:0%
+originally sorted in some strange order
+in<00:08:21.460><c> practice</c><00:08:22.120><c> this</c><00:08:22.330><c> would</c><00:08:22.540><c> just</c><00:08:22.780><c> speed</c><00:08:23.500><c> up</c><00:08:23.530><c> the</c>
+
+00:08:23.850 --> 00:08:23.860 align:start position:0%
+in practice this would just speed up the
+ 
+
+00:08:23.860 --> 00:08:25.350 align:start position:0%
+in practice this would just speed up the
+convergence<00:08:24.460><c> is</c><00:08:24.640><c> the</c><00:08:24.670><c> cost</c><00:08:24.970><c> of</c><00:08:25.120><c> gradient</c>
+
+00:08:25.350 --> 00:08:25.360 align:start position:0%
+convergence is the cost of gradient
+ 
+
+00:08:25.360 --> 00:08:26.760 align:start position:0%
+convergence is the cost of gradient
+descent<00:08:25.630><c> just</c><00:08:25.870><c> a</c><00:08:25.960><c> little</c><00:08:26.230><c> bit</c><00:08:26.380><c> so</c><00:08:26.590><c> in</c><00:08:26.680><c> the</c>
+
+00:08:26.760 --> 00:08:26.770 align:start position:0%
+descent just a little bit so in the
+ 
+
+00:08:26.770 --> 00:08:28.410 align:start position:0%
+descent just a little bit so in the
+interest<00:08:27.040><c> of</c><00:08:27.130><c> safety</c><00:08:27.400><c> is</c><00:08:27.670><c> usually</c><00:08:28.030><c> better</c><00:08:28.270><c> to</c>
+
+00:08:28.410 --> 00:08:28.420 align:start position:0%
+interest of safety is usually better to
+ 
+
+00:08:28.420 --> 00:08:30.450 align:start position:0%
+interest of safety is usually better to
+randomly<00:08:29.020><c> shuffle</c><00:08:29.260><c> the</c><00:08:29.500><c> data</c><00:08:29.620><c> set</c><00:08:29.950><c> if</c><00:08:30.340><c> you</c>
+
+00:08:30.450 --> 00:08:30.460 align:start position:0%
+randomly shuffle the data set if you
+ 
+
+00:08:30.460 --> 00:08:31.980 align:start position:0%
+randomly shuffle the data set if you
+aren't<00:08:30.700><c> sure</c><00:08:30.760><c> if</c><00:08:30.910><c> it</c><00:08:31.270><c> came</c><00:08:31.450><c> to</c><00:08:31.630><c> you</c><00:08:31.750><c> in</c><00:08:31.930><c> the</c>
+
+00:08:31.980 --> 00:08:31.990 align:start position:0%
+aren't sure if it came to you in the
+ 
+
+00:08:31.990 --> 00:08:34.230 align:start position:0%
+aren't sure if it came to you in the
+randomly<00:08:32.380><c> sorted</c><00:08:32.710><c> order</c><00:08:33.010><c> or</c><00:08:33.280><c> not</c><00:08:33.370><c> but</c><00:08:34.030><c> more</c>
+
+00:08:34.230 --> 00:08:34.240 align:start position:0%
+randomly sorted order or not but more
+ 
+
+00:08:34.240 --> 00:08:36.240 align:start position:0%
+randomly sorted order or not but more
+importantly<00:08:34.750><c> another</c><00:08:35.350><c> view</c><00:08:35.710><c> of</c><00:08:35.740><c> stochastic</c>
+
+00:08:36.240 --> 00:08:36.250 align:start position:0%
+importantly another view of stochastic
+ 
+
+00:08:36.250 --> 00:08:38.430 align:start position:0%
+importantly another view of stochastic
+you<00:08:36.580><c> in</c><00:08:36.640><c> descent</c><00:08:36.970><c> is</c><00:08:37.180><c> that</c><00:08:37.330><c> is</c><00:08:37.810><c> a</c><00:08:37.990><c> lot</c><00:08:38.260><c> like</c>
+
+00:08:38.430 --> 00:08:38.440 align:start position:0%
+you in descent is that is a lot like
+ 
+
+00:08:38.440 --> 00:08:40.920 align:start position:0%
+you in descent is that is a lot like
+batch<00:08:38.650><c> gradient</c><00:08:38.950><c> descent</c><00:08:39.330><c> they</c><00:08:40.330><c> rather</c><00:08:40.630><c> than</c>
+
+00:08:40.920 --> 00:08:40.930 align:start position:0%
+batch gradient descent they rather than
+ 
+
+00:08:40.930 --> 00:08:43.560 align:start position:0%
+batch gradient descent they rather than
+waiting<00:08:41.620><c> to</c><00:08:41.920><c> sum</c><00:08:42.310><c> up</c><00:08:42.490><c> these</c><00:08:42.670><c> gradient</c><00:08:43.270><c> terms</c>
+
+00:08:43.560 --> 00:08:43.570 align:start position:0%
+waiting to sum up these gradient terms
+ 
+
+00:08:43.570 --> 00:08:46.050 align:start position:0%
+waiting to sum up these gradient terms
+over<00:08:44.050><c> all</c><00:08:44.200><c> every</c><00:08:44.620><c> training</c><00:08:44.950><c> examples</c><00:08:45.460><c> what</c>
+
+00:08:46.050 --> 00:08:46.060 align:start position:0%
+over all every training examples what
+ 
+
+00:08:46.060 --> 00:08:47.880 align:start position:0%
+over all every training examples what
+we're<00:08:46.180><c> doing</c><00:08:46.480><c> is</c><00:08:46.690><c> we're</c><00:08:46.840><c> taking</c><00:08:46.890><c> this</c>
+
+00:08:47.880 --> 00:08:47.890 align:start position:0%
+we're doing is we're taking this
+ 
+
+00:08:47.890 --> 00:08:49.710 align:start position:0%
+we're doing is we're taking this
+gradient<00:08:48.250><c> term</c><00:08:48.490><c> using</c><00:08:48.910><c> just</c><00:08:49.090><c> one</c><00:08:49.360><c> single</c>
+
+00:08:49.710 --> 00:08:49.720 align:start position:0%
+gradient term using just one single
+ 
+
+00:08:49.720 --> 00:08:51.510 align:start position:0%
+gradient term using just one single
+training<00:08:50.110><c> example</c><00:08:50.230><c> and</c><00:08:50.770><c> we're</c><00:08:50.980><c> starting</c><00:08:51.370><c> to</c>
+
+00:08:51.510 --> 00:08:51.520 align:start position:0%
+training example and we're starting to
+ 
+
+00:08:51.520 --> 00:08:53.640 align:start position:0%
+training example and we're starting to
+make<00:08:51.640><c> progress</c><00:08:51.970><c> in</c><00:08:52.480><c> improving</c><00:08:53.410><c> the</c>
+
+00:08:53.640 --> 00:08:53.650 align:start position:0%
+make progress in improving the
+ 
+
+00:08:53.650 --> 00:08:55.650 align:start position:0%
+make progress in improving the
+parameters<00:08:54.130><c> already</c><00:08:54.310><c> so</c><00:08:54.760><c> rather</c><00:08:54.940><c> than</c><00:08:55.210><c> you</c>
+
+00:08:55.650 --> 00:08:55.660 align:start position:0%
+parameters already so rather than you
+ 
+
+00:08:55.660 --> 00:08:57.690 align:start position:0%
+parameters already so rather than you
+know<00:08:55.690><c> waiting</c><00:08:55.990><c> till</c><00:08:56.530><c> we've</c><00:08:56.770><c> taken</c><00:08:57.280><c> apart</c>
+
+00:08:57.690 --> 00:08:57.700 align:start position:0%
+know waiting till we've taken apart
+ 
+
+00:08:57.700 --> 00:09:01.830 align:start position:0%
+know waiting till we've taken apart
+through<00:08:58.120><c> all</c><00:08:58.890><c> 300,000</c><00:09:00.210><c> united</c><00:09:01.210><c> states</c><00:09:01.420><c> census</c>
+
+00:09:01.830 --> 00:09:01.840 align:start position:0%
+through all 300,000 united states census
+ 
+
+00:09:01.840 --> 00:09:03.810 align:start position:0%
+through all 300,000 united states census
+records<00:09:02.230><c> say</c><00:09:02.470><c> rather</c><00:09:02.800><c> than</c><00:09:02.980><c> needing</c><00:09:03.370><c> to</c><00:09:03.400><c> scan</c>
+
+00:09:03.810 --> 00:09:03.820 align:start position:0%
+records say rather than needing to scan
+ 
+
+00:09:03.820 --> 00:09:05.340 align:start position:0%
+records say rather than needing to scan
+through<00:09:04.090><c> all</c><00:09:04.210><c> of</c><00:09:04.300><c> the</c><00:09:04.570><c> training</c><00:09:04.750><c> examples</c>
+
+00:09:05.340 --> 00:09:05.350 align:start position:0%
+through all of the training examples
+ 
+
+00:09:05.350 --> 00:09:07.440 align:start position:0%
+through all of the training examples
+before<00:09:05.770><c> we</c><00:09:05.890><c> can</c><00:09:06.070><c> modify</c><00:09:06.670><c> the</c><00:09:06.850><c> parameters</c><00:09:07.420><c> a</c>
+
+00:09:07.440 --> 00:09:07.450 align:start position:0%
+before we can modify the parameters a
+ 
+
+00:09:07.450 --> 00:09:09.210 align:start position:0%
+before we can modify the parameters a
+little<00:09:07.570><c> bit</c><00:09:07.900><c> and</c><00:09:08.110><c> make</c><00:09:08.260><c> progress</c><00:09:08.530><c> towards</c><00:09:09.160><c> a</c>
+
+00:09:09.210 --> 00:09:09.220 align:start position:0%
+little bit and make progress towards a
+ 
+
+00:09:09.220 --> 00:09:11.550 align:start position:0%
+little bit and make progress towards a
+global<00:09:09.340><c> minimum</c><00:09:09.930><c> for</c><00:09:10.930><c> stochastic</c><00:09:11.260><c> gradient</c>
+
+00:09:11.550 --> 00:09:11.560 align:start position:0%
+global minimum for stochastic gradient
+ 
+
+00:09:11.560 --> 00:09:13.740 align:start position:0%
+global minimum for stochastic gradient
+descent<00:09:11.830><c> instead</c><00:09:12.580><c> we</c><00:09:12.820><c> just</c><00:09:13.060><c> need</c><00:09:13.180><c> to</c><00:09:13.330><c> look</c><00:09:13.510><c> at</c>
+
+00:09:13.740 --> 00:09:13.750 align:start position:0%
+descent instead we just need to look at
+ 
+
+00:09:13.750 --> 00:09:15.780 align:start position:0%
+descent instead we just need to look at
+a<00:09:13.930><c> single</c><00:09:14.320><c> training</c><00:09:14.590><c> example</c><00:09:14.710><c> and</c><00:09:15.220><c> we'll</c>
+
+00:09:15.780 --> 00:09:15.790 align:start position:0%
+a single training example and we'll
+ 
+
+00:09:15.790 --> 00:09:17.670 align:start position:0%
+a single training example and we'll
+already<00:09:15.970><c> start</c><00:09:16.570><c> making</c><00:09:16.870><c> progress</c><00:09:17.110><c> in</c><00:09:17.560><c> the</c>
+
+00:09:17.670 --> 00:09:17.680 align:start position:0%
+already start making progress in the
+ 
+
+00:09:17.680 --> 00:09:20.460 align:start position:0%
+already start making progress in the
+space<00:09:17.890><c> of</c><00:09:17.920><c> parameters</c><00:09:18.640><c> to</c><00:09:18.850><c> of</c><00:09:19.510><c> moving</c><00:09:20.350><c> the</c>
+
+00:09:20.460 --> 00:09:20.470 align:start position:0%
+space of parameters to of moving the
+ 
+
+00:09:20.470 --> 00:09:22.350 align:start position:0%
+space of parameters to of moving the
+parameters<00:09:20.920><c> to</c><00:09:21.100><c> us</c><00:09:21.220><c> the</c><00:09:21.340><c> global</c><00:09:21.490><c> minima</c>
+
+00:09:22.350 --> 00:09:22.360 align:start position:0%
+parameters to us the global minima
+ 
+
+00:09:22.360 --> 00:09:24.730 align:start position:0%
+parameters to us the global minima
+so<00:09:23.360><c> here's</c><00:09:23.720><c> the</c><00:09:23.839><c> algorithm</c><00:09:24.079><c> written</c><00:09:24.440><c> I'll</c>
+
+00:09:24.730 --> 00:09:24.740 align:start position:0%
+so here's the algorithm written I'll
+ 
+
+00:09:24.740 --> 00:09:26.139 align:start position:0%
+so here's the algorithm written I'll
+begin<00:09:24.889><c> where</c><00:09:25.250><c> the</c><00:09:25.339><c> first</c><00:09:25.550><c> step</c><00:09:25.819><c> is</c><00:09:26.029><c> the</c>
+
+00:09:26.139 --> 00:09:26.149 align:start position:0%
+begin where the first step is the
+ 
+
+00:09:26.149 --> 00:09:28.300 align:start position:0%
+begin where the first step is the
+randomly<00:09:26.600><c> shuffle</c><00:09:26.899><c> the</c><00:09:26.990><c> data</c><00:09:27.170><c> and</c><00:09:27.620><c> the</c><00:09:27.980><c> second</c>
+
+00:09:28.300 --> 00:09:28.310 align:start position:0%
+randomly shuffle the data and the second
+ 
+
+00:09:28.310 --> 00:09:29.499 align:start position:0%
+randomly shuffle the data and the second
+step<00:09:28.490><c> is</c><00:09:28.699><c> where</c><00:09:28.879><c> the</c><00:09:28.970><c> real</c><00:09:29.120><c> work</c><00:09:29.300><c> is</c><00:09:29.480><c> done</c>
+
+00:09:29.499 --> 00:09:29.509 align:start position:0%
+step is where the real work is done
+ 
+
+00:09:29.509 --> 00:09:31.900 align:start position:0%
+step is where the real work is done
+where<00:09:30.110><c> that's</c><00:09:30.379><c> the</c><00:09:30.589><c> update</c><00:09:30.769><c> with</c><00:09:31.399><c> respect</c><00:09:31.790><c> to</c>
+
+00:09:31.900 --> 00:09:31.910 align:start position:0%
+where that's the update with respect to
+ 
+
+00:09:31.910 --> 00:09:34.269 align:start position:0%
+where that's the update with respect to
+a<00:09:31.970><c> single</c><00:09:32.180><c> training</c><00:09:32.420><c> example</c><00:09:32.750><c> X</c><00:09:33.350><c> I</c><00:09:33.529><c> comma</c><00:09:33.920><c> Y</c><00:09:34.220><c> I</c>
+
+00:09:34.269 --> 00:09:34.279 align:start position:0%
+a single training example X I comma Y I
+ 
+
+00:09:34.279 --> 00:09:39.160 align:start position:0%
+a single training example X I comma Y I
+so<00:09:34.930><c> let's</c><00:09:35.930><c> see</c><00:09:37.300><c> what</c><00:09:38.300><c> this</c><00:09:38.600><c> algorithm</c><00:09:38.930><c> does</c>
+
+00:09:39.160 --> 00:09:39.170 align:start position:0%
+so let's see what this algorithm does
+ 
+
+00:09:39.170 --> 00:09:41.679 align:start position:0%
+so let's see what this algorithm does
+the<00:09:39.620><c> parameters</c><00:09:40.180><c> previously</c><00:09:41.180><c> we</c><00:09:41.329><c> saw</c><00:09:41.509><c> that</c>
+
+00:09:41.679 --> 00:09:41.689 align:start position:0%
+the parameters previously we saw that
+ 
+
+00:09:41.689 --> 00:09:43.179 align:start position:0%
+the parameters previously we saw that
+when<00:09:41.899><c> we're</c><00:09:42.050><c> using</c><00:09:42.199><c> batch</c><00:09:42.649><c> gradient</c><00:09:42.920><c> descent</c>
+
+00:09:43.179 --> 00:09:43.189 align:start position:0%
+when we're using batch gradient descent
+ 
+
+00:09:43.189 --> 00:09:45.069 align:start position:0%
+when we're using batch gradient descent
+that<00:09:43.639><c> is</c><00:09:43.970><c> the</c><00:09:44.120><c> algorithm</c><00:09:44.360><c> that</c><00:09:44.600><c> looks</c><00:09:44.660><c> at</c><00:09:44.870><c> all</c>
+
+00:09:45.069 --> 00:09:45.079 align:start position:0%
+that is the algorithm that looks at all
+ 
+
+00:09:45.079 --> 00:09:46.809 align:start position:0%
+that is the algorithm that looks at all
+the<00:09:45.230><c> training</c><00:09:45.529><c> examples</c><00:09:45.560><c> of</c><00:09:45.949><c> the</c><00:09:46.009><c> time</c><00:09:46.220><c> factor</c>
+
+00:09:46.809 --> 00:09:46.819 align:start position:0%
+the training examples of the time factor
+ 
+
+00:09:46.819 --> 00:09:48.850 align:start position:0%
+the training examples of the time factor
+in<00:09:47.060><c> descent</c><00:09:47.449><c> would</c><00:09:47.600><c> tend</c><00:09:47.870><c> to</c><00:09:47.930><c> you</c><00:09:48.529><c> know</c><00:09:48.589><c> take</c><00:09:48.800><c> a</c>
+
+00:09:48.850 --> 00:09:48.860 align:start position:0%
+in descent would tend to you know take a
+ 
+
+00:09:48.860 --> 00:09:51.910 align:start position:0%
+in descent would tend to you know take a
+reasonably<00:09:49.550><c> straight</c><00:09:50.329><c> line</c><00:09:50.569><c> trajectory</c><00:09:51.259><c> to</c>
+
+00:09:51.910 --> 00:09:51.920 align:start position:0%
+reasonably straight line trajectory to
+ 
+
+00:09:51.920 --> 00:09:54.759 align:start position:0%
+reasonably straight line trajectory to
+get<00:09:52.129><c> to</c><00:09:52.370><c> the</c><00:09:52.790><c> global</c><00:09:52.939><c> minimum</c><00:09:53.269><c> like</c><00:09:53.660><c> that</c><00:09:53.870><c> in</c>
+
+00:09:54.759 --> 00:09:54.769 align:start position:0%
+get to the global minimum like that in
+ 
+
+00:09:54.769 --> 00:09:57.160 align:start position:0%
+get to the global minimum like that in
+contrast<00:09:55.480><c> with</c><00:09:56.480><c> stochastic</c><00:09:56.839><c> gradient</c>
+
+00:09:57.160 --> 00:09:57.170 align:start position:0%
+contrast with stochastic gradient
+ 
+
+00:09:57.170 --> 00:09:59.499 align:start position:0%
+contrast with stochastic gradient
+descent<00:09:57.439><c> every</c><00:09:58.250><c> innovation</c><00:09:58.699><c> is</c><00:09:59.089><c> going</c><00:09:59.180><c> to</c><00:09:59.420><c> be</c>
+
+00:09:59.499 --> 00:09:59.509 align:start position:0%
+descent every innovation is going to be
+ 
+
+00:09:59.509 --> 00:10:01.240 align:start position:0%
+descent every innovation is going to be
+much<00:09:59.689><c> faster</c><00:09:59.930><c> because</c><00:10:00.350><c> we</c><00:10:00.620><c> don't</c><00:10:00.769><c> need</c><00:10:00.860><c> to</c><00:10:01.009><c> sum</c>
+
+00:10:01.240 --> 00:10:01.250 align:start position:0%
+much faster because we don't need to sum
+ 
+
+00:10:01.250 --> 00:10:02.559 align:start position:0%
+much faster because we don't need to sum
+up<00:10:01.370><c> over</c><00:10:01.519><c> all</c><00:10:01.670><c> the</c><00:10:01.790><c> trainings</c><00:10:02.269><c> of</c><00:10:02.420><c> the</c>
+
+00:10:02.559 --> 00:10:02.569 align:start position:0%
+up over all the trainings of the
+ 
+
+00:10:02.569 --> 00:10:05.019 align:start position:0%
+up over all the trainings of the
+examples<00:10:03.019><c> but</c><00:10:03.560><c> every</c><00:10:03.860><c> innovation</c><00:10:04.399><c> is</c><00:10:04.699><c> just</c>
+
+00:10:05.019 --> 00:10:05.029 align:start position:0%
+examples but every innovation is just
+ 
+
+00:10:05.029 --> 00:10:06.429 align:start position:0%
+examples but every innovation is just
+trying<00:10:05.300><c> to</c><00:10:05.449><c> fit</c><00:10:05.660><c> a</c><00:10:05.689><c> single</c><00:10:06.079><c> training</c><00:10:06.319><c> example</c>
+
+00:10:06.429 --> 00:10:06.439 align:start position:0%
+trying to fit a single training example
+ 
+
+00:10:06.439 --> 00:10:09.970 align:start position:0%
+trying to fit a single training example
+better<00:10:07.009><c> so</c><00:10:07.879><c> if</c><00:10:08.269><c> we</c><00:10:08.569><c> were</c><00:10:08.779><c> to</c><00:10:09.079><c> start</c><00:10:09.350><c> stochastic</c>
+
+00:10:09.970 --> 00:10:09.980 align:start position:0%
+better so if we were to start stochastic
+ 
+
+00:10:09.980 --> 00:10:10.660 align:start position:0%
+better so if we were to start stochastic
+gradient<00:10:10.069><c> descent</c>
+
+00:10:10.660 --> 00:10:10.670 align:start position:0%
+gradient descent
+ 
+
+00:10:10.670 --> 00:10:12.220 align:start position:0%
+gradient descent
+oh<00:10:10.730><c> let's</c><00:10:11.060><c> pass</c><00:10:11.269><c> the</c><00:10:11.420><c> cross</c><00:10:11.600><c> between</c><00:10:11.750><c> descend</c>
+
+00:10:12.220 --> 00:10:12.230 align:start position:0%
+oh let's pass the cross between descend
+ 
+
+00:10:12.230 --> 00:10:15.460 align:start position:0%
+oh let's pass the cross between descend
+at<00:10:12.620><c> a</c><00:10:12.649><c> point</c><00:10:12.829><c> like</c><00:10:13.100><c> that</c><00:10:13.839><c> the</c><00:10:14.839><c> first</c><00:10:15.079><c> iteration</c>
+
+00:10:15.460 --> 00:10:15.470 align:start position:0%
+at a point like that the first iteration
+ 
+
+00:10:15.470 --> 00:10:18.100 align:start position:0%
+at a point like that the first iteration
+you<00:10:16.069><c> know</c><00:10:16.189><c> may</c><00:10:16.579><c> take</c><00:10:16.879><c> the</c><00:10:17.060><c> parameters</c><00:10:17.629><c> in</c><00:10:17.899><c> that</c>
+
+00:10:18.100 --> 00:10:18.110 align:start position:0%
+you know may take the parameters in that
+ 
+
+00:10:18.110 --> 00:10:20.710 align:start position:0%
+you know may take the parameters in that
+direction<00:10:18.290><c> and</c><00:10:18.889><c> maybe</c><00:10:19.639><c> the</c><00:10:20.089><c> second</c><00:10:20.420><c> iteration</c>
+
+00:10:20.710 --> 00:10:20.720 align:start position:0%
+direction and maybe the second iteration
+ 
+
+00:10:20.720 --> 00:10:22.900 align:start position:0%
+direction and maybe the second iteration
+looking<00:10:21.379><c> at</c><00:10:21.470><c> just</c><00:10:21.709><c> a</c><00:10:21.800><c> second</c><00:10:22.069><c> example</c><00:10:22.399><c> may</c><00:10:22.879><c> be</c>
+
+00:10:22.900 --> 00:10:22.910 align:start position:0%
+looking at just a second example may be
+ 
+
+00:10:22.910 --> 00:10:24.490 align:start position:0%
+looking at just a second example may be
+just<00:10:23.240><c> by</c><00:10:23.360><c> chance</c><00:10:23.660><c> we</c><00:10:23.839><c> get</c><00:10:23.959><c> a</c><00:10:24.019><c> little</c><00:10:24.259><c> unlucky</c>
+
+00:10:24.490 --> 00:10:24.500 align:start position:0%
+just by chance we get a little unlucky
+ 
+
+00:10:24.500 --> 00:10:27.189 align:start position:0%
+just by chance we get a little unlucky
+and<00:10:24.889><c> actually</c><00:10:25.279><c> head</c><00:10:25.850><c> in</c><00:10:26.060><c> a</c><00:10:26.149><c> bad</c><00:10:26.420><c> direction</c><00:10:26.630><c> and</c>
+
+00:10:27.189 --> 00:10:27.199 align:start position:0%
+and actually head in a bad direction and
+ 
+
+00:10:27.199 --> 00:10:29.050 align:start position:0%
+and actually head in a bad direction and
+with<00:10:27.319><c> two</c><00:10:27.410><c> prongs</c><00:10:27.649><c> like</c><00:10:27.740><c> that</c><00:10:28.009><c> in</c><00:10:28.759><c> the</c><00:10:28.880><c> third</c>
+
+00:10:29.050 --> 00:10:29.060 align:start position:0%
+with two prongs like that in the third
+ 
+
+00:10:29.060 --> 00:10:31.059 align:start position:0%
+with two prongs like that in the third
+iteration<00:10:29.449><c> where</c><00:10:29.930><c> we</c><00:10:30.019><c> try</c><00:10:30.230><c> to</c><00:10:30.259><c> modify</c><00:10:31.009><c> the</c>
+
+00:10:31.059 --> 00:10:31.069 align:start position:0%
+iteration where we try to modify the
+ 
+
+00:10:31.069 --> 00:10:32.530 align:start position:0%
+iteration where we try to modify the
+parameters<00:10:31.310><c> to</c><00:10:31.819><c> fit</c><00:10:31.850><c> just</c><00:10:32.240><c> the</c><00:10:32.329><c> third</c>
+
+00:10:32.530 --> 00:10:32.540 align:start position:0%
+parameters to fit just the third
+ 
+
+00:10:32.540 --> 00:10:34.420 align:start position:0%
+parameters to fit just the third
+training<00:10:32.779><c> examples</c><00:10:33.290><c> better</c><00:10:33.649><c> maybe</c><00:10:34.220><c> we'll</c><00:10:34.399><c> end</c>
+
+00:10:34.420 --> 00:10:34.430 align:start position:0%
+training examples better maybe we'll end
+ 
+
+00:10:34.430 --> 00:10:36.639 align:start position:0%
+training examples better maybe we'll end
+up<00:10:34.610><c> heading</c><00:10:34.759><c> in</c><00:10:34.939><c> that</c><00:10:34.970><c> direction</c><00:10:35.120><c> and</c><00:10:35.899><c> then</c><00:10:36.529><c> we</c>
+
+00:10:36.639 --> 00:10:36.649 align:start position:0%
+up heading in that direction and then we
+ 
+
+00:10:36.649 --> 00:10:37.960 align:start position:0%
+up heading in that direction and then we
+look<00:10:36.829><c> at</c><00:10:36.920><c> the</c><00:10:36.980><c> fourth</c><00:10:37.220><c> training</c><00:10:37.490><c> example</c><00:10:37.880><c> and</c>
+
+00:10:37.960 --> 00:10:37.970 align:start position:0%
+look at the fourth training example and
+ 
+
+00:10:37.970 --> 00:10:40.059 align:start position:0%
+look at the fourth training example and
+we<00:10:38.060><c> will</c><00:10:38.209><c> do</c><00:10:38.360><c> that</c><00:10:38.509><c> the</c><00:10:38.930><c> fifth</c><00:10:39.139><c> example</c><00:10:39.290><c> six</c>
+
+00:10:40.059 --> 00:10:40.069 align:start position:0%
+we will do that the fifth example six
+ 
+
+00:10:40.069 --> 00:10:42.490 align:start position:0%
+we will do that the fifth example six
+example<00:10:40.579><c> seven</c><00:10:41.329><c> and</c><00:10:41.569><c> so</c><00:10:42.050><c> on</c>
+
+00:10:42.490 --> 00:10:42.500 align:start position:0%
+example seven and so on
+ 
+
+00:10:42.500 --> 00:10:44.800 align:start position:0%
+example seven and so on
+and<00:10:42.589><c> as</c><00:10:43.490><c> you</c><00:10:43.699><c> run</c><00:10:43.939><c> the</c><00:10:44.180><c> stochastic</c><00:10:44.509><c> gradient</c>
+
+00:10:44.800 --> 00:10:44.810 align:start position:0%
+and as you run the stochastic gradient
+ 
+
+00:10:44.810 --> 00:10:47.170 align:start position:0%
+and as you run the stochastic gradient
+descent<00:10:45.110><c> what</c><00:10:46.040><c> you</c><00:10:46.160><c> find</c><00:10:46.459><c> is</c><00:10:46.670><c> that</c><00:10:46.699><c> it</c><00:10:47.060><c> will</c>
+
+00:10:47.170 --> 00:10:47.180 align:start position:0%
+descent what you find is that it will
+ 
+
+00:10:47.180 --> 00:10:50.050 align:start position:0%
+descent what you find is that it will
+generally<00:10:47.990><c> move</c><00:10:48.380><c> the</c><00:10:48.560><c> parameters</c><00:10:49.220><c> in</c><00:10:49.639><c> the</c>
+
+00:10:50.050 --> 00:10:50.060 align:start position:0%
+generally move the parameters in the
+ 
+
+00:10:50.060 --> 00:10:52.569 align:start position:0%
+generally move the parameters in the
+direction<00:10:50.420><c> of</c><00:10:50.779><c> the</c><00:10:50.959><c> global</c><00:10:51.319><c> minimum</c><00:10:51.649><c> but</c><00:10:51.920><c> not</c>
+
+00:10:52.569 --> 00:10:52.579 align:start position:0%
+direction of the global minimum but not
+ 
+
+00:10:52.579 --> 00:10:56.710 align:start position:0%
+direction of the global minimum but not
+always<00:10:52.790><c> and</c><00:10:54.220><c> so</c><00:10:55.220><c> take</c><00:10:55.430><c> a</c><00:10:55.459><c> some</c><00:10:56.029><c> more</c><00:10:56.300><c> random</c>
+
+00:10:56.710 --> 00:10:56.720 align:start position:0%
+always and so take a some more random
+ 
+
+00:10:56.720 --> 00:10:59.350 align:start position:0%
+always and so take a some more random
+looking<00:10:57.079><c> and</c><00:10:57.380><c> circuited</c><00:10:57.889><c> path</c><00:10:58.209><c> towards</c><00:10:59.209><c> the</c>
+
+00:10:59.350 --> 00:10:59.360 align:start position:0%
+looking and circuited path towards the
+ 
+
+00:10:59.360 --> 00:11:02.170 align:start position:0%
+looking and circuited path towards the
+global<00:10:59.750><c> minimum</c><00:11:00.110><c> and</c><00:11:00.350><c> in</c><00:11:01.130><c> fact</c><00:11:01.310><c> as</c><00:11:01.550><c> he</c><00:11:01.610><c> runs</c><00:11:01.970><c> to</c>
+
+00:11:02.170 --> 00:11:02.180 align:start position:0%
+global minimum and in fact as he runs to
+ 
+
+00:11:02.180 --> 00:11:04.090 align:start position:0%
+global minimum and in fact as he runs to
+Casa<00:11:02.420><c> Grande</c><00:11:02.779><c> descent</c><00:11:03.259><c> it</c><00:11:03.529><c> doesn't</c><00:11:03.949><c> actually</c>
+
+00:11:04.090 --> 00:11:04.100 align:start position:0%
+Casa Grande descent it doesn't actually
+ 
+
+00:11:04.100 --> 00:11:06.370 align:start position:0%
+Casa Grande descent it doesn't actually
+converge<00:11:04.910><c> in</c><00:11:05.180><c> the</c><00:11:05.300><c> same</c><00:11:05.480><c> sense</c><00:11:05.839><c> as</c><00:11:06.079><c> batch</c>
+
+00:11:06.370 --> 00:11:06.380 align:start position:0%
+converge in the same sense as batch
+ 
+
+00:11:06.380 --> 00:11:08.530 align:start position:0%
+converge in the same sense as batch
+gradient<00:11:06.620><c> descent</c><00:11:06.889><c> us</c><00:11:07.339><c> and</c><00:11:07.579><c> what</c><00:11:08.120><c> events</c><00:11:08.389><c> are</c>
+
+00:11:08.530 --> 00:11:08.540 align:start position:0%
+gradient descent us and what events are
+ 
+
+00:11:08.540 --> 00:11:10.809 align:start position:0%
+gradient descent us and what events are
+doing<00:11:08.870><c> is</c><00:11:09.050><c> wandering</c><00:11:09.709><c> around</c><00:11:09.829><c> continuously</c>
+
+00:11:10.809 --> 00:11:10.819 align:start position:0%
+doing is wandering around continuously
+ 
+
+00:11:10.819 --> 00:11:13.600 align:start position:0%
+doing is wandering around continuously
+in<00:11:11.149><c> some</c><00:11:11.779><c> region</c><00:11:12.230><c> that's</c><00:11:12.740><c> in</c><00:11:13.040><c> some</c><00:11:13.250><c> region</c>
+
+00:11:13.600 --> 00:11:13.610 align:start position:0%
+in some region that's in some region
+ 
+
+00:11:13.610 --> 00:11:15.220 align:start position:0%
+in some region that's in some region
+close<00:11:14.000><c> to</c><00:11:14.240><c> the</c><00:11:14.329><c> global</c><00:11:14.509><c> minimum</c><00:11:14.720><c> but</c><00:11:15.050><c> it</c>
+
+00:11:15.220 --> 00:11:15.230 align:start position:0%
+close to the global minimum but it
+ 
+
+00:11:15.230 --> 00:11:16.990 align:start position:0%
+close to the global minimum but it
+doesn't<00:11:15.620><c> actually</c><00:11:15.769><c> just</c><00:11:16.220><c> get</c><00:11:16.430><c> to</c><00:11:16.550><c> the</c><00:11:16.670><c> global</c>
+
+00:11:16.990 --> 00:11:17.000 align:start position:0%
+doesn't actually just get to the global
+ 
+
+00:11:17.000 --> 00:11:17.430 align:start position:0%
+doesn't actually just get to the global
+minima
+
+00:11:17.430 --> 00:11:17.440 align:start position:0%
+minima
+ 
+
+00:11:17.440 --> 00:11:19.800 align:start position:0%
+minima
+and<00:11:17.620><c> stay</c><00:11:17.949><c> there</c><00:11:18.160><c> but</c><00:11:19.120><c> the</c><00:11:19.180><c> practice</c><00:11:19.569><c> this</c>
+
+00:11:19.800 --> 00:11:19.810 align:start position:0%
+and stay there but the practice this
+ 
+
+00:11:19.810 --> 00:11:21.689 align:start position:0%
+and stay there but the practice this
+isn't<00:11:20.199><c> a</c><00:11:20.290><c> problem</c><00:11:20.529><c> because</c><00:11:20.860><c> you</c><00:11:21.190><c> know</c><00:11:21.310><c> so</c><00:11:21.550><c> long</c>
+
+00:11:21.689 --> 00:11:21.699 align:start position:0%
+isn't a problem because you know so long
+ 
+
+00:11:21.699 --> 00:11:24.059 align:start position:0%
+isn't a problem because you know so long
+as<00:11:21.910><c> the</c><00:11:22.089><c> parameters</c><00:11:22.569><c> end</c><00:11:22.839><c> up</c><00:11:23.050><c> in</c><00:11:23.259><c> some</c><00:11:23.560><c> region</c>
+
+00:11:24.059 --> 00:11:24.069 align:start position:0%
+as the parameters end up in some region
+ 
+
+00:11:24.069 --> 00:11:25.800 align:start position:0%
+as the parameters end up in some region
+there<00:11:24.370><c> maybe</c><00:11:24.670><c> it</c><00:11:24.940><c> is</c><00:11:25.060><c> pretty</c><00:11:25.300><c> close</c><00:11:25.569><c> to</c><00:11:25.720><c> the</c>
+
+00:11:25.800 --> 00:11:25.810 align:start position:0%
+there maybe it is pretty close to the
+ 
+
+00:11:25.810 --> 00:11:28.319 align:start position:0%
+there maybe it is pretty close to the
+global<00:11:25.959><c> minimum</c><00:11:26.490><c> so</c><00:11:27.490><c> lost</c><00:11:27.670><c> parameters</c><00:11:28.120><c> ends</c>
+
+00:11:28.319 --> 00:11:28.329 align:start position:0%
+global minimum so lost parameters ends
+ 
+
+00:11:28.329 --> 00:11:29.579 align:start position:0%
+global minimum so lost parameters ends
+up<00:11:28.449><c> pretty</c><00:11:28.779><c> close</c><00:11:29.019><c> to</c><00:11:29.170><c> the</c><00:11:29.230><c> global</c><00:11:29.379><c> minimum</c>
+
+00:11:29.579 --> 00:11:29.589 align:start position:0%
+up pretty close to the global minimum
+ 
+
+00:11:29.589 --> 00:11:32.249 align:start position:0%
+up pretty close to the global minimum
+that<00:11:30.399><c> will</c><00:11:30.699><c> be</c><00:11:30.850><c> a</c><00:11:30.879><c> pretty</c><00:11:31.180><c> good</c><00:11:31.449><c> hypothesis</c>
+
+00:11:32.249 --> 00:11:32.259 align:start position:0%
+that will be a pretty good hypothesis
+ 
+
+00:11:32.259 --> 00:11:35.910 align:start position:0%
+that will be a pretty good hypothesis
+and<00:11:32.529><c> so</c><00:11:33.540><c> usually</c><00:11:34.540><c> running</c><00:11:35.050><c> so</c><00:11:35.290><c> costly</c><00:11:35.500><c> in</c><00:11:35.800><c> this</c>
+
+00:11:35.910 --> 00:11:35.920 align:start position:0%
+and so usually running so costly in this
+ 
+
+00:11:35.920 --> 00:11:38.340 align:start position:0%
+and so usually running so costly in this
+end<00:11:36.100><c> we</c><00:11:36.579><c> get</c><00:11:36.759><c> the</c><00:11:36.879><c> parameter</c><00:11:37.389><c> near</c><00:11:37.839><c> the</c><00:11:37.990><c> global</c>
+
+00:11:38.340 --> 00:11:38.350 align:start position:0%
+end we get the parameter near the global
+ 
+
+00:11:38.350 --> 00:11:40.319 align:start position:0%
+end we get the parameter near the global
+minimum<00:11:38.680><c> and</c><00:11:38.980><c> that's</c><00:11:39.129><c> good</c><00:11:39.459><c> enough</c><00:11:39.579><c> but</c><00:11:40.060><c> you</c>
+
+00:11:40.319 --> 00:11:40.329 align:start position:0%
+minimum and that's good enough but you
+ 
+
+00:11:40.329 --> 00:11:42.329 align:start position:0%
+minimum and that's good enough but you
+know<00:11:40.449><c> I'm</c><00:11:40.660><c> always</c><00:11:40.870><c> actually</c><00:11:41.199><c> in</c><00:11:41.529><c> most</c>
+
+00:11:42.329 --> 00:11:42.339 align:start position:0%
+know I'm always actually in most
+ 
+
+00:11:42.339 --> 00:11:45.030 align:start position:0%
+know I'm always actually in most
+practical<00:11:42.670><c> purposes</c><00:11:43.290><c> just</c><00:11:44.290><c> one</c><00:11:44.470><c> final</c><00:11:44.740><c> detail</c>
+
+00:11:45.030 --> 00:11:45.040 align:start position:0%
+practical purposes just one final detail
+ 
+
+00:11:45.040 --> 00:11:47.249 align:start position:0%
+practical purposes just one final detail
+in<00:11:45.579><c> stochastic</c><00:11:46.060><c> drain</c><00:11:46.449><c> descent</c><00:11:46.779><c> we</c><00:11:46.930><c> had</c><00:11:47.079><c> this</c>
+
+00:11:47.249 --> 00:11:47.259 align:start position:0%
+in stochastic drain descent we had this
+ 
+
+00:11:47.259 --> 00:11:49.319 align:start position:0%
+in stochastic drain descent we had this
+outer<00:11:47.529><c> loop</c><00:11:47.889><c> repeat</c><00:11:48.370><c> which</c><00:11:48.550><c> says</c><00:11:48.790><c> to</c><00:11:48.970><c> do</c><00:11:49.149><c> this</c>
+
+00:11:49.319 --> 00:11:49.329 align:start position:0%
+outer loop repeat which says to do this
+ 
+
+00:11:49.329 --> 00:11:52.050 align:start position:0%
+outer loop repeat which says to do this
+in<00:11:49.600><c> a</c><00:11:49.629><c> loop</c><00:11:49.870><c> multiple</c><00:11:50.500><c> times</c><00:11:50.769><c> so</c><00:11:51.579><c> how</c><00:11:52.000><c> many</c>
+
+00:11:52.050 --> 00:11:52.060 align:start position:0%
+in a loop multiple times so how many
+ 
+
+00:11:52.060 --> 00:11:53.519 align:start position:0%
+in a loop multiple times so how many
+times<00:11:52.360><c> do</c><00:11:52.540><c> we</c><00:11:52.569><c> repeat</c><00:11:52.930><c> this</c><00:11:53.050><c> outer</c><00:11:53.259><c> loop</c>
+
+00:11:53.519 --> 00:11:53.529 align:start position:0%
+times do we repeat this outer loop
+ 
+
+00:11:53.529 --> 00:11:55.259 align:start position:0%
+times do we repeat this outer loop
+depending<00:11:54.279><c> on</c><00:11:54.370><c> the</c><00:11:54.459><c> size</c><00:11:54.670><c> of</c><00:11:54.819><c> the</c><00:11:54.910><c> training</c>
+
+00:11:55.259 --> 00:11:55.269 align:start position:0%
+depending on the size of the training
+ 
+
+00:11:55.269 --> 00:11:58.860 align:start position:0%
+depending on the size of the training
+set<00:11:55.480><c> doing</c><00:11:56.439><c> this</c><00:11:56.730><c> just</c><00:11:57.730><c> a</c><00:11:57.819><c> single</c><00:11:58.149><c> time</c><00:11:58.449><c> may</c><00:11:58.810><c> be</c>
+
+00:11:58.860 --> 00:11:58.870 align:start position:0%
+set doing this just a single time may be
+ 
+
+00:11:58.870 --> 00:12:01.019 align:start position:0%
+set doing this just a single time may be
+enough<00:11:59.259><c> and</c><00:11:59.529><c> up</c><00:11:59.649><c> to</c><00:11:59.860><c> you</c><00:12:00.129><c> know</c><00:12:00.220><c> maybe</c><00:12:00.459><c> 10</c><00:12:00.790><c> times</c>
+
+00:12:01.019 --> 00:12:01.029 align:start position:0%
+enough and up to you know maybe 10 times
+ 
+
+00:12:01.029 --> 00:12:02.460 align:start position:0%
+enough and up to you know maybe 10 times
+maybe<00:12:01.360><c> typical</c><00:12:01.839><c> so</c><00:12:01.990><c> you</c><00:12:02.110><c> may</c><00:12:02.230><c> end</c><00:12:02.350><c> up</c>
+
+00:12:02.460 --> 00:12:02.470 align:start position:0%
+maybe typical so you may end up
+ 
+
+00:12:02.470 --> 00:12:04.559 align:start position:0%
+maybe typical so you may end up
+repeating<00:12:03.100><c> this</c><00:12:03.490><c> inner</c><00:12:03.790><c> loop</c><00:12:03.939><c> anywhere</c><00:12:04.360><c> from</c>
+
+00:12:04.559 --> 00:12:04.569 align:start position:0%
+repeating this inner loop anywhere from
+ 
+
+00:12:04.569 --> 00:12:08.249 align:start position:0%
+repeating this inner loop anywhere from
+once<00:12:04.839><c> to</c><00:12:05.259><c> 10</c><00:12:05.500><c> times</c><00:12:06.060><c> so</c><00:12:07.060><c> if</c><00:12:07.300><c> you</c><00:12:07.389><c> have</c><00:12:07.600><c> a</c><00:12:07.629><c> you</c>
+
+00:12:08.249 --> 00:12:08.259 align:start position:0%
+once to 10 times so if you have a you
+ 
+
+00:12:08.259 --> 00:12:10.019 align:start position:0%
+once to 10 times so if you have a you
+know<00:12:08.319><c> a</c><00:12:08.379><c> truly</c><00:12:08.740><c> massive</c><00:12:09.009><c> data</c><00:12:09.399><c> set</c><00:12:09.699><c> like</c><00:12:09.879><c> this</c>
+
+00:12:10.019 --> 00:12:10.029 align:start position:0%
+know a truly massive data set like this
+ 
+
+00:12:10.029 --> 00:12:12.480 align:start position:0%
+know a truly massive data set like this
+u.s.<00:12:10.329><c> census</c><00:12:10.750><c> data</c><00:12:11.500><c> set</c><00:12:11.800><c> example</c><00:12:12.250><c> that</c><00:12:12.430><c> I've</c>
+
+00:12:12.480 --> 00:12:12.490 align:start position:0%
+u.s. census data set example that I've
+ 
+
+00:12:12.490 --> 00:12:15.150 align:start position:0%
+u.s. census data set example that I've
+been<00:12:12.639><c> talking</c><00:12:12.970><c> about</c><00:12:13.060><c> with</c><00:12:13.420><c> 300</c><00:12:14.379><c> Minneapolis</c>
+
+00:12:15.150 --> 00:12:15.160 align:start position:0%
+been talking about with 300 Minneapolis
+ 
+
+00:12:15.160 --> 00:12:17.280 align:start position:0%
+been talking about with 300 Minneapolis
+it<00:12:15.639><c> is</c><00:12:15.759><c> possible</c><00:12:16.209><c> that</c><00:12:16.240><c> by</c><00:12:16.750><c> the</c><00:12:16.810><c> time</c><00:12:17.110><c> you've</c>
+
+00:12:17.280 --> 00:12:17.290 align:start position:0%
+it is possible that by the time you've
+ 
+
+00:12:17.290 --> 00:12:18.869 align:start position:0%
+it is possible that by the time you've
+taken<00:12:17.319><c> just</c><00:12:17.889><c> a</c><00:12:17.980><c> single</c><00:12:18.310><c> pass</c><00:12:18.579><c> through</c><00:12:18.790><c> your</c>
+
+00:12:18.869 --> 00:12:18.879 align:start position:0%
+taken just a single pass through your
+ 
+
+00:12:18.879 --> 00:12:22.769 align:start position:0%
+taken just a single pass through your
+training<00:12:19.089><c> set</c><00:12:19.500><c> for</c><00:12:20.500><c> I</c><00:12:20.649><c> equals</c><00:12:21.100><c> 1</c><00:12:21.399><c> through</c><00:12:21.779><c> 300</c>
+
+00:12:22.769 --> 00:12:22.779 align:start position:0%
+training set for I equals 1 through 300
+ 
+
+00:12:22.779 --> 00:12:24.300 align:start position:0%
+training set for I equals 1 through 300
+million<00:12:23.050><c> is</c><00:12:23.199><c> possible</c><00:12:23.560><c> but</c><00:12:23.709><c> by</c><00:12:23.889><c> the</c><00:12:23.949><c> time</c><00:12:24.160><c> you</c>
+
+00:12:24.300 --> 00:12:24.310 align:start position:0%
+million is possible but by the time you
+ 
+
+00:12:24.310 --> 00:12:25.800 align:start position:0%
+million is possible but by the time you
+take<00:12:24.430><c> on</c><00:12:24.579><c> a</c><00:12:24.639><c> single</c><00:12:24.939><c> pass</c><00:12:25.149><c> for</c><00:12:25.329><c> your</c><00:12:25.389><c> dataset</c>
+
+00:12:25.800 --> 00:12:25.810 align:start position:0%
+take on a single pass for your dataset
+ 
+
+00:12:25.810 --> 00:12:28.879 align:start position:0%
+take on a single pass for your dataset
+you<00:12:26.259><c> might</c><00:12:26.439><c> already</c><00:12:26.589><c> have</c><00:12:27.430><c> a</c><00:12:27.759><c> perfectly</c><00:12:28.480><c> good</c>
+
+00:12:28.879 --> 00:12:28.889 align:start position:0%
+you might already have a perfectly good
+ 
+
+00:12:28.889 --> 00:12:31.439 align:start position:0%
+you might already have a perfectly good
+hypothesis<00:12:29.889><c> in</c><00:12:30.160><c> which</c><00:12:30.189><c> case</c><00:12:30.579><c> you</c><00:12:31.120><c> know</c><00:12:31.240><c> this</c>
+
+00:12:31.439 --> 00:12:31.449 align:start position:0%
+hypothesis in which case you know this
+ 
+
+00:12:31.449 --> 00:12:34.259 align:start position:0%
+hypothesis in which case you know this
+inner<00:12:31.779><c> loop</c><00:12:32.100><c> you</c><00:12:33.100><c> might</c><00:12:33.310><c> need</c><00:12:33.670><c> to</c><00:12:33.880><c> do</c><00:12:34.060><c> only</c>
+
+00:12:34.259 --> 00:12:34.269 align:start position:0%
+inner loop you might need to do only
+ 
+
+00:12:34.269 --> 00:12:37.139 align:start position:0%
+inner loop you might need to do only
+once<00:12:34.660><c> if</c><00:12:35.019><c> M</c><00:12:35.259><c> is</c><00:12:35.439><c> very</c><00:12:35.470><c> very</c><00:12:35.949><c> large</c><00:12:36.160><c> but</c><00:12:37.029><c> in</c>
+
+00:12:37.139 --> 00:12:37.149 align:start position:0%
+once if M is very very large but in
+ 
+
+00:12:37.149 --> 00:12:39.900 align:start position:0%
+once if M is very very large but in
+general<00:12:37.620><c> taking</c><00:12:38.620><c> anywhere</c><00:12:39.189><c> from</c><00:12:39.370><c> 1</c><00:12:39.639><c> through</c>
+
+00:12:39.900 --> 00:12:39.910 align:start position:0%
+general taking anywhere from 1 through
+ 
+
+00:12:39.910 --> 00:12:41.910 align:start position:0%
+general taking anywhere from 1 through
+10<00:12:40.180><c> pulses</c><00:12:40.449><c> through</c><00:12:40.930><c> your</c><00:12:41.079><c> data</c><00:12:41.290><c> set</c><00:12:41.620><c> you</c><00:12:41.829><c> know</c>
+
+00:12:41.910 --> 00:12:41.920 align:start position:0%
+10 pulses through your data set you know
+ 
+
+00:12:41.920 --> 00:12:43.559 align:start position:0%
+10 pulses through your data set you know
+may<00:12:42.100><c> be</c><00:12:42.130><c> fairly</c><00:12:42.490><c> common</c><00:12:43.029><c> but</c><00:12:43.149><c> they're</c><00:12:43.389><c> really</c>
+
+00:12:43.559 --> 00:12:43.569 align:start position:0%
+may be fairly common but they're really
+ 
+
+00:12:43.569 --> 00:12:44.999 align:start position:0%
+may be fairly common but they're really
+it<00:12:43.750><c> depends</c><00:12:44.139><c> on</c><00:12:44.259><c> the</c><00:12:44.350><c> size</c><00:12:44.529><c> of</c><00:12:44.560><c> your</c><00:12:44.680><c> training</c>
+
+00:12:44.999 --> 00:12:45.009 align:start position:0%
+it depends on the size of your training
+ 
+
+00:12:45.009 --> 00:12:48.480 align:start position:0%
+it depends on the size of your training
+set<00:12:45.310><c> and</c><00:12:46.019><c> if</c><00:12:47.019><c> you</c><00:12:47.139><c> contrast</c><00:12:47.709><c> this</c><00:12:47.980><c> to</c><00:12:48.250><c> batch</c>
+
+00:12:48.480 --> 00:12:48.490 align:start position:0%
+set and if you contrast this to batch
+ 
+
+00:12:48.490 --> 00:12:50.639 align:start position:0%
+set and if you contrast this to batch
+gradient<00:12:48.819><c> descent</c><00:12:49.139><c> where</c><00:12:50.139><c> battery</c><00:12:50.560><c> and</c>
+
+00:12:50.639 --> 00:12:50.649 align:start position:0%
+gradient descent where battery and
+ 
+
+00:12:50.649 --> 00:12:52.559 align:start position:0%
+gradient descent where battery and
+descend<00:12:51.069><c> after</c><00:12:51.399><c> taking</c><00:12:51.639><c> a</c><00:12:51.819><c> pass</c><00:12:52.060><c> through</c><00:12:52.360><c> your</c>
+
+00:12:52.559 --> 00:12:52.569 align:start position:0%
+descend after taking a pass through your
+ 
+
+00:12:52.569 --> 00:12:54.210 align:start position:0%
+descend after taking a pass through your
+entire<00:12:52.930><c> training</c><00:12:53.170><c> set</c><00:12:53.500><c> you</c><00:12:53.560><c> would</c><00:12:53.800><c> have</c><00:12:53.980><c> taken</c>
+
+00:12:54.210 --> 00:12:54.220 align:start position:0%
+entire training set you would have taken
+ 
+
+00:12:54.220 --> 00:12:57.090 align:start position:0%
+entire training set you would have taken
+just<00:12:55.000><c> one</c><00:12:55.089><c> single</c><00:12:55.750><c> gradient</c><00:12:56.380><c> descent</c><00:12:56.680><c> step</c><00:12:56.889><c> so</c>
+
+00:12:57.090 --> 00:12:57.100 align:start position:0%
+just one single gradient descent step so
+ 
+
+00:12:57.100 --> 00:12:58.769 align:start position:0%
+just one single gradient descent step so
+one<00:12:57.399><c> of</c><00:12:57.430><c> these</c><00:12:57.670><c> little</c><00:12:58.029><c> baby</c><00:12:58.240><c> steps</c><00:12:58.630><c> of</c>
+
+00:12:58.769 --> 00:12:58.779 align:start position:0%
+one of these little baby steps of
+ 
+
+00:12:58.779 --> 00:13:00.990 align:start position:0%
+one of these little baby steps of
+gradient<00:12:58.870><c> descent</c><00:12:59.139><c> where</c><00:12:59.649><c> you</c><00:13:00.339><c> just</c><00:13:00.579><c> take</c><00:13:00.730><c> one</c>
+
+00:13:00.990 --> 00:13:01.000 align:start position:0%
+gradient descent where you just take one
+ 
+
+00:13:01.000 --> 00:13:03.629 align:start position:0%
+gradient descent where you just take one
+small<00:13:01.209><c> gradient</c><00:13:01.750><c> to</c><00:13:01.839><c> sensor</c><00:13:02.259><c> and</c><00:13:02.649><c> this</c><00:13:03.339><c> is</c><00:13:03.490><c> why</c>
+
+00:13:03.629 --> 00:13:03.639 align:start position:0%
+small gradient to sensor and this is why
+ 
+
+00:13:03.639 --> 00:13:07.220 align:start position:0%
+small gradient to sensor and this is why
+so<00:13:03.850><c> Casagrande</c><00:13:04.420><c> descent</c><00:13:04.720><c> can</c><00:13:04.930><c> be</c><00:13:05.139><c> much</c><00:13:05.290><c> faster</c>
+
+00:13:07.220 --> 00:13:07.230 align:start position:0%
+so Casagrande descent can be much faster
+ 
+
+00:13:07.230 --> 00:13:09.680 align:start position:0%
+so Casagrande descent can be much faster
+so<00:13:08.070><c> that</c><00:13:08.459><c> was</c><00:13:08.670><c> the</c><00:13:08.850><c> stochastic</c><00:13:09.300><c> gradient</c>
+
+00:13:09.680 --> 00:13:09.690 align:start position:0%
+so that was the stochastic gradient
+ 
+
+00:13:09.690 --> 00:13:11.960 align:start position:0%
+so that was the stochastic gradient
+descent<00:13:09.990><c> algorithm</c><00:13:10.800><c> and</c><00:13:11.010><c> if</c><00:13:11.579><c> you</c><00:13:11.700><c> implement</c>
+
+00:13:11.960 --> 00:13:11.970 align:start position:0%
+descent algorithm and if you implement
+ 
+
+00:13:11.970 --> 00:13:13.850 align:start position:0%
+descent algorithm and if you implement
+it<00:13:12.300><c> hopefully</c><00:13:12.600><c> that</c><00:13:13.019><c> will</c><00:13:13.170><c> allow</c><00:13:13.410><c> you</c><00:13:13.470><c> to</c>
+
+00:13:13.850 --> 00:13:13.860 align:start position:0%
+it hopefully that will allow you to
+ 
+
+00:13:13.860 --> 00:13:15.199 align:start position:0%
+it hopefully that will allow you to
+scale<00:13:14.100><c> what</c><00:13:14.279><c> many</c><00:13:14.579><c> of</c><00:13:14.760><c> your</c><00:13:14.880><c> learning</c>
+
+00:13:15.199 --> 00:13:15.209 align:start position:0%
+scale what many of your learning
+ 
+
+00:13:15.209 --> 00:13:17.240 align:start position:0%
+scale what many of your learning
+algorithms<00:13:15.660><c> do</c><00:13:15.899><c> much</c><00:13:16.139><c> bigger</c><00:13:16.440><c> data</c><00:13:16.589><c> sets</c><00:13:16.740><c> and</c>
+
+00:13:17.240 --> 00:13:17.250 align:start position:0%
+algorithms do much bigger data sets and
+ 
+
+00:13:17.250 --> 00:13:20.720 align:start position:0%
+algorithms do much bigger data sets and
+get<00:13:17.459><c> much</c><00:13:17.670><c> better</c><00:13:17.850><c> performance</c><00:13:18.180><c> that</c><00:13:18.540><c> way</c>
+

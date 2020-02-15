@@ -1,0 +1,2040 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.180 align:start position:0%
+ 
+in<00:00:00.329><c> this</c><00:00:00.570><c> video</c><00:00:00.930><c> I'd</c><00:00:01.230><c> like</c><00:00:01.319><c> to</c><00:00:01.469><c> talk</c><00:00:01.650><c> about</c><00:00:01.709><c> the</c>
+
+00:00:02.180 --> 00:00:02.190 align:start position:0%
+in this video I'd like to talk about the
+ 
+
+00:00:02.190 --> 00:00:04.249 align:start position:0%
+in this video I'd like to talk about the
+Gaussian<00:00:02.850><c> distribution</c><00:00:03.000><c> which</c><00:00:03.810><c> is</c><00:00:03.990><c> also</c>
+
+00:00:04.249 --> 00:00:04.259 align:start position:0%
+Gaussian distribution which is also
+ 
+
+00:00:04.259 --> 00:00:07.880 align:start position:0%
+Gaussian distribution which is also
+called<00:00:04.770><c> the</c><00:00:05.069><c> normal</c><00:00:05.790><c> distribution</c><00:00:06.410><c> in</c><00:00:07.410><c> case</c>
+
+00:00:07.880 --> 00:00:07.890 align:start position:0%
+called the normal distribution in case
+ 
+
+00:00:07.890 --> 00:00:10.070 align:start position:0%
+called the normal distribution in case
+you're<00:00:08.220><c> already</c><00:00:08.639><c> intimately</c><00:00:09.450><c> familiar</c><00:00:09.690><c> with</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+you're already intimately familiar with
+ 
+
+00:00:10.080 --> 00:00:11.540 align:start position:0%
+you're already intimately familiar with
+the<00:00:10.440><c> Gaussian</c><00:00:10.860><c> distribution</c>
+
+00:00:11.540 --> 00:00:11.550 align:start position:0%
+the Gaussian distribution
+ 
+
+00:00:11.550 --> 00:00:13.940 align:start position:0%
+the Gaussian distribution
+there's<00:00:12.179><c> probably</c><00:00:12.509><c> okay</c><00:00:13.110><c> to</c><00:00:13.139><c> skip</c><00:00:13.590><c> this</c><00:00:13.769><c> video</c>
+
+00:00:13.940 --> 00:00:13.950 align:start position:0%
+there's probably okay to skip this video
+ 
+
+00:00:13.950 --> 00:00:16.340 align:start position:0%
+there's probably okay to skip this video
+but<00:00:14.790><c> if</c><00:00:15.000><c> you're</c><00:00:15.150><c> not</c><00:00:15.330><c> sure</c><00:00:15.630><c> or</c><00:00:15.929><c> if</c><00:00:15.960><c> it's</c><00:00:16.170><c> been</c><00:00:16.320><c> a</c>
+
+00:00:16.340 --> 00:00:16.350 align:start position:0%
+but if you're not sure or if it's been a
+ 
+
+00:00:16.350 --> 00:00:17.510 align:start position:0%
+but if you're not sure or if it's been a
+while<00:00:16.440><c> since</c><00:00:16.830><c> you've</c><00:00:17.010><c> worked</c><00:00:17.160><c> with</c><00:00:17.400><c> the</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+while since you've worked with the
+ 
+
+00:00:17.520 --> 00:00:19.040 align:start position:0%
+while since you've worked with the
+Gaussian<00:00:17.670><c> distribution</c><00:00:18.029><c> of</c><00:00:18.660><c> the</c><00:00:18.750><c> normal</c>
+
+00:00:19.040 --> 00:00:19.050 align:start position:0%
+Gaussian distribution of the normal
+ 
+
+00:00:19.050 --> 00:00:21.080 align:start position:0%
+Gaussian distribution of the normal
+distribution<00:00:19.170><c> then</c><00:00:20.100><c> please</c><00:00:20.369><c> do</c><00:00:20.609><c> watch</c><00:00:20.820><c> this</c>
+
+00:00:21.080 --> 00:00:21.090 align:start position:0%
+distribution then please do watch this
+ 
+
+00:00:21.090 --> 00:00:23.390 align:start position:0%
+distribution then please do watch this
+video<00:00:21.390><c> all</c><00:00:21.630><c> the</c><00:00:21.660><c> way</c><00:00:21.869><c> to</c><00:00:21.930><c> the</c><00:00:22.140><c> end</c><00:00:22.289><c> and</c><00:00:22.619><c> in</c><00:00:23.369><c> the</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+video all the way to the end and in the
+ 
+
+00:00:23.400 --> 00:00:25.220 align:start position:0%
+video all the way to the end and in the
+video<00:00:23.910><c> after</c><00:00:24.090><c> this</c><00:00:24.359><c> we'll</c><00:00:24.630><c> start</c><00:00:24.930><c> applying</c>
+
+00:00:25.220 --> 00:00:25.230 align:start position:0%
+video after this we'll start applying
+ 
+
+00:00:25.230 --> 00:00:27.710 align:start position:0%
+video after this we'll start applying
+the<00:00:25.529><c> Gaussian</c><00:00:26.039><c> distribution</c><00:00:26.279><c> to</c><00:00:27.119><c> developing</c>
+
+00:00:27.710 --> 00:00:27.720 align:start position:0%
+the Gaussian distribution to developing
+ 
+
+00:00:27.720 --> 00:00:32.450 align:start position:0%
+the Gaussian distribution to developing
+an<00:00:27.960><c> anomaly</c><00:00:28.439><c> detection</c><00:00:28.470><c> algorithm</c><00:00:31.189><c> let's</c><00:00:32.189><c> say</c>
+
+00:00:32.450 --> 00:00:32.460 align:start position:0%
+an anomaly detection algorithm let's say
+ 
+
+00:00:32.460 --> 00:00:35.720 align:start position:0%
+an anomaly detection algorithm let's say
+X<00:00:32.790><c> is</c><00:00:33.090><c> a</c><00:00:33.450><c> real</c><00:00:33.780><c> valued</c><00:00:34.230><c> random</c><00:00:34.469><c> variable</c><00:00:34.770><c> so</c><00:00:35.430><c> X</c>
+
+00:00:35.720 --> 00:00:35.730 align:start position:0%
+X is a real valued random variable so X
+ 
+
+00:00:35.730 --> 00:00:38.450 align:start position:0%
+X is a real valued random variable so X
+is<00:00:35.969><c> a</c><00:00:36.090><c> real</c><00:00:36.450><c> number</c><00:00:36.510><c> if</c><00:00:37.380><c> the</c><00:00:37.739><c> probability</c>
+
+00:00:38.450 --> 00:00:38.460 align:start position:0%
+is a real number if the probability
+ 
+
+00:00:38.460 --> 00:00:41.660 align:start position:0%
+is a real number if the probability
+distribution<00:00:39.090><c> of</c><00:00:39.210><c> X</c><00:00:39.390><c> is</c><00:00:40.079><c> Gaussian</c><00:00:40.739><c> it</c><00:00:41.460><c> with</c>
+
+00:00:41.660 --> 00:00:41.670 align:start position:0%
+distribution of X is Gaussian it with
+ 
+
+00:00:41.670 --> 00:00:44.930 align:start position:0%
+distribution of X is Gaussian it with
+mean<00:00:42.000><c> mu</c><00:00:42.329><c> and</c><00:00:42.360><c> variance</c><00:00:42.660><c> Sigma</c><00:00:43.230><c> squared</c><00:00:43.940><c> then</c>
+
+00:00:44.930 --> 00:00:44.940 align:start position:0%
+mean mu and variance Sigma squared then
+ 
+
+00:00:44.940 --> 00:00:47.840 align:start position:0%
+mean mu and variance Sigma squared then
+we'll<00:00:45.510><c> write</c><00:00:45.719><c> this</c><00:00:45.989><c> as</c><00:00:46.309><c> X</c><00:00:47.309><c> the</c><00:00:47.730><c> random</c>
+
+00:00:47.840 --> 00:00:47.850 align:start position:0%
+we'll write this as X the random
+ 
+
+00:00:47.850 --> 00:00:50.630 align:start position:0%
+we'll write this as X the random
+variable<00:00:48.500><c> tell</c><00:00:49.500><c> there</c><00:00:49.739><c> that's</c><00:00:50.160><c> this</c><00:00:50.399><c> little</c>
+
+00:00:50.630 --> 00:00:50.640 align:start position:0%
+variable tell there that's this little
+ 
+
+00:00:50.640 --> 00:00:52.750 align:start position:0%
+variable tell there that's this little
+toe<00:00:50.910><c> there</c><00:00:51.120><c> at</c><00:00:51.210><c> this</c><00:00:51.390><c> rate</c><00:00:52.079><c> this</c><00:00:52.260><c> is</c>
+
+00:00:52.750 --> 00:00:52.760 align:start position:0%
+toe there at this rate this is
+ 
+
+00:00:52.760 --> 00:01:00.290 align:start position:0%
+toe there at this rate this is
+distributed<00:00:53.760><c> as</c><00:00:58.910><c> identity</c><00:00:59.910><c> know</c><00:01:00.180><c> the</c>
+
+00:01:00.290 --> 00:01:00.300 align:start position:0%
+distributed as identity know the
+ 
+
+00:01:00.300 --> 00:01:01.970 align:start position:0%
+distributed as identity know the
+Gaussian<00:01:00.449><c> distribution</c><00:01:00.840><c> with</c><00:01:01.620><c> sometimes</c>
+
+00:01:01.970 --> 00:01:01.980 align:start position:0%
+Gaussian distribution with sometimes
+ 
+
+00:01:01.980 --> 00:01:05.060 align:start position:0%
+Gaussian distribution with sometimes
+going<00:01:02.129><c> to</c><00:01:02.219><c> write</c><00:01:02.399><c> script</c><00:01:03.300><c> n</c><00:01:03.589><c> parentheses</c><00:01:04.589><c> mu</c>
+
+00:01:05.060 --> 00:01:05.070 align:start position:0%
+going to write script n parentheses mu
+ 
+
+00:01:05.070 --> 00:01:08.480 align:start position:0%
+going to write script n parentheses mu
+comma<00:01:05.990><c> Sigma</c><00:01:06.990><c> square</c><00:01:07.409><c> so</c><00:01:07.619><c> this</c><00:01:07.770><c> script</c><00:01:08.280><c> n</c>
+
+00:01:08.480 --> 00:01:08.490 align:start position:0%
+comma Sigma square so this script n
+ 
+
+00:01:08.490 --> 00:01:10.969 align:start position:0%
+comma Sigma square so this script n
+stands<00:01:09.240><c> for</c><00:01:09.390><c> normal</c><00:01:09.930><c> since</c><00:01:10.229><c> Gaussian</c><00:01:10.799><c> and</c>
+
+00:01:10.969 --> 00:01:10.979 align:start position:0%
+stands for normal since Gaussian and
+ 
+
+00:01:10.979 --> 00:01:12.350 align:start position:0%
+stands for normal since Gaussian and
+normal<00:01:11.310><c> distribution</c><00:01:11.430><c> they</c><00:01:11.970><c> mean</c><00:01:12.119><c> the</c><00:01:12.210><c> same</c>
+
+00:01:12.350 --> 00:01:12.360 align:start position:0%
+normal distribution they mean the same
+ 
+
+00:01:12.360 --> 00:01:15.289 align:start position:0%
+normal distribution they mean the same
+pages<00:01:12.630><c> of</c><00:01:12.869><c> synonyms</c><00:01:13.380><c> and</c><00:01:13.760><c> a</c><00:01:14.760><c> Gaussian</c>
+
+00:01:15.289 --> 00:01:15.299 align:start position:0%
+pages of synonyms and a Gaussian
+ 
+
+00:01:15.299 --> 00:01:17.270 align:start position:0%
+pages of synonyms and a Gaussian
+distribution<00:01:15.509><c> is</c><00:01:16.140><c> parameterised</c><00:01:16.950><c> by</c><00:01:17.220><c> two</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+distribution is parameterised by two
+ 
+
+00:01:17.280 --> 00:01:21.020 align:start position:0%
+distribution is parameterised by two
+parameters<00:01:17.759><c> by</c><00:01:18.360><c> a</c><00:01:18.390><c> mean</c><00:01:19.259><c> parameter</c><00:01:19.830><c> which</c><00:01:20.759><c> we</c>
+
+00:01:21.020 --> 00:01:21.030 align:start position:0%
+parameters by a mean parameter which we
+ 
+
+00:01:21.030 --> 00:01:23.899 align:start position:0%
+parameters by a mean parameter which we
+denote<00:01:21.330><c> mu</c><00:01:21.630><c> and</c><00:01:21.869><c> a</c><00:01:22.650><c> variance</c><00:01:22.680><c> parameter</c><00:01:23.610><c> which</c>
+
+00:01:23.899 --> 00:01:23.909 align:start position:0%
+denote mu and a variance parameter which
+ 
+
+00:01:23.909 --> 00:01:26.630 align:start position:0%
+denote mu and a variance parameter which
+we<00:01:24.060><c> denote</c><00:01:24.360><c> by</c><00:01:24.509><c> a</c><00:01:24.689><c> Sigma</c><00:01:25.049><c> squared</c><00:01:25.350><c> if</c><00:01:26.250><c> we</c><00:01:26.400><c> plot</c>
+
+00:01:26.630 --> 00:01:26.640 align:start position:0%
+we denote by a Sigma squared if we plot
+ 
+
+00:01:26.640 --> 00:01:28.249 align:start position:0%
+we denote by a Sigma squared if we plot
+the<00:01:26.790><c> Gaussian</c><00:01:27.299><c> distribution</c><00:01:27.420><c> or</c><00:01:28.110><c> Gaussian</c>
+
+00:01:28.249 --> 00:01:28.259 align:start position:0%
+the Gaussian distribution or Gaussian
+ 
+
+00:01:28.259 --> 00:01:31.060 align:start position:0%
+the Gaussian distribution or Gaussian
+probability<00:01:28.740><c> density</c><00:01:29.390><c> look</c><00:01:30.390><c> like</c><00:01:30.600><c> the</c>
+
+00:01:31.060 --> 00:01:31.070 align:start position:0%
+probability density look like the
+ 
+
+00:01:31.070 --> 00:01:34.580 align:start position:0%
+probability density look like the
+bell-shaped<00:01:32.070><c> curve</c><00:01:32.369><c> which</c><00:01:32.880><c> you</c><00:01:33.409><c> may</c><00:01:34.409><c> have</c>
+
+00:01:34.580 --> 00:01:34.590 align:start position:0%
+bell-shaped curve which you may have
+ 
+
+00:01:34.590 --> 00:01:37.880 align:start position:0%
+bell-shaped curve which you may have
+seen<00:01:34.770><c> before</c><00:01:34.979><c> and</c><00:01:35.689><c> so</c><00:01:36.689><c> this</c><00:01:37.020><c> bell-shaped</c>
+
+00:01:37.880 --> 00:01:37.890 align:start position:0%
+seen before and so this bell-shaped
+ 
+
+00:01:37.890 --> 00:01:39.380 align:start position:0%
+seen before and so this bell-shaped
+curve<00:01:38.100><c> is</c><00:01:38.250><c> parametrized</c><00:01:38.579><c> by</c><00:01:39.090><c> those</c>
+
+00:01:39.380 --> 00:01:39.390 align:start position:0%
+curve is parametrized by those
+ 
+
+00:01:39.390 --> 00:01:41.719 align:start position:0%
+curve is parametrized by those
+differences<00:01:39.810><c> in</c><00:01:40.140><c> mu</c><00:01:40.229><c> and</c><00:01:40.380><c> Sigma</c><00:01:40.710><c> and</c><00:01:40.920><c> the</c>
+
+00:01:41.719 --> 00:01:41.729 align:start position:0%
+differences in mu and Sigma and the
+ 
+
+00:01:41.729 --> 00:01:43.760 align:start position:0%
+differences in mu and Sigma and the
+location<00:01:42.360><c> or</c><00:01:42.540><c> the</c><00:01:42.659><c> center</c><00:01:43.049><c> of</c><00:01:43.470><c> this</c>
+
+00:01:43.760 --> 00:01:43.770 align:start position:0%
+location or the center of this
+ 
+
+00:01:43.770 --> 00:01:47.090 align:start position:0%
+location or the center of this
+bell-shaped<00:01:44.250><c> curve</c><00:01:44.490><c> is</c><00:01:44.729><c> the</c><00:01:44.880><c> mean</c><00:01:45.090><c> mu</c><00:01:45.869><c> and</c><00:01:46.100><c> the</c>
+
+00:01:47.090 --> 00:01:47.100 align:start position:0%
+bell-shaped curve is the mean mu and the
+ 
+
+00:01:47.100 --> 00:01:49.880 align:start position:0%
+bell-shaped curve is the mean mu and the
+width<00:01:47.369><c> of</c><00:01:47.490><c> this</c><00:01:47.670><c> bell-shaped</c><00:01:48.149><c> curve</c><00:01:48.890><c> of</c>
+
+00:01:49.880 --> 00:01:49.890 align:start position:0%
+width of this bell-shaped curve of
+ 
+
+00:01:49.890 --> 00:01:53.960 align:start position:0%
+width of this bell-shaped curve of
+roughly<00:01:50.250><c> that</c><00:01:50.430><c> is</c><00:01:50.909><c> the</c><00:01:51.950><c> this</c><00:01:52.950><c> parameter</c><00:01:53.189><c> Sigma</c>
+
+00:01:53.960 --> 00:01:53.970 align:start position:0%
+roughly that is the this parameter Sigma
+ 
+
+00:01:53.970 --> 00:01:55.500 align:start position:0%
+roughly that is the this parameter Sigma
+is<00:01:54.119><c> also</c><00:01:54.390><c> called</c><00:01:54.630><c> one</c><00:01:54.840><c> standard</c>
+
+00:01:55.500 --> 00:01:55.510 align:start position:0%
+is also called one standard
+ 
+
+00:01:55.510 --> 00:01:58.470 align:start position:0%
+is also called one standard
+creation<00:01:55.900><c> and</c><00:01:56.170><c> so</c><00:01:56.830><c> this</c><00:01:57.520><c> specifies</c><00:01:58.090><c> the</c>
+
+00:01:58.470 --> 00:01:58.480 align:start position:0%
+creation and so this specifies the
+ 
+
+00:01:58.480 --> 00:02:00.270 align:start position:0%
+creation and so this specifies the
+probability<00:01:59.200><c> of</c><00:01:59.320><c> X</c><00:01:59.560><c> taking</c><00:01:59.830><c> on</c><00:02:00.070><c> different</c>
+
+00:02:00.270 --> 00:02:00.280 align:start position:0%
+probability of X taking on different
+ 
+
+00:02:00.280 --> 00:02:02.940 align:start position:0%
+probability of X taking on different
+values<00:02:00.790><c> so</c><00:02:00.940><c> X</c><00:02:01.210><c> taking</c><00:02:01.450><c> on</c><00:02:01.720><c> values</c><00:02:02.290><c> you</c><00:02:02.740><c> know</c><00:02:02.800><c> in</c>
+
+00:02:02.940 --> 00:02:02.950 align:start position:0%
+values so X taking on values you know in
+ 
+
+00:02:02.950 --> 00:02:04.320 align:start position:0%
+values so X taking on values you know in
+the<00:02:03.010><c> middle</c><00:02:03.220><c> here</c><00:02:03.430><c> is</c><00:02:03.460><c> pretty</c><00:02:03.730><c> high</c><00:02:03.940><c> since</c><00:02:04.240><c> the</c>
+
+00:02:04.320 --> 00:02:04.330 align:start position:0%
+the middle here is pretty high since the
+ 
+
+00:02:04.330 --> 00:02:05.910 align:start position:0%
+the middle here is pretty high since the
+Gaussian<00:02:04.540><c> density</c><00:02:05.200><c> here</c><00:02:05.380><c> is</c><00:02:05.500><c> pretty</c><00:02:05.740><c> high</c>
+
+00:02:05.910 --> 00:02:05.920 align:start position:0%
+Gaussian density here is pretty high
+ 
+
+00:02:05.920 --> 00:02:08.609 align:start position:0%
+Gaussian density here is pretty high
+whereas<00:02:06.610><c> X</c><00:02:06.790><c> taking</c><00:02:07.180><c> on</c><00:02:07.330><c> values</c><00:02:07.510><c> further</c><00:02:08.410><c> and</c>
+
+00:02:08.609 --> 00:02:08.619 align:start position:0%
+whereas X taking on values further and
+ 
+
+00:02:08.619 --> 00:02:11.040 align:start position:0%
+whereas X taking on values further and
+further<00:02:08.770><c> away</c><00:02:09.010><c> will</c><00:02:09.850><c> be</c><00:02:09.880><c> diminishing</c><00:02:10.750><c> in</c>
+
+00:02:11.040 --> 00:02:11.050 align:start position:0%
+further away will be diminishing in
+ 
+
+00:02:11.050 --> 00:02:12.930 align:start position:0%
+further away will be diminishing in
+probability<00:02:11.650><c> finally</c><00:02:12.580><c> just</c><00:02:12.850><c> for</c>
+
+00:02:12.930 --> 00:02:12.940 align:start position:0%
+probability finally just for
+ 
+
+00:02:12.940 --> 00:02:14.280 align:start position:0%
+probability finally just for
+completeness<00:02:13.300><c> let</c><00:02:13.690><c> me</c><00:02:13.780><c> write</c><00:02:13.960><c> out</c><00:02:14.140><c> the</c>
+
+00:02:14.280 --> 00:02:14.290 align:start position:0%
+completeness let me write out the
+ 
+
+00:02:14.290 --> 00:02:17.190 align:start position:0%
+completeness let me write out the
+formula<00:02:14.800><c> for</c><00:02:14.830><c> the</c><00:02:15.100><c> Gaussian</c><00:02:15.510><c> distribution</c><00:02:16.510><c> so</c>
+
+00:02:17.190 --> 00:02:17.200 align:start position:0%
+formula for the Gaussian distribution so
+ 
+
+00:02:17.200 --> 00:02:19.650 align:start position:0%
+formula for the Gaussian distribution so
+they're<00:02:17.410><c> probably</c><00:02:17.530><c> effects</c><00:02:18.070><c> and</c><00:02:18.250><c> I</c><00:02:19.090><c> you</c>
+
+00:02:19.650 --> 00:02:19.660 align:start position:0%
+they're probably effects and I you
+ 
+
+00:02:19.660 --> 00:02:20.880 align:start position:0%
+they're probably effects and I you
+should<00:02:19.720><c> all</c><00:02:19.930><c> sometimes</c><00:02:20.320><c> write</c><00:02:20.500><c> this</c><00:02:20.650><c> instead</c>
+
+00:02:20.880 --> 00:02:20.890 align:start position:0%
+should all sometimes write this instead
+ 
+
+00:02:20.890 --> 00:02:22.500 align:start position:0%
+should all sometimes write this instead
+of<00:02:21.040><c> P</c><00:02:21.220><c> of</c><00:02:21.250><c> X</c><00:02:21.370><c> I'm</c><00:02:21.580><c> gonna</c><00:02:21.700><c> write</c><00:02:21.850><c> this</c><00:02:21.970><c> as</c><00:02:22.120><c> P</c><00:02:22.300><c> of</c><00:02:22.330><c> X</c>
+
+00:02:22.500 --> 00:02:22.510 align:start position:0%
+of P of X I'm gonna write this as P of X
+ 
+
+00:02:22.510 --> 00:02:25.590 align:start position:0%
+of P of X I'm gonna write this as P of X
+semicolon<00:02:23.290><c> new</c><00:02:23.890><c> comma</c><00:02:24.310><c> Sigma</c><00:02:24.880><c> squared</c><00:02:25.270><c> and</c><00:02:25.480><c> so</c>
+
+00:02:25.590 --> 00:02:25.600 align:start position:0%
+semicolon new comma Sigma squared and so
+ 
+
+00:02:25.600 --> 00:02:27.630 align:start position:0%
+semicolon new comma Sigma squared and so
+this<00:02:25.780><c> knows</c><00:02:26.050><c> that</c><00:02:26.320><c> it</c><00:02:26.530><c> probably</c><00:02:26.680><c> affects</c><00:02:27.100><c> it</c>
+
+00:02:27.630 --> 00:02:27.640 align:start position:0%
+this knows that it probably affects it
+ 
+
+00:02:27.640 --> 00:02:29.970 align:start position:0%
+this knows that it probably affects it
+is<00:02:27.820><c> parameterize</c><00:02:28.450><c> by</c><00:02:28.600><c> the</c><00:02:28.870><c> two</c><00:02:29.140><c> parameters</c><00:02:29.350><c> mu</c>
+
+00:02:29.970 --> 00:02:29.980 align:start position:0%
+is parameterize by the two parameters mu
+ 
+
+00:02:29.980 --> 00:02:33.330 align:start position:0%
+is parameterize by the two parameters mu
+and<00:02:30.010><c> Sigma</c><00:02:30.280><c> squared</c><00:02:30.970><c> and</c><00:02:31.800><c> the</c><00:02:32.800><c> formula</c><00:02:33.220><c> for</c>
+
+00:02:33.330 --> 00:02:33.340 align:start position:0%
+and Sigma squared and the formula for
+ 
+
+00:02:33.340 --> 00:02:35.760 align:start position:0%
+and Sigma squared and the formula for
+the<00:02:33.430><c> Gaussian</c><00:02:33.610><c> density</c><00:02:34.270><c> is</c><00:02:34.570><c> this</c><00:02:34.960><c> 1</c><00:02:35.410><c> over</c><00:02:35.620><c> root</c>
+
+00:02:35.760 --> 00:02:35.770 align:start position:0%
+the Gaussian density is this 1 over root
+ 
+
+00:02:35.770 --> 00:02:40.920 align:start position:0%
+the Gaussian density is this 1 over root
+2<00:02:35.830><c> Pi</c><00:02:36.220><c> Sigma</c><00:02:36.550><c> e</c><00:02:37.480><c> to</c><00:02:38.290><c> the</c><00:02:38.670><c> negative</c><00:02:39.670><c> X</c><00:02:40.270><c> minus</c><00:02:40.720><c> mu</c>
+
+00:02:40.920 --> 00:02:40.930 align:start position:0%
+2 Pi Sigma e to the negative X minus mu
+ 
+
+00:02:40.930 --> 00:02:44.610 align:start position:0%
+2 Pi Sigma e to the negative X minus mu
+squared<00:02:41.620><c> over</c><00:02:42.160><c> 2</c><00:02:42.400><c> Sigma</c><00:02:42.850><c> squared</c><00:02:43.410><c> so</c><00:02:44.410><c> there's</c>
+
+00:02:44.610 --> 00:02:44.620 align:start position:0%
+squared over 2 Sigma squared so there's
+ 
+
+00:02:44.620 --> 00:02:47.310 align:start position:0%
+squared over 2 Sigma squared so there's
+no<00:02:44.740><c> need</c><00:02:44.890><c> to</c><00:02:45.100><c> memorize</c><00:02:45.760><c> this</c><00:02:46.090><c> formula</c><00:02:46.750><c> you</c>
+
+00:02:47.310 --> 00:02:47.320 align:start position:0%
+no need to memorize this formula you
+ 
+
+00:02:47.320 --> 00:02:49.560 align:start position:0%
+no need to memorize this formula you
+know<00:02:47.410><c> this</c><00:02:47.590><c> is</c><00:02:47.709><c> just</c><00:02:47.920><c> the</c><00:02:48.010><c> formula</c><00:02:48.340><c> for</c><00:02:49.060><c> the</c>
+
+00:02:49.560 --> 00:02:49.570 align:start position:0%
+know this is just the formula for the
+ 
+
+00:02:49.570 --> 00:02:51.150 align:start position:0%
+know this is just the formula for the
+bell-shaped<00:02:49.780><c> curve</c><00:02:50.290><c> over</c><00:02:50.590><c> here</c><00:02:50.770><c> on</c><00:02:50.860><c> the</c><00:02:50.950><c> left</c>
+
+00:02:51.150 --> 00:02:51.160 align:start position:0%
+bell-shaped curve over here on the left
+ 
+
+00:02:51.160 --> 00:02:53.490 align:start position:0%
+bell-shaped curve over here on the left
+if<00:02:51.550><c> there's</c><00:02:52.270><c> no</c><00:02:52.390><c> need</c><00:02:52.570><c> to</c><00:02:52.660><c> memorize</c><00:02:52.810><c> it</c><00:02:53.230><c> and</c><00:02:53.380><c> if</c>
+
+00:02:53.490 --> 00:02:53.500 align:start position:0%
+if there's no need to memorize it and if
+ 
+
+00:02:53.500 --> 00:02:55.110 align:start position:0%
+if there's no need to memorize it and if
+you<00:02:53.590><c> ever</c><00:02:53.680><c> need</c><00:02:53.770><c> to</c><00:02:54.070><c> use</c><00:02:54.430><c> this</c><00:02:54.640><c> you</c><00:02:54.850><c> can</c><00:02:54.910><c> always</c>
+
+00:02:55.110 --> 00:02:55.120 align:start position:0%
+you ever need to use this you can always
+ 
+
+00:02:55.120 --> 00:02:57.510 align:start position:0%
+you ever need to use this you can always
+look<00:02:55.480><c> this</c><00:02:55.660><c> up</c><00:02:55.810><c> and</c><00:02:56.500><c> so</c><00:02:56.770><c> that</c><00:02:56.980><c> figure</c><00:02:57.280><c> on</c><00:02:57.310><c> the</c>
+
+00:02:57.510 --> 00:02:57.520 align:start position:0%
+look this up and so that figure on the
+ 
+
+00:02:57.520 --> 00:02:59.910 align:start position:0%
+look this up and so that figure on the
+left<00:02:57.760><c> that</c><00:02:58.000><c> is</c><00:02:58.060><c> what</c><00:02:58.360><c> you</c><00:02:58.480><c> get</c><00:02:58.660><c> if</c><00:02:58.930><c> you</c><00:02:59.380><c> take</c><00:02:59.890><c> a</c>
+
+00:02:59.910 --> 00:02:59.920 align:start position:0%
+left that is what you get if you take a
+ 
+
+00:02:59.920 --> 00:03:01.830 align:start position:0%
+left that is what you get if you take a
+fixed<00:03:00.220><c> value</c><00:03:00.640><c> of</c><00:03:00.670><c> mu</c><00:03:00.910><c> and</c><00:03:01.090><c> take</c><00:03:01.330><c> a</c><00:03:01.360><c> fixed</c><00:03:01.720><c> value</c>
+
+00:03:01.830 --> 00:03:01.840 align:start position:0%
+fixed value of mu and take a fixed value
+ 
+
+00:03:01.840 --> 00:03:06.300 align:start position:0%
+fixed value of mu and take a fixed value
+of<00:03:02.110><c> Sigma</c><00:03:02.830><c> and</c><00:03:03.700><c> you</c><00:03:04.660><c> plot</c><00:03:05.050><c> P</c><00:03:05.500><c> of</c><00:03:05.620><c> X</c><00:03:05.800><c> so</c><00:03:06.070><c> this</c>
+
+00:03:06.300 --> 00:03:06.310 align:start position:0%
+of Sigma and you plot P of X so this
+ 
+
+00:03:06.310 --> 00:03:09.780 align:start position:0%
+of Sigma and you plot P of X so this
+curve<00:03:07.150><c> here</c><00:03:07.420><c> this</c><00:03:07.630><c> is</c><00:03:07.780><c> really</c><00:03:08.080><c> P</c><00:03:08.620><c> of</c><00:03:08.709><c> x</c><00:03:08.950><c> plotted</c>
+
+00:03:09.780 --> 00:03:09.790 align:start position:0%
+curve here this is really P of x plotted
+ 
+
+00:03:09.790 --> 00:03:12.300 align:start position:0%
+curve here this is really P of x plotted
+as<00:03:09.940><c> a</c><00:03:09.970><c> function</c><00:03:10.120><c> of</c><00:03:10.600><c> X</c><00:03:10.840><c> you</c><00:03:11.530><c> know</c><00:03:11.650><c> for</c><00:03:11.920><c> a</c><00:03:11.950><c> fixed</c>
+
+00:03:12.300 --> 00:03:12.310 align:start position:0%
+as a function of X you know for a fixed
+ 
+
+00:03:12.310 --> 00:03:15.000 align:start position:0%
+as a function of X you know for a fixed
+value<00:03:12.340><c> of</c><00:03:12.730><c> Nu</c><00:03:13.150><c> and</c><00:03:13.360><c> of</c><00:03:13.630><c> Sigma</c><00:03:13.930><c> Square</c><00:03:14.200><c> and</c><00:03:14.890><c> by</c>
+
+00:03:15.000 --> 00:03:15.010 align:start position:0%
+value of Nu and of Sigma Square and by
+ 
+
+00:03:15.010 --> 00:03:16.710 align:start position:0%
+value of Nu and of Sigma Square and by
+the<00:03:15.070><c> way</c><00:03:15.250><c> sometimes</c><00:03:15.519><c> it's</c><00:03:15.910><c> easier</c><00:03:16.360><c> to</c><00:03:16.540><c> think</c>
+
+00:03:16.710 --> 00:03:16.720 align:start position:0%
+the way sometimes it's easier to think
+ 
+
+00:03:16.720 --> 00:03:18.720 align:start position:0%
+the way sometimes it's easier to think
+in<00:03:16.900><c> terms</c><00:03:16.959><c> of</c><00:03:17.410><c> Sigma</c><00:03:17.800><c> squared</c><00:03:18.130><c> that's</c><00:03:18.459><c> called</c>
+
+00:03:18.720 --> 00:03:18.730 align:start position:0%
+in terms of Sigma squared that's called
+ 
+
+00:03:18.730 --> 00:03:21.150 align:start position:0%
+in terms of Sigma squared that's called
+the<00:03:18.850><c> variance</c><00:03:19.300><c> and</c><00:03:19.600><c> sometimes</c><00:03:20.560><c> is</c><00:03:20.769><c> easier</c><00:03:21.100><c> to</c>
+
+00:03:21.150 --> 00:03:21.160 align:start position:0%
+the variance and sometimes is easier to
+ 
+
+00:03:21.160 --> 00:03:23.550 align:start position:0%
+the variance and sometimes is easier to
+think<00:03:21.489><c> in</c><00:03:21.670><c> terms</c><00:03:22.000><c> of</c><00:03:22.300><c> Sigma</c><00:03:22.810><c> so</c><00:03:23.110><c> Sigma</c><00:03:23.530><c> is</c>
+
+00:03:23.550 --> 00:03:23.560 align:start position:0%
+think in terms of Sigma so Sigma is
+ 
+
+00:03:23.560 --> 00:03:28.770 align:start position:0%
+think in terms of Sigma so Sigma is
+called<00:03:24.100><c> the</c><00:03:24.510><c> standard</c><00:03:25.510><c> deviation</c><00:03:25.540><c> and</c><00:03:27.000><c> it</c><00:03:28.000><c> so</c>
+
+00:03:28.770 --> 00:03:28.780 align:start position:0%
+called the standard deviation and it so
+ 
+
+00:03:28.780 --> 00:03:30.420 align:start position:0%
+called the standard deviation and it so
+that<00:03:28.930><c> specifies</c><00:03:29.440><c> the</c><00:03:29.470><c> width</c><00:03:30.040><c> of</c><00:03:30.250><c> this</c>
+
+00:03:30.420 --> 00:03:30.430 align:start position:0%
+that specifies the width of this
+ 
+
+00:03:30.430 --> 00:03:33.000 align:start position:0%
+that specifies the width of this
+Gaussian<00:03:30.700><c> probability</c><00:03:31.510><c> density</c><00:03:31.890><c> whereas</c><00:03:32.890><c> the</c>
+
+00:03:33.000 --> 00:03:33.010 align:start position:0%
+Gaussian probability density whereas the
+ 
+
+00:03:33.010 --> 00:03:34.620 align:start position:0%
+Gaussian probability density whereas the
+square<00:03:33.310><c> of</c><00:03:33.400><c> Sigma</c><00:03:33.730><c> of</c><00:03:33.970><c> Sigma</c><00:03:34.209><c> squared</c><00:03:34.510><c> is</c>
+
+00:03:34.620 --> 00:03:34.630 align:start position:0%
+square of Sigma of Sigma squared is
+ 
+
+00:03:34.630 --> 00:03:37.290 align:start position:0%
+square of Sigma of Sigma squared is
+called<00:03:34.900><c> the</c><00:03:34.989><c> variance</c><00:03:35.820><c> let's</c><00:03:36.820><c> look</c><00:03:37.030><c> at</c><00:03:37.120><c> some</c>
+
+00:03:37.290 --> 00:03:37.300 align:start position:0%
+called the variance let's look at some
+ 
+
+00:03:37.300 --> 00:03:39.210 align:start position:0%
+called the variance let's look at some
+examples<00:03:37.840><c> of</c><00:03:38.019><c> what</c><00:03:38.080><c> the</c><00:03:38.410><c> Gaussian</c>
+
+00:03:39.210 --> 00:03:39.220 align:start position:0%
+examples of what the Gaussian
+ 
+
+00:03:39.220 --> 00:03:42.180 align:start position:0%
+examples of what the Gaussian
+distribution<00:03:39.310><c> looks</c><00:03:39.940><c> like</c><00:03:40.110><c> if</c><00:03:41.110><c> mu</c><00:03:41.440><c> equals</c><00:03:41.800><c> 0</c>
+
+00:03:42.180 --> 00:03:42.190 align:start position:0%
+distribution looks like if mu equals 0
+ 
+
+00:03:42.190 --> 00:03:44.759 align:start position:0%
+distribution looks like if mu equals 0
+Sigma<00:03:42.580><c> equals</c><00:03:42.850><c> 1</c><00:03:43.120><c> then</c><00:03:43.810><c> we</c><00:03:43.959><c> have</c><00:03:44.170><c> a</c><00:03:44.200><c> Gaussian</c>
+
+00:03:44.759 --> 00:03:44.769 align:start position:0%
+Sigma equals 1 then we have a Gaussian
+ 
+
+00:03:44.769 --> 00:03:47.310 align:start position:0%
+Sigma equals 1 then we have a Gaussian
+distribution<00:03:44.890><c> that's</c><00:03:45.700><c> centered</c><00:03:46.180><c> around</c><00:03:46.540><c> 0</c>
+
+00:03:47.310 --> 00:03:47.320 align:start position:0%
+distribution that's centered around 0
+ 
+
+00:03:47.320 --> 00:03:49.530 align:start position:0%
+distribution that's centered around 0
+because<00:03:47.739><c> as</c><00:03:47.920><c> mu</c><00:03:48.160><c> and</c><00:03:48.459><c> the</c><00:03:49.060><c> width</c><00:03:49.300><c> of</c><00:03:49.450><c> this</c>
+
+00:03:49.530 --> 00:03:49.540 align:start position:0%
+because as mu and the width of this
+ 
+
+00:03:49.540 --> 00:03:50.660 align:start position:0%
+because as mu and the width of this
+Gaussian
+
+00:03:50.660 --> 00:03:50.670 align:start position:0%
+Gaussian
+ 
+
+00:03:50.670 --> 00:03:53.000 align:start position:0%
+Gaussian
+that's<00:03:50.940><c> one</c><00:03:51.270><c> standard</c><00:03:51.690><c> deviation</c><00:03:52.290><c> is</c><00:03:52.680><c> Sigma</c>
+
+00:03:53.000 --> 00:03:53.010 align:start position:0%
+that's one standard deviation is Sigma
+ 
+
+00:03:53.010 --> 00:03:56.300 align:start position:0%
+that's one standard deviation is Sigma
+over<00:03:53.550><c> there</c><00:03:54.349><c> let's</c><00:03:55.349><c> look</c><00:03:55.560><c> at</c><00:03:55.680><c> some</c><00:03:55.830><c> examples</c>
+
+00:03:56.300 --> 00:03:56.310 align:start position:0%
+over there let's look at some examples
+ 
+
+00:03:56.310 --> 00:03:59.809 align:start position:0%
+over there let's look at some examples
+of<00:03:56.459><c> gaussians</c><00:03:57.349><c> if</c><00:03:58.349><c> mu</c><00:03:58.920><c> is</c><00:03:58.980><c> equal</c><00:03:59.190><c> to</c><00:03:59.400><c> zero</c>
+
+00:03:59.809 --> 00:03:59.819 align:start position:0%
+of gaussians if mu is equal to zero
+ 
+
+00:03:59.819 --> 00:04:02.150 align:start position:0%
+of gaussians if mu is equal to zero
+signals<00:04:00.450><c> 1</c><00:04:00.690><c> then</c><00:04:01.110><c> that</c><00:04:01.349><c> corresponds</c><00:04:01.890><c> to</c><00:04:02.040><c> a</c>
+
+00:04:02.150 --> 00:04:02.160 align:start position:0%
+signals 1 then that corresponds to a
+ 
+
+00:04:02.160 --> 00:04:04.520 align:start position:0%
+signals 1 then that corresponds to a
+Gaussian<00:04:02.340><c> distribution</c><00:04:02.880><c> that</c><00:04:03.720><c> is</c><00:04:03.780><c> centered</c>
+
+00:04:04.520 --> 00:04:04.530 align:start position:0%
+Gaussian distribution that is centered
+ 
+
+00:04:04.530 --> 00:04:08.270 align:start position:0%
+Gaussian distribution that is centered
+at<00:04:04.739><c> 0</c><00:04:05.190><c> since</c><00:04:05.610><c> mu</c><00:04:05.940><c> is</c><00:04:06.270><c> 0</c><00:04:06.660><c> and</c><00:04:06.989><c> the</c><00:04:07.739><c> width</c><00:04:08.010><c> of</c><00:04:08.130><c> this</c>
+
+00:04:08.270 --> 00:04:08.280 align:start position:0%
+at 0 since mu is 0 and the width of this
+ 
+
+00:04:08.280 --> 00:04:13.070 align:start position:0%
+at 0 since mu is 0 and the width of this
+Gaussian<00:04:09.140><c> is</c><00:04:11.360><c> depend</c><00:04:12.360><c> was</c><00:04:12.600><c> controlled</c><00:04:13.020><c> by</c>
+
+00:04:13.070 --> 00:04:13.080 align:start position:0%
+Gaussian is depend was controlled by
+ 
+
+00:04:13.080 --> 00:04:16.000 align:start position:0%
+Gaussian is depend was controlled by
+Sigma<00:04:13.860><c> by</c><00:04:14.069><c> that</c><00:04:14.280><c> variance</c><00:04:14.670><c> parameter</c><00:04:15.270><c> signal</c>
+
+00:04:16.000 --> 00:04:16.010 align:start position:0%
+Sigma by that variance parameter signal
+ 
+
+00:04:16.010 --> 00:04:21.170 align:start position:0%
+Sigma by that variance parameter signal
+here's<00:04:17.010><c> another</c><00:04:17.280><c> example</c><00:04:19.700><c> let's</c><00:04:20.700><c> say</c><00:04:20.910><c> mu</c><00:04:21.150><c> is</c>
+
+00:04:21.170 --> 00:04:21.180 align:start position:0%
+here's another example let's say mu is
+ 
+
+00:04:21.180 --> 00:04:24.290 align:start position:0%
+here's another example let's say mu is
+equal<00:04:21.389><c> to</c><00:04:21.570><c> 0</c><00:04:21.690><c> and</c><00:04:22.320><c> Sigma</c><00:04:22.710><c> is</c><00:04:23.130><c> equal</c><00:04:23.250><c> to</c><00:04:23.460><c> 1/2</c><00:04:24.030><c> so</c>
+
+00:04:24.290 --> 00:04:24.300 align:start position:0%
+equal to 0 and Sigma is equal to 1/2 so
+ 
+
+00:04:24.300 --> 00:04:27.710 align:start position:0%
+equal to 0 and Sigma is equal to 1/2 so
+the<00:04:24.870><c> standard</c><00:04:25.500><c> deviation</c><00:04:26.100><c> is</c><00:04:26.340><c> 1/2</c><00:04:26.970><c> and</c><00:04:27.210><c> the</c>
+
+00:04:27.710 --> 00:04:27.720 align:start position:0%
+the standard deviation is 1/2 and the
+ 
+
+00:04:27.720 --> 00:04:29.360 align:start position:0%
+the standard deviation is 1/2 and the
+variance<00:04:28.200><c> Sigma</c><00:04:28.590><c> squared</c><00:04:28.950><c> would</c><00:04:29.190><c> therefore</c>
+
+00:04:29.360 --> 00:04:29.370 align:start position:0%
+variance Sigma squared would therefore
+ 
+
+00:04:29.370 --> 00:04:32.710 align:start position:0%
+variance Sigma squared would therefore
+be<00:04:29.700><c> the</c><00:04:29.880><c> square</c><00:04:30.180><c> of</c><00:04:30.210><c> 0.5</c><00:04:30.810><c> would</c><00:04:31.080><c> be</c><00:04:31.200><c> 0.25</c><00:04:31.650><c> and</c>
+
+00:04:32.710 --> 00:04:32.720 align:start position:0%
+be the square of 0.5 would be 0.25 and
+ 
+
+00:04:32.720 --> 00:04:35.120 align:start position:0%
+be the square of 0.5 would be 0.25 and
+in<00:04:33.720><c> that</c><00:04:33.900><c> case</c><00:04:34.139><c> the</c><00:04:34.410><c> Gaussian</c><00:04:34.860><c> distribution</c>
+
+00:04:35.120 --> 00:04:35.130 align:start position:0%
+in that case the Gaussian distribution
+ 
+
+00:04:35.130 --> 00:04:37.340 align:start position:0%
+in that case the Gaussian distribution
+the<00:04:35.729><c> Gaussian</c><00:04:36.090><c> program</c><00:04:36.360><c> density</c><00:04:36.750><c> looks</c><00:04:37.200><c> like</c>
+
+00:04:37.340 --> 00:04:37.350 align:start position:0%
+the Gaussian program density looks like
+ 
+
+00:04:37.350 --> 00:04:40.790 align:start position:0%
+the Gaussian program density looks like
+this<00:04:37.580><c> is</c><00:04:38.580><c> also</c><00:04:38.880><c> centered</c><00:04:39.389><c> at</c><00:04:39.540><c> 0</c><00:04:39.930><c> but</c><00:04:40.560><c> now</c><00:04:40.740><c> the</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+this is also centered at 0 but now the
+ 
+
+00:04:40.800 --> 00:04:43.580 align:start position:0%
+this is also centered at 0 but now the
+width<00:04:41.310><c> of</c><00:04:41.490><c> this</c><00:04:41.760><c> is</c><00:04:42.210><c> much</c><00:04:42.600><c> smaller</c><00:04:42.990><c> because</c><00:04:43.380><c> of</c>
+
+00:04:43.580 --> 00:04:43.590 align:start position:0%
+width of this is much smaller because of
+ 
+
+00:04:43.590 --> 00:04:45.980 align:start position:0%
+width of this is much smaller because of
+the<00:04:43.860><c> smaller</c><00:04:44.100><c> variance</c><00:04:44.850><c> the</c><00:04:45.300><c> the</c><00:04:45.600><c> width</c><00:04:45.840><c> of</c>
+
+00:04:45.980 --> 00:04:45.990 align:start position:0%
+the smaller variance the the width of
+ 
+
+00:04:45.990 --> 00:04:48.890 align:start position:0%
+the smaller variance the the width of
+this<00:04:46.200><c> Gaussian</c><00:04:46.440><c> density</c><00:04:47.370><c> is</c><00:04:47.610><c> roughly</c><00:04:47.970><c> half</c><00:04:48.600><c> as</c>
+
+00:04:48.890 --> 00:04:48.900 align:start position:0%
+this Gaussian density is roughly half as
+ 
+
+00:04:48.900 --> 00:04:51.860 align:start position:0%
+this Gaussian density is roughly half as
+wide<00:04:49.729><c> but</c><00:04:50.729><c> because</c><00:04:51.180><c> this</c><00:04:51.330><c> is</c><00:04:51.479><c> a</c><00:04:51.510><c> priority</c>
+
+00:04:51.860 --> 00:04:51.870 align:start position:0%
+wide but because this is a priority
+ 
+
+00:04:51.870 --> 00:04:53.960 align:start position:0%
+wide but because this is a priority
+distribution<00:04:52.410><c> the</c><00:04:52.919><c> area</c><00:04:53.430><c> under</c><00:04:53.850><c> the</c><00:04:53.940><c> curve</c>
+
+00:04:53.960 --> 00:04:53.970 align:start position:0%
+distribution the area under the curve
+ 
+
+00:04:53.970 --> 00:04:57.140 align:start position:0%
+distribution the area under the curve
+that<00:04:54.630><c> is</c><00:04:54.780><c> the</c><00:04:54.930><c> shaded</c><00:04:55.380><c> area</c><00:04:55.740><c> there</c><00:04:55.979><c> that</c><00:04:56.669><c> area</c>
+
+00:04:57.140 --> 00:04:57.150 align:start position:0%
+that is the shaded area there that area
+ 
+
+00:04:57.150 --> 00:04:58.940 align:start position:0%
+that is the shaded area there that area
+must<00:04:57.479><c> integrate</c><00:04:57.690><c> to</c><00:04:57.990><c> 1</c><00:04:58.200><c> this</c><00:04:58.440><c> is</c><00:04:58.560><c> a</c><00:04:58.590><c> problem</c>
+
+00:04:58.940 --> 00:04:58.950 align:start position:0%
+must integrate to 1 this is a problem
+ 
+
+00:04:58.950 --> 00:05:00.650 align:start position:0%
+must integrate to 1 this is a problem
+property<00:04:59.580><c> of</c><00:04:59.850><c> probability</c><00:05:00.510><c> distributions</c>
+
+00:05:00.650 --> 00:05:00.660 align:start position:0%
+property of probability distributions
+ 
+
+00:05:00.660 --> 00:05:03.380 align:start position:0%
+property of probability distributions
+and<00:05:01.380><c> so</c><00:05:02.039><c> you</c><00:05:02.460><c> know</c><00:05:02.520><c> this</c><00:05:02.669><c> is</c><00:05:02.820><c> a</c><00:05:02.850><c> much</c><00:05:03.030><c> taller</c>
+
+00:05:03.380 --> 00:05:03.390 align:start position:0%
+and so you know this is a much taller
+ 
+
+00:05:03.390 --> 00:05:05.300 align:start position:0%
+and so you know this is a much taller
+Gaussian<00:05:04.050><c> density</c><00:05:04.500><c> because</c><00:05:04.800><c> this</c><00:05:04.950><c> half</c>
+
+00:05:05.300 --> 00:05:05.310 align:start position:0%
+Gaussian density because this half
+ 
+
+00:05:05.310 --> 00:05:06.920 align:start position:0%
+Gaussian density because this half
+that's<00:05:05.550><c> why</c><00:05:05.760><c> with</c><00:05:06.180><c> half</c><00:05:06.419><c> the</c><00:05:06.600><c> standard</c>
+
+00:05:06.920 --> 00:05:06.930 align:start position:0%
+that's why with half the standard
+ 
+
+00:05:06.930 --> 00:05:09.380 align:start position:0%
+that's why with half the standard
+deviation<00:05:07.380><c> but</c><00:05:07.590><c> it's</c><00:05:07.740><c> twice</c><00:05:07.950><c> as</c><00:05:07.979><c> tall</c><00:05:08.390><c> another</c>
+
+00:05:09.380 --> 00:05:09.390 align:start position:0%
+deviation but it's twice as tall another
+ 
+
+00:05:09.390 --> 00:05:12.680 align:start position:0%
+deviation but it's twice as tall another
+example<00:05:09.930><c> if</c><00:05:10.400><c> Sigma</c><00:05:11.400><c> is</c><00:05:11.640><c> equal</c><00:05:11.669><c> to</c><00:05:11.970><c> 2</c><00:05:12.240><c> then</c><00:05:12.570><c> you</c>
+
+00:05:12.680 --> 00:05:12.690 align:start position:0%
+example if Sigma is equal to 2 then you
+ 
+
+00:05:12.690 --> 00:05:14.930 align:start position:0%
+example if Sigma is equal to 2 then you
+get<00:05:12.840><c> a</c><00:05:12.870><c> much</c><00:05:13.110><c> fatter</c><00:05:13.410><c> or</c><00:05:13.650><c> much</c><00:05:13.919><c> wider</c><00:05:14.250><c> Gaussian</c>
+
+00:05:14.930 --> 00:05:14.940 align:start position:0%
+get a much fatter or much wider Gaussian
+ 
+
+00:05:14.940 --> 00:05:17.960 align:start position:0%
+get a much fatter or much wider Gaussian
+density<00:05:15.360><c> and</c><00:05:15.570><c> so</c><00:05:15.810><c> here</c><00:05:16.500><c> the</c><00:05:16.979><c> Sigma</c><00:05:17.250><c> parameter</c>
+
+00:05:17.960 --> 00:05:17.970 align:start position:0%
+density and so here the Sigma parameter
+ 
+
+00:05:17.970 --> 00:05:20.510 align:start position:0%
+density and so here the Sigma parameter
+controls<00:05:18.780><c> that</c><00:05:19.050><c> this</c><00:05:19.530><c> Gaussian</c><00:05:19.890><c> density</c><00:05:20.340><c> has</c>
+
+00:05:20.510 --> 00:05:20.520 align:start position:0%
+controls that this Gaussian density has
+ 
+
+00:05:20.520 --> 00:05:23.000 align:start position:0%
+controls that this Gaussian density has
+a<00:05:20.550><c> wider</c><00:05:20.880><c> width</c><00:05:21.240><c> and</c><00:05:21.960><c> once</c><00:05:22.200><c> again</c><00:05:22.320><c> the</c><00:05:22.620><c> area</c>
+
+00:05:23.000 --> 00:05:23.010 align:start position:0%
+a wider width and once again the area
+ 
+
+00:05:23.010 --> 00:05:25.070 align:start position:0%
+a wider width and once again the area
+under<00:05:23.220><c> the</c><00:05:23.310><c> curve</c><00:05:23.340><c> that</c><00:05:23.820><c> is</c><00:05:24.030><c> the</c><00:05:24.240><c> shaded</c><00:05:24.690><c> area</c>
+
+00:05:25.070 --> 00:05:25.080 align:start position:0%
+under the curve that is the shaded area
+ 
+
+00:05:25.080 --> 00:05:26.779 align:start position:0%
+under the curve that is the shaded area
+you<00:05:25.650><c> know</c><00:05:25.710><c> it</c><00:05:25.860><c> always</c><00:05:26.039><c> integrates</c><00:05:26.640><c> to</c><00:05:26.760><c> 1</c>
+
+00:05:26.779 --> 00:05:26.789 align:start position:0%
+you know it always integrates to 1
+ 
+
+00:05:26.789 --> 00:05:28.820 align:start position:0%
+you know it always integrates to 1
+there's<00:05:27.270><c> a</c><00:05:27.330><c> property</c><00:05:27.930><c> of</c><00:05:28.169><c> probability</c>
+
+00:05:28.820 --> 00:05:28.830 align:start position:0%
+there's a property of probability
+ 
+
+00:05:28.830 --> 00:05:30.710 align:start position:0%
+there's a property of probability
+distributions<00:05:29.460><c> and</c><00:05:29.789><c> because</c><00:05:30.300><c> it's</c><00:05:30.450><c> wider</c>
+
+00:05:30.710 --> 00:05:30.720 align:start position:0%
+distributions and because it's wider
+ 
+
+00:05:30.720 --> 00:05:33.260 align:start position:0%
+distributions and because it's wider
+it's<00:05:31.169><c> also</c><00:05:31.350><c> half</c><00:05:31.830><c> as</c><00:05:32.070><c> tall</c><00:05:32.310><c> in</c><00:05:32.640><c> order</c><00:05:32.940><c> to</c><00:05:33.090><c> still</c>
+
+00:05:33.260 --> 00:05:33.270 align:start position:0%
+it's also half as tall in order to still
+ 
+
+00:05:33.270 --> 00:05:34.830 align:start position:0%
+it's also half as tall in order to still
+integrate
+
+00:05:34.830 --> 00:05:34.840 align:start position:0%
+integrate
+ 
+
+00:05:34.840 --> 00:05:37.930 align:start position:0%
+integrate
+and<00:05:35.840><c> finally</c><00:05:36.350><c> one</c><00:05:36.620><c> last</c><00:05:36.650><c> example</c><00:05:36.950><c> would</c><00:05:37.520><c> be</c><00:05:37.550><c> if</c>
+
+00:05:37.930 --> 00:05:37.940 align:start position:0%
+and finally one last example would be if
+ 
+
+00:05:37.940 --> 00:05:39.970 align:start position:0%
+and finally one last example would be if
+we<00:05:38.180><c> now</c><00:05:38.330><c> change</c><00:05:38.600><c> the</c><00:05:38.900><c> mute</c><00:05:39.140><c> params</c><00:05:39.500><c> as</c><00:05:39.740><c> well</c>
+
+00:05:39.970 --> 00:05:39.980 align:start position:0%
+we now change the mute params as well
+ 
+
+00:05:39.980 --> 00:05:42.190 align:start position:0%
+we now change the mute params as well
+then<00:05:40.430><c> instead</c><00:05:41.000><c> of</c><00:05:41.120><c> being</c><00:05:41.330><c> sent</c><00:05:41.510><c> to</c><00:05:41.600><c> the</c><00:05:41.750><c> zero</c>
+
+00:05:42.190 --> 00:05:42.200 align:start position:0%
+then instead of being sent to the zero
+ 
+
+00:05:42.200 --> 00:05:43.980 align:start position:0%
+then instead of being sent to the zero
+we<00:05:42.440><c> now</c><00:05:42.590><c> have</c><00:05:42.860><c> a</c><00:05:42.890><c> Gaussian</c><00:05:43.250><c> distribution</c>
+
+00:05:43.980 --> 00:05:43.990 align:start position:0%
+we now have a Gaussian distribution
+ 
+
+00:05:43.990 --> 00:05:48.340 align:start position:0%
+we now have a Gaussian distribution
+there<00:05:44.990><c> Center</c><00:05:45.410><c> at</c><00:05:45.740><c> 3</c><00:05:46.490><c> because</c><00:05:47.150><c> this</c><00:05:47.840><c> shifts</c>
+
+00:05:48.340 --> 00:05:48.350 align:start position:0%
+there Center at 3 because this shifts
+ 
+
+00:05:48.350 --> 00:05:50.490 align:start position:0%
+there Center at 3 because this shifts
+over<00:05:48.680><c> at</c><00:05:48.710><c> least</c><00:05:48.950><c> a</c><00:05:49.190><c> Gaussian</c><00:05:49.610><c> distribution</c>
+
+00:05:50.490 --> 00:05:50.500 align:start position:0%
+over at least a Gaussian distribution
+ 
+
+00:05:50.500 --> 00:05:53.260 align:start position:0%
+over at least a Gaussian distribution
+next<00:05:51.500><c> let's</c><00:05:51.770><c> talk</c><00:05:51.950><c> about</c><00:05:52.010><c> the</c><00:05:52.490><c> parameter</c>
+
+00:05:53.260 --> 00:05:53.270 align:start position:0%
+next let's talk about the parameter
+ 
+
+00:05:53.270 --> 00:05:55.690 align:start position:0%
+next let's talk about the parameter
+estimation<00:05:53.870><c> problem</c><00:05:54.500><c> so</c><00:05:55.280><c> what's</c><00:05:55.610><c> the</c>
+
+00:05:55.690 --> 00:05:55.700 align:start position:0%
+estimation problem so what's the
+ 
+
+00:05:55.700 --> 00:05:57.790 align:start position:0%
+estimation problem so what's the
+parameter<00:05:56.120><c> estimation</c><00:05:56.480><c> problem</c><00:05:57.020><c> let's</c><00:05:57.710><c> say</c>
+
+00:05:57.790 --> 00:05:57.800 align:start position:0%
+parameter estimation problem let's say
+ 
+
+00:05:57.800 --> 00:06:00.400 align:start position:0%
+parameter estimation problem let's say
+we<00:05:57.920><c> have</c><00:05:58.040><c> a</c><00:05:58.070><c> data</c><00:05:58.250><c> set</c><00:05:58.610><c> of</c><00:05:58.790><c> M</c><00:05:59.300><c> examples</c><00:05:59.480><c> so</c><00:06:00.050><c> X</c><00:06:00.200><c> 1</c>
+
+00:06:00.400 --> 00:06:00.410 align:start position:0%
+we have a data set of M examples so X 1
+ 
+
+00:06:00.410 --> 00:06:02.170 align:start position:0%
+we have a data set of M examples so X 1
+through<00:06:00.620><c> X</c><00:06:00.770><c> M</c><00:06:00.980><c> and</c><00:06:01.250><c> let's</c><00:06:01.490><c> say</c><00:06:01.640><c> each</c><00:06:01.880><c> of</c><00:06:01.910><c> these</c>
+
+00:06:02.170 --> 00:06:02.180 align:start position:0%
+through X M and let's say each of these
+ 
+
+00:06:02.180 --> 00:06:04.420 align:start position:0%
+through X M and let's say each of these
+examples<00:06:02.660><c> is</c><00:06:03.020><c> a</c><00:06:03.050><c> real</c><00:06:03.290><c> number</c><00:06:03.470><c> if</c><00:06:04.220><c> you're</c><00:06:04.340><c> in</c>
+
+00:06:04.420 --> 00:06:04.430 align:start position:0%
+examples is a real number if you're in
+ 
+
+00:06:04.430 --> 00:06:06.190 align:start position:0%
+examples is a real number if you're in
+the<00:06:04.490><c> figure</c><00:06:04.730><c> of</c><00:06:04.760><c> plotted</c><00:06:05.480><c> an</c><00:06:05.630><c> example</c><00:06:06.080><c> of</c><00:06:06.140><c> a</c>
+
+00:06:06.190 --> 00:06:06.200 align:start position:0%
+the figure of plotted an example of a
+ 
+
+00:06:06.200 --> 00:06:08.230 align:start position:0%
+the figure of plotted an example of a
+data<00:06:06.380><c> set</c><00:06:06.650><c> so</c><00:06:06.890><c> the</c><00:06:07.010><c> horizontal</c><00:06:07.160><c> axis</c><00:06:07.910><c> is</c><00:06:08.120><c> the</c><00:06:08.150><c> x</c>
+
+00:06:08.230 --> 00:06:08.240 align:start position:0%
+data set so the horizontal axis is the x
+ 
+
+00:06:08.240 --> 00:06:10.210 align:start position:0%
+data set so the horizontal axis is the x
+axis<00:06:08.870><c> and</c><00:06:09.080><c> you</c><00:06:09.230><c> know</c><00:06:09.350><c> I</c><00:06:09.380><c> have</c><00:06:09.680><c> a</c><00:06:09.710><c> range</c><00:06:09.980><c> of</c>
+
+00:06:10.210 --> 00:06:10.220 align:start position:0%
+axis and you know I have a range of
+ 
+
+00:06:10.220 --> 00:06:12.460 align:start position:0%
+axis and you know I have a range of
+examples<00:06:10.910><c> of</c><00:06:11.240><c> X</c><00:06:11.420><c> and</c><00:06:11.630><c> I've</c><00:06:11.690><c> just</c><00:06:11.870><c> plotted</c><00:06:12.110><c> them</c>
+
+00:06:12.460 --> 00:06:12.470 align:start position:0%
+examples of X and I've just plotted them
+ 
+
+00:06:12.470 --> 00:06:15.460 align:start position:0%
+examples of X and I've just plotted them
+on<00:06:12.740><c> this</c><00:06:12.980><c> figure</c><00:06:13.220><c> here</c><00:06:13.580><c> and</c><00:06:14.020><c> the</c><00:06:15.020><c> parameter</c>
+
+00:06:15.460 --> 00:06:15.470 align:start position:0%
+on this figure here and the parameter
+ 
+
+00:06:15.470 --> 00:06:17.710 align:start position:0%
+on this figure here and the parameter
+estimation<00:06:15.830><c> problem</c><00:06:16.370><c> is</c><00:06:16.550><c> let's</c><00:06:17.480><c> say</c><00:06:17.690><c> I</c>
+
+00:06:17.710 --> 00:06:17.720 align:start position:0%
+estimation problem is let's say I
+ 
+
+00:06:17.720 --> 00:06:20.020 align:start position:0%
+estimation problem is let's say I
+suspect<00:06:18.290><c> that</c><00:06:18.410><c> these</c><00:06:18.710><c> examples</c><00:06:19.340><c> came</c><00:06:19.670><c> from</c><00:06:19.880><c> a</c>
+
+00:06:20.020 --> 00:06:20.030 align:start position:0%
+suspect that these examples came from a
+ 
+
+00:06:20.030 --> 00:06:21.640 align:start position:0%
+suspect that these examples came from a
+Gaussian<00:06:20.210><c> distribution</c><00:06:20.600><c> so</c><00:06:21.320><c> let's</c><00:06:21.530><c> say</c><00:06:21.620><c> I</c>
+
+00:06:21.640 --> 00:06:21.650 align:start position:0%
+Gaussian distribution so let's say I
+ 
+
+00:06:21.650 --> 00:06:23.740 align:start position:0%
+Gaussian distribution so let's say I
+suspect<00:06:22.100><c> that</c><00:06:22.310><c> each</c><00:06:22.580><c> of</c><00:06:22.610><c> my</c><00:06:22.820><c> examples</c><00:06:23.330><c> Exxon</c>
+
+00:06:23.740 --> 00:06:23.750 align:start position:0%
+suspect that each of my examples Exxon
+ 
+
+00:06:23.750 --> 00:06:26.170 align:start position:0%
+suspect that each of my examples Exxon
+was<00:06:24.410><c> distributed</c><00:06:25.220><c> that's</c><00:06:25.520><c> what</c><00:06:25.670><c> this</c><00:06:25.790><c> total</c>
+
+00:06:26.170 --> 00:06:26.180 align:start position:0%
+was distributed that's what this total
+ 
+
+00:06:26.180 --> 00:06:28.270 align:start position:0%
+was distributed that's what this total
+thing<00:06:26.330><c> comes</c><00:06:26.540><c> that</c><00:06:26.870><c> means</c><00:06:27.110><c> let's</c><00:06:27.770><c> not</c><00:06:27.920><c> suspect</c>
+
+00:06:28.270 --> 00:06:28.280 align:start position:0%
+thing comes that means let's not suspect
+ 
+
+00:06:28.280 --> 00:06:29.440 align:start position:0%
+thing comes that means let's not suspect
+that<00:06:28.370><c> each</c><00:06:28.490><c> of</c><00:06:28.610><c> these</c><00:06:28.700><c> examples</c><00:06:28.880><c> was</c>
+
+00:06:29.440 --> 00:06:29.450 align:start position:0%
+that each of these examples was
+ 
+
+00:06:29.450 --> 00:06:31.180 align:start position:0%
+that each of these examples was
+distributed<00:06:30.200><c> according</c><00:06:30.560><c> to</c><00:06:30.770><c> a</c><00:06:31.010><c> normal</c>
+
+00:06:31.180 --> 00:06:31.190 align:start position:0%
+distributed according to a normal
+ 
+
+00:06:31.190 --> 00:06:32.950 align:start position:0%
+distributed according to a normal
+distribution<00:06:31.790><c> or</c><00:06:32.270><c> Gaussian</c><00:06:32.480><c> distribution</c>
+
+00:06:32.950 --> 00:06:32.960 align:start position:0%
+distribution or Gaussian distribution
+ 
+
+00:06:32.960 --> 00:06:35.620 align:start position:0%
+distribution or Gaussian distribution
+with<00:06:33.470><c> some</c><00:06:34.250><c> parameter</c><00:06:34.910><c> mu</c><00:06:35.120><c> and</c><00:06:35.390><c> some</c>
+
+00:06:35.620 --> 00:06:35.630 align:start position:0%
+with some parameter mu and some
+ 
+
+00:06:35.630 --> 00:06:38.380 align:start position:0%
+with some parameter mu and some
+parameter<00:06:36.110><c> Sigma</c><00:06:36.380><c> squared</c><00:06:36.730><c> but</c><00:06:37.730><c> I</c><00:06:37.910><c> don't</c><00:06:38.240><c> know</c>
+
+00:06:38.380 --> 00:06:38.390 align:start position:0%
+parameter Sigma squared but I don't know
+ 
+
+00:06:38.390 --> 00:06:40.030 align:start position:0%
+parameter Sigma squared but I don't know
+what<00:06:38.660><c> the</c><00:06:38.780><c> values</c><00:06:39.140><c> of</c><00:06:39.290><c> these</c><00:06:39.380><c> parameters</c><00:06:39.560><c> are</c>
+
+00:06:40.030 --> 00:06:40.040 align:start position:0%
+what the values of these parameters are
+ 
+
+00:06:40.040 --> 00:06:42.550 align:start position:0%
+what the values of these parameters are
+the<00:06:40.970><c> problem</c><00:06:41.390><c> what</c><00:06:41.480><c> parameter</c><00:06:41.870><c> estimation</c><00:06:42.200><c> is</c>
+
+00:06:42.550 --> 00:06:42.560 align:start position:0%
+the problem what parameter estimation is
+ 
+
+00:06:42.560 --> 00:06:44.920 align:start position:0%
+the problem what parameter estimation is
+given<00:06:43.460><c> my</c><00:06:43.580><c> data</c><00:06:43.790><c> set</c><00:06:44.090><c> I</c><00:06:44.330><c> want</c><00:06:44.690><c> to</c><00:06:44.750><c> try</c><00:06:44.870><c> to</c>
+
+00:06:44.920 --> 00:06:44.930 align:start position:0%
+given my data set I want to try to
+ 
+
+00:06:44.930 --> 00:06:46.840 align:start position:0%
+given my data set I want to try to
+figure<00:06:45.140><c> out</c><00:06:45.350><c> I</c><00:06:45.380><c> want</c><00:06:45.770><c> to</c><00:06:45.800><c> estimate</c><00:06:46.280><c> what</c><00:06:46.790><c> are</c>
+
+00:06:46.840 --> 00:06:46.850 align:start position:0%
+figure out I want to estimate what are
+ 
+
+00:06:46.850 --> 00:06:50.170 align:start position:0%
+figure out I want to estimate what are
+the<00:06:47.030><c> values</c><00:06:47.450><c> of</c><00:06:47.480><c> MU</c><00:06:47.930><c> and</c><00:06:48.140><c> Sigma</c><00:06:48.230><c> squared</c><00:06:48.850><c> so</c><00:06:49.850><c> if</c>
+
+00:06:50.170 --> 00:06:50.180 align:start position:0%
+the values of MU and Sigma squared so if
+ 
+
+00:06:50.180 --> 00:06:51.640 align:start position:0%
+the values of MU and Sigma squared so if
+you're<00:06:50.270><c> given</c><00:06:50.480><c> a</c><00:06:50.540><c> dataset</c><00:06:50.690><c> like</c><00:06:50.960><c> this</c><00:06:51.290><c> you</c>
+
+00:06:51.640 --> 00:06:51.650 align:start position:0%
+you're given a dataset like this you
+ 
+
+00:06:51.650 --> 00:06:54.610 align:start position:0%
+you're given a dataset like this you
+know<00:06:51.740><c> it</c><00:06:51.860><c> looks</c><00:06:52.010><c> like</c><00:06:52.100><c> maybe</c><00:06:53.050><c> if</c><00:06:54.050><c> I</c><00:06:54.140><c> estimate</c>
+
+00:06:54.610 --> 00:06:54.620 align:start position:0%
+know it looks like maybe if I estimate
+ 
+
+00:06:54.620 --> 00:06:56.740 align:start position:0%
+know it looks like maybe if I estimate
+what<00:06:54.920><c> Gaussian</c><00:06:55.520><c> distribution</c><00:06:55.790><c> the</c><00:06:56.270><c> data</c><00:06:56.450><c> came</c>
+
+00:06:56.740 --> 00:06:56.750 align:start position:0%
+what Gaussian distribution the data came
+ 
+
+00:06:56.750 --> 00:07:01.330 align:start position:0%
+what Gaussian distribution the data came
+from<00:06:57.280><c> maybe</c><00:06:58.280><c> that</c><00:06:59.830><c> might</c><00:07:00.830><c> be</c><00:07:00.980><c> roughly</c><00:07:01.190><c> the</c>
+
+00:07:01.330 --> 00:07:01.340 align:start position:0%
+from maybe that might be roughly the
+ 
+
+00:07:01.340 --> 00:07:03.630 align:start position:0%
+from maybe that might be roughly the
+Gaussian<00:07:01.820><c> distribution</c><00:07:01.940><c> it</c><00:07:02.390><c> came</c><00:07:02.540><c> from</c><00:07:02.810><c> with</c>
+
+00:07:03.630 --> 00:07:03.640 align:start position:0%
+Gaussian distribution it came from with
+ 
+
+00:07:03.640 --> 00:07:06.970 align:start position:0%
+Gaussian distribution it came from with
+mu<00:07:04.660><c> being</c><00:07:05.660><c> the</c><00:07:05.840><c> center</c><00:07:06.170><c> of</c><00:07:06.200><c> the</c><00:07:06.350><c> distribution</c>
+
+00:07:06.970 --> 00:07:06.980 align:start position:0%
+mu being the center of the distribution
+ 
+
+00:07:06.980 --> 00:07:09.670 align:start position:0%
+mu being the center of the distribution
+and<00:07:07.480><c> Sigma</c><00:07:08.480><c> the</c><00:07:08.780><c> standard</c><00:07:09.140><c> deviation</c>
+
+00:07:09.670 --> 00:07:09.680 align:start position:0%
+and Sigma the standard deviation
+ 
+
+00:07:09.680 --> 00:07:11.500 align:start position:0%
+and Sigma the standard deviation
+controlling<00:07:10.580><c> the</c><00:07:10.790><c> width</c><00:07:11.030><c> of</c><00:07:11.180><c> this</c><00:07:11.300><c> Gaussian</c>
+
+00:07:11.500 --> 00:07:11.510 align:start position:0%
+controlling the width of this Gaussian
+ 
+
+00:07:11.510 --> 00:07:13.300 align:start position:0%
+controlling the width of this Gaussian
+distribution<00:07:11.960><c> it</c><00:07:12.560><c> seems</c><00:07:12.740><c> like</c><00:07:12.860><c> a</c><00:07:12.890><c> reasonable</c>
+
+00:07:13.300 --> 00:07:13.310 align:start position:0%
+distribution it seems like a reasonable
+ 
+
+00:07:13.310 --> 00:07:15.550 align:start position:0%
+distribution it seems like a reasonable
+fit<00:07:13.460><c> to</c><00:07:13.580><c> the</c><00:07:13.670><c> data</c><00:07:13.810><c> because</c><00:07:14.810><c> you</c><00:07:15.050><c> know</c><00:07:15.470><c> it</c>
+
+00:07:15.550 --> 00:07:15.560 align:start position:0%
+fit to the data because you know it
+ 
+
+00:07:15.560 --> 00:07:17.620 align:start position:0%
+fit to the data because you know it
+looks<00:07:15.740><c> like</c><00:07:15.920><c> the</c><00:07:16.130><c> data</c><00:07:16.580><c> has</c><00:07:17.090><c> a</c><00:07:17.120><c> very</c><00:07:17.390><c> high</c>
+
+00:07:17.620 --> 00:07:17.630 align:start position:0%
+looks like the data has a very high
+ 
+
+00:07:17.630 --> 00:07:19.780 align:start position:0%
+looks like the data has a very high
+probability<00:07:18.320><c> of</c><00:07:18.350><c> being</c><00:07:18.770><c> in</c><00:07:19.250><c> the</c><00:07:19.400><c> central</c>
+
+00:07:19.780 --> 00:07:19.790 align:start position:0%
+probability of being in the central
+ 
+
+00:07:19.790 --> 00:07:22.390 align:start position:0%
+probability of being in the central
+region<00:07:20.230><c> alone</c><00:07:21.230><c> probably</c><00:07:21.500><c> of</c><00:07:21.980><c> being</c><00:07:22.160><c> further</c>
+
+00:07:22.390 --> 00:07:22.400 align:start position:0%
+region alone probably of being further
+ 
+
+00:07:22.400 --> 00:07:23.950 align:start position:0%
+region alone probably of being further
+out<00:07:22.670><c> even</c><00:07:23.060><c> though</c><00:07:23.180><c> probably</c><00:07:23.480><c> of</c><00:07:23.780><c> being</c>
+
+00:07:23.950 --> 00:07:23.960 align:start position:0%
+out even though probably of being
+ 
+
+00:07:23.960 --> 00:07:25.930 align:start position:0%
+out even though probably of being
+further<00:07:24.140><c> out</c><00:07:24.440><c> and</c><00:07:24.650><c> so</c><00:07:24.800><c> on</c><00:07:24.980><c> so</c><00:07:25.250><c> maybe</c><00:07:25.520><c> this</c><00:07:25.730><c> is</c><00:07:25.910><c> a</c>
+
+00:07:25.930 --> 00:07:25.940 align:start position:0%
+further out and so on so maybe this is a
+ 
+
+00:07:25.940 --> 00:07:29.100 align:start position:0%
+further out and so on so maybe this is a
+reasonable<00:07:26.840><c> estimate</c><00:07:27.020><c> of</c><00:07:27.470><c> MU</c><00:07:28.280><c> and</c>
+
+00:07:29.100 --> 00:07:29.110 align:start position:0%
+reasonable estimate of MU and
+ 
+
+00:07:29.110 --> 00:07:31.680 align:start position:0%
+reasonable estimate of MU and
+of<00:07:29.260><c> cygnus</c><00:07:30.010><c> grid</c><00:07:30.280><c> that</c><00:07:30.580><c> is</c><00:07:30.640><c> if</c><00:07:31.090><c> it</c><00:07:31.240><c> corresponds</c>
+
+00:07:31.680 --> 00:07:31.690 align:start position:0%
+of cygnus grid that is if it corresponds
+ 
+
+00:07:31.690 --> 00:07:33.660 align:start position:0%
+of cygnus grid that is if it corresponds
+to<00:07:31.840><c> a</c><00:07:32.020><c> Gaussian</c><00:07:32.170><c> distribution</c><00:07:32.650><c> that</c><00:07:33.610><c> looks</c>
+
+00:07:33.660 --> 00:07:33.670 align:start position:0%
+to a Gaussian distribution that looks
+ 
+
+00:07:33.670 --> 00:07:37.290 align:start position:0%
+to a Gaussian distribution that looks
+like<00:07:33.970><c> this</c><00:07:34.800><c> so</c><00:07:35.800><c> I'm</c><00:07:36.280><c> going</c><00:07:36.460><c> to</c><00:07:36.550><c> use</c><00:07:36.700><c> just</c><00:07:36.730><c> write</c>
+
+00:07:37.290 --> 00:07:37.300 align:start position:0%
+like this so I'm going to use just write
+ 
+
+00:07:37.300 --> 00:07:39.690 align:start position:0%
+like this so I'm going to use just write
+out<00:07:37.510><c> the</c><00:07:37.720><c> formulas</c><00:07:38.350><c> the</c><00:07:38.770><c> standard</c><00:07:39.220><c> formulas</c>
+
+00:07:39.690 --> 00:07:39.700 align:start position:0%
+out the formulas the standard formulas
+ 
+
+00:07:39.700 --> 00:07:41.580 align:start position:0%
+out the formulas the standard formulas
+for<00:07:39.970><c> estimating</c><00:07:40.450><c> the</c><00:07:40.780><c> parameters</c><00:07:41.350><c> mu</c><00:07:41.560><c> and</c>
+
+00:07:41.580 --> 00:07:41.590 align:start position:0%
+for estimating the parameters mu and
+ 
+
+00:07:41.590 --> 00:07:44.430 align:start position:0%
+for estimating the parameters mu and
+Sigma<00:07:41.890><c> script</c><00:07:42.430><c> our</c><00:07:43.270><c> estimate</c><00:07:43.840><c> of</c><00:07:44.020><c> the</c><00:07:44.290><c> way</c>
+
+00:07:44.430 --> 00:07:44.440 align:start position:0%
+Sigma script our estimate of the way
+ 
+
+00:07:44.440 --> 00:07:47.550 align:start position:0%
+Sigma script our estimate of the way
+we're<00:07:44.590><c> going</c><00:07:44.680><c> to</c><00:07:44.800><c> estimate</c><00:07:45.430><c> mu</c><00:07:46.000><c> is</c><00:07:46.900><c> going</c><00:07:47.320><c> to</c>
+
+00:07:47.550 --> 00:07:47.560 align:start position:0%
+we're going to estimate mu is going to
+ 
+
+00:07:47.560 --> 00:07:51.630 align:start position:0%
+we're going to estimate mu is going to
+be<00:07:47.710><c> just</c><00:07:48.370><c> the</c><00:07:48.490><c> average</c><00:07:48.720><c> of</c><00:07:49.720><c> my</c><00:07:50.160><c> example</c><00:07:51.160><c> so</c><00:07:51.370><c> mu</c>
+
+00:07:51.630 --> 00:07:51.640 align:start position:0%
+be just the average of my example so mu
+ 
+
+00:07:51.640 --> 00:07:53.370 align:start position:0%
+be just the average of my example so mu
+is<00:07:51.670><c> the</c><00:07:51.880><c> mean</c><00:07:52.150><c> parameter</c><00:07:52.690><c> just</c><00:07:53.020><c> take</c><00:07:53.260><c> my</c>
+
+00:07:53.370 --> 00:07:53.380 align:start position:0%
+is the mean parameter just take my
+ 
+
+00:07:53.380 --> 00:07:55.050 align:start position:0%
+is the mean parameter just take my
+training<00:07:53.650><c> set</c><00:07:54.010><c> take</c><00:07:54.220><c> my</c><00:07:54.340><c> M</c><00:07:54.490><c> examples</c><00:07:54.640><c> and</c>
+
+00:07:55.050 --> 00:07:55.060 align:start position:0%
+training set take my M examples and
+ 
+
+00:07:55.060 --> 00:07:57.180 align:start position:0%
+training set take my M examples and
+average<00:07:55.390><c> them</c><00:07:55.570><c> and</c><00:07:55.870><c> that</c><00:07:56.350><c> me</c><00:07:56.500><c> or</c><00:07:56.530><c> gives</c><00:07:56.890><c> me</c><00:07:56.950><c> the</c>
+
+00:07:57.180 --> 00:07:57.190 align:start position:0%
+average them and that me or gives me the
+ 
+
+00:07:57.190 --> 00:08:00.260 align:start position:0%
+average them and that me or gives me the
+center<00:07:57.640><c> of</c><00:07:57.910><c> this</c><00:07:58.060><c> distribution</c>
+
+00:08:00.260 --> 00:08:00.270 align:start position:0%
+center of this distribution
+ 
+
+00:08:00.270 --> 00:08:02.820 align:start position:0%
+center of this distribution
+how<00:08:01.270><c> about</c><00:08:01.420><c> Sigma</c><00:08:01.720><c> square</c><00:08:01.990><c> well</c><00:08:02.170><c> the</c><00:08:02.260><c> variance</c>
+
+00:08:02.820 --> 00:08:02.830 align:start position:0%
+how about Sigma square well the variance
+ 
+
+00:08:02.830 --> 00:08:04.500 align:start position:0%
+how about Sigma square well the variance
+I'll<00:08:03.160><c> just</c><00:08:03.310><c> write</c><00:08:03.520><c> out</c><00:08:03.670><c> the</c><00:08:03.880><c> standard</c><00:08:04.270><c> formula</c>
+
+00:08:04.500 --> 00:08:04.510 align:start position:0%
+I'll just write out the standard formula
+ 
+
+00:08:04.510 --> 00:08:07.830 align:start position:0%
+I'll just write out the standard formula
+game<00:08:04.870><c> I'm</c><00:08:05.170><c> going</c><00:08:05.620><c> to</c><00:08:05.680><c> estimate</c><00:08:05.920><c> as</c><00:08:06.490><c> sum</c><00:08:07.090><c> of</c><00:08:07.330><c> 1</c>
+
+00:08:07.830 --> 00:08:07.840 align:start position:0%
+game I'm going to estimate as sum of 1
+ 
+
+00:08:07.840 --> 00:08:12.510 align:start position:0%
+game I'm going to estimate as sum of 1
+through<00:08:08.080><c> m</c><00:08:08.260><c> of</c><00:08:08.560><c> X</c><00:08:09.010><c> I</c><00:08:09.330><c> minus</c><00:08:10.330><c> mu</c><00:08:11.200><c> squared</c><00:08:12.130><c> and</c><00:08:12.340><c> so</c>
+
+00:08:12.510 --> 00:08:12.520 align:start position:0%
+through m of X I minus mu squared and so
+ 
+
+00:08:12.520 --> 00:08:13.950 align:start position:0%
+through m of X I minus mu squared and so
+this<00:08:12.700><c> mu</c><00:08:12.910><c> here</c><00:08:13.150><c> is</c><00:08:13.240><c> actually</c><00:08:13.540><c> the</c><00:08:13.630><c> muted</c><00:08:13.900><c> that</c>
+
+00:08:13.950 --> 00:08:13.960 align:start position:0%
+this mu here is actually the muted that
+ 
+
+00:08:13.960 --> 00:08:16.050 align:start position:0%
+this mu here is actually the muted that
+I<00:08:14.050><c> compute</c><00:08:14.500><c> over</c><00:08:14.650><c> here</c><00:08:14.980><c> using</c><00:08:15.400><c> this</c><00:08:15.520><c> formula</c>
+
+00:08:16.050 --> 00:08:16.060 align:start position:0%
+I compute over here using this formula
+ 
+
+00:08:16.060 --> 00:08:18.150 align:start position:0%
+I compute over here using this formula
+and<00:08:16.330><c> what</c><00:08:17.230><c> the</c><00:08:17.320><c> variance</c><00:08:17.680><c> is</c><00:08:17.830><c> the</c><00:08:18.010><c> one</c>
+
+00:08:18.150 --> 00:08:18.160 align:start position:0%
+and what the variance is the one
+ 
+
+00:08:18.160 --> 00:08:19.740 align:start position:0%
+and what the variance is the one
+interpretation<00:08:18.760><c> of</c><00:08:18.850><c> the</c><00:08:18.940><c> variance</c><00:08:19.330><c> is</c><00:08:19.570><c> that</c>
+
+00:08:19.740 --> 00:08:19.750 align:start position:0%
+interpretation of the variance is that
+ 
+
+00:08:19.750 --> 00:08:21.570 align:start position:0%
+interpretation of the variance is that
+if<00:08:19.930><c> you</c><00:08:19.990><c> look</c><00:08:20.140><c> at</c><00:08:20.260><c> this</c><00:08:20.380><c> term</c><00:08:20.590><c> that's</c><00:08:21.310><c> the</c>
+
+00:08:21.570 --> 00:08:21.580 align:start position:0%
+if you look at this term that's the
+ 
+
+00:08:21.580 --> 00:08:24.090 align:start position:0%
+if you look at this term that's the
+squared<00:08:21.970><c> difference</c><00:08:22.510><c> between</c><00:08:23.140><c> the</c><00:08:23.560><c> value</c><00:08:24.040><c> I</c>
+
+00:08:24.090 --> 00:08:24.100 align:start position:0%
+squared difference between the value I
+ 
+
+00:08:24.100 --> 00:08:26.070 align:start position:0%
+squared difference between the value I
+thought<00:08:24.370><c> in</c><00:08:24.520><c> my</c><00:08:24.610><c> example</c><00:08:25.120><c> minus</c><00:08:25.660><c> the</c><00:08:25.870><c> mean</c>
+
+00:08:26.070 --> 00:08:26.080 align:start position:0%
+thought in my example minus the mean
+ 
+
+00:08:26.080 --> 00:08:28.170 align:start position:0%
+thought in my example minus the mean
+minus<00:08:26.380><c> the</c><00:08:26.620><c> center</c><00:08:27.100><c> minus</c><00:08:27.880><c> the</c><00:08:28.000><c> mean</c><00:08:28.120><c> of</c>
+
+00:08:28.170 --> 00:08:28.180 align:start position:0%
+minus the center minus the mean of
+ 
+
+00:08:28.180 --> 00:08:30.480 align:start position:0%
+minus the center minus the mean of
+distribution<00:08:28.870><c> and</c><00:08:29.020><c> so</c><00:08:29.200><c> the</c><00:08:29.770><c> variance</c><00:08:30.160><c> I'm</c>
+
+00:08:30.480 --> 00:08:30.490 align:start position:0%
+distribution and so the variance I'm
+ 
+
+00:08:30.490 --> 00:08:32.670 align:start position:0%
+distribution and so the variance I'm
+gonna<00:08:30.700><c> estimate</c><00:08:30.850><c> as</c><00:08:31.330><c> just</c><00:08:31.930><c> the</c><00:08:32.050><c> average</c><00:08:32.200><c> of</c>
+
+00:08:32.670 --> 00:08:32.680 align:start position:0%
+gonna estimate as just the average of
+ 
+
+00:08:32.680 --> 00:08:34.200 align:start position:0%
+gonna estimate as just the average of
+the<00:08:32.830><c> squared</c><00:08:33.160><c> differences</c><00:08:33.670><c> between</c><00:08:33.940><c> my</c>
+
+00:08:34.200 --> 00:08:34.210 align:start position:0%
+the squared differences between my
+ 
+
+00:08:34.210 --> 00:08:38.340 align:start position:0%
+the squared differences between my
+examples<00:08:34.780><c> of</c><00:08:35.290><c> minus</c><00:08:35.860><c> the</c><00:08:36.010><c> mean</c><00:08:36.160><c> and</c><00:08:36.990><c> as</c><00:08:37.990><c> a</c><00:08:38.050><c> side</c>
+
+00:08:38.340 --> 00:08:38.350 align:start position:0%
+examples of minus the mean and as a side
+ 
+
+00:08:38.350 --> 00:08:40.050 align:start position:0%
+examples of minus the mean and as a side
+comment<00:08:38.650><c> only</c><00:08:39.010><c> for</c><00:08:39.280><c> those</c><00:08:39.430><c> of</c><00:08:39.640><c> you</c><00:08:39.760><c> that</c><00:08:39.910><c> are</c>
+
+00:08:40.050 --> 00:08:40.060 align:start position:0%
+comment only for those of you that are
+ 
+
+00:08:40.060 --> 00:08:42.030 align:start position:0%
+comment only for those of you that are
+experts<00:08:40.510><c> in</c><00:08:40.630><c> statistics</c><00:08:41.260><c> if</c><00:08:41.830><c> you're</c><00:08:41.979><c> an</c>
+
+00:08:42.030 --> 00:08:42.040 align:start position:0%
+experts in statistics if you're an
+ 
+
+00:08:42.040 --> 00:08:43.740 align:start position:0%
+experts in statistics if you're an
+experienced<00:08:42.610><c> adjust</c><00:08:42.880><c> things</c><00:08:43.030><c> and</c><00:08:43.360><c> if</c><00:08:43.479><c> if</c>
+
+00:08:43.740 --> 00:08:43.750 align:start position:0%
+experienced adjust things and if if
+ 
+
+00:08:43.750 --> 00:08:45.420 align:start position:0%
+experienced adjust things and if if
+you've<00:08:43.990><c> heard</c><00:08:44.260><c> of</c><00:08:44.350><c> maximum</c><00:08:45.100><c> likelihood</c>
+
+00:08:45.420 --> 00:08:45.430 align:start position:0%
+you've heard of maximum likelihood
+ 
+
+00:08:45.430 --> 00:08:48.240 align:start position:0%
+you've heard of maximum likelihood
+estimation<00:08:46.030><c> then</c><00:08:46.840><c> these</c><00:08:47.050><c> parameters</c><00:08:47.680><c> these</c>
+
+00:08:48.240 --> 00:08:48.250 align:start position:0%
+estimation then these parameters these
+ 
+
+00:08:48.250 --> 00:08:49.680 align:start position:0%
+estimation then these parameters these
+estimates<00:08:48.670><c> are</c><00:08:48.820><c> actually</c><00:08:49.150><c> the</c><00:08:49.300><c> maximum</c>
+
+00:08:49.680 --> 00:08:49.690 align:start position:0%
+estimates are actually the maximum
+ 
+
+00:08:49.690 --> 00:08:52.170 align:start position:0%
+estimates are actually the maximum
+likelihood<00:08:50.020><c> estimate</c><00:08:50.560><c> of</c><00:08:50.860><c> the</c><00:08:51.190><c> parameters</c><00:08:51.370><c> mu</c>
+
+00:08:52.170 --> 00:08:52.180 align:start position:0%
+likelihood estimate of the parameters mu
+ 
+
+00:08:52.180 --> 00:08:53.850 align:start position:0%
+likelihood estimate of the parameters mu
+and<00:08:52.300><c> Sigma</c><00:08:52.390><c> squared</c><00:08:52.930><c> but</c><00:08:53.380><c> if</c><00:08:53.470><c> you</c><00:08:53.560><c> haven't</c>
+
+00:08:53.850 --> 00:08:53.860 align:start position:0%
+and Sigma squared but if you haven't
+ 
+
+00:08:53.860 --> 00:08:55.110 align:start position:0%
+and Sigma squared but if you haven't
+heard<00:08:53.980><c> of</c><00:08:54.130><c> that</c><00:08:54.220><c> before</c><00:08:54.400><c> don't</c><00:08:54.880><c> worry</c><00:08:54.940><c> about</c>
+
+00:08:55.110 --> 00:08:55.120 align:start position:0%
+heard of that before don't worry about
+ 
+
+00:08:55.120 --> 00:08:56.880 align:start position:0%
+heard of that before don't worry about
+it<00:08:55.390><c> all</c><00:08:55.600><c> you</c><00:08:55.720><c> need</c><00:08:55.900><c> to</c><00:08:55.990><c> know</c><00:08:56.140><c> is</c><00:08:56.440><c> that</c><00:08:56.470><c> these</c>
+
+00:08:56.880 --> 00:08:56.890 align:start position:0%
+it all you need to know is that these
+ 
+
+00:08:56.890 --> 00:08:59.190 align:start position:0%
+it all you need to know is that these
+are<00:08:56.950><c> the</c><00:08:57.220><c> two</c><00:08:57.490><c> standard</c><00:08:57.970><c> formulas</c><00:08:58.480><c> for</c><00:08:59.170><c> how</c>
+
+00:08:59.190 --> 00:08:59.200 align:start position:0%
+are the two standard formulas for how
+ 
+
+00:08:59.200 --> 00:09:01.740 align:start position:0%
+are the two standard formulas for how
+you<00:08:59.350><c> estimate</c><00:08:59.830><c> for</c><00:09:00.490><c> how</c><00:09:00.670><c> you</c><00:09:00.730><c> try</c><00:09:01.180><c> to</c><00:09:01.210><c> figure</c>
+
+00:09:01.740 --> 00:09:01.750 align:start position:0%
+you estimate for how you try to figure
+ 
+
+00:09:01.750 --> 00:09:03.420 align:start position:0%
+you estimate for how you try to figure
+out<00:09:01.930><c> what</c><00:09:02.110><c> about</c><00:09:02.170><c> you</c><00:09:02.440><c> and</c><00:09:02.650><c> Sigma</c><00:09:02.950><c> squared</c>
+
+00:09:03.420 --> 00:09:03.430 align:start position:0%
+out what about you and Sigma squared
+ 
+
+00:09:03.430 --> 00:09:06.120 align:start position:0%
+out what about you and Sigma squared
+given<00:09:03.790><c> the</c><00:09:03.880><c> data</c><00:09:04.000><c> set</c><00:09:04.530><c> finally</c><00:09:05.530><c> one</c><00:09:05.710><c> last</c><00:09:05.740><c> side</c>
+
+00:09:06.120 --> 00:09:06.130 align:start position:0%
+given the data set finally one last side
+ 
+
+00:09:06.130 --> 00:09:08.190 align:start position:0%
+given the data set finally one last side
+comment<00:09:06.580><c> again</c><00:09:07.060><c> only</c><00:09:07.360><c> for</c><00:09:07.540><c> those</c><00:09:07.810><c> of</c><00:09:07.960><c> you</c><00:09:08.050><c> that</c>
+
+00:09:08.190 --> 00:09:08.200 align:start position:0%
+comment again only for those of you that
+ 
+
+00:09:08.200 --> 00:09:10.350 align:start position:0%
+comment again only for those of you that
+have<00:09:08.410><c> maybe</c><00:09:08.650><c> taken</c><00:09:09.160><c> a</c><00:09:09.310><c> statistics</c><00:09:09.820><c> class</c>
+
+00:09:10.350 --> 00:09:10.360 align:start position:0%
+have maybe taken a statistics class
+ 
+
+00:09:10.360 --> 00:09:12.660 align:start position:0%
+have maybe taken a statistics class
+before<00:09:10.810><c> but</c><00:09:10.990><c> if</c><00:09:11.110><c> you</c><00:09:11.500><c> take</c><00:09:11.680><c> this</c><00:09:12.130><c> cost</c><00:09:12.460><c> before</c>
+
+00:09:12.660 --> 00:09:12.670 align:start position:0%
+before but if you take this cost before
+ 
+
+00:09:12.670 --> 00:09:14.400 align:start position:0%
+before but if you take this cost before
+some<00:09:13.420><c> of</c><00:09:13.510><c> you</c><00:09:13.630><c> may</c><00:09:13.780><c> have</c><00:09:13.810><c> seen</c><00:09:14.140><c> the</c><00:09:14.230><c> formula</c>
+
+00:09:14.400 --> 00:09:14.410 align:start position:0%
+some of you may have seen the formula
+ 
+
+00:09:14.410 --> 00:09:16.380 align:start position:0%
+some of you may have seen the formula
+here<00:09:14.800><c> where</c><00:09:14.980><c> you</c><00:09:15.250><c> know</c><00:09:15.310><c> this</c><00:09:15.430><c> is</c><00:09:15.490><c> n</c><00:09:15.760><c> minus</c><00:09:16.210><c> 1</c>
+
+00:09:16.380 --> 00:09:16.390 align:start position:0%
+here where you know this is n minus 1
+ 
+
+00:09:16.390 --> 00:09:18.360 align:start position:0%
+here where you know this is n minus 1
+instead<00:09:16.630><c> of</c><00:09:16.900><c> M</c><00:09:17.170><c> so</c><00:09:17.500><c> so</c><00:09:17.740><c> this</c><00:09:17.860><c> first</c><00:09:18.100><c> term</c>
+
+00:09:18.360 --> 00:09:18.370 align:start position:0%
+instead of M so so this first term
+ 
+
+00:09:18.370 --> 00:09:21.650 align:start position:0%
+instead of M so so this first term
+becomes<00:09:19.060><c> 1</c><00:09:19.180><c> over</c><00:09:19.510><c> n</c><00:09:19.930><c> minus</c><00:09:20.350><c> 1</c><00:09:20.590><c> so</c><00:09:20.830><c> that</c><00:09:20.950><c> 1</c><00:09:21.160><c> over</c>
+
+00:09:21.650 --> 00:09:21.660 align:start position:0%
+becomes 1 over n minus 1 so that 1 over
+ 
+
+00:09:21.660 --> 00:09:24.080 align:start position:0%
+becomes 1 over n minus 1 so that 1 over
+in<00:09:22.470><c> machine</c><00:09:22.800><c> learning</c><00:09:23.100><c> people</c><00:09:23.640><c> tend</c><00:09:23.850><c> to</c><00:09:23.940><c> use</c>
+
+00:09:24.080 --> 00:09:24.090 align:start position:0%
+in machine learning people tend to use
+ 
+
+00:09:24.090 --> 00:09:27.050 align:start position:0%
+in machine learning people tend to use
+this<00:09:24.300><c> one</c><00:09:24.360><c> over</c><00:09:24.930><c> n</c><00:09:25.080><c> formula</c><00:09:25.710><c> but</c><00:09:26.190><c> in</c><00:09:26.550><c> practice</c>
+
+00:09:27.050 --> 00:09:27.060 align:start position:0%
+this one over n formula but in practice
+ 
+
+00:09:27.060 --> 00:09:29.390 align:start position:0%
+this one over n formula but in practice
+whether<00:09:27.360><c> just</c><00:09:27.630><c> 1</c><00:09:27.810><c> over</c><00:09:27.840><c> M</c><00:09:28.170><c> 1</c><00:09:28.470><c> over</c><00:09:28.680><c> n</c><00:09:28.770><c> minus</c><00:09:28.800><c> 1</c>
+
+00:09:29.390 --> 00:09:29.400 align:start position:0%
+whether just 1 over M 1 over n minus 1
+ 
+
+00:09:29.400 --> 00:09:31.310 align:start position:0%
+whether just 1 over M 1 over n minus 1
+makes<00:09:29.730><c> essentially</c><00:09:30.180><c> no</c><00:09:30.360><c> difference</c><00:09:30.780><c> assuming</c>
+
+00:09:31.310 --> 00:09:31.320 align:start position:0%
+makes essentially no difference assuming
+ 
+
+00:09:31.320 --> 00:09:32.950 align:start position:0%
+makes essentially no difference assuming
+you<00:09:31.680><c> know</c><00:09:31.770><c> Emma's</c><00:09:32.160><c> reasonably</c><00:09:32.700><c> logical</c>
+
+00:09:32.950 --> 00:09:32.960 align:start position:0%
+you know Emma's reasonably logical
+ 
+
+00:09:32.960 --> 00:09:35.420 align:start position:0%
+you know Emma's reasonably logical
+reasonably<00:09:33.960><c> large</c><00:09:34.110><c> training</c><00:09:34.380><c> set</c><00:09:34.650><c> size</c><00:09:34.860><c> so</c>
+
+00:09:35.420 --> 00:09:35.430 align:start position:0%
+reasonably large training set size so
+ 
+
+00:09:35.430 --> 00:09:36.890 align:start position:0%
+reasonably large training set size so
+just<00:09:35.700><c> in</c><00:09:35.820><c> case</c><00:09:35.940><c> you</c><00:09:36.120><c> sold</c><00:09:36.330><c> you've</c><00:09:36.510><c> seen</c><00:09:36.750><c> this</c>
+
+00:09:36.890 --> 00:09:36.900 align:start position:0%
+just in case you sold you've seen this
+ 
+
+00:09:36.900 --> 00:09:38.960 align:start position:0%
+just in case you sold you've seen this
+other<00:09:37.140><c> version</c><00:09:37.560><c> before</c><00:09:37.710><c> in</c><00:09:38.370><c> either</c><00:09:38.670><c> version</c>
+
+00:09:38.960 --> 00:09:38.970 align:start position:0%
+other version before in either version
+ 
+
+00:09:38.970 --> 00:09:41.360 align:start position:0%
+other version before in either version
+works<00:09:39.510><c> just</c><00:09:39.780><c> about</c><00:09:39.900><c> equally</c><00:09:40.320><c> well</c><00:09:40.500><c> but</c>
+
+00:09:41.360 --> 00:09:41.370 align:start position:0%
+works just about equally well but
+ 
+
+00:09:41.370 --> 00:09:43.100 align:start position:0%
+works just about equally well but
+machine<00:09:41.910><c> learning</c><00:09:42.240><c> most</c><00:09:42.390><c> people</c><00:09:42.750><c> tend</c><00:09:42.960><c> to</c><00:09:43.020><c> use</c>
+
+00:09:43.100 --> 00:09:43.110 align:start position:0%
+machine learning most people tend to use
+ 
+
+00:09:43.110 --> 00:09:46.190 align:start position:0%
+machine learning most people tend to use
+1<00:09:43.440><c> over</c><00:09:43.800><c> m</c><00:09:43.980><c> in</c><00:09:44.190><c> this</c><00:09:44.340><c> formula</c><00:09:44.850><c> and</c><00:09:45.150><c> the</c><00:09:46.050><c> two</c>
+
+00:09:46.190 --> 00:09:46.200 align:start position:0%
+1 over m in this formula and the two
+ 
+
+00:09:46.200 --> 00:09:47.150 align:start position:0%
+1 over m in this formula and the two
+versions<00:09:46.590><c> have</c><00:09:46.770><c> slightly</c><00:09:47.040><c> different</c>
+
+00:09:47.150 --> 00:09:47.160 align:start position:0%
+versions have slightly different
+ 
+
+00:09:47.160 --> 00:09:48.860 align:start position:0%
+versions have slightly different
+theoretical<00:09:48.030><c> properties</c><00:09:48.300><c> like</c><00:09:48.720><c> these</c>
+
+00:09:48.860 --> 00:09:48.870 align:start position:0%
+theoretical properties like these
+ 
+
+00:09:48.870 --> 00:09:50.570 align:start position:0%
+theoretical properties like these
+different<00:09:49.080><c> mathematical</c><00:09:49.650><c> properties</c><00:09:50.040><c> for</c>
+
+00:09:50.570 --> 00:09:50.580 align:start position:0%
+different mathematical properties for
+ 
+
+00:09:50.580 --> 00:09:53.240 align:start position:0%
+different mathematical properties for
+the<00:09:50.640><c> practice</c><00:09:51.030><c> and</c><00:09:51.270><c> it</c><00:09:51.390><c> really</c><00:09:51.750><c> makes</c><00:09:52.020><c> a</c><00:09:52.250><c> very</c>
+
+00:09:53.240 --> 00:09:53.250 align:start position:0%
+the practice and it really makes a very
+ 
+
+00:09:53.250 --> 00:09:55.940 align:start position:0%
+the practice and it really makes a very
+little<00:09:53.580><c> difference</c><00:09:53.970><c> event</c>
+
+00:09:55.940 --> 00:09:55.950 align:start position:0%
+little difference event
+ 
+
+00:09:55.950 --> 00:09:58.310 align:start position:0%
+little difference event
+so<00:09:56.790><c> hopefully</c><00:09:57.240><c> you</c><00:09:57.480><c> now</c><00:09:57.630><c> have</c><00:09:57.660><c> a</c><00:09:57.870><c> good</c><00:09:58.079><c> sense</c>
+
+00:09:58.310 --> 00:09:58.320 align:start position:0%
+so hopefully you now have a good sense
+ 
+
+00:09:58.320 --> 00:10:00.350 align:start position:0%
+so hopefully you now have a good sense
+of<00:09:58.589><c> what</c><00:09:58.860><c> the</c><00:09:59.010><c> Gaussian</c><00:09:59.550><c> distribution</c><00:09:59.820><c> looks</c>
+
+00:10:00.350 --> 00:10:00.360 align:start position:0%
+of what the Gaussian distribution looks
+ 
+
+00:10:00.360 --> 00:10:02.329 align:start position:0%
+of what the Gaussian distribution looks
+like<00:10:00.450><c> as</c><00:10:00.870><c> well</c><00:10:01.110><c> as</c><00:10:01.139><c> how</c><00:10:01.560><c> to</c><00:10:01.589><c> estimate</c><00:10:02.100><c> the</c>
+
+00:10:02.329 --> 00:10:02.339 align:start position:0%
+like as well as how to estimate the
+ 
+
+00:10:02.339 --> 00:10:04.639 align:start position:0%
+like as well as how to estimate the
+parameters<00:10:02.579><c> mu</c><00:10:03.209><c> and</c><00:10:03.600><c> Sigma</c><00:10:03.810><c> squared</c><00:10:04.320><c> of</c><00:10:04.560><c> the</c>
+
+00:10:04.639 --> 00:10:04.649 align:start position:0%
+parameters mu and Sigma squared of the
+ 
+
+00:10:04.649 --> 00:10:05.750 align:start position:0%
+parameters mu and Sigma squared of the
+Gaussian<00:10:04.860><c> distribution</c>
+
+00:10:05.750 --> 00:10:05.760 align:start position:0%
+Gaussian distribution
+ 
+
+00:10:05.760 --> 00:10:08.300 align:start position:0%
+Gaussian distribution
+if<00:10:05.910><c> you</c><00:10:06.180><c> given</c><00:10:06.570><c> a</c><00:10:06.839><c> training</c><00:10:07.380><c> set</c><00:10:07.560><c> that</c><00:10:08.010><c> is</c><00:10:08.160><c> if</c>
+
+00:10:08.300 --> 00:10:08.310 align:start position:0%
+if you given a training set that is if
+ 
+
+00:10:08.310 --> 00:10:10.250 align:start position:0%
+if you given a training set that is if
+you<00:10:08.399><c> had</c><00:10:08.490><c> given</c><00:10:08.820><c> a</c><00:10:08.970><c> set</c><00:10:09.420><c> of</c><00:10:09.450><c> data</c><00:10:09.600><c> that</c><00:10:10.139><c> you</c>
+
+00:10:10.250 --> 00:10:10.260 align:start position:0%
+you had given a set of data that you
+ 
+
+00:10:10.260 --> 00:10:12.470 align:start position:0%
+you had given a set of data that you
+suspect<00:10:10.470><c> comes</c><00:10:11.399><c> from</c><00:10:11.790><c> a</c><00:10:11.970><c> Gaussian</c>
+
+00:10:12.470 --> 00:10:12.480 align:start position:0%
+suspect comes from a Gaussian
+ 
+
+00:10:12.480 --> 00:10:14.750 align:start position:0%
+suspect comes from a Gaussian
+distribution<00:10:12.600><c> with</c><00:10:13.380><c> unknown</c><00:10:14.070><c> parameters</c><00:10:14.610><c> in</c>
+
+00:10:14.750 --> 00:10:14.760 align:start position:0%
+distribution with unknown parameters in
+ 
+
+00:10:14.760 --> 00:10:17.120 align:start position:0%
+distribution with unknown parameters in
+your<00:10:14.790><c> Sigma</c><00:10:15.240><c> squared</c><00:10:15.480><c> in</c><00:10:15.870><c> the</c><00:10:16.589><c> next</c><00:10:16.889><c> video</c>
+
+00:10:17.120 --> 00:10:17.130 align:start position:0%
+your Sigma squared in the next video
+ 
+
+00:10:17.130 --> 00:10:18.829 align:start position:0%
+your Sigma squared in the next video
+we'll<00:10:17.430><c> start</c><00:10:17.459><c> to</c><00:10:17.790><c> take</c><00:10:18.029><c> this</c><00:10:18.180><c> and</c><00:10:18.449><c> apply</c><00:10:18.630><c> to</c>
+
+00:10:18.829 --> 00:10:18.839 align:start position:0%
+we'll start to take this and apply to
+ 
+
+00:10:18.839 --> 00:10:23.240 align:start position:0%
+we'll start to take this and apply to
+develop<00:10:19.500><c> an</c><00:10:19.649><c> anomaly</c><00:10:20.070><c> detection</c><00:10:20.699><c> algorithm</c>
+

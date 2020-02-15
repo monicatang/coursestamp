@@ -1,0 +1,2776 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:01.910 align:start position:0%
+ 
+in<00:00:00.480><c> the</c><00:00:00.690><c> last</c><00:00:00.870><c> video</c><00:00:01.260><c> we</c><00:00:01.530><c> talked</c><00:00:01.770><c> about</c>
+
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+in the last video we talked about
+ 
+
+00:00:01.920 --> 00:00:04.970 align:start position:0%
+in the last video we talked about
+precision<00:00:02.580><c> and</c><00:00:02.939><c> recall</c><00:00:03.240><c> as</c><00:00:03.870><c> an</c><00:00:04.410><c> evaluation</c>
+
+00:00:04.970 --> 00:00:04.980 align:start position:0%
+precision and recall as an evaluation
+ 
+
+00:00:04.980 --> 00:00:07.849 align:start position:0%
+precision and recall as an evaluation
+metric<00:00:05.549><c> for</c><00:00:05.910><c> classification</c><00:00:06.870><c> problems</c><00:00:07.350><c> with</c>
+
+00:00:07.849 --> 00:00:07.859 align:start position:0%
+metric for classification problems with
+ 
+
+00:00:07.859 --> 00:00:10.850 align:start position:0%
+metric for classification problems with
+skew<00:00:08.220><c> classes</c><00:00:08.760><c> for</c><00:00:09.719><c> many</c><00:00:09.900><c> applications</c><00:00:10.050><c> we'll</c>
+
+00:00:10.850 --> 00:00:10.860 align:start position:0%
+skew classes for many applications we'll
+ 
+
+00:00:10.860 --> 00:00:13.820 align:start position:0%
+skew classes for many applications we'll
+want<00:00:11.070><c> to</c><00:00:11.219><c> somehow</c><00:00:11.910><c> control</c><00:00:12.269><c> the</c><00:00:13.200><c> trade-off</c>
+
+00:00:13.820 --> 00:00:13.830 align:start position:0%
+want to somehow control the trade-off
+ 
+
+00:00:13.830 --> 00:00:17.240 align:start position:0%
+want to somehow control the trade-off
+between<00:00:13.860><c> precision</c><00:00:14.639><c> and</c><00:00:15.240><c> recall</c><00:00:15.980><c> let</c><00:00:16.980><c> me</c><00:00:17.070><c> tell</c>
+
+00:00:17.240 --> 00:00:17.250 align:start position:0%
+between precision and recall let me tell
+ 
+
+00:00:17.250 --> 00:00:19.370 align:start position:0%
+between precision and recall let me tell
+you<00:00:17.340><c> how</c><00:00:17.460><c> to</c><00:00:17.520><c> do</c><00:00:17.730><c> that</c><00:00:17.910><c> and</c><00:00:18.359><c> also</c><00:00:18.660><c> show</c><00:00:19.320><c> you</c>
+
+00:00:19.370 --> 00:00:19.380 align:start position:0%
+you how to do that and also show you
+ 
+
+00:00:19.380 --> 00:00:21.710 align:start position:0%
+you how to do that and also show you
+some<00:00:19.560><c> even</c><00:00:20.310><c> more</c><00:00:20.520><c> effective</c><00:00:21.000><c> ways</c><00:00:21.210><c> to</c><00:00:21.539><c> use</c>
+
+00:00:21.710 --> 00:00:21.720 align:start position:0%
+some even more effective ways to use
+ 
+
+00:00:21.720 --> 00:00:24.590 align:start position:0%
+some even more effective ways to use
+precision<00:00:22.410><c> and</c><00:00:22.590><c> recall</c><00:00:23.130><c> as</c><00:00:23.670><c> an</c><00:00:23.970><c> evaluation</c>
+
+00:00:24.590 --> 00:00:24.600 align:start position:0%
+precision and recall as an evaluation
+ 
+
+00:00:24.600 --> 00:00:28.820 align:start position:0%
+precision and recall as an evaluation
+metric<00:00:25.080><c> for</c><00:00:25.410><c> learning</c><00:00:25.800><c> algorithms</c><00:00:27.560><c> as</c><00:00:28.560><c> a</c>
+
+00:00:28.820 --> 00:00:28.830 align:start position:0%
+metric for learning algorithms as a
+ 
+
+00:00:28.830 --> 00:00:31.130 align:start position:0%
+metric for learning algorithms as a
+reminder<00:00:29.189><c> here</c><00:00:29.970><c> are</c><00:00:30.060><c> the</c><00:00:30.269><c> definitions</c><00:00:30.990><c> of</c>
+
+00:00:31.130 --> 00:00:31.140 align:start position:0%
+reminder here are the definitions of
+ 
+
+00:00:31.140 --> 00:00:33.799 align:start position:0%
+reminder here are the definitions of
+precision<00:00:31.949><c> and</c><00:00:32.189><c> recall</c><00:00:32.579><c> from</c><00:00:33.210><c> the</c><00:00:33.270><c> previous</c>
+
+00:00:33.799 --> 00:00:33.809 align:start position:0%
+precision and recall from the previous
+ 
+
+00:00:33.809 --> 00:00:37.580 align:start position:0%
+precision and recall from the previous
+video<00:00:35.120><c> let's</c><00:00:36.120><c> continue</c><00:00:36.600><c> our</c><00:00:36.780><c> cancer</c>
+
+00:00:37.580 --> 00:00:37.590 align:start position:0%
+video let's continue our cancer
+ 
+
+00:00:37.590 --> 00:00:40.549 align:start position:0%
+video let's continue our cancer
+classification<00:00:38.489><c> example</c><00:00:38.790><c> where</c><00:00:39.600><c> y</c><00:00:39.840><c> equals</c><00:00:39.870><c> 1</c>
+
+00:00:40.549 --> 00:00:40.559 align:start position:0%
+classification example where y equals 1
+ 
+
+00:00:40.559 --> 00:00:43.250 align:start position:0%
+classification example where y equals 1
+if<00:00:40.829><c> a</c><00:00:40.980><c> patient</c><00:00:41.399><c> has</c><00:00:41.579><c> cancer</c><00:00:41.790><c> and</c><00:00:42.300><c> y</c><00:00:42.570><c> equals</c><00:00:42.989><c> 0</c>
+
+00:00:43.250 --> 00:00:43.260 align:start position:0%
+if a patient has cancer and y equals 0
+ 
+
+00:00:43.260 --> 00:00:46.190 align:start position:0%
+if a patient has cancer and y equals 0
+otherwise<00:00:43.680><c> and</c><00:00:44.309><c> let's</c><00:00:45.120><c> say</c><00:00:45.329><c> we've</c><00:00:45.539><c> trained</c><00:00:45.930><c> a</c>
+
+00:00:46.190 --> 00:00:46.200 align:start position:0%
+otherwise and let's say we've trained a
+ 
+
+00:00:46.200 --> 00:00:48.500 align:start position:0%
+otherwise and let's say we've trained a
+logistic<00:00:46.829><c> regression</c><00:00:47.309><c> classifier</c><00:00:47.510><c> which</c>
+
+00:00:48.500 --> 00:00:48.510 align:start position:0%
+logistic regression classifier which
+ 
+
+00:00:48.510 --> 00:00:51.279 align:start position:0%
+logistic regression classifier which
+outputs<00:00:48.989><c> probabilities</c><00:00:49.770><c> between</c><00:00:49.980><c> 0</c><00:00:50.489><c> and</c><00:00:50.670><c> 1</c><00:00:50.820><c> so</c>
+
+00:00:51.279 --> 00:00:51.289 align:start position:0%
+outputs probabilities between 0 and 1 so
+ 
+
+00:00:51.289 --> 00:00:54.709 align:start position:0%
+outputs probabilities between 0 and 1 so
+as<00:00:52.289><c> usual</c><00:00:52.739><c> we're</c><00:00:53.010><c> going</c><00:00:53.039><c> to</c><00:00:53.309><c> predict</c><00:00:53.670><c> 1</c><00:00:54.120><c> y</c>
+
+00:00:54.709 --> 00:00:54.719 align:start position:0%
+as usual we're going to predict 1 y
+ 
+
+00:00:54.719 --> 00:00:57.590 align:start position:0%
+as usual we're going to predict 1 y
+equals<00:00:55.050><c> 1</c><00:00:55.260><c> if</c><00:00:55.590><c> P</c><00:00:55.949><c> of</c><00:00:56.309><c> X</c><00:00:56.489><c> is</c><00:00:56.699><c> greater</c><00:00:56.820><c> than</c><00:00:57.210><c> equal</c>
+
+00:00:57.590 --> 00:00:57.600 align:start position:0%
+equals 1 if P of X is greater than equal
+ 
+
+00:00:57.600 --> 00:01:00.920 align:start position:0%
+equals 1 if P of X is greater than equal
+to<00:00:57.629><c> 0.5</c><00:00:58.260><c> and</c><00:00:58.469><c> predict</c><00:00:59.190><c> 0</c><00:00:59.489><c> if</c><00:00:59.879><c> the</c><00:01:00.239><c> hypothesis</c>
+
+00:01:00.920 --> 00:01:00.930 align:start position:0%
+to 0.5 and predict 0 if the hypothesis
+ 
+
+00:01:00.930 --> 00:01:03.860 align:start position:0%
+to 0.5 and predict 0 if the hypothesis
+offers<00:01:01.350><c> a</c><00:01:01.379><c> value</c><00:01:01.770><c> less</c><00:01:02.010><c> than</c><00:01:02.039><c> 0.5</c><00:01:02.820><c> and</c><00:01:03.180><c> this</c>
+
+00:01:03.860 --> 00:01:03.870 align:start position:0%
+offers a value less than 0.5 and this
+ 
+
+00:01:03.870 --> 00:01:06.649 align:start position:0%
+offers a value less than 0.5 and this
+classifier<00:01:04.650><c> may</c><00:01:05.070><c> give</c><00:01:05.369><c> us</c><00:01:05.610><c> some</c><00:01:05.790><c> value</c><00:01:06.450><c> for</c>
+
+00:01:06.649 --> 00:01:06.659 align:start position:0%
+classifier may give us some value for
+ 
+
+00:01:06.659 --> 00:01:10.580 align:start position:0%
+classifier may give us some value for
+precision<00:01:07.170><c> and</c><00:01:07.409><c> some</c><00:01:07.799><c> value</c><00:01:08.220><c> for</c><00:01:08.520><c> recall</c><00:01:09.590><c> but</c>
+
+00:01:10.580 --> 00:01:10.590 align:start position:0%
+precision and some value for recall but
+ 
+
+00:01:10.590 --> 00:01:13.250 align:start position:0%
+precision and some value for recall but
+now<00:01:10.740><c> suppose</c><00:01:11.640><c> we</c><00:01:11.670><c> want</c><00:01:11.909><c> to</c><00:01:12.299><c> predict</c><00:01:12.750><c> that</c><00:01:13.049><c> the</c>
+
+00:01:13.250 --> 00:01:13.260 align:start position:0%
+now suppose we want to predict that the
+ 
+
+00:01:13.260 --> 00:01:15.980 align:start position:0%
+now suppose we want to predict that the
+patient<00:01:13.680><c> has</c><00:01:13.830><c> cancer</c><00:01:14.369><c> only</c><00:01:14.850><c> if</c><00:01:15.420><c> we're</c><00:01:15.689><c> very</c>
+
+00:01:15.980 --> 00:01:15.990 align:start position:0%
+patient has cancer only if we're very
+ 
+
+00:01:15.990 --> 00:01:18.289 align:start position:0%
+patient has cancer only if we're very
+confident<00:01:16.680><c> that</c><00:01:16.740><c> they</c><00:01:16.920><c> really</c><00:01:17.189><c> do</c><00:01:17.400><c> because</c>
+
+00:01:18.289 --> 00:01:18.299 align:start position:0%
+confident that they really do because
+ 
+
+00:01:18.299 --> 00:01:20.120 align:start position:0%
+confident that they really do because
+you<00:01:18.420><c> know</c><00:01:18.540><c> if</c><00:01:18.840><c> you</c><00:01:18.930><c> go</c><00:01:19.110><c> to</c><00:01:19.170><c> a</c><00:01:19.320><c> patient</c><00:01:19.830><c> and</c><00:01:20.100><c> you</c>
+
+00:01:20.120 --> 00:01:20.130 align:start position:0%
+you know if you go to a patient and you
+ 
+
+00:01:20.130 --> 00:01:21.710 align:start position:0%
+you know if you go to a patient and you
+tell<00:01:20.460><c> them</c><00:01:20.670><c> that</c><00:01:20.700><c> they</c><00:01:20.970><c> have</c><00:01:21.090><c> cancer</c><00:01:21.360><c> it's</c>
+
+00:01:21.710 --> 00:01:21.720 align:start position:0%
+tell them that they have cancer it's
+ 
+
+00:01:21.720 --> 00:01:23.780 align:start position:0%
+tell them that they have cancer it's
+gonna<00:01:21.869><c> give</c><00:01:22.290><c> them</c><00:01:22.409><c> a</c><00:01:22.500><c> huge</c><00:01:22.680><c> shock</c><00:01:23.040><c> gives</c><00:01:23.549><c> us</c><00:01:23.670><c> a</c>
+
+00:01:23.780 --> 00:01:23.790 align:start position:0%
+gonna give them a huge shock gives us a
+ 
+
+00:01:23.790 --> 00:01:26.060 align:start position:0%
+gonna give them a huge shock gives us a
+seriously<00:01:24.240><c> bad</c><00:01:24.420><c> news</c><00:01:24.450><c> and</c><00:01:24.930><c> they</c><00:01:25.619><c> may</c><00:01:25.740><c> end</c><00:01:25.920><c> up</c>
+
+00:01:26.060 --> 00:01:26.070 align:start position:0%
+seriously bad news and they may end up
+ 
+
+00:01:26.070 --> 00:01:28.730 align:start position:0%
+seriously bad news and they may end up
+going<00:01:26.310><c> through</c><00:01:26.400><c> a</c><00:01:26.640><c> pretty</c><00:01:27.360><c> painful</c><00:01:27.960><c> treatment</c>
+
+00:01:28.730 --> 00:01:28.740 align:start position:0%
+going through a pretty painful treatment
+ 
+
+00:01:28.740 --> 00:01:30.649 align:start position:0%
+going through a pretty painful treatment
+process<00:01:29.220><c> and</c><00:01:29.400><c> so</c><00:01:29.520><c> on</c><00:01:29.549><c> and</c><00:01:29.909><c> so</c><00:01:30.060><c> maybe</c><00:01:30.299><c> we</c><00:01:30.509><c> want</c>
+
+00:01:30.649 --> 00:01:30.659 align:start position:0%
+process and so on and so maybe we want
+ 
+
+00:01:30.659 --> 00:01:32.210 align:start position:0%
+process and so on and so maybe we want
+to<00:01:30.840><c> tell</c><00:01:31.170><c> someone</c><00:01:31.409><c> that</c><00:01:31.560><c> we</c><00:01:31.860><c> think</c><00:01:32.100><c> they</c><00:01:32.189><c> have</c>
+
+00:01:32.210 --> 00:01:32.220 align:start position:0%
+to tell someone that we think they have
+ 
+
+00:01:32.220 --> 00:01:35.440 align:start position:0%
+to tell someone that we think they have
+cancer<00:01:32.790><c> only</c><00:01:33.270><c> if</c><00:01:33.750><c> they</c><00:01:33.930><c> are</c><00:01:33.960><c> very</c><00:01:34.140><c> confident</c>
+
+00:01:35.440 --> 00:01:35.450 align:start position:0%
+cancer only if they are very confident
+ 
+
+00:01:35.450 --> 00:01:37.880 align:start position:0%
+cancer only if they are very confident
+one<00:01:36.450><c> way</c><00:01:36.570><c> to</c><00:01:36.630><c> do</c><00:01:36.900><c> this</c><00:01:37.049><c> would</c><00:01:37.350><c> be</c><00:01:37.409><c> to</c><00:01:37.530><c> modify</c>
+
+00:01:37.880 --> 00:01:37.890 align:start position:0%
+one way to do this would be to modify
+ 
+
+00:01:37.890 --> 00:01:40.310 align:start position:0%
+one way to do this would be to modify
+the<00:01:38.220><c> algorithm</c><00:01:38.640><c> so</c><00:01:39.119><c> that</c><00:01:39.150><c> instead</c><00:01:39.810><c> of</c><00:01:39.930><c> setting</c>
+
+00:01:40.310 --> 00:01:40.320 align:start position:0%
+the algorithm so that instead of setting
+ 
+
+00:01:40.320 --> 00:01:43.219 align:start position:0%
+the algorithm so that instead of setting
+this<00:01:40.470><c> threshold</c><00:01:40.979><c> at</c><00:01:41.460><c> 0.5</c><00:01:42.090><c> we</c><00:01:42.780><c> might</c><00:01:43.020><c> instead</c>
+
+00:01:43.219 --> 00:01:43.229 align:start position:0%
+this threshold at 0.5 we might instead
+ 
+
+00:01:43.229 --> 00:01:45.770 align:start position:0%
+this threshold at 0.5 we might instead
+say<00:01:44.189><c> they</c><00:01:44.369><c> will</c><00:01:44.520><c> predict</c><00:01:44.850><c> that</c><00:01:45.030><c> Y</c><00:01:45.210><c> is</c><00:01:45.270><c> equal</c><00:01:45.659><c> to</c>
+
+00:01:45.770 --> 00:01:45.780 align:start position:0%
+say they will predict that Y is equal to
+ 
+
+00:01:45.780 --> 00:01:49.580 align:start position:0%
+say they will predict that Y is equal to
+1<00:01:45.990><c> only</c><00:01:46.890><c> of</c><00:01:47.570><c> H</c><00:01:48.570><c> of</c><00:01:48.750><c> X</c><00:01:48.899><c> is</c><00:01:49.049><c> greater</c><00:01:49.229><c> than</c><00:01:49.470><c> or</c>
+
+00:01:49.580 --> 00:01:49.590 align:start position:0%
+1 only of H of X is greater than or
+ 
+
+00:01:49.590 --> 00:01:52.520 align:start position:0%
+1 only of H of X is greater than or
+equal<00:01:49.979><c> to</c><00:01:50.159><c> 0.7</c><00:01:51.000><c> so</c><00:01:51.210><c> this</c><00:01:51.390><c> is</c><00:01:51.479><c> my</c><00:01:51.600><c> saying</c><00:01:51.840><c> well</c>
+
+00:01:52.520 --> 00:01:52.530 align:start position:0%
+equal to 0.7 so this is my saying well
+ 
+
+00:01:52.530 --> 00:01:54.469 align:start position:0%
+equal to 0.7 so this is my saying well
+tell<00:01:52.770><c> someone</c><00:01:53.130><c> they</c><00:01:53.220><c> have</c><00:01:53.340><c> cancer</c><00:01:53.610><c> only</c><00:01:54.180><c> if</c><00:01:54.299><c> we</c>
+
+00:01:54.469 --> 00:01:54.479 align:start position:0%
+tell someone they have cancer only if we
+ 
+
+00:01:54.479 --> 00:01:56.510 align:start position:0%
+tell someone they have cancer only if we
+think<00:01:54.750><c> there's</c><00:01:55.020><c> a</c><00:01:55.110><c> greater</c><00:01:55.799><c> than</c><00:01:55.950><c> you</c><00:01:56.399><c> know</c>
+
+00:01:56.510 --> 00:01:56.520 align:start position:0%
+think there's a greater than you know
+ 
+
+00:01:56.520 --> 00:01:58.940 align:start position:0%
+think there's a greater than you know
+greater<00:01:56.759><c> than</c><00:01:56.969><c> or</c><00:01:57.149><c> equal</c><00:01:57.509><c> to</c><00:01:57.689><c> 70%</c><00:01:58.229><c> chance</c><00:01:58.710><c> that</c>
+
+00:01:58.940 --> 00:01:58.950 align:start position:0%
+greater than or equal to 70% chance that
+ 
+
+00:01:58.950 --> 00:02:02.149 align:start position:0%
+greater than or equal to 70% chance that
+they<00:01:59.189><c> have</c><00:01:59.340><c> cancer</c><00:01:59.610><c> and</c><00:02:00.360><c> if</c><00:02:01.140><c> you</c><00:02:01.259><c> do</c><00:02:01.439><c> this</c><00:02:01.649><c> then</c>
+
+00:02:02.149 --> 00:02:02.159 align:start position:0%
+they have cancer and if you do this then
+ 
+
+00:02:02.159 --> 00:02:04.130 align:start position:0%
+they have cancer and if you do this then
+you're<00:02:03.030><c> predicting</c><00:02:03.479><c> someone</c><00:02:03.780><c> has</c><00:02:03.899><c> cancer</c>
+
+00:02:04.130 --> 00:02:04.140 align:start position:0%
+you're predicting someone has cancer
+ 
+
+00:02:04.140 --> 00:02:07.490 align:start position:0%
+you're predicting someone has cancer
+only<00:02:04.619><c> when</c><00:02:05.009><c> you're</c><00:02:05.159><c> more</c><00:02:05.340><c> confident</c><00:02:06.000><c> and</c><00:02:06.500><c> so</c>
+
+00:02:07.490 --> 00:02:07.500 align:start position:0%
+only when you're more confident and so
+ 
+
+00:02:07.500 --> 00:02:09.690 align:start position:0%
+only when you're more confident and so
+you<00:02:07.560><c> end</c><00:02:07.890><c> up</c><00:02:08.099><c> with</c><00:02:08.369><c> a</c><00:02:08.399><c> classifier</c>
+
+00:02:09.690 --> 00:02:09.700 align:start position:0%
+you end up with a classifier
+ 
+
+00:02:09.700 --> 00:02:14.250 align:start position:0%
+you end up with a classifier
+that<00:02:10.090><c> has</c><00:02:10.330><c> higher</c><00:02:10.929><c> precision</c><00:02:12.840><c> because</c><00:02:13.840><c> all</c><00:02:14.200><c> of</c>
+
+00:02:14.250 --> 00:02:14.260 align:start position:0%
+that has higher precision because all of
+ 
+
+00:02:14.260 --> 00:02:16.110 align:start position:0%
+that has higher precision because all of
+the<00:02:14.560><c> patients</c><00:02:14.769><c> that</c><00:02:15.160><c> you're</c><00:02:15.430><c> going</c><00:02:15.730><c> to</c><00:02:15.790><c> and</c>
+
+00:02:16.110 --> 00:02:16.120 align:start position:0%
+the patients that you're going to and
+ 
+
+00:02:16.120 --> 00:02:17.610 align:start position:0%
+the patients that you're going to and
+say<00:02:16.360><c> you</c><00:02:16.629><c> know</c><00:02:16.810><c> we</c><00:02:16.989><c> think</c><00:02:17.019><c> you</c><00:02:17.230><c> have</c><00:02:17.440><c> cancer</c>
+
+00:02:17.610 --> 00:02:17.620 align:start position:0%
+say you know we think you have cancer
+ 
+
+00:02:17.620 --> 00:02:20.580 align:start position:0%
+say you know we think you have cancer
+although<00:02:18.550><c> those</c><00:02:18.760><c> patients</c><00:02:19.420><c> are</c><00:02:19.599><c> now</c><00:02:19.840><c> pretty</c>
+
+00:02:20.580 --> 00:02:20.590 align:start position:0%
+although those patients are now pretty
+ 
+
+00:02:20.590 --> 00:02:22.229 align:start position:0%
+although those patients are now pretty
+ones<00:02:21.010><c> that</c><00:02:21.220><c> you're</c><00:02:21.340><c> pretty</c><00:02:21.670><c> confident</c>
+
+00:02:22.229 --> 00:02:22.239 align:start position:0%
+ones that you're pretty confident
+ 
+
+00:02:22.239 --> 00:02:24.809 align:start position:0%
+ones that you're pretty confident
+actually<00:02:22.540><c> have</c><00:02:23.050><c> cancer</c><00:02:23.319><c> and</c><00:02:23.830><c> so</c><00:02:24.069><c> a</c><00:02:24.310><c> higher</c>
+
+00:02:24.809 --> 00:02:24.819 align:start position:0%
+actually have cancer and so a higher
+ 
+
+00:02:24.819 --> 00:02:27.030 align:start position:0%
+actually have cancer and so a higher
+fraction<00:02:25.480><c> of</c><00:02:25.690><c> the</c><00:02:26.290><c> patients</c><00:02:26.440><c> that</c><00:02:26.950><c> you</c>
+
+00:02:27.030 --> 00:02:27.040 align:start position:0%
+fraction of the patients that you
+ 
+
+00:02:27.040 --> 00:02:29.190 align:start position:0%
+fraction of the patients that you
+predict<00:02:27.430><c> have</c><00:02:27.640><c> cancer</c><00:02:28.090><c> will</c><00:02:28.599><c> actually</c><00:02:29.019><c> turn</c>
+
+00:02:29.190 --> 00:02:29.200 align:start position:0%
+predict have cancer will actually turn
+ 
+
+00:02:29.200 --> 00:02:31.290 align:start position:0%
+predict have cancer will actually turn
+out<00:02:29.410><c> to</c><00:02:29.650><c> have</c><00:02:29.680><c> cancer</c><00:02:30.280><c> because</c><00:02:30.489><c> we're</c><00:02:30.849><c> making</c>
+
+00:02:31.290 --> 00:02:31.300 align:start position:0%
+out to have cancer because we're making
+ 
+
+00:02:31.300 --> 00:02:32.790 align:start position:0%
+out to have cancer because we're making
+those<00:02:31.420><c> predictions</c><00:02:31.630><c> only</c><00:02:32.380><c> if</c><00:02:32.470><c> we're</c><00:02:32.620><c> pretty</c>
+
+00:02:32.790 --> 00:02:32.800 align:start position:0%
+those predictions only if we're pretty
+ 
+
+00:02:32.800 --> 00:02:35.520 align:start position:0%
+those predictions only if we're pretty
+confident<00:02:33.630><c> but</c><00:02:34.630><c> in</c><00:02:34.810><c> contrast</c><00:02:35.140><c> this</c>
+
+00:02:35.520 --> 00:02:35.530 align:start position:0%
+confident but in contrast this
+ 
+
+00:02:35.530 --> 00:02:38.460 align:start position:0%
+confident but in contrast this
+classifier<00:02:36.280><c> will</c><00:02:36.580><c> have</c><00:02:36.790><c> lower</c><00:02:37.540><c> recall</c>
+
+00:02:38.460 --> 00:02:38.470 align:start position:0%
+classifier will have lower recall
+ 
+
+00:02:38.470 --> 00:02:40.740 align:start position:0%
+classifier will have lower recall
+because<00:02:38.739><c> now</c><00:02:39.310><c> we're</c><00:02:40.120><c> going</c><00:02:40.330><c> to</c><00:02:40.450><c> make</c>
+
+00:02:40.740 --> 00:02:40.750 align:start position:0%
+because now we're going to make
+ 
+
+00:02:40.750 --> 00:02:42.330 align:start position:0%
+because now we're going to make
+predictions<00:02:41.080><c> we're</c><00:02:41.709><c> going</c><00:02:41.890><c> to</c><00:02:41.950><c> predict</c><00:02:42.220><c> y</c>
+
+00:02:42.330 --> 00:02:42.340 align:start position:0%
+predictions we're going to predict y
+ 
+
+00:02:42.340 --> 00:02:44.490 align:start position:0%
+predictions we're going to predict y
+equals<00:02:42.400><c> 1</c><00:02:42.819><c> on</c><00:02:43.060><c> a</c><00:02:43.090><c> smaller</c><00:02:43.510><c> number</c><00:02:43.630><c> of</c><00:02:43.989><c> patients</c>
+
+00:02:44.490 --> 00:02:44.500 align:start position:0%
+equals 1 on a smaller number of patients
+ 
+
+00:02:44.500 --> 00:02:46.170 align:start position:0%
+equals 1 on a smaller number of patients
+and<00:02:45.190><c> we</c><00:02:45.280><c> can</c><00:02:45.400><c> even</c><00:02:45.580><c> take</c><00:02:45.760><c> this</c><00:02:45.880><c> further</c>
+
+00:02:46.170 --> 00:02:46.180 align:start position:0%
+and we can even take this further
+ 
+
+00:02:46.180 --> 00:02:48.360 align:start position:0%
+and we can even take this further
+instead<00:02:46.630><c> of</c><00:02:46.750><c> setting</c><00:02:47.110><c> the</c><00:02:47.200><c> threshold</c><00:02:47.349><c> at</c><00:02:47.709><c> 0.7</c>
+
+00:02:48.360 --> 00:02:48.370 align:start position:0%
+instead of setting the threshold at 0.7
+ 
+
+00:02:48.370 --> 00:02:50.759 align:start position:0%
+instead of setting the threshold at 0.7
+we<00:02:49.090><c> could</c><00:02:49.269><c> set</c><00:02:49.480><c> this</c><00:02:49.630><c> at</c><00:02:49.840><c> all</c><00:02:50.019><c> point</c><00:02:50.260><c> nine</c><00:02:50.440><c> and</c>
+
+00:02:50.759 --> 00:02:50.769 align:start position:0%
+we could set this at all point nine and
+ 
+
+00:02:50.769 --> 00:02:53.160 align:start position:0%
+we could set this at all point nine and
+we'll<00:02:51.579><c> predict</c><00:02:51.880><c> y</c><00:02:52.060><c> equals</c><00:02:52.120><c> one</c><00:02:52.630><c> earlier</c><00:02:53.110><c> where</c>
+
+00:02:53.160 --> 00:02:53.170 align:start position:0%
+we'll predict y equals one earlier where
+ 
+
+00:02:53.170 --> 00:02:56.009 align:start position:0%
+we'll predict y equals one earlier where
+more<00:02:53.620><c> than</c><00:02:53.650><c> 90%</c><00:02:54.190><c> certain</c><00:02:54.940><c> that</c><00:02:55.510><c> the</c><00:02:55.630><c> patient</c>
+
+00:02:56.009 --> 00:02:56.019 align:start position:0%
+more than 90% certain that the patient
+ 
+
+00:02:56.019 --> 00:02:58.229 align:start position:0%
+more than 90% certain that the patient
+has<00:02:56.140><c> cancer</c><00:02:56.349><c> and</c><00:02:56.890><c> so</c><00:02:57.190><c> you</c><00:02:57.730><c> know</c><00:02:57.849><c> a</c><00:02:57.940><c> large</c>
+
+00:02:58.229 --> 00:02:58.239 align:start position:0%
+has cancer and so you know a large
+ 
+
+00:02:58.239 --> 00:02:59.970 align:start position:0%
+has cancer and so you know a large
+fraction<00:02:58.690><c> of</c><00:02:58.840><c> those</c><00:02:59.019><c> patients</c><00:02:59.260><c> will</c><00:02:59.650><c> turn</c><00:02:59.829><c> out</c>
+
+00:02:59.970 --> 00:02:59.980 align:start position:0%
+fraction of those patients will turn out
+ 
+
+00:02:59.980 --> 00:03:01.979 align:start position:0%
+fraction of those patients will turn out
+to<00:03:00.130><c> have</c><00:03:00.160><c> cancer</c><00:03:00.459><c> and</c><00:03:00.970><c> so</c><00:03:01.540><c> this</c><00:03:01.720><c> would</c><00:03:01.870><c> be</c><00:03:01.959><c> a</c>
+
+00:03:01.979 --> 00:03:01.989 align:start position:0%
+to have cancer and so this would be a
+ 
+
+00:03:01.989 --> 00:03:04.530 align:start position:0%
+to have cancer and so this would be a
+high<00:03:02.290><c> precision</c><00:03:02.769><c> classifier</c><00:03:03.549><c> will</c><00:03:04.329><c> have</c>
+
+00:03:04.530 --> 00:03:04.540 align:start position:0%
+high precision classifier will have
+ 
+
+00:03:04.540 --> 00:03:06.539 align:start position:0%
+high precision classifier will have
+lower<00:03:04.810><c> recall</c><00:03:05.319><c> because</c><00:03:05.769><c> we</c><00:03:06.220><c> want</c><00:03:06.459><c> to</c>
+
+00:03:06.539 --> 00:03:06.549 align:start position:0%
+lower recall because we want to
+ 
+
+00:03:06.549 --> 00:03:08.430 align:start position:0%
+lower recall because we want to
+correctly<00:03:07.239><c> detect</c><00:03:07.540><c> that</c><00:03:07.720><c> those</c><00:03:07.900><c> patients</c>
+
+00:03:08.430 --> 00:03:08.440 align:start position:0%
+correctly detect that those patients
+ 
+
+00:03:08.440 --> 00:03:10.740 align:start position:0%
+correctly detect that those patients
+have<00:03:08.590><c> cancer</c><00:03:09.069><c> now</c><00:03:09.459><c> consider</c><00:03:10.120><c> a</c><00:03:10.239><c> different</c>
+
+00:03:10.740 --> 00:03:10.750 align:start position:0%
+have cancer now consider a different
+ 
+
+00:03:10.750 --> 00:03:13.860 align:start position:0%
+have cancer now consider a different
+example<00:03:11.430><c> suppose</c><00:03:12.430><c> we</c><00:03:12.610><c> want</c><00:03:12.819><c> to</c><00:03:12.880><c> avoid</c><00:03:13.299><c> missing</c>
+
+00:03:13.860 --> 00:03:13.870 align:start position:0%
+example suppose we want to avoid missing
+ 
+
+00:03:13.870 --> 00:03:16.140 align:start position:0%
+example suppose we want to avoid missing
+too<00:03:14.109><c> many</c><00:03:14.260><c> actual</c><00:03:14.829><c> cases</c><00:03:15.100><c> of</c><00:03:15.400><c> cancer</c><00:03:15.639><c> so</c><00:03:16.120><c> we</c>
+
+00:03:16.140 --> 00:03:16.150 align:start position:0%
+too many actual cases of cancer so we
+ 
+
+00:03:16.150 --> 00:03:18.690 align:start position:0%
+too many actual cases of cancer so we
+want<00:03:16.450><c> to</c><00:03:16.569><c> avoid</c><00:03:16.959><c> false</c><00:03:17.440><c> negatives</c><00:03:17.980><c> in</c>
+
+00:03:18.690 --> 00:03:18.700 align:start position:0%
+want to avoid false negatives in
+ 
+
+00:03:18.700 --> 00:03:20.729 align:start position:0%
+want to avoid false negatives in
+particular<00:03:19.090><c> if</c><00:03:19.600><c> a</c><00:03:19.870><c> patient</c><00:03:20.290><c> actually</c><00:03:20.530><c> has</c>
+
+00:03:20.729 --> 00:03:20.739 align:start position:0%
+particular if a patient actually has
+ 
+
+00:03:20.739 --> 00:03:23.879 align:start position:0%
+particular if a patient actually has
+cancer<00:03:21.519><c> but</c><00:03:22.269><c> we</c><00:03:22.420><c> fail</c><00:03:22.750><c> to</c><00:03:23.109><c> tell</c><00:03:23.350><c> them</c><00:03:23.590><c> that</c>
+
+00:03:23.879 --> 00:03:23.889 align:start position:0%
+cancer but we fail to tell them that
+ 
+
+00:03:23.889 --> 00:03:25.289 align:start position:0%
+cancer but we fail to tell them that
+they<00:03:23.980><c> have</c><00:03:24.010><c> cancer</c><00:03:24.609><c> then</c><00:03:24.819><c> that</c><00:03:25.090><c> could</c><00:03:25.239><c> be</c>
+
+00:03:25.289 --> 00:03:25.299 align:start position:0%
+they have cancer then that could be
+ 
+
+00:03:25.299 --> 00:03:27.720 align:start position:0%
+they have cancer then that could be
+really<00:03:25.569><c> bad</c><00:03:25.690><c> because</c><00:03:26.019><c> you</c><00:03:26.769><c> know</c><00:03:26.799><c> if</c><00:03:27.160><c> we</c><00:03:27.489><c> tell</c><00:03:27.700><c> a</c>
+
+00:03:27.720 --> 00:03:27.730 align:start position:0%
+really bad because you know if we tell a
+ 
+
+00:03:27.730 --> 00:03:30.360 align:start position:0%
+really bad because you know if we tell a
+patient<00:03:27.970><c> that</c><00:03:28.690><c> they</c><00:03:28.840><c> don't</c><00:03:29.109><c> have</c><00:03:29.290><c> cancer</c><00:03:29.530><c> then</c>
+
+00:03:30.360 --> 00:03:30.370 align:start position:0%
+patient that they don't have cancer then
+ 
+
+00:03:30.370 --> 00:03:32.160 align:start position:0%
+patient that they don't have cancer then
+they<00:03:30.760><c> they're</c><00:03:31.389><c> not</c><00:03:31.569><c> going</c><00:03:31.780><c> to</c><00:03:31.870><c> go</c><00:03:31.989><c> for</c>
+
+00:03:32.160 --> 00:03:32.170 align:start position:0%
+they they're not going to go for
+ 
+
+00:03:32.170 --> 00:03:33.990 align:start position:0%
+they they're not going to go for
+treatment<00:03:32.680><c> and</c><00:03:32.920><c> if</c><00:03:33.130><c> it</c><00:03:33.220><c> turns</c><00:03:33.430><c> out</c><00:03:33.639><c> that</c><00:03:33.910><c> they</c>
+
+00:03:33.990 --> 00:03:34.000 align:start position:0%
+treatment and if it turns out that they
+ 
+
+00:03:34.000 --> 00:03:36.270 align:start position:0%
+treatment and if it turns out that they
+have<00:03:34.209><c> cancer</c><00:03:34.480><c> but</c><00:03:35.290><c> we</c><00:03:35.410><c> fail</c><00:03:35.650><c> to</c><00:03:35.680><c> tell</c><00:03:36.100><c> them</c>
+
+00:03:36.270 --> 00:03:36.280 align:start position:0%
+have cancer but we fail to tell them
+ 
+
+00:03:36.280 --> 00:03:38.550 align:start position:0%
+have cancer but we fail to tell them
+they<00:03:36.400><c> have</c><00:03:36.670><c> cancer</c><00:03:37.120><c> well</c><00:03:37.450><c> they</c><00:03:37.989><c> may</c><00:03:38.139><c> not</c><00:03:38.170><c> get</c>
+
+00:03:38.550 --> 00:03:38.560 align:start position:0%
+they have cancer well they may not get
+ 
+
+00:03:38.560 --> 00:03:40.680 align:start position:0%
+they have cancer well they may not get
+treated<00:03:38.980><c> at</c><00:03:39.100><c> all</c><00:03:39.220><c> and</c><00:03:39.639><c> so</c><00:03:39.880><c> that</c><00:03:40.239><c> that</c><00:03:40.450><c> would</c><00:03:40.569><c> be</c>
+
+00:03:40.680 --> 00:03:40.690 align:start position:0%
+treated at all and so that that would be
+ 
+
+00:03:40.690 --> 00:03:42.210 align:start position:0%
+treated at all and so that that would be
+a<00:03:40.720><c> really</c><00:03:40.930><c> bad</c><00:03:41.109><c> outcome</c><00:03:41.350><c> they</c><00:03:41.680><c> just</c><00:03:41.920><c> die</c>
+
+00:03:42.210 --> 00:03:42.220 align:start position:0%
+a really bad outcome they just die
+ 
+
+00:03:42.220 --> 00:03:43.590 align:start position:0%
+a really bad outcome they just die
+because<00:03:42.250><c> we</c><00:03:42.790><c> told</c><00:03:42.940><c> them</c><00:03:43.120><c> they</c><00:03:43.269><c> don't</c><00:03:43.420><c> have</c>
+
+00:03:43.590 --> 00:03:43.600 align:start position:0%
+because we told them they don't have
+ 
+
+00:03:43.600 --> 00:03:45.780 align:start position:0%
+because we told them they don't have
+cancer<00:03:44.049><c> they</c><00:03:44.530><c> fail</c><00:03:44.799><c> to</c><00:03:44.829><c> get</c><00:03:45.100><c> treated</c><00:03:45.400><c> but</c><00:03:45.670><c> it</c>
+
+00:03:45.780 --> 00:03:45.790 align:start position:0%
+cancer they fail to get treated but it
+ 
+
+00:03:45.790 --> 00:03:47.750 align:start position:0%
+cancer they fail to get treated but it
+turns<00:03:45.970><c> out</c><00:03:46.120><c> they</c><00:03:46.269><c> actually</c><00:03:46.299><c> have</c><00:03:46.780><c> cancer</c><00:03:47.200><c> so</c>
+
+00:03:47.750 --> 00:03:47.760 align:start position:0%
+turns out they actually have cancer so
+ 
+
+00:03:47.760 --> 00:03:50.340 align:start position:0%
+turns out they actually have cancer so
+suppose<00:03:48.760><c> that</c><00:03:48.970><c> when</c><00:03:49.450><c> in</c><00:03:49.569><c> doubt</c><00:03:49.750><c> we</c><00:03:49.989><c> want</c><00:03:50.230><c> to</c>
+
+00:03:50.340 --> 00:03:50.350 align:start position:0%
+suppose that when in doubt we want to
+ 
+
+00:03:50.350 --> 00:03:53.550 align:start position:0%
+suppose that when in doubt we want to
+predict<00:03:50.769><c> that</c><00:03:50.920><c> y</c><00:03:51.760><c> equals</c><00:03:52.299><c> 1</c><00:03:52.630><c> so</c><00:03:52.930><c> when</c><00:03:53.230><c> in</c><00:03:53.380><c> doubt</c>
+
+00:03:53.550 --> 00:03:53.560 align:start position:0%
+predict that y equals 1 so when in doubt
+ 
+
+00:03:53.560 --> 00:03:56.039 align:start position:0%
+predict that y equals 1 so when in doubt
+we<00:03:53.950><c> want</c><00:03:54.459><c> to</c><00:03:54.579><c> predict</c><00:03:54.970><c> that</c><00:03:55.299><c> they</c><00:03:55.510><c> have</c><00:03:55.750><c> cancer</c>
+
+00:03:56.039 --> 00:03:56.049 align:start position:0%
+we want to predict that they have cancer
+ 
+
+00:03:56.049 --> 00:03:58.050 align:start position:0%
+we want to predict that they have cancer
+so<00:03:56.290><c> that</c><00:03:56.680><c> at</c><00:03:56.829><c> least</c><00:03:56.980><c> they</c><00:03:57.250><c> look</c><00:03:57.519><c> further</c><00:03:57.790><c> into</c>
+
+00:03:58.050 --> 00:03:58.060 align:start position:0%
+so that at least they look further into
+ 
+
+00:03:58.060 --> 00:04:00.750 align:start position:0%
+so that at least they look further into
+it<00:03:58.239><c> and</c><00:03:58.599><c> the</c><00:03:59.500><c> data</c><00:03:59.859><c> and</c><00:04:00.130><c> these</c><00:04:00.250><c> can</c><00:04:00.609><c> get</c>
+
+00:04:00.750 --> 00:04:00.760 align:start position:0%
+it and the data and these can get
+ 
+
+00:04:00.760 --> 00:04:02.610 align:start position:0%
+it and the data and these can get
+treated<00:04:01.060><c> in</c><00:04:01.329><c> case</c><00:04:01.540><c> they</c><00:04:01.660><c> do</c><00:04:01.870><c> turn</c><00:04:02.230><c> out</c><00:04:02.410><c> to</c><00:04:02.590><c> have</c>
+
+00:04:02.610 --> 00:04:02.620 align:start position:0%
+treated in case they do turn out to have
+ 
+
+00:04:02.620 --> 00:04:06.750 align:start position:0%
+treated in case they do turn out to have
+cancer<00:04:03.840><c> in</c><00:04:04.840><c> this</c><00:04:05.170><c> case</c><00:04:05.470><c> rather</c><00:04:05.950><c> than</c><00:04:06.280><c> setting</c>
+
+00:04:06.750 --> 00:04:06.760 align:start position:0%
+cancer in this case rather than setting
+ 
+
+00:04:06.760 --> 00:04:09.089 align:start position:0%
+cancer in this case rather than setting
+higher<00:04:07.120><c> probability</c><00:04:07.870><c> threshold</c><00:04:08.019><c> we</c><00:04:08.889><c> might</c>
+
+00:04:09.089 --> 00:04:09.099 align:start position:0%
+higher probability threshold we might
+ 
+
+00:04:09.099 --> 00:04:12.000 align:start position:0%
+higher probability threshold we might
+instead<00:04:09.510><c> take</c><00:04:10.510><c> this</c><00:04:10.690><c> particular</c><00:04:11.380><c> value</c><00:04:11.620><c> and</c>
+
+00:04:12.000 --> 00:04:12.010 align:start position:0%
+instead take this particular value and
+ 
+
+00:04:12.010 --> 00:04:15.170 align:start position:0%
+instead take this particular value and
+instead<00:04:12.730><c> set</c><00:04:13.060><c> in</c><00:04:13.239><c> to</c><00:04:13.480><c> a</c><00:04:13.510><c> lower</c><00:04:13.989><c> value</c><00:04:14.290><c> so</c><00:04:14.769><c> maybe</c>
+
+00:04:15.170 --> 00:04:15.180 align:start position:0%
+instead set in to a lower value so maybe
+ 
+
+00:04:15.180 --> 00:04:16.509 align:start position:0%
+instead set in to a lower value so maybe
+0.3
+
+00:04:16.509 --> 00:04:16.519 align:start position:0%
+0.3
+ 
+
+00:04:16.519 --> 00:04:19.809 align:start position:0%
+0.3
+like<00:04:17.389><c> so</c><00:04:17.769><c> right</c><00:04:18.769><c> time</c><00:04:18.949><c> by</c><00:04:19.069><c> doing</c><00:04:19.130><c> so</c><00:04:19.519><c> we're</c>
+
+00:04:19.809 --> 00:04:19.819 align:start position:0%
+like so right time by doing so we're
+ 
+
+00:04:19.819 --> 00:04:21.640 align:start position:0%
+like so right time by doing so we're
+saying<00:04:20.000><c> that</c><00:04:20.269><c> you</c><00:04:20.479><c> know</c><00:04:20.599><c> what</c><00:04:20.750><c> if</c><00:04:21.019><c> we</c><00:04:21.500><c> think</c>
+
+00:04:21.640 --> 00:04:21.650 align:start position:0%
+saying that you know what if we think
+ 
+
+00:04:21.650 --> 00:04:23.469 align:start position:0%
+saying that you know what if we think
+there's<00:04:21.889><c> more</c><00:04:21.949><c> than</c><00:04:22.099><c> a</c><00:04:22.310><c> 30%</c><00:04:22.669><c> chance</c><00:04:23.030><c> that</c><00:04:23.330><c> they</c>
+
+00:04:23.469 --> 00:04:23.479 align:start position:0%
+there's more than a 30% chance that they
+ 
+
+00:04:23.479 --> 00:04:25.089 align:start position:0%
+there's more than a 30% chance that they
+have<00:04:23.630><c> cancer</c><00:04:23.900><c> we</c><00:04:24.620><c> better</c><00:04:24.889><c> be</c><00:04:25.069><c> more</c>
+
+00:04:25.089 --> 00:04:25.099 align:start position:0%
+have cancer we better be more
+ 
+
+00:04:25.099 --> 00:04:27.189 align:start position:0%
+have cancer we better be more
+conservative<00:04:25.699><c> and</c><00:04:26.270><c> tell</c><00:04:26.509><c> them</c><00:04:26.660><c> that</c><00:04:26.870><c> they</c><00:04:27.050><c> may</c>
+
+00:04:27.189 --> 00:04:27.199 align:start position:0%
+conservative and tell them that they may
+ 
+
+00:04:27.199 --> 00:04:28.629 align:start position:0%
+conservative and tell them that they may
+have<00:04:27.380><c> cancer</c><00:04:27.560><c> so</c><00:04:28.039><c> that</c><00:04:28.190><c> they</c><00:04:28.280><c> can</c><00:04:28.430><c> seek</c>
+
+00:04:28.629 --> 00:04:28.639 align:start position:0%
+have cancer so that they can seek
+ 
+
+00:04:28.639 --> 00:04:32.050 align:start position:0%
+have cancer so that they can seek
+treatment<00:04:28.910><c> if</c><00:04:29.330><c> necessary</c><00:04:30.490><c> and</c><00:04:31.490><c> in</c><00:04:31.669><c> this</c><00:04:31.789><c> case</c>
+
+00:04:32.050 --> 00:04:32.060 align:start position:0%
+treatment if necessary and in this case
+ 
+
+00:04:32.060 --> 00:04:34.779 align:start position:0%
+treatment if necessary and in this case
+what<00:04:32.810><c> we</c><00:04:32.930><c> would</c><00:04:33.080><c> have</c><00:04:33.289><c> is</c><00:04:33.770><c> going</c><00:04:34.220><c> to</c><00:04:34.370><c> be</c><00:04:34.520><c> a</c>
+
+00:04:34.779 --> 00:04:34.789 align:start position:0%
+what we would have is going to be a
+ 
+
+00:04:34.789 --> 00:04:41.230 align:start position:0%
+what we would have is going to be a
+higher<00:04:36.039><c> recall</c><00:04:37.750><c> classifier</c><00:04:38.750><c> because</c><00:04:40.240><c> we're</c>
+
+00:04:41.230 --> 00:04:41.240 align:start position:0%
+higher recall classifier because we're
+ 
+
+00:04:41.240 --> 00:04:43.480 align:start position:0%
+higher recall classifier because we're
+going<00:04:41.419><c> to</c><00:04:41.509><c> be</c><00:04:41.720><c> correctly</c><00:04:42.319><c> flagging</c><00:04:43.039><c> a</c><00:04:43.250><c> higher</c>
+
+00:04:43.480 --> 00:04:43.490 align:start position:0%
+going to be correctly flagging a higher
+ 
+
+00:04:43.490 --> 00:04:45.430 align:start position:0%
+going to be correctly flagging a higher
+fraction<00:04:43.819><c> of</c><00:04:44.360><c> all</c><00:04:44.660><c> of</c><00:04:44.810><c> the</c><00:04:44.930><c> patients</c><00:04:45.139><c> to</c>
+
+00:04:45.430 --> 00:04:45.440 align:start position:0%
+fraction of all of the patients to
+ 
+
+00:04:45.440 --> 00:04:47.740 align:start position:0%
+fraction of all of the patients to
+actually<00:04:45.620><c> do</c><00:04:45.949><c> have</c><00:04:46.160><c> cancer</c><00:04:46.639><c> but</c><00:04:47.419><c> we're</c><00:04:47.599><c> going</c>
+
+00:04:47.740 --> 00:04:47.750 align:start position:0%
+actually do have cancer but we're going
+ 
+
+00:04:47.750 --> 00:04:52.480 align:start position:0%
+actually do have cancer but we're going
+to<00:04:47.840><c> end</c><00:04:48.050><c> up</c><00:04:48.229><c> with</c><00:04:48.470><c> lower</c><00:04:50.440><c> precision</c><00:04:51.440><c> because</c><00:04:51.860><c> a</c>
+
+00:04:52.480 --> 00:04:52.490 align:start position:0%
+to end up with lower precision because a
+ 
+
+00:04:52.490 --> 00:04:54.430 align:start position:0%
+to end up with lower precision because a
+higher<00:04:52.880><c> fraction</c><00:04:53.150><c> of</c><00:04:53.630><c> the</c><00:04:53.750><c> patients</c><00:04:54.199><c> that</c><00:04:54.229><c> we</c>
+
+00:04:54.430 --> 00:04:54.440 align:start position:0%
+higher fraction of the patients that we
+ 
+
+00:04:54.440 --> 00:04:56.620 align:start position:0%
+higher fraction of the patients that we
+said<00:04:54.710><c> have</c><00:04:54.919><c> cancer</c><00:04:55.340><c> your</c><00:04:55.909><c> higher</c><00:04:56.090><c> fraction</c><00:04:56.509><c> of</c>
+
+00:04:56.620 --> 00:04:56.630 align:start position:0%
+said have cancer your higher fraction of
+ 
+
+00:04:56.630 --> 00:04:58.149 align:start position:0%
+said have cancer your higher fraction of
+them<00:04:56.780><c> will</c><00:04:56.810><c> turn</c><00:04:57.139><c> out</c><00:04:57.349><c> not</c><00:04:57.590><c> to</c><00:04:57.650><c> have</c><00:04:57.889><c> cancer</c>
+
+00:04:58.149 --> 00:04:58.159 align:start position:0%
+them will turn out not to have cancer
+ 
+
+00:04:58.159 --> 00:05:01.450 align:start position:0%
+them will turn out not to have cancer
+after<00:04:58.490><c> all</c><00:04:59.530><c> and</c><00:05:00.530><c> by</c><00:05:00.710><c> the</c><00:05:00.770><c> way</c><00:05:00.949><c> just</c><00:05:01.220><c> as</c><00:05:01.340><c> an</c>
+
+00:05:01.450 --> 00:05:01.460 align:start position:0%
+after all and by the way just as an
+ 
+
+00:05:01.460 --> 00:05:04.899 align:start position:0%
+after all and by the way just as an
+aside<00:05:01.580><c> when</c><00:05:02.569><c> I</c><00:05:02.599><c> talk</c><00:05:02.900><c> about</c><00:05:03.050><c> this</c><00:05:03.380><c> in</c><00:05:03.669><c> to</c><00:05:04.669><c> two</c>
+
+00:05:04.899 --> 00:05:04.909 align:start position:0%
+aside when I talk about this in to two
+ 
+
+00:05:04.909 --> 00:05:07.089 align:start position:0%
+aside when I talk about this in to two
+other<00:05:05.150><c> students</c><00:05:05.599><c> I've</c><00:05:05.840><c> been</c><00:05:06.020><c> told</c><00:05:06.229><c> before</c><00:05:06.380><c> you</c>
+
+00:05:07.089 --> 00:05:07.099 align:start position:0%
+other students I've been told before you
+ 
+
+00:05:07.099 --> 00:05:09.189 align:start position:0%
+other students I've been told before you
+know<00:05:07.220><c> it's</c><00:05:07.490><c> pretty</c><00:05:07.699><c> amazing</c><00:05:08.030><c> some</c><00:05:08.960><c> of</c><00:05:08.990><c> my</c>
+
+00:05:09.189 --> 00:05:09.199 align:start position:0%
+know it's pretty amazing some of my
+ 
+
+00:05:09.199 --> 00:05:11.140 align:start position:0%
+know it's pretty amazing some of my
+students<00:05:09.500><c> say</c><00:05:09.650><c> is</c><00:05:09.830><c> how</c><00:05:10.009><c> I</c><00:05:10.039><c> can</c><00:05:10.400><c> tell</c><00:05:11.000><c> the</c>
+
+00:05:11.140 --> 00:05:11.150 align:start position:0%
+students say is how I can tell the
+ 
+
+00:05:11.150 --> 00:05:13.089 align:start position:0%
+students say is how I can tell the
+stories<00:05:11.630><c> both</c><00:05:11.870><c> ways</c><00:05:12.139><c> to</c><00:05:12.380><c> know</c><00:05:12.470><c> why</c><00:05:12.710><c> we</c><00:05:12.949><c> might</c>
+
+00:05:13.089 --> 00:05:13.099 align:start position:0%
+stories both ways to know why we might
+ 
+
+00:05:13.099 --> 00:05:15.339 align:start position:0%
+stories both ways to know why we might
+want<00:05:13.340><c> to</c><00:05:13.400><c> you</c><00:05:14.090><c> know</c><00:05:14.180><c> have</c><00:05:14.419><c> higher</c><00:05:14.659><c> position</c><00:05:15.110><c> or</c>
+
+00:05:15.339 --> 00:05:15.349 align:start position:0%
+want to you know have higher position or
+ 
+
+00:05:15.349 --> 00:05:17.920 align:start position:0%
+want to you know have higher position or
+Harvey<00:05:15.710><c> Cole</c><00:05:15.949><c> and</c><00:05:16.220><c> the</c><00:05:16.970><c> story</c><00:05:17.240><c> actually</c><00:05:17.509><c> seems</c>
+
+00:05:17.920 --> 00:05:17.930 align:start position:0%
+Harvey Cole and the story actually seems
+ 
+
+00:05:17.930 --> 00:05:18.939 align:start position:0%
+Harvey Cole and the story actually seems
+to<00:05:18.080><c> work</c><00:05:18.259><c> both</c><00:05:18.500><c> ways</c>
+
+00:05:18.939 --> 00:05:18.949 align:start position:0%
+to work both ways
+ 
+
+00:05:18.949 --> 00:05:20.800 align:start position:0%
+to work both ways
+but<00:05:19.520><c> I</c><00:05:19.550><c> hope</c><00:05:19.759><c> the</c><00:05:20.060><c> details</c><00:05:20.449><c> that</c><00:05:20.690><c> the</c>
+
+00:05:20.800 --> 00:05:20.810 align:start position:0%
+but I hope the details that the
+ 
+
+00:05:20.810 --> 00:05:23.620 align:start position:0%
+but I hope the details that the
+algorithm<00:05:21.289><c> is</c><00:05:21.380><c> true</c><00:05:21.770><c> and</c><00:05:22.099><c> the</c><00:05:22.849><c> more</c><00:05:23.180><c> general</c>
+
+00:05:23.620 --> 00:05:23.630 align:start position:0%
+algorithm is true and the more general
+ 
+
+00:05:23.630 --> 00:05:25.930 align:start position:0%
+algorithm is true and the more general
+principle<00:05:23.780><c> is</c><00:05:24.289><c> depending</c><00:05:24.830><c> on</c><00:05:24.919><c> where</c><00:05:25.490><c> you</c><00:05:25.699><c> want</c>
+
+00:05:25.930 --> 00:05:25.940 align:start position:0%
+principle is depending on where you want
+ 
+
+00:05:25.940 --> 00:05:28.180 align:start position:0%
+principle is depending on where you want
+whether<00:05:26.330><c> you</c><00:05:26.479><c> want</c><00:05:26.690><c> higher</c><00:05:26.930><c> position</c><00:05:27.440><c> Lord</c><00:05:28.039><c> we</c>
+
+00:05:28.180 --> 00:05:28.190 align:start position:0%
+whether you want higher position Lord we
+ 
+
+00:05:28.190 --> 00:05:30.640 align:start position:0%
+whether you want higher position Lord we
+call<00:05:28.400><c> a</c><00:05:28.580><c> Harvey</c><00:05:28.940><c> caller</c><00:05:29.150><c> position</c><00:05:29.780><c> you</c><00:05:30.469><c> can</c>
+
+00:05:30.640 --> 00:05:30.650 align:start position:0%
+call a Harvey caller position you can
+ 
+
+00:05:30.650 --> 00:05:34.120 align:start position:0%
+call a Harvey caller position you can
+end<00:05:30.830><c> up</c><00:05:31.009><c> predicting</c><00:05:31.490><c> y</c><00:05:32.090><c> equals</c><00:05:32.449><c> 1</c><00:05:32.719><c> when</c><00:05:33.530><c> H</c><00:05:33.800><c> of</c><00:05:33.979><c> X</c>
+
+00:05:34.120 --> 00:05:34.130 align:start position:0%
+end up predicting y equals 1 when H of X
+ 
+
+00:05:34.130 --> 00:05:37.450 align:start position:0%
+end up predicting y equals 1 when H of X
+is<00:05:34.310><c> greater</c><00:05:34.460><c> than</c><00:05:34.669><c> some</c><00:05:35.030><c> threshold</c><00:05:35.270><c> and</c><00:05:36.099><c> so</c><00:05:37.099><c> in</c>
+
+00:05:37.450 --> 00:05:37.460 align:start position:0%
+is greater than some threshold and so in
+ 
+
+00:05:37.460 --> 00:05:40.689 align:start position:0%
+is greater than some threshold and so in
+general<00:05:38.380><c> there</c><00:05:39.380><c> for</c><00:05:39.979><c> most</c><00:05:40.130><c> classifiers</c>
+
+00:05:40.689 --> 00:05:40.699 align:start position:0%
+general there for most classifiers
+ 
+
+00:05:40.699 --> 00:05:42.670 align:start position:0%
+general there for most classifiers
+there's<00:05:41.150><c> going</c><00:05:41.479><c> to</c><00:05:41.570><c> be</c><00:05:41.659><c> a</c><00:05:41.990><c> trade-off</c><00:05:42.440><c> between</c>
+
+00:05:42.670 --> 00:05:42.680 align:start position:0%
+there's going to be a trade-off between
+ 
+
+00:05:42.680 --> 00:05:46.540 align:start position:0%
+there's going to be a trade-off between
+precision<00:05:43.400><c> and</c><00:05:44.030><c> recall</c><00:05:44.360><c> and</c><00:05:44.960><c> as</c><00:05:45.620><c> you</c><00:05:45.830><c> vary</c><00:05:46.159><c> the</c>
+
+00:05:46.540 --> 00:05:46.550 align:start position:0%
+precision and recall and as you vary the
+ 
+
+00:05:46.550 --> 00:05:49.089 align:start position:0%
+precision and recall and as you vary the
+value<00:05:46.729><c> of</c><00:05:47.180><c> this</c><00:05:47.300><c> threshold</c><00:05:47.990><c> this</c><00:05:48.680><c> value</c><00:05:49.009><c> of</c>
+
+00:05:49.089 --> 00:05:49.099 align:start position:0%
+value of this threshold this value of
+ 
+
+00:05:49.099 --> 00:05:51.070 align:start position:0%
+value of this threshold this value of
+this<00:05:49.190><c> special</c><00:05:49.669><c> that</c><00:05:49.819><c> when</c><00:05:49.969><c> drawing</c><00:05:50.180><c> here</c><00:05:50.449><c> you</c>
+
+00:05:51.070 --> 00:05:51.080 align:start position:0%
+this special that when drawing here you
+ 
+
+00:05:51.080 --> 00:05:53.950 align:start position:0%
+this special that when drawing here you
+can<00:05:51.500><c> actually</c><00:05:51.800><c> plot</c><00:05:52.069><c> out</c><00:05:52.280><c> some</c><00:05:52.550><c> curve</c><00:05:53.090><c> that</c>
+
+00:05:53.950 --> 00:05:53.960 align:start position:0%
+can actually plot out some curve that
+ 
+
+00:05:53.960 --> 00:05:57.760 align:start position:0%
+can actually plot out some curve that
+trains<00:05:54.409><c> off</c><00:05:54.880><c> precision</c><00:05:55.880><c> and</c><00:05:56.150><c> recall</c><00:05:56.469><c> where</c><00:05:57.469><c> a</c>
+
+00:05:57.760 --> 00:05:57.770 align:start position:0%
+trains off precision and recall where a
+ 
+
+00:05:57.770 --> 00:06:01.480 align:start position:0%
+trains off precision and recall where a
+value<00:05:58.400><c> up</c><00:05:58.580><c> here</c><00:05:58.780><c> this</c><00:05:59.780><c> would</c><00:06:00.050><c> correspond</c><00:06:00.620><c> to</c><00:06:00.770><c> a</c>
+
+00:06:01.480 --> 00:06:01.490 align:start position:0%
+value up here this would correspond to a
+ 
+
+00:06:01.490 --> 00:06:03.909 align:start position:0%
+value up here this would correspond to a
+very<00:06:01.729><c> high</c><00:06:02.060><c> value</c><00:06:02.120><c> of</c><00:06:02.900><c> the</c><00:06:03.080><c> threshold</c><00:06:03.680><c> maybe</c>
+
+00:06:03.909 --> 00:06:03.919 align:start position:0%
+very high value of the threshold maybe
+ 
+
+00:06:03.919 --> 00:06:06.339 align:start position:0%
+very high value of the threshold maybe
+threshold<00:06:04.490><c> equals</c><00:06:04.819><c> 0.99</c><00:06:05.270><c> so</c><00:06:05.990><c> that's</c><00:06:06.199><c> saying</c>
+
+00:06:06.339 --> 00:06:06.349 align:start position:0%
+threshold equals 0.99 so that's saying
+ 
+
+00:06:06.349 --> 00:06:08.620 align:start position:0%
+threshold equals 0.99 so that's saying
+predict<00:06:07.069><c> y</c><00:06:07.250><c> equals</c><00:06:07.280><c> 1</c><00:06:07.729><c> only</c><00:06:08.030><c> if</c><00:06:08.180><c> we're</c><00:06:08.419><c> you</c>
+
+00:06:08.620 --> 00:06:08.630 align:start position:0%
+predict y equals 1 only if we're you
+ 
+
+00:06:08.630 --> 00:06:11.379 align:start position:0%
+predict y equals 1 only if we're you
+know<00:06:08.719><c> more</c><00:06:08.930><c> than</c><00:06:09.050><c> 99%</c><00:06:09.789><c> confident</c><00:06:10.789><c> at</c><00:06:11.210><c> least</c>
+
+00:06:11.379 --> 00:06:11.389 align:start position:0%
+know more than 99% confident at least
+ 
+
+00:06:11.389 --> 00:06:13.959 align:start position:0%
+know more than 99% confident at least
+99%<00:06:11.719><c> probability</c><00:06:12.500><c> this</c><00:06:13.099><c> one</c><00:06:13.340><c> so</c><00:06:13.610><c> that'd</c><00:06:13.789><c> be</c><00:06:13.819><c> a</c>
+
+00:06:13.959 --> 00:06:13.969 align:start position:0%
+99% probability this one so that'd be a
+ 
+
+00:06:13.969 --> 00:06:16.600 align:start position:0%
+99% probability this one so that'd be a
+high<00:06:14.690><c> precision</c><00:06:15.080><c> relatively</c><00:06:15.889><c> low</c><00:06:16.099><c> recall</c>
+
+00:06:16.600 --> 00:06:16.610 align:start position:0%
+high precision relatively low recall
+ 
+
+00:06:16.610 --> 00:06:19.029 align:start position:0%
+high precision relatively low recall
+whereas<00:06:17.509><c> a</c><00:06:17.539><c> point</c><00:06:17.840><c> down</c><00:06:18.020><c> here</c><00:06:18.080><c> will</c>
+
+00:06:19.029 --> 00:06:19.039 align:start position:0%
+whereas a point down here will
+ 
+
+00:06:19.039 --> 00:06:21.520 align:start position:0%
+whereas a point down here will
+correspond<00:06:19.699><c> to</c><00:06:19.969><c> a</c><00:06:20.509><c> value</c><00:06:20.599><c> of</c><00:06:21.020><c> the</c><00:06:21.289><c> threshold</c>
+
+00:06:21.520 --> 00:06:21.530 align:start position:0%
+correspond to a value of the threshold
+ 
+
+00:06:21.530 --> 00:06:22.670 align:start position:0%
+correspond to a value of the threshold
+that's<00:06:22.370><c> my</c>
+
+00:06:22.670 --> 00:06:22.680 align:start position:0%
+that's my
+ 
+
+00:06:22.680 --> 00:06:24.980 align:start position:0%
+that's my
+lower<00:06:22.889><c> the</c><00:06:23.190><c> vehicle</c><00:06:23.610><c> you</c><00:06:23.789><c> know</c><00:06:23.850><c> 0.01</c><00:06:24.539><c> meaning</c>
+
+00:06:24.980 --> 00:06:24.990 align:start position:0%
+lower the vehicle you know 0.01 meaning
+ 
+
+00:06:24.990 --> 00:06:26.930 align:start position:0%
+lower the vehicle you know 0.01 meaning
+home<00:06:25.139><c> when</c><00:06:25.680><c> it</c><00:06:25.800><c> doubt</c><00:06:25.949><c> at</c><00:06:26.100><c> all</c><00:06:26.220><c> predict</c><00:06:26.699><c> y</c>
+
+00:06:26.930 --> 00:06:26.940 align:start position:0%
+home when it doubt at all predict y
+ 
+
+00:06:26.940 --> 00:06:28.850 align:start position:0%
+home when it doubt at all predict y
+equals<00:06:27.000><c> one</c><00:06:27.539><c> and</c><00:06:27.780><c> if</c><00:06:27.870><c> you</c><00:06:27.960><c> do</c><00:06:28.080><c> that</c><00:06:28.229><c> you</c><00:06:28.530><c> end</c><00:06:28.560><c> up</c>
+
+00:06:28.850 --> 00:06:28.860 align:start position:0%
+equals one and if you do that you end up
+ 
+
+00:06:28.860 --> 00:06:31.129 align:start position:0%
+equals one and if you do that you end up
+with<00:06:29.039><c> a</c><00:06:29.130><c> much</c><00:06:29.699><c> lower</c><00:06:29.940><c> precision</c><00:06:30.419><c> higher</c>
+
+00:06:31.129 --> 00:06:31.139 align:start position:0%
+with a much lower precision higher
+ 
+
+00:06:31.139 --> 00:06:34.159 align:start position:0%
+with a much lower precision higher
+recall<00:06:31.650><c> classifier</c><00:06:32.310><c> and</c><00:06:33.240><c> as</c><00:06:33.449><c> you</c><00:06:33.600><c> vary</c><00:06:33.870><c> the</c>
+
+00:06:34.159 --> 00:06:34.169 align:start position:0%
+recall classifier and as you vary the
+ 
+
+00:06:34.169 --> 00:06:36.230 align:start position:0%
+recall classifier and as you vary the
+threshold<00:06:34.350><c> you</c><00:06:34.919><c> can</c><00:06:35.100><c> if</c><00:06:35.460><c> you</c><00:06:35.699><c> want</c><00:06:35.850><c> you</c><00:06:36.000><c> can</c>
+
+00:06:36.230 --> 00:06:36.240 align:start position:0%
+threshold you can if you want you can
+ 
+
+00:06:36.240 --> 00:06:37.939 align:start position:0%
+threshold you can if you want you can
+actually<00:06:36.389><c> trace</c><00:06:36.900><c> all</c><00:06:37.169><c> the</c><00:06:37.289><c> current</c><00:06:37.710><c> for</c><00:06:37.830><c> your</c>
+
+00:06:37.939 --> 00:06:37.949 align:start position:0%
+actually trace all the current for your
+ 
+
+00:06:37.949 --> 00:06:40.219 align:start position:0%
+actually trace all the current for your
+classifier<00:06:38.460><c> to</c><00:06:38.820><c> see</c><00:06:39.360><c> the</c><00:06:39.600><c> range</c><00:06:39.840><c> of</c><00:06:40.020><c> different</c>
+
+00:06:40.219 --> 00:06:40.229 align:start position:0%
+classifier to see the range of different
+ 
+
+00:06:40.229 --> 00:06:42.310 align:start position:0%
+classifier to see the range of different
+values<00:06:40.560><c> you</c><00:06:40.979><c> can</c><00:06:41.100><c> get</c><00:06:41.310><c> for</c><00:06:41.550><c> precision</c><00:06:41.850><c> recall</c>
+
+00:06:42.310 --> 00:06:42.320 align:start position:0%
+values you can get for precision recall
+ 
+
+00:06:42.320 --> 00:06:44.390 align:start position:0%
+values you can get for precision recall
+and<00:06:43.320><c> by</c><00:06:43.440><c> the</c><00:06:43.500><c> way</c><00:06:43.650><c> the</c><00:06:43.860><c> precision</c><00:06:44.250><c> recall</c>
+
+00:06:44.390 --> 00:06:44.400 align:start position:0%
+and by the way the precision recall
+ 
+
+00:06:44.400 --> 00:06:46.550 align:start position:0%
+and by the way the precision recall
+curve<00:06:44.880><c> can</c><00:06:45.180><c> look</c><00:06:45.360><c> like</c><00:06:45.539><c> a</c><00:06:45.600><c> many</c><00:06:46.440><c> different</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+curve can look like a many different
+ 
+
+00:06:46.560 --> 00:06:48.469 align:start position:0%
+curve can look like a many different
+shapes<00:06:47.160><c> sometimes</c><00:06:47.699><c> they</c><00:06:47.880><c> look</c><00:06:48.060><c> like</c><00:06:48.210><c> this</c>
+
+00:06:48.469 --> 00:06:48.479 align:start position:0%
+shapes sometimes they look like this
+ 
+
+00:06:48.479 --> 00:06:52.640 align:start position:0%
+shapes sometimes they look like this
+sometimes<00:06:49.910><c> look</c><00:06:50.910><c> like</c><00:06:51.120><c> that</c><00:06:51.449><c> you</c><00:06:52.350><c> know</c><00:06:52.470><c> there</c>
+
+00:06:52.640 --> 00:06:52.650 align:start position:0%
+sometimes look like that you know there
+ 
+
+00:06:52.650 --> 00:06:54.050 align:start position:0%
+sometimes look like that you know there
+are<00:06:52.680><c> many</c><00:06:52.830><c> different</c><00:06:53.280><c> possible</c><00:06:53.430><c> shapes</c><00:06:53.910><c> from</c>
+
+00:06:54.050 --> 00:06:54.060 align:start position:0%
+are many different possible shapes from
+ 
+
+00:06:54.060 --> 00:06:56.150 align:start position:0%
+are many different possible shapes from
+the<00:06:54.150><c> position</c><00:06:54.630><c> recall</c><00:06:55.020><c> curve</c><00:06:55.320><c> depending</c><00:06:56.039><c> on</c>
+
+00:06:56.150 --> 00:06:56.160 align:start position:0%
+the position recall curve depending on
+ 
+
+00:06:56.160 --> 00:06:57.560 align:start position:0%
+the position recall curve depending on
+the<00:06:56.220><c> details</c><00:06:56.310><c> of</c><00:06:56.789><c> the</c><00:06:56.849><c> collimator</c>
+
+00:06:57.560 --> 00:06:57.570 align:start position:0%
+the details of the collimator
+ 
+
+00:06:57.570 --> 00:06:59.870 align:start position:0%
+the details of the collimator
+so<00:06:58.229><c> this</c><00:06:58.800><c> raises</c><00:06:59.039><c> another</c><00:06:59.280><c> interesting</c>
+
+00:06:59.870 --> 00:06:59.880 align:start position:0%
+so this raises another interesting
+ 
+
+00:06:59.880 --> 00:07:03.409 align:start position:0%
+so this raises another interesting
+question<00:07:00.389><c> which</c><00:07:00.960><c> is</c><00:07:01.169><c> this</c><00:07:01.800><c> era</c><00:07:02.070><c> way</c><00:07:02.370><c> to</c><00:07:03.150><c> choose</c>
+
+00:07:03.409 --> 00:07:03.419 align:start position:0%
+question which is this era way to choose
+ 
+
+00:07:03.419 --> 00:07:06.469 align:start position:0%
+question which is this era way to choose
+this<00:07:03.660><c> threshold</c><00:07:04.430><c> automatically</c><00:07:05.430><c> or</c><00:07:06.120><c> more</c>
+
+00:07:06.469 --> 00:07:06.479 align:start position:0%
+this threshold automatically or more
+ 
+
+00:07:06.479 --> 00:07:09.050 align:start position:0%
+this threshold automatically or more
+generally<00:07:07.139><c> if</c><00:07:07.380><c> we</c><00:07:07.740><c> have</c><00:07:08.099><c> a</c><00:07:08.130><c> few</c><00:07:08.699><c> different</c>
+
+00:07:09.050 --> 00:07:09.060 align:start position:0%
+generally if we have a few different
+ 
+
+00:07:09.060 --> 00:07:10.550 align:start position:0%
+generally if we have a few different
+algorithms<00:07:09.780><c> there</c><00:07:09.990><c> are</c><00:07:10.080><c> a</c><00:07:10.110><c> few</c><00:07:10.229><c> different</c>
+
+00:07:10.550 --> 00:07:10.560 align:start position:0%
+algorithms there are a few different
+ 
+
+00:07:10.560 --> 00:07:13.339 align:start position:0%
+algorithms there are a few different
+ideas<00:07:11.099><c> for</c><00:07:11.250><c> algorithms</c><00:07:11.759><c> how</c><00:07:12.419><c> do</c><00:07:12.479><c> we</c><00:07:12.750><c> compare</c>
+
+00:07:13.339 --> 00:07:13.349 align:start position:0%
+ideas for algorithms how do we compare
+ 
+
+00:07:13.349 --> 00:07:15.939 align:start position:0%
+ideas for algorithms how do we compare
+different<00:07:13.710><c> precision</c><00:07:14.460><c> recall</c><00:07:14.669><c> numbers</c>
+
+00:07:15.939 --> 00:07:15.949 align:start position:0%
+different precision recall numbers
+ 
+
+00:07:15.949 --> 00:07:18.170 align:start position:0%
+different precision recall numbers
+concretely<00:07:16.949><c> suppose</c><00:07:17.550><c> we</c><00:07:17.699><c> have</c><00:07:17.880><c> three</c>
+
+00:07:18.170 --> 00:07:18.180 align:start position:0%
+concretely suppose we have three
+ 
+
+00:07:18.180 --> 00:07:19.640 align:start position:0%
+concretely suppose we have three
+different<00:07:18.449><c> learning</c><00:07:18.780><c> algorithms</c><00:07:19.199><c> actually</c>
+
+00:07:19.640 --> 00:07:19.650 align:start position:0%
+different learning algorithms actually
+ 
+
+00:07:19.650 --> 00:07:20.960 align:start position:0%
+different learning algorithms actually
+maybe<00:07:19.979><c> these</c><00:07:20.190><c> are</c><00:07:20.370><c> three</c><00:07:20.550><c> different</c><00:07:20.880><c> learning</c>
+
+00:07:20.960 --> 00:07:20.970 align:start position:0%
+maybe these are three different learning
+ 
+
+00:07:20.970 --> 00:07:23.029 align:start position:0%
+maybe these are three different learning
+algorithms<00:07:21.360><c> maybe</c><00:07:22.320><c> these</c><00:07:22.530><c> are</c><00:07:22.740><c> the</c><00:07:22.770><c> same</c>
+
+00:07:23.029 --> 00:07:23.039 align:start position:0%
+algorithms maybe these are the same
+ 
+
+00:07:23.039 --> 00:07:24.770 align:start position:0%
+algorithms maybe these are the same
+algorithm<00:07:23.580><c> but</c><00:07:23.759><c> just</c><00:07:23.970><c> with</c><00:07:24.120><c> different</c><00:07:24.150><c> values</c>
+
+00:07:24.770 --> 00:07:24.780 align:start position:0%
+algorithm but just with different values
+ 
+
+00:07:24.780 --> 00:07:27.379 align:start position:0%
+algorithm but just with different values
+for<00:07:24.960><c> the</c><00:07:25.020><c> threshold</c><00:07:25.310><c> how</c><00:07:26.310><c> do</c><00:07:26.370><c> we</c><00:07:26.639><c> decide</c><00:07:27.000><c> which</c>
+
+00:07:27.379 --> 00:07:27.389 align:start position:0%
+for the threshold how do we decide which
+ 
+
+00:07:27.389 --> 00:07:30.170 align:start position:0%
+for the threshold how do we decide which
+of<00:07:27.419><c> these</c><00:07:27.659><c> algorithms</c><00:07:28.020><c> is</c><00:07:28.440><c> best</c><00:07:28.940><c> one</c><00:07:29.940><c> of</c><00:07:29.970><c> the</c>
+
+00:07:30.170 --> 00:07:30.180 align:start position:0%
+of these algorithms is best one of the
+ 
+
+00:07:30.180 --> 00:07:31.730 align:start position:0%
+of these algorithms is best one of the
+things<00:07:30.360><c> we</c><00:07:30.479><c> talked</c><00:07:30.720><c> about</c><00:07:30.780><c> earlier</c><00:07:31.050><c> is</c><00:07:31.560><c> the</c>
+
+00:07:31.730 --> 00:07:31.740 align:start position:0%
+things we talked about earlier is the
+ 
+
+00:07:31.740 --> 00:07:33.529 align:start position:0%
+things we talked about earlier is the
+importance<00:07:32.340><c> of</c><00:07:32.610><c> a</c><00:07:32.820><c> single</c><00:07:33.060><c> real</c><00:07:33.330><c> number</c>
+
+00:07:33.529 --> 00:07:33.539 align:start position:0%
+importance of a single real number
+ 
+
+00:07:33.539 --> 00:07:36.890 align:start position:0%
+importance of a single real number
+evaluation<00:07:33.870><c> metric</c><00:07:34.880><c> and</c><00:07:35.880><c> that</c><00:07:35.940><c> is</c><00:07:36.419><c> the</c><00:07:36.630><c> idea</c>
+
+00:07:36.890 --> 00:07:36.900 align:start position:0%
+evaluation metric and that is the idea
+ 
+
+00:07:36.900 --> 00:07:38.750 align:start position:0%
+evaluation metric and that is the idea
+of<00:07:37.020><c> having</c><00:07:37.260><c> a</c><00:07:37.470><c> number</c><00:07:37.680><c> they</c><00:07:38.070><c> just</c><00:07:38.280><c> tells</c><00:07:38.550><c> you</c>
+
+00:07:38.750 --> 00:07:38.760 align:start position:0%
+of having a number they just tells you
+ 
+
+00:07:38.760 --> 00:07:41.570 align:start position:0%
+of having a number they just tells you
+how<00:07:39.030><c> well</c><00:07:39.060><c> is</c><00:07:39.449><c> your</c><00:07:39.479><c> classifier</c><00:07:40.050><c> doing</c><00:07:40.470><c> but</c><00:07:41.430><c> by</c>
+
+00:07:41.570 --> 00:07:41.580 align:start position:0%
+how well is your classifier doing but by
+ 
+
+00:07:41.580 --> 00:07:43.490 align:start position:0%
+how well is your classifier doing but by
+switching<00:07:42.030><c> to</c><00:07:42.060><c> the</c><00:07:42.240><c> precision</c><00:07:42.720><c> recall</c><00:07:42.870><c> metric</c>
+
+00:07:43.490 --> 00:07:43.500 align:start position:0%
+switching to the precision recall metric
+ 
+
+00:07:43.500 --> 00:07:45.800 align:start position:0%
+switching to the precision recall metric
+we've<00:07:43.710><c> actually</c><00:07:43.889><c> lost</c><00:07:44.220><c> that</c><00:07:44.400><c> we</c><00:07:44.729><c> now</c><00:07:44.909><c> have</c><00:07:45.150><c> two</c>
+
+00:07:45.800 --> 00:07:45.810 align:start position:0%
+we've actually lost that we now have two
+ 
+
+00:07:45.810 --> 00:07:48.740 align:start position:0%
+we've actually lost that we now have two
+real<00:07:46.050><c> numbers</c><00:07:46.500><c> and</c><00:07:46.710><c> so</c><00:07:47.610><c> we</c><00:07:47.820><c> often</c><00:07:48.000><c> may</c><00:07:48.419><c> end</c><00:07:48.570><c> up</c>
+
+00:07:48.740 --> 00:07:48.750 align:start position:0%
+real numbers and so we often may end up
+ 
+
+00:07:48.750 --> 00:07:51.140 align:start position:0%
+real numbers and so we often may end up
+facing<00:07:49.020><c> situations</c><00:07:49.740><c> like</c><00:07:50.099><c> if</c><00:07:50.639><c> we</c><00:07:50.880><c> try</c><00:07:51.090><c> to</c>
+
+00:07:51.140 --> 00:07:51.150 align:start position:0%
+facing situations like if we try to
+ 
+
+00:07:51.150 --> 00:07:52.999 align:start position:0%
+facing situations like if we try to
+compare<00:07:51.630><c> algorithm</c><00:07:52.139><c> one</c><00:07:52.289><c> in</c><00:07:52.440><c> algorithm</c><00:07:52.830><c> to</c>
+
+00:07:52.999 --> 00:07:53.009 align:start position:0%
+compare algorithm one in algorithm to
+ 
+
+00:07:53.009 --> 00:07:54.589 align:start position:0%
+compare algorithm one in algorithm to
+you<00:07:53.699><c> know</c><00:07:53.820><c> we</c><00:07:53.970><c> have</c><00:07:54.060><c> them</c><00:07:54.210><c> asking</c><00:07:54.509><c> ourselves</c>
+
+00:07:54.589 --> 00:07:54.599 align:start position:0%
+you know we have them asking ourselves
+ 
+
+00:07:54.599 --> 00:07:57.320 align:start position:0%
+you know we have them asking ourselves
+as<00:07:55.289><c> a</c><00:07:55.349><c> precision</c><00:07:55.830><c> of</c><00:07:56.009><c> 0.5</c><00:07:56.430><c> and</c><00:07:56.669><c> recall</c><00:07:57.090><c> point</c>
+
+00:07:57.320 --> 00:07:57.330 align:start position:0%
+as a precision of 0.5 and recall point
+ 
+
+00:07:57.330 --> 00:07:58.969 align:start position:0%
+as a precision of 0.5 and recall point
+four<00:07:57.539><c> well</c><00:07:57.810><c> is</c><00:07:57.900><c> that</c><00:07:58.020><c> better</c><00:07:58.320><c> or</c><00:07:58.409><c> worse</c><00:07:58.680><c> than</c>
+
+00:07:58.969 --> 00:07:58.979 align:start position:0%
+four well is that better or worse than
+ 
+
+00:07:58.979 --> 00:08:00.529 align:start position:0%
+four well is that better or worse than
+the<00:07:59.039><c> position</c><00:07:59.400><c> of</c><00:07:59.490><c> point</c><00:07:59.669><c> seven</c><00:07:59.849><c> and</c><00:08:00.180><c> recall</c>
+
+00:08:00.529 --> 00:08:00.539 align:start position:0%
+the position of point seven and recall
+ 
+
+00:08:00.539 --> 00:08:03.529 align:start position:0%
+the position of point seven and recall
+of<00:08:00.720><c> 0.1</c><00:08:01.199><c> and</c><00:08:01.590><c> if</c><00:08:02.370><c> every</c><00:08:02.669><c> time</c><00:08:02.880><c> you</c><00:08:02.940><c> try</c><00:08:03.330><c> out</c><00:08:03.360><c> a</c>
+
+00:08:03.529 --> 00:08:03.539 align:start position:0%
+of 0.1 and if every time you try out a
+ 
+
+00:08:03.539 --> 00:08:05.540 align:start position:0%
+of 0.1 and if every time you try out a
+new<00:08:03.810><c> algorithm</c><00:08:04.110><c> you</c><00:08:04.530><c> end</c><00:08:04.680><c> up</c><00:08:04.860><c> having</c><00:08:05.070><c> to</c><00:08:05.340><c> sit</c>
+
+00:08:05.540 --> 00:08:05.550 align:start position:0%
+new algorithm you end up having to sit
+ 
+
+00:08:05.550 --> 00:08:07.939 align:start position:0%
+new algorithm you end up having to sit
+around<00:08:05.789><c> and</c><00:08:06.090><c> think</c><00:08:06.150><c> well</c><00:08:06.750><c> maybe</c><00:08:07.020><c> point</c><00:08:07.800><c> five</c>
+
+00:08:07.939 --> 00:08:07.949 align:start position:0%
+around and think well maybe point five
+ 
+
+00:08:07.949 --> 00:08:09.589 align:start position:0%
+around and think well maybe point five
+point<00:08:08.159><c> four</c><00:08:08.400><c> is</c><00:08:08.669><c> better</c><00:08:08.909><c> than</c><00:08:09.150><c> point</c><00:08:09.360><c> seven</c>
+
+00:08:09.589 --> 00:08:09.599 align:start position:0%
+point four is better than point seven
+ 
+
+00:08:09.599 --> 00:08:11.510 align:start position:0%
+point four is better than point seven
+point<00:08:09.720><c> one</c><00:08:09.870><c> or</c><00:08:10.199><c> maybe</c><00:08:10.440><c> known</c><00:08:10.740><c> I</c><00:08:10.919><c> don't</c><00:08:11.099><c> know</c><00:08:11.190><c> if</c>
+
+00:08:11.510 --> 00:08:11.520 align:start position:0%
+point one or maybe known I don't know if
+ 
+
+00:08:11.520 --> 00:08:12.980 align:start position:0%
+point one or maybe known I don't know if
+you<00:08:11.789><c> end</c><00:08:11.940><c> up</c><00:08:12.060><c> having</c><00:08:12.150><c> to</c><00:08:12.300><c> sit</c><00:08:12.570><c> around</c><00:08:12.690><c> and</c>
+
+00:08:12.980 --> 00:08:12.990 align:start position:0%
+you end up having to sit around and
+ 
+
+00:08:12.990 --> 00:08:14.360 align:start position:0%
+you end up having to sit around and
+think<00:08:13.259><c> and</c><00:08:13.380><c> make</c><00:08:13.440><c> these</c><00:08:13.650><c> decisions</c><00:08:14.190><c> that</c>
+
+00:08:14.360 --> 00:08:14.370 align:start position:0%
+think and make these decisions that
+ 
+
+00:08:14.370 --> 00:08:16.460 align:start position:0%
+think and make these decisions that
+really<00:08:15.000><c> slows</c><00:08:15.270><c> down</c><00:08:15.690><c> your</c><00:08:15.960><c> decision-making</c>
+
+00:08:16.460 --> 00:08:16.470 align:start position:0%
+really slows down your decision-making
+ 
+
+00:08:16.470 --> 00:08:19.850 align:start position:0%
+really slows down your decision-making
+process<00:08:16.909><c> for</c><00:08:17.909><c> what</c><00:08:18.240><c> thinks</c><00:08:18.599><c> what</c><00:08:19.020><c> changes</c><00:08:19.620><c> are</c>
+
+00:08:19.850 --> 00:08:19.860 align:start position:0%
+process for what thinks what changes are
+ 
+
+00:08:19.860 --> 00:08:21.499 align:start position:0%
+process for what thinks what changes are
+useful<00:08:20.550><c> to</c><00:08:20.699><c> incorporate</c><00:08:20.970><c> into</c><00:08:21.419><c> your</c>
+
+00:08:21.499 --> 00:08:21.509 align:start position:0%
+useful to incorporate into your
+ 
+
+00:08:21.509 --> 00:08:24.710 align:start position:0%
+useful to incorporate into your
+algorithm<00:08:22.400><c> whereas</c><00:08:23.400><c> in</c><00:08:23.580><c> contrast</c><00:08:23.729><c> if</c><00:08:24.330><c> we</c><00:08:24.389><c> have</c>
+
+00:08:24.710 --> 00:08:24.720 align:start position:0%
+algorithm whereas in contrast if we have
+ 
+
+00:08:24.720 --> 00:08:26.450 align:start position:0%
+algorithm whereas in contrast if we have
+a<00:08:24.870><c> single</c><00:08:25.169><c> real</c><00:08:25.470><c> number</c><00:08:25.500><c> evaluation</c><00:08:25.830><c> metric</c>
+
+00:08:26.450 --> 00:08:26.460 align:start position:0%
+a single real number evaluation metric
+ 
+
+00:08:26.460 --> 00:08:29.270 align:start position:0%
+a single real number evaluation metric
+like<00:08:27.389><c> a</c><00:08:27.419><c> number</c><00:08:28.199><c> that</c><00:08:28.380><c> just</c><00:08:28.409><c> tells</c><00:08:28.800><c> us</c><00:08:28.979><c> is</c>
+
+00:08:29.270 --> 00:08:29.280 align:start position:0%
+like a number that just tells us is
+ 
+
+00:08:29.280 --> 00:08:31.650 align:start position:0%
+like a number that just tells us is
+everyone<00:08:29.970><c> or</c><00:08:30.240><c> is</c><00:08:30.270><c> algorithm</c><00:08:30.750><c> together</c>
+
+00:08:31.650 --> 00:08:31.660 align:start position:0%
+everyone or is algorithm together
+ 
+
+00:08:31.660 --> 00:08:33.510 align:start position:0%
+everyone or is algorithm together
+that<00:08:31.780><c> that</c><00:08:31.960><c> helps</c><00:08:32.500><c> us</c><00:08:32.650><c> to</c><00:08:32.860><c> much</c><00:08:33.039><c> more</c><00:08:33.220><c> quickly</c>
+
+00:08:33.510 --> 00:08:33.520 align:start position:0%
+that that helps us to much more quickly
+ 
+
+00:08:33.520 --> 00:08:35.610 align:start position:0%
+that that helps us to much more quickly
+decide<00:08:34.060><c> which</c><00:08:34.330><c> algorithm</c><00:08:34.780><c> to</c><00:08:34.870><c> go</c><00:08:35.050><c> with</c><00:08:35.349><c> and</c>
+
+00:08:35.610 --> 00:08:35.620 align:start position:0%
+decide which algorithm to go with and
+ 
+
+00:08:35.620 --> 00:08:37.740 align:start position:0%
+decide which algorithm to go with and
+house<00:08:36.220><c> us</c><00:08:36.430><c> as</c><00:08:36.580><c> well</c><00:08:36.789><c> to</c><00:08:37.180><c> much</c><00:08:37.360><c> more</c><00:08:37.510><c> quickly</c>
+
+00:08:37.740 --> 00:08:37.750 align:start position:0%
+house us as well to much more quickly
+ 
+
+00:08:37.750 --> 00:08:39.990 align:start position:0%
+house us as well to much more quickly
+evaluate<00:08:38.620><c> different</c><00:08:38.740><c> changes</c><00:08:39.460><c> that</c><00:08:39.490><c> we</c><00:08:39.849><c> may</c>
+
+00:08:39.990 --> 00:08:40.000 align:start position:0%
+evaluate different changes that we may
+ 
+
+00:08:40.000 --> 00:08:42.719 align:start position:0%
+evaluate different changes that we may
+be<00:08:40.060><c> contemplating</c><00:08:40.510><c> for</c><00:08:41.080><c> an</c><00:08:41.200><c> algorithm</c><00:08:41.440><c> so</c><00:08:42.280><c> how</c>
+
+00:08:42.719 --> 00:08:42.729 align:start position:0%
+be contemplating for an algorithm so how
+ 
+
+00:08:42.729 --> 00:08:44.760 align:start position:0%
+be contemplating for an algorithm so how
+can<00:08:42.789><c> we</c><00:08:43.060><c> get</c><00:08:43.270><c> a</c><00:08:43.599><c> single</c><00:08:44.380><c> real</c><00:08:44.740><c> number</c>
+
+00:08:44.760 --> 00:08:44.770 align:start position:0%
+can we get a single real number
+ 
+
+00:08:44.770 --> 00:08:48.390 align:start position:0%
+can we get a single real number
+evaluation<00:08:45.400><c> metric</c><00:08:46.680><c> one</c><00:08:47.680><c> natural</c><00:08:48.160><c> thing</c><00:08:48.370><c> that</c>
+
+00:08:48.390 --> 00:08:48.400 align:start position:0%
+evaluation metric one natural thing that
+ 
+
+00:08:48.400 --> 00:08:50.550 align:start position:0%
+evaluation metric one natural thing that
+you<00:08:48.700><c> might</c><00:08:48.820><c> try</c><00:08:49.120><c> is</c><00:08:49.450><c> to</c><00:08:49.810><c> look</c><00:08:50.080><c> at</c><00:08:50.260><c> the</c><00:08:50.380><c> average</c>
+
+00:08:50.550 --> 00:08:50.560 align:start position:0%
+you might try is to look at the average
+ 
+
+00:08:50.560 --> 00:08:53.100 align:start position:0%
+you might try is to look at the average
+between<00:08:51.280><c> precision</c><00:08:51.700><c> and</c><00:08:51.880><c> recall</c><00:08:52.030><c> so</c><00:08:52.510><c> using</c><00:08:52.870><c> P</c>
+
+00:08:53.100 --> 00:08:53.110 align:start position:0%
+between precision and recall so using P
+ 
+
+00:08:53.110 --> 00:08:54.960 align:start position:0%
+between precision and recall so using P
+and<00:08:53.320><c> R</c><00:08:53.530><c> to</c><00:08:53.740><c> denote</c><00:08:53.860><c> precision</c><00:08:54.400><c> recall</c><00:08:54.580><c> one</c>
+
+00:08:54.960 --> 00:08:54.970 align:start position:0%
+and R to denote precision recall one
+ 
+
+00:08:54.970 --> 00:08:56.250 align:start position:0%
+and R to denote precision recall one
+thing<00:08:55.150><c> could</c><00:08:55.270><c> do</c><00:08:55.420><c> is</c><00:08:55.630><c> just</c><00:08:55.840><c> compute</c><00:08:56.200><c> the</c>
+
+00:08:56.250 --> 00:08:56.260 align:start position:0%
+thing could do is just compute the
+ 
+
+00:08:56.260 --> 00:08:57.750 align:start position:0%
+thing could do is just compute the
+average<00:08:56.410><c> and</c><00:08:56.920><c> look</c><00:08:57.100><c> at</c><00:08:57.190><c> what</c><00:08:57.310><c> classifier</c><00:08:57.730><c> has</c>
+
+00:08:57.750 --> 00:08:57.760 align:start position:0%
+average and look at what classifier has
+ 
+
+00:08:57.760 --> 00:09:01.410 align:start position:0%
+average and look at what classifier has
+the<00:08:58.150><c> highest</c><00:08:58.540><c> average</c><00:08:59.020><c> value</c><00:09:00.000><c> but</c><00:09:01.000><c> this</c><00:09:01.120><c> turns</c>
+
+00:09:01.410 --> 00:09:01.420 align:start position:0%
+the highest average value but this turns
+ 
+
+00:09:01.420 --> 00:09:03.150 align:start position:0%
+the highest average value but this turns
+out<00:09:01.630><c> not</c><00:09:01.870><c> to</c><00:09:02.050><c> be</c><00:09:02.080><c> such</c><00:09:02.290><c> a</c><00:09:02.350><c> good</c><00:09:02.560><c> solution</c>
+
+00:09:03.150 --> 00:09:03.160 align:start position:0%
+out not to be such a good solution
+ 
+
+00:09:03.160 --> 00:09:06.450 align:start position:0%
+out not to be such a good solution
+because<00:09:04.200><c> similar</c><00:09:05.200><c> to</c><00:09:05.380><c> the</c><00:09:05.560><c> example</c><00:09:05.710><c> we</c><00:09:06.250><c> had</c>
+
+00:09:06.450 --> 00:09:06.460 align:start position:0%
+because similar to the example we had
+ 
+
+00:09:06.460 --> 00:09:09.300 align:start position:0%
+because similar to the example we had
+earlier<00:09:06.990><c> it</c><00:09:07.990><c> turns</c><00:09:08.170><c> out</c><00:09:08.470><c> that</c><00:09:08.740><c> if</c><00:09:08.980><c> we</c><00:09:09.010><c> have</c><00:09:09.280><c> a</c>
+
+00:09:09.300 --> 00:09:09.310 align:start position:0%
+earlier it turns out that if we have a
+ 
+
+00:09:09.310 --> 00:09:11.730 align:start position:0%
+earlier it turns out that if we have a
+classifier<00:09:09.880><c> that</c><00:09:09.910><c> predicts</c><00:09:10.660><c> y</c><00:09:10.870><c> equals</c><00:09:11.260><c> 1</c><00:09:11.500><c> all</c>
+
+00:09:11.730 --> 00:09:11.740 align:start position:0%
+classifier that predicts y equals 1 all
+ 
+
+00:09:11.740 --> 00:09:14.940 align:start position:0%
+classifier that predicts y equals 1 all
+the<00:09:11.920><c> time</c><00:09:12.600><c> then</c><00:09:13.600><c> if</c><00:09:14.050><c> you</c><00:09:14.140><c> do</c><00:09:14.260><c> that</c><00:09:14.410><c> you</c><00:09:14.680><c> can</c><00:09:14.830><c> get</c>
+
+00:09:14.940 --> 00:09:14.950 align:start position:0%
+the time then if you do that you can get
+ 
+
+00:09:14.950 --> 00:09:17.310 align:start position:0%
+the time then if you do that you can get
+a<00:09:15.010><c> very</c><00:09:15.190><c> high</c><00:09:15.310><c> recall</c><00:09:16.000><c> but</c><00:09:16.450><c> you</c><00:09:16.810><c> end</c><00:09:16.990><c> up</c><00:09:17.140><c> with</c><00:09:17.290><c> a</c>
+
+00:09:17.310 --> 00:09:17.320 align:start position:0%
+a very high recall but you end up with a
+ 
+
+00:09:17.320 --> 00:09:20.250 align:start position:0%
+a very high recall but you end up with a
+very<00:09:17.530><c> low</c><00:09:17.770><c> value</c><00:09:18.250><c> of</c><00:09:18.310><c> precision</c><00:09:19.260><c> conversely</c>
+
+00:09:20.250 --> 00:09:20.260 align:start position:0%
+very low value of precision conversely
+ 
+
+00:09:20.260 --> 00:09:23.070 align:start position:0%
+very low value of precision conversely
+if<00:09:20.500><c> you</c><00:09:20.590><c> have</c><00:09:20.830><c> a</c><00:09:20.860><c> classifier</c><00:09:21.430><c> that</c><00:09:21.460><c> predicts</c><00:09:22.240><c> y</c>
+
+00:09:23.070 --> 00:09:23.080 align:start position:0%
+if you have a classifier that predicts y
+ 
+
+00:09:23.080 --> 00:09:26.490 align:start position:0%
+if you have a classifier that predicts y
+equals<00:09:23.650><c> 0</c><00:09:24.360><c> almost</c><00:09:25.360><c> all</c><00:09:25.510><c> the</c><00:09:25.660><c> time</c><00:09:25.840><c> that</c><00:09:26.200><c> is</c><00:09:26.380><c> if</c>
+
+00:09:26.490 --> 00:09:26.500 align:start position:0%
+equals 0 almost all the time that is if
+ 
+
+00:09:26.500 --> 00:09:28.680 align:start position:0%
+equals 0 almost all the time that is if
+it<00:09:26.620><c> predicts</c><00:09:26.920><c> y</c><00:09:27.160><c> equals</c><00:09:27.460><c> 1</c><00:09:27.730><c> very</c><00:09:28.030><c> sparingly</c>
+
+00:09:28.680 --> 00:09:28.690 align:start position:0%
+it predicts y equals 1 very sparingly
+ 
+
+00:09:28.690 --> 00:09:31.740 align:start position:0%
+it predicts y equals 1 very sparingly
+this<00:09:29.470><c> corresponds</c><00:09:30.010><c> to</c><00:09:30.220><c> setting</c><00:09:31.180><c> a</c><00:09:31.270><c> very</c><00:09:31.450><c> high</c>
+
+00:09:31.740 --> 00:09:31.750 align:start position:0%
+this corresponds to setting a very high
+ 
+
+00:09:31.750 --> 00:09:33.870 align:start position:0%
+this corresponds to setting a very high
+threshold<00:09:32.170><c> using</c><00:09:32.830><c> the</c><00:09:33.040><c> notation</c><00:09:33.670><c> of</c><00:09:33.790><c> the</c>
+
+00:09:33.870 --> 00:09:33.880 align:start position:0%
+threshold using the notation of the
+ 
+
+00:09:33.880 --> 00:09:35.730 align:start position:0%
+threshold using the notation of the
+previous<00:09:34.180><c> line</c><00:09:34.360><c> then</c><00:09:35.050><c> you</c><00:09:35.230><c> can</c><00:09:35.350><c> actually</c><00:09:35.500><c> end</c>
+
+00:09:35.730 --> 00:09:35.740 align:start position:0%
+previous line then you can actually end
+ 
+
+00:09:35.740 --> 00:09:37.500 align:start position:0%
+previous line then you can actually end
+up<00:09:35.830><c> with</c><00:09:35.890><c> a</c><00:09:36.070><c> very</c><00:09:36.310><c> hard</c><00:09:36.640><c> position</c><00:09:36.820><c> to</c><00:09:37.150><c> the</c><00:09:37.330><c> very</c>
+
+00:09:37.500 --> 00:09:37.510 align:start position:0%
+up with a very hard position to the very
+ 
+
+00:09:37.510 --> 00:09:40.620 align:start position:0%
+up with a very hard position to the very
+low<00:09:37.750><c> recall</c><00:09:38.430><c> so</c><00:09:39.430><c> the</c><00:09:39.670><c> two</c><00:09:39.850><c> extremes</c><00:09:40.300><c> of</c><00:09:40.480><c> either</c>
+
+00:09:40.620 --> 00:09:40.630 align:start position:0%
+low recall so the two extremes of either
+ 
+
+00:09:40.630 --> 00:09:42.840 align:start position:0%
+low recall so the two extremes of either
+a<00:09:40.780><c> very</c><00:09:41.020><c> high</c><00:09:41.260><c> threshold</c><00:09:41.560><c> or</c><00:09:42.310><c> a</c><00:09:42.370><c> very</c><00:09:42.610><c> low</c>
+
+00:09:42.840 --> 00:09:42.850 align:start position:0%
+a very high threshold or a very low
+ 
+
+00:09:42.850 --> 00:09:45.060 align:start position:0%
+a very high threshold or a very low
+threshold<00:09:42.930><c> neither</c><00:09:43.930><c> of</c><00:09:44.170><c> that</c><00:09:44.350><c> would</c><00:09:44.890><c> give</c><00:09:45.040><c> a</c>
+
+00:09:45.060 --> 00:09:45.070 align:start position:0%
+threshold neither of that would give a
+ 
+
+00:09:45.070 --> 00:09:46.590 align:start position:0%
+threshold neither of that would give a
+particularly<00:09:45.430><c> good</c><00:09:45.670><c> classifier</c><00:09:46.030><c> and</c><00:09:46.390><c> the</c><00:09:46.480><c> way</c>
+
+00:09:46.590 --> 00:09:46.600 align:start position:0%
+particularly good classifier and the way
+ 
+
+00:09:46.600 --> 00:09:48.690 align:start position:0%
+particularly good classifier and the way
+we<00:09:46.750><c> recognize</c><00:09:47.140><c> that</c><00:09:47.170><c> is</c><00:09:47.620><c> by</c><00:09:47.800><c> seeing</c><00:09:48.130><c> if</c><00:09:48.400><c> we</c><00:09:48.430><c> end</c>
+
+00:09:48.690 --> 00:09:48.700 align:start position:0%
+we recognize that is by seeing if we end
+ 
+
+00:09:48.700 --> 00:09:52.050 align:start position:0%
+we recognize that is by seeing if we end
+up<00:09:48.850><c> with</c><00:09:48.910><c> a</c><00:09:49.270><c> very</c><00:09:49.750><c> low</c><00:09:49.990><c> precision</c><00:09:50.380><c> or</c><00:09:51.000><c> or</c><00:09:52.000><c> a</c>
+
+00:09:52.050 --> 00:09:52.060 align:start position:0%
+up with a very low precision or or a
+ 
+
+00:09:52.060 --> 00:09:54.960 align:start position:0%
+up with a very low precision or or a
+very<00:09:52.420><c> low</c><00:09:52.660><c> recall</c><00:09:53.140><c> and</c><00:09:53.980><c> if</c><00:09:54.400><c> you</c><00:09:54.490><c> just</c><00:09:54.670><c> take</c><00:09:54.820><c> the</c>
+
+00:09:54.960 --> 00:09:54.970 align:start position:0%
+very low recall and if you just take the
+ 
+
+00:09:54.970 --> 00:09:57.360 align:start position:0%
+very low recall and if you just take the
+average<00:09:55.000><c> of</c><00:09:55.630><c> people</c><00:09:56.080><c> as</c><00:09:56.140><c> are</c><00:09:56.290><c> our</c><00:09:56.320><c> two</c><00:09:56.680><c> ones</c>
+
+00:09:57.360 --> 00:09:57.370 align:start position:0%
+average of people as are our two ones
+ 
+
+00:09:57.370 --> 00:10:00.120 align:start position:0%
+average of people as are our two ones
+this<00:09:57.520><c> example</c><00:09:57.880><c> the</c><00:09:58.630><c> average</c><00:09:59.110><c> is</c><00:09:59.440><c> actually</c>
+
+00:10:00.120 --> 00:10:00.130 align:start position:0%
+this example the average is actually
+ 
+
+00:10:00.130 --> 00:10:02.250 align:start position:0%
+this example the average is actually
+highest<00:10:00.820><c> for</c><00:10:00.970><c> however</c><00:10:01.270><c> three</c><00:10:01.720><c> even</c><00:10:02.230><c> though</c>
+
+00:10:02.250 --> 00:10:02.260 align:start position:0%
+highest for however three even though
+ 
+
+00:10:02.260 --> 00:10:04.020 align:start position:0%
+highest for however three even though
+you<00:10:02.440><c> can</c><00:10:02.740><c> get</c><00:10:02.890><c> that</c><00:10:03.040><c> sort</c><00:10:03.310><c> of</c><00:10:03.370><c> performance</c><00:10:03.850><c> by</c>
+
+00:10:04.020 --> 00:10:04.030 align:start position:0%
+you can get that sort of performance by
+ 
+
+00:10:04.030 --> 00:10:06.360 align:start position:0%
+you can get that sort of performance by
+protecting<00:10:04.510><c> y</c><00:10:04.690><c> equals</c><00:10:05.170><c> 1</c><00:10:05.380><c> all</c><00:10:05.620><c> the</c><00:10:05.770><c> time</c><00:10:06.010><c> and</c>
+
+00:10:06.360 --> 00:10:06.370 align:start position:0%
+protecting y equals 1 all the time and
+ 
+
+00:10:06.370 --> 00:10:08.280 align:start position:0%
+protecting y equals 1 all the time and
+that's<00:10:06.730><c> just</c><00:10:06.940><c> not</c><00:10:07.150><c> a</c><00:10:07.420><c> very</c><00:10:07.690><c> good</c><00:10:07.900><c> classifier</c>
+
+00:10:08.280 --> 00:10:08.290 align:start position:0%
+that's just not a very good classifier
+ 
+
+00:10:08.290 --> 00:10:09.930 align:start position:0%
+that's just not a very good classifier
+right<00:10:08.620><c> if</c><00:10:08.710><c> you</c><00:10:08.800><c> predict</c><00:10:09.070><c> y</c><00:10:09.220><c> equals</c><00:10:09.250><c> 1</c><00:10:09.700><c> all</c><00:10:09.850><c> the</c>
+
+00:10:09.930 --> 00:10:09.940 align:start position:0%
+right if you predict y equals 1 all the
+ 
+
+00:10:09.940 --> 00:10:12.150 align:start position:0%
+right if you predict y equals 1 all the
+time<00:10:10.120><c> it's</c><00:10:10.330><c> just</c><00:10:10.480><c> not</c><00:10:10.990><c> a</c><00:10:11.020><c> useful</c><00:10:11.140><c> cause</c><00:10:11.680><c> 5</c><00:10:11.950><c> it</c>
+
+00:10:12.150 --> 00:10:12.160 align:start position:0%
+time it's just not a useful cause 5 it
+ 
+
+00:10:12.160 --> 00:10:14.190 align:start position:0%
+time it's just not a useful cause 5 it
+if<00:10:12.400><c> all</c><00:10:12.640><c> does</c><00:10:12.880><c> this</c><00:10:13.060><c> prints</c><00:10:13.360><c> out</c><00:10:13.480><c> y</c><00:10:13.660><c> equals</c><00:10:13.990><c> 1</c>
+
+00:10:14.190 --> 00:10:14.200 align:start position:0%
+if all does this prints out y equals 1
+ 
+
+00:10:14.200 --> 00:10:18.090 align:start position:0%
+if all does this prints out y equals 1
+and<00:10:14.470><c> so</c><00:10:15.280><c> every</c><00:10:15.730><c> one</c><00:10:16.030><c> or</c><00:10:16.300><c> algorithm</c><00:10:17.020><c> 2</c><00:10:17.320><c> would</c><00:10:17.950><c> be</c>
+
+00:10:18.090 --> 00:10:18.100 align:start position:0%
+and so every one or algorithm 2 would be
+ 
+
+00:10:18.100 --> 00:10:20.910 align:start position:0%
+and so every one or algorithm 2 would be
+more<00:10:18.280><c> useful</c><00:10:18.460><c> than</c><00:10:18.760><c> other</c><00:10:19.150><c> than</c><00:10:19.240><c> 3</c><00:10:19.690><c> but</c><00:10:20.650><c> in</c>
+
+00:10:20.910 --> 00:10:20.920 align:start position:0%
+more useful than other than 3 but in
+ 
+
+00:10:20.920 --> 00:10:23.670 align:start position:0%
+more useful than other than 3 but in
+this<00:10:21.100><c> example</c><00:10:21.490><c> algorithm</c><00:10:22.180><c> 3</c><00:10:22.660><c> has</c><00:10:23.170><c> a</c><00:10:23.200><c> higher</c>
+
+00:10:23.670 --> 00:10:23.680 align:start position:0%
+this example algorithm 3 has a higher
+ 
+
+00:10:23.680 --> 00:10:26.370 align:start position:0%
+this example algorithm 3 has a higher
+average<00:10:24.100><c> value</c><00:10:24.760><c> of</c><00:10:24.820><c> precision</c><00:10:25.150><c> recall</c><00:10:25.570><c> than</c>
+
+00:10:26.370 --> 00:10:26.380 align:start position:0%
+average value of precision recall than
+ 
+
+00:10:26.380 --> 00:10:29.880 align:start position:0%
+average value of precision recall than
+algorithm<00:10:27.100><c> 1</c><00:10:27.220><c> and</c><00:10:27.490><c> 2</c><00:10:27.930><c> so</c><00:10:28.930><c> we</c><00:10:29.290><c> usually</c><00:10:29.560><c> think</c><00:10:29.710><c> of</c>
+
+00:10:29.880 --> 00:10:29.890 align:start position:0%
+algorithm 1 and 2 so we usually think of
+ 
+
+00:10:29.890 --> 00:10:32.700 align:start position:0%
+algorithm 1 and 2 so we usually think of
+this<00:10:30.040><c> average</c><00:10:30.310><c> of</c><00:10:30.850><c> position</c><00:10:31.360><c> of</c><00:10:31.450><c> Iko</c><00:10:31.810><c> as</c><00:10:32.050><c> not</c><00:10:32.680><c> a</c>
+
+00:10:32.700 --> 00:10:32.710 align:start position:0%
+this average of position of Iko as not a
+ 
+
+00:10:32.710 --> 00:10:35.100 align:start position:0%
+this average of position of Iko as not a
+particularly<00:10:33.400><c> good</c><00:10:33.790><c> way</c><00:10:34.000><c> to</c><00:10:34.060><c> evaluate</c><00:10:34.660><c> our</c>
+
+00:10:35.100 --> 00:10:35.110 align:start position:0%
+particularly good way to evaluate our
+ 
+
+00:10:35.110 --> 00:10:37.280 align:start position:0%
+particularly good way to evaluate our
+learning
+
+00:10:37.280 --> 00:10:37.290 align:start position:0%
+learning
+ 
+
+00:10:37.290 --> 00:10:40.710 align:start position:0%
+learning
+in<00:10:38.290><c> contrast</c><00:10:38.920><c> just</c><00:10:39.640><c> a</c><00:10:39.760><c> different</c><00:10:40.240><c> way</c><00:10:40.450><c> if</c><00:10:40.630><c> a</c>
+
+00:10:40.710 --> 00:10:40.720 align:start position:0%
+in contrast just a different way if a
+ 
+
+00:10:40.720 --> 00:10:42.540 align:start position:0%
+in contrast just a different way if a
+combining<00:10:41.140><c> precision</c><00:10:41.710><c> and</c><00:10:41.860><c> we</c><00:10:41.950><c> call</c><00:10:42.220><c> is</c>
+
+00:10:42.540 --> 00:10:42.550 align:start position:0%
+combining precision and we call is
+ 
+
+00:10:42.550 --> 00:10:45.450 align:start position:0%
+combining precision and we call is
+called<00:10:42.880><c> the</c><00:10:42.970><c> F</c><00:10:43.150><c> score</c><00:10:43.630><c> and</c><00:10:43.900><c> uses</c><00:10:44.650><c> that</c><00:10:44.680><c> formula</c>
+
+00:10:45.450 --> 00:10:45.460 align:start position:0%
+called the F score and uses that formula
+ 
+
+00:10:45.460 --> 00:10:48.750 align:start position:0%
+called the F score and uses that formula
+and<00:10:46.380><c> so</c><00:10:47.380><c> in</c><00:10:47.470><c> this</c><00:10:47.560><c> example</c><00:10:47.620><c> here</c><00:10:48.340><c> are</c><00:10:48.490><c> the</c><00:10:48.580><c> F</c>
+
+00:10:48.750 --> 00:10:48.760 align:start position:0%
+and so in this example here are the F
+ 
+
+00:10:48.760 --> 00:10:51.420 align:start position:0%
+and so in this example here are the F
+scores<00:10:49.180><c> and</c><00:10:49.570><c> so</c><00:10:49.990><c> we</c><00:10:50.290><c> would</c><00:10:50.500><c> tell</c><00:10:50.710><c> from</c><00:10:51.130><c> from</c>
+
+00:10:51.420 --> 00:10:51.430 align:start position:0%
+scores and so we would tell from from
+ 
+
+00:10:51.430 --> 00:10:53.550 align:start position:0%
+scores and so we would tell from from
+these<00:10:51.550><c> F</c><00:10:51.730><c> schools</c><00:10:51.970><c> and</c><00:10:52.270><c> looks</c><00:10:52.450><c> like</c><00:10:52.600><c> everyone</c>
+
+00:10:53.550 --> 00:10:53.560 align:start position:0%
+these F schools and looks like everyone
+ 
+
+00:10:53.560 --> 00:10:56.100 align:start position:0%
+these F schools and looks like everyone
+has<00:10:53.800><c> the</c><00:10:53.920><c> highest</c><00:10:54.340><c> F</c><00:10:54.520><c> score</c><00:10:54.970><c> out</c><00:10:55.420><c> of</c><00:10:55.660><c> 200</c>
+
+00:10:56.100 --> 00:10:56.110 align:start position:0%
+has the highest F score out of 200
+ 
+
+00:10:56.110 --> 00:10:57.750 align:start position:0%
+has the highest F score out of 200
+second<00:10:56.380><c> highest</c><00:10:56.740><c> in</c><00:10:56.800><c> thousand</c><00:10:57.160><c> three</c><00:10:57.400><c> has</c><00:10:57.640><c> the</c>
+
+00:10:57.750 --> 00:10:57.760 align:start position:0%
+second highest in thousand three has the
+ 
+
+00:10:57.760 --> 00:11:00.360 align:start position:0%
+second highest in thousand three has the
+lowest<00:10:57.970><c> and</c><00:10:58.450><c> so</c><00:10:58.630><c> you</c><00:10:59.170><c> know</c><00:10:59.290><c> if</c><00:10:59.560><c> we</c><00:10:59.740><c> go</c><00:10:59.920><c> by</c><00:11:00.100><c> the</c><00:11:00.160><c> F</c>
+
+00:11:00.360 --> 00:11:00.370 align:start position:0%
+lowest and so you know if we go by the F
+ 
+
+00:11:00.370 --> 00:11:02.430 align:start position:0%
+lowest and so you know if we go by the F
+scope<00:11:00.700><c> we</c><00:11:00.880><c> would</c><00:11:01.060><c> pick</c><00:11:01.330><c> per</c><00:11:01.630><c> the</c><00:11:01.810><c> album</c><00:11:02.200><c> one</c>
+
+00:11:02.430 --> 00:11:02.440 align:start position:0%
+scope we would pick per the album one
+ 
+
+00:11:02.440 --> 00:11:06.000 align:start position:0%
+scope we would pick per the album one
+over<00:11:02.950><c> the</c><00:11:03.100><c> others</c><00:11:04.050><c> the</c><00:11:05.050><c> F</c><00:11:05.290><c> score</c><00:11:05.620><c> which</c><00:11:05.860><c> is</c>
+
+00:11:06.000 --> 00:11:06.010 align:start position:0%
+over the others the F score which is
+ 
+
+00:11:06.010 --> 00:11:08.130 align:start position:0%
+over the others the F score which is
+also<00:11:06.160><c> called</c><00:11:06.550><c> the</c><00:11:06.700><c> f1</c><00:11:07.240><c> score</c><00:11:07.450><c> is</c><00:11:07.810><c> usually</c>
+
+00:11:08.130 --> 00:11:08.140 align:start position:0%
+also called the f1 score is usually
+ 
+
+00:11:08.140 --> 00:11:09.960 align:start position:0%
+also called the f1 score is usually
+written<00:11:08.320><c> F</c><00:11:08.740><c> one</c><00:11:08.980><c> school</c><00:11:09.340><c> that</c><00:11:09.370><c> I</c><00:11:09.550><c> have</c><00:11:09.790><c> here</c>
+
+00:11:09.960 --> 00:11:09.970 align:start position:0%
+written F one school that I have here
+ 
+
+00:11:09.970 --> 00:11:12.030 align:start position:0%
+written F one school that I have here
+but<00:11:10.180><c> often</c><00:11:10.510><c> people</c><00:11:10.630><c> will</c><00:11:10.900><c> just</c><00:11:11.080><c> say</c><00:11:11.410><c> F</c><00:11:11.650><c> scores</c>
+
+00:11:12.030 --> 00:11:12.040 align:start position:0%
+but often people will just say F scores
+ 
+
+00:11:12.040 --> 00:11:14.700 align:start position:0%
+but often people will just say F scores
+you<00:11:12.490><c> needn't</c><00:11:13.030><c> either</c><00:11:13.180><c> term</c><00:11:13.480><c> us</c><00:11:13.630><c> use</c><00:11:13.870><c> is</c><00:11:14.350><c> a</c>
+
+00:11:14.700 --> 00:11:14.710 align:start position:0%
+you needn't either term us use is a
+ 
+
+00:11:14.710 --> 00:11:16.860 align:start position:0%
+you needn't either term us use is a
+little<00:11:15.490><c> bit</c><00:11:15.610><c> like</c><00:11:15.790><c> taking</c><00:11:16.150><c> the</c><00:11:16.270><c> average</c><00:11:16.420><c> of</c>
+
+00:11:16.860 --> 00:11:16.870 align:start position:0%
+little bit like taking the average of
+ 
+
+00:11:16.870 --> 00:11:19.440 align:start position:0%
+little bit like taking the average of
+precision<00:11:17.350><c> V</c><00:11:17.590><c> call</c><00:11:17.830><c> but</c><00:11:18.430><c> to</c><00:11:18.580><c> gives</c><00:11:18.850><c> the</c><00:11:19.180><c> lower</c>
+
+00:11:19.440 --> 00:11:19.450 align:start position:0%
+precision V call but to gives the lower
+ 
+
+00:11:19.450 --> 00:11:21.480 align:start position:0%
+precision V call but to gives the lower
+value<00:11:20.020><c> of</c><00:11:20.260><c> precision</c><00:11:20.410><c> in</c><00:11:20.740><c> V</c><00:11:20.830><c> column</c><00:11:21.190><c> whichever</c>
+
+00:11:21.480 --> 00:11:21.490 align:start position:0%
+value of precision in V column whichever
+ 
+
+00:11:21.490 --> 00:11:24.270 align:start position:0%
+value of precision in V column whichever
+it<00:11:21.640><c> is</c><00:11:21.760><c> it</c><00:11:22.210><c> gives</c><00:11:22.510><c> it</c><00:11:22.660><c> a</c><00:11:22.840><c> higher</c><00:11:23.380><c> weight</c><00:11:23.740><c> and</c><00:11:24.040><c> so</c>
+
+00:11:24.270 --> 00:11:24.280 align:start position:0%
+it is it gives it a higher weight and so
+ 
+
+00:11:24.280 --> 00:11:27.330 align:start position:0%
+it is it gives it a higher weight and so
+you<00:11:24.910><c> see</c><00:11:25.180><c> in</c><00:11:25.390><c> the</c><00:11:25.480><c> numerator</c><00:11:25.960><c> here</c><00:11:26.320><c> that</c><00:11:27.040><c> the</c><00:11:27.190><c> F</c>
+
+00:11:27.330 --> 00:11:27.340 align:start position:0%
+you see in the numerator here that the F
+ 
+
+00:11:27.340 --> 00:11:30.030 align:start position:0%
+you see in the numerator here that the F
+score<00:11:27.700><c> takes</c><00:11:28.000><c> a</c><00:11:28.150><c> product</c><00:11:28.780><c> or</c><00:11:29.020><c> position</c><00:11:29.830><c> and</c><00:11:29.950><c> we</c>
+
+00:11:30.030 --> 00:11:30.040 align:start position:0%
+score takes a product or position and we
+ 
+
+00:11:30.040 --> 00:11:32.310 align:start position:0%
+score takes a product or position and we
+call<00:11:30.280><c> and</c><00:11:30.580><c> so</c><00:11:30.790><c> if</c><00:11:31.000><c> either</c><00:11:31.270><c> precision</c><00:11:31.930><c> is</c><00:11:32.050><c> zero</c>
+
+00:11:32.310 --> 00:11:32.320 align:start position:0%
+call and so if either precision is zero
+ 
+
+00:11:32.320 --> 00:11:34.470 align:start position:0%
+call and so if either precision is zero
+or<00:11:32.560><c> recall</c><00:11:33.040><c> is</c><00:11:33.130><c> equal</c><00:11:33.370><c> to</c><00:11:33.460><c> zero</c><00:11:33.790><c> the</c><00:11:33.970><c> F</c><00:11:34.120><c> school</c>
+
+00:11:34.470 --> 00:11:34.480 align:start position:0%
+or recall is equal to zero the F school
+ 
+
+00:11:34.480 --> 00:11:36.240 align:start position:0%
+or recall is equal to zero the F school
+will<00:11:34.660><c> be</c><00:11:34.750><c> equal</c><00:11:35.080><c> to</c><00:11:35.110><c> zero</c><00:11:35.560><c> so</c><00:11:35.770><c> in</c><00:11:35.830><c> that</c><00:11:35.980><c> sense</c>
+
+00:11:36.240 --> 00:11:36.250 align:start position:0%
+will be equal to zero so in that sense
+ 
+
+00:11:36.250 --> 00:11:39.030 align:start position:0%
+will be equal to zero so in that sense
+it<00:11:36.790><c> kind</c><00:11:37.060><c> of</c><00:11:37.120><c> combines</c><00:11:37.330><c> precision</c><00:11:37.990><c> recall</c><00:11:38.230><c> but</c>
+
+00:11:39.030 --> 00:11:39.040 align:start position:0%
+it kind of combines precision recall but
+ 
+
+00:11:39.040 --> 00:11:41.040 align:start position:0%
+it kind of combines precision recall but
+you<00:11:39.280><c> know</c><00:11:39.400><c> for</c><00:11:39.610><c> the</c><00:11:39.700><c> F</c><00:11:39.820><c> school</c><00:11:40.120><c> to</c><00:11:40.360><c> be</c><00:11:40.480><c> large</c>
+
+00:11:41.040 --> 00:11:41.050 align:start position:0%
+you know for the F school to be large
+ 
+
+00:11:41.050 --> 00:11:43.020 align:start position:0%
+you know for the F school to be large
+both<00:11:41.530><c> precision</c><00:11:41.950><c> and</c><00:11:42.160><c> V</c><00:11:42.250><c> code</c><00:11:42.460><c> have</c><00:11:42.760><c> to</c><00:11:42.910><c> be</c>
+
+00:11:43.020 --> 00:11:43.030 align:start position:0%
+both precision and V code have to be
+ 
+
+00:11:43.030 --> 00:11:45.780 align:start position:0%
+both precision and V code have to be
+pretty<00:11:43.300><c> large</c><00:11:43.540><c> I</c><00:11:43.990><c> should</c><00:11:44.830><c> say</c><00:11:45.010><c> that</c><00:11:45.250><c> there</c><00:11:45.730><c> are</c>
+
+00:11:45.780 --> 00:11:45.790 align:start position:0%
+pretty large I should say that there are
+ 
+
+00:11:45.790 --> 00:11:48.150 align:start position:0%
+pretty large I should say that there are
+many<00:11:45.940><c> different</c><00:11:46.510><c> possible</c><00:11:47.050><c> formulas</c><00:11:47.920><c> for</c>
+
+00:11:48.150 --> 00:11:48.160 align:start position:0%
+many different possible formulas for
+ 
+
+00:11:48.160 --> 00:11:50.820 align:start position:0%
+many different possible formulas for
+combining<00:11:48.700><c> precision</c><00:11:49.150><c> we</c><00:11:49.330><c> call</c><00:11:49.630><c> this</c><00:11:50.200><c> F</c><00:11:50.500><c> score</c>
+
+00:11:50.820 --> 00:11:50.830 align:start position:0%
+combining precision we call this F score
+ 
+
+00:11:50.830 --> 00:11:53.580 align:start position:0%
+combining precision we call this F score
+formula<00:11:51.430><c> is</c><00:11:51.700><c> really</c><00:11:52.030><c> maybe</c><00:11:52.240><c> a</c><00:11:52.390><c> just</c><00:11:53.110><c> one</c><00:11:53.350><c> out</c>
+
+00:11:53.580 --> 00:11:53.590 align:start position:0%
+formula is really maybe a just one out
+ 
+
+00:11:53.590 --> 00:11:55.290 align:start position:0%
+formula is really maybe a just one out
+of<00:11:53.770><c> a</c><00:11:53.860><c> much</c><00:11:54.100><c> larger</c><00:11:54.340><c> number</c><00:11:54.820><c> of</c><00:11:54.850><c> possibilities</c>
+
+00:11:55.290 --> 00:11:55.300 align:start position:0%
+of a much larger number of possibilities
+ 
+
+00:11:55.300 --> 00:11:58.110 align:start position:0%
+of a much larger number of possibilities
+but<00:11:56.100><c> historically</c><00:11:57.100><c> our</c><00:11:57.310><c> traditionally</c><00:11:57.910><c> this</c>
+
+00:11:58.110 --> 00:11:58.120 align:start position:0%
+but historically our traditionally this
+ 
+
+00:11:58.120 --> 00:11:59.910 align:start position:0%
+but historically our traditionally this
+is<00:11:58.300><c> what</c><00:11:58.480><c> people</c><00:11:58.660><c> in</c><00:11:58.990><c> machine</c><00:11:59.350><c> learning</c><00:11:59.470><c> seem</c>
+
+00:11:59.910 --> 00:11:59.920 align:start position:0%
+is what people in machine learning seem
+ 
+
+00:11:59.920 --> 00:12:03.510 align:start position:0%
+is what people in machine learning seem
+to<00:12:00.100><c> use</c><00:12:00.340><c> and</c><00:12:00.780><c> the</c><00:12:01.780><c> term</c><00:12:02.020><c> F</c><00:12:02.290><c> score</c><00:12:02.680><c> you</c><00:12:02.980><c> know</c><00:12:03.130><c> it</c>
+
+00:12:03.510 --> 00:12:03.520 align:start position:0%
+to use and the term F score you know it
+ 
+
+00:12:03.520 --> 00:12:05.160 align:start position:0%
+to use and the term F score you know it
+doesn't<00:12:04.000><c> really</c><00:12:04.120><c> mean</c><00:12:04.330><c> anything</c><00:12:04.390><c> so</c><00:12:04.990><c> don't</c>
+
+00:12:05.160 --> 00:12:05.170 align:start position:0%
+doesn't really mean anything so don't
+ 
+
+00:12:05.170 --> 00:12:07.050 align:start position:0%
+doesn't really mean anything so don't
+worry<00:12:05.350><c> about</c><00:12:05.500><c> why</c><00:12:05.860><c> it's</c><00:12:06.070><c> called</c><00:12:06.280><c> F</c><00:12:06.490><c> score</c><00:12:06.820><c> or</c>
+
+00:12:07.050 --> 00:12:07.060 align:start position:0%
+worry about why it's called F score or
+ 
+
+00:12:07.060 --> 00:12:11.700 align:start position:0%
+worry about why it's called F score or
+f1<00:12:07.450><c> score</c><00:12:08.400><c> but</c><00:12:09.400><c> this</c><00:12:10.060><c> usually</c><00:12:10.720><c> gives</c><00:12:11.050><c> you</c><00:12:11.530><c> the</c>
+
+00:12:11.700 --> 00:12:11.710 align:start position:0%
+f1 score but this usually gives you the
+ 
+
+00:12:11.710 --> 00:12:13.590 align:start position:0%
+f1 score but this usually gives you the
+effect<00:12:12.010><c> that</c><00:12:12.070><c> you</c><00:12:12.280><c> want</c><00:12:12.310><c> because</c><00:12:12.940><c> if</c><00:12:13.210><c> either</c><00:12:13.480><c> a</c>
+
+00:12:13.590 --> 00:12:13.600 align:start position:0%
+effect that you want because if either a
+ 
+
+00:12:13.600 --> 00:12:15.390 align:start position:0%
+effect that you want because if either a
+precision<00:12:13.960><c> the</c><00:12:14.170><c> zero</c><00:12:14.500><c> or</c><00:12:14.770><c> we</c><00:12:15.010><c> call</c><00:12:15.250><c> a</c><00:12:15.310><c> zero</c>
+
+00:12:15.390 --> 00:12:15.400 align:start position:0%
+precision the zero or we call a zero
+ 
+
+00:12:15.400 --> 00:12:18.150 align:start position:0%
+precision the zero or we call a zero
+this<00:12:16.180><c> gives</c><00:12:16.450><c> you</c><00:12:16.570><c> a</c><00:12:16.630><c> very</c><00:12:16.840><c> low</c><00:12:17.140><c> F</c><00:12:17.380><c> score</c><00:12:17.710><c> and</c><00:12:17.980><c> so</c>
+
+00:12:18.150 --> 00:12:18.160 align:start position:0%
+this gives you a very low F score and so
+ 
+
+00:12:18.160 --> 00:12:19.800 align:start position:0%
+this gives you a very low F score and so
+to<00:12:18.640><c> have</c><00:12:18.760><c> a</c><00:12:18.820><c> high</c><00:12:19.030><c> F</c><00:12:19.240><c> score</c>
+
+00:12:19.800 --> 00:12:19.810 align:start position:0%
+to have a high F score
+ 
+
+00:12:19.810 --> 00:12:21.720 align:start position:0%
+to have a high F score
+you<00:12:20.050><c> kind</c><00:12:20.290><c> of</c><00:12:20.350><c> need</c><00:12:20.500><c> a</c><00:12:20.560><c> prisoner</c><00:12:21.220><c> we</c><00:12:21.340><c> call</c><00:12:21.550><c> to</c>
+
+00:12:21.720 --> 00:12:21.730 align:start position:0%
+you kind of need a prisoner we call to
+ 
+
+00:12:21.730 --> 00:12:25.440 align:start position:0%
+you kind of need a prisoner we call to
+be<00:12:21.790><c> one</c><00:12:22.030><c> and</c><00:12:22.750><c> concretely</c><00:12:23.260><c> um</c><00:12:23.740><c> if</c><00:12:24.160><c> P</c><00:12:24.910><c> equals</c><00:12:24.940><c> 0</c>
+
+00:12:25.440 --> 00:12:25.450 align:start position:0%
+be one and concretely um if P equals 0
+ 
+
+00:12:25.450 --> 00:12:28.980 align:start position:0%
+be one and concretely um if P equals 0
+or<00:12:26.050><c> R</c><00:12:26.140><c> equals</c><00:12:26.770><c> zero</c><00:12:27.130><c> then</c><00:12:28.120><c> this</c><00:12:28.600><c> gives</c><00:12:28.810><c> you</c>
+
+00:12:28.980 --> 00:12:28.990 align:start position:0%
+or R equals zero then this gives you
+ 
+
+00:12:28.990 --> 00:12:30.890 align:start position:0%
+or R equals zero then this gives you
+that<00:12:29.230><c> the</c><00:12:29.320><c> F</c><00:12:29.440><c> score</c>
+
+00:12:30.890 --> 00:12:30.900 align:start position:0%
+that the F score
+ 
+
+00:12:30.900 --> 00:12:35.120 align:start position:0%
+that the F score
+equals<00:12:31.560><c> zero</c><00:12:32.810><c> whereas</c><00:12:33.810><c> a</c><00:12:33.839><c> perfect</c><00:12:34.650><c> f</c><00:12:34.770><c> school</c>
+
+00:12:35.120 --> 00:12:35.130 align:start position:0%
+equals zero whereas a perfect f school
+ 
+
+00:12:35.130 --> 00:12:38.480 align:start position:0%
+equals zero whereas a perfect f school
+so<00:12:35.460><c> if</c><00:12:35.670><c> precision</c><00:12:36.120><c> equals</c><00:12:36.480><c> one</c><00:12:36.750><c> and</c><00:12:37.220><c> we</c><00:12:38.220><c> call</c>
+
+00:12:38.480 --> 00:12:38.490 align:start position:0%
+so if precision equals one and we call
+ 
+
+00:12:38.490 --> 00:12:41.300 align:start position:0%
+so if precision equals one and we call
+equals<00:12:38.880><c> one</c><00:12:39.150><c> that</c><00:12:40.140><c> would</c><00:12:40.380><c> give</c><00:12:40.589><c> you</c><00:12:40.830><c> an</c><00:12:41.100><c> F</c>
+
+00:12:41.300 --> 00:12:41.310 align:start position:0%
+equals one that would give you an F
+ 
+
+00:12:41.310 --> 00:12:45.250 align:start position:0%
+equals one that would give you an F
+score<00:12:42.650><c> that's</c><00:12:43.650><c> equal</c><00:12:43.980><c> to</c><00:12:44.160><c> one</c><00:12:44.490><c> times</c><00:12:44.640><c> one</c><00:12:44.940><c> over</c>
+
+00:12:45.250 --> 00:12:45.260 align:start position:0%
+score that's equal to one times one over
+ 
+
+00:12:45.260 --> 00:12:47.750 align:start position:0%
+score that's equal to one times one over
+two<00:12:46.260><c> times</c><00:12:46.500><c> two</c><00:12:46.830><c> so</c><00:12:47.070><c> the</c><00:12:47.190><c> F</c><00:12:47.339><c> school</c><00:12:47.550><c> will</c><00:12:47.640><c> be</c>
+
+00:12:47.750 --> 00:12:47.760 align:start position:0%
+two times two so the F school will be
+ 
+
+00:12:47.760 --> 00:12:49.490 align:start position:0%
+two times two so the F school will be
+equal<00:12:48.000><c> to</c><00:12:48.029><c> one</c><00:12:48.360><c> if</c><00:12:48.660><c> you</c><00:12:48.839><c> have</c><00:12:49.020><c> perfect</c>
+
+00:12:49.490 --> 00:12:49.500 align:start position:0%
+equal to one if you have perfect
+ 
+
+00:12:49.500 --> 00:12:50.840 align:start position:0%
+equal to one if you have perfect
+precision<00:12:49.740><c> and</c><00:12:50.010><c> perfect</c><00:12:50.310><c> recall</c>
+
+00:12:50.840 --> 00:12:50.850 align:start position:0%
+precision and perfect recall
+ 
+
+00:12:50.850 --> 00:12:52.910 align:start position:0%
+precision and perfect recall
+and<00:12:51.029><c> intermediate</c><00:12:51.990><c> values</c><00:12:52.320><c> between</c><00:12:52.529><c> zero</c><00:12:52.890><c> and</c>
+
+00:12:52.910 --> 00:12:52.920 align:start position:0%
+and intermediate values between zero and
+ 
+
+00:12:52.920 --> 00:12:54.769 align:start position:0%
+and intermediate values between zero and
+one<00:12:53.250><c> you</c><00:12:53.640><c> know</c><00:12:53.760><c> this</c><00:12:53.970><c> usually</c><00:12:54.360><c> gives</c><00:12:54.630><c> a</c>
+
+00:12:54.769 --> 00:12:54.779 align:start position:0%
+one you know this usually gives a
+ 
+
+00:12:54.779 --> 00:12:57.320 align:start position:0%
+one you know this usually gives a
+reasonable<00:12:55.260><c> back</c><00:12:55.920><c> ordering</c><00:12:56.460><c> of</c><00:12:56.850><c> different</c>
+
+00:12:57.320 --> 00:12:57.330 align:start position:0%
+reasonable back ordering of different
+ 
+
+00:12:57.330 --> 00:12:59.370 align:start position:0%
+reasonable back ordering of different
+classifiers
+
+00:12:59.370 --> 00:12:59.380 align:start position:0%
+classifiers
+ 
+
+00:12:59.380 --> 00:13:01.950 align:start position:0%
+classifiers
+so<00:13:00.220><c> in</c><00:13:00.370><c> this</c><00:13:00.490><c> video</c><00:13:00.670><c> we</c><00:13:01.060><c> talked</c><00:13:01.330><c> about</c><00:13:01.480><c> the</c>
+
+00:13:01.950 --> 00:13:01.960 align:start position:0%
+so in this video we talked about the
+ 
+
+00:13:01.960 --> 00:13:04.860 align:start position:0%
+so in this video we talked about the
+notion<00:13:02.560><c> of</c><00:13:02.830><c> trading</c><00:13:03.730><c> off</c><00:13:03.910><c> between</c><00:13:04.450><c> precision</c>
+
+00:13:04.860 --> 00:13:04.870 align:start position:0%
+notion of trading off between precision
+ 
+
+00:13:04.870 --> 00:13:07.560 align:start position:0%
+notion of trading off between precision
+and<00:13:05.230><c> recall</c><00:13:05.440><c> and</c><00:13:05.920><c> how</c><00:13:06.460><c> we</c><00:13:06.520><c> can</c><00:13:06.880><c> vary</c><00:13:07.270><c> the</c>
+
+00:13:07.560 --> 00:13:07.570 align:start position:0%
+and recall and how we can vary the
+ 
+
+00:13:07.570 --> 00:13:09.870 align:start position:0%
+and recall and how we can vary the
+threshold<00:13:07.780><c> that</c><00:13:08.290><c> we</c><00:13:08.350><c> use</c><00:13:08.710><c> to</c><00:13:09.280><c> decide</c><00:13:09.580><c> whether</c>
+
+00:13:09.870 --> 00:13:09.880 align:start position:0%
+threshold that we use to decide whether
+ 
+
+00:13:09.880 --> 00:13:12.210 align:start position:0%
+threshold that we use to decide whether
+to<00:13:10.060><c> predict</c><00:13:10.330><c> y</c><00:13:10.510><c> equals</c><00:13:10.540><c> 1</c><00:13:11.020><c> or</c><00:13:11.260><c> y</c><00:13:11.440><c> equals</c><00:13:11.800><c> 0</c><00:13:12.070><c> this</c>
+
+00:13:12.210 --> 00:13:12.220 align:start position:0%
+to predict y equals 1 or y equals 0 this
+ 
+
+00:13:12.220 --> 00:13:13.980 align:start position:0%
+to predict y equals 1 or y equals 0 this
+is<00:13:12.430><c> a</c><00:13:12.550><c> special</c><00:13:12.970><c> and</c><00:13:13.090><c> it</c><00:13:13.150><c> says</c><00:13:13.330><c> you</c><00:13:13.840><c> know</c><00:13:13.960><c> that</c>
+
+00:13:13.980 --> 00:13:13.990 align:start position:0%
+is a special and it says you know that
+ 
+
+00:13:13.990 --> 00:13:16.710 align:start position:0%
+is a special and it says you know that
+we<00:13:14.230><c> need</c><00:13:14.410><c> to</c><00:13:14.560><c> be</c><00:13:14.710><c> at</c><00:13:15.130><c> least</c><00:13:15.190><c> by</c><00:13:15.520><c> 70%</c><00:13:15.970><c> confident</c>
+
+00:13:16.710 --> 00:13:16.720 align:start position:0%
+we need to be at least by 70% confident
+ 
+
+00:13:16.720 --> 00:13:19.770 align:start position:0%
+we need to be at least by 70% confident
+or<00:13:16.900><c> 90%</c><00:13:17.260><c> confident</c><00:13:18.040><c> or</c><00:13:18.220><c> whatever</c><00:13:19.000><c> before</c><00:13:19.660><c> we</c>
+
+00:13:19.770 --> 00:13:19.780 align:start position:0%
+or 90% confident or whatever before we
+ 
+
+00:13:19.780 --> 00:13:21.990 align:start position:0%
+or 90% confident or whatever before we
+predict<00:13:20.110><c> y</c><00:13:20.350><c> equals</c><00:13:20.410><c> 1</c><00:13:20.950><c> and</c><00:13:21.190><c> by</c><00:13:21.400><c> varying</c><00:13:21.880><c> the</c>
+
+00:13:21.990 --> 00:13:22.000 align:start position:0%
+predict y equals 1 and by varying the
+ 
+
+00:13:22.000 --> 00:13:23.940 align:start position:0%
+predict y equals 1 and by varying the
+threshold<00:13:22.600><c> you</c><00:13:22.720><c> can</c><00:13:22.810><c> control</c><00:13:23.440><c> a</c><00:13:23.680><c> trade-off</c>
+
+00:13:23.940 --> 00:13:23.950 align:start position:0%
+threshold you can control a trade-off
+ 
+
+00:13:23.950 --> 00:13:26.100 align:start position:0%
+threshold you can control a trade-off
+between<00:13:24.130><c> precision</c><00:13:24.580><c> and</c><00:13:25.030><c> recall</c><00:13:25.120><c> we</c><00:13:26.020><c> also</c>
+
+00:13:26.100 --> 00:13:26.110 align:start position:0%
+between precision and recall we also
+ 
+
+00:13:26.110 --> 00:13:28.020 align:start position:0%
+between precision and recall we also
+talked<00:13:26.440><c> about</c><00:13:26.530><c> the</c><00:13:26.740><c> F</c><00:13:26.890><c> score</c><00:13:27.310><c> which</c><00:13:27.610><c> takes</c>
+
+00:13:28.020 --> 00:13:28.030 align:start position:0%
+talked about the F score which takes
+ 
+
+00:13:28.030 --> 00:13:30.510 align:start position:0%
+talked about the F score which takes
+precision<00:13:28.630><c> and</c><00:13:28.840><c> recall</c><00:13:28.990><c> and</c><00:13:29.590><c> again</c><00:13:29.980><c> gives</c><00:13:30.280><c> you</c>
+
+00:13:30.510 --> 00:13:30.520 align:start position:0%
+precision and recall and again gives you
+ 
+
+00:13:30.520 --> 00:13:32.550 align:start position:0%
+precision and recall and again gives you
+a<00:13:30.550><c> single</c><00:13:31.210><c> real</c><00:13:31.450><c> number</c><00:13:31.480><c> evaluation</c><00:13:31.840><c> metric</c>
+
+00:13:32.550 --> 00:13:32.560 align:start position:0%
+a single real number evaluation metric
+ 
+
+00:13:32.560 --> 00:13:34.920 align:start position:0%
+a single real number evaluation metric
+and<00:13:33.070><c> of</c><00:13:33.520><c> course</c><00:13:33.760><c> if</c><00:13:34.030><c> you</c><00:13:34.120><c> go</c><00:13:34.330><c> is</c><00:13:34.690><c> to</c>
+
+00:13:34.920 --> 00:13:34.930 align:start position:0%
+and of course if you go is to
+ 
+
+00:13:34.930 --> 00:13:37.950 align:start position:0%
+and of course if you go is to
+automatically<00:13:35.890><c> set</c><00:13:36.250><c> that</c><00:13:36.460><c> threshold</c><00:13:36.960><c> to</c>
+
+00:13:37.950 --> 00:13:37.960 align:start position:0%
+automatically set that threshold to
+ 
+
+00:13:37.960 --> 00:13:39.600 align:start position:0%
+automatically set that threshold to
+decide<00:13:37.990><c> what</c><00:13:38.530><c> to</c><00:13:38.650><c> many</c><00:13:38.800><c> y</c><00:13:39.010><c> equals</c><00:13:39.280><c> 1</c><00:13:39.430><c> and</c><00:13:39.460><c> y</c>
+
+00:13:39.600 --> 00:13:39.610 align:start position:0%
+decide what to many y equals 1 and y
+ 
+
+00:13:39.610 --> 00:13:42.390 align:start position:0%
+decide what to many y equals 1 and y
+equals<00:13:39.730><c> 0</c><00:13:40.270><c> one</c><00:13:40.990><c> pretty</c><00:13:41.380><c> means</c><00:13:41.650><c> no</c><00:13:41.890><c> way</c><00:13:42.070><c> to</c><00:13:42.130><c> do</c>
+
+00:13:42.390 --> 00:13:42.400 align:start position:0%
+equals 0 one pretty means no way to do
+ 
+
+00:13:42.400 --> 00:13:45.240 align:start position:0%
+equals 0 one pretty means no way to do
+that<00:13:42.430><c> would</c><00:13:42.880><c> also</c><00:13:43.090><c> be</c><00:13:43.300><c> to</c><00:13:43.780><c> try</c><00:13:44.440><c> a</c><00:13:44.470><c> range</c><00:13:45.010><c> of</c>
+
+00:13:45.240 --> 00:13:45.250 align:start position:0%
+that would also be to try a range of
+ 
+
+00:13:45.250 --> 00:13:47.280 align:start position:0%
+that would also be to try a range of
+different<00:13:45.430><c> values</c><00:13:45.730><c> of</c><00:13:46.030><c> threshold</c><00:13:46.810><c> so</c><00:13:46.990><c> to</c><00:13:47.050><c> try</c>
+
+00:13:47.280 --> 00:13:47.290 align:start position:0%
+different values of threshold so to try
+ 
+
+00:13:47.290 --> 00:13:49.220 align:start position:0%
+different values of threshold so to try
+a<00:13:47.320><c> range</c><00:13:47.560><c> of</c><00:13:47.740><c> values</c><00:13:48.160><c> of</c><00:13:48.190><c> threshold</c><00:13:48.760><c> and</c>
+
+00:13:49.220 --> 00:13:49.230 align:start position:0%
+a range of values of threshold and
+ 
+
+00:13:49.230 --> 00:13:51.420 align:start position:0%
+a range of values of threshold and
+evaluate<00:13:50.230><c> these</c><00:13:50.380><c> different</c><00:13:50.740><c> thresholds</c><00:13:51.250><c> on</c>
+
+00:13:51.420 --> 00:13:51.430 align:start position:0%
+evaluate these different thresholds on
+ 
+
+00:13:51.430 --> 00:13:54.000 align:start position:0%
+evaluate these different thresholds on
+stereo<00:13:51.820><c> cross-validation</c><00:13:52.270><c> set</c><00:13:52.960><c> and</c><00:13:53.230><c> then</c><00:13:53.800><c> to</c>
+
+00:13:54.000 --> 00:13:54.010 align:start position:0%
+stereo cross-validation set and then to
+ 
+
+00:13:54.010 --> 00:13:56.790 align:start position:0%
+stereo cross-validation set and then to
+pick<00:13:54.190><c> whatever</c><00:13:54.490><c> value</c><00:13:55.120><c> of</c><00:13:55.630><c> threshold</c><00:13:55.960><c> gives</c>
+
+00:13:56.790 --> 00:13:56.800 align:start position:0%
+pick whatever value of threshold gives
+ 
+
+00:13:56.800 --> 00:13:58.980 align:start position:0%
+pick whatever value of threshold gives
+you<00:13:56.950><c> the</c><00:13:57.070><c> highest</c><00:13:57.370><c> F</c><00:13:57.790><c> score</c><00:13:58.150><c> on</c><00:13:58.360><c> your</c><00:13:58.780><c> cross</c>
+
+00:13:58.980 --> 00:13:58.990 align:start position:0%
+you the highest F score on your cross
+ 
+
+00:13:58.990 --> 00:14:00.720 align:start position:0%
+you the highest F score on your cross
+validation<00:13:59.050><c> set</c><00:13:59.980><c> that'd</c><00:14:00.310><c> be</c><00:14:00.430><c> a</c><00:14:00.460><c> pretty</c>
+
+00:14:00.720 --> 00:14:00.730 align:start position:0%
+validation set that'd be a pretty
+ 
+
+00:14:00.730 --> 00:14:02.850 align:start position:0%
+validation set that'd be a pretty
+reasonable<00:14:00.940><c> way</c><00:14:01.390><c> to</c><00:14:01.660><c> automatically</c><00:14:02.500><c> choose</c>
+
+00:14:02.850 --> 00:14:02.860 align:start position:0%
+reasonable way to automatically choose
+ 
+
+00:14:02.860 --> 00:14:04.560 align:start position:0%
+reasonable way to automatically choose
+the<00:14:03.190><c> threshold</c><00:14:03.700><c> for</c><00:14:03.790><c> your</c><00:14:03.940><c> classifier</c><00:14:04.390><c> as</c>
+
+00:14:04.560 --> 00:14:04.570 align:start position:0%
+the threshold for your classifier as
+ 
+
+00:14:04.570 --> 00:14:06.780 align:start position:0%
+the threshold for your classifier as
+well
+

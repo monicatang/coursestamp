@@ -1,0 +1,1584 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.880 align:start position:0%
+ 
+neural<00:00:00.510><c> networks</c><00:00:00.930><c> are</c><00:00:01.199><c> a</c><00:00:01.260><c> pretty</c><00:00:01.589><c> old</c>
+
+00:00:01.880 --> 00:00:01.890 align:start position:0%
+neural networks are a pretty old
+ 
+
+00:00:01.890 --> 00:00:04.640 align:start position:0%
+neural networks are a pretty old
+algorithm<00:00:02.580><c> that</c><00:00:02.850><c> was</c><00:00:03.060><c> originally</c><00:00:03.959><c> motivated</c>
+
+00:00:04.640 --> 00:00:04.650 align:start position:0%
+algorithm that was originally motivated
+ 
+
+00:00:04.650 --> 00:00:06.950 align:start position:0%
+algorithm that was originally motivated
+by<00:00:05.160><c> the</c><00:00:05.220><c> goal</c><00:00:05.549><c> of</c><00:00:05.790><c> having</c><00:00:06.000><c> machines</c><00:00:06.540><c> that</c><00:00:06.810><c> can</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+by the goal of having machines that can
+ 
+
+00:00:06.960 --> 00:00:09.379 align:start position:0%
+by the goal of having machines that can
+mimic<00:00:07.109><c> the</c><00:00:07.350><c> brain</c><00:00:07.500><c> now</c><00:00:08.400><c> in</c><00:00:08.700><c> this</c><00:00:08.849><c> class</c><00:00:09.059><c> of</c>
+
+00:00:09.379 --> 00:00:09.389 align:start position:0%
+mimic the brain now in this class of
+ 
+
+00:00:09.389 --> 00:00:10.940 align:start position:0%
+mimic the brain now in this class of
+course<00:00:09.599><c> on</c><00:00:09.780><c> teaching</c><00:00:10.200><c> neural</c><00:00:10.410><c> networks</c><00:00:10.889><c> to</c>
+
+00:00:10.940 --> 00:00:10.950 align:start position:0%
+course on teaching neural networks to
+ 
+
+00:00:10.950 --> 00:00:12.440 align:start position:0%
+course on teaching neural networks to
+you<00:00:11.160><c> because</c><00:00:11.519><c> they</c><00:00:11.700><c> work</c><00:00:11.910><c> really</c><00:00:12.120><c> well</c><00:00:12.389><c> for</c>
+
+00:00:12.440 --> 00:00:12.450 align:start position:0%
+you because they work really well for
+ 
+
+00:00:12.450 --> 00:00:14.120 align:start position:0%
+you because they work really well for
+different<00:00:12.929><c> machine</c><00:00:13.170><c> learning</c><00:00:13.200><c> problems</c><00:00:13.889><c> and</c>
+
+00:00:14.120 --> 00:00:14.130 align:start position:0%
+different machine learning problems and
+ 
+
+00:00:14.130 --> 00:00:16.039 align:start position:0%
+different machine learning problems and
+not<00:00:14.400><c> certainly</c><00:00:14.969><c> not</c><00:00:15.089><c> just</c><00:00:15.570><c> because</c><00:00:15.809><c> they're</c>
+
+00:00:16.039 --> 00:00:16.049 align:start position:0%
+not certainly not just because they're
+ 
+
+00:00:16.049 --> 00:00:18.800 align:start position:0%
+not certainly not just because they're
+biologically<00:00:16.890><c> motivated</c><00:00:17.609><c> but</c><00:00:18.180><c> in</c><00:00:18.359><c> this</c><00:00:18.570><c> video</c>
+
+00:00:18.800 --> 00:00:18.810 align:start position:0%
+biologically motivated but in this video
+ 
+
+00:00:18.810 --> 00:00:20.480 align:start position:0%
+biologically motivated but in this video
+I'd<00:00:19.230><c> like</c><00:00:19.410><c> to</c><00:00:19.470><c> give</c><00:00:19.650><c> you</c><00:00:20.070><c> some</c><00:00:20.310><c> of</c><00:00:20.400><c> the</c>
+
+00:00:20.480 --> 00:00:20.490 align:start position:0%
+I'd like to give you some of the
+ 
+
+00:00:20.490 --> 00:00:23.000 align:start position:0%
+I'd like to give you some of the
+background<00:00:21.000><c> on</c><00:00:21.180><c> neural</c><00:00:21.660><c> networks</c><00:00:22.020><c> so</c><00:00:22.650><c> that</c><00:00:22.859><c> we</c>
+
+00:00:23.000 --> 00:00:23.010 align:start position:0%
+background on neural networks so that we
+ 
+
+00:00:23.010 --> 00:00:25.160 align:start position:0%
+background on neural networks so that we
+can<00:00:23.160><c> get</c><00:00:23.310><c> a</c><00:00:23.340><c> sense</c><00:00:23.640><c> of</c><00:00:23.970><c> what</c><00:00:24.480><c> we</c><00:00:24.600><c> can</c><00:00:24.750><c> expect</c>
+
+00:00:25.160 --> 00:00:25.170 align:start position:0%
+can get a sense of what we can expect
+ 
+
+00:00:25.170 --> 00:00:27.410 align:start position:0%
+can get a sense of what we can expect
+them<00:00:25.289><c> to</c><00:00:25.350><c> do</c><00:00:25.619><c> both</c><00:00:26.430><c> in</c><00:00:26.699><c> the</c><00:00:26.880><c> sense</c><00:00:27.119><c> of</c><00:00:27.240><c> applying</c>
+
+00:00:27.410 --> 00:00:27.420 align:start position:0%
+them to do both in the sense of applying
+ 
+
+00:00:27.420 --> 00:00:29.480 align:start position:0%
+them to do both in the sense of applying
+them<00:00:27.930><c> to</c><00:00:28.170><c> modern-day</c><00:00:28.680><c> machine</c><00:00:29.160><c> learning</c>
+
+00:00:29.480 --> 00:00:29.490 align:start position:0%
+them to modern-day machine learning
+ 
+
+00:00:29.490 --> 00:00:31.669 align:start position:0%
+them to modern-day machine learning
+problems<00:00:29.910><c> as</c><00:00:30.090><c> well</c><00:00:30.599><c> as</c><00:00:30.660><c> for</c><00:00:31.140><c> those</c><00:00:31.320><c> of</c><00:00:31.529><c> you</c>
+
+00:00:31.669 --> 00:00:31.679 align:start position:0%
+problems as well as for those of you
+ 
+
+00:00:31.679 --> 00:00:33.860 align:start position:0%
+problems as well as for those of you
+that<00:00:31.890><c> might</c><00:00:32.160><c> be</c><00:00:32.189><c> interested</c><00:00:32.820><c> in</c><00:00:33.090><c> the</c><00:00:33.300><c> maybe</c>
+
+00:00:33.860 --> 00:00:33.870 align:start position:0%
+that might be interested in the maybe
+ 
+
+00:00:33.870 --> 00:00:35.840 align:start position:0%
+that might be interested in the maybe
+the<00:00:34.020><c> big</c><00:00:34.230><c> AI</c><00:00:34.469><c> dream</c><00:00:34.920><c> of</c><00:00:35.160><c> someday</c><00:00:35.489><c> building</c>
+
+00:00:35.840 --> 00:00:35.850 align:start position:0%
+the big AI dream of someday building
+ 
+
+00:00:35.850 --> 00:00:39.200 align:start position:0%
+the big AI dream of someday building
+truly<00:00:36.090><c> intelligent</c><00:00:36.510><c> machines</c><00:00:37.430><c> also</c><00:00:38.430><c> how</c>
+
+00:00:39.200 --> 00:00:39.210 align:start position:0%
+truly intelligent machines also how
+ 
+
+00:00:39.210 --> 00:00:41.500 align:start position:0%
+truly intelligent machines also how
+neural<00:00:39.540><c> networks</c><00:00:39.930><c> might</c><00:00:40.170><c> pertain</c><00:00:40.530><c> to</c><00:00:40.590><c> that</c>
+
+00:00:41.500 --> 00:00:41.510 align:start position:0%
+neural networks might pertain to that
+ 
+
+00:00:41.510 --> 00:00:45.130 align:start position:0%
+neural networks might pertain to that
+the<00:00:42.510><c> origins</c><00:00:43.050><c> of</c><00:00:43.290><c> neural</c><00:00:43.590><c> networks</c><00:00:43.980><c> was</c><00:00:44.430><c> as</c>
+
+00:00:45.130 --> 00:00:45.140 align:start position:0%
+the origins of neural networks was as
+ 
+
+00:00:45.140 --> 00:00:47.389 align:start position:0%
+the origins of neural networks was as
+algorithms<00:00:46.140><c> that</c><00:00:46.289><c> try</c><00:00:46.500><c> to</c><00:00:46.590><c> mimic</c><00:00:47.070><c> the</c><00:00:47.370><c> brain</c>
+
+00:00:47.389 --> 00:00:47.399 align:start position:0%
+algorithms that try to mimic the brain
+ 
+
+00:00:47.399 --> 00:00:49.340 align:start position:0%
+algorithms that try to mimic the brain
+and<00:00:47.910><c> there</c><00:00:48.059><c> was</c><00:00:48.149><c> the</c><00:00:48.239><c> sense</c><00:00:48.480><c> that</c><00:00:48.660><c> if</c><00:00:49.020><c> we</c><00:00:49.140><c> want</c>
+
+00:00:49.340 --> 00:00:49.350 align:start position:0%
+and there was the sense that if we want
+ 
+
+00:00:49.350 --> 00:00:51.920 align:start position:0%
+and there was the sense that if we want
+to<00:00:49.530><c> know</c><00:00:50.100><c> learning</c><00:00:50.640><c> systems</c><00:00:51.210><c> well</c><00:00:51.480><c> why</c><00:00:51.719><c> not</c>
+
+00:00:51.920 --> 00:00:51.930 align:start position:0%
+to know learning systems well why not
+ 
+
+00:00:51.930 --> 00:00:54.290 align:start position:0%
+to know learning systems well why not
+mimic<00:00:52.350><c> perhaps</c><00:00:53.070><c> the</c><00:00:53.219><c> most</c><00:00:53.430><c> amazing</c><00:00:54.090><c> learning</c>
+
+00:00:54.290 --> 00:00:54.300 align:start position:0%
+mimic perhaps the most amazing learning
+ 
+
+00:00:54.300 --> 00:00:56.540 align:start position:0%
+mimic perhaps the most amazing learning
+machine<00:00:54.840><c> we</c><00:00:55.079><c> know</c><00:00:55.260><c> about</c><00:00:55.530><c> which</c><00:00:55.770><c> is</c><00:00:55.949><c> perhaps</c>
+
+00:00:56.540 --> 00:00:56.550 align:start position:0%
+machine we know about which is perhaps
+ 
+
+00:00:56.550 --> 00:00:58.970 align:start position:0%
+machine we know about which is perhaps
+the<00:00:56.879><c> brain</c><00:00:57.090><c> neural</c><00:00:57.870><c> networks</c><00:00:58.289><c> came</c><00:00:58.680><c> to</c><00:00:58.859><c> be</c>
+
+00:00:58.970 --> 00:00:58.980 align:start position:0%
+the brain neural networks came to be
+ 
+
+00:00:58.980 --> 00:01:01.670 align:start position:0%
+the brain neural networks came to be
+very<00:00:59.280><c> widely</c><00:00:59.609><c> used</c><00:00:59.820><c> throughout</c><00:01:00.449><c> the</c><00:01:00.690><c> 1980s</c>
+
+00:01:01.670 --> 00:01:01.680 align:start position:0%
+very widely used throughout the 1980s
+ 
+
+00:01:01.680 --> 00:01:04.850 align:start position:0%
+very widely used throughout the 1980s
+and<00:01:01.949><c> 1990s</c><00:01:02.460><c> and</c><00:01:03.210><c> for</c><00:01:03.960><c> various</c><00:01:04.229><c> reasons</c><00:01:04.650><c> as</c>
+
+00:01:04.850 --> 00:01:04.860 align:start position:0%
+and 1990s and for various reasons as
+ 
+
+00:01:04.860 --> 00:01:07.370 align:start position:0%
+and 1990s and for various reasons as
+popularity<00:01:05.339><c> diminished</c><00:01:06.210><c> in</c><00:01:06.450><c> the</c><00:01:06.659><c> late</c><00:01:06.869><c> 90s</c>
+
+00:01:07.370 --> 00:01:07.380 align:start position:0%
+popularity diminished in the late 90s
+ 
+
+00:01:07.380 --> 00:01:10.100 align:start position:0%
+popularity diminished in the late 90s
+but<00:01:08.159><c> more</c><00:01:08.369><c> recently</c><00:01:08.850><c> neural</c><00:01:09.390><c> networks</c><00:01:09.780><c> have</c>
+
+00:01:10.100 --> 00:01:10.110 align:start position:0%
+but more recently neural networks have
+ 
+
+00:01:10.110 --> 00:01:13.820 align:start position:0%
+but more recently neural networks have
+had<00:01:10.409><c> a</c><00:01:10.650><c> major</c><00:01:11.010><c> recent</c><00:01:11.790><c> resurgence</c><00:01:12.590><c> one</c><00:01:13.590><c> of</c><00:01:13.740><c> the</c>
+
+00:01:13.820 --> 00:01:13.830 align:start position:0%
+had a major recent resurgence one of the
+ 
+
+00:01:13.830 --> 00:01:15.980 align:start position:0%
+had a major recent resurgence one of the
+reasons<00:01:14.250><c> for</c><00:01:14.460><c> this</c><00:01:14.700><c> resurgence</c><00:01:15.450><c> is</c><00:01:15.750><c> that</c>
+
+00:01:15.980 --> 00:01:15.990 align:start position:0%
+reasons for this resurgence is that
+ 
+
+00:01:15.990 --> 00:01:18.740 align:start position:0%
+reasons for this resurgence is that
+neural<00:01:16.710><c> networks</c><00:01:17.100><c> are</c><00:01:17.750><c> computationally</c>
+
+00:01:18.740 --> 00:01:18.750 align:start position:0%
+neural networks are computationally
+ 
+
+00:01:18.750 --> 00:01:20.690 align:start position:0%
+neural networks are computationally
+somewhat<00:01:19.170><c> more</c><00:01:19.350><c> expensive</c><00:01:19.530><c> algorithm</c><00:01:20.490><c> and</c>
+
+00:01:20.690 --> 00:01:20.700 align:start position:0%
+somewhat more expensive algorithm and
+ 
+
+00:01:20.700 --> 00:01:22.969 align:start position:0%
+somewhat more expensive algorithm and
+so's<00:01:21.180><c> only</c><00:01:21.659><c> you</c><00:01:22.140><c> know</c><00:01:22.229><c> maybe</c><00:01:22.439><c> someone</c><00:01:22.740><c> more</c>
+
+00:01:22.969 --> 00:01:22.979 align:start position:0%
+so's only you know maybe someone more
+ 
+
+00:01:22.979 --> 00:01:26.090 align:start position:0%
+so's only you know maybe someone more
+recently<00:01:23.400><c> that</c><00:01:24.320><c> computers</c><00:01:25.320><c> became</c><00:01:25.799><c> fast</c>
+
+00:01:26.090 --> 00:01:26.100 align:start position:0%
+recently that computers became fast
+ 
+
+00:01:26.100 --> 00:01:28.249 align:start position:0%
+recently that computers became fast
+enough<00:01:26.490><c> to</c><00:01:26.670><c> really</c><00:01:27.000><c> run</c><00:01:27.240><c> large-scale</c><00:01:27.869><c> neural</c>
+
+00:01:28.249 --> 00:01:28.259 align:start position:0%
+enough to really run large-scale neural
+ 
+
+00:01:28.259 --> 00:01:30.890 align:start position:0%
+enough to really run large-scale neural
+networks<00:01:28.650><c> and</c><00:01:28.890><c> because</c><00:01:29.610><c> of</c><00:01:29.640><c> that</c><00:01:29.759><c> as</c><00:01:30.509><c> well</c><00:01:30.810><c> as</c>
+
+00:01:30.890 --> 00:01:30.900 align:start position:0%
+networks and because of that as well as
+ 
+
+00:01:30.900 --> 00:01:32.539 align:start position:0%
+networks and because of that as well as
+a<00:01:30.930><c> few</c><00:01:31.200><c> other</c><00:01:31.350><c> technical</c><00:01:31.860><c> reasons</c><00:01:32.220><c> which</c>
+
+00:01:32.539 --> 00:01:32.549 align:start position:0%
+a few other technical reasons which
+ 
+
+00:01:32.549 --> 00:01:33.770 align:start position:0%
+a few other technical reasons which
+we'll<00:01:32.850><c> talk</c><00:01:33.090><c> about</c><00:01:33.210><c> later</c>
+
+00:01:33.770 --> 00:01:33.780 align:start position:0%
+we'll talk about later
+ 
+
+00:01:33.780 --> 00:01:36.260 align:start position:0%
+we'll talk about later
+modern<00:01:34.740><c> neural</c><00:01:35.040><c> networks</c><00:01:35.400><c> today</c><00:01:35.729><c> are</c><00:01:36.030><c> these</c>
+
+00:01:36.260 --> 00:01:36.270 align:start position:0%
+modern neural networks today are these
+ 
+
+00:01:36.270 --> 00:01:38.569 align:start position:0%
+modern neural networks today are these
+state-of-the-art<00:01:36.659><c> technique</c><00:01:37.380><c> for</c><00:01:37.710><c> many</c>
+
+00:01:38.569 --> 00:01:38.579 align:start position:0%
+state-of-the-art technique for many
+ 
+
+00:01:38.579 --> 00:01:40.670 align:start position:0%
+state-of-the-art technique for many
+applications<00:01:38.990><c> so</c><00:01:39.990><c> when</c><00:01:40.350><c> you</c><00:01:40.409><c> think</c><00:01:40.619><c> about</c>
+
+00:01:40.670 --> 00:01:40.680 align:start position:0%
+applications so when you think about
+ 
+
+00:01:40.680 --> 00:01:43.039 align:start position:0%
+applications so when you think about
+mimicking<00:01:41.430><c> the</c><00:01:41.579><c> brain</c><00:01:41.820><c> well</c><00:01:42.270><c> what</c><00:01:42.600><c> the</c><00:01:42.720><c> human</c>
+
+00:01:43.039 --> 00:01:43.049 align:start position:0%
+mimicking the brain well what the human
+ 
+
+00:01:43.049 --> 00:01:44.990 align:start position:0%
+mimicking the brain well what the human
+brain<00:01:43.200><c> does</c><00:01:43.560><c> so</c><00:01:43.829><c> many</c><00:01:44.070><c> amazing</c><00:01:44.310><c> things</c><00:01:44.759><c> right</c>
+
+00:01:44.990 --> 00:01:45.000 align:start position:0%
+brain does so many amazing things right
+ 
+
+00:01:45.000 --> 00:01:47.510 align:start position:0%
+brain does so many amazing things right
+the<00:01:45.180><c> brain</c><00:01:45.420><c> can</c><00:01:45.840><c> learn</c><00:01:46.619><c> to</c><00:01:46.799><c> see</c><00:01:47.040><c> process</c>
+
+00:01:47.510 --> 00:01:47.520 align:start position:0%
+the brain can learn to see process
+ 
+
+00:01:47.520 --> 00:01:49.880 align:start position:0%
+the brain can learn to see process
+images<00:01:47.880><c> learn</c><00:01:48.180><c> to</c><00:01:48.329><c> hear</c><00:01:48.750><c> learn</c><00:01:49.229><c> to</c><00:01:49.380><c> process</c><00:01:49.770><c> or</c>
+
+00:01:49.880 --> 00:01:49.890 align:start position:0%
+images learn to hear learn to process or
+ 
+
+00:01:49.890 --> 00:01:51.530 align:start position:0%
+images learn to hear learn to process or
+sense<00:01:50.070><c> of</c><00:01:50.159><c> touch</c><00:01:50.369><c> you</c><00:01:50.640><c> can</c><00:01:50.820><c> you</c><00:01:51.030><c> know</c><00:01:51.119><c> learn</c><00:01:51.299><c> to</c>
+
+00:01:51.530 --> 00:01:51.540 align:start position:0%
+sense of touch you can you know learn to
+ 
+
+00:01:51.540 --> 00:01:54.080 align:start position:0%
+sense of touch you can you know learn to
+do<00:01:51.689><c> math</c><00:01:51.990><c> and</c><00:01:52.320><c> to</c><00:01:52.439><c> do</c><00:01:52.560><c> calculus</c><00:01:53.159><c> and</c><00:01:53.369><c> the</c><00:01:53.880><c> brain</c>
+
+00:01:54.080 --> 00:01:54.090 align:start position:0%
+do math and to do calculus and the brain
+ 
+
+00:01:54.090 --> 00:01:56.060 align:start position:0%
+do math and to do calculus and the brain
+does<00:01:54.299><c> so</c><00:01:54.570><c> many</c><00:01:54.810><c> different</c><00:01:55.170><c> amazing</c><00:01:55.380><c> things</c><00:01:55.829><c> it</c>
+
+00:01:56.060 --> 00:01:56.070 align:start position:0%
+does so many different amazing things it
+ 
+
+00:01:56.070 --> 00:01:57.440 align:start position:0%
+does so many different amazing things it
+seems<00:01:56.280><c> like</c><00:01:56.490><c> if</c><00:01:56.670><c> you</c><00:01:56.759><c> want</c><00:01:56.969><c> to</c><00:01:57.060><c> mimic</c><00:01:57.240><c> the</c>
+
+00:01:57.440 --> 00:01:57.450 align:start position:0%
+seems like if you want to mimic the
+ 
+
+00:01:57.450 --> 00:01:59.179 align:start position:0%
+seems like if you want to mimic the
+brain<00:01:57.479><c> it</c><00:01:57.899><c> seems</c><00:01:58.079><c> like</c><00:01:58.259><c> you</c><00:01:58.680><c> have</c><00:01:58.860><c> to</c><00:01:59.009><c> write</c>
+
+00:01:59.179 --> 00:01:59.189 align:start position:0%
+brain it seems like you have to write
+ 
+
+00:01:59.189 --> 00:02:01.010 align:start position:0%
+brain it seems like you have to write
+lots<00:01:59.460><c> of</c><00:01:59.640><c> different</c><00:01:59.969><c> pieces</c><00:02:00.149><c> of</c><00:02:00.329><c> software</c><00:02:00.390><c> to</c>
+
+00:02:01.010 --> 00:02:01.020 align:start position:0%
+lots of different pieces of software to
+ 
+
+00:02:01.020 --> 00:02:03.080 align:start position:0%
+lots of different pieces of software to
+mimic<00:02:01.320><c> all</c><00:02:01.469><c> of</c><00:02:01.710><c> these</c><00:02:01.860><c> different</c><00:02:02.369><c> fascinating</c>
+
+00:02:03.080 --> 00:02:03.090 align:start position:0%
+mimic all of these different fascinating
+ 
+
+00:02:03.090 --> 00:02:05.389 align:start position:0%
+mimic all of these different fascinating
+amazing<00:02:03.539><c> things</c><00:02:03.780><c> that</c><00:02:03.869><c> the</c><00:02:03.990><c> brain</c><00:02:04.020><c> does</c><00:02:04.399><c> but</c>
+
+00:02:05.389 --> 00:02:05.399 align:start position:0%
+amazing things that the brain does but
+ 
+
+00:02:05.399 --> 00:02:07.639 align:start position:0%
+amazing things that the brain does but
+there's<00:02:05.789><c> this</c><00:02:05.909><c> fascinating</c><00:02:06.320><c> hypothesis</c><00:02:07.320><c> that</c>
+
+00:02:07.639 --> 00:02:07.649 align:start position:0%
+there's this fascinating hypothesis that
+ 
+
+00:02:07.649 --> 00:02:09.290 align:start position:0%
+there's this fascinating hypothesis that
+the<00:02:08.160><c> way</c><00:02:08.310><c> the</c><00:02:08.489><c> brain</c><00:02:08.700><c> does</c><00:02:08.910><c> all</c><00:02:09.060><c> of</c><00:02:09.090><c> these</c>
+
+00:02:09.290 --> 00:02:09.300 align:start position:0%
+the way the brain does all of these
+ 
+
+00:02:09.300 --> 00:02:11.240 align:start position:0%
+the way the brain does all of these
+different<00:02:09.690><c> things</c><00:02:09.750><c> is</c><00:02:10.259><c> not</c><00:02:10.590><c> with</c><00:02:10.950><c> like</c><00:02:11.220><c> a</c>
+
+00:02:11.240 --> 00:02:11.250 align:start position:0%
+different things is not with like a
+ 
+
+00:02:11.250 --> 00:02:13.699 align:start position:0%
+different things is not with like a
+thousand<00:02:11.819><c> different</c><00:02:11.940><c> programs</c><00:02:12.599><c> but</c><00:02:12.870><c> instead</c>
+
+00:02:13.699 --> 00:02:13.709 align:start position:0%
+thousand different programs but instead
+ 
+
+00:02:13.709 --> 00:02:15.530 align:start position:0%
+thousand different programs but instead
+the<00:02:14.010><c> brain</c><00:02:14.190><c> does</c><00:02:14.430><c> the</c><00:02:14.640><c> way</c><00:02:14.790><c> the</c><00:02:14.940><c> brain</c><00:02:15.120><c> does</c><00:02:15.360><c> it</c>
+
+00:02:15.530 --> 00:02:15.540 align:start position:0%
+the brain does the way the brain does it
+ 
+
+00:02:15.540 --> 00:02:18.430 align:start position:0%
+the brain does the way the brain does it
+is<00:02:15.900><c> with</c><00:02:16.170><c> just</c><00:02:16.590><c> a</c><00:02:16.739><c> single</c><00:02:16.950><c> learning</c><00:02:17.340><c> algorithm</c>
+
+00:02:18.430 --> 00:02:18.440 align:start position:0%
+is with just a single learning algorithm
+ 
+
+00:02:18.440 --> 00:02:21.770 align:start position:0%
+is with just a single learning algorithm
+this<00:02:19.440><c> is</c><00:02:19.500><c> just</c><00:02:19.860><c> a</c><00:02:19.920><c> hypothesis</c><00:02:20.670><c> but</c><00:02:21.000><c> let</c><00:02:21.690><c> me</c>
+
+00:02:21.770 --> 00:02:21.780 align:start position:0%
+this is just a hypothesis but let me
+ 
+
+00:02:21.780 --> 00:02:23.839 align:start position:0%
+this is just a hypothesis but let me
+share<00:02:22.080><c> with</c><00:02:22.110><c> you</c><00:02:22.319><c> some</c><00:02:22.650><c> of</c><00:02:22.950><c> the</c><00:02:23.040><c> evidence</c><00:02:23.250><c> for</c>
+
+00:02:23.839 --> 00:02:23.849 align:start position:0%
+share with you some of the evidence for
+ 
+
+00:02:23.849 --> 00:02:26.030 align:start position:0%
+share with you some of the evidence for
+this<00:02:24.060><c> this</c><00:02:24.660><c> part</c><00:02:25.019><c> of</c><00:02:25.140><c> the</c><00:02:25.230><c> brain</c><00:02:25.379><c> that</c><00:02:25.769><c> little</c>
+
+00:02:26.030 --> 00:02:26.040 align:start position:0%
+this this part of the brain that little
+ 
+
+00:02:26.040 --> 00:02:28.280 align:start position:0%
+this this part of the brain that little
+red<00:02:26.220><c> part</c><00:02:26.489><c> of</c><00:02:26.580><c> the</c><00:02:26.640><c> brain</c><00:02:26.910><c> is</c><00:02:27.120><c> your</c><00:02:27.690><c> auditory</c>
+
+00:02:28.280 --> 00:02:28.290 align:start position:0%
+red part of the brain is your auditory
+ 
+
+00:02:28.290 --> 00:02:30.619 align:start position:0%
+red part of the brain is your auditory
+cortex<00:02:28.709><c> and</c><00:02:29.040><c> the</c><00:02:29.370><c> way</c><00:02:29.519><c> your</c><00:02:29.790><c> understanding</c><00:02:30.480><c> my</c>
+
+00:02:30.619 --> 00:02:30.629 align:start position:0%
+cortex and the way your understanding my
+ 
+
+00:02:30.629 --> 00:02:33.800 align:start position:0%
+cortex and the way your understanding my
+voice<00:02:30.840><c> now</c><00:02:31.140><c> is</c><00:02:31.470><c> that</c><00:02:32.220><c> um</c><00:02:32.549><c> your</c><00:02:32.879><c> ear</c><00:02:33.209><c> is</c><00:02:33.450><c> taking</c>
+
+00:02:33.800 --> 00:02:33.810 align:start position:0%
+voice now is that um your ear is taking
+ 
+
+00:02:33.810 --> 00:02:35.600 align:start position:0%
+voice now is that um your ear is taking
+the<00:02:33.930><c> sound</c><00:02:34.170><c> signal</c><00:02:34.590><c> and</c><00:02:34.830><c> routing</c><00:02:35.220><c> the</c><00:02:35.310><c> sound</c>
+
+00:02:35.600 --> 00:02:35.610 align:start position:0%
+the sound signal and routing the sound
+ 
+
+00:02:35.610 --> 00:02:37.580 align:start position:0%
+the sound signal and routing the sound
+signal<00:02:36.060><c> to</c><00:02:36.360><c> your</c><00:02:36.480><c> auditory</c><00:02:36.959><c> cortex</c><00:02:37.319><c> and</c>
+
+00:02:37.580 --> 00:02:37.590 align:start position:0%
+signal to your auditory cortex and
+ 
+
+00:02:37.590 --> 00:02:39.890 align:start position:0%
+signal to your auditory cortex and
+that's<00:02:38.099><c> what's</c><00:02:38.370><c> allowing</c><00:02:38.549><c> you</c><00:02:39.030><c> to</c><00:02:39.329><c> understand</c>
+
+00:02:39.890 --> 00:02:39.900 align:start position:0%
+that's what's allowing you to understand
+ 
+
+00:02:39.900 --> 00:02:42.710 align:start position:0%
+that's what's allowing you to understand
+my<00:02:40.079><c> words</c><00:02:41.269><c> neuroscientists</c><00:02:42.269><c> have</c><00:02:42.420><c> done</c><00:02:42.569><c> the</c>
+
+00:02:42.710 --> 00:02:42.720 align:start position:0%
+my words neuroscientists have done the
+ 
+
+00:02:42.720 --> 00:02:44.720 align:start position:0%
+my words neuroscientists have done the
+following<00:02:42.900><c> fascinating</c><00:02:43.829><c> experiment</c><00:02:44.459><c> where</c>
+
+00:02:44.720 --> 00:02:44.730 align:start position:0%
+following fascinating experiment where
+ 
+
+00:02:44.730 --> 00:02:47.240 align:start position:0%
+following fascinating experiment where
+you<00:02:44.940><c> cut</c><00:02:45.540><c> the</c><00:02:45.690><c> wire</c><00:02:45.900><c> from</c><00:02:46.530><c> the</c><00:02:46.650><c> ears</c><00:02:46.920><c> to</c><00:02:47.160><c> the</c>
+
+00:02:47.240 --> 00:02:47.250 align:start position:0%
+you cut the wire from the ears to the
+ 
+
+00:02:47.250 --> 00:02:50.360 align:start position:0%
+you cut the wire from the ears to the
+auditory<00:02:47.670><c> cortex</c><00:02:47.819><c> and</c><00:02:48.269><c> you</c><00:02:48.989><c> rewire</c><00:02:49.620><c> in</c><00:02:50.069><c> this</c>
+
+00:02:50.360 --> 00:02:50.370 align:start position:0%
+auditory cortex and you rewire in this
+ 
+
+00:02:50.370 --> 00:02:52.490 align:start position:0%
+auditory cortex and you rewire in this
+case<00:02:50.579><c> an</c><00:02:50.760><c> animal's</c><00:02:51.209><c> brain</c><00:02:51.390><c> so</c><00:02:52.170><c> that</c><00:02:52.410><c> the</c>
+
+00:02:52.490 --> 00:02:52.500 align:start position:0%
+case an animal's brain so that the
+ 
+
+00:02:52.500 --> 00:02:54.199 align:start position:0%
+case an animal's brain so that the
+signal<00:02:52.890><c> from</c><00:02:53.040><c> the</c><00:02:53.190><c> eyes</c><00:02:53.370><c> from</c><00:02:53.819><c> the</c><00:02:53.910><c> optic</c>
+
+00:02:54.199 --> 00:02:54.209 align:start position:0%
+signal from the eyes from the optic
+ 
+
+00:02:54.209 --> 00:02:56.449 align:start position:0%
+signal from the eyes from the optic
+nerve<00:02:54.420><c> eventually</c><00:02:55.410><c> gets</c><00:02:55.650><c> relative</c><00:02:56.099><c> to</c><00:02:56.340><c> the</c>
+
+00:02:56.449 --> 00:02:56.459 align:start position:0%
+nerve eventually gets relative to the
+ 
+
+00:02:56.459 --> 00:02:59.000 align:start position:0%
+nerve eventually gets relative to the
+auditory<00:02:56.910><c> cortex</c><00:02:57.269><c> if</c><00:02:58.140><c> you</c><00:02:58.260><c> do</c><00:02:58.410><c> this</c><00:02:58.590><c> it</c><00:02:58.860><c> turns</c>
+
+00:02:59.000 --> 00:02:59.010 align:start position:0%
+auditory cortex if you do this it turns
+ 
+
+00:02:59.010 --> 00:03:01.009 align:start position:0%
+auditory cortex if you do this it turns
+out<00:02:59.310><c> the</c><00:02:59.519><c> auditory</c><00:02:59.940><c> cortex</c><00:03:00.120><c> will</c><00:03:00.660><c> learn</c><00:03:00.810><c> to</c>
+
+00:03:01.009 --> 00:03:01.019 align:start position:0%
+out the auditory cortex will learn to
+ 
+
+00:03:01.019 --> 00:03:04.280 align:start position:0%
+out the auditory cortex will learn to
+see<00:03:01.200><c> and</c><00:03:01.470><c> this</c><00:03:02.400><c> is</c><00:03:02.459><c> a</c><00:03:02.700><c> in</c><00:03:03.120><c> every</c><00:03:03.599><c> single</c><00:03:03.989><c> sense</c>
+
+00:03:04.280 --> 00:03:04.290 align:start position:0%
+see and this is a in every single sense
+ 
+
+00:03:04.290 --> 00:03:06.619 align:start position:0%
+see and this is a in every single sense
+of<00:03:04.560><c> the</c><00:03:04.650><c> word</c><00:03:04.860><c> see</c><00:03:05.220><c> as</c><00:03:05.459><c> we</c><00:03:05.700><c> know</c><00:03:05.910><c> it</c><00:03:06.090><c> so</c><00:03:06.360><c> if</c><00:03:06.540><c> you</c>
+
+00:03:06.619 --> 00:03:06.629 align:start position:0%
+of the word see as we know it so if you
+ 
+
+00:03:06.629 --> 00:03:08.599 align:start position:0%
+of the word see as we know it so if you
+do<00:03:06.780><c> this</c><00:03:06.989><c> to</c><00:03:07.200><c> the</c><00:03:07.350><c> animals</c><00:03:07.739><c> the</c><00:03:07.950><c> animals</c><00:03:08.370><c> can</c>
+
+00:03:08.599 --> 00:03:08.609 align:start position:0%
+do this to the animals the animals can
+ 
+
+00:03:08.609 --> 00:03:11.120 align:start position:0%
+do this to the animals the animals can
+perform<00:03:09.359><c> visual</c><00:03:09.810><c> discrimination</c><00:03:10.170><c> talks</c><00:03:10.829><c> and</c>
+
+00:03:11.120 --> 00:03:11.130 align:start position:0%
+perform visual discrimination talks and
+ 
+
+00:03:11.130 --> 00:03:13.370 align:start position:0%
+perform visual discrimination talks and
+that<00:03:11.340><c> is</c><00:03:11.489><c> they</c><00:03:11.639><c> can</c><00:03:11.819><c> look</c><00:03:12.269><c> at</c><00:03:12.480><c> images</c><00:03:12.900><c> and</c><00:03:12.959><c> make</c>
+
+00:03:13.370 --> 00:03:13.380 align:start position:0%
+that is they can look at images and make
+ 
+
+00:03:13.380 --> 00:03:15.319 align:start position:0%
+that is they can look at images and make
+appropriate<00:03:13.829><c> decisions</c><00:03:14.609><c> based</c><00:03:15.000><c> on</c><00:03:15.180><c> the</c>
+
+00:03:15.319 --> 00:03:15.329 align:start position:0%
+appropriate decisions based on the
+ 
+
+00:03:15.329 --> 00:03:17.420 align:start position:0%
+appropriate decisions based on the
+images<00:03:15.750><c> and</c><00:03:15.900><c> they're</c><00:03:16.500><c> doing</c><00:03:16.680><c> it</c><00:03:16.889><c> with</c><00:03:17.190><c> that</c>
+
+00:03:17.420 --> 00:03:17.430 align:start position:0%
+images and they're doing it with that
+ 
+
+00:03:17.430 --> 00:03:20.059 align:start position:0%
+images and they're doing it with that
+piece<00:03:17.790><c> of</c><00:03:17.819><c> brain</c><00:03:18.269><c> tissue</c><00:03:18.769><c> here's</c><00:03:19.769><c> another</c>
+
+00:03:20.059 --> 00:03:20.069 align:start position:0%
+piece of brain tissue here's another
+ 
+
+00:03:20.069 --> 00:03:22.339 align:start position:0%
+piece of brain tissue here's another
+example<00:03:20.340><c> that</c><00:03:20.880><c> red</c><00:03:21.720><c> piece</c><00:03:21.930><c> of</c><00:03:22.139><c> brain</c><00:03:22.319><c> tissue</c>
+
+00:03:22.339 --> 00:03:22.349 align:start position:0%
+example that red piece of brain tissue
+ 
+
+00:03:22.349 --> 00:03:25.490 align:start position:0%
+example that red piece of brain tissue
+is<00:03:22.980><c> your</c><00:03:23.370><c> somatosensory</c><00:03:23.870><c> cortex</c><00:03:24.870><c> that's</c><00:03:25.260><c> how</c>
+
+00:03:25.490 --> 00:03:25.500 align:start position:0%
+is your somatosensory cortex that's how
+ 
+
+00:03:25.500 --> 00:03:27.680 align:start position:0%
+is your somatosensory cortex that's how
+you<00:03:25.560><c> process</c><00:03:25.889><c> your</c><00:03:26.310><c> sense</c><00:03:26.519><c> of</c><00:03:26.670><c> touch</c><00:03:26.849><c> if</c><00:03:27.239><c> you</c>
+
+00:03:27.680 --> 00:03:27.690 align:start position:0%
+you process your sense of touch if you
+ 
+
+00:03:27.690 --> 00:03:30.589 align:start position:0%
+you process your sense of touch if you
+do<00:03:27.840><c> a</c><00:03:27.870><c> similar</c><00:03:28.290><c> rewiring</c><00:03:28.829><c> process</c><00:03:29.579><c> then</c><00:03:30.269><c> the</c>
+
+00:03:30.589 --> 00:03:30.599 align:start position:0%
+do a similar rewiring process then the
+ 
+
+00:03:30.599 --> 00:03:32.900 align:start position:0%
+do a similar rewiring process then the
+somatosensory<00:03:30.930><c> cortex</c><00:03:31.889><c> will</c><00:03:32.370><c> learn</c><00:03:32.549><c> see</c>
+
+00:03:32.900 --> 00:03:32.910 align:start position:0%
+somatosensory cortex will learn see
+ 
+
+00:03:32.910 --> 00:03:35.390 align:start position:0%
+somatosensory cortex will learn see
+because<00:03:33.720><c> of</c><00:03:33.750><c> this</c><00:03:34.079><c> and</c><00:03:34.380><c> other</c><00:03:34.859><c> similar</c>
+
+00:03:35.390 --> 00:03:35.400 align:start position:0%
+because of this and other similar
+ 
+
+00:03:35.400 --> 00:03:37.159 align:start position:0%
+because of this and other similar
+experiments<00:03:36.239><c> these</c><00:03:36.599><c> are</c><00:03:36.810><c> called</c>
+
+00:03:37.159 --> 00:03:37.169 align:start position:0%
+experiments these are called
+ 
+
+00:03:37.169 --> 00:03:39.830 align:start position:0%
+experiments these are called
+neural<00:03:37.620><c> rewiring</c><00:03:38.030><c> experiments</c><00:03:39.030><c> there's</c><00:03:39.630><c> this</c>
+
+00:03:39.830 --> 00:03:39.840 align:start position:0%
+neural rewiring experiments there's this
+ 
+
+00:03:39.840 --> 00:03:42.110 align:start position:0%
+neural rewiring experiments there's this
+sense<00:03:40.200><c> that</c><00:03:40.380><c> if</c><00:03:40.799><c> the</c><00:03:40.950><c> same</c><00:03:41.160><c> piece</c><00:03:41.430><c> of</c><00:03:41.639><c> physical</c>
+
+00:03:42.110 --> 00:03:42.120 align:start position:0%
+sense that if the same piece of physical
+ 
+
+00:03:42.120 --> 00:03:45.050 align:start position:0%
+sense that if the same piece of physical
+brain<00:03:42.419><c> tissue</c><00:03:42.720><c> can</c><00:03:43.470><c> process</c><00:03:43.709><c> sight</c><00:03:44.099><c> or</c><00:03:44.579><c> sounds</c>
+
+00:03:45.050 --> 00:03:45.060 align:start position:0%
+brain tissue can process sight or sounds
+ 
+
+00:03:45.060 --> 00:03:47.449 align:start position:0%
+brain tissue can process sight or sounds
+or<00:03:45.209><c> touch</c><00:03:45.450><c> then</c><00:03:46.139><c> maybe</c><00:03:46.410><c> there's</c><00:03:46.829><c> a</c><00:03:47.130><c> one</c>
+
+00:03:47.449 --> 00:03:47.459 align:start position:0%
+or touch then maybe there's a one
+ 
+
+00:03:47.459 --> 00:03:49.099 align:start position:0%
+or touch then maybe there's a one
+learning<00:03:47.790><c> algorithm</c><00:03:48.269><c> that</c><00:03:48.480><c> can</c><00:03:48.900><c> process</c>
+
+00:03:49.099 --> 00:03:49.109 align:start position:0%
+learning algorithm that can process
+ 
+
+00:03:49.109 --> 00:03:52.309 align:start position:0%
+learning algorithm that can process
+sight<00:03:49.349><c> or</c><00:03:49.919><c> sound</c><00:03:50.190><c> or</c><00:03:50.459><c> touch</c><00:03:50.760><c> and</c><00:03:51.139><c> instead</c><00:03:52.139><c> of</c>
+
+00:03:52.309 --> 00:03:52.319 align:start position:0%
+sight or sound or touch and instead of
+ 
+
+00:03:52.319 --> 00:03:54.020 align:start position:0%
+sight or sound or touch and instead of
+needing<00:03:52.650><c> to</c><00:03:52.680><c> implement</c><00:03:53.340><c> a</c><00:03:53.489><c> thousand</c>
+
+00:03:54.020 --> 00:03:54.030 align:start position:0%
+needing to implement a thousand
+ 
+
+00:03:54.030 --> 00:03:55.729 align:start position:0%
+needing to implement a thousand
+different<00:03:54.150><c> programs</c><00:03:55.019><c> or</c><00:03:55.200><c> a</c><00:03:55.290><c> thousand</c>
+
+00:03:55.729 --> 00:03:55.739 align:start position:0%
+different programs or a thousand
+ 
+
+00:03:55.739 --> 00:03:57.409 align:start position:0%
+different programs or a thousand
+different<00:03:55.829><c> algorithms</c><00:03:56.430><c> to</c><00:03:56.700><c> do</c><00:03:56.849><c> the</c><00:03:57.060><c> you</c><00:03:57.329><c> know</c>
+
+00:03:57.409 --> 00:03:57.419 align:start position:0%
+different algorithms to do the you know
+ 
+
+00:03:57.419 --> 00:03:58.970 align:start position:0%
+different algorithms to do the you know
+thousand<00:03:57.900><c> wonderful</c><00:03:58.470><c> things</c><00:03:58.680><c> that</c><00:03:58.799><c> the</c><00:03:58.919><c> brain</c>
+
+00:03:58.970 --> 00:03:58.980 align:start position:0%
+thousand wonderful things that the brain
+ 
+
+00:03:58.980 --> 00:04:01.849 align:start position:0%
+thousand wonderful things that the brain
+does<00:03:59.310><c> maybe</c><00:04:00.090><c> what</c><00:04:00.690><c> we</c><00:04:00.810><c> need</c><00:04:00.959><c> to</c><00:04:01.049><c> do</c><00:04:01.200><c> is</c><00:04:01.530><c> figure</c>
+
+00:04:01.849 --> 00:04:01.859 align:start position:0%
+does maybe what we need to do is figure
+ 
+
+00:04:01.859 --> 00:04:04.360 align:start position:0%
+does maybe what we need to do is figure
+out<00:04:02.010><c> some</c><00:04:02.519><c> approximation</c><00:04:03.480><c> or</c>
+
+00:04:04.360 --> 00:04:04.370 align:start position:0%
+out some approximation or
+ 
+
+00:04:04.370 --> 00:04:05.949 align:start position:0%
+out some approximation or
+to<00:04:04.640><c> whatever</c><00:04:05.209><c> the</c><00:04:05.299><c> brains</c><00:04:05.540><c> learning</c>
+
+00:04:05.949 --> 00:04:05.959 align:start position:0%
+to whatever the brains learning
+ 
+
+00:04:05.959 --> 00:04:08.289 align:start position:0%
+to whatever the brains learning
+algorithm<00:04:06.319><c> is</c><00:04:06.409><c> and</c><00:04:06.650><c> implement</c><00:04:07.489><c> that</c><00:04:07.670><c> and</c><00:04:08.060><c> let</c>
+
+00:04:08.289 --> 00:04:08.299 align:start position:0%
+algorithm is and implement that and let
+ 
+
+00:04:08.299 --> 00:04:10.539 align:start position:0%
+algorithm is and implement that and let
+the<00:04:08.390><c> brain</c><00:04:08.659><c> learn</c><00:04:08.930><c> by</c><00:04:09.170><c> itself</c><00:04:09.530><c> how</c><00:04:10.099><c> to</c><00:04:10.159><c> process</c>
+
+00:04:10.539 --> 00:04:10.549 align:start position:0%
+the brain learn by itself how to process
+ 
+
+00:04:10.549 --> 00:04:13.149 align:start position:0%
+the brain learn by itself how to process
+these<00:04:11.030><c> different</c><00:04:11.480><c> types</c><00:04:11.659><c> of</c><00:04:11.840><c> data</c><00:04:12.159><c> to</c>
+
+00:04:13.149 --> 00:04:13.159 align:start position:0%
+these different types of data to
+ 
+
+00:04:13.159 --> 00:04:15.280 align:start position:0%
+these different types of data to
+surprisingly<00:04:13.819><c> large</c><00:04:14.060><c> extent</c><00:04:14.569><c> it</c><00:04:14.780><c> seems</c><00:04:14.930><c> as</c>
+
+00:04:15.280 --> 00:04:15.290 align:start position:0%
+surprisingly large extent it seems as
+ 
+
+00:04:15.290 --> 00:04:17.890 align:start position:0%
+surprisingly large extent it seems as
+though<00:04:15.500><c> we</c><00:04:15.650><c> can</c><00:04:15.769><c> plug</c><00:04:16.489><c> in</c><00:04:16.669><c> almost</c><00:04:17.030><c> any</c><00:04:17.329><c> sensor</c>
+
+00:04:17.890 --> 00:04:17.900 align:start position:0%
+though we can plug in almost any sensor
+ 
+
+00:04:17.900 --> 00:04:19.800 align:start position:0%
+though we can plug in almost any sensor
+to<00:04:18.139><c> almost</c><00:04:18.530><c> any</c><00:04:18.739><c> part</c><00:04:18.949><c> of</c><00:04:19.100><c> the</c><00:04:19.190><c> brain</c><00:04:19.310><c> and</c>
+
+00:04:19.800 --> 00:04:19.810 align:start position:0%
+to almost any part of the brain and
+ 
+
+00:04:19.810 --> 00:04:22.270 align:start position:0%
+to almost any part of the brain and
+select<00:04:20.810><c> within</c><00:04:20.989><c> reason</c><00:04:21.530><c> the</c><00:04:21.769><c> brain</c><00:04:21.979><c> will</c>
+
+00:04:22.270 --> 00:04:22.280 align:start position:0%
+select within reason the brain will
+ 
+
+00:04:22.280 --> 00:04:26.469 align:start position:0%
+select within reason the brain will
+learn<00:04:22.400><c> to</c><00:04:22.610><c> do</c><00:04:22.790><c> of</c><00:04:22.940><c> it</c><00:04:24.910><c> here</c><00:04:25.910><c> are</c><00:04:26.030><c> a</c><00:04:26.060><c> few</c><00:04:26.210><c> more</c>
+
+00:04:26.469 --> 00:04:26.479 align:start position:0%
+learn to do of it here are a few more
+ 
+
+00:04:26.479 --> 00:04:29.170 align:start position:0%
+learn to do of it here are a few more
+examples<00:04:26.840><c> on</c><00:04:27.380><c> the</c><00:04:27.979><c> upper</c><00:04:28.190><c> left</c><00:04:28.430><c> is</c><00:04:28.729><c> an</c><00:04:29.060><c> example</c>
+
+00:04:29.170 --> 00:04:29.180 align:start position:0%
+examples on the upper left is an example
+ 
+
+00:04:29.180 --> 00:04:32.200 align:start position:0%
+examples on the upper left is an example
+of<00:04:29.780><c> learning</c><00:04:30.380><c> to</c><00:04:30.500><c> see</c><00:04:30.740><c> with</c><00:04:30.919><c> your</c><00:04:31.070><c> tongue</c><00:04:31.370><c> the</c>
+
+00:04:32.200 --> 00:04:32.210 align:start position:0%
+of learning to see with your tongue the
+ 
+
+00:04:32.210 --> 00:04:34.180 align:start position:0%
+of learning to see with your tongue the
+way<00:04:32.389><c> it</c><00:04:32.540><c> works</c><00:04:32.750><c> is</c><00:04:33.050><c> on</c><00:04:33.080><c> this</c><00:04:33.770><c> is</c><00:04:33.860><c> actually</c><00:04:34.010><c> a</c>
+
+00:04:34.180 --> 00:04:34.190 align:start position:0%
+way it works is on this is actually a
+ 
+
+00:04:34.190 --> 00:04:36.520 align:start position:0%
+way it works is on this is actually a
+system<00:04:34.370><c> called</c><00:04:34.910><c> brain</c><00:04:35.180><c> port</c><00:04:35.510><c> undergoing</c><00:04:36.169><c> you</c>
+
+00:04:36.520 --> 00:04:36.530 align:start position:0%
+system called brain port undergoing you
+ 
+
+00:04:36.530 --> 00:04:38.290 align:start position:0%
+system called brain port undergoing you
+know<00:04:36.620><c> FDA</c><00:04:36.919><c> trials</c><00:04:37.190><c> now</c><00:04:37.460><c> to</c><00:04:37.520><c> help</c><00:04:37.850><c> line</c><00:04:38.060><c> people</c>
+
+00:04:38.290 --> 00:04:38.300 align:start position:0%
+know FDA trials now to help line people
+ 
+
+00:04:38.300 --> 00:04:41.650 align:start position:0%
+know FDA trials now to help line people
+see<00:04:38.630><c> by</c><00:04:39.410><c> the</c><00:04:39.470><c> way</c><00:04:39.620><c> it</c><00:04:39.740><c> works</c><00:04:39.949><c> is</c><00:04:40.220><c> you</c><00:04:40.630><c> strap</c><00:04:41.630><c> a</c>
+
+00:04:41.650 --> 00:04:41.660 align:start position:0%
+see by the way it works is you strap a
+ 
+
+00:04:41.660 --> 00:04:44.230 align:start position:0%
+see by the way it works is you strap a
+grayscale<00:04:42.500><c> camera</c><00:04:42.979><c> to</c><00:04:43.220><c> your</c><00:04:43.340><c> forehead</c><00:04:43.729><c> facing</c>
+
+00:04:44.230 --> 00:04:44.240 align:start position:0%
+grayscale camera to your forehead facing
+ 
+
+00:04:44.240 --> 00:04:46.300 align:start position:0%
+grayscale camera to your forehead facing
+forward<00:04:44.600><c> taking</c><00:04:44.960><c> that</c><00:04:45.169><c> that</c><00:04:45.350><c> takes</c><00:04:45.590><c> a</c><00:04:45.770><c> low</c>
+
+00:04:46.300 --> 00:04:46.310 align:start position:0%
+forward taking that that takes a low
+ 
+
+00:04:46.310 --> 00:04:48.640 align:start position:0%
+forward taking that that takes a low
+resolution<00:04:46.600><c> grayscale</c><00:04:47.600><c> image</c><00:04:47.990><c> of</c><00:04:48.260><c> what's</c><00:04:48.530><c> in</c>
+
+00:04:48.640 --> 00:04:48.650 align:start position:0%
+resolution grayscale image of what's in
+ 
+
+00:04:48.650 --> 00:04:51.879 align:start position:0%
+resolution grayscale image of what's in
+front<00:04:48.770><c> of</c><00:04:49.010><c> you</c><00:04:49.160><c> and</c><00:04:49.370><c> you</c><00:04:49.940><c> then</c><00:04:50.150><c> run</c><00:04:50.449><c> a</c><00:04:50.630><c> wire</c><00:04:50.960><c> to</c>
+
+00:04:51.879 --> 00:04:51.889 align:start position:0%
+front of you and you then run a wire to
+ 
+
+00:04:51.889 --> 00:04:53.980 align:start position:0%
+front of you and you then run a wire to
+an<00:04:52.100><c> array</c><00:04:52.430><c> of</c><00:04:52.699><c> electrodes</c><00:04:53.270><c> that</c><00:04:53.539><c> you</c><00:04:53.720><c> place</c><00:04:53.960><c> on</c>
+
+00:04:53.980 --> 00:04:53.990 align:start position:0%
+an array of electrodes that you place on
+ 
+
+00:04:53.990 --> 00:04:56.320 align:start position:0%
+an array of electrodes that you place on
+your<00:04:54.320><c> tongue</c><00:04:54.590><c> so</c><00:04:55.220><c> that</c><00:04:55.250><c> each</c><00:04:55.550><c> pixel</c><00:04:55.820><c> gets</c>
+
+00:04:56.320 --> 00:04:56.330 align:start position:0%
+your tongue so that each pixel gets
+ 
+
+00:04:56.330 --> 00:04:58.870 align:start position:0%
+your tongue so that each pixel gets
+mapped<00:04:56.600><c> to</c><00:04:56.840><c> a</c><00:04:56.990><c> pixel</c><00:04:57.620><c> to</c><00:04:57.860><c> a</c><00:04:57.889><c> location</c><00:04:58.280><c> on</c><00:04:58.699><c> your</c>
+
+00:04:58.870 --> 00:04:58.880 align:start position:0%
+mapped to a pixel to a location on your
+ 
+
+00:04:58.880 --> 00:05:00.730 align:start position:0%
+mapped to a pixel to a location on your
+tongue<00:04:59.090><c> where</c><00:04:59.720><c> maybe</c><00:04:59.990><c> a</c><00:05:00.289><c> high</c><00:05:00.530><c> voltage</c>
+
+00:05:00.730 --> 00:05:00.740 align:start position:0%
+tongue where maybe a high voltage
+ 
+
+00:05:00.740 --> 00:05:03.580 align:start position:0%
+tongue where maybe a high voltage
+response<00:05:01.370><c> to</c><00:05:01.820><c> a</c><00:05:01.850><c> dark</c><00:05:02.150><c> pixel</c><00:05:02.630><c> and</c><00:05:02.840><c> a</c><00:05:03.380><c> low</c>
+
+00:05:03.580 --> 00:05:03.590 align:start position:0%
+response to a dark pixel and a low
+ 
+
+00:05:03.590 --> 00:05:06.550 align:start position:0%
+response to a dark pixel and a low
+voltage<00:05:03.830><c> corresponds</c><00:05:04.820><c> to</c><00:05:04.850><c> a</c><00:05:05.139><c> bright</c><00:05:06.139><c> pixel</c>
+
+00:05:06.550 --> 00:05:06.560 align:start position:0%
+voltage corresponds to a bright pixel
+ 
+
+00:05:06.560 --> 00:05:09.790 align:start position:0%
+voltage corresponds to a bright pixel
+and<00:05:07.360><c> even</c><00:05:08.360><c> as</c><00:05:08.479><c> adults</c><00:05:08.599><c> today</c><00:05:08.960><c> with</c><00:05:09.349><c> this</c><00:05:09.590><c> solar</c>
+
+00:05:09.790 --> 00:05:09.800 align:start position:0%
+and even as adults today with this solar
+ 
+
+00:05:09.800 --> 00:05:11.500 align:start position:0%
+and even as adults today with this solar
+system<00:05:10.039><c> you</c><00:05:10.520><c> and</c><00:05:10.700><c> I</c><00:05:10.789><c> will</c><00:05:11.090><c> be</c><00:05:11.180><c> able</c><00:05:11.270><c> to</c><00:05:11.360><c> learn</c>
+
+00:05:11.500 --> 00:05:11.510 align:start position:0%
+system you and I will be able to learn
+ 
+
+00:05:11.510 --> 00:05:13.210 align:start position:0%
+system you and I will be able to learn
+to<00:05:11.750><c> see</c><00:05:11.960><c> you</c><00:05:12.320><c> know</c><00:05:12.410><c> intensive</c><00:05:12.950><c> minutes</c>
+
+00:05:13.210 --> 00:05:13.220 align:start position:0%
+to see you know intensive minutes
+ 
+
+00:05:13.220 --> 00:05:15.790 align:start position:0%
+to see you know intensive minutes
+without<00:05:13.520><c> tunnels</c><00:05:14.260><c> here's</c><00:05:15.260><c> a</c><00:05:15.349><c> second</c><00:05:15.710><c> example</c>
+
+00:05:15.790 --> 00:05:15.800 align:start position:0%
+without tunnels here's a second example
+ 
+
+00:05:15.800 --> 00:05:19.150 align:start position:0%
+without tunnels here's a second example
+of<00:05:16.400><c> a</c><00:05:16.669><c> human</c><00:05:17.150><c> echolocation</c><00:05:17.840><c> of</c><00:05:18.229><c> humans</c><00:05:18.650><c> sonar</c>
+
+00:05:19.150 --> 00:05:19.160 align:start position:0%
+of a human echolocation of humans sonar
+ 
+
+00:05:19.160 --> 00:05:21.159 align:start position:0%
+of a human echolocation of humans sonar
+so<00:05:19.970><c> there</c><00:05:20.210><c> are</c><00:05:20.300><c> two</c><00:05:20.450><c> ways</c><00:05:20.630><c> you</c><00:05:20.750><c> can</c><00:05:20.870><c> do</c><00:05:20.990><c> this</c>
+
+00:05:21.159 --> 00:05:21.169 align:start position:0%
+so there are two ways you can do this
+ 
+
+00:05:21.169 --> 00:05:24.150 align:start position:0%
+so there are two ways you can do this
+you<00:05:21.470><c> can</c><00:05:21.500><c> either</c><00:05:21.860><c> snap</c><00:05:22.820><c> your</c><00:05:23.000><c> fingers</c><00:05:23.330><c> or</c>
+
+00:05:24.150 --> 00:05:24.160 align:start position:0%
+you can either snap your fingers or
+ 
+
+00:05:24.160 --> 00:05:28.659 align:start position:0%
+you can either snap your fingers or
+click<00:05:25.160><c> your</c><00:05:25.190><c> tongue</c><00:05:25.340><c> oh</c><00:05:27.250><c> can</c><00:05:28.250><c> do</c><00:05:28.400><c> very</c><00:05:28.610><c> well</c>
+
+00:05:28.659 --> 00:05:28.669 align:start position:0%
+click your tongue oh can do very well
+ 
+
+00:05:28.669 --> 00:05:31.360 align:start position:0%
+click your tongue oh can do very well
+and<00:05:29.080><c> but</c><00:05:30.080><c> they're</c><00:05:30.229><c> blind</c><00:05:30.470><c> people</c><00:05:30.800><c> today</c><00:05:30.919><c> that</c>
+
+00:05:31.360 --> 00:05:31.370 align:start position:0%
+and but they're blind people today that
+ 
+
+00:05:31.370 --> 00:05:33.219 align:start position:0%
+and but they're blind people today that
+are<00:05:31.550><c> actually</c><00:05:31.849><c> being</c><00:05:31.940><c> trained</c><00:05:32.300><c> in</c><00:05:32.450><c> schools</c><00:05:32.840><c> to</c>
+
+00:05:33.219 --> 00:05:33.229 align:start position:0%
+are actually being trained in schools to
+ 
+
+00:05:33.229 --> 00:05:35.200 align:start position:0%
+are actually being trained in schools to
+do<00:05:33.410><c> this</c><00:05:33.620><c> and</c><00:05:33.919><c> learn</c><00:05:34.340><c> to</c><00:05:34.550><c> interpret</c><00:05:34.970><c> the</c>
+
+00:05:35.200 --> 00:05:35.210 align:start position:0%
+do this and learn to interpret the
+ 
+
+00:05:35.210 --> 00:05:37.210 align:start position:0%
+do this and learn to interpret the
+pattern<00:05:35.630><c> of</c><00:05:36.139><c> sounds</c><00:05:36.560><c> bouncing</c><00:05:36.979><c> off</c><00:05:37.190><c> your</c>
+
+00:05:37.210 --> 00:05:37.220 align:start position:0%
+pattern of sounds bouncing off your
+ 
+
+00:05:37.220 --> 00:05:41.020 align:start position:0%
+pattern of sounds bouncing off your
+environment<00:05:38.030><c> as</c><00:05:38.270><c> sonar</c><00:05:38.810><c> so</c><00:05:39.380><c> if</c><00:05:39.979><c> if</c><00:05:40.340><c> after</c><00:05:40.820><c> you</c>
+
+00:05:41.020 --> 00:05:41.030 align:start position:0%
+environment as sonar so if if after you
+ 
+
+00:05:41.030 --> 00:05:42.550 align:start position:0%
+environment as sonar so if if after you
+search<00:05:41.210><c> on</c><00:05:41.389><c> YouTube</c><00:05:41.780><c> you're</c><00:05:41.990><c> actually</c><00:05:42.260><c> videos</c>
+
+00:05:42.550 --> 00:05:42.560 align:start position:0%
+search on YouTube you're actually videos
+ 
+
+00:05:42.560 --> 00:05:44.860 align:start position:0%
+search on YouTube you're actually videos
+that<00:05:42.770><c> this</c><00:05:42.889><c> amazing</c><00:05:43.130><c> kid</c><00:05:43.580><c> who</c><00:05:44.180><c> tragically</c>
+
+00:05:44.860 --> 00:05:44.870 align:start position:0%
+that this amazing kid who tragically
+ 
+
+00:05:44.870 --> 00:05:47.260 align:start position:0%
+that this amazing kid who tragically
+because<00:05:45.289><c> of</c><00:05:45.440><c> cancer</c><00:05:46.280><c> has</c><00:05:46.729><c> his</c><00:05:46.849><c> eyeballs</c>
+
+00:05:47.260 --> 00:05:47.270 align:start position:0%
+because of cancer has his eyeballs
+ 
+
+00:05:47.270 --> 00:05:48.909 align:start position:0%
+because of cancer has his eyeballs
+removed<00:05:47.750><c> so</c><00:05:47.900><c> this</c><00:05:48.139><c> is</c><00:05:48.199><c> a</c><00:05:48.320><c> kid</c><00:05:48.650><c> with</c><00:05:48.770><c> no</c>
+
+00:05:48.909 --> 00:05:48.919 align:start position:0%
+removed so this is a kid with no
+ 
+
+00:05:48.919 --> 00:05:51.850 align:start position:0%
+removed so this is a kid with no
+eyeballs<00:05:49.030><c> but</c><00:05:50.030><c> by</c><00:05:50.240><c> snapping</c><00:05:50.720><c> his</c><00:05:50.750><c> fingers</c><00:05:50.860><c> he</c>
+
+00:05:51.850 --> 00:05:51.860 align:start position:0%
+eyeballs but by snapping his fingers he
+ 
+
+00:05:51.860 --> 00:05:53.890 align:start position:0%
+eyeballs but by snapping his fingers he
+can<00:05:52.130><c> walk</c><00:05:52.699><c> around</c><00:05:53.000><c> and</c><00:05:53.240><c> never</c><00:05:53.479><c> hit</c><00:05:53.630><c> anything</c>
+
+00:05:53.890 --> 00:05:53.900 align:start position:0%
+can walk around and never hit anything
+ 
+
+00:05:53.900 --> 00:05:56.830 align:start position:0%
+can walk around and never hit anything
+he<00:05:54.560><c> can</c><00:05:54.770><c> ride</c><00:05:55.039><c> a</c><00:05:55.070><c> skateboard</c><00:05:55.370><c> she</c><00:05:56.210><c> can</c><00:05:56.389><c> shoot</c><00:05:56.750><c> a</c>
+
+00:05:56.830 --> 00:05:56.840 align:start position:0%
+he can ride a skateboard she can shoot a
+ 
+
+00:05:56.840 --> 00:05:59.140 align:start position:0%
+he can ride a skateboard she can shoot a
+basketball<00:05:57.260><c> -</c><00:05:57.560><c> hoop</c><00:05:57.770><c> and</c><00:05:58.070><c> she's</c><00:05:58.729><c> a</c><00:05:58.760><c> kid</c><00:05:59.000><c> with</c>
+
+00:05:59.140 --> 00:05:59.150 align:start position:0%
+basketball - hoop and she's a kid with
+ 
+
+00:05:59.150 --> 00:06:02.529 align:start position:0%
+basketball - hoop and she's a kid with
+no<00:05:59.180><c> eyeballs</c><00:06:00.160><c> third</c><00:06:01.160><c> example</c><00:06:01.520><c> is</c><00:06:01.880><c> the</c><00:06:02.300><c> haptic</c>
+
+00:06:02.529 --> 00:06:02.539 align:start position:0%
+no eyeballs third example is the haptic
+ 
+
+00:06:02.539 --> 00:06:07.629 align:start position:0%
+no eyeballs third example is the haptic
+belt<00:06:03.400><c> where</c><00:06:04.400><c> if</c><00:06:04.699><c> you</c><00:06:05.419><c> have</c><00:06:05.900><c> a</c><00:06:06.490><c> strap</c><00:06:07.490><c> around</c>
+
+00:06:07.629 --> 00:06:07.639 align:start position:0%
+belt where if you have a strap around
+ 
+
+00:06:07.639 --> 00:06:08.320 align:start position:0%
+belt where if you have a strap around
+your<00:06:07.940><c> waist</c>
+
+00:06:08.320 --> 00:06:08.330 align:start position:0%
+your waist
+ 
+
+00:06:08.330 --> 00:06:10.390 align:start position:0%
+your waist
+ring<00:06:08.900><c> up</c><00:06:09.050><c> buzzers</c><00:06:09.410><c> and</c><00:06:09.440><c> always</c><00:06:10.070><c> have</c><00:06:10.370><c> the</c>
+
+00:06:10.390 --> 00:06:10.400 align:start position:0%
+ring up buzzers and always have the
+ 
+
+00:06:10.400 --> 00:06:11.990 align:start position:0%
+ring up buzzers and always have the
+northmost<00:06:10.550><c> one</c><00:06:11.330><c> but</c>
+
+00:06:11.990 --> 00:06:12.000 align:start position:0%
+northmost one but
+ 
+
+00:06:12.000 --> 00:06:14.420 align:start position:0%
+northmost one but
+you<00:06:12.240><c> can</c><00:06:12.420><c> give</c><00:06:12.630><c> a</c><00:06:12.660><c> human</c><00:06:12.930><c> a</c><00:06:13.290><c> directions</c><00:06:14.190><c> and</c>
+
+00:06:14.420 --> 00:06:14.430 align:start position:0%
+you can give a human a directions and
+ 
+
+00:06:14.430 --> 00:06:17.030 align:start position:0%
+you can give a human a directions and
+similar<00:06:14.820><c> to</c><00:06:14.970><c> maybe</c><00:06:15.180><c> how</c><00:06:15.390><c> birds</c><00:06:15.810><c> can</c><00:06:16.050><c> you</c><00:06:16.230><c> sense</c>
+
+00:06:17.030 --> 00:06:17.040 align:start position:0%
+similar to maybe how birds can you sense
+ 
+
+00:06:17.040 --> 00:06:19.510 align:start position:0%
+similar to maybe how birds can you sense
+that<00:06:17.130><c> what</c><00:06:17.520><c> the</c><00:06:17.550><c> sense</c><00:06:18.090><c> where</c><00:06:18.420><c> North</c><00:06:18.720><c> is</c><00:06:18.930><c> and</c>
+
+00:06:19.510 --> 00:06:19.520 align:start position:0%
+that what the sense where North is and
+ 
+
+00:06:19.520 --> 00:06:22.400 align:start position:0%
+that what the sense where North is and
+some<00:06:20.520><c> bizarre</c><00:06:20.910><c> example</c><00:06:21.450><c> but</c><00:06:21.690><c> if</c><00:06:21.810><c> you</c><00:06:21.930><c> plug</c><00:06:22.230><c> it</c>
+
+00:06:22.400 --> 00:06:22.410 align:start position:0%
+some bizarre example but if you plug it
+ 
+
+00:06:22.410 --> 00:06:24.620 align:start position:0%
+some bizarre example but if you plug it
+third<00:06:22.680><c> eye</c><00:06:22.890><c> into</c><00:06:23.340><c> the</c><00:06:23.460><c> frog</c><00:06:23.790><c> the</c><00:06:24.150><c> frog</c><00:06:24.180><c> will</c>
+
+00:06:24.620 --> 00:06:24.630 align:start position:0%
+third eye into the frog the frog will
+ 
+
+00:06:24.630 --> 00:06:27.920 align:start position:0%
+third eye into the frog the frog will
+learn<00:06:24.780><c> to</c><00:06:24.990><c> use</c><00:06:25.170><c> that</c><00:06:25.410><c> eye</c><00:06:25.440><c> as</c><00:06:25.770><c> well</c><00:06:26.540><c> so</c><00:06:27.540><c> it's</c>
+
+00:06:27.920 --> 00:06:27.930 align:start position:0%
+learn to use that eye as well so it's
+ 
+
+00:06:27.930 --> 00:06:30.860 align:start position:0%
+learn to use that eye as well so it's
+pretty<00:06:28.320><c> amazing</c><00:06:28.620><c> to</c><00:06:29.310><c> what</c><00:06:29.640><c> extent</c><00:06:30.090><c> is</c><00:06:30.270><c> as</c><00:06:30.540><c> if</c>
+
+00:06:30.860 --> 00:06:30.870 align:start position:0%
+pretty amazing to what extent is as if
+ 
+
+00:06:30.870 --> 00:06:32.960 align:start position:0%
+pretty amazing to what extent is as if
+you<00:06:31.020><c> can</c><00:06:31.200><c> plug</c><00:06:31.500><c> in</c><00:06:31.650><c> almost</c><00:06:31.980><c> any</c><00:06:32.280><c> sensor</c><00:06:32.730><c> to</c><00:06:32.880><c> the</c>
+
+00:06:32.960 --> 00:06:32.970 align:start position:0%
+you can plug in almost any sensor to the
+ 
+
+00:06:32.970 --> 00:06:35.360 align:start position:0%
+you can plug in almost any sensor to the
+brain<00:06:33.180><c> and</c><00:06:33.360><c> the</c><00:06:34.140><c> brains</c><00:06:34.410><c> learning</c><00:06:34.890><c> algorithm</c>
+
+00:06:35.360 --> 00:06:35.370 align:start position:0%
+brain and the brains learning algorithm
+ 
+
+00:06:35.370 --> 00:06:37.550 align:start position:0%
+brain and the brains learning algorithm
+will<00:06:35.640><c> just</c><00:06:35.880><c> figure</c><00:06:36.240><c> out</c><00:06:36.300><c> how</c><00:06:36.420><c> to</c><00:06:36.480><c> learn</c><00:06:37.260><c> from</c>
+
+00:06:37.550 --> 00:06:37.560 align:start position:0%
+will just figure out how to learn from
+ 
+
+00:06:37.560 --> 00:06:39.970 align:start position:0%
+will just figure out how to learn from
+dead<00:06:37.710><c> laser</c><00:06:37.920><c> and</c><00:06:38.400><c> view</c><00:06:38.820><c> of</c><00:06:38.970><c> that</c><00:06:39.120><c> data</c><00:06:39.420><c> and</c>
+
+00:06:39.970 --> 00:06:39.980 align:start position:0%
+dead laser and view of that data and
+ 
+
+00:06:39.980 --> 00:06:42.590 align:start position:0%
+dead laser and view of that data and
+there's<00:06:40.980><c> a</c><00:06:41.040><c> sense</c><00:06:41.250><c> that</c><00:06:41.340><c> if</c><00:06:41.700><c> we</c><00:06:41.730><c> can</c><00:06:42.000><c> figure</c>
+
+00:06:42.590 --> 00:06:42.600 align:start position:0%
+there's a sense that if we can figure
+ 
+
+00:06:42.600 --> 00:06:44.300 align:start position:0%
+there's a sense that if we can figure
+out<00:06:42.780><c> what</c><00:06:43.020><c> the</c><00:06:43.170><c> brains</c><00:06:43.410><c> learning</c><00:06:43.710><c> algorithm</c>
+
+00:06:44.300 --> 00:06:44.310 align:start position:0%
+out what the brains learning algorithm
+ 
+
+00:06:44.310 --> 00:06:46.430 align:start position:0%
+out what the brains learning algorithm
+is<00:06:44.520><c> and</c><00:06:44.820><c> you're</c><00:06:45.090><c> implemented</c><00:06:45.810><c> or</c><00:06:46.020><c> implement</c>
+
+00:06:46.430 --> 00:06:46.440 align:start position:0%
+is and you're implemented or implement
+ 
+
+00:06:46.440 --> 00:06:48.409 align:start position:0%
+is and you're implemented or implement
+some<00:06:46.770><c> approximation</c><00:06:47.310><c> to</c><00:06:47.700><c> that</c><00:06:47.850><c> algorithm</c><00:06:48.120><c> on</c>
+
+00:06:48.409 --> 00:06:48.419 align:start position:0%
+some approximation to that algorithm on
+ 
+
+00:06:48.419 --> 00:06:50.720 align:start position:0%
+some approximation to that algorithm on
+a<00:06:48.450><c> computer</c><00:06:48.960><c> maybe</c><00:06:49.590><c> that</c><00:06:49.890><c> would</c><00:06:50.070><c> be</c><00:06:50.190><c> a</c><00:06:50.460><c> bad</c>
+
+00:06:50.720 --> 00:06:50.730 align:start position:0%
+a computer maybe that would be a bad
+ 
+
+00:06:50.730 --> 00:06:52.100 align:start position:0%
+a computer maybe that would be a bad
+shot<00:06:51.060><c> it</c><00:06:51.330><c> you're</c><00:06:51.570><c> making</c><00:06:51.900><c> real</c><00:06:52.080><c> progress</c>
+
+00:06:52.100 --> 00:06:52.110 align:start position:0%
+shot it you're making real progress
+ 
+
+00:06:52.110 --> 00:06:54.860 align:start position:0%
+shot it you're making real progress
+towards<00:06:53.100><c> the</c><00:06:53.400><c> AI</c><00:06:53.940><c> the</c><00:06:54.390><c> artificial</c>
+
+00:06:54.860 --> 00:06:54.870 align:start position:0%
+towards the AI the artificial
+ 
+
+00:06:54.870 --> 00:06:56.690 align:start position:0%
+towards the AI the artificial
+intelligence<00:06:55.530><c> dream</c><00:06:55.800><c> of</c><00:06:56.040><c> someday</c><00:06:56.280><c> building</c>
+
+00:06:56.690 --> 00:06:56.700 align:start position:0%
+intelligence dream of someday building
+ 
+
+00:06:56.700 --> 00:06:59.720 align:start position:0%
+intelligence dream of someday building
+through<00:06:57.390><c> the</c><00:06:57.419><c> intelligent</c><00:06:58.080><c> machines</c><00:06:58.490><c> now</c><00:06:59.490><c> of</c>
+
+00:06:59.720 --> 00:06:59.730 align:start position:0%
+through the intelligent machines now of
+ 
+
+00:06:59.730 --> 00:07:01.970 align:start position:0%
+through the intelligent machines now of
+course<00:06:59.910><c> I'm</c><00:07:00.450><c> not</c><00:07:00.510><c> teaching</c><00:07:00.960><c> neural</c><00:07:01.530><c> networks</c>
+
+00:07:01.970 --> 00:07:01.980 align:start position:0%
+course I'm not teaching neural networks
+ 
+
+00:07:01.980 --> 00:07:03.710 align:start position:0%
+course I'm not teaching neural networks
+you<00:07:02.250><c> know</c><00:07:02.310><c> just</c><00:07:02.550><c> because</c><00:07:02.850><c> they</c><00:07:03.090><c> might</c><00:07:03.360><c> give</c><00:07:03.600><c> us</c>
+
+00:07:03.710 --> 00:07:03.720 align:start position:0%
+you know just because they might give us
+ 
+
+00:07:03.720 --> 00:07:05.930 align:start position:0%
+you know just because they might give us
+a<00:07:03.780><c> window</c><00:07:04.200><c> into</c><00:07:04.410><c> this</c><00:07:04.650><c> far</c><00:07:04.980><c> off</c><00:07:05.130><c> AI</c><00:07:05.340><c> dream</c><00:07:05.490><c> even</c>
+
+00:07:05.930 --> 00:07:05.940 align:start position:0%
+a window into this far off AI dream even
+ 
+
+00:07:05.940 --> 00:07:07.550 align:start position:0%
+a window into this far off AI dream even
+though<00:07:06.180><c> I'm</c><00:07:06.330><c> personally</c><00:07:06.750><c> that's</c><00:07:07.200><c> one</c><00:07:07.380><c> of</c><00:07:07.440><c> the</c>
+
+00:07:07.550 --> 00:07:07.560 align:start position:0%
+though I'm personally that's one of the
+ 
+
+00:07:07.560 --> 00:07:09.380 align:start position:0%
+though I'm personally that's one of the
+things<00:07:07.710><c> that</c><00:07:07.919><c> I</c><00:07:08.040><c> personally</c><00:07:08.100><c> work</c><00:07:08.700><c> on</c><00:07:08.910><c> in</c><00:07:09.270><c> my</c>
+
+00:07:09.380 --> 00:07:09.390 align:start position:0%
+things that I personally work on in my
+ 
+
+00:07:09.390 --> 00:07:11.810 align:start position:0%
+things that I personally work on in my
+research<00:07:09.750><c> life</c><00:07:10.100><c> but</c><00:07:11.100><c> the</c><00:07:11.160><c> main</c><00:07:11.430><c> reason</c><00:07:11.730><c> I'm</c>
+
+00:07:11.810 --> 00:07:11.820 align:start position:0%
+research life but the main reason I'm
+ 
+
+00:07:11.820 --> 00:07:13.220 align:start position:0%
+research life but the main reason I'm
+teaching<00:07:12.210><c> neural</c><00:07:12.360><c> networks</c><00:07:12.750><c> in</c><00:07:12.870><c> this</c><00:07:12.990><c> class</c>
+
+00:07:13.220 --> 00:07:13.230 align:start position:0%
+teaching neural networks in this class
+ 
+
+00:07:13.230 --> 00:07:14.780 align:start position:0%
+teaching neural networks in this class
+is<00:07:13.440><c> because</c><00:07:13.590><c> it's</c><00:07:14.040><c> actually</c><00:07:14.280><c> a</c><00:07:14.490><c> very</c>
+
+00:07:14.780 --> 00:07:14.790 align:start position:0%
+is because it's actually a very
+ 
+
+00:07:14.790 --> 00:07:17.450 align:start position:0%
+is because it's actually a very
+effective<00:07:14.960><c> study</c><00:07:15.960><c> art</c><00:07:16.260><c> technique</c><00:07:16.710><c> for</c><00:07:17.070><c> modern</c>
+
+00:07:17.450 --> 00:07:17.460 align:start position:0%
+effective study art technique for modern
+ 
+
+00:07:17.460 --> 00:07:20.060 align:start position:0%
+effective study art technique for modern
+day<00:07:17.610><c> machine</c><00:07:17.940><c> learning</c><00:07:18.240><c> applications</c><00:07:18.840><c> so</c><00:07:19.740><c> in</c>
+
+00:07:20.060 --> 00:07:20.070 align:start position:0%
+day machine learning applications so in
+ 
+
+00:07:20.070 --> 00:07:21.950 align:start position:0%
+day machine learning applications so in
+the<00:07:20.340><c> next</c><00:07:20.580><c> few</c><00:07:20.820><c> videos</c><00:07:20.940><c> we'll</c><00:07:21.390><c> start</c><00:07:21.660><c> diving</c>
+
+00:07:21.950 --> 00:07:21.960 align:start position:0%
+the next few videos we'll start diving
+ 
+
+00:07:21.960 --> 00:07:23.930 align:start position:0%
+the next few videos we'll start diving
+into<00:07:22.320><c> the</c><00:07:22.530><c> technical</c><00:07:22.979><c> details</c><00:07:23.460><c> of</c><00:07:23.640><c> neural</c>
+
+00:07:23.930 --> 00:07:23.940 align:start position:0%
+into the technical details of neural
+ 
+
+00:07:23.940 --> 00:07:26.480 align:start position:0%
+into the technical details of neural
+networks<00:07:24.330><c> so</c><00:07:25.169><c> that</c><00:07:25.200><c> you</c><00:07:25.440><c> can</c><00:07:25.620><c> apply</c><00:07:25.860><c> them</c><00:07:26.190><c> to</c>
+
+00:07:26.480 --> 00:07:26.490 align:start position:0%
+networks so that you can apply them to
+ 
+
+00:07:26.490 --> 00:07:28.370 align:start position:0%
+networks so that you can apply them to
+modern<00:07:27.000><c> day</c><00:07:27.150><c> machine</c><00:07:27.479><c> learning</c><00:07:27.780><c> applications</c>
+
+00:07:28.370 --> 00:07:28.380 align:start position:0%
+modern day machine learning applications
+ 
+
+00:07:28.380 --> 00:07:29.870 align:start position:0%
+modern day machine learning applications
+and<00:07:28.620><c> get</c><00:07:28.710><c> them</c><00:07:28.919><c> to</c><00:07:29.040><c> work</c><00:07:29.190><c> well</c><00:07:29.490><c> one</c><00:07:29.640><c> on</c>
+
+00:07:29.870 --> 00:07:29.880 align:start position:0%
+and get them to work well one on
+ 
+
+00:07:29.880 --> 00:07:32.540 align:start position:0%
+and get them to work well one on
+problems<00:07:30.419><c> but</c><00:07:31.290><c> for</c><00:07:31.710><c> me</c><00:07:31.830><c> you</c><00:07:32.040><c> know</c><00:07:32.160><c> one</c><00:07:32.340><c> of</c><00:07:32.370><c> the</c>
+
+00:07:32.540 --> 00:07:32.550 align:start position:0%
+problems but for me you know one of the
+ 
+
+00:07:32.550 --> 00:07:35.150 align:start position:0%
+problems but for me you know one of the
+reasons<00:07:32.910><c> they</c><00:07:33.060><c> excite</c><00:07:33.360><c> me</c><00:07:33.570><c> is</c><00:07:33.840><c> that</c><00:07:34.160><c> maybe</c>
+
+00:07:35.150 --> 00:07:35.160 align:start position:0%
+reasons they excite me is that maybe
+ 
+
+00:07:35.160 --> 00:07:38.030 align:start position:0%
+reasons they excite me is that maybe
+they<00:07:35.340><c> give</c><00:07:35.550><c> us</c><00:07:35.729><c> this</c><00:07:36.090><c> this</c><00:07:36.360><c> window</c><00:07:36.660><c> into</c><00:07:37.440><c> what</c>
+
+00:07:38.030 --> 00:07:38.040 align:start position:0%
+they give us this this window into what
+ 
+
+00:07:38.040 --> 00:07:41.780 align:start position:0%
+they give us this this window into what
+we<00:07:38.160><c> might</c><00:07:38.190><c> do</c><00:07:38.520><c> if</c><00:07:38.820><c> we're</c><00:07:39.090><c> also</c><00:07:40.490><c> thinking</c><00:07:41.490><c> of</c>
+
+00:07:41.780 --> 00:07:41.790 align:start position:0%
+we might do if we're also thinking of
+ 
+
+00:07:41.790 --> 00:07:44.000 align:start position:0%
+we might do if we're also thinking of
+what<00:07:42.090><c> algorithms</c><00:07:42.600><c> might</c><00:07:42.840><c> someday</c><00:07:43.110><c> be</c><00:07:43.740><c> able</c><00:07:43.830><c> to</c>
+
+00:07:44.000 --> 00:07:44.010 align:start position:0%
+what algorithms might someday be able to
+ 
+
+00:07:44.010 --> 00:07:48.650 align:start position:0%
+what algorithms might someday be able to
+learn<00:07:44.370><c> in</c><00:07:44.669><c> man</c><00:07:45.120><c> and</c><00:07:45.390><c> similar</c><00:07:45.840><c> to</c><00:07:46.050><c> humans</c><00:07:46.440><c> can</c>
+

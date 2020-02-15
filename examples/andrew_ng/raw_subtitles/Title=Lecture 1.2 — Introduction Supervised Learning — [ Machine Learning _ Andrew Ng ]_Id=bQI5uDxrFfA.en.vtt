@@ -1,0 +1,2400 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:01.640 align:start position:0%
+ 
+in<00:00:00.240><c> this</c><00:00:00.450><c> video</c><00:00:00.780><c> I'm</c><00:00:01.020><c> going</c><00:00:01.260><c> to</c><00:00:01.350><c> define</c>
+
+00:00:01.640 --> 00:00:01.650 align:start position:0%
+in this video I'm going to define
+ 
+
+00:00:01.650 --> 00:00:03.290 align:start position:0%
+in this video I'm going to define
+whether<00:00:01.979><c> it's</c><00:00:02.100><c> probably</c><00:00:02.550><c> the</c><00:00:02.669><c> most</c><00:00:02.820><c> common</c>
+
+00:00:03.290 --> 00:00:03.300 align:start position:0%
+whether it's probably the most common
+ 
+
+00:00:03.300 --> 00:00:05.090 align:start position:0%
+whether it's probably the most common
+type<00:00:03.480><c> of</c><00:00:03.510><c> machine</c><00:00:03.899><c> learning</c><00:00:04.020><c> problem</c><00:00:04.650><c> which</c>
+
+00:00:05.090 --> 00:00:05.100 align:start position:0%
+type of machine learning problem which
+ 
+
+00:00:05.100 --> 00:00:07.309 align:start position:0%
+type of machine learning problem which
+is<00:00:05.250><c> supervised</c><00:00:05.580><c> learning</c><00:00:05.759><c> I'll</c><00:00:06.660><c> define</c>
+
+00:00:07.309 --> 00:00:07.319 align:start position:0%
+is supervised learning I'll define
+ 
+
+00:00:07.319 --> 00:00:08.990 align:start position:0%
+is supervised learning I'll define
+supervised<00:00:07.799><c> learning</c><00:00:07.830><c> more</c><00:00:08.370><c> formally</c><00:00:08.970><c> later</c>
+
+00:00:08.990 --> 00:00:09.000 align:start position:0%
+supervised learning more formally later
+ 
+
+00:00:09.000 --> 00:00:11.780 align:start position:0%
+supervised learning more formally later
+but<00:00:09.870><c> it's</c><00:00:10.019><c> probably</c><00:00:10.290><c> best</c><00:00:10.740><c> to</c><00:00:10.950><c> explain</c><00:00:11.519><c> I'll</c>
+
+00:00:11.780 --> 00:00:11.790 align:start position:0%
+but it's probably best to explain I'll
+ 
+
+00:00:11.790 --> 00:00:14.030 align:start position:0%
+but it's probably best to explain I'll
+start<00:00:12.030><c> with</c><00:00:12.150><c> an</c><00:00:12.300><c> example</c><00:00:12.660><c> of</c><00:00:13.049><c> what</c><00:00:13.290><c> it</c><00:00:13.380><c> is</c><00:00:13.530><c> and</c>
+
+00:00:14.030 --> 00:00:14.040 align:start position:0%
+start with an example of what it is and
+ 
+
+00:00:14.040 --> 00:00:16.750 align:start position:0%
+start with an example of what it is and
+we'll<00:00:14.190><c> do</c><00:00:14.340><c> the</c><00:00:14.460><c> formal</c><00:00:14.790><c> definition</c><00:00:15.299><c> later</c>
+
+00:00:16.750 --> 00:00:16.760 align:start position:0%
+we'll do the formal definition later
+ 
+
+00:00:16.760 --> 00:00:18.890 align:start position:0%
+we'll do the formal definition later
+let's<00:00:17.760><c> say</c><00:00:17.940><c> you</c><00:00:18.000><c> want</c><00:00:18.240><c> to</c><00:00:18.330><c> predict</c><00:00:18.630><c> housing</c>
+
+00:00:18.890 --> 00:00:18.900 align:start position:0%
+let's say you want to predict housing
+ 
+
+00:00:18.900 --> 00:00:21.800 align:start position:0%
+let's say you want to predict housing
+prices<00:00:19.109><c> a</c><00:00:19.710><c> while</c><00:00:20.340><c> back</c><00:00:20.550><c> a</c><00:00:20.580><c> student</c><00:00:21.210><c> collected</c>
+
+00:00:21.800 --> 00:00:21.810 align:start position:0%
+prices a while back a student collected
+ 
+
+00:00:21.810 --> 00:00:24.230 align:start position:0%
+prices a while back a student collected
+data<00:00:22.140><c> sets</c><00:00:22.439><c> from</c><00:00:22.890><c> the</c><00:00:23.160><c> city</c><00:00:23.880><c> of</c><00:00:23.910><c> Portland</c>
+
+00:00:24.230 --> 00:00:24.240 align:start position:0%
+data sets from the city of Portland
+ 
+
+00:00:24.240 --> 00:00:27.109 align:start position:0%
+data sets from the city of Portland
+Oregon<00:00:24.750><c> and</c><00:00:25.470><c> let's</c><00:00:26.310><c> say</c><00:00:26.490><c> you</c><00:00:26.550><c> plot</c><00:00:26.939><c> the</c><00:00:27.090><c> data</c>
+
+00:00:27.109 --> 00:00:27.119 align:start position:0%
+Oregon and let's say you plot the data
+ 
+
+00:00:27.119 --> 00:00:29.750 align:start position:0%
+Oregon and let's say you plot the data
+set<00:00:27.599><c> and</c><00:00:27.840><c> it</c><00:00:27.990><c> looks</c><00:00:28.140><c> like</c><00:00:28.320><c> this</c><00:00:28.550><c> here</c><00:00:29.550><c> on</c><00:00:29.670><c> the</c>
+
+00:00:29.750 --> 00:00:29.760 align:start position:0%
+set and it looks like this here on the
+ 
+
+00:00:29.760 --> 00:00:31.790 align:start position:0%
+set and it looks like this here on the
+horizontal<00:00:29.880><c> axis</c><00:00:30.390><c> the</c><00:00:31.170><c> size</c><00:00:31.470><c> of</c><00:00:31.650><c> different</c>
+
+00:00:31.790 --> 00:00:31.800 align:start position:0%
+horizontal axis the size of different
+ 
+
+00:00:31.800 --> 00:00:33.680 align:start position:0%
+horizontal axis the size of different
+houses<00:00:32.070><c> and</c><00:00:32.399><c> square</c><00:00:32.669><c> feet</c><00:00:32.880><c> and</c><00:00:33.239><c> on</c><00:00:33.570><c> the</c>
+
+00:00:33.680 --> 00:00:33.690 align:start position:0%
+houses and square feet and on the
+ 
+
+00:00:33.690 --> 00:00:36.080 align:start position:0%
+houses and square feet and on the
+vertical<00:00:33.989><c> axis</c><00:00:34.500><c> the</c><00:00:34.710><c> practice</c><00:00:35.430><c> of</c><00:00:35.670><c> different</c>
+
+00:00:36.080 --> 00:00:36.090 align:start position:0%
+vertical axis the practice of different
+ 
+
+00:00:36.090 --> 00:00:40.490 align:start position:0%
+vertical axis the practice of different
+houses<00:00:36.270><c> in</c><00:00:36.809><c> thousands</c><00:00:37.649><c> of</c><00:00:37.739><c> dollars</c><00:00:38.300><c> so</c><00:00:39.500><c> given</c>
+
+00:00:40.490 --> 00:00:40.500 align:start position:0%
+houses in thousands of dollars so given
+ 
+
+00:00:40.500 --> 00:00:42.860 align:start position:0%
+houses in thousands of dollars so given
+this<00:00:40.649><c> data</c><00:00:40.890><c> let's</c><00:00:41.850><c> say</c><00:00:42.090><c> you</c><00:00:42.149><c> have</c><00:00:42.450><c> a</c><00:00:42.480><c> friend</c>
+
+00:00:42.860 --> 00:00:42.870 align:start position:0%
+this data let's say you have a friend
+ 
+
+00:00:42.870 --> 00:00:46.670 align:start position:0%
+this data let's say you have a friend
+who<00:00:43.170><c> owns</c><00:00:43.200><c> a</c><00:00:43.620><c> house</c><00:00:43.860><c> that</c><00:00:44.280><c> is</c><00:00:44.640><c> saying</c><00:00:45.680><c> 750</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+who owns a house that is saying 750
+ 
+
+00:00:46.680 --> 00:00:49.010 align:start position:0%
+who owns a house that is saying 750
+square<00:00:46.920><c> feet</c><00:00:47.280><c> and</c><00:00:47.579><c> they're</c><00:00:48.390><c> hoping</c><00:00:48.629><c> to</c><00:00:48.780><c> sell</c>
+
+00:00:49.010 --> 00:00:49.020 align:start position:0%
+square feet and they're hoping to sell
+ 
+
+00:00:49.020 --> 00:00:50.510 align:start position:0%
+square feet and they're hoping to sell
+the<00:00:49.140><c> house</c><00:00:49.320><c> and</c><00:00:49.350><c> they</c><00:00:49.680><c> want</c><00:00:49.829><c> to</c><00:00:49.920><c> know</c><00:00:50.070><c> how</c><00:00:50.340><c> much</c>
+
+00:00:50.510 --> 00:00:50.520 align:start position:0%
+the house and they want to know how much
+ 
+
+00:00:50.520 --> 00:00:53.060 align:start position:0%
+the house and they want to know how much
+they<00:00:50.789><c> can</c><00:00:50.850><c> get</c><00:00:51.180><c> for</c><00:00:51.329><c> the</c><00:00:51.420><c> house</c><00:00:51.559><c> so</c><00:00:52.559><c> how</c><00:00:52.920><c> can</c>
+
+00:00:53.060 --> 00:00:53.070 align:start position:0%
+they can get for the house so how can
+ 
+
+00:00:53.070 --> 00:00:55.189 align:start position:0%
+they can get for the house so how can
+the<00:00:53.160><c> learning</c><00:00:53.489><c> algorithm</c><00:00:53.820><c> help</c><00:00:54.000><c> you</c><00:00:54.199><c> one</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+the learning algorithm help you one
+ 
+
+00:00:55.199 --> 00:00:56.540 align:start position:0%
+the learning algorithm help you one
+thing<00:00:55.410><c> a</c><00:00:55.500><c> learning</c><00:00:55.829><c> algorithm</c><00:00:56.039><c> might</c><00:00:56.280><c> be</c><00:00:56.399><c> able</c>
+
+00:00:56.540 --> 00:00:56.550 align:start position:0%
+thing a learning algorithm might be able
+ 
+
+00:00:56.550 --> 00:00:58.910 align:start position:0%
+thing a learning algorithm might be able
+to<00:00:56.640><c> do</c><00:00:56.789><c> is</c><00:00:57.090><c> put</c><00:00:58.020><c> a</c><00:00:58.050><c> straight</c><00:00:58.379><c> line</c><00:00:58.410><c> through</c><00:00:58.590><c> the</c>
+
+00:00:58.910 --> 00:00:58.920 align:start position:0%
+to do is put a straight line through the
+ 
+
+00:00:58.920 --> 00:01:00.590 align:start position:0%
+to do is put a straight line through the
+date<00:00:59.100><c> arrow</c><00:00:59.399><c> so</c><00:00:59.670><c> the</c><00:00:59.789><c> fit</c><00:01:00.030><c> a</c><00:01:00.059><c> straight</c><00:01:00.359><c> line</c><00:01:00.420><c> to</c>
+
+00:01:00.590 --> 00:01:00.600 align:start position:0%
+date arrow so the fit a straight line to
+ 
+
+00:01:00.600 --> 00:01:04.660 align:start position:0%
+date arrow so the fit a straight line to
+the<00:01:00.899><c> data</c><00:01:01.050><c> and</c><00:01:01.850><c> based</c><00:01:02.850><c> on</c><00:01:03.030><c> that</c><00:01:03.090><c> it</c><00:01:03.870><c> looks</c><00:01:03.930><c> like</c>
+
+00:01:04.660 --> 00:01:04.670 align:start position:0%
+the data and based on that it looks like
+ 
+
+00:01:04.670 --> 00:01:08.179 align:start position:0%
+the data and based on that it looks like
+maybe<00:01:05.670><c> their</c><00:01:05.909><c> holes</c><00:01:06.180><c> can</c><00:01:06.600><c> be</c><00:01:06.630><c> so</c><00:01:07.020><c> full</c><00:01:07.409><c> maybe</c>
+
+00:01:08.179 --> 00:01:08.189 align:start position:0%
+maybe their holes can be so full maybe
+ 
+
+00:01:08.189 --> 00:01:11.510 align:start position:0%
+maybe their holes can be so full maybe
+about<00:01:08.549><c> 150</c><00:01:09.270><c> thousand</c><00:01:09.659><c> dollars</c><00:01:10.340><c> but</c><00:01:11.340><c> maybe</c>
+
+00:01:11.510 --> 00:01:11.520 align:start position:0%
+about 150 thousand dollars but maybe
+ 
+
+00:01:11.520 --> 00:01:13.130 align:start position:0%
+about 150 thousand dollars but maybe
+this<00:01:11.760><c> isn't</c><00:01:11.909><c> the</c><00:01:12.090><c> only</c><00:01:12.450><c> learning</c><00:01:12.659><c> algorithm</c>
+
+00:01:13.130 --> 00:01:13.140 align:start position:0%
+this isn't the only learning algorithm
+ 
+
+00:01:13.140 --> 00:01:14.990 align:start position:0%
+this isn't the only learning algorithm
+you<00:01:13.200><c> can</c><00:01:13.229><c> use</c><00:01:13.590><c> and</c><00:01:13.950><c> it</c><00:01:14.369><c> might</c><00:01:14.520><c> be</c><00:01:14.610><c> a</c><00:01:14.640><c> better</c><00:01:14.850><c> one</c>
+
+00:01:14.990 --> 00:01:15.000 align:start position:0%
+you can use and it might be a better one
+ 
+
+00:01:15.000 --> 00:01:17.840 align:start position:0%
+you can use and it might be a better one
+for<00:01:15.990><c> example</c><00:01:16.439><c> instead</c><00:01:17.340><c> of</c><00:01:17.520><c> fitting</c><00:01:17.700><c> a</c>
+
+00:01:17.840 --> 00:01:17.850 align:start position:0%
+for example instead of fitting a
+ 
+
+00:01:17.850 --> 00:01:19.249 align:start position:0%
+for example instead of fitting a
+straight<00:01:17.880><c> line</c><00:01:18.150><c> to</c><00:01:18.509><c> the</c><00:01:18.630><c> data</c><00:01:18.659><c> we</c><00:01:19.110><c> might</c>
+
+00:01:19.249 --> 00:01:19.259 align:start position:0%
+straight line to the data we might
+ 
+
+00:01:19.259 --> 00:01:20.780 align:start position:0%
+straight line to the data we might
+decide<00:01:19.530><c> that</c><00:01:19.590><c> it's</c><00:01:19.950><c> better</c><00:01:19.979><c> to</c><00:01:20.280><c> fill</c><00:01:20.759><c> a</c>
+
+00:01:20.780 --> 00:01:20.790 align:start position:0%
+decide that it's better to fill a
+ 
+
+00:01:20.790 --> 00:01:22.670 align:start position:0%
+decide that it's better to fill a
+quadratic<00:01:21.420><c> function</c><00:01:21.720><c> or</c><00:01:22.170><c> a</c><00:01:22.290><c> second-order</c>
+
+00:01:22.670 --> 00:01:22.680 align:start position:0%
+quadratic function or a second-order
+ 
+
+00:01:22.680 --> 00:01:23.539 align:start position:0%
+quadratic function or a second-order
+polynomial
+
+00:01:23.539 --> 00:01:23.549 align:start position:0%
+polynomial
+ 
+
+00:01:23.549 --> 00:01:26.749 align:start position:0%
+polynomial
+to<00:01:24.150><c> this</c><00:01:24.299><c> data</c><00:01:24.570><c> and</c><00:01:24.990><c> if</c><00:01:25.680><c> you</c><00:01:25.799><c> do</c><00:01:25.979><c> that</c><00:01:26.250><c> to</c><00:01:26.580><c> make</c>
+
+00:01:26.749 --> 00:01:26.759 align:start position:0%
+to this data and if you do that to make
+ 
+
+00:01:26.759 --> 00:01:29.319 align:start position:0%
+to this data and if you do that to make
+a<00:01:26.790><c> prediction</c><00:01:27.150><c> here</c><00:01:27.750><c> then</c><00:01:28.680><c> it</c><00:01:28.860><c> looks</c><00:01:29.070><c> like</c>
+
+00:01:29.319 --> 00:01:29.329 align:start position:0%
+a prediction here then it looks like
+ 
+
+00:01:29.329 --> 00:01:32.060 align:start position:0%
+a prediction here then it looks like
+well<00:01:30.329><c> maybe</c><00:01:30.689><c> they</c><00:01:30.930><c> can</c><00:01:31.079><c> sell</c><00:01:31.320><c> the</c><00:01:31.500><c> house</c><00:01:31.710><c> well</c>
+
+00:01:32.060 --> 00:01:32.070 align:start position:0%
+well maybe they can sell the house well
+ 
+
+00:01:32.070 --> 00:01:35.960 align:start position:0%
+well maybe they can sell the house well
+closer<00:01:32.880><c> to</c><00:01:33.500><c> $200,000</c><00:01:34.579><c> one</c><00:01:35.579><c> of</c><00:01:35.700><c> the</c><00:01:35.790><c> things</c>
+
+00:01:35.960 --> 00:01:35.970 align:start position:0%
+closer to $200,000 one of the things
+ 
+
+00:01:35.970 --> 00:01:37.940 align:start position:0%
+closer to $200,000 one of the things
+we'll<00:01:36.119><c> talk</c><00:01:36.150><c> about</c><00:01:36.420><c> later</c><00:01:36.540><c> is</c><00:01:37.140><c> how</c><00:01:37.500><c> to</c><00:01:37.560><c> choose</c>
+
+00:01:37.940 --> 00:01:37.950 align:start position:0%
+we'll talk about later is how to choose
+ 
+
+00:01:37.950 --> 00:01:40.340 align:start position:0%
+we'll talk about later is how to choose
+and<00:01:38.340><c> how</c><00:01:38.430><c> to</c><00:01:38.490><c> decide</c><00:01:38.939><c> do</c><00:01:39.689><c> you</c><00:01:39.750><c> want</c><00:01:39.810><c> to</c><00:01:40.110><c> fit</c><00:01:40.320><c> a</c>
+
+00:01:40.340 --> 00:01:40.350 align:start position:0%
+and how to decide do you want to fit a
+ 
+
+00:01:40.350 --> 00:01:42.260 align:start position:0%
+and how to decide do you want to fit a
+straight<00:01:40.470><c> line</c><00:01:40.680><c> to</c><00:01:41.009><c> the</c><00:01:41.040><c> data</c><00:01:41.250><c> or</c><00:01:41.759><c> do</c><00:01:42.030><c> you</c><00:01:42.119><c> want</c>
+
+00:01:42.260 --> 00:01:42.270 align:start position:0%
+straight line to the data or do you want
+ 
+
+00:01:42.270 --> 00:01:44.149 align:start position:0%
+straight line to the data or do you want
+to<00:01:42.360><c> fit</c><00:01:42.479><c> a</c><00:01:42.509><c> quadratic</c><00:01:42.600><c> function</c><00:01:43.200><c> the</c><00:01:43.530><c> data</c><00:01:43.740><c> and</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+to fit a quadratic function the data and
+ 
+
+00:01:44.159 --> 00:01:46.100 align:start position:0%
+to fit a quadratic function the data and
+there's<00:01:44.610><c> no</c><00:01:44.820><c> fair</c><00:01:45.090><c> picking</c><00:01:45.299><c> whichever</c><00:01:45.840><c> one</c>
+
+00:01:46.100 --> 00:01:46.110 align:start position:0%
+there's no fair picking whichever one
+ 
+
+00:01:46.110 --> 00:01:47.810 align:start position:0%
+there's no fair picking whichever one
+gives<00:01:46.350><c> your</c><00:01:46.530><c> friend</c><00:01:46.860><c> the</c><00:01:47.070><c> better</c><00:01:47.250><c> house</c><00:01:47.579><c> to</c>
+
+00:01:47.810 --> 00:01:47.820 align:start position:0%
+gives your friend the better house to
+ 
+
+00:01:47.820 --> 00:01:50.270 align:start position:0%
+gives your friend the better house to
+sell<00:01:48.290><c> but</c><00:01:49.290><c> each</c><00:01:49.500><c> of</c><00:01:49.530><c> these</c><00:01:49.710><c> would</c><00:01:49.920><c> be</c><00:01:50.040><c> a</c><00:01:50.070><c> fine</c>
+
+00:01:50.270 --> 00:01:50.280 align:start position:0%
+sell but each of these would be a fine
+ 
+
+00:01:50.280 --> 00:01:53.719 align:start position:0%
+sell but each of these would be a fine
+example<00:01:50.850><c> of</c><00:01:51.030><c> a</c><00:01:51.119><c> learning</c><00:01:51.149><c> algorithm</c><00:01:51.950><c> so</c><00:01:52.950><c> this</c>
+
+00:01:53.719 --> 00:01:53.729 align:start position:0%
+example of a learning algorithm so this
+ 
+
+00:01:53.729 --> 00:01:56.060 align:start position:0%
+example of a learning algorithm so this
+is<00:01:53.820><c> an</c><00:01:53.909><c> example</c><00:01:54.210><c> of</c><00:01:54.689><c> a</c><00:01:55.079><c> supervised</c><00:01:55.710><c> learning</c>
+
+00:01:56.060 --> 00:01:56.070 align:start position:0%
+is an example of a supervised learning
+ 
+
+00:01:56.070 --> 00:01:59.330 align:start position:0%
+is an example of a supervised learning
+algorithm<00:01:57.000><c> and</c><00:01:57.149><c> the</c><00:01:57.990><c> term</c><00:01:58.340><c> supervised</c>
+
+00:01:59.330 --> 00:01:59.340 align:start position:0%
+algorithm and the term supervised
+ 
+
+00:01:59.340 --> 00:02:02.209 align:start position:0%
+algorithm and the term supervised
+learning<00:01:59.659><c> refers</c><00:02:00.659><c> to</c><00:02:00.689><c> the</c><00:02:00.960><c> fact</c><00:02:01.229><c> that</c><00:02:01.439><c> we</c><00:02:01.950><c> gave</c>
+
+00:02:02.209 --> 00:02:02.219 align:start position:0%
+learning refers to the fact that we gave
+ 
+
+00:02:02.219 --> 00:02:04.609 align:start position:0%
+learning refers to the fact that we gave
+the<00:02:02.520><c> algorithm</c><00:02:02.790><c> a</c><00:02:03.149><c> data</c><00:02:03.450><c> set</c><00:02:03.780><c> in</c><00:02:04.049><c> which</c><00:02:04.350><c> the</c>
+
+00:02:04.609 --> 00:02:04.619 align:start position:0%
+the algorithm a data set in which the
+ 
+
+00:02:04.619 --> 00:02:08.059 align:start position:0%
+the algorithm a data set in which the
+right<00:02:05.369><c> answers</c><00:02:05.880><c> were</c><00:02:06.180><c> given</c><00:02:06.390><c> that</c><00:02:07.259><c> is</c><00:02:07.469><c> we</c><00:02:07.890><c> gave</c>
+
+00:02:08.059 --> 00:02:08.069 align:start position:0%
+right answers were given that is we gave
+ 
+
+00:02:08.069 --> 00:02:10.669 align:start position:0%
+right answers were given that is we gave
+it<00:02:08.220><c> a</c><00:02:08.280><c> data</c><00:02:08.489><c> set</c><00:02:08.789><c> of</c><00:02:09.030><c> houses</c><00:02:09.690><c> in</c><00:02:09.929><c> which</c><00:02:10.170><c> for</c>
+
+00:02:10.669 --> 00:02:10.679 align:start position:0%
+it a data set of houses in which for
+ 
+
+00:02:10.679 --> 00:02:11.880 align:start position:0%
+it a data set of houses in which for
+every<00:02:11.099><c> exam</c>
+
+00:02:11.880 --> 00:02:11.890 align:start position:0%
+every exam
+ 
+
+00:02:11.890 --> 00:02:14.940 align:start position:0%
+every exam
+all<00:02:12.010><c> in</c><00:02:12.220><c> this</c><00:02:12.700><c> data</c><00:02:13.180><c> set</c><00:02:13.510><c> we</c><00:02:13.720><c> told</c><00:02:14.380><c> it</c><00:02:14.560><c> what</c><00:02:14.800><c> is</c>
+
+00:02:14.940 --> 00:02:14.950 align:start position:0%
+all in this data set we told it what is
+ 
+
+00:02:14.950 --> 00:02:16.980 align:start position:0%
+all in this data set we told it what is
+the<00:02:15.160><c> right</c><00:02:15.490><c> price</c><00:02:15.760><c> what</c><00:02:16.569><c> was</c><00:02:16.660><c> the</c><00:02:16.810><c> actual</c>
+
+00:02:16.980 --> 00:02:16.990 align:start position:0%
+the right price what was the actual
+ 
+
+00:02:16.990 --> 00:02:20.580 align:start position:0%
+the right price what was the actual
+price<00:02:17.560><c> that</c><00:02:18.160><c> that</c><00:02:18.340><c> holds</c><00:02:18.760><c> so</c><00:02:19.120><c> for</c><00:02:19.450><c> and</c><00:02:19.720><c> the</c><00:02:20.350><c> TAS</c>
+
+00:02:20.580 --> 00:02:20.590 align:start position:0%
+price that that holds so for and the TAS
+ 
+
+00:02:20.590 --> 00:02:22.500 align:start position:0%
+price that that holds so for and the TAS
+of<00:02:20.770><c> the</c><00:02:20.890><c> algorithm</c><00:02:21.370><c> was</c><00:02:21.610><c> to</c><00:02:21.819><c> just</c><00:02:22.060><c> produce</c>
+
+00:02:22.500 --> 00:02:22.510 align:start position:0%
+of the algorithm was to just produce
+ 
+
+00:02:22.510 --> 00:02:25.680 align:start position:0%
+of the algorithm was to just produce
+more<00:02:23.110><c> of</c><00:02:23.170><c> these</c><00:02:23.680><c> right</c><00:02:23.740><c> answers</c><00:02:24.640><c> such</c><00:02:25.240><c> as</c><00:02:25.450><c> for</c>
+
+00:02:25.680 --> 00:02:25.690 align:start position:0%
+more of these right answers such as for
+ 
+
+00:02:25.690 --> 00:02:27.600 align:start position:0%
+more of these right answers such as for
+this<00:02:25.840><c> new</c><00:02:25.990><c> house</c><00:02:26.230><c> you</c><00:02:26.950><c> know</c><00:02:27.040><c> that</c><00:02:27.250><c> your</c><00:02:27.370><c> friend</c>
+
+00:02:27.600 --> 00:02:27.610 align:start position:0%
+this new house you know that your friend
+ 
+
+00:02:27.610 --> 00:02:30.210 align:start position:0%
+this new house you know that your friend
+may<00:02:27.700><c> be</c><00:02:27.730><c> trying</c><00:02:28.000><c> to</c><00:02:28.060><c> sell</c><00:02:28.270><c> to</c><00:02:28.950><c> define</c><00:02:29.950><c> a</c><00:02:29.980><c> bit</c>
+
+00:02:30.210 --> 00:02:30.220 align:start position:0%
+may be trying to sell to define a bit
+ 
+
+00:02:30.220 --> 00:02:32.730 align:start position:0%
+may be trying to sell to define a bit
+more<00:02:30.340><c> terminology</c><00:02:30.550><c> this</c><00:02:31.540><c> is</c><00:02:31.600><c> also</c><00:02:32.140><c> called</c><00:02:32.530><c> a</c>
+
+00:02:32.730 --> 00:02:32.740 align:start position:0%
+more terminology this is also called a
+ 
+
+00:02:32.740 --> 00:02:35.550 align:start position:0%
+more terminology this is also called a
+regression<00:02:33.340><c> problem</c><00:02:33.580><c> and</c><00:02:34.330><c> by</c><00:02:35.170><c> regression</c>
+
+00:02:35.550 --> 00:02:35.560 align:start position:0%
+regression problem and by regression
+ 
+
+00:02:35.560 --> 00:02:37.440 align:start position:0%
+regression problem and by regression
+problem<00:02:36.040><c> I</c><00:02:36.190><c> mean</c><00:02:36.370><c> we're</c><00:02:36.520><c> trying</c><00:02:36.700><c> to</c><00:02:36.940><c> predict</c><00:02:37.300><c> a</c>
+
+00:02:37.440 --> 00:02:37.450 align:start position:0%
+problem I mean we're trying to predict a
+ 
+
+00:02:37.450 --> 00:02:40.370 align:start position:0%
+problem I mean we're trying to predict a
+continuous<00:02:37.750><c> value</c><00:02:38.410><c> output</c><00:02:39.130><c> namely</c><00:02:39.700><c> the</c><00:02:40.030><c> price</c>
+
+00:02:40.370 --> 00:02:40.380 align:start position:0%
+continuous value output namely the price
+ 
+
+00:02:40.380 --> 00:02:42.780 align:start position:0%
+continuous value output namely the price
+so<00:02:41.380><c> technically</c><00:02:41.830><c> against</c><00:02:42.160><c> prices</c><00:02:42.580><c> can</c><00:02:42.760><c> be</c>
+
+00:02:42.780 --> 00:02:42.790 align:start position:0%
+so technically against prices can be
+ 
+
+00:02:42.790 --> 00:02:44.430 align:start position:0%
+so technically against prices can be
+rounded<00:02:43.209><c> off</c><00:02:43.390><c> to</c><00:02:43.420><c> the</c><00:02:43.660><c> nearest</c><00:02:43.750><c> cent</c>
+
+00:02:44.430 --> 00:02:44.440 align:start position:0%
+rounded off to the nearest cent
+ 
+
+00:02:44.440 --> 00:02:46.680 align:start position:0%
+rounded off to the nearest cent
+so<00:02:44.560><c> maybe</c><00:02:44.800><c> prices</c><00:02:45.580><c> are</c><00:02:45.820><c> actually</c><00:02:45.970><c> discrete</c>
+
+00:02:46.680 --> 00:02:46.690 align:start position:0%
+so maybe prices are actually discrete
+ 
+
+00:02:46.690 --> 00:02:48.540 align:start position:0%
+so maybe prices are actually discrete
+value<00:02:47.140><c> but</c><00:02:47.440><c> usually</c><00:02:47.770><c> we</c><00:02:47.890><c> think</c><00:02:47.920><c> of</c><00:02:48.130><c> the</c><00:02:48.250><c> price</c>
+
+00:02:48.540 --> 00:02:48.550 align:start position:0%
+value but usually we think of the price
+ 
+
+00:02:48.550 --> 00:02:50.460 align:start position:0%
+value but usually we think of the price
+of<00:02:48.700><c> a</c><00:02:48.760><c> house</c><00:02:48.910><c> as</c><00:02:49.150><c> a</c><00:02:49.180><c> roll</c><00:02:49.480><c> number</c><00:02:49.690><c> was</c><00:02:50.080><c> a</c><00:02:50.110><c> scalar</c>
+
+00:02:50.460 --> 00:02:50.470 align:start position:0%
+of a house as a roll number was a scalar
+ 
+
+00:02:50.470 --> 00:02:52.770 align:start position:0%
+of a house as a roll number was a scalar
+value<00:02:50.739><c> as</c><00:02:51.070><c> a</c><00:02:51.160><c> continuous</c><00:02:51.730><c> value</c><00:02:52.120><c> number</c><00:02:52.510><c> and</c>
+
+00:02:52.770 --> 00:02:52.780 align:start position:0%
+value as a continuous value number and
+ 
+
+00:02:52.780 --> 00:02:55.080 align:start position:0%
+value as a continuous value number and
+the<00:02:53.380><c> term</c><00:02:53.620><c> regression</c><00:02:54.220><c> refers</c><00:02:54.640><c> to</c><00:02:54.670><c> the</c><00:02:54.880><c> fact</c>
+
+00:02:55.080 --> 00:02:55.090 align:start position:0%
+the term regression refers to the fact
+ 
+
+00:02:55.090 --> 00:02:56.310 align:start position:0%
+the term regression refers to the fact
+that<00:02:55.180><c> we're</c><00:02:55.390><c> trying</c><00:02:55.510><c> to</c><00:02:55.630><c> predict</c><00:02:55.930><c> this</c><00:02:56.110><c> sort</c>
+
+00:02:56.310 --> 00:02:56.320 align:start position:0%
+that we're trying to predict this sort
+ 
+
+00:02:56.320 --> 00:02:58.710 align:start position:0%
+that we're trying to predict this sort
+of<00:02:56.410><c> a</c><00:02:56.560><c> continuous</c><00:02:57.550><c> value</c><00:02:57.790><c> to</c><00:02:58.209><c> attribute</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+of a continuous value to attribute
+ 
+
+00:02:58.720 --> 00:03:00.390 align:start position:0%
+of a continuous value to attribute
+here's<00:02:59.290><c> another</c><00:02:59.470><c> supervised</c><00:03:00.370><c> learning</c>
+
+00:03:00.390 --> 00:03:00.400 align:start position:0%
+here's another supervised learning
+ 
+
+00:03:00.400 --> 00:03:02.790 align:start position:0%
+here's another supervised learning
+examples<00:03:01.330><c> some</c><00:03:02.170><c> friends</c><00:03:02.440><c> and</c><00:03:02.560><c> I</c><00:03:02.620><c> were</c>
+
+00:03:02.790 --> 00:03:02.800 align:start position:0%
+examples some friends and I were
+ 
+
+00:03:02.800 --> 00:03:04.680 align:start position:0%
+examples some friends and I were
+actually<00:03:02.890><c> working</c><00:03:03.280><c> on</c><00:03:03.340><c> this</c><00:03:03.489><c> earlier</c><00:03:03.690><c> let's</c>
+
+00:03:04.680 --> 00:03:04.690 align:start position:0%
+actually working on this earlier let's
+ 
+
+00:03:04.690 --> 00:03:06.120 align:start position:0%
+actually working on this earlier let's
+say<00:03:04.840><c> you</c><00:03:04.930><c> want</c><00:03:05.080><c> to</c><00:03:05.140><c> look</c><00:03:05.290><c> at</c><00:03:05.410><c> medical</c><00:03:05.769><c> records</c>
+
+00:03:06.120 --> 00:03:06.130 align:start position:0%
+say you want to look at medical records
+ 
+
+00:03:06.130 --> 00:03:08.310 align:start position:0%
+say you want to look at medical records
+and<00:03:06.370><c> try</c><00:03:06.610><c> to</c><00:03:06.670><c> predictive</c><00:03:07.209><c> a</c><00:03:07.269><c> breast</c><00:03:07.570><c> cancer</c><00:03:08.110><c> as</c>
+
+00:03:08.310 --> 00:03:08.320 align:start position:0%
+and try to predictive a breast cancer as
+ 
+
+00:03:08.320 --> 00:03:10.979 align:start position:0%
+and try to predictive a breast cancer as
+malignant<00:03:08.680><c> or</c><00:03:09.040><c> benign</c><00:03:09.190><c> if</c><00:03:10.090><c> someone</c><00:03:10.750><c> discovers</c>
+
+00:03:10.979 --> 00:03:10.989 align:start position:0%
+malignant or benign if someone discovers
+ 
+
+00:03:10.989 --> 00:03:13.670 align:start position:0%
+malignant or benign if someone discovers
+a<00:03:11.320><c> breast</c><00:03:11.590><c> tumor</c><00:03:12.100><c> a</c><00:03:12.310><c> lump</c><00:03:12.880><c> in</c><00:03:13.000><c> their</c><00:03:13.120><c> breast</c><00:03:13.180><c> a</c>
+
+00:03:13.670 --> 00:03:13.680 align:start position:0%
+a breast tumor a lump in their breast a
+ 
+
+00:03:13.680 --> 00:03:16.650 align:start position:0%
+a breast tumor a lump in their breast a
+malignant<00:03:14.680><c> tumor</c><00:03:15.130><c> is</c><00:03:15.400><c> a</c><00:03:15.820><c> tumor</c><00:03:15.880><c> that</c><00:03:16.360><c> is</c>
+
+00:03:16.650 --> 00:03:16.660 align:start position:0%
+malignant tumor is a tumor that is
+ 
+
+00:03:16.660 --> 00:03:19.199 align:start position:0%
+malignant tumor is a tumor that is
+harmful<00:03:17.079><c> and</c><00:03:17.290><c> dangerous</c><00:03:17.530><c> and</c><00:03:18.040><c> a</c><00:03:18.700><c> benign</c><00:03:19.180><c> tumor</c>
+
+00:03:19.199 --> 00:03:19.209 align:start position:0%
+harmful and dangerous and a benign tumor
+ 
+
+00:03:19.209 --> 00:03:22.710 align:start position:0%
+harmful and dangerous and a benign tumor
+is<00:03:19.930><c> a</c><00:03:19.989><c> tumor</c><00:03:20.140><c> this</c><00:03:20.680><c> is</c><00:03:21.130><c> harmless</c><00:03:21.519><c> so</c><00:03:22.239><c> obviously</c>
+
+00:03:22.710 --> 00:03:22.720 align:start position:0%
+is a tumor this is harmless so obviously
+ 
+
+00:03:22.720 --> 00:03:24.030 align:start position:0%
+is a tumor this is harmless so obviously
+people<00:03:22.930><c> care</c><00:03:23.200><c> a</c><00:03:23.260><c> lot</c><00:03:23.410><c> about</c><00:03:23.470><c> this</c>
+
+00:03:24.030 --> 00:03:24.040 align:start position:0%
+people care a lot about this
+ 
+
+00:03:24.040 --> 00:03:26.180 align:start position:0%
+people care a lot about this
+let's<00:03:24.880><c> see</c><00:03:25.030><c> collect</c><00:03:25.329><c> the</c><00:03:25.390><c> data</c><00:03:25.540><c> set</c><00:03:25.900><c> and</c>
+
+00:03:26.180 --> 00:03:26.190 align:start position:0%
+let's see collect the data set and
+ 
+
+00:03:26.190 --> 00:03:28.500 align:start position:0%
+let's see collect the data set and
+suppose<00:03:27.190><c> you're</c><00:03:27.459><c> in</c><00:03:27.670><c> your</c><00:03:27.820><c> data</c><00:03:28.030><c> set</c><00:03:28.299><c> you</c><00:03:28.480><c> have</c>
+
+00:03:28.500 --> 00:03:28.510 align:start position:0%
+suppose you're in your data set you have
+ 
+
+00:03:28.510 --> 00:03:32.220 align:start position:0%
+suppose you're in your data set you have
+on<00:03:28.930><c> your</c><00:03:29.530><c> horizontal</c><00:03:29.829><c> axis</c><00:03:30.579><c> the</c><00:03:31.180><c> size</c><00:03:32.019><c> of</c><00:03:32.140><c> the</c>
+
+00:03:32.220 --> 00:03:32.230 align:start position:0%
+on your horizontal axis the size of the
+ 
+
+00:03:32.230 --> 00:03:34.710 align:start position:0%
+on your horizontal axis the size of the
+tumor<00:03:32.590><c> and</c><00:03:32.769><c> on</c><00:03:33.519><c> the</c><00:03:33.640><c> vertical</c><00:03:33.820><c> axis</c><00:03:34.390><c> I'm</c><00:03:34.660><c> going</c>
+
+00:03:34.710 --> 00:03:34.720 align:start position:0%
+tumor and on the vertical axis I'm going
+ 
+
+00:03:34.720 --> 00:03:37.949 align:start position:0%
+tumor and on the vertical axis I'm going
+to<00:03:34.989><c> plot</c><00:03:35.230><c> 1</c><00:03:35.980><c> or</c><00:03:36.190><c> 0</c><00:03:36.640><c> yes</c><00:03:36.910><c> or</c><00:03:37.090><c> no</c><00:03:37.239><c> whether</c><00:03:37.540><c> or</c><00:03:37.780><c> not</c>
+
+00:03:37.949 --> 00:03:37.959 align:start position:0%
+to plot 1 or 0 yes or no whether or not
+ 
+
+00:03:37.959 --> 00:03:40.380 align:start position:0%
+to plot 1 or 0 yes or no whether or not
+these<00:03:38.560><c> are</c><00:03:38.829><c> examples</c><00:03:39.459><c> of</c><00:03:39.610><c> tumors</c><00:03:40.030><c> we've</c><00:03:40.209><c> seen</c>
+
+00:03:40.380 --> 00:03:40.390 align:start position:0%
+these are examples of tumors we've seen
+ 
+
+00:03:40.390 --> 00:03:43.470 align:start position:0%
+these are examples of tumors we've seen
+before<00:03:40.570><c> are</c><00:03:40.959><c> malignant</c><00:03:41.410><c> which</c><00:03:41.799><c> is</c><00:03:41.890><c> 1</c><00:03:42.100><c> or</c><00:03:42.430><c> 0</c><00:03:42.670><c> of</c>
+
+00:03:43.470 --> 00:03:43.480 align:start position:0%
+before are malignant which is 1 or 0 of
+ 
+
+00:03:43.480 --> 00:03:47.130 align:start position:0%
+before are malignant which is 1 or 0 of
+not<00:03:43.900><c> malignant</c><00:03:44.440><c> or</c><00:03:44.560><c> benign</c><00:03:45.510><c> so</c><00:03:46.510><c> let's</c><00:03:46.989><c> say</c>
+
+00:03:47.130 --> 00:03:47.140 align:start position:0%
+not malignant or benign so let's say
+ 
+
+00:03:47.140 --> 00:03:48.660 align:start position:0%
+not malignant or benign so let's say
+your<00:03:47.260><c> data</c><00:03:47.440><c> set</c><00:03:47.680><c> looks</c><00:03:47.920><c> like</c><00:03:48.070><c> this</c><00:03:48.280><c> where</c><00:03:48.549><c> we</c>
+
+00:03:48.660 --> 00:03:48.670 align:start position:0%
+your data set looks like this where we
+ 
+
+00:03:48.670 --> 00:03:50.520 align:start position:0%
+your data set looks like this where we
+saw<00:03:48.850><c> a</c><00:03:48.880><c> tumor</c><00:03:49.180><c> of</c><00:03:49.420><c> this</c><00:03:49.600><c> size</c><00:03:49.810><c> that</c><00:03:50.079><c> turned</c><00:03:50.290><c> out</c>
+
+00:03:50.520 --> 00:03:50.530 align:start position:0%
+saw a tumor of this size that turned out
+ 
+
+00:03:50.530 --> 00:03:53.160 align:start position:0%
+saw a tumor of this size that turned out
+to<00:03:50.560><c> be</c><00:03:50.769><c> benign</c><00:03:51.010><c> one</c><00:03:51.760><c> of</c><00:03:52.000><c> this</c><00:03:52.180><c> size</c><00:03:52.420><c> one</c><00:03:53.049><c> of</c>
+
+00:03:53.160 --> 00:03:53.170 align:start position:0%
+to be benign one of this size one of
+ 
+
+00:03:53.170 --> 00:03:57.900 align:start position:0%
+to be benign one of this size one of
+this<00:03:53.380><c> size</c><00:03:53.620><c> and</c><00:03:55.140><c> so</c><00:03:56.140><c> on</c><00:03:56.350><c> and</c><00:03:56.640><c> sadly</c><00:03:57.640><c> we</c><00:03:57.760><c> also</c>
+
+00:03:57.900 --> 00:03:57.910 align:start position:0%
+this size and so on and sadly we also
+ 
+
+00:03:57.910 --> 00:03:59.940 align:start position:0%
+this size and so on and sadly we also
+saw<00:03:58.269><c> a</c><00:03:58.299><c> few</c><00:03:58.329><c> malignant</c><00:03:58.570><c> tumors</c><00:03:59.410><c> so</c><00:03:59.620><c> one</c><00:03:59.829><c> of</c>
+
+00:03:59.940 --> 00:03:59.950 align:start position:0%
+saw a few malignant tumors so one of
+ 
+
+00:03:59.950 --> 00:04:02.940 align:start position:0%
+saw a few malignant tumors so one of
+that<00:04:00.100><c> size</c><00:04:00.340><c> one</c><00:04:00.880><c> of</c><00:04:01.030><c> that</c><00:04:01.209><c> size</c><00:04:01.680><c> one</c><00:04:02.680><c> of</c><00:04:02.799><c> that</c>
+
+00:04:02.940 --> 00:04:02.950 align:start position:0%
+that size one of that size one of that
+ 
+
+00:04:02.950 --> 00:04:07.710 align:start position:0%
+that size one of that size one of that
+size<00:04:03.220><c> so</c><00:04:04.200><c> on</c><00:04:05.200><c> so</c><00:04:05.860><c> in</c><00:04:05.980><c> this</c><00:04:06.040><c> example</c><00:04:06.370><c> I</c><00:04:06.700><c> have</c><00:04:06.760><c> 5</c>
+
+00:04:07.710 --> 00:04:07.720 align:start position:0%
+size so on so in this example I have 5
+ 
+
+00:04:07.720 --> 00:04:11.009 align:start position:0%
+size so on so in this example I have 5
+examples<00:04:07.989><c> of</c><00:04:08.790><c> benign</c><00:04:09.790><c> tumors</c><00:04:10.329><c> shown</c><00:04:10.810><c> down</c>
+
+00:04:11.009 --> 00:04:11.019 align:start position:0%
+examples of benign tumors shown down
+ 
+
+00:04:11.019 --> 00:04:13.830 align:start position:0%
+examples of benign tumors shown down
+here<00:04:11.380><c> and</c><00:04:11.560><c> 5</c><00:04:11.980><c> examples</c><00:04:12.579><c> of</c><00:04:12.880><c> malignant</c><00:04:13.480><c> tumors</c>
+
+00:04:13.830 --> 00:04:13.840 align:start position:0%
+here and 5 examples of malignant tumors
+ 
+
+00:04:13.840 --> 00:04:17.009 align:start position:0%
+here and 5 examples of malignant tumors
+shown<00:04:14.410><c> with</c><00:04:14.680><c> a</c><00:04:14.709><c> vertical</c><00:04:15.609><c> axis</c><00:04:15.760><c> value</c><00:04:16.479><c> of</c><00:04:16.720><c> 1</c>
+
+00:04:17.009 --> 00:04:17.019 align:start position:0%
+shown with a vertical axis value of 1
+ 
+
+00:04:17.019 --> 00:04:19.949 align:start position:0%
+shown with a vertical axis value of 1
+and<00:04:17.549><c> let's</c><00:04:18.549><c> name</c><00:04:18.700><c> a</c><00:04:18.820><c> friend</c><00:04:19.120><c> who</c><00:04:19.390><c> tragically</c>
+
+00:04:19.949 --> 00:04:19.959 align:start position:0%
+and let's name a friend who tragically
+ 
+
+00:04:19.959 --> 00:04:22.860 align:start position:0%
+and let's name a friend who tragically
+has<00:04:20.320><c> a</c><00:04:20.349><c> breast</c><00:04:20.680><c> tumor</c><00:04:21.220><c> and</c><00:04:21.539><c> let's</c><00:04:22.539><c> say</c><00:04:22.690><c> her</c>
+
+00:04:22.860 --> 00:04:22.870 align:start position:0%
+has a breast tumor and let's say her
+ 
+
+00:04:22.870 --> 00:04:24.320 align:start position:0%
+has a breast tumor and let's say her
+breast<00:04:23.140><c> tumor</c><00:04:23.530><c> size</c>
+
+00:04:24.320 --> 00:04:24.330 align:start position:0%
+breast tumor size
+ 
+
+00:04:24.330 --> 00:04:28.129 align:start position:0%
+breast tumor size
+maybe<00:04:24.720><c> somewhere</c><00:04:25.710><c> around</c><00:04:25.889><c> this</c><00:04:26.550><c> value</c><00:04:27.139><c> the</c>
+
+00:04:28.129 --> 00:04:28.139 align:start position:0%
+maybe somewhere around this value the
+ 
+
+00:04:28.139 --> 00:04:29.689 align:start position:0%
+maybe somewhere around this value the
+machine<00:04:28.409><c> learning</c><00:04:28.560><c> question</c><00:04:29.009><c> is</c><00:04:29.159><c> can</c><00:04:29.639><c> you</c>
+
+00:04:29.689 --> 00:04:29.699 align:start position:0%
+machine learning question is can you
+ 
+
+00:04:29.699 --> 00:04:31.820 align:start position:0%
+machine learning question is can you
+estimate<00:04:30.330><c> what</c><00:04:30.659><c> is</c><00:04:30.689><c> the</c><00:04:30.810><c> probability</c><00:04:30.930><c> what's</c>
+
+00:04:31.820 --> 00:04:31.830 align:start position:0%
+estimate what is the probability what's
+ 
+
+00:04:31.830 --> 00:04:33.589 align:start position:0%
+estimate what is the probability what's
+the<00:04:31.919><c> chance</c><00:04:32.280><c> that</c><00:04:32.490><c> the</c><00:04:32.759><c> tumor</c><00:04:33.180><c> is</c><00:04:33.389><c> malignant</c>
+
+00:04:33.589 --> 00:04:33.599 align:start position:0%
+the chance that the tumor is malignant
+ 
+
+00:04:33.599 --> 00:04:36.950 align:start position:0%
+the chance that the tumor is malignant
+versus<00:04:34.439><c> benign</c><00:04:35.270><c> to</c><00:04:36.270><c> introduce</c><00:04:36.659><c> a</c><00:04:36.780><c> bit</c><00:04:36.930><c> more</c>
+
+00:04:36.950 --> 00:04:36.960 align:start position:0%
+versus benign to introduce a bit more
+ 
+
+00:04:36.960 --> 00:04:39.709 align:start position:0%
+versus benign to introduce a bit more
+terminology<00:04:37.280><c> this</c><00:04:38.280><c> is</c><00:04:38.520><c> an</c><00:04:38.639><c> example</c><00:04:39.000><c> of</c><00:04:39.389><c> a</c>
+
+00:04:39.709 --> 00:04:39.719 align:start position:0%
+terminology this is an example of a
+ 
+
+00:04:39.719 --> 00:04:41.360 align:start position:0%
+terminology this is an example of a
+classification<00:04:40.439><c> problem</c>
+
+00:04:41.360 --> 00:04:41.370 align:start position:0%
+classification problem
+ 
+
+00:04:41.370 --> 00:04:44.390 align:start position:0%
+classification problem
+the<00:04:42.000><c> term</c><00:04:42.240><c> classification</c><00:04:43.229><c> refers</c><00:04:44.129><c> to</c><00:04:44.159><c> the</c>
+
+00:04:44.390 --> 00:04:44.400 align:start position:0%
+the term classification refers to the
+ 
+
+00:04:44.400 --> 00:04:46.159 align:start position:0%
+the term classification refers to the
+fact<00:04:44.639><c> that</c><00:04:44.819><c> here</c><00:04:45.150><c> we're</c><00:04:45.360><c> trying</c><00:04:45.629><c> to</c><00:04:45.750><c> predict</c><00:04:46.080><c> a</c>
+
+00:04:46.159 --> 00:04:46.169 align:start position:0%
+fact that here we're trying to predict a
+ 
+
+00:04:46.169 --> 00:04:49.029 align:start position:0%
+fact that here we're trying to predict a
+discrete<00:04:46.740><c> value</c><00:04:47.129><c> output</c><00:04:47.370><c> zero</c><00:04:48.330><c> or</c><00:04:48.629><c> one</c>
+
+00:04:49.029 --> 00:04:49.039 align:start position:0%
+discrete value output zero or one
+ 
+
+00:04:49.039 --> 00:04:52.909 align:start position:0%
+discrete value output zero or one
+malignant<00:04:50.039><c> or</c><00:04:50.219><c> benign</c><00:04:50.580><c> and</c><00:04:51.530><c> it</c><00:04:52.530><c> turns</c><00:04:52.740><c> out</c>
+
+00:04:52.909 --> 00:04:52.919 align:start position:0%
+malignant or benign and it turns out
+ 
+
+00:04:52.919 --> 00:04:55.369 align:start position:0%
+malignant or benign and it turns out
+that<00:04:53.189><c> in</c><00:04:53.580><c> classification</c><00:04:54.090><c> problem</c><00:04:54.750><c> sometimes</c>
+
+00:04:55.369 --> 00:04:55.379 align:start position:0%
+that in classification problem sometimes
+ 
+
+00:04:55.379 --> 00:04:58.189 align:start position:0%
+that in classification problem sometimes
+you<00:04:55.560><c> can</c><00:04:55.710><c> have</c><00:04:55.860><c> more</c><00:04:56.099><c> than</c><00:04:56.159><c> two</c><00:04:56.690><c> values</c><00:04:57.690><c> for</c>
+
+00:04:58.189 --> 00:04:58.199 align:start position:0%
+you can have more than two values for
+ 
+
+00:04:58.199 --> 00:05:00.260 align:start position:0%
+you can have more than two values for
+the<00:04:58.379><c> two</c><00:04:58.560><c> possible</c><00:04:58.860><c> values</c><00:04:59.340><c> for</c><00:04:59.610><c> the</c><00:04:59.789><c> output</c>
+
+00:05:00.260 --> 00:05:00.270 align:start position:0%
+the two possible values for the output
+ 
+
+00:05:00.270 --> 00:05:03.200 align:start position:0%
+the two possible values for the output
+as<00:05:00.419><c> a</c><00:05:00.620><c> complete</c><00:05:01.620><c> example</c><00:05:01.949><c> maybe</c><00:05:02.669><c> there</c><00:05:03.090><c> are</c>
+
+00:05:03.200 --> 00:05:03.210 align:start position:0%
+as a complete example maybe there are
+ 
+
+00:05:03.210 --> 00:05:06.350 align:start position:0%
+as a complete example maybe there are
+three<00:05:03.509><c> types</c><00:05:03.810><c> of</c><00:05:04.050><c> breast</c><00:05:04.560><c> cancers</c><00:05:05.190><c> and</c><00:05:05.460><c> so</c><00:05:05.940><c> you</c>
+
+00:05:06.350 --> 00:05:06.360 align:start position:0%
+three types of breast cancers and so you
+ 
+
+00:05:06.360 --> 00:05:07.999 align:start position:0%
+three types of breast cancers and so you
+may<00:05:06.539><c> try</c><00:05:06.750><c> to</c><00:05:06.810><c> predict</c><00:05:07.199><c> the</c><00:05:07.289><c> discrete</c><00:05:07.710><c> value</c>
+
+00:05:07.999 --> 00:05:08.009 align:start position:0%
+may try to predict the discrete value
+ 
+
+00:05:08.009 --> 00:05:10.159 align:start position:0%
+may try to predict the discrete value
+output<00:05:08.190><c> 0</c><00:05:08.699><c> 1</c><00:05:09.030><c> 2</c><00:05:09.419><c> or</c><00:05:09.780><c> 3</c>
+
+00:05:10.159 --> 00:05:10.169 align:start position:0%
+output 0 1 2 or 3
+ 
+
+00:05:10.169 --> 00:05:13.760 align:start position:0%
+output 0 1 2 or 3
+where<00:05:10.860><c> 0</c><00:05:11.190><c> may</c><00:05:11.520><c> mean</c><00:05:11.789><c> benign</c><00:05:12.180><c> benign</c><00:05:13.050><c> tumor</c><00:05:13.469><c> so</c>
+
+00:05:13.760 --> 00:05:13.770 align:start position:0%
+where 0 may mean benign benign tumor so
+ 
+
+00:05:13.770 --> 00:05:17.209 align:start position:0%
+where 0 may mean benign benign tumor so
+no<00:05:13.949><c> cancer</c><00:05:14.460><c> and</c><00:05:14.669><c> one</c><00:05:15.629><c> may</c><00:05:16.020><c> mean</c><00:05:16.259><c> a</c><00:05:16.500><c> type</c><00:05:16.979><c> 1</c>
+
+00:05:17.209 --> 00:05:17.219 align:start position:0%
+no cancer and one may mean a type 1
+ 
+
+00:05:17.219 --> 00:05:19.249 align:start position:0%
+no cancer and one may mean a type 1
+cancer<00:05:17.789><c> I</c><00:05:18.029><c> give</c><00:05:18.330><c> three</c><00:05:18.479><c> types</c><00:05:18.750><c> of</c><00:05:18.870><c> cancer</c>
+
+00:05:19.249 --> 00:05:19.259 align:start position:0%
+cancer I give three types of cancer
+ 
+
+00:05:19.259 --> 00:05:21.619 align:start position:0%
+cancer I give three types of cancer
+whatever<00:05:19.680><c> type</c><00:05:19.979><c> one</c><00:05:20.190><c> means</c><00:05:20.400><c> and</c><00:05:20.580><c> two</c><00:05:21.180><c> may</c><00:05:21.419><c> mean</c>
+
+00:05:21.619 --> 00:05:21.629 align:start position:0%
+whatever type one means and two may mean
+ 
+
+00:05:21.629 --> 00:05:23.929 align:start position:0%
+whatever type one means and two may mean
+the<00:05:21.750><c> second</c><00:05:22.050><c> type</c><00:05:22.169><c> of</c><00:05:22.199><c> cancer</c><00:05:22.710><c> and</c><00:05:22.860><c> 3</c><00:05:23.550><c> may</c><00:05:23.759><c> mean</c>
+
+00:05:23.929 --> 00:05:23.939 align:start position:0%
+the second type of cancer and 3 may mean
+ 
+
+00:05:23.939 --> 00:05:26.089 align:start position:0%
+the second type of cancer and 3 may mean
+a<00:05:23.969><c> third</c><00:05:24.330><c> type</c><00:05:24.569><c> of</c><00:05:24.599><c> cancer</c><00:05:25.110><c> but</c><00:05:25.710><c> this</c><00:05:25.919><c> would</c>
+
+00:05:26.089 --> 00:05:26.099 align:start position:0%
+a third type of cancer but this would
+ 
+
+00:05:26.099 --> 00:05:28.159 align:start position:0%
+a third type of cancer but this would
+also<00:05:26.310><c> be</c><00:05:26.699><c> a</c><00:05:26.729><c> classification</c><00:05:27.120><c> problem</c><00:05:27.389><c> because</c>
+
+00:05:28.159 --> 00:05:28.169 align:start position:0%
+also be a classification problem because
+ 
+
+00:05:28.169 --> 00:05:31.369 align:start position:0%
+also be a classification problem because
+this<00:05:28.500><c> other</c><00:05:28.710><c> discrete</c><00:05:29.610><c> value</c><00:05:30.060><c> set</c><00:05:30.659><c> of</c><00:05:30.779><c> outputs</c>
+
+00:05:31.369 --> 00:05:31.379 align:start position:0%
+this other discrete value set of outputs
+ 
+
+00:05:31.379 --> 00:05:33.800 align:start position:0%
+this other discrete value set of outputs
+corresponding<00:05:31.680><c> to</c><00:05:32.190><c> no</c><00:05:32.819><c> cancer</c><00:05:33.300><c> or</c><00:05:33.599><c> cancer</c>
+
+00:05:33.800 --> 00:05:33.810 align:start position:0%
+corresponding to no cancer or cancer
+ 
+
+00:05:33.810 --> 00:05:36.430 align:start position:0%
+corresponding to no cancer or cancer
+type<00:05:34.110><c> 1</c><00:05:34.319><c> or</c><00:05:34.500><c> cancer</c><00:05:34.770><c> type</c><00:05:34.919><c> 2</c><00:05:35.099><c> or</c><00:05:35.129><c> type</c><00:05:35.310><c> 3</c><00:05:35.789><c> in</c>
+
+00:05:36.430 --> 00:05:36.440 align:start position:0%
+type 1 or cancer type 2 or type 3 in
+ 
+
+00:05:36.440 --> 00:05:38.510 align:start position:0%
+type 1 or cancer type 2 or type 3 in
+classification<00:05:37.440><c> problems</c><00:05:37.889><c> there</c><00:05:38.099><c> is</c><00:05:38.190><c> another</c>
+
+00:05:38.510 --> 00:05:38.520 align:start position:0%
+classification problems there is another
+ 
+
+00:05:38.520 --> 00:05:41.959 align:start position:0%
+classification problems there is another
+way<00:05:38.759><c> to</c><00:05:39.000><c> plot</c><00:05:39.659><c> this</c><00:05:40.139><c> data</c><00:05:40.669><c> let</c><00:05:41.669><c> me</c><00:05:41.759><c> show</c><00:05:41.879><c> you</c>
+
+00:05:41.959 --> 00:05:41.969 align:start position:0%
+way to plot this data let me show you
+ 
+
+00:05:41.969 --> 00:05:43.249 align:start position:0%
+way to plot this data let me show you
+what<00:05:42.089><c> I</c><00:05:42.120><c> mean</c><00:05:42.330><c> I'm</c><00:05:42.599><c> going</c><00:05:42.750><c> to</c><00:05:42.810><c> use</c><00:05:42.900><c> a</c><00:05:42.930><c> slightly</c>
+
+00:05:43.249 --> 00:05:43.259 align:start position:0%
+what I mean I'm going to use a slightly
+ 
+
+00:05:43.259 --> 00:05:45.469 align:start position:0%
+what I mean I'm going to use a slightly
+different<00:05:43.379><c> set</c><00:05:44.339><c> of</c><00:05:44.460><c> symbols</c><00:05:44.879><c> to</c><00:05:45.060><c> plot</c><00:05:45.270><c> this</c>
+
+00:05:45.469 --> 00:05:45.479 align:start position:0%
+different set of symbols to plot this
+ 
+
+00:05:45.479 --> 00:05:48.680 align:start position:0%
+different set of symbols to plot this
+data<00:05:45.949><c> so</c><00:05:46.949><c> if</c><00:05:47.310><c> tumor</c><00:05:47.789><c> science</c><00:05:48.180><c> is</c><00:05:48.300><c> going</c><00:05:48.509><c> to</c><00:05:48.599><c> be</c>
+
+00:05:48.680 --> 00:05:48.690 align:start position:0%
+data so if tumor science is going to be
+ 
+
+00:05:48.690 --> 00:05:50.300 align:start position:0%
+data so if tumor science is going to be
+the<00:05:48.779><c> attribute</c><00:05:49.319><c> that</c><00:05:49.529><c> I'm</c><00:05:49.589><c> going</c><00:05:49.770><c> to</c><00:05:49.830><c> use</c><00:05:49.889><c> to</c>
+
+00:05:50.300 --> 00:05:50.310 align:start position:0%
+the attribute that I'm going to use to
+ 
+
+00:05:50.310 --> 00:05:53.029 align:start position:0%
+the attribute that I'm going to use to
+predict<00:05:50.639><c> malignancy</c><00:05:51.449><c> or</c><00:05:51.479><c> benign</c><00:05:52.050><c> Ness</c><00:05:52.349><c> I</c><00:05:52.529><c> can</c>
+
+00:05:53.029 --> 00:05:53.039 align:start position:0%
+predict malignancy or benign Ness I can
+ 
+
+00:05:53.039 --> 00:05:54.709 align:start position:0%
+predict malignancy or benign Ness I can
+also<00:05:53.159><c> draw</c><00:05:53.460><c> my</c><00:05:53.610><c> data</c><00:05:53.819><c> like</c><00:05:54.029><c> this</c><00:05:54.180><c> I'm</c><00:05:54.479><c> going</c><00:05:54.659><c> to</c>
+
+00:05:54.709 --> 00:05:54.719 align:start position:0%
+also draw my data like this I'm going to
+ 
+
+00:05:54.719 --> 00:05:56.540 align:start position:0%
+also draw my data like this I'm going to
+use<00:05:54.870><c> different</c><00:05:54.900><c> symbols</c><00:05:55.500><c> to</c><00:05:56.009><c> denote</c><00:05:56.279><c> my</c>
+
+00:05:56.540 --> 00:05:56.550 align:start position:0%
+use different symbols to denote my
+ 
+
+00:05:56.550 --> 00:05:59.029 align:start position:0%
+use different symbols to denote my
+benign<00:05:57.240><c> and</c><00:05:57.449><c> malignant</c><00:05:57.479><c> or</c><00:05:58.199><c> my</c><00:05:58.440><c> a</c><00:05:58.469><c> negative</c>
+
+00:05:59.029 --> 00:05:59.039 align:start position:0%
+benign and malignant or my a negative
+ 
+
+00:05:59.039 --> 00:06:01.040 align:start position:0%
+benign and malignant or my a negative
+and<00:05:59.159><c> positive</c><00:05:59.460><c> examples</c><00:05:59.940><c> so</c><00:06:00.779><c> instead</c><00:06:00.990><c> of</c>
+
+00:06:01.040 --> 00:06:01.050 align:start position:0%
+and positive examples so instead of
+ 
+
+00:06:01.050 --> 00:06:03.170 align:start position:0%
+and positive examples so instead of
+drawing<00:06:01.289><c> crosses</c><00:06:01.949><c> I'm</c><00:06:02.190><c> now</c><00:06:02.490><c> going</c><00:06:02.759><c> to</c><00:06:02.969><c> draw</c>
+
+00:06:03.170 --> 00:06:03.180 align:start position:0%
+drawing crosses I'm now going to draw
+ 
+
+00:06:03.180 --> 00:06:08.959 align:start position:0%
+drawing crosses I'm now going to draw
+holes<00:06:03.509><c> for</c><00:06:04.110><c> the</c><00:06:04.409><c> benign</c><00:06:05.099><c> tumors</c><00:06:05.610><c> like</c><00:06:07.729><c> so</c><00:06:08.729><c> and</c>
+
+00:06:08.959 --> 00:06:08.969 align:start position:0%
+holes for the benign tumors like so and
+ 
+
+00:06:08.969 --> 00:06:13.510 align:start position:0%
+holes for the benign tumors like so and
+I'm<00:06:09.690><c> going</c><00:06:10.050><c> to</c><00:06:10.139><c> keep</c><00:06:10.680><c> using</c><00:06:10.889><c> X's</c><00:06:11.580><c> to</c><00:06:12.300><c> denote</c><00:06:12.690><c> my</c>
+
+00:06:13.510 --> 00:06:13.520 align:start position:0%
+I'm going to keep using X's to denote my
+ 
+
+00:06:13.520 --> 00:06:17.480 align:start position:0%
+I'm going to keep using X's to denote my
+malignant<00:06:15.349><c> tumors</c><00:06:16.349><c> ok</c><00:06:16.770><c> I</c><00:06:16.949><c> hope</c><00:06:17.099><c> this</c><00:06:17.219><c> make</c><00:06:17.400><c> it</c>
+
+00:06:17.480 --> 00:06:17.490 align:start position:0%
+malignant tumors ok I hope this make it
+ 
+
+00:06:17.490 --> 00:06:19.909 align:start position:0%
+malignant tumors ok I hope this make it
+make<00:06:17.610><c> sense</c><00:06:17.639><c> all</c><00:06:18.089><c> I</c><00:06:18.120><c> did</c><00:06:18.419><c> was</c><00:06:18.990><c> I</c><00:06:19.259><c> took</c><00:06:19.319><c> you</c><00:06:19.860><c> know</c>
+
+00:06:19.909 --> 00:06:19.919 align:start position:0%
+make sense all I did was I took you know
+ 
+
+00:06:19.919 --> 00:06:22.399 align:start position:0%
+make sense all I did was I took you know
+these<00:06:20.190><c> my</c><00:06:20.909><c> data</c><00:06:21.180><c> set</c><00:06:21.449><c> on</c><00:06:21.629><c> top</c><00:06:21.870><c> and</c><00:06:22.139><c> I</c><00:06:22.199><c> just</c>
+
+00:06:22.399 --> 00:06:22.409 align:start position:0%
+these my data set on top and I just
+ 
+
+00:06:22.409 --> 00:06:27.649 align:start position:0%
+these my data set on top and I just
+mapped<00:06:23.129><c> it</c><00:06:23.490><c> down</c><00:06:24.080><c> to</c><00:06:25.080><c> this</c><00:06:25.460><c> real</c><00:06:26.460><c> line</c><00:06:26.729><c> like</c><00:06:27.389><c> so</c>
+
+00:06:27.649 --> 00:06:27.659 align:start position:0%
+mapped it down to this real line like so
+ 
+
+00:06:27.659 --> 00:06:30.320 align:start position:0%
+mapped it down to this real line like so
+and<00:06:28.310><c> started</c><00:06:29.310><c> to</c><00:06:29.400><c> use</c><00:06:29.580><c> different</c><00:06:29.879><c> symbol</c>
+
+00:06:30.320 --> 00:06:30.330 align:start position:0%
+and started to use different symbol
+ 
+
+00:06:30.330 --> 00:06:33.709 align:start position:0%
+and started to use different symbol
+circles<00:06:30.839><c> and</c><00:06:31.050><c> crosses</c><00:06:31.229><c> to</c><00:06:32.069><c> denote</c><00:06:32.719><c> malignant</c>
+
+00:06:33.709 --> 00:06:33.719 align:start position:0%
+circles and crosses to denote malignant
+ 
+
+00:06:33.719 --> 00:06:35.500 align:start position:0%
+circles and crosses to denote malignant
+versus<00:06:34.139><c> benign</c><00:06:34.289><c> examples</c>
+
+00:06:35.500 --> 00:06:35.510 align:start position:0%
+versus benign examples
+ 
+
+00:06:35.510 --> 00:06:38.560 align:start position:0%
+versus benign examples
+now<00:06:36.260><c> in</c><00:06:36.920><c> this</c><00:06:37.130><c> example</c><00:06:37.280><c> we</c><00:06:37.850><c> use</c><00:06:37.880><c> only</c><00:06:38.270><c> one</c>
+
+00:06:38.560 --> 00:06:38.570 align:start position:0%
+now in this example we use only one
+ 
+
+00:06:38.570 --> 00:06:41.380 align:start position:0%
+now in this example we use only one
+feature<00:06:38.870><c> or</c><00:06:39.320><c> one</c><00:06:39.620><c> attribute</c><00:06:40.180><c> namely</c><00:06:41.180><c> the</c>
+
+00:06:41.380 --> 00:06:41.390 align:start position:0%
+feature or one attribute namely the
+ 
+
+00:06:41.390 --> 00:06:43.780 align:start position:0%
+feature or one attribute namely the
+tumor<00:06:41.750><c> size</c><00:06:41.930><c> in</c><00:06:42.380><c> order</c><00:06:42.740><c> to</c><00:06:42.860><c> predict</c><00:06:43.190><c> whether</c>
+
+00:06:43.780 --> 00:06:43.790 align:start position:0%
+tumor size in order to predict whether
+ 
+
+00:06:43.790 --> 00:06:47.110 align:start position:0%
+tumor size in order to predict whether
+tumor<00:06:44.570><c> is</c><00:06:44.690><c> malignant</c><00:06:44.840><c> or</c><00:06:45.470><c> benign</c><00:06:45.710><c> in</c><00:06:46.280><c> other</c>
+
+00:06:47.110 --> 00:06:47.120 align:start position:0%
+tumor is malignant or benign in other
+ 
+
+00:06:47.120 --> 00:06:48.550 align:start position:0%
+tumor is malignant or benign in other
+machine<00:06:47.420><c> learning</c><00:06:47.690><c> problems</c><00:06:48.080><c> we</c><00:06:48.230><c> may</c><00:06:48.410><c> have</c>
+
+00:06:48.550 --> 00:06:48.560 align:start position:0%
+machine learning problems we may have
+ 
+
+00:06:48.560 --> 00:06:50.290 align:start position:0%
+machine learning problems we may have
+more<00:06:48.800><c> than</c><00:06:48.980><c> one</c><00:06:49.250><c> feature</c><00:06:49.490><c> or</c><00:06:49.880><c> more</c><00:06:50.030><c> than</c><00:06:50.150><c> one</c>
+
+00:06:50.290 --> 00:06:50.300 align:start position:0%
+more than one feature or more than one
+ 
+
+00:06:50.300 --> 00:06:53.380 align:start position:0%
+more than one feature or more than one
+attribute<00:06:50.650><c> here's</c><00:06:51.650><c> an</c><00:06:51.740><c> example</c><00:06:52.250><c> let's</c><00:06:53.150><c> say</c>
+
+00:06:53.380 --> 00:06:53.390 align:start position:0%
+attribute here's an example let's say
+ 
+
+00:06:53.390 --> 00:06:55.180 align:start position:0%
+attribute here's an example let's say
+that<00:06:53.630><c> instead</c><00:06:53.900><c> of</c><00:06:54.080><c> just</c><00:06:54.230><c> knowing</c><00:06:54.620><c> the</c><00:06:54.830><c> tumor</c>
+
+00:06:55.180 --> 00:06:55.190 align:start position:0%
+that instead of just knowing the tumor
+ 
+
+00:06:55.190 --> 00:06:56.860 align:start position:0%
+that instead of just knowing the tumor
+size<00:06:55.370><c> we</c><00:06:55.670><c> know</c><00:06:55.850><c> about</c><00:06:55.940><c> the</c><00:06:56.210><c> age</c><00:06:56.420><c> of</c><00:06:56.750><c> the</c>
+
+00:06:56.860 --> 00:06:56.870 align:start position:0%
+size we know about the age of the
+ 
+
+00:06:56.870 --> 00:06:59.830 align:start position:0%
+size we know about the age of the
+patient<00:06:57.350><c> and</c><00:06:57.500><c> the</c><00:06:57.920><c> tumor</c><00:06:58.280><c> size</c><00:06:58.490><c> in</c><00:06:58.850><c> that</c><00:06:59.570><c> case</c>
+
+00:06:59.830 --> 00:06:59.840 align:start position:0%
+patient and the tumor size in that case
+ 
+
+00:06:59.840 --> 00:07:01.840 align:start position:0%
+patient and the tumor size in that case
+maybe<00:07:00.230><c> your</c><00:07:00.500><c> data</c><00:07:00.710><c> set</c><00:07:00.980><c> would</c><00:07:01.220><c> look</c><00:07:01.430><c> like</c><00:07:01.580><c> this</c>
+
+00:07:01.840 --> 00:07:01.850 align:start position:0%
+maybe your data set would look like this
+ 
+
+00:07:01.850 --> 00:07:06.010 align:start position:0%
+maybe your data set would look like this
+where<00:07:02.660><c> I</c><00:07:02.930><c> may</c><00:07:03.290><c> have</c><00:07:03.530><c> a</c><00:07:03.830><c> set</c><00:07:04.100><c> of</c><00:07:04.220><c> patients</c><00:07:05.020><c> with</c>
+
+00:07:06.010 --> 00:07:06.020 align:start position:0%
+where I may have a set of patients with
+ 
+
+00:07:06.020 --> 00:07:08.830 align:start position:0%
+where I may have a set of patients with
+those<00:07:06.230><c> ages</c><00:07:06.740><c> in</c><00:07:07.010><c> that</c><00:07:07.160><c> tumor</c><00:07:07.520><c> size</c><00:07:07.700><c> and</c><00:07:08.600><c> look</c>
+
+00:07:08.830 --> 00:07:08.840 align:start position:0%
+those ages in that tumor size and look
+ 
+
+00:07:08.840 --> 00:07:12.060 align:start position:0%
+those ages in that tumor size and look
+like<00:07:09.020><c> this</c><00:07:09.230><c> and</c><00:07:10.030><c> different</c><00:07:11.030><c> set</c><00:07:11.180><c> of</c><00:07:11.300><c> patients</c>
+
+00:07:12.060 --> 00:07:12.070 align:start position:0%
+like this and different set of patients
+ 
+
+00:07:12.070 --> 00:07:16.570 align:start position:0%
+like this and different set of patients
+that<00:07:13.070><c> look</c><00:07:13.220><c> a</c><00:07:13.250><c> little</c><00:07:13.460><c> different</c><00:07:15.580><c> whose</c>
+
+00:07:16.570 --> 00:07:16.580 align:start position:0%
+that look a little different whose
+ 
+
+00:07:16.580 --> 00:07:19.330 align:start position:0%
+that look a little different whose
+tumors<00:07:17.150><c> turn</c><00:07:17.480><c> out</c><00:07:17.720><c> to</c><00:07:17.960><c> be</c><00:07:17.990><c> malignant</c><00:07:18.680><c> as</c>
+
+00:07:19.330 --> 00:07:19.340 align:start position:0%
+tumors turn out to be malignant as
+ 
+
+00:07:19.340 --> 00:07:24.070 align:start position:0%
+tumors turn out to be malignant as
+denoted<00:07:20.030><c> by</c><00:07:20.390><c> the</c><00:07:20.900><c> crosses</c><00:07:21.610><c> so</c><00:07:22.810><c> let's</c><00:07:23.810><c> say</c><00:07:23.960><c> you</c>
+
+00:07:24.070 --> 00:07:24.080 align:start position:0%
+denoted by the crosses so let's say you
+ 
+
+00:07:24.080 --> 00:07:27.430 align:start position:0%
+denoted by the crosses so let's say you
+have<00:07:24.230><c> a</c><00:07:24.260><c> friend</c><00:07:24.590><c> who</c><00:07:25.010><c> tragically</c><00:07:25.760><c> has</c><00:07:26.180><c> a</c><00:07:26.510><c> tumor</c>
+
+00:07:27.430 --> 00:07:27.440 align:start position:0%
+have a friend who tragically has a tumor
+ 
+
+00:07:27.440 --> 00:07:31.960 align:start position:0%
+have a friend who tragically has a tumor
+and<00:07:27.680><c> maybe</c><00:07:28.640><c> their</c><00:07:29.270><c> tumor</c><00:07:29.780><c> size</c><00:07:29.990><c> and</c><00:07:30.380><c> age</c><00:07:30.970><c> falls</c>
+
+00:07:31.960 --> 00:07:31.970 align:start position:0%
+and maybe their tumor size and age falls
+ 
+
+00:07:31.970 --> 00:07:35.560 align:start position:0%
+and maybe their tumor size and age falls
+around<00:07:32.510><c> there</c><00:07:33.640><c> so</c><00:07:34.640><c> given</c><00:07:34.970><c> the</c><00:07:35.030><c> data</c><00:07:35.180><c> set</c><00:07:35.300><c> like</c>
+
+00:07:35.560 --> 00:07:35.570 align:start position:0%
+around there so given the data set like
+ 
+
+00:07:35.570 --> 00:07:37.540 align:start position:0%
+around there so given the data set like
+this<00:07:35.750><c> what</c><00:07:36.410><c> the</c><00:07:36.530><c> learning</c><00:07:36.860><c> algorithm</c><00:07:37.280><c> may</c><00:07:37.310><c> do</c>
+
+00:07:37.540 --> 00:07:37.550 align:start position:0%
+this what the learning algorithm may do
+ 
+
+00:07:37.550 --> 00:07:40.540 align:start position:0%
+this what the learning algorithm may do
+is<00:07:37.850><c> for</c><00:07:38.570><c> the</c><00:07:38.660><c> straight</c><00:07:39.020><c> line</c><00:07:39.230><c> to</c><00:07:39.440><c> the</c><00:07:39.560><c> data</c><00:07:39.710><c> to</c>
+
+00:07:40.540 --> 00:07:40.550 align:start position:0%
+is for the straight line to the data to
+ 
+
+00:07:40.550 --> 00:07:43.750 align:start position:0%
+is for the straight line to the data to
+try<00:07:40.910><c> to</c><00:07:40.970><c> separate</c><00:07:41.660><c> out</c><00:07:41.900><c> the</c><00:07:42.310><c> malignant</c><00:07:43.310><c> tumors</c>
+
+00:07:43.750 --> 00:07:43.760 align:start position:0%
+try to separate out the malignant tumors
+ 
+
+00:07:43.760 --> 00:07:45.910 align:start position:0%
+try to separate out the malignant tumors
+from<00:07:44.420><c> the</c><00:07:44.540><c> benign</c><00:07:44.900><c> ones</c><00:07:45.200><c> and</c><00:07:45.440><c> so</c><00:07:45.560><c> the</c><00:07:45.710><c> learning</c>
+
+00:07:45.910 --> 00:07:45.920 align:start position:0%
+from the benign ones and so the learning
+ 
+
+00:07:45.920 --> 00:07:48.370 align:start position:0%
+from the benign ones and so the learning
+algorithm<00:07:46.550><c> may</c><00:07:46.580><c> decide</c><00:07:47.090><c> to</c><00:07:47.150><c> for</c><00:07:48.050><c> the</c><00:07:48.140><c> straight</c>
+
+00:07:48.370 --> 00:07:48.380 align:start position:0%
+algorithm may decide to for the straight
+ 
+
+00:07:48.380 --> 00:07:50.520 align:start position:0%
+algorithm may decide to for the straight
+line<00:07:48.530><c> like</c><00:07:48.710><c> that</c><00:07:48.740><c> to</c><00:07:49.310><c> separate</c><00:07:49.700><c> out</c><00:07:49.880><c> the</c><00:07:49.910><c> two</c>
+
+00:07:50.520 --> 00:07:50.530 align:start position:0%
+line like that to separate out the two
+ 
+
+00:07:50.530 --> 00:07:53.800 align:start position:0%
+line like that to separate out the two
+classes<00:07:51.530><c> of</c><00:07:51.710><c> tumors</c><00:07:52.130><c> and</c><00:07:52.340><c> you</c><00:07:53.270><c> know</c><00:07:53.420><c> with</c><00:07:53.630><c> this</c>
+
+00:07:53.800 --> 00:07:53.810 align:start position:0%
+classes of tumors and you know with this
+ 
+
+00:07:53.810 --> 00:07:55.930 align:start position:0%
+classes of tumors and you know with this
+hopefully<00:07:54.590><c> we</c><00:07:54.860><c> can</c><00:07:55.010><c> decide</c><00:07:55.340><c> that</c><00:07:55.640><c> your</c>
+
+00:07:55.930 --> 00:07:55.940 align:start position:0%
+hopefully we can decide that your
+ 
+
+00:07:55.940 --> 00:07:58.420 align:start position:0%
+hopefully we can decide that your
+friend's<00:07:56.390><c> tumor</c><00:07:56.840><c> is</c><00:07:57.080><c> more</c><00:07:57.380><c> likely</c><00:07:57.890><c> so</c><00:07:58.190><c> if</c><00:07:58.310><c> it</c>
+
+00:07:58.420 --> 00:07:58.430 align:start position:0%
+friend's tumor is more likely so if it
+ 
+
+00:07:58.430 --> 00:08:00.070 align:start position:0%
+friend's tumor is more likely so if it
+was<00:07:58.520><c> over</c><00:07:58.760><c> there</c><00:07:58.940><c> then</c><00:07:59.480><c> hopefully</c><00:07:59.930><c> in</c><00:07:59.990><c> the</c>
+
+00:08:00.070 --> 00:08:00.080 align:start position:0%
+was over there then hopefully in the
+ 
+
+00:08:00.080 --> 00:08:01.780 align:start position:0%
+was over there then hopefully in the
+learning<00:08:00.380><c> algorithm</c><00:08:00.710><c> will</c><00:08:00.830><c> say</c><00:08:00.860><c> that</c><00:08:01.250><c> your</c>
+
+00:08:01.780 --> 00:08:01.790 align:start position:0%
+learning algorithm will say that your
+ 
+
+00:08:01.790 --> 00:08:04.870 align:start position:0%
+learning algorithm will say that your
+friend's<00:08:02.120><c> tumor</c><00:08:02.540><c> falls</c><00:08:03.140><c> on</c><00:08:03.530><c> this</c><00:08:03.770><c> benign</c><00:08:04.520><c> side</c>
+
+00:08:04.870 --> 00:08:04.880 align:start position:0%
+friend's tumor falls on this benign side
+ 
+
+00:08:04.880 --> 00:08:06.970 align:start position:0%
+friend's tumor falls on this benign side
+and<00:08:05.210><c> is</c><00:08:05.570><c> therefore</c><00:08:05.840><c> more</c><00:08:06.200><c> likely</c><00:08:06.620><c> to</c><00:08:06.860><c> be</c>
+
+00:08:06.970 --> 00:08:06.980 align:start position:0%
+and is therefore more likely to be
+ 
+
+00:08:06.980 --> 00:08:09.700 align:start position:0%
+and is therefore more likely to be
+benign<00:08:07.190><c> than</c><00:08:07.640><c> malignant</c><00:08:08.210><c> in</c><00:08:08.900><c> this</c><00:08:09.050><c> example</c><00:08:09.380><c> we</c>
+
+00:08:09.700 --> 00:08:09.710 align:start position:0%
+benign than malignant in this example we
+ 
+
+00:08:09.710 --> 00:08:11.800 align:start position:0%
+benign than malignant in this example we
+had<00:08:09.860><c> two</c><00:08:10.070><c> features</c><00:08:10.100><c> namely</c><00:08:11.030><c> the</c><00:08:11.420><c> age</c><00:08:11.570><c> of</c><00:08:11.720><c> the</c>
+
+00:08:11.800 --> 00:08:11.810 align:start position:0%
+had two features namely the age of the
+ 
+
+00:08:11.810 --> 00:08:14.250 align:start position:0%
+had two features namely the age of the
+patient<00:08:11.960><c> and</c><00:08:12.350><c> the</c><00:08:12.860><c> size</c><00:08:13.100><c> of</c><00:08:13.250><c> the</c><00:08:13.310><c> tumor</c><00:08:13.730><c> in</c>
+
+00:08:14.250 --> 00:08:14.260 align:start position:0%
+patient and the size of the tumor in
+ 
+
+00:08:14.260 --> 00:08:17.350 align:start position:0%
+patient and the size of the tumor in
+other<00:08:15.260><c> machine</c><00:08:15.680><c> learning</c><00:08:15.710><c> problems</c><00:08:16.430><c> we</c><00:08:16.820><c> will</c>
+
+00:08:17.350 --> 00:08:17.360 align:start position:0%
+other machine learning problems we will
+ 
+
+00:08:17.360 --> 00:08:19.690 align:start position:0%
+other machine learning problems we will
+often<00:08:17.660><c> have</c><00:08:18.110><c> more</c><00:08:18.410><c> features</c><00:08:18.650><c> and</c><00:08:19.190><c> my</c><00:08:19.460><c> friends</c>
+
+00:08:19.690 --> 00:08:19.700 align:start position:0%
+often have more features and my friends
+ 
+
+00:08:19.700 --> 00:08:20.950 align:start position:0%
+often have more features and my friends
+that<00:08:19.820><c> work</c><00:08:19.940><c> on</c><00:08:20.060><c> this</c><00:08:20.120><c> problem</c><00:08:20.540><c> they</c><00:08:20.690><c> actually</c>
+
+00:08:20.950 --> 00:08:20.960 align:start position:0%
+that work on this problem they actually
+ 
+
+00:08:20.960 --> 00:08:22.390 align:start position:0%
+that work on this problem they actually
+use<00:08:21.110><c> other</c><00:08:21.380><c> features</c><00:08:21.770><c> like</c><00:08:21.950><c> these</c><00:08:22.100><c> which</c><00:08:22.370><c> is</c>
+
+00:08:22.390 --> 00:08:22.400 align:start position:0%
+use other features like these which is
+ 
+
+00:08:22.400 --> 00:08:25.090 align:start position:0%
+use other features like these which is
+clump<00:08:23.300><c> thickness</c><00:08:23.720><c> clump</c><00:08:24.440><c> thickness</c><00:08:24.890><c> of</c><00:08:25.010><c> the</c>
+
+00:08:25.090 --> 00:08:25.100 align:start position:0%
+clump thickness clump thickness of the
+ 
+
+00:08:25.100 --> 00:08:27.460 align:start position:0%
+clump thickness clump thickness of the
+breast<00:08:25.310><c> tumor</c><00:08:25.720><c> uniformity</c><00:08:26.720><c> of</c><00:08:26.750><c> cell</c><00:08:27.050><c> size</c><00:08:27.290><c> of</c>
+
+00:08:27.460 --> 00:08:27.470 align:start position:0%
+breast tumor uniformity of cell size of
+ 
+
+00:08:27.470 --> 00:08:29.590 align:start position:0%
+breast tumor uniformity of cell size of
+the<00:08:27.530><c> tumor</c><00:08:27.890><c> uniformity</c><00:08:28.850><c> of</c><00:08:28.880><c> cell</c><00:08:29.210><c> shape</c><00:08:29.480><c> of</c>
+
+00:08:29.590 --> 00:08:29.600 align:start position:0%
+the tumor uniformity of cell shape of
+ 
+
+00:08:29.600 --> 00:08:32.020 align:start position:0%
+the tumor uniformity of cell shape of
+the<00:08:29.660><c> tumor</c><00:08:29.870><c> and</c><00:08:30.200><c> so</c><00:08:30.830><c> on</c><00:08:31.040><c> and</c><00:08:31.310><c> other</c><00:08:31.580><c> features</c>
+
+00:08:32.020 --> 00:08:32.030 align:start position:0%
+the tumor and so on and other features
+ 
+
+00:08:32.030 --> 00:08:34.810 align:start position:0%
+the tumor and so on and other features
+as<00:08:32.150><c> well</c><00:08:32.210><c> and</c><00:08:32.830><c> it</c><00:08:33.830><c> turns</c><00:08:34.070><c> out</c><00:08:34.310><c> one</c><00:08:34.610><c> of</c><00:08:34.640><c> the</c>
+
+00:08:34.810 --> 00:08:34.820 align:start position:0%
+as well and it turns out one of the
+ 
+
+00:08:34.820 --> 00:08:36.310 align:start position:0%
+as well and it turns out one of the
+interests<00:08:35.120><c> most</c><00:08:35.390><c> interesting</c><00:08:35.990><c> learning</c>
+
+00:08:36.310 --> 00:08:36.320 align:start position:0%
+interests most interesting learning
+ 
+
+00:08:36.320 --> 00:08:37.690 align:start position:0%
+interests most interesting learning
+algorithms<00:08:36.770><c> that</c><00:08:36.860><c> we'll</c><00:08:37.040><c> see</c><00:08:37.220><c> in</c><00:08:37.310><c> this</c><00:08:37.400><c> false</c>
+
+00:08:37.690 --> 00:08:37.700 align:start position:0%
+algorithms that we'll see in this false
+ 
+
+00:08:37.700 --> 00:08:39.880 align:start position:0%
+algorithms that we'll see in this false
+as<00:08:37.970><c> a</c><00:08:38.240><c> learning</c><00:08:38.720><c> algorithm</c><00:08:38.960><c> they</c><00:08:39.440><c> can</c><00:08:39.620><c> deal</c>
+
+00:08:39.880 --> 00:08:39.890 align:start position:0%
+as a learning algorithm they can deal
+ 
+
+00:08:39.890 --> 00:08:42.640 align:start position:0%
+as a learning algorithm they can deal
+with<00:08:39.919><c> not</c><00:08:40.430><c> just</c><00:08:40.760><c> two</c><00:08:41.419><c> or</c><00:08:41.780><c> three</c><00:08:41.810><c> or</c><00:08:42.380><c> five</c>
+
+00:08:42.640 --> 00:08:42.650 align:start position:0%
+with not just two or three or five
+ 
+
+00:08:42.650 --> 00:08:44.580 align:start position:0%
+with not just two or three or five
+features<00:08:43.190><c> but</c><00:08:43.729><c> an</c><00:08:43.849><c> infinite</c>
+
+00:08:44.580 --> 00:08:44.590 align:start position:0%
+features but an infinite
+ 
+
+00:08:44.590 --> 00:08:48.150 align:start position:0%
+features but an infinite
+features<00:08:45.190><c> on</c><00:08:45.510><c> this</c><00:08:46.510><c> slide</c><00:08:46.840><c> I've</c><00:08:47.140><c> listed</c><00:08:47.710><c> a</c>
+
+00:08:48.150 --> 00:08:48.160 align:start position:0%
+features on this slide I've listed a
+ 
+
+00:08:48.160 --> 00:08:50.550 align:start position:0%
+features on this slide I've listed a
+total<00:08:48.520><c> of</c><00:08:48.580><c> five</c><00:08:48.820><c> different</c><00:08:49.120><c> features</c><00:08:49.660><c> right</c><00:08:50.200><c> -</c>
+
+00:08:50.550 --> 00:08:50.560 align:start position:0%
+total of five different features right -
+ 
+
+00:08:50.560 --> 00:08:52.920 align:start position:0%
+total of five different features right -
+on<00:08:50.740><c> the</c><00:08:50.860><c> axes</c><00:08:51.250><c> and</c><00:08:51.280><c> three</c><00:08:51.610><c> more</c><00:08:51.820><c> up</c><00:08:51.940><c> here</c><00:08:52.180><c> but</c>
+
+00:08:52.920 --> 00:08:52.930 align:start position:0%
+on the axes and three more up here but
+ 
+
+00:08:52.930 --> 00:08:54.360 align:start position:0%
+on the axes and three more up here but
+it<00:08:53.020><c> turns</c><00:08:53.200><c> out</c><00:08:53.380><c> that</c><00:08:53.470><c> for</c><00:08:53.590><c> some</c><00:08:53.650><c> learning</c>
+
+00:08:54.360 --> 00:08:54.370 align:start position:0%
+it turns out that for some learning
+ 
+
+00:08:54.370 --> 00:08:56.100 align:start position:0%
+it turns out that for some learning
+problems<00:08:54.820><c> what</c><00:08:55.030><c> you</c><00:08:55.180><c> really</c><00:08:55.360><c> want</c><00:08:55.660><c> is</c><00:08:55.840><c> not</c><00:08:55.990><c> to</c>
+
+00:08:56.100 --> 00:08:56.110 align:start position:0%
+problems what you really want is not to
+ 
+
+00:08:56.110 --> 00:08:58.050 align:start position:0%
+problems what you really want is not to
+use<00:08:56.290><c> like</c><00:08:56.530><c> three</c><00:08:56.800><c> or</c><00:08:56.950><c> five</c><00:08:57.130><c> features</c><00:08:57.340><c> but</c>
+
+00:08:58.050 --> 00:08:58.060 align:start position:0%
+use like three or five features but
+ 
+
+00:08:58.060 --> 00:08:59.850 align:start position:0%
+use like three or five features but
+instead<00:08:58.360><c> you</c><00:08:58.540><c> want</c><00:08:58.750><c> to</c><00:08:58.840><c> use</c><00:08:59.110><c> an</c><00:08:59.290><c> infinite</c>
+
+00:08:59.850 --> 00:08:59.860 align:start position:0%
+instead you want to use an infinite
+ 
+
+00:08:59.860 --> 00:09:01.620 align:start position:0%
+instead you want to use an infinite
+number<00:08:59.890><c> of</c><00:09:00.250><c> features</c><00:09:00.820><c> an</c><00:09:01.000><c> infinite</c><00:09:01.390><c> number</c><00:09:01.450><c> of</c>
+
+00:09:01.620 --> 00:09:01.630 align:start position:0%
+number of features an infinite number of
+ 
+
+00:09:01.630 --> 00:09:03.510 align:start position:0%
+number of features an infinite number of
+attributes<00:09:02.320><c> so</c><00:09:02.920><c> that</c><00:09:03.100><c> your</c><00:09:03.220><c> learning</c>
+
+00:09:03.510 --> 00:09:03.520 align:start position:0%
+attributes so that your learning
+ 
+
+00:09:03.520 --> 00:09:05.670 align:start position:0%
+attributes so that your learning
+algorithm<00:09:03.970><c> has</c><00:09:04.150><c> lots</c><00:09:04.750><c> of</c><00:09:04.930><c> attributes</c><00:09:05.560><c> or</c>
+
+00:09:05.670 --> 00:09:05.680 align:start position:0%
+algorithm has lots of attributes or
+ 
+
+00:09:05.680 --> 00:09:07.740 align:start position:0%
+algorithm has lots of attributes or
+features<00:09:05.710><c> or</c><00:09:06.130><c> cues</c><00:09:06.490><c> with</c><00:09:07.300><c> which</c><00:09:07.480><c> to</c><00:09:07.630><c> make</c>
+
+00:09:07.740 --> 00:09:07.750 align:start position:0%
+features or cues with which to make
+ 
+
+00:09:07.750 --> 00:09:10.650 align:start position:0%
+features or cues with which to make
+those<00:09:07.900><c> predictions</c><00:09:08.490><c> so</c><00:09:09.490><c> how</c><00:09:10.120><c> do</c><00:09:10.180><c> you</c><00:09:10.390><c> deal</c>
+
+00:09:10.650 --> 00:09:10.660 align:start position:0%
+those predictions so how do you deal
+ 
+
+00:09:10.660 --> 00:09:12.510 align:start position:0%
+those predictions so how do you deal
+with<00:09:10.720><c> an</c><00:09:10.990><c> infinite</c><00:09:11.440><c> number</c><00:09:11.500><c> of</c><00:09:11.740><c> features</c><00:09:12.190><c> and</c>
+
+00:09:12.510 --> 00:09:12.520 align:start position:0%
+with an infinite number of features and
+ 
+
+00:09:12.520 --> 00:09:14.670 align:start position:0%
+with an infinite number of features and
+so<00:09:12.760><c> how</c><00:09:13.120><c> do</c><00:09:13.180><c> you</c><00:09:13.360><c> even</c><00:09:13.390><c> store</c><00:09:13.870><c> an</c><00:09:14.140><c> infinite</c>
+
+00:09:14.670 --> 00:09:14.680 align:start position:0%
+so how do you even store an infinite
+ 
+
+00:09:14.680 --> 00:09:16.470 align:start position:0%
+so how do you even store an infinite
+number<00:09:14.740><c> of</c><00:09:14.980><c> things</c><00:09:15.190><c> on</c><00:09:15.430><c> a</c><00:09:15.490><c> computer</c><00:09:15.520><c> and</c><00:09:16.240><c> your</c>
+
+00:09:16.470 --> 00:09:16.480 align:start position:0%
+number of things on a computer and your
+ 
+
+00:09:16.480 --> 00:09:18.750 align:start position:0%
+number of things on a computer and your
+computer<00:09:16.510><c> can</c><00:09:16.960><c> run</c><00:09:17.170><c> on</c><00:09:17.320><c> the</c><00:09:17.410><c> memory</c><00:09:17.740><c> well</c><00:09:18.670><c> it</c>
+
+00:09:18.750 --> 00:09:18.760 align:start position:0%
+computer can run on the memory well it
+ 
+
+00:09:18.760 --> 00:09:20.160 align:start position:0%
+computer can run on the memory well it
+turns<00:09:18.970><c> out</c><00:09:19.150><c> that</c><00:09:19.390><c> when</c><00:09:19.540><c> we</c><00:09:19.570><c> talk</c><00:09:19.840><c> about</c><00:09:19.870><c> an</c>
+
+00:09:20.160 --> 00:09:20.170 align:start position:0%
+turns out that when we talk about an
+ 
+
+00:09:20.170 --> 00:09:21.600 align:start position:0%
+turns out that when we talk about an
+algorithm<00:09:20.410><c> called</c><00:09:20.770><c> the</c><00:09:20.950><c> support</c><00:09:21.250><c> vector</c>
+
+00:09:21.600 --> 00:09:21.610 align:start position:0%
+algorithm called the support vector
+ 
+
+00:09:21.610 --> 00:09:22.980 align:start position:0%
+algorithm called the support vector
+machine<00:09:21.910><c> there</c><00:09:22.540><c> will</c><00:09:22.630><c> be</c><00:09:22.660><c> a</c><00:09:22.750><c> neat</c>
+
+00:09:22.980 --> 00:09:22.990 align:start position:0%
+machine there will be a neat
+ 
+
+00:09:22.990 --> 00:09:25.560 align:start position:0%
+machine there will be a neat
+mathematical<00:09:23.890><c> trick</c><00:09:24.220><c> that</c><00:09:24.850><c> will</c><00:09:24.940><c> allow</c><00:09:25.270><c> a</c>
+
+00:09:25.560 --> 00:09:25.570 align:start position:0%
+mathematical trick that will allow a
+ 
+
+00:09:25.570 --> 00:09:27.450 align:start position:0%
+mathematical trick that will allow a
+computer<00:09:25.780><c> to</c><00:09:26.290><c> deal</c><00:09:26.530><c> with</c><00:09:26.650><c> an</c><00:09:26.770><c> infinite</c><00:09:27.220><c> number</c>
+
+00:09:27.450 --> 00:09:27.460 align:start position:0%
+computer to deal with an infinite number
+ 
+
+00:09:27.460 --> 00:09:30.060 align:start position:0%
+computer to deal with an infinite number
+of<00:09:27.700><c> features</c><00:09:28.350><c> imagine</c><00:09:29.350><c> that</c><00:09:29.560><c> I</c><00:09:29.590><c> didn't</c><00:09:29.920><c> just</c>
+
+00:09:30.060 --> 00:09:30.070 align:start position:0%
+of features imagine that I didn't just
+ 
+
+00:09:30.070 --> 00:09:31.830 align:start position:0%
+of features imagine that I didn't just
+write<00:09:30.250><c> down</c><00:09:30.280><c> you</c><00:09:30.850><c> know</c><00:09:30.970><c> two</c><00:09:31.030><c> features</c><00:09:31.570><c> here</c>
+
+00:09:31.830 --> 00:09:31.840 align:start position:0%
+write down you know two features here
+ 
+
+00:09:31.840 --> 00:09:33.660 align:start position:0%
+write down you know two features here
+and<00:09:32.020><c> three</c><00:09:32.680><c> features</c><00:09:33.100><c> on</c><00:09:33.220><c> the</c><00:09:33.310><c> right</c><00:09:33.490><c> but</c>
+
+00:09:33.660 --> 00:09:33.670 align:start position:0%
+and three features on the right but
+ 
+
+00:09:33.670 --> 00:09:35.610 align:start position:0%
+and three features on the right but
+imagine<00:09:34.120><c> that</c><00:09:34.270><c> I</c><00:09:34.330><c> wrote</c><00:09:34.540><c> down</c><00:09:34.720><c> an</c><00:09:34.960><c> infinitely</c>
+
+00:09:35.610 --> 00:09:35.620 align:start position:0%
+imagine that I wrote down an infinitely
+ 
+
+00:09:35.620 --> 00:09:37.500 align:start position:0%
+imagine that I wrote down an infinitely
+long<00:09:35.950><c> list</c><00:09:36.310><c> I</c><00:09:36.430><c> just</c><00:09:36.460><c> kept</c><00:09:36.850><c> writing</c><00:09:37.060><c> more</c><00:09:37.390><c> and</c>
+
+00:09:37.500 --> 00:09:37.510 align:start position:0%
+long list I just kept writing more and
+ 
+
+00:09:37.510 --> 00:09:38.730 align:start position:0%
+long list I just kept writing more and
+more<00:09:37.720><c> and</c><00:09:37.840><c> more</c><00:09:37.870><c> feature</c><00:09:38.230><c> that's</c><00:09:38.500><c> like</c><00:09:38.620><c> an</c>
+
+00:09:38.730 --> 00:09:38.740 align:start position:0%
+more and more feature that's like an
+ 
+
+00:09:38.740 --> 00:09:41.220 align:start position:0%
+more and more feature that's like an
+infinitely<00:09:39.190><c> long</c><00:09:39.430><c> list</c><00:09:39.670><c> of</c><00:09:39.760><c> features</c><00:09:40.230><c> turns</c>
+
+00:09:41.220 --> 00:09:41.230 align:start position:0%
+infinitely long list of features turns
+ 
+
+00:09:41.230 --> 00:09:42.600 align:start position:0%
+infinitely long list of features turns
+out<00:09:41.410><c> we'll</c><00:09:41.710><c> be</c><00:09:41.800><c> able</c><00:09:41.860><c> to</c><00:09:41.980><c> come</c><00:09:42.280><c> up</c><00:09:42.310><c> with</c><00:09:42.520><c> an</c>
+
+00:09:42.600 --> 00:09:42.610 align:start position:0%
+out we'll be able to come up with an
+ 
+
+00:09:42.610 --> 00:09:45.390 align:start position:0%
+out we'll be able to come up with an
+algorithm<00:09:43.060><c> that</c><00:09:43.240><c> can</c><00:09:43.450><c> deal</c><00:09:43.630><c> with</c><00:09:43.660><c> that</c><00:09:44.400><c> so</c>
+
+00:09:45.390 --> 00:09:45.400 align:start position:0%
+algorithm that can deal with that so
+ 
+
+00:09:45.400 --> 00:09:48.630 align:start position:0%
+algorithm that can deal with that so
+just<00:09:46.000><c> to</c><00:09:46.090><c> recap</c><00:09:46.240><c> in</c><00:09:46.800><c> this</c><00:09:47.800><c> class</c><00:09:48.070><c> we'll</c><00:09:48.370><c> talk</c>
+
+00:09:48.630 --> 00:09:48.640 align:start position:0%
+just to recap in this class we'll talk
+ 
+
+00:09:48.640 --> 00:09:50.880 align:start position:0%
+just to recap in this class we'll talk
+about<00:09:48.820><c> supervised</c><00:09:49.300><c> learning</c><00:09:49.330><c> and</c><00:09:50.020><c> the</c><00:09:50.530><c> idea</c>
+
+00:09:50.880 --> 00:09:50.890 align:start position:0%
+about supervised learning and the idea
+ 
+
+00:09:50.890 --> 00:09:53.280 align:start position:0%
+about supervised learning and the idea
+is<00:09:51.130><c> that</c><00:09:51.430><c> in</c><00:09:51.700><c> supervised</c><00:09:52.060><c> learning</c><00:09:52.090><c> in</c><00:09:52.630><c> every</c>
+
+00:09:53.280 --> 00:09:53.290 align:start position:0%
+is that in supervised learning in every
+ 
+
+00:09:53.290 --> 00:09:55.770 align:start position:0%
+is that in supervised learning in every
+example<00:09:53.620><c> in</c><00:09:53.860><c> our</c><00:09:53.980><c> dataset</c><00:09:54.280><c> we</c><00:09:54.880><c> are</c><00:09:55.000><c> told</c><00:09:55.330><c> what</c>
+
+00:09:55.770 --> 00:09:55.780 align:start position:0%
+example in our dataset we are told what
+ 
+
+00:09:55.780 --> 00:09:58.170 align:start position:0%
+example in our dataset we are told what
+is<00:09:55.900><c> the</c><00:09:55.930><c> correct</c><00:09:56.080><c> answer</c><00:09:57.010><c> that</c><00:09:57.670><c> we</c><00:09:57.850><c> would</c><00:09:58.060><c> have</c>
+
+00:09:58.170 --> 00:09:58.180 align:start position:0%
+is the correct answer that we would have
+ 
+
+00:09:58.180 --> 00:10:00.030 align:start position:0%
+is the correct answer that we would have
+quite<00:09:58.420><c> like</c><00:09:58.630><c> the</c><00:09:58.960><c> algorithms</c><00:09:59.410><c> are</c><00:09:59.530><c> predicted</c>
+
+00:10:00.030 --> 00:10:00.040 align:start position:0%
+quite like the algorithms are predicted
+ 
+
+00:10:00.040 --> 00:10:02.310 align:start position:0%
+quite like the algorithms are predicted
+on<00:10:00.130><c> that</c><00:10:00.310><c> example</c><00:10:00.610><c> such</c><00:10:01.450><c> as</c><00:10:01.690><c> the</c><00:10:01.900><c> price</c><00:10:02.110><c> of</c><00:10:02.140><c> the</c>
+
+00:10:02.310 --> 00:10:02.320 align:start position:0%
+on that example such as the price of the
+ 
+
+00:10:02.320 --> 00:10:05.280 align:start position:0%
+on that example such as the price of the
+house<00:10:02.500><c> or</c><00:10:02.830><c> whether</c><00:10:03.700><c> a</c><00:10:03.940><c> tumor</c><00:10:04.390><c> is</c><00:10:04.600><c> malignant</c><00:10:04.780><c> or</c>
+
+00:10:05.280 --> 00:10:05.290 align:start position:0%
+house or whether a tumor is malignant or
+ 
+
+00:10:05.290 --> 00:10:07.590 align:start position:0%
+house or whether a tumor is malignant or
+benign<00:10:05.580><c> we</c><00:10:06.580><c> also</c><00:10:06.700><c> talked</c><00:10:07.090><c> about</c><00:10:07.240><c> the</c>
+
+00:10:07.590 --> 00:10:07.600 align:start position:0%
+benign we also talked about the
+ 
+
+00:10:07.600 --> 00:10:09.930 align:start position:0%
+benign we also talked about the
+regression<00:10:08.380><c> problem</c><00:10:08.860><c> and</c><00:10:09.040><c> by</c><00:10:09.520><c> regression</c>
+
+00:10:09.930 --> 00:10:09.940 align:start position:0%
+regression problem and by regression
+ 
+
+00:10:09.940 --> 00:10:11.970 align:start position:0%
+regression problem and by regression
+that<00:10:10.390><c> means</c><00:10:10.600><c> that</c><00:10:10.840><c> our</c><00:10:10.990><c> goal</c><00:10:11.230><c> is</c><00:10:11.440><c> to</c><00:10:11.470><c> predict</c><00:10:11.890><c> a</c>
+
+00:10:11.970 --> 00:10:11.980 align:start position:0%
+that means that our goal is to predict a
+ 
+
+00:10:11.980 --> 00:10:14.310 align:start position:0%
+that means that our goal is to predict a
+continuous<00:10:12.220><c> valued</c><00:10:13.090><c> output</c><00:10:13.450><c> and</c><00:10:13.690><c> we</c><00:10:14.140><c> talked</c>
+
+00:10:14.310 --> 00:10:14.320 align:start position:0%
+continuous valued output and we talked
+ 
+
+00:10:14.320 --> 00:10:16.290 align:start position:0%
+continuous valued output and we talked
+about<00:10:14.350><c> the</c><00:10:14.770><c> classification</c><00:10:15.700><c> problem</c><00:10:16.150><c> where</c>
+
+00:10:16.290 --> 00:10:16.300 align:start position:0%
+about the classification problem where
+ 
+
+00:10:16.300 --> 00:10:18.720 align:start position:0%
+about the classification problem where
+the<00:10:16.690><c> goal</c><00:10:16.930><c> is</c><00:10:17.200><c> to</c><00:10:17.230><c> predict</c><00:10:17.620><c> a</c><00:10:17.740><c> discrete</c><00:10:18.310><c> value</c>
+
+00:10:18.720 --> 00:10:18.730 align:start position:0%
+the goal is to predict a discrete value
+ 
+
+00:10:18.730 --> 00:10:22.340 align:start position:0%
+the goal is to predict a discrete value
+output<00:10:18.970><c> just</c><00:10:19.720><c> a</c><00:10:19.810><c> quick</c><00:10:20.020><c> wrap-up</c><00:10:20.290><c> question</c>
+
+00:10:22.340 --> 00:10:22.350 align:start position:0%
+output just a quick wrap-up question
+ 
+
+00:10:22.350 --> 00:10:25.110 align:start position:0%
+output just a quick wrap-up question
+suppose<00:10:23.350><c> you're</c><00:10:23.500><c> running</c><00:10:23.740><c> a</c><00:10:23.800><c> company</c><00:10:24.220><c> and</c><00:10:24.460><c> you</c>
+
+00:10:25.110 --> 00:10:25.120 align:start position:0%
+suppose you're running a company and you
+ 
+
+00:10:25.120 --> 00:10:26.940 align:start position:0%
+suppose you're running a company and you
+want<00:10:25.330><c> to</c><00:10:25.450><c> develop</c><00:10:25.750><c> learning</c><00:10:26.080><c> algorithms</c><00:10:26.770><c> to</c>
+
+00:10:26.940 --> 00:10:26.950 align:start position:0%
+want to develop learning algorithms to
+ 
+
+00:10:26.950 --> 00:10:29.700 align:start position:0%
+want to develop learning algorithms to
+address<00:10:27.370><c> each</c><00:10:27.640><c> of</c><00:10:27.850><c> two</c><00:10:28.060><c> problems</c><00:10:28.570><c> in</c><00:10:28.780><c> the</c>
+
+00:10:29.700 --> 00:10:29.710 align:start position:0%
+address each of two problems in the
+ 
+
+00:10:29.710 --> 00:10:32.010 align:start position:0%
+address each of two problems in the
+first<00:10:29.920><c> problem</c><00:10:30.400><c> you</c><00:10:30.610><c> have</c><00:10:30.970><c> a</c><00:10:31.210><c> large</c><00:10:31.510><c> inventory</c>
+
+00:10:32.010 --> 00:10:32.020 align:start position:0%
+first problem you have a large inventory
+ 
+
+00:10:32.020 --> 00:10:35.400 align:start position:0%
+first problem you have a large inventory
+of<00:10:32.520><c> identical</c><00:10:33.520><c> items</c><00:10:33.970><c> so</c><00:10:34.270><c> imagine</c><00:10:34.960><c> that</c><00:10:34.990><c> you</c>
+
+00:10:35.400 --> 00:10:35.410 align:start position:0%
+of identical items so imagine that you
+ 
+
+00:10:35.410 --> 00:10:37.950 align:start position:0%
+of identical items so imagine that you
+have<00:10:35.650><c> thousands</c><00:10:36.610><c> of</c><00:10:36.880><c> copies</c><00:10:37.360><c> of</c><00:10:37.570><c> some</c>
+
+00:10:37.950 --> 00:10:37.960 align:start position:0%
+have thousands of copies of some
+ 
+
+00:10:37.960 --> 00:10:40.200 align:start position:0%
+have thousands of copies of some
+identical<00:10:38.530><c> item</c><00:10:38.830><c> to</c><00:10:38.950><c> sell</c><00:10:39.130><c> and</c><00:10:39.880><c> you</c><00:10:39.970><c> want</c><00:10:40.120><c> to</c>
+
+00:10:40.200 --> 00:10:40.210 align:start position:0%
+identical item to sell and you want to
+ 
+
+00:10:40.210 --> 00:10:42.300 align:start position:0%
+identical item to sell and you want to
+predict<00:10:40.450><c> how</c><00:10:40.780><c> many</c><00:10:40.840><c> of</c><00:10:41.110><c> these</c><00:10:41.380><c> items</c><00:10:41.620><c> you</c><00:10:41.980><c> sell</c>
+
+00:10:42.300 --> 00:10:42.310 align:start position:0%
+predict how many of these items you sell
+ 
+
+00:10:42.310 --> 00:10:45.270 align:start position:0%
+predict how many of these items you sell
+over<00:10:42.580><c> the</c><00:10:42.670><c> next</c><00:10:42.850><c> three</c><00:10:43.060><c> months</c><00:10:43.360><c> in</c><00:10:43.860><c> the</c><00:10:44.860><c> second</c>
+
+00:10:45.270 --> 00:10:45.280 align:start position:0%
+over the next three months in the second
+ 
+
+00:10:45.280 --> 00:10:47.670 align:start position:0%
+over the next three months in the second
+problem<00:10:45.460><c> problem</c><00:10:46.030><c> to</c><00:10:46.180><c> you</c><00:10:46.300><c> you</c><00:10:46.840><c> light</c><00:10:47.110><c> you</c><00:10:47.380><c> you</c>
+
+00:10:47.670 --> 00:10:47.680 align:start position:0%
+problem problem to you you light you you
+ 
+
+00:10:47.680 --> 00:10:50.250 align:start position:0%
+problem problem to you you light you you
+have<00:10:47.890><c> lots</c><00:10:48.340><c> of</c><00:10:48.490><c> users</c><00:10:48.760><c> and</c><00:10:49.240><c> you</c><00:10:49.810><c> want</c><00:10:50.050><c> to</c><00:10:50.140><c> write</c>
+
+00:10:50.250 --> 00:10:50.260 align:start position:0%
+have lots of users and you want to write
+ 
+
+00:10:50.260 --> 00:10:53.730 align:start position:0%
+have lots of users and you want to write
+software<00:10:50.560><c> to</c><00:10:51.490><c> examine</c><00:10:52.180><c> each</c><00:10:52.660><c> individual</c><00:10:53.560><c> of</c>
+
+00:10:53.730 --> 00:10:53.740 align:start position:0%
+software to examine each individual of
+ 
+
+00:10:53.740 --> 00:10:55.830 align:start position:0%
+software to examine each individual of
+your<00:10:54.040><c> customers</c><00:10:54.700><c> accounts</c><00:10:55.180><c> so</c><00:10:55.300><c> each</c><00:10:55.480><c> one</c><00:10:55.690><c> of</c>
+
+00:10:55.830 --> 00:10:55.840 align:start position:0%
+your customers accounts so each one of
+ 
+
+00:10:55.840 --> 00:10:56.740 align:start position:0%
+your customers accounts so each one of
+your<00:10:55.960><c> customers</c><00:10:56.260><c> account</c>
+
+00:10:56.740 --> 00:10:56.750 align:start position:0%
+your customers account
+ 
+
+00:10:56.750 --> 00:10:59.319 align:start position:0%
+your customers account
+and<00:10:56.839><c> for</c><00:10:57.439><c> each</c><00:10:57.620><c> account</c><00:10:57.980><c> decide</c><00:10:58.790><c> whether</c><00:10:59.149><c> or</c>
+
+00:10:59.319 --> 00:10:59.329 align:start position:0%
+and for each account decide whether or
+ 
+
+00:10:59.329 --> 00:11:01.119 align:start position:0%
+and for each account decide whether or
+not<00:10:59.509><c> the</c><00:10:59.990><c> account</c><00:11:00.379><c> has</c><00:11:00.560><c> been</c><00:11:00.589><c> hacked</c><00:11:00.769><c> or</c>
+
+00:11:01.119 --> 00:11:01.129 align:start position:0%
+not the account has been hacked or
+ 
+
+00:11:01.129 --> 00:11:03.759 align:start position:0%
+not the account has been hacked or
+compromised<00:11:02.019><c> so</c><00:11:03.019><c> for</c><00:11:03.379><c> each</c><00:11:03.529><c> of</c><00:11:03.680><c> these</c>
+
+00:11:03.759 --> 00:11:03.769 align:start position:0%
+compromised so for each of these
+ 
+
+00:11:03.769 --> 00:11:05.710 align:start position:0%
+compromised so for each of these
+problems<00:11:04.339><c> should</c><00:11:04.579><c> they</c><00:11:04.939><c> be</c><00:11:05.089><c> treated</c><00:11:05.300><c> as</c><00:11:05.689><c> a</c>
+
+00:11:05.710 --> 00:11:05.720 align:start position:0%
+problems should they be treated as a
+ 
+
+00:11:05.720 --> 00:11:07.600 align:start position:0%
+problems should they be treated as a
+classification<00:11:06.350><c> problem</c><00:11:06.709><c> or</c><00:11:07.279><c> as</c><00:11:07.579><c> a</c>
+
+00:11:07.600 --> 00:11:07.610 align:start position:0%
+classification problem or as a
+ 
+
+00:11:07.610 --> 00:11:10.449 align:start position:0%
+classification problem or as a
+regression<00:11:08.060><c> problem</c><00:11:08.860><c> when</c><00:11:09.860><c> the</c><00:11:09.980><c> video</c><00:11:10.220><c> pauses</c>
+
+00:11:10.449 --> 00:11:10.459 align:start position:0%
+regression problem when the video pauses
+ 
+
+00:11:10.459 --> 00:11:12.340 align:start position:0%
+regression problem when the video pauses
+please<00:11:11.089><c> use</c><00:11:11.389><c> your</c><00:11:11.569><c> mouse</c><00:11:11.750><c> to</c><00:11:12.050><c> select</c>
+
+00:11:12.340 --> 00:11:12.350 align:start position:0%
+please use your mouse to select
+ 
+
+00:11:12.350 --> 00:11:15.009 align:start position:0%
+please use your mouse to select
+whichever<00:11:13.339><c> of</c><00:11:13.519><c> these</c><00:11:13.879><c> four</c><00:11:14.209><c> options</c><00:11:14.689><c> on</c><00:11:14.899><c> the</c>
+
+00:11:15.009 --> 00:11:15.019 align:start position:0%
+whichever of these four options on the
+ 
+
+00:11:15.019 --> 00:11:21.040 align:start position:0%
+whichever of these four options on the
+left<00:11:15.439><c> you</c><00:11:15.860><c> think</c><00:11:16.189><c> is</c><00:11:16.459><c> the</c><00:11:16.730><c> correct</c><00:11:17.149><c> answer</c><00:11:20.050><c> so</c>
+
+00:11:21.040 --> 00:11:21.050 align:start position:0%
+left you think is the correct answer so
+ 
+
+00:11:21.050 --> 00:11:23.439 align:start position:0%
+left you think is the correct answer so
+hopefully<00:11:21.589><c> you</c><00:11:21.949><c> got</c><00:11:22.220><c> that</c><00:11:22.279><c> this</c><00:11:23.149><c> is</c><00:11:23.300><c> the</c>
+
+00:11:23.439 --> 00:11:23.449 align:start position:0%
+hopefully you got that this is the
+ 
+
+00:11:23.449 --> 00:11:26.050 align:start position:0%
+hopefully you got that this is the
+answer<00:11:23.810><c> for</c><00:11:24.019><c> problem</c><00:11:24.949><c> 1</c><00:11:24.980><c> I</c><00:11:25.370><c> would</c><00:11:25.670><c> treat</c><00:11:25.879><c> this</c>
+
+00:11:26.050 --> 00:11:26.060 align:start position:0%
+answer for problem 1 I would treat this
+ 
+
+00:11:26.060 --> 00:11:28.300 align:start position:0%
+answer for problem 1 I would treat this
+as<00:11:26.329><c> a</c><00:11:26.360><c> regression</c><00:11:26.930><c> problem</c><00:11:27.139><c> because</c><00:11:27.920><c> if</c><00:11:28.189><c> I</c>
+
+00:11:28.300 --> 00:11:28.310 align:start position:0%
+as a regression problem because if I
+ 
+
+00:11:28.310 --> 00:11:30.850 align:start position:0%
+as a regression problem because if I
+have<00:11:28.519><c> you</c><00:11:28.970><c> know</c><00:11:29.089><c> thousands</c><00:11:29.600><c> of</c><00:11:29.720><c> items</c><00:11:29.870><c> well</c><00:11:30.680><c> I</c>
+
+00:11:30.850 --> 00:11:30.860 align:start position:0%
+have you know thousands of items well I
+ 
+
+00:11:30.860 --> 00:11:32.470 align:start position:0%
+have you know thousands of items well I
+would<00:11:31.069><c> probably</c><00:11:31.339><c> just</c><00:11:31.610><c> treat</c><00:11:31.879><c> this</c><00:11:32.029><c> as</c><00:11:32.240><c> a</c><00:11:32.300><c> real</c>
+
+00:11:32.470 --> 00:11:32.480 align:start position:0%
+would probably just treat this as a real
+ 
+
+00:11:32.480 --> 00:11:36.670 align:start position:0%
+would probably just treat this as a real
+value<00:11:33.110><c> as</c><00:11:33.259><c> a</c><00:11:33.290><c> continuous</c><00:11:34.189><c> value</c><00:11:34.480><c> and</c><00:11:35.680><c> treat</c>
+
+00:11:36.670 --> 00:11:36.680 align:start position:0%
+value as a continuous value and treat
+ 
+
+00:11:36.680 --> 00:11:38.980 align:start position:0%
+value as a continuous value and treat
+therefore<00:11:37.160><c> the</c><00:11:37.610><c> number</c><00:11:37.879><c> of</c><00:11:37.970><c> items</c><00:11:38.120><c> I</c><00:11:38.480><c> sell</c><00:11:38.720><c> as</c>
+
+00:11:38.980 --> 00:11:38.990 align:start position:0%
+therefore the number of items I sell as
+ 
+
+00:11:38.990 --> 00:11:42.519 align:start position:0%
+therefore the number of items I sell as
+a<00:11:39.319><c> continuous</c><00:11:40.189><c> value</c><00:11:40.610><c> and</c><00:11:40.930><c> for</c><00:11:41.930><c> the</c><00:11:42.199><c> second</c>
+
+00:11:42.519 --> 00:11:42.529 align:start position:0%
+a continuous value and for the second
+ 
+
+00:11:42.529 --> 00:11:43.720 align:start position:0%
+a continuous value and for the second
+problem<00:11:42.709><c> I</c><00:11:43.040><c> would</c><00:11:43.220><c> treat</c><00:11:43.399><c> that</c><00:11:43.459><c> as</c><00:11:43.699><c> a</c>
+
+00:11:43.720 --> 00:11:43.730 align:start position:0%
+problem I would treat that as a
+ 
+
+00:11:43.730 --> 00:11:46.960 align:start position:0%
+problem I would treat that as a
+classification<00:11:44.600><c> problem</c><00:11:44.990><c> because</c><00:11:45.949><c> I</c><00:11:46.459><c> might</c>
+
+00:11:46.960 --> 00:11:46.970 align:start position:0%
+classification problem because I might
+ 
+
+00:11:46.970 --> 00:11:49.960 align:start position:0%
+classification problem because I might
+say<00:11:47.240><c> set</c><00:11:47.959><c> the</c><00:11:48.290><c> value</c><00:11:49.100><c> I</c><00:11:49.129><c> want</c><00:11:49.279><c> to</c><00:11:49.459><c> predict</c><00:11:49.790><c> to</c>
+
+00:11:49.960 --> 00:11:49.970 align:start position:0%
+say set the value I want to predict to
+ 
+
+00:11:49.970 --> 00:11:52.900 align:start position:0%
+say set the value I want to predict to
+be<00:11:50.089><c> 0</c><00:11:50.540><c> to</c><00:11:51.079><c> denote</c><00:11:51.410><c> the</c><00:11:51.860><c> account</c><00:11:52.189><c> has</c><00:11:52.430><c> not</c><00:11:52.670><c> been</c>
+
+00:11:52.900 --> 00:11:52.910 align:start position:0%
+be 0 to denote the account has not been
+ 
+
+00:11:52.910 --> 00:11:56.800 align:start position:0%
+be 0 to denote the account has not been
+hacked<00:11:53.180><c> and</c><00:11:53.800><c> set</c><00:11:54.800><c> the</c><00:11:54.949><c> value</c><00:11:55.250><c> 1</c><00:11:55.519><c> to</c><00:11:56.209><c> denote</c><00:11:56.360><c> an</c>
+
+00:11:56.800 --> 00:11:56.810 align:start position:0%
+hacked and set the value 1 to denote an
+ 
+
+00:11:56.810 --> 00:11:59.410 align:start position:0%
+hacked and set the value 1 to denote an
+account<00:11:57.170><c> that</c><00:11:57.529><c> has</c><00:11:57.800><c> been</c><00:11:58.100><c> hacked</c><00:11:58.699><c> into</c><00:11:58.970><c> so</c>
+
+00:11:59.410 --> 00:11:59.420 align:start position:0%
+account that has been hacked into so
+ 
+
+00:11:59.420 --> 00:12:01.449 align:start position:0%
+account that has been hacked into so
+just<00:11:59.660><c> like</c><00:11:59.839><c> your</c><00:12:00.019><c> breast</c><00:12:00.290><c> cancers</c><00:12:00.709><c> right</c><00:12:00.949><c> 0</c><00:12:01.279><c> or</c>
+
+00:12:01.449 --> 00:12:01.459 align:start position:0%
+just like your breast cancers right 0 or
+ 
+
+00:12:01.459 --> 00:12:03.460 align:start position:0%
+just like your breast cancers right 0 or
+benign<00:12:01.699><c> 1</c><00:12:02.059><c> is</c><00:12:02.209><c> malignant</c><00:12:02.509><c> so</c><00:12:02.990><c> I</c><00:12:03.019><c> might</c><00:12:03.230><c> set</c>
+
+00:12:03.460 --> 00:12:03.470 align:start position:0%
+benign 1 is malignant so I might set
+ 
+
+00:12:03.470 --> 00:12:05.559 align:start position:0%
+benign 1 is malignant so I might set
+this<00:12:03.949><c> be</c><00:12:04.189><c> 0</c><00:12:04.459><c> or</c><00:12:04.639><c> 1</c><00:12:04.670><c> depending</c><00:12:05.029><c> whether</c><00:12:05.389><c> it's</c>
+
+00:12:05.559 --> 00:12:05.569 align:start position:0%
+this be 0 or 1 depending whether it's
+ 
+
+00:12:05.569 --> 00:12:07.600 align:start position:0%
+this be 0 or 1 depending whether it's
+been<00:12:05.689><c> hacked</c><00:12:05.930><c> and</c><00:12:06.170><c> have</c><00:12:06.680><c> an</c><00:12:06.769><c> algorithm</c><00:12:07.040><c> try</c><00:12:07.550><c> to</c>
+
+00:12:07.600 --> 00:12:07.610 align:start position:0%
+been hacked and have an algorithm try to
+ 
+
+00:12:07.610 --> 00:12:11.290 align:start position:0%
+been hacked and have an algorithm try to
+predict<00:12:08.559><c> each</c><00:12:09.559><c> one</c><00:12:10.100><c> of</c><00:12:10.250><c> these</c><00:12:10.399><c> two</c><00:12:10.759><c> discrete</c>
+
+00:12:11.290 --> 00:12:11.300 align:start position:0%
+predict each one of these two discrete
+ 
+
+00:12:11.300 --> 00:12:13.689 align:start position:0%
+predict each one of these two discrete
+values<00:12:11.750><c> and</c><00:12:12.050><c> because</c><00:12:12.920><c> that's</c><00:12:13.100><c> a</c><00:12:13.250><c> small</c><00:12:13.519><c> number</c>
+
+00:12:13.689 --> 00:12:13.699 align:start position:0%
+values and because that's a small number
+ 
+
+00:12:13.699 --> 00:12:15.189 align:start position:0%
+values and because that's a small number
+of<00:12:13.879><c> discrete</c><00:12:14.209><c> values</c><00:12:14.600><c> I</c><00:12:14.839><c> would</c><00:12:15.050><c> therefore</c>
+
+00:12:15.189 --> 00:12:15.199 align:start position:0%
+of discrete values I would therefore
+ 
+
+00:12:15.199 --> 00:12:18.840 align:start position:0%
+of discrete values I would therefore
+treat<00:12:15.709><c> it</c><00:12:15.860><c> as</c><00:12:16.009><c> a</c><00:12:16.040><c> classification</c><00:12:16.550><c> problem</c><00:12:17.769><c> so</c>
+
+00:12:18.840 --> 00:12:18.850 align:start position:0%
+treat it as a classification problem so
+ 
+
+00:12:18.850 --> 00:12:21.910 align:start position:0%
+treat it as a classification problem so
+that's<00:12:19.850><c> it</c><00:12:20.089><c> for</c><00:12:20.240><c> supervised</c><00:12:20.629><c> learning</c><00:12:20.660><c> and</c><00:12:21.199><c> in</c>
+
+00:12:21.910 --> 00:12:21.920 align:start position:0%
+that's it for supervised learning and in
+ 
+
+00:12:21.920 --> 00:12:23.650 align:start position:0%
+that's it for supervised learning and in
+the<00:12:22.250><c> next</c><00:12:22.519><c> video</c><00:12:22.759><c> I</c><00:12:23.000><c> will</c><00:12:23.240><c> talk</c><00:12:23.449><c> about</c>
+
+00:12:23.650 --> 00:12:23.660 align:start position:0%
+the next video I will talk about
+ 
+
+00:12:23.660 --> 00:12:25.900 align:start position:0%
+the next video I will talk about
+unsupervised<00:12:24.500><c> learning</c><00:12:24.649><c> which</c><00:12:25.430><c> is</c><00:12:25.610><c> the</c><00:12:25.759><c> other</c>
+
+00:12:25.900 --> 00:12:25.910 align:start position:0%
+unsupervised learning which is the other
+ 
+
+00:12:25.910 --> 00:12:30.220 align:start position:0%
+unsupervised learning which is the other
+major<00:12:26.329><c> category</c><00:12:26.990><c> of</c><00:12:27.290><c> learning</c><00:12:27.740><c> algorithm</c>
+

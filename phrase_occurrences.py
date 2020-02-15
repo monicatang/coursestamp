@@ -26,8 +26,14 @@ def find_occurrences(phrase, filename):
           if phrase in video_data[timestamps[index]]:
             timestamp = timestamps[index] if index == 0 else timestamps[index - 1]
             titles.append(title)
-            urls.append(youtube + youtube_id + "?start=" + timestamp)
-            phrases.append(video_data[timestamps[index]])
+            urls.append(youtube + video_code + "?start=" + timestamp)
+            context = ""
+            if(index >0):
+              context+=video_data[timestamps[index-1]]
+            context+=video_data[timestamps[index]]
+            if(index <len(timestamps)-1):
+              context+=video_data[timestamps[index+1]]
+            phrases.append(context)
   return titles, urls, phrases
 
 if __name__ == '__main__':

@@ -8,7 +8,7 @@ app = Flask(__name__)
 app.config.from_object(__name__)
 csrf = CSRFProtect(app)
 
-SECRET_KEY = os.urandom(32)
+SECRET_KEY = 'go bears'
 app.config['SECRET_KEY'] = SECRET_KEY
 
 @app.route('/', methods=('GET', 'POST'))

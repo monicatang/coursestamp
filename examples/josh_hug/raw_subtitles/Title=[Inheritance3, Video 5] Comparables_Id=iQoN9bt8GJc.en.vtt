@@ -1,0 +1,1080 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.079 --> 00:00:02.810 align:start position:0%
+ 
+well<00:00:01.079><c> the</c><00:00:01.319><c> are</c><00:00:01.560><c> comparable</c><00:00:02.070><c> approach</c><00:00:02.460><c> we</c><00:00:02.639><c> just</c>
+
+00:00:02.810 --> 00:00:02.820 align:start position:0%
+well the are comparable approach we just
+ 
+
+00:00:02.820 --> 00:00:04.700 align:start position:0%
+well the are comparable approach we just
+used<00:00:03.000><c> will</c><00:00:03.179><c> certainly</c><00:00:03.419><c> work</c><00:00:03.659><c> it's</c><00:00:04.319><c> not</c><00:00:04.440><c> great</c>
+
+00:00:04.700 --> 00:00:04.710 align:start position:0%
+used will certainly work it's not great
+ 
+
+00:00:04.710 --> 00:00:06.320 align:start position:0%
+used will certainly work it's not great
+so<00:00:05.400><c> what</c><00:00:05.490><c> we're</c><00:00:05.580><c> gonna</c><00:00:05.640><c> do</c><00:00:05.819><c> is</c><00:00:05.940><c> make</c><00:00:06.089><c> things</c>
+
+00:00:06.320 --> 00:00:06.330 align:start position:0%
+so what we're gonna do is make things
+ 
+
+00:00:06.330 --> 00:00:08.000 align:start position:0%
+so what we're gonna do is make things
+better<00:00:06.480><c> using</c><00:00:06.960><c> a</c><00:00:07.020><c> built-in</c><00:00:07.350><c> interface</c><00:00:07.649><c> known</c>
+
+00:00:08.000 --> 00:00:08.010 align:start position:0%
+better using a built-in interface known
+ 
+
+00:00:08.010 --> 00:00:09.530 align:start position:0%
+better using a built-in interface known
+as<00:00:08.130><c> comfortable</c><00:00:08.519><c> so</c><00:00:09.000><c> let's</c><00:00:09.120><c> start</c><00:00:09.389><c> by</c>
+
+00:00:09.530 --> 00:00:09.540 align:start position:0%
+as comfortable so let's start by
+ 
+
+00:00:09.540 --> 00:00:11.000 align:start position:0%
+as comfortable so let's start by
+thinking<00:00:09.599><c> about</c><00:00:10.019><c> what's</c><00:00:10.320><c> not</c><00:00:10.469><c> great</c><00:00:10.650><c> about</c>
+
+00:00:11.000 --> 00:00:11.010 align:start position:0%
+thinking about what's not great about
+ 
+
+00:00:11.010 --> 00:00:13.160 align:start position:0%
+thinking about what's not great about
+what<00:00:11.160><c> we</c><00:00:11.280><c> just</c><00:00:11.309><c> did</c><00:00:11.639><c> the</c><00:00:12.570><c> first</c><00:00:12.780><c> problem</c><00:00:13.080><c> is</c>
+
+00:00:13.160 --> 00:00:13.170 align:start position:0%
+what we just did the first problem is
+ 
+
+00:00:13.170 --> 00:00:15.709 align:start position:0%
+what we just did the first problem is
+the<00:00:13.380><c> strange</c><00:00:13.740><c> casting</c><00:00:14.340><c> we</c><00:00:14.429><c> have</c><00:00:14.580><c> to</c><00:00:14.759><c> do</c><00:00:14.880><c> so</c><00:00:15.660><c> if</c>
+
+00:00:15.709 --> 00:00:15.719 align:start position:0%
+the strange casting we have to do so if
+ 
+
+00:00:15.719 --> 00:00:17.090 align:start position:0%
+the strange casting we have to do so if
+we<00:00:15.809><c> look</c><00:00:15.929><c> at</c><00:00:16.020><c> the</c><00:00:16.139><c> compareto</c><00:00:16.470><c> method</c><00:00:16.590><c> of</c><00:00:16.980><c> the</c>
+
+00:00:17.090 --> 00:00:17.100 align:start position:0%
+we look at the compareto method of the
+ 
+
+00:00:17.100 --> 00:00:19.580 align:start position:0%
+we look at the compareto method of the
+dog<00:00:17.250><c> class</c><00:00:17.609><c> we</c><00:00:18.090><c> had</c><00:00:18.270><c> to</c><00:00:18.420><c> take</c><00:00:18.539><c> the</c><00:00:18.750><c> object</c><00:00:19.289><c> that</c>
+
+00:00:19.580 --> 00:00:19.590 align:start position:0%
+dog class we had to take the object that
+ 
+
+00:00:19.590 --> 00:00:21.320 align:start position:0%
+dog class we had to take the object that
+was<00:00:19.740><c> given</c><00:00:20.010><c> to</c><00:00:20.130><c> us</c><00:00:20.220><c> and</c><00:00:20.430><c> cast</c><00:00:20.820><c> it</c><00:00:21.029><c> to</c><00:00:21.060><c> dog</c>
+
+00:00:21.320 --> 00:00:21.330 align:start position:0%
+was given to us and cast it to dog
+ 
+
+00:00:21.330 --> 00:00:23.599 align:start position:0%
+was given to us and cast it to dog
+before<00:00:21.600><c> we</c><00:00:21.869><c> can</c><00:00:22.020><c> get</c><00:00:22.170><c> the</c><00:00:22.320><c> size</c><00:00:22.500><c> and</c><00:00:23.279><c> that</c><00:00:23.430><c> just</c>
+
+00:00:23.599 --> 00:00:23.609 align:start position:0%
+before we can get the size and that just
+ 
+
+00:00:23.609 --> 00:00:25.310 align:start position:0%
+before we can get the size and that just
+makes<00:00:23.760><c> the</c><00:00:23.910><c> code</c><00:00:24.090><c> a</c><00:00:24.150><c> little</c><00:00:24.449><c> ugly</c><00:00:24.720><c> ideally</c><00:00:25.199><c> we</c>
+
+00:00:25.310 --> 00:00:25.320 align:start position:0%
+makes the code a little ugly ideally we
+ 
+
+00:00:25.320 --> 00:00:27.920 align:start position:0%
+makes the code a little ugly ideally we
+don't<00:00:25.500><c> want</c><00:00:25.650><c> castes</c><00:00:26.070><c> in</c><00:00:26.189><c> our</c><00:00:26.310><c> code</c><00:00:26.930><c> similarly</c>
+
+00:00:27.920 --> 00:00:27.930 align:start position:0%
+don't want castes in our code similarly
+ 
+
+00:00:27.930 --> 00:00:30.380 align:start position:0%
+don't want castes in our code similarly
+in<00:00:28.260><c> Maximizer</c><00:00:29.189><c> when</c><00:00:29.580><c> we</c><00:00:29.699><c> call</c><00:00:29.880><c> the</c><00:00:30.000><c> dot</c><00:00:30.179><c> max</c>
+
+00:00:30.380 --> 00:00:30.390 align:start position:0%
+in Maximizer when we call the dot max
+ 
+
+00:00:30.390 --> 00:00:32.389 align:start position:0%
+in Maximizer when we call the dot max
+method<00:00:30.840><c> we</c><00:00:31.289><c> see</c><00:00:31.470><c> that</c><00:00:31.619><c> it</c><00:00:31.710><c> returns</c><00:00:32.040><c> an</c><00:00:32.250><c> are</c>
+
+00:00:32.389 --> 00:00:32.399 align:start position:0%
+method we see that it returns an are
+ 
+
+00:00:32.399 --> 00:00:34.490 align:start position:0%
+method we see that it returns an are
+comparable<00:00:32.969><c> and</c><00:00:33.270><c> thus</c><00:00:33.930><c> if</c><00:00:34.140><c> we</c><00:00:34.290><c> want</c><00:00:34.440><c> to</c>
+
+00:00:34.490 --> 00:00:34.500 align:start position:0%
+comparable and thus if we want to
+ 
+
+00:00:34.500 --> 00:00:36.110 align:start position:0%
+comparable and thus if we want to
+actually<00:00:34.620><c> store</c><00:00:34.950><c> it</c><00:00:35.070><c> in</c><00:00:35.130><c> a</c><00:00:35.219><c> dog</c><00:00:35.370><c> variable</c><00:00:35.910><c> we</c>
+
+00:00:36.110 --> 00:00:36.120 align:start position:0%
+actually store it in a dog variable we
+ 
+
+00:00:36.120 --> 00:00:38.030 align:start position:0%
+actually store it in a dog variable we
+have<00:00:36.239><c> to</c><00:00:36.329><c> cast</c><00:00:36.570><c> okay</c><00:00:37.020><c> and</c><00:00:37.410><c> make</c><00:00:37.530><c> sure</c><00:00:37.649><c> you</c><00:00:37.770><c> can</c>
+
+00:00:38.030 --> 00:00:38.040 align:start position:0%
+have to cast okay and make sure you can
+ 
+
+00:00:38.040 --> 00:00:41.389 align:start position:0%
+have to cast okay and make sure you can
+think<00:00:38.399><c> about</c><00:00:38.879><c> why</c><00:00:39.120><c> that</c><00:00:39.329><c> is</c><00:00:39.980><c> so</c><00:00:40.980><c> in</c><00:00:41.100><c> this</c><00:00:41.190><c> case</c>
+
+00:00:41.389 --> 00:00:41.399 align:start position:0%
+think about why that is so in this case
+ 
+
+00:00:41.399 --> 00:00:43.040 align:start position:0%
+think about why that is so in this case
+we<00:00:41.760><c> don't</c><00:00:41.940><c> really</c><00:00:42.120><c> like</c><00:00:42.480><c> this</c><00:00:42.660><c> and</c><00:00:42.930><c> it'd</c><00:00:43.020><c> be</c>
+
+00:00:43.040 --> 00:00:43.050 align:start position:0%
+we don't really like this and it'd be
+ 
+
+00:00:43.050 --> 00:00:44.479 align:start position:0%
+we don't really like this and it'd be
+better<00:00:43.230><c> if</c><00:00:43.350><c> we</c><00:00:43.530><c> didn't</c><00:00:43.950><c> have</c><00:00:44.070><c> those</c><00:00:44.280><c> features</c>
+
+00:00:44.479 --> 00:00:44.489 align:start position:0%
+better if we didn't have those features
+ 
+
+00:00:44.489 --> 00:00:47.479 align:start position:0%
+better if we didn't have those features
+now<00:00:44.989><c> the</c><00:00:45.989><c> other</c><00:00:46.260><c> and</c><00:00:46.680><c> actually</c><00:00:46.829><c> bigger</c><00:00:47.219><c> deal</c>
+
+00:00:47.479 --> 00:00:47.489 align:start position:0%
+now the other and actually bigger deal
+ 
+
+00:00:47.489 --> 00:00:48.740 align:start position:0%
+now the other and actually bigger deal
+is<00:00:47.760><c> that</c><00:00:47.820><c> we</c><00:00:48.030><c> just</c><00:00:48.239><c> made</c><00:00:48.360><c> it</c><00:00:48.480><c> up</c>
+
+00:00:48.740 --> 00:00:48.750 align:start position:0%
+is that we just made it up
+ 
+
+00:00:48.750 --> 00:00:50.600 align:start position:0%
+is that we just made it up
+so<00:00:49.170><c> our</c><00:00:49.410><c> comparable</c><00:00:49.860><c> is</c><00:00:49.950><c> not</c><00:00:50.070><c> a</c><00:00:50.100><c> real</c><00:00:50.309><c> thing</c>
+
+00:00:50.600 --> 00:00:50.610 align:start position:0%
+so our comparable is not a real thing
+ 
+
+00:00:50.610 --> 00:00:53.630 align:start position:0%
+so our comparable is not a real thing
+and<00:00:50.879><c> as</c><00:00:51.600><c> a</c><00:00:51.660><c> result</c><00:00:51.809><c> there</c><00:00:52.710><c> are</c><00:00:52.739><c> no</c><00:00:52.980><c> classes</c><00:00:53.280><c> out</c>
+
+00:00:53.630 --> 00:00:53.640 align:start position:0%
+and as a result there are no classes out
+ 
+
+00:00:53.640 --> 00:00:55.160 align:start position:0%
+and as a result there are no classes out
+there<00:00:53.670><c> that</c><00:00:53.969><c> already</c><00:00:54.090><c> implement</c><00:00:54.570><c> are</c><00:00:54.690><c> capable</c>
+
+00:00:55.160 --> 00:00:55.170 align:start position:0%
+there that already implement are capable
+ 
+
+00:00:55.170 --> 00:00:57.619 align:start position:0%
+there that already implement are capable
+so<00:00:55.770><c> if</c><00:00:55.829><c> we</c><00:00:55.890><c> tried</c><00:00:56.160><c> to</c><00:00:56.190><c> use</c><00:00:56.340><c> our</c><00:00:56.610><c> Maximizer</c><00:00:57.149><c> max</c>
+
+00:00:57.619 --> 00:00:57.629 align:start position:0%
+so if we tried to use our Maximizer max
+ 
+
+00:00:57.629 --> 00:00:59.840 align:start position:0%
+so if we tried to use our Maximizer max
+method<00:00:58.050><c> with</c><00:00:58.199><c> strings</c><00:00:58.649><c> for</c><00:00:59.039><c> example</c><00:00:59.129><c> they</c>
+
+00:00:59.840 --> 00:00:59.850 align:start position:0%
+method with strings for example they
+ 
+
+00:00:59.850 --> 00:01:01.639 align:start position:0%
+method with strings for example they
+don't<00:01:00.059><c> implement</c><00:01:00.510><c> our</c><00:01:00.570><c> comparable</c><00:01:01.050><c> so</c><00:01:01.320><c> it</c>
+
+00:01:01.639 --> 00:01:01.649 align:start position:0%
+don't implement our comparable so it
+ 
+
+00:01:01.649 --> 00:01:04.570 align:start position:0%
+don't implement our comparable so it
+will<00:01:01.739><c> be</c><00:01:01.829><c> useless</c><00:01:02.010><c> for</c><00:01:02.430><c> those</c><00:01:03.409><c> similarly</c>
+
+00:01:04.570 --> 00:01:04.580 align:start position:0%
+will be useless for those similarly
+ 
+
+00:01:04.580 --> 00:01:06.800 align:start position:0%
+will be useless for those similarly
+there<00:01:05.580><c> are</c><00:01:05.700><c> no</c><00:01:05.850><c> classes</c><00:01:06.060><c> out</c><00:01:06.420><c> there</c><00:01:06.450><c> that</c>
+
+00:01:06.800 --> 00:01:06.810 align:start position:0%
+there are no classes out there that
+ 
+
+00:01:06.810 --> 00:01:08.120 align:start position:0%
+there are no classes out there that
+already<00:01:07.170><c> do</c><00:01:07.320><c> all</c><00:01:07.470><c> the</c><00:01:07.590><c> things</c><00:01:07.770><c> that</c><00:01:07.890><c> we</c><00:01:07.979><c> want</c>
+
+00:01:08.120 --> 00:01:08.130 align:start position:0%
+already do all the things that we want
+ 
+
+00:01:08.130 --> 00:01:10.130 align:start position:0%
+already do all the things that we want
+to<00:01:08.159><c> do</c><00:01:08.310><c> like</c><00:01:08.520><c> finding</c><00:01:09.090><c> the</c><00:01:09.210><c> max</c><00:01:09.390><c> finding</c><00:01:09.990><c> them</c>
+
+00:01:10.130 --> 00:01:10.140 align:start position:0%
+to do like finding the max finding them
+ 
+
+00:01:10.140 --> 00:01:13.490 align:start position:0%
+to do like finding the max finding them
+in<00:01:10.290><c> finding</c><00:01:10.799><c> the</c><00:01:11.159><c> median</c><00:01:11.869><c> that</c><00:01:12.869><c> work</c><00:01:13.320><c> with</c><00:01:13.470><c> our</c>
+
+00:01:13.490 --> 00:01:13.500 align:start position:0%
+in finding the median that work with our
+ 
+
+00:01:13.500 --> 00:01:15.380 align:start position:0%
+in finding the median that work with our
+comparables<00:01:14.100><c> and</c><00:01:14.189><c> thus</c><00:01:14.640><c> for</c><00:01:14.820><c> everything</c><00:01:15.270><c> we</c>
+
+00:01:15.380 --> 00:01:15.390 align:start position:0%
+comparables and thus for everything we
+ 
+
+00:01:15.390 --> 00:01:16.490 align:start position:0%
+comparables and thus for everything we
+might<00:01:15.570><c> want</c><00:01:15.780><c> to</c><00:01:15.810><c> do</c><00:01:15.990><c> that</c><00:01:16.170><c> involves</c>
+
+00:01:16.490 --> 00:01:16.500 align:start position:0%
+might want to do that involves
+ 
+
+00:01:16.500 --> 00:01:18.499 align:start position:0%
+might want to do that involves
+comparison<00:01:17.130><c> we</c><00:01:17.460><c> have</c><00:01:17.610><c> to</c><00:01:17.729><c> write</c><00:01:17.880><c> our</c><00:01:18.000><c> own</c><00:01:18.150><c> max</c>
+
+00:01:18.499 --> 00:01:18.509 align:start position:0%
+comparison we have to write our own max
+ 
+
+00:01:18.509 --> 00:01:20.359 align:start position:0%
+comparison we have to write our own max
+method<00:01:18.930><c> on</c><00:01:19.020><c> our</c><00:01:19.140><c> own</c><00:01:19.320><c> men</c><00:01:19.560><c> method</c><00:01:19.950><c> on</c><00:01:20.070><c> our</c><00:01:20.159><c> own</c>
+
+00:01:20.359 --> 00:01:20.369 align:start position:0%
+method on our own men method on our own
+ 
+
+00:01:20.369 --> 00:01:23.960 align:start position:0%
+method on our own men method on our own
+whatever<00:01:21.299><c> else</c><00:01:21.420><c> so</c><00:01:22.640><c> fundamentally</c><00:01:23.640><c> the</c><00:01:23.850><c> issue</c>
+
+00:01:23.960 --> 00:01:23.970 align:start position:0%
+whatever else so fundamentally the issue
+ 
+
+00:01:23.970 --> 00:01:25.580 align:start position:0%
+whatever else so fundamentally the issue
+is<00:01:24.180><c> we</c><00:01:24.390><c> made</c><00:01:24.570><c> it</c><00:01:24.659><c> up</c><00:01:24.780><c> it's</c><00:01:25.020><c> not</c><00:01:25.140><c> a</c><00:01:25.200><c> real</c><00:01:25.380><c> thing</c>
+
+00:01:25.580 --> 00:01:25.590 align:start position:0%
+is we made it up it's not a real thing
+ 
+
+00:01:25.590 --> 00:01:27.859 align:start position:0%
+is we made it up it's not a real thing
+and<00:01:25.860><c> unless</c><00:01:26.549><c> you</c><00:01:26.880><c> intend</c><00:01:27.240><c> to</c><00:01:27.299><c> rewrite</c><00:01:27.659><c> the</c>
+
+00:01:27.859 --> 00:01:27.869 align:start position:0%
+and unless you intend to rewrite the
+ 
+
+00:01:27.869 --> 00:01:29.569 align:start position:0%
+and unless you intend to rewrite the
+entirety<00:01:28.320><c> of</c><00:01:28.409><c> the</c><00:01:28.500><c> java</c><00:01:28.710><c> standard</c><00:01:28.860><c> library</c>
+
+00:01:29.569 --> 00:01:29.579 align:start position:0%
+entirety of the java standard library
+ 
+
+00:01:29.579 --> 00:01:31.399 align:start position:0%
+entirety of the java standard library
+now<00:01:29.790><c> with</c><00:01:29.970><c> our</c><00:01:30.090><c> comparable</c><00:01:30.570><c> not</c><00:01:31.079><c> gonna</c><00:01:31.229><c> be</c><00:01:31.380><c> a</c>
+
+00:01:31.399 --> 00:01:31.409 align:start position:0%
+now with our comparable not gonna be a
+ 
+
+00:01:31.409 --> 00:01:32.240 align:start position:0%
+now with our comparable not gonna be a
+very<00:01:31.680><c> fun</c><00:01:31.860><c> time</c>
+
+00:01:32.240 --> 00:01:32.250 align:start position:0%
+very fun time
+ 
+
+00:01:32.250 --> 00:01:34.520 align:start position:0%
+very fun time
+so<00:01:33.210><c> our</c><00:01:33.299><c> fix</c><00:01:33.479><c> actually</c><00:01:33.930><c> is</c><00:01:34.140><c> going</c><00:01:34.350><c> to</c><00:01:34.439><c> be</c>
+
+00:01:34.520 --> 00:01:34.530 align:start position:0%
+so our fix actually is going to be
+ 
+
+00:01:34.530 --> 00:01:36.170 align:start position:0%
+so our fix actually is going to be
+pretty<00:01:34.710><c> simple</c><00:01:34.950><c> and</c><00:01:35.310><c> that</c><00:01:35.700><c> is</c><00:01:35.850><c> we're</c><00:01:36.090><c> gonna</c>
+
+00:01:36.170 --> 00:01:36.180 align:start position:0%
+pretty simple and that is we're gonna
+ 
+
+00:01:36.180 --> 00:01:37.700 align:start position:0%
+pretty simple and that is we're gonna
+take<00:01:36.420><c> advantage</c><00:01:36.540><c> of</c><00:01:36.960><c> an</c><00:01:37.049><c> interface</c><00:01:37.409><c> built</c>
+
+00:01:37.700 --> 00:01:37.710 align:start position:0%
+take advantage of an interface built
+ 
+
+00:01:37.710 --> 00:01:39.950 align:start position:0%
+take advantage of an interface built
+into<00:01:38.040><c> java</c><00:01:38.250><c> called</c><00:01:38.700><c> comparable</c><00:01:39.240><c> so</c><00:01:39.780><c> instead</c>
+
+00:01:39.950 --> 00:01:39.960 align:start position:0%
+into java called comparable so instead
+ 
+
+00:01:39.960 --> 00:01:41.660 align:start position:0%
+into java called comparable so instead
+of<00:01:40.020><c> our</c><00:01:40.290><c> comparable</c><00:01:40.890><c> the</c><00:01:41.130><c> one</c><00:01:41.250><c> you</c><00:01:41.400><c> and</c><00:01:41.549><c> i</c>
+
+00:01:41.660 --> 00:01:41.670 align:start position:0%
+of our comparable the one you and i
+ 
+
+00:01:41.670 --> 00:01:43.429 align:start position:0%
+of our comparable the one you and i
+built<00:01:41.909><c> we're</c><00:01:42.509><c> instead</c><00:01:42.750><c> going</c><00:01:42.930><c> to</c><00:01:43.020><c> use</c><00:01:43.200><c> the</c><00:01:43.320><c> one</c>
+
+00:01:43.429 --> 00:01:43.439 align:start position:0%
+built we're instead going to use the one
+ 
+
+00:01:43.439 --> 00:01:45.109 align:start position:0%
+built we're instead going to use the one
+built<00:01:43.649><c> into</c><00:01:43.890><c> java</c><00:01:44.100><c> and</c><00:01:44.520><c> it</c><00:01:44.759><c> has</c><00:01:44.850><c> one</c>
+
+00:01:45.109 --> 00:01:45.119 align:start position:0%
+built into java and it has one
+ 
+
+00:01:45.119 --> 00:01:46.700 align:start position:0%
+built into java and it has one
+difference<00:01:45.570><c> from</c><00:01:45.659><c> ours</c><00:01:45.930><c> which</c><00:01:46.380><c> is</c><00:01:46.500><c> that</c><00:01:46.619><c> it</c>
+
+00:01:46.700 --> 00:01:46.710 align:start position:0%
+difference from ours which is that it
+ 
+
+00:01:46.710 --> 00:01:49.249 align:start position:0%
+difference from ours which is that it
+takes<00:01:46.860><c> a</c><00:01:47.009><c> generic</c><00:01:47.369><c> type</c><00:01:47.689><c> and</c><00:01:48.689><c> so</c><00:01:48.840><c> in</c><00:01:48.930><c> this</c><00:01:49.049><c> case</c>
+
+00:01:49.249 --> 00:01:49.259 align:start position:0%
+takes a generic type and so in this case
+ 
+
+00:01:49.259 --> 00:01:51.499 align:start position:0%
+takes a generic type and so in this case
+this<00:01:49.799><c> will</c><00:01:49.950><c> help</c><00:01:50.070><c> us</c><00:01:50.189><c> avoid</c><00:01:50.310><c> one</c><00:01:50.820><c> of</c><00:01:50.909><c> our</c><00:01:51.030><c> casts</c>
+
+00:01:51.499 --> 00:01:51.509 align:start position:0%
+this will help us avoid one of our casts
+ 
+
+00:01:51.509 --> 00:01:53.780 align:start position:0%
+this will help us avoid one of our casts
+by<00:01:52.229><c> instead</c><00:01:52.740><c> of</c><00:01:52.799><c> having</c><00:01:53.040><c> to</c><00:01:53.220><c> cast</c><00:01:53.430><c> this</c><00:01:53.610><c> object</c>
+
+00:01:53.780 --> 00:01:53.790 align:start position:0%
+by instead of having to cast this object
+ 
+
+00:01:53.790 --> 00:01:55.819 align:start position:0%
+by instead of having to cast this object
+to<00:01:54.060><c> the</c><00:01:54.210><c> specific</c><00:01:54.630><c> type</c><00:01:54.810><c> this</c><00:01:55.350><c> will</c><00:01:55.530><c> ensure</c>
+
+00:01:55.819 --> 00:01:55.829 align:start position:0%
+to the specific type this will ensure
+ 
+
+00:01:55.829 --> 00:01:57.830 align:start position:0%
+to the specific type this will ensure
+that<00:01:56.070><c> everything</c><00:01:56.520><c> works</c><00:01:56.700><c> beautifully</c><00:01:57.210><c> let's</c>
+
+00:01:57.830 --> 00:01:57.840 align:start position:0%
+that everything works beautifully let's
+ 
+
+00:01:57.840 --> 00:01:59.959 align:start position:0%
+that everything works beautifully let's
+just<00:01:57.990><c> jump</c><00:01:58.170><c> in</c><00:01:58.290><c> a</c><00:01:58.380><c> triangle</c><00:01:58.829><c> so</c><00:01:59.700><c> if</c><00:01:59.759><c> we</c><00:01:59.820><c> go</c><00:01:59.909><c> to</c>
+
+00:01:59.959 --> 00:01:59.969 align:start position:0%
+just jump in a triangle so if we go to
+ 
+
+00:01:59.969 --> 00:02:01.850 align:start position:0%
+just jump in a triangle so if we go to
+our<00:02:00.060><c> dog</c><00:02:00.360><c> class</c><00:02:00.719><c> which</c><00:02:01.170><c> implements</c><00:02:01.619><c> our</c>
+
+00:02:01.850 --> 00:02:01.860 align:start position:0%
+our dog class which implements our
+ 
+
+00:02:01.860 --> 00:02:04.310 align:start position:0%
+our dog class which implements our
+comparable<00:02:02.430><c> now</c><00:02:02.969><c> i'm</c><00:02:03.149><c> gonna</c><00:02:03.270><c> change</c><00:02:03.630><c> this</c><00:02:03.869><c> I'm</c>
+
+00:02:04.310 --> 00:02:04.320 align:start position:0%
+comparable now i'm gonna change this I'm
+ 
+
+00:02:04.320 --> 00:02:06.410 align:start position:0%
+comparable now i'm gonna change this I'm
+gonna<00:02:04.560><c> say</c><00:02:04.770><c> implements</c><00:02:05.250><c> comparable</c><00:02:05.310><c> in</c><00:02:06.210><c> this</c>
+
+00:02:06.410 --> 00:02:06.420 align:start position:0%
+gonna say implements comparable in this
+ 
+
+00:02:06.420 --> 00:02:09.619 align:start position:0%
+gonna say implements comparable in this
+case<00:02:06.600><c> dog</c><00:02:07.280><c> now</c><00:02:08.280><c> where</c><00:02:08.700><c> did</c><00:02:08.819><c> this</c><00:02:09.000><c> come</c><00:02:09.209><c> from</c>
+
+00:02:09.619 --> 00:02:09.629 align:start position:0%
+case dog now where did this come from
+ 
+
+00:02:09.629 --> 00:02:12.410 align:start position:0%
+case dog now where did this come from
+that's<00:02:09.959><c> just</c><00:02:10.110><c> built</c><00:02:10.289><c> into</c><00:02:10.530><c> Java</c><00:02:11.120><c> Java</c><00:02:12.120><c> yells</c>
+
+00:02:12.410 --> 00:02:12.420 align:start position:0%
+that's just built into Java Java yells
+ 
+
+00:02:12.420 --> 00:02:13.220 align:start position:0%
+that's just built into Java Java yells
+at<00:02:12.599><c> us</c><00:02:12.750><c> and</c>
+
+00:02:13.220 --> 00:02:13.230 align:start position:0%
+at us and
+ 
+
+00:02:13.230 --> 00:02:15.259 align:start position:0%
+at us and
+says<00:02:13.379><c> hey</c><00:02:13.769><c> there's</c><00:02:14.310><c> an</c><00:02:14.430><c> issue</c><00:02:14.580><c> here</c><00:02:14.940><c> you</c>
+
+00:02:15.259 --> 00:02:15.269 align:start position:0%
+says hey there's an issue here you
+ 
+
+00:02:15.269 --> 00:02:16.430 align:start position:0%
+says hey there's an issue here you
+didn't<00:02:15.569><c> give</c><00:02:15.690><c> the</c><00:02:15.810><c> right</c><00:02:15.959><c> compareto</c><00:02:16.319><c> method</c>
+
+00:02:16.430 --> 00:02:16.440 align:start position:0%
+didn't give the right compareto method
+ 
+
+00:02:16.440 --> 00:02:18.289 align:start position:0%
+didn't give the right compareto method
+and<00:02:17.129><c> all</c><00:02:17.220><c> it's</c><00:02:17.370><c> saying</c><00:02:17.519><c> is</c><00:02:17.730><c> this</c><00:02:18.000><c> should</c><00:02:18.180><c> be</c>
+
+00:02:18.289 --> 00:02:18.299 align:start position:0%
+and all it's saying is this should be
+ 
+
+00:02:18.299 --> 00:02:20.119 align:start position:0%
+and all it's saying is this should be
+dog<00:02:18.599><c> right</c><00:02:19.049><c> so</c><00:02:19.260><c> if</c><00:02:19.319><c> we</c><00:02:19.379><c> look</c><00:02:19.409><c> at</c><00:02:19.620><c> the</c><00:02:19.709><c> signature</c>
+
+00:02:20.119 --> 00:02:20.129 align:start position:0%
+dog right so if we look at the signature
+ 
+
+00:02:20.129 --> 00:02:23.330 align:start position:0%
+dog right so if we look at the signature
+this<00:02:20.670><c> type</c><00:02:21.150><c> here</c><00:02:21.510><c> needs</c><00:02:21.810><c> to</c><00:02:21.870><c> match</c><00:02:22.319><c> what's</c><00:02:23.190><c> up</c>
+
+00:02:23.330 --> 00:02:23.340 align:start position:0%
+this type here needs to match what's up
+ 
+
+00:02:23.340 --> 00:02:25.610 align:start position:0%
+this type here needs to match what's up
+here<00:02:23.580><c> so</c><00:02:24.209><c> we</c><00:02:24.299><c> say</c><00:02:24.420><c> compared</c><00:02:24.750><c> to</c><00:02:24.900><c> dog</c><00:02:25.110><c> and</c><00:02:25.440><c> I'll</c>
+
+00:02:25.610 --> 00:02:25.620 align:start position:0%
+here so we say compared to dog and I'll
+ 
+
+00:02:25.620 --> 00:02:27.710 align:start position:0%
+here so we say compared to dog and I'll
+just<00:02:25.739><c> name</c><00:02:25.890><c> it</c><00:02:25.920><c> uh</c><00:02:26.099><c> dog</c><00:02:26.430><c> and</c><00:02:27.299><c> we</c><00:02:27.390><c> can</c><00:02:27.510><c> delete</c>
+
+00:02:27.710 --> 00:02:27.720 align:start position:0%
+just name it uh dog and we can delete
+ 
+
+00:02:27.720 --> 00:02:29.960 align:start position:0%
+just name it uh dog and we can delete
+this<00:02:27.900><c> line</c><00:02:28.080><c> entirely</c><00:02:28.560><c> so</c><00:02:29.430><c> we've</c><00:02:29.519><c> just</c><00:02:29.549><c> saved</c>
+
+00:02:29.960 --> 00:02:29.970 align:start position:0%
+this line entirely so we've just saved
+ 
+
+00:02:29.970 --> 00:02:32.240 align:start position:0%
+this line entirely so we've just saved
+ourselves<00:02:30.120><c> a</c><00:02:30.420><c> cast</c><00:02:30.660><c> that's</c><00:02:31.230><c> nice</c>
+
+00:02:32.240 --> 00:02:32.250 align:start position:0%
+ourselves a cast that's nice
+ 
+
+00:02:32.250 --> 00:02:34.430 align:start position:0%
+ourselves a cast that's nice
+and<00:02:32.549><c> that's</c><00:02:33.030><c> the</c><00:02:33.180><c> dog</c><00:02:33.330><c> class</c><00:02:33.569><c> right</c><00:02:34.049><c> tiny</c>
+
+00:02:34.430 --> 00:02:34.440 align:start position:0%
+and that's the dog class right tiny
+ 
+
+00:02:34.440 --> 00:02:36.320 align:start position:0%
+and that's the dog class right tiny
+change<00:02:34.709><c> now</c><00:02:35.580><c> we</c><00:02:35.700><c> do</c><00:02:35.790><c> have</c><00:02:35.819><c> to</c><00:02:35.940><c> make</c><00:02:36.090><c> a</c><00:02:36.120><c> couple</c>
+
+00:02:36.320 --> 00:02:36.330 align:start position:0%
+change now we do have to make a couple
+ 
+
+00:02:36.330 --> 00:02:38.479 align:start position:0%
+change now we do have to make a couple
+more<00:02:36.599><c> changes</c><00:02:36.750><c> for</c><00:02:37.739><c> example</c><00:02:37.769><c> it'll</c><00:02:38.400><c> actually</c>
+
+00:02:38.479 --> 00:02:38.489 align:start position:0%
+more changes for example it'll actually
+ 
+
+00:02:38.489 --> 00:02:40.460 align:start position:0%
+more changes for example it'll actually
+just<00:02:38.640><c> one</c><00:02:38.849><c> more</c><00:02:39.000><c> I</c><00:02:39.060><c> think</c><00:02:39.120><c> we</c><00:02:39.750><c> go</c><00:02:39.870><c> to</c><00:02:39.930><c> Maximizer</c>
+
+00:02:40.460 --> 00:02:40.470 align:start position:0%
+just one more I think we go to Maximizer
+ 
+
+00:02:40.470 --> 00:02:42.440 align:start position:0%
+just one more I think we go to Maximizer
+will<00:02:41.250><c> see</c><00:02:41.370><c> that</c><00:02:41.489><c> the</c><00:02:41.610><c> Maximizer</c><00:02:42.120><c> class</c>
+
+00:02:42.440 --> 00:02:42.450 align:start position:0%
+will see that the Maximizer class
+ 
+
+00:02:42.450 --> 00:02:44.690 align:start position:0%
+will see that the Maximizer class
+expects<00:02:43.019><c> comparables</c><00:02:44.010><c> or</c><00:02:44.400><c> say</c><00:02:44.519><c> our</c>
+
+00:02:44.690 --> 00:02:44.700 align:start position:0%
+expects comparables or say our
+ 
+
+00:02:44.700 --> 00:02:46.490 align:start position:0%
+expects comparables or say our
+comparables<00:02:45.209><c> but</c><00:02:45.660><c> we'd</c><00:02:45.810><c> ultimately</c><00:02:45.989><c> like</c><00:02:46.349><c> to</c>
+
+00:02:46.490 --> 00:02:46.500 align:start position:0%
+comparables but we'd ultimately like to
+ 
+
+00:02:46.500 --> 00:02:49.580 align:start position:0%
+comparables but we'd ultimately like to
+be<00:02:46.709><c> using</c><00:02:47.010><c> with</c><00:02:47.989><c> comparables</c><00:02:48.989><c> instead</c><00:02:49.349><c> of</c><00:02:49.440><c> our</c>
+
+00:02:49.580 --> 00:02:49.590 align:start position:0%
+be using with comparables instead of our
+ 
+
+00:02:49.590 --> 00:02:51.410 align:start position:0%
+be using with comparables instead of our
+comparables<00:02:50.069><c> so</c><00:02:50.760><c> I'm</c><00:02:50.849><c> just</c><00:02:50.940><c> gonna</c><00:02:51.030><c> change</c>
+
+00:02:51.410 --> 00:02:51.420 align:start position:0%
+comparables so I'm just gonna change
+ 
+
+00:02:51.420 --> 00:02:54.710 align:start position:0%
+comparables so I'm just gonna change
+this<00:02:51.599><c> by</c><00:02:51.810><c> deleting</c><00:02:52.500><c> our</c><00:02:53.180><c> no</c><00:02:54.180><c> that</c><00:02:54.450><c> should</c><00:02:54.599><c> work</c>
+
+00:02:54.710 --> 00:02:54.720 align:start position:0%
+this by deleting our no that should work
+ 
+
+00:02:54.720 --> 00:02:56.539 align:start position:0%
+this by deleting our no that should work
+beautifully<00:02:54.870><c> and</c><00:02:55.620><c> then</c><00:02:55.920><c> finally</c><00:02:56.250><c> dog</c>
+
+00:02:56.539 --> 00:02:56.549 align:start position:0%
+beautifully and then finally dog
+ 
+
+00:02:56.549 --> 00:02:58.580 align:start position:0%
+beautifully and then finally dog
+launcher<00:02:56.940><c> will</c><00:02:57.060><c> work</c><00:02:57.209><c> properly</c><00:02:57.510><c> and</c><00:02:58.079><c> so</c><00:02:58.500><c> in</c>
+
+00:02:58.580 --> 00:02:58.590 align:start position:0%
+launcher will work properly and so in
+ 
+
+00:02:58.590 --> 00:03:00.800 align:start position:0%
+launcher will work properly and so in
+this<00:02:58.680><c> case</c><00:02:58.920><c> after</c><00:02:59.430><c> we</c><00:02:59.549><c> do</c><00:02:59.640><c> dog</c><00:02:59.910><c> D</c><00:03:00.180><c> equals</c><00:03:00.599><c> dog</c>
+
+00:03:00.800 --> 00:03:00.810 align:start position:0%
+this case after we do dog D equals dog
+ 
+
+00:03:00.810 --> 00:03:03.920 align:start position:0%
+this case after we do dog D equals dog
+you<00:03:01.440><c> know</c><00:03:01.530><c> Maximizer</c><00:03:02.099><c> max</c><00:03:02.400><c> dogs</c><00:03:02.640><c> we</c><00:03:03.629><c> can</c><00:03:03.810><c> now</c>
+
+00:03:03.920 --> 00:03:03.930 align:start position:0%
+you know Maximizer max dogs we can now
+ 
+
+00:03:03.930 --> 00:03:07.699 align:start position:0%
+you know Maximizer max dogs we can now
+say<00:03:04.170><c> D</c><00:03:04.590><c> bark</c><00:03:05.129><c> and</c><00:03:06.019><c> hopefully</c><00:03:07.019><c> the</c><00:03:07.230><c> largest</c><00:03:07.590><c> dog</c>
+
+00:03:07.699 --> 00:03:07.709 align:start position:0%
+say D bark and hopefully the largest dog
+ 
+
+00:03:07.709 --> 00:03:11.780 align:start position:0%
+say D bark and hopefully the largest dog
+should<00:03:07.980><c> work</c><00:03:08.129><c> it</c><00:03:08.910><c> out</c><00:03:09.890><c> boom</c><00:03:10.890><c> Benjamin</c><00:03:11.579><c> says</c>
+
+00:03:11.780 --> 00:03:11.790 align:start position:0%
+should work it out boom Benjamin says
+ 
+
+00:03:11.790 --> 00:03:15.440 align:start position:0%
+should work it out boom Benjamin says
+bark<00:03:12.060><c> good</c><00:03:12.650><c> now</c><00:03:13.650><c> we</c><00:03:14.129><c> still</c><00:03:14.430><c> have</c><00:03:14.459><c> a</c><00:03:14.730><c> cast</c><00:03:15.060><c> here</c>
+
+00:03:15.440 --> 00:03:15.450 align:start position:0%
+bark good now we still have a cast here
+ 
+
+00:03:15.450 --> 00:03:17.809 align:start position:0%
+bark good now we still have a cast here
+and<00:03:15.599><c> if</c><00:03:16.019><c> we</c><00:03:16.049><c> delete</c><00:03:16.410><c> it</c><00:03:16.440><c> it</c><00:03:17.069><c> doesn't</c><00:03:17.310><c> work</c><00:03:17.459><c> and</c>
+
+00:03:17.809 --> 00:03:17.819 align:start position:0%
+and if we delete it it doesn't work and
+ 
+
+00:03:17.819 --> 00:03:19.400 align:start position:0%
+and if we delete it it doesn't work and
+we<00:03:18.090><c> look</c><00:03:18.269><c> and</c><00:03:18.419><c> if</c><00:03:18.569><c> we</c><00:03:18.660><c> look</c><00:03:18.810><c> at</c><00:03:18.870><c> the</c><00:03:18.989><c> message</c><00:03:19.290><c> we</c>
+
+00:03:19.400 --> 00:03:19.410 align:start position:0%
+we look and if we look at the message we
+ 
+
+00:03:19.410 --> 00:03:21.710 align:start position:0%
+we look and if we look at the message we
+see<00:03:19.590><c> found</c><00:03:20.130><c> comparable</c><00:03:20.700><c> but</c><00:03:21.000><c> require</c><00:03:21.359><c> a</c><00:03:21.389><c> dog</c>
+
+00:03:21.710 --> 00:03:21.720 align:start position:0%
+see found comparable but require a dog
+ 
+
+00:03:21.720 --> 00:03:24.110 align:start position:0%
+see found comparable but require a dog
+so<00:03:22.530><c> that's</c><00:03:22.919><c> something</c><00:03:23.130><c> we</c><00:03:23.310><c> still</c><00:03:23.609><c> need</c><00:03:23.819><c> to</c><00:03:23.940><c> fix</c>
+
+00:03:24.110 --> 00:03:24.120 align:start position:0%
+so that's something we still need to fix
+ 
+
+00:03:24.120 --> 00:03:25.789 align:start position:0%
+so that's something we still need to fix
+there's<00:03:24.480><c> another</c><00:03:24.780><c> change</c><00:03:25.109><c> we</c><00:03:25.349><c> need</c><00:03:25.530><c> to</c><00:03:25.620><c> make</c>
+
+00:03:25.789 --> 00:03:25.799 align:start position:0%
+there's another change we need to make
+ 
+
+00:03:25.799 --> 00:03:28.129 align:start position:0%
+there's another change we need to make
+to<00:03:26.099><c> our</c><00:03:26.130><c> Maximizer</c><00:03:26.910><c> class</c><00:03:27.209><c> I'm</c><00:03:27.540><c> not</c><00:03:27.599><c> gonna</c>
+
+00:03:28.129 --> 00:03:28.139 align:start position:0%
+to our Maximizer class I'm not gonna
+ 
+
+00:03:28.139 --> 00:03:30.259 align:start position:0%
+to our Maximizer class I'm not gonna
+detail<00:03:28.530><c> it</c><00:03:28.680><c> in</c><00:03:28.829><c> this</c><00:03:29.040><c> specific</c><00:03:29.579><c> lecture</c><00:03:29.730><c> but</c>
+
+00:03:30.259 --> 00:03:30.269 align:start position:0%
+detail it in this specific lecture but
+ 
+
+00:03:30.269 --> 00:03:31.970 align:start position:0%
+detail it in this specific lecture but
+we'll<00:03:30.389><c> talk</c><00:03:30.510><c> about</c><00:03:30.569><c> it</c><00:03:30.810><c> in</c><00:03:30.989><c> about</c><00:03:31.230><c> three</c>
+
+00:03:31.970 --> 00:03:31.980 align:start position:0%
+we'll talk about it in about three
+ 
+
+00:03:31.980 --> 00:03:34.220 align:start position:0%
+we'll talk about it in about three
+videos<00:03:32.579><c> but</c><00:03:33.389><c> it's</c><00:03:33.510><c> just</c><00:03:33.630><c> not</c><00:03:33.840><c> something</c><00:03:33.989><c> I</c>
+
+00:03:34.220 --> 00:03:34.230 align:start position:0%
+videos but it's just not something I
+ 
+
+00:03:34.230 --> 00:03:35.629 align:start position:0%
+videos but it's just not something I
+want<00:03:34.410><c> to</c><00:03:34.470><c> get</c><00:03:34.590><c> into</c><00:03:34.859><c> right</c><00:03:35.040><c> now</c><00:03:35.190><c> cuz</c><00:03:35.459><c> it's</c><00:03:35.579><c> a</c>
+
+00:03:35.629 --> 00:03:35.639 align:start position:0%
+want to get into right now cuz it's a
+ 
+
+00:03:35.639 --> 00:03:37.940 align:start position:0%
+want to get into right now cuz it's a
+bit<00:03:35.760><c> of</c><00:03:35.849><c> a</c><00:03:35.940><c> diversion</c><00:03:36.209><c> okay</c><00:03:36.799><c> so</c><00:03:37.799><c> this</c>
+
+00:03:37.940 --> 00:03:37.950 align:start position:0%
+bit of a diversion okay so this
+ 
+
+00:03:37.950 --> 00:03:40.129 align:start position:0%
+bit of a diversion okay so this
+alternate<00:03:38.639><c> approach</c><00:03:38.910><c> basically</c><00:03:39.720><c> what</c><00:03:39.870><c> we</c><00:03:39.959><c> do</c>
+
+00:03:40.129 --> 00:03:40.139 align:start position:0%
+alternate approach basically what we do
+ 
+
+00:03:40.139 --> 00:03:42.289 align:start position:0%
+alternate approach basically what we do
+is<00:03:40.200><c> instead</c><00:03:40.530><c> of</c><00:03:40.799><c> using</c><00:03:40.950><c> our</c><00:03:41.280><c> personally</c><00:03:42.090><c> made</c>
+
+00:03:42.289 --> 00:03:42.299 align:start position:0%
+is instead of using our personally made
+ 
+
+00:03:42.299 --> 00:03:44.390 align:start position:0%
+is instead of using our personally made
+of<00:03:42.450><c> interface</c><00:03:42.900><c> known</c><00:03:43.139><c> as</c><00:03:43.260><c> our</c><00:03:43.410><c> comparable</c><00:03:43.859><c> we</c>
+
+00:03:44.390 --> 00:03:44.400 align:start position:0%
+of interface known as our comparable we
+ 
+
+00:03:44.400 --> 00:03:47.930 align:start position:0%
+of interface known as our comparable we
+use<00:03:44.549><c> the</c><00:03:44.700><c> real</c><00:03:44.910><c> one</c><00:03:45.150><c> comparable</c><00:03:45.720><c> dog</c><00:03:46.169><c> and</c><00:03:47.069><c> as</c><00:03:47.849><c> a</c>
+
+00:03:47.930 --> 00:03:47.940 align:start position:0%
+use the real one comparable dog and as a
+ 
+
+00:03:47.940 --> 00:03:49.879 align:start position:0%
+use the real one comparable dog and as a
+result<00:03:48.299><c> we</c><00:03:48.660><c> can</c><00:03:48.780><c> now</c><00:03:48.930><c> plug</c><00:03:49.260><c> into</c><00:03:49.470><c> the</c><00:03:49.620><c> entire</c>
+
+00:03:49.879 --> 00:03:49.889 align:start position:0%
+result we can now plug into the entire
+ 
+
+00:03:49.889 --> 00:03:51.830 align:start position:0%
+result we can now plug into the entire
+ecosystem<00:03:50.250><c> so</c><00:03:51.150><c> instead</c><00:03:51.329><c> of</c><00:03:51.389><c> having</c><00:03:51.510><c> to</c><00:03:51.720><c> build</c>
+
+00:03:51.830 --> 00:03:51.840 align:start position:0%
+ecosystem so instead of having to build
+ 
+
+00:03:51.840 --> 00:03:54.020 align:start position:0%
+ecosystem so instead of having to build
+our<00:03:52.079><c> own</c><00:03:52.260><c> parallel</c><00:03:52.889><c> set</c><00:03:53.099><c> of</c><00:03:53.190><c> libraries</c><00:03:53.340><c> we</c><00:03:53.910><c> can</c>
+
+00:03:54.020 --> 00:03:54.030 align:start position:0%
+our own parallel set of libraries we can
+ 
+
+00:03:54.030 --> 00:03:55.309 align:start position:0%
+our own parallel set of libraries we can
+use<00:03:54.120><c> all</c><00:03:54.269><c> the</c><00:03:54.389><c> ones</c><00:03:54.540><c> that</c><00:03:54.599><c> already</c><00:03:54.870><c> exist</c><00:03:55.200><c> and</c>
+
+00:03:55.309 --> 00:03:55.319 align:start position:0%
+use all the ones that already exist and
+ 
+
+00:03:55.319 --> 00:03:58.879 align:start position:0%
+use all the ones that already exist and
+use<00:03:55.799><c> comparable</c><00:03:56.660><c> so</c><00:03:57.660><c> in</c><00:03:57.930><c> effect</c><00:03:58.049><c> what</c><00:03:58.650><c> we</c><00:03:58.739><c> get</c>
+
+00:03:58.879 --> 00:03:58.889 align:start position:0%
+use comparable so in effect what we get
+ 
+
+00:03:58.889 --> 00:04:01.099 align:start position:0%
+use comparable so in effect what we get
+out<00:03:58.919><c> of</c><00:03:59.040><c> comfortable</c><00:03:59.519><c> is</c><00:03:59.639><c> we</c><00:04:00.060><c> can</c><00:04:00.239><c> use</c><00:04:00.269><c> for</c>
+
+00:04:01.099 --> 00:04:01.109 align:start position:0%
+out of comfortable is we can use for
+ 
+
+00:04:01.109 --> 00:04:03.379 align:start position:0%
+out of comfortable is we can use for
+example<00:04:01.530><c> there's</c><00:04:02.400><c> tons</c><00:04:02.730><c> of</c><00:04:02.879><c> classes</c><00:04:03.269><c> out</c>
+
+00:04:03.379 --> 00:04:03.389 align:start position:0%
+example there's tons of classes out
+ 
+
+00:04:03.389 --> 00:04:04.819 align:start position:0%
+example there's tons of classes out
+there<00:04:03.419><c> that</c><00:04:03.690><c> implement</c><00:04:04.109><c> comparable</c><00:04:04.410><c> for</c>
+
+00:04:04.819 --> 00:04:04.829 align:start position:0%
+there that implement comparable for
+ 
+
+00:04:04.829 --> 00:04:07.430 align:start position:0%
+there that implement comparable for
+example<00:04:05.190><c> strings</c><00:04:05.730><c> so</c><00:04:06.510><c> in</c><00:04:06.599><c> principle</c><00:04:07.019><c> we</c><00:04:07.169><c> can</c>
+
+00:04:07.430 --> 00:04:07.440 align:start position:0%
+example strings so in principle we can
+ 
+
+00:04:07.440 --> 00:04:09.379 align:start position:0%
+example strings so in principle we can
+actually<00:04:07.739><c> use</c><00:04:08.010><c> an</c><00:04:08.280><c> array</c><00:04:08.639><c> of</c><00:04:08.760><c> strings</c><00:04:09.090><c> with</c>
+
+00:04:09.379 --> 00:04:09.389 align:start position:0%
+actually use an array of strings with
+ 
+
+00:04:09.389 --> 00:04:11.479 align:start position:0%
+actually use an array of strings with
+this<00:04:09.599><c> max</c><00:04:10.019><c> method</c><00:04:10.500><c> and</c><00:04:10.650><c> it</c><00:04:10.980><c> will</c><00:04:11.069><c> work</c><00:04:11.190><c> nicely</c>
+
+00:04:11.479 --> 00:04:11.489 align:start position:0%
+this max method and it will work nicely
+ 
+
+00:04:11.489 --> 00:04:14.059 align:start position:0%
+this max method and it will work nicely
+even<00:04:12.419><c> better</c><00:04:12.870><c> though</c><00:04:13.139><c> there</c><00:04:13.620><c> are</c><00:04:13.709><c> lots</c><00:04:13.919><c> of</c>
+
+00:04:14.059 --> 00:04:14.069 align:start position:0%
+even better though there are lots of
+ 
+
+00:04:14.069 --> 00:04:15.439 align:start position:0%
+even better though there are lots of
+libraries<00:04:14.549><c> out</c><00:04:14.699><c> there</c><00:04:14.730><c> that</c><00:04:14.970><c> already</c><00:04:15.090><c> used</c>
+
+00:04:15.439 --> 00:04:15.449 align:start position:0%
+libraries out there that already used
+ 
+
+00:04:15.449 --> 00:04:17.629 align:start position:0%
+libraries out there that already used
+the<00:04:15.629><c> comparable</c><00:04:16.049><c> interface</c><00:04:16.199><c> so</c><00:04:17.099><c> for</c><00:04:17.280><c> example</c>
+
+00:04:17.629 --> 00:04:17.639 align:start position:0%
+the comparable interface so for example
+ 
+
+00:04:17.639 --> 00:04:19.729 align:start position:0%
+the comparable interface so for example
+max<00:04:18.389><c> is</c><00:04:18.599><c> already</c><00:04:18.810><c> written</c><00:04:18.959><c> for</c><00:04:19.049><c> us</c><00:04:19.229><c> as</c><00:04:19.530><c> you</c>
+
+00:04:19.729 --> 00:04:19.739 align:start position:0%
+max is already written for us as you
+ 
+
+00:04:19.739 --> 00:04:21.380 align:start position:0%
+max is already written for us as you
+might<00:04:19.889><c> imagine</c><00:04:19.979><c> so</c><00:04:20.849><c> there's</c><00:04:21.030><c> a</c><00:04:21.060><c> library</c>
+
+00:04:21.380 --> 00:04:21.390 align:start position:0%
+might imagine so there's a library
+ 
+
+00:04:21.390 --> 00:04:22.820 align:start position:0%
+might imagine so there's a library
+called<00:04:21.510><c> collection</c><00:04:22.019><c> and</c><00:04:22.469><c> you</c><00:04:22.560><c> could</c><00:04:22.680><c> say</c>
+
+00:04:22.820 --> 00:04:22.830 align:start position:0%
+called collection and you could say
+ 
+
+00:04:22.830 --> 00:04:25.070 align:start position:0%
+called collection and you could say
+collection<00:04:23.310><c> dot</c><00:04:23.610><c> max</c><00:04:23.880><c> given</c><00:04:24.659><c> an</c><00:04:24.780><c> array</c><00:04:24.930><c> of</c>
+
+00:04:25.070 --> 00:04:25.080 align:start position:0%
+collection dot max given an array of
+ 
+
+00:04:25.080 --> 00:04:26.570 align:start position:0%
+collection dot max given an array of
+dogs<00:04:25.680><c> and</c><00:04:26.039><c> it</c><00:04:26.190><c> will</c><00:04:26.310><c> find</c>
+
+00:04:26.570 --> 00:04:26.580 align:start position:0%
+dogs and it will find
+ 
+
+00:04:26.580 --> 00:04:28.339 align:start position:0%
+dogs and it will find
+largest<00:04:26.970><c> dog</c><00:04:27.120><c> so</c><00:04:27.659><c> long</c><00:04:27.840><c> as</c><00:04:27.990><c> that</c><00:04:28.020><c> dogs</c>
+
+00:04:28.339 --> 00:04:28.349 align:start position:0%
+largest dog so long as that dogs
+ 
+
+00:04:28.349 --> 00:04:30.770 align:start position:0%
+largest dog so long as that dogs
+implement<00:04:28.949><c> comparable</c><00:04:29.490><c> okay</c><00:04:29.939><c> so</c><00:04:30.599><c> this</c>
+
+00:04:30.770 --> 00:04:30.780 align:start position:0%
+implement comparable okay so this
+ 
+
+00:04:30.780 --> 00:04:33.170 align:start position:0%
+implement comparable okay so this
+approach<00:04:31.050><c> here</c><00:04:31.349><c> is</c><00:04:31.530><c> much</c><00:04:31.949><c> nicer</c><00:04:32.129><c> as</c><00:04:32.849><c> you</c><00:04:33.060><c> can</c>
+
+00:04:33.170 --> 00:04:33.180 align:start position:0%
+approach here is much nicer as you can
+ 
+
+00:04:33.180 --> 00:04:34.969 align:start position:0%
+approach here is much nicer as you can
+see<00:04:33.360><c> compared</c><00:04:33.780><c> to</c><00:04:33.810><c> this</c><00:04:33.960><c> approach</c><00:04:34.199><c> because</c><00:04:34.860><c> it</c>
+
+00:04:34.969 --> 00:04:34.979 align:start position:0%
+see compared to this approach because it
+ 
+
+00:04:34.979 --> 00:04:36.439 align:start position:0%
+see compared to this approach because it
+plays<00:04:35.159><c> well</c><00:04:35.400><c> with</c><00:04:35.580><c> the</c><00:04:35.669><c> existing</c><00:04:35.879><c> libraries</c>
+
+00:04:36.439 --> 00:04:36.449 align:start position:0%
+plays well with the existing libraries
+ 
+
+00:04:36.449 --> 00:04:38.480 align:start position:0%
+plays well with the existing libraries
+and<00:04:36.659><c> you'll</c><00:04:37.050><c> note</c><00:04:37.199><c> it</c><00:04:37.349><c> also</c><00:04:37.620><c> avoids</c><00:04:37.949><c> that</c><00:04:38.069><c> ugly</c>
+
+00:04:38.480 --> 00:04:38.490 align:start position:0%
+and you'll note it also avoids that ugly
+ 
+
+00:04:38.490 --> 00:04:42.080 align:start position:0%
+and you'll note it also avoids that ugly
+cast<00:04:39.139><c> so</c><00:04:40.139><c> that's</c><00:04:40.650><c> basically</c><00:04:41.039><c> the</c><00:04:41.219><c> scoop</c><00:04:41.400><c> with</c>
+
+00:04:42.080 --> 00:04:42.090 align:start position:0%
+cast so that's basically the scoop with
+ 
+
+00:04:42.090 --> 00:04:43.700 align:start position:0%
+cast so that's basically the scoop with
+comparables<00:04:42.569><c> and</c><00:04:42.750><c> in</c><00:04:43.020><c> the</c><00:04:43.080><c> next</c><00:04:43.229><c> video</c><00:04:43.349><c> we'll</c>
+
+00:04:43.700 --> 00:04:43.710 align:start position:0%
+comparables and in the next video we'll
+ 
+
+00:04:43.710 --> 00:04:45.260 align:start position:0%
+comparables and in the next video we'll
+talk<00:04:43.830><c> about</c><00:04:43.889><c> a</c><00:04:44.099><c> very</c><00:04:44.189><c> closely</c><00:04:44.520><c> related</c><00:04:44.789><c> idea</c>
+
+00:04:45.260 --> 00:04:45.270 align:start position:0%
+talk about a very closely related idea
+ 
+
+00:04:45.270 --> 00:04:48.259 align:start position:0%
+talk about a very closely related idea
+known<00:04:45.569><c> as</c><00:04:45.689><c> a</c><00:04:45.719><c> comparator</c>
+

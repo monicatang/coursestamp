@@ -1,0 +1,896 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.170 --> 00:00:02.869 align:start position:0%
+ 
+so<00:00:01.170><c> the</c><00:00:01.290><c> in</c><00:00:01.410><c> list</c><00:00:01.709><c> we've</c><00:00:01.890><c> built</c><00:00:02.070><c> so</c><00:00:02.310><c> far</c><00:00:02.550><c> can</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+so the in list we've built so far can
+ 
+
+00:00:02.879 --> 00:00:04.340 align:start position:0%
+so the in list we've built so far can
+technically<00:00:03.210><c> do</c><00:00:03.419><c> all</c><00:00:03.629><c> the</c><00:00:03.780><c> list</c><00:00:03.990><c> stuff</c><00:00:04.170><c> you</c>
+
+00:00:04.340 --> 00:00:04.350 align:start position:0%
+technically do all the list stuff you
+ 
+
+00:00:04.350 --> 00:00:06.170 align:start position:0%
+technically do all the list stuff you
+might<00:00:04.470><c> want</c><00:00:04.529><c> to</c><00:00:04.770><c> do</c><00:00:04.920><c> that's</c><00:00:05.520><c> a</c><00:00:05.640><c> little</c><00:00:05.819><c> awkward</c>
+
+00:00:06.170 --> 00:00:06.180 align:start position:0%
+might want to do that's a little awkward
+ 
+
+00:00:06.180 --> 00:00:08.839 align:start position:0%
+might want to do that's a little awkward
+to<00:00:06.210><c> use</c><00:00:06.450><c> as</c><00:00:06.690><c> we</c><00:00:06.810><c> can</c><00:00:06.930><c> see</c><00:00:07.140><c> from</c><00:00:07.350><c> the</c><00:00:07.560><c> syntax</c><00:00:08.010><c> now</c>
+
+00:00:08.839 --> 00:00:08.849 align:start position:0%
+to use as we can see from the syntax now
+ 
+
+00:00:08.849 --> 00:00:10.580 align:start position:0%
+to use as we can see from the syntax now
+in<00:00:08.940><c> this</c><00:00:09.059><c> case</c><00:00:09.300><c> building</c><00:00:09.690><c> a</c><00:00:09.929><c> list</c><00:00:10.110><c> Lots</c><00:00:10.469><c> a</c>
+
+00:00:10.580 --> 00:00:10.590 align:start position:0%
+in this case building a list Lots a
+ 
+
+00:00:10.590 --> 00:00:12.980 align:start position:0%
+in this case building a list Lots a
+little<00:00:10.830><c> awkward</c><00:00:11.160><c> isn't</c><00:00:11.280><c> so</c><00:00:11.550><c> bad</c><00:00:11.730><c> we'll</c><00:00:12.719><c> find</c>
+
+00:00:12.980 --> 00:00:12.990 align:start position:0%
+little awkward isn't so bad we'll find
+ 
+
+00:00:12.990 --> 00:00:15.680 align:start position:0%
+little awkward isn't so bad we'll find
+that<00:00:13.139><c> things</c><00:00:13.559><c> like</c><00:00:13.769><c> getting</c><00:00:14.340><c> the</c><00:00:14.880><c> ice</c><00:00:15.089><c> element</c>
+
+00:00:15.680 --> 00:00:15.690 align:start position:0%
+that things like getting the ice element
+ 
+
+00:00:15.690 --> 00:00:17.720 align:start position:0%
+that things like getting the ice element
+from<00:00:15.809><c> the</c><00:00:15.900><c> list</c><00:00:16.109><c> or</c><00:00:16.320><c> asking</c><00:00:16.980><c> for</c><00:00:17.160><c> the</c><00:00:17.250><c> size</c><00:00:17.490><c> of</c>
+
+00:00:17.720 --> 00:00:17.730 align:start position:0%
+from the list or asking for the size of
+ 
+
+00:00:17.730 --> 00:00:19.370 align:start position:0%
+from the list or asking for the size of
+this<00:00:17.850><c> list</c><00:00:18.150><c> are</c><00:00:18.510><c> going</c><00:00:18.660><c> to</c><00:00:18.720><c> be</c><00:00:18.810><c> quite</c><00:00:19.050><c> annoying</c>
+
+00:00:19.370 --> 00:00:19.380 align:start position:0%
+this list are going to be quite annoying
+ 
+
+00:00:19.380 --> 00:00:22.130 align:start position:0%
+this list are going to be quite annoying
+to<00:00:19.650><c> do</c><00:00:19.850><c> so</c><00:00:20.850><c> to</c><00:00:20.910><c> deal</c><00:00:21.150><c> with</c><00:00:21.359><c> this</c><00:00:21.510><c> what</c><00:00:22.020><c> we're</c>
+
+00:00:22.130 --> 00:00:22.140 align:start position:0%
+to do so to deal with this what we're
+ 
+
+00:00:22.140 --> 00:00:24.950 align:start position:0%
+to do so to deal with this what we're
+going<00:00:22.350><c> to</c><00:00:22.410><c> do</c><00:00:22.619><c> is</c><00:00:22.769><c> add</c><00:00:23.039><c> a</c><00:00:23.519><c> size</c><00:00:24.060><c> method</c><00:00:24.359><c> and</c><00:00:24.660><c> an</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+going to do is add a size method and an
+ 
+
+00:00:24.960 --> 00:00:26.750 align:start position:0%
+going to do is add a size method and an
+iterative<00:00:25.230><c> size</c><00:00:25.560><c> method</c><00:00:25.800><c> that</c><00:00:26.400><c> are</c><00:00:26.519><c> going</c><00:00:26.670><c> to</c>
+
+00:00:26.750 --> 00:00:26.760 align:start position:0%
+iterative size method that are going to
+ 
+
+00:00:26.760 --> 00:00:28.580 align:start position:0%
+iterative size method that are going to
+behave<00:00:26.910><c> kind</c><00:00:27.449><c> of</c><00:00:27.510><c> like</c><00:00:27.630><c> the</c><00:00:27.840><c> length</c><00:00:28.019><c> method</c><00:00:28.470><c> in</c>
+
+00:00:28.580 --> 00:00:28.590 align:start position:0%
+behave kind of like the length method in
+ 
+
+00:00:28.590 --> 00:00:30.529 align:start position:0%
+behave kind of like the length method in
+Python<00:00:28.949><c> so</c><00:00:29.189><c> in</c><00:00:29.820><c> Python</c><00:00:30.150><c> we</c><00:00:30.269><c> might</c><00:00:30.420><c> do</c>
+
+00:00:30.529 --> 00:00:30.539 align:start position:0%
+Python so in Python we might do
+ 
+
+00:00:30.539 --> 00:00:32.600 align:start position:0%
+Python so in Python we might do
+something<00:00:30.779><c> like</c><00:00:30.900><c> print</c><00:00:31.230><c> Ling</c><00:00:31.590><c> of</c><00:00:31.740><c> L</c><00:00:31.980><c> and</c><00:00:32.340><c> we</c>
+
+00:00:32.600 --> 00:00:32.610 align:start position:0%
+something like print Ling of L and we
+ 
+
+00:00:32.610 --> 00:00:33.979 align:start position:0%
+something like print Ling of L and we
+expect<00:00:32.940><c> it</c><00:00:33.059><c> to</c><00:00:33.090><c> say</c><00:00:33.300><c> three</c><00:00:33.570><c> there</c><00:00:33.840><c> are</c><00:00:33.960><c> three</c>
+
+00:00:33.979 --> 00:00:33.989 align:start position:0%
+expect it to say three there are three
+ 
+
+00:00:33.989 --> 00:00:36.319 align:start position:0%
+expect it to say three there are three
+items<00:00:34.469><c> in</c><00:00:34.559><c> the</c><00:00:34.680><c> list</c><00:00:34.890><c> so</c><00:00:35.850><c> we're</c><00:00:36.030><c> gonna</c><00:00:36.120><c> do</c>
+
+00:00:36.319 --> 00:00:36.329 align:start position:0%
+items in the list so we're gonna do
+ 
+
+00:00:36.329 --> 00:00:38.389 align:start position:0%
+items in the list so we're gonna do
+right<00:00:36.540><c> now</c><00:00:36.660><c> is</c><00:00:36.840><c> write</c><00:00:37.079><c> a</c><00:00:37.110><c> method</c><00:00:37.410><c> for</c><00:00:37.980><c> int</c><00:00:38.190><c> list</c>
+
+00:00:38.389 --> 00:00:38.399 align:start position:0%
+right now is write a method for int list
+ 
+
+00:00:38.399 --> 00:00:40.610 align:start position:0%
+right now is write a method for int list
+that<00:00:38.820><c> takes</c><00:00:39.390><c> care</c><00:00:39.660><c> of</c><00:00:39.690><c> that</c><00:00:39.899><c> for</c><00:00:39.960><c> us</c><00:00:40.290><c> so</c><00:00:40.469><c> that</c>
+
+00:00:40.610 --> 00:00:40.620 align:start position:0%
+that takes care of that for us so that
+ 
+
+00:00:40.620 --> 00:00:43.310 align:start position:0%
+that takes care of that for us so that
+we<00:00:40.680><c> can</c><00:00:40.800><c> ask</c><00:00:41.040><c> for</c><00:00:41.489><c> example</c><00:00:41.940><c> what</c><00:00:42.780><c> is</c><00:00:42.870><c> the</c><00:00:43.050><c> size</c>
+
+00:00:43.310 --> 00:00:43.320 align:start position:0%
+we can ask for example what is the size
+ 
+
+00:00:43.320 --> 00:00:46.700 align:start position:0%
+we can ask for example what is the size
+of<00:00:43.800><c> our</c><00:00:44.520><c> list</c><00:00:44.760><c> okay</c><00:00:45.300><c> so</c><00:00:46.079><c> we</c><00:00:46.140><c> could</c><00:00:46.320><c> technically</c>
+
+00:00:46.700 --> 00:00:46.710 align:start position:0%
+of our list okay so we could technically
+ 
+
+00:00:46.710 --> 00:00:49.040 align:start position:0%
+of our list okay so we could technically
+write<00:00:46.950><c> a</c><00:00:46.980><c> loop</c><00:00:47.250><c> here</c><00:00:47.489><c> or</c><00:00:47.700><c> do</c><00:00:47.879><c> whatever</c><00:00:48.120><c> to</c><00:00:48.480><c> get</c>
+
+00:00:49.040 --> 00:00:49.050 align:start position:0%
+write a loop here or do whatever to get
+ 
+
+00:00:49.050 --> 00:00:50.510 align:start position:0%
+write a loop here or do whatever to get
+besides<00:00:49.440><c> the</c><00:00:49.559><c> loop</c><00:00:49.710><c> what</c><00:00:50.100><c> I</c><00:00:50.129><c> want</c><00:00:50.370><c> to</c><00:00:50.430><c> do</c>
+
+00:00:50.510 --> 00:00:50.520 align:start position:0%
+besides the loop what I want to do
+ 
+
+00:00:50.520 --> 00:00:52.549 align:start position:0%
+besides the loop what I want to do
+instead<00:00:50.789><c> is</c><00:00:50.969><c> write</c><00:00:51.420><c> a</c><00:00:51.449><c> method</c><00:00:51.989><c> to</c><00:00:52.140><c> make</c><00:00:52.410><c> it</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+instead is write a method to make it
+ 
+
+00:00:52.559 --> 00:00:54.110 align:start position:0%
+instead is write a method to make it
+easier<00:00:52.860><c> for</c><00:00:52.920><c> the</c><00:00:53.129><c> user</c><00:00:53.160><c> because</c><00:00:53.699><c> it</c><00:00:53.820><c> certainly</c>
+
+00:00:54.110 --> 00:00:54.120 align:start position:0%
+easier for the user because it certainly
+ 
+
+00:00:54.120 --> 00:00:55.310 align:start position:0%
+easier for the user because it certainly
+shouldn't<00:00:54.360><c> be</c><00:00:54.480><c> the</c><00:00:54.600><c> case</c><00:00:54.629><c> that</c><00:00:55.020><c> someone</c>
+
+00:00:55.310 --> 00:00:55.320 align:start position:0%
+shouldn't be the case that someone
+ 
+
+00:00:55.320 --> 00:00:56.450 align:start position:0%
+shouldn't be the case that someone
+should<00:00:55.440><c> have</c><00:00:55.500><c> to</c><00:00:55.620><c> loop</c><00:00:55.829><c> over</c><00:00:56.039><c> a</c><00:00:56.219><c> data</c>
+
+00:00:56.450 --> 00:00:56.460 align:start position:0%
+should have to loop over a data
+ 
+
+00:00:56.460 --> 00:00:58.189 align:start position:0%
+should have to loop over a data
+structure<00:00:56.879><c> in</c><00:00:56.969><c> order</c><00:00:57.059><c> to</c><00:00:57.270><c> get</c><00:00:57.390><c> its</c><00:00:57.510><c> size</c><00:00:57.690><c> it</c>
+
+00:00:58.189 --> 00:00:58.199 align:start position:0%
+structure in order to get its size it
+ 
+
+00:00:58.199 --> 00:01:00.229 align:start position:0%
+structure in order to get its size it
+should<00:00:58.260><c> be</c><00:00:58.500><c> easy</c><00:00:58.739><c> for</c><00:00:59.070><c> the</c><00:00:59.550><c> person</c><00:00:59.879><c> using</c><00:01:00.149><c> the</c>
+
+00:01:00.229 --> 00:01:00.239 align:start position:0%
+should be easy for the person using the
+ 
+
+00:01:00.239 --> 00:01:03.349 align:start position:0%
+should be easy for the person using the
+list<00:01:00.859><c> so</c><00:01:01.859><c> what</c><00:01:02.460><c> I'm</c><00:01:02.609><c> going</c><00:01:02.730><c> to</c><00:01:02.789><c> encourage</c><00:01:02.910><c> you</c>
+
+00:01:03.349 --> 00:01:03.359 align:start position:0%
+list so what I'm going to encourage you
+ 
+
+00:01:03.359 --> 00:01:07.520 align:start position:0%
+list so what I'm going to encourage you
+to<00:01:03.480><c> do</c><00:01:04.070><c> at</c><00:01:05.070><c> this</c><00:01:05.280><c> point</c><00:01:05.750><c> is</c><00:01:06.750><c> you</c><00:01:07.200><c> should</c>
+
+00:01:07.520 --> 00:01:07.530 align:start position:0%
+to do at this point is you should
+ 
+
+00:01:07.530 --> 00:01:09.469 align:start position:0%
+to do at this point is you should
+consider<00:01:08.159><c> writing</c><00:01:08.520><c> the</c><00:01:08.820><c> size</c><00:01:09.000><c> map</c><00:01:09.240><c> that</c><00:01:09.390><c> are</c>
+
+00:01:09.469 --> 00:01:09.479 align:start position:0%
+consider writing the size map that are
+ 
+
+00:01:09.479 --> 00:01:10.960 align:start position:0%
+consider writing the size map that are
+thinking<00:01:09.780><c> about</c><00:01:09.990><c> how</c><00:01:10.110><c> it's</c><00:01:10.260><c> gonna</c><00:01:10.380><c> be</c><00:01:10.560><c> written</c>
+
+00:01:10.960 --> 00:01:10.970 align:start position:0%
+thinking about how it's gonna be written
+ 
+
+00:01:10.970 --> 00:01:13.429 align:start position:0%
+thinking about how it's gonna be written
+and<00:01:11.970><c> I'm</c><00:01:12.270><c> gonna</c><00:01:12.360><c> make</c><00:01:12.540><c> a</c><00:01:12.600><c> note</c><00:01:12.810><c> here</c><00:01:13.110><c> which</c><00:01:13.200><c> is</c>
+
+00:01:13.429 --> 00:01:13.439 align:start position:0%
+and I'm gonna make a note here which is
+ 
+
+00:01:13.439 --> 00:01:15.590 align:start position:0%
+and I'm gonna make a note here which is
+that<00:01:13.680><c> this</c><00:01:14.070><c> method</c><00:01:14.250><c> is</c><00:01:14.549><c> going</c><00:01:14.729><c> to</c><00:01:14.820><c> return</c><00:01:14.939><c> the</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+that this method is going to return the
+ 
+
+00:01:15.600 --> 00:01:20.960 align:start position:0%
+that this method is going to return the
+size<00:01:15.840><c> of</c><00:01:16.020><c> the</c><00:01:16.080><c> list</c><00:01:16.290><c> using</c><00:01:16.880><c> recursion</c><00:01:19.610><c> so</c><00:01:20.610><c> if</c>
+
+00:01:20.960 --> 00:01:20.970 align:start position:0%
+size of the list using recursion so if
+ 
+
+00:01:20.970 --> 00:01:24.380 align:start position:0%
+size of the list using recursion so if
+you<00:01:22.009><c> are</c><00:01:23.009><c> little</c><00:01:23.310><c> rusty</c><00:01:23.700><c> on</c><00:01:23.729><c> this</c><00:01:24.000><c> this</c><00:01:24.270><c> is</c>
+
+00:01:24.380 --> 00:01:24.390 align:start position:0%
+you are little rusty on this this is
+ 
+
+00:01:24.390 --> 00:01:26.300 align:start position:0%
+you are little rusty on this this is
+great<00:01:24.600><c> practice</c><00:01:24.780><c> you</c><00:01:25.470><c> can</c><00:01:25.619><c> think</c><00:01:25.770><c> what</c><00:01:26.100><c> should</c>
+
+00:01:26.300 --> 00:01:26.310 align:start position:0%
+great practice you can think what should
+ 
+
+00:01:26.310 --> 00:01:28.370 align:start position:0%
+great practice you can think what should
+this<00:01:26.460><c> method</c><00:01:26.850><c> maybe</c><00:01:27.000><c> look</c><00:01:27.270><c> like</c><00:01:27.420><c> so</c><00:01:28.020><c> pause</c><00:01:28.229><c> the</c>
+
+00:01:28.370 --> 00:01:28.380 align:start position:0%
+this method maybe look like so pause the
+ 
+
+00:01:28.380 --> 00:01:31.270 align:start position:0%
+this method maybe look like so pause the
+video<00:01:28.500><c> maybe</c><00:01:29.270><c> but</c><00:01:30.270><c> I'll</c><00:01:30.360><c> go</c><00:01:30.509><c> through</c><00:01:30.540><c> it</c><00:01:30.750><c> now</c>
+
+00:01:31.270 --> 00:01:31.280 align:start position:0%
+video maybe but I'll go through it now
+ 
+
+00:01:31.280 --> 00:01:33.980 align:start position:0%
+video maybe but I'll go through it now
+so<00:01:32.280><c> hopefully</c><00:01:33.030><c> you're</c><00:01:33.180><c> pretty</c><00:01:33.570><c> familiar</c><00:01:33.750><c> with</c>
+
+00:01:33.980 --> 00:01:33.990 align:start position:0%
+so hopefully you're pretty familiar with
+ 
+
+00:01:33.990 --> 00:01:35.450 align:start position:0%
+so hopefully you're pretty familiar with
+recursion<00:01:34.350><c> you're</c><00:01:34.619><c> comfortable</c><00:01:35.009><c> with</c><00:01:35.159><c> it</c><00:01:35.340><c> to</c>
+
+00:01:35.450 --> 00:01:35.460 align:start position:0%
+recursion you're comfortable with it to
+ 
+
+00:01:35.460 --> 00:01:37.399 align:start position:0%
+recursion you're comfortable with it to
+some<00:01:35.640><c> degree</c><00:01:35.670><c> and</c><00:01:36.180><c> if</c><00:01:36.570><c> not</c><00:01:36.689><c> you</c><00:01:36.960><c> know</c><00:01:37.079><c> bummer</c>
+
+00:01:37.399 --> 00:01:37.409 align:start position:0%
+some degree and if not you know bummer
+ 
+
+00:01:37.409 --> 00:01:39.170 align:start position:0%
+some degree and if not you know bummer
+that<00:01:37.439><c> your</c><00:01:37.650><c> prerequisites</c><00:01:38.340><c> aren't</c><00:01:38.579><c> great</c><00:01:38.909><c> but</c>
+
+00:01:39.170 --> 00:01:39.180 align:start position:0%
+that your prerequisites aren't great but
+ 
+
+00:01:39.180 --> 00:01:40.490 align:start position:0%
+that your prerequisites aren't great but
+you<00:01:39.420><c> know</c><00:01:39.479><c> you'll</c><00:01:39.689><c> catch</c><00:01:39.840><c> up</c><00:01:39.869><c> I</c><00:01:40.229><c> don't</c><00:01:40.380><c> know</c><00:01:40.439><c> if</c>
+
+00:01:40.490 --> 00:01:40.500 align:start position:0%
+you know you'll catch up I don't know if
+ 
+
+00:01:40.500 --> 00:01:41.840 align:start position:0%
+you know you'll catch up I don't know if
+this<00:01:40.619><c> gesture</c><00:01:41.009><c> was</c><00:01:41.159><c> that</c><00:01:41.340><c> I</c><00:01:41.369><c> just</c><00:01:41.430><c> did</c><00:01:41.729><c> that</c>
+
+00:01:41.840 --> 00:01:41.850 align:start position:0%
+this gesture was that I just did that
+ 
+
+00:01:41.850 --> 00:01:44.120 align:start position:0%
+this gesture was that I just did that
+was<00:01:41.970><c> like</c><00:01:42.060><c> a</c><00:01:42.150><c> sad</c><00:01:42.659><c> face</c><00:01:42.930><c> gesture</c><00:01:43.409><c> but</c><00:01:43.560><c> didn't</c>
+
+00:01:44.120 --> 00:01:44.130 align:start position:0%
+was like a sad face gesture but didn't
+ 
+
+00:01:44.130 --> 00:01:47.149 align:start position:0%
+was like a sad face gesture but didn't
+really<00:01:44.280><c> commit</c><00:01:44.520><c> to</c><00:01:44.579><c> it</c><00:01:44.820><c> I</c><00:01:44.880><c> guess</c><00:01:45.060><c> anyway</c><00:01:45.600><c> so</c><00:01:46.439><c> in</c>
+
+00:01:47.149 --> 00:01:47.159 align:start position:0%
+really commit to it I guess anyway so in
+ 
+
+00:01:47.159 --> 00:01:48.980 align:start position:0%
+really commit to it I guess anyway so in
+a<00:01:47.250><c> recursive</c><00:01:47.670><c> method</c><00:01:47.970><c> what</c><00:01:48.299><c> we</c><00:01:48.390><c> always</c><00:01:48.630><c> need</c>
+
+00:01:48.980 --> 00:01:48.990 align:start position:0%
+a recursive method what we always need
+ 
+
+00:01:48.990 --> 00:01:53.030 align:start position:0%
+a recursive method what we always need
+is<00:01:49.140><c> a</c><00:01:49.340><c> base</c><00:01:50.340><c> case</c><00:01:50.610><c> correct</c><00:01:51.409><c> us</c><00:01:52.409><c> what</c><00:01:52.799><c> we're</c>
+
+00:01:53.030 --> 00:01:53.040 align:start position:0%
+is a base case correct us what we're
+ 
+
+00:01:53.040 --> 00:01:54.830 align:start position:0%
+is a base case correct us what we're
+gonna<00:01:53.159><c> do</c><00:01:53.430><c> is</c><00:01:54.000><c> think</c><00:01:54.240><c> about</c><00:01:54.299><c> what</c><00:01:54.479><c> the</c><00:01:54.689><c> base</c>
+
+00:01:54.830 --> 00:01:54.840 align:start position:0%
+gonna do is think about what the base
+ 
+
+00:01:54.840 --> 00:01:57.859 align:start position:0%
+gonna do is think about what the base
+case<00:01:55.110><c> might</c><00:01:55.380><c> be</c><00:01:56.240><c> so</c><00:01:57.240><c> what</c><00:01:57.420><c> is</c><00:01:57.509><c> the</c><00:01:57.659><c> type</c><00:01:57.840><c> of</c>
+
+00:01:57.859 --> 00:01:57.869 align:start position:0%
+case might be so what is the type of
+ 
+
+00:01:57.869 --> 00:02:01.010 align:start position:0%
+case might be so what is the type of
+list<00:01:58.259><c> where</c><00:01:58.469><c> we</c><00:01:58.500><c> know</c><00:01:58.770><c> the</c><00:01:59.130><c> size</c><00:01:59.869><c> well</c><00:02:00.869><c> it's</c>
+
+00:02:01.010 --> 00:02:01.020 align:start position:0%
+list where we know the size well it's
+ 
+
+00:02:01.020 --> 00:02:02.600 align:start position:0%
+list where we know the size well it's
+gonna<00:02:01.140><c> be</c><00:02:01.229><c> one</c><00:02:01.500><c> where</c><00:02:01.740><c> we</c><00:02:01.950><c> can</c><00:02:02.100><c> say</c><00:02:02.310><c> it</c><00:02:02.490><c> the</c>
+
+00:02:02.600 --> 00:02:02.610 align:start position:0%
+gonna be one where we can say it the
+ 
+
+00:02:02.610 --> 00:02:04.760 align:start position:0%
+gonna be one where we can say it the
+rest<00:02:02.880><c> is</c><00:02:03.060><c> null</c><00:02:03.299><c> if</c><00:02:03.840><c> the</c><00:02:04.079><c> rest</c><00:02:04.320><c> is</c><00:02:04.560><c> null</c><00:02:04.740><c> that</c>
+
+00:02:04.760 --> 00:02:04.770 align:start position:0%
+rest is null if the rest is null that
+ 
+
+00:02:04.770 --> 00:02:06.770 align:start position:0%
+rest is null if the rest is null that
+means<00:02:05.009><c> we</c><00:02:05.250><c> have</c><00:02:05.340><c> a</c><00:02:05.369><c> first</c><00:02:05.670><c> value</c><00:02:05.909><c> and</c><00:02:06.240><c> nothing</c>
+
+00:02:06.770 --> 00:02:06.780 align:start position:0%
+means we have a first value and nothing
+ 
+
+00:02:06.780 --> 00:02:09.490 align:start position:0%
+means we have a first value and nothing
+else<00:02:06.930><c> in</c><00:02:07.619><c> which</c><00:02:07.770><c> case</c><00:02:07.979><c> we</c><00:02:08.160><c> should</c><00:02:08.190><c> return</c><00:02:08.640><c> what</c>
+
+00:02:09.490 --> 00:02:09.500 align:start position:0%
+else in which case we should return what
+ 
+
+00:02:09.500 --> 00:02:12.350 align:start position:0%
+else in which case we should return what
+one<00:02:10.500><c> so</c><00:02:11.400><c> we</c><00:02:11.489><c> have</c><00:02:11.580><c> a</c><00:02:11.640><c> list</c><00:02:11.819><c> it</c><00:02:12.000><c> only</c><00:02:12.120><c> has</c><00:02:12.330><c> one</c>
+
+00:02:12.350 --> 00:02:12.360 align:start position:0%
+one so we have a list it only has one
+ 
+
+00:02:12.360 --> 00:02:13.309 align:start position:0%
+one so we have a list it only has one
+thing
+
+00:02:13.309 --> 00:02:13.319 align:start position:0%
+thing
+ 
+
+00:02:13.319 --> 00:02:14.839 align:start position:0%
+thing
+then<00:02:13.560><c> the</c><00:02:13.709><c> rest</c><00:02:13.890><c> will</c><00:02:14.040><c> be</c><00:02:14.099><c> known</c><00:02:14.340><c> will</c><00:02:14.579><c> return</c>
+
+00:02:14.839 --> 00:02:14.849 align:start position:0%
+then the rest will be known will return
+ 
+
+00:02:14.849 --> 00:02:18.849 align:start position:0%
+then the rest will be known will return
+one<00:02:15.469><c> now</c><00:02:16.469><c> if</c><00:02:16.590><c> that's</c><00:02:16.680><c> not</c><00:02:16.829><c> the</c><00:02:17.219><c> case</c><00:02:17.370><c> then</c><00:02:17.999><c> what</c>
+
+00:02:18.849 --> 00:02:18.859 align:start position:0%
+one now if that's not the case then what
+ 
+
+00:02:18.859 --> 00:02:21.559 align:start position:0%
+one now if that's not the case then what
+well<00:02:19.859><c> in</c><00:02:19.920><c> that</c><00:02:20.010><c> case</c><00:02:20.069><c> we</c><00:02:20.879><c> know</c><00:02:21.150><c> that</c><00:02:21.450><c> it's</c>
+
+00:02:21.559 --> 00:02:21.569 align:start position:0%
+well in that case we know that it's
+ 
+
+00:02:21.569 --> 00:02:25.699 align:start position:0%
+well in that case we know that it's
+gonna<00:02:21.689><c> be</c><00:02:21.870><c> one</c><00:02:22.260><c> plus</c><00:02:22.590><c> however</c><00:02:23.340><c> big</c><00:02:24.499><c> the</c><00:02:25.499><c> rest</c>
+
+00:02:25.699 --> 00:02:25.709 align:start position:0%
+gonna be one plus however big the rest
+ 
+
+00:02:25.709 --> 00:02:28.250 align:start position:0%
+gonna be one plus however big the rest
+of<00:02:25.889><c> the</c><00:02:25.980><c> list</c><00:02:26.129><c> is</c><00:02:26.540><c> and</c><00:02:27.540><c> we</c><00:02:27.659><c> can</c><00:02:27.780><c> get</c><00:02:27.900><c> that</c><00:02:28.019><c> by</c>
+
+00:02:28.250 --> 00:02:28.260 align:start position:0%
+of the list is and we can get that by
+ 
+
+00:02:28.260 --> 00:02:31.599 align:start position:0%
+of the list is and we can get that by
+just<00:02:28.499><c> asking</c><00:02:28.859><c> for</c><00:02:29.069><c> this</c><00:02:29.670><c> got</c><00:02:30.359><c> rest</c><00:02:30.659><c> dot</c><00:02:31.230><c> sighs</c>
+
+00:02:31.599 --> 00:02:31.609 align:start position:0%
+just asking for this got rest dot sighs
+ 
+
+00:02:31.609 --> 00:02:34.160 align:start position:0%
+just asking for this got rest dot sighs
+so<00:02:32.609><c> I'm</c><00:02:32.670><c> going</c><00:02:32.790><c> to</c><00:02:32.819><c> ask</c><00:02:32.969><c> my</c><00:02:33.359><c> rest</c><00:02:33.689><c> like</c><00:02:34.019><c> you</c>
+
+00:02:34.160 --> 00:02:34.170 align:start position:0%
+so I'm going to ask my rest like you
+ 
+
+00:02:34.170 --> 00:02:35.599 align:start position:0%
+so I'm going to ask my rest like you
+know<00:02:34.260><c> it's</c><00:02:34.409><c> also</c><00:02:34.560><c> a</c><00:02:34.680><c> necklace</c><00:02:34.980><c> what</c><00:02:35.250><c> size</c><00:02:35.430><c> are</c>
+
+00:02:35.599 --> 00:02:35.609 align:start position:0%
+know it's also a necklace what size are
+ 
+
+00:02:35.609 --> 00:02:38.030 align:start position:0%
+know it's also a necklace what size are
+you<00:02:35.760><c> and</c><00:02:36.629><c> assuming</c><00:02:37.049><c> the</c><00:02:37.139><c> list</c><00:02:37.349><c> is</c><00:02:37.500><c> well-formed</c>
+
+00:02:38.030 --> 00:02:38.040 align:start position:0%
+you and assuming the list is well-formed
+ 
+
+00:02:38.040 --> 00:02:39.709 align:start position:0%
+you and assuming the list is well-formed
+will<00:02:38.219><c> eventually</c><00:02:38.609><c> get</c><00:02:38.700><c> this</c><00:02:38.969><c> base</c><00:02:39.150><c> case</c><00:02:39.389><c> and</c>
+
+00:02:39.709 --> 00:02:39.719 align:start position:0%
+will eventually get this base case and
+ 
+
+00:02:39.719 --> 00:02:42.020 align:start position:0%
+will eventually get this base case and
+we'll<00:02:39.810><c> get</c><00:02:39.930><c> a</c><00:02:39.959><c> nice</c><00:02:40.139><c> answer</c><00:02:40.730><c> now</c><00:02:41.730><c> it</c><00:02:41.849><c> may</c><00:02:42.000><c> be</c>
+
+00:02:42.020 --> 00:02:42.030 align:start position:0%
+we'll get a nice answer now it may be
+ 
+
+00:02:42.030 --> 00:02:43.369 align:start position:0%
+we'll get a nice answer now it may be
+the<00:02:42.299><c> case</c><00:02:42.480><c> that</c><00:02:42.659><c> you're</c><00:02:42.780><c> not</c><00:02:42.959><c> super</c>
+
+00:02:43.369 --> 00:02:43.379 align:start position:0%
+the case that you're not super
+ 
+
+00:02:43.379 --> 00:02:44.929 align:start position:0%
+the case that you're not super
+comfortable<00:02:43.590><c> with</c><00:02:43.859><c> recursion</c><00:02:44.370><c> which</c><00:02:44.730><c> case</c>
+
+00:02:44.929 --> 00:02:44.939 align:start position:0%
+comfortable with recursion which case
+ 
+
+00:02:44.939 --> 00:02:45.979 align:start position:0%
+comfortable with recursion which case
+I'm<00:02:45.120><c> going</c><00:02:45.239><c> to</c><00:02:45.299><c> run</c><00:02:45.389><c> this</c><00:02:45.540><c> thing</c><00:02:45.719><c> through</c><00:02:45.900><c> the</c>
+
+00:02:45.979 --> 00:02:45.989 align:start position:0%
+I'm going to run this thing through the
+ 
+
+00:02:45.989 --> 00:02:47.869 align:start position:0%
+I'm going to run this thing through the
+visualizer<00:02:46.409><c> and</c><00:02:46.709><c> if</c><00:02:47.400><c> you're</c><00:02:47.519><c> ready</c><00:02:47.669><c> feeling</c>
+
+00:02:47.869 --> 00:02:47.879 align:start position:0%
+visualizer and if you're ready feeling
+ 
+
+00:02:47.879 --> 00:02:49.129 align:start position:0%
+visualizer and if you're ready feeling
+pretty<00:02:47.969><c> comfortable</c><00:02:48.180><c> with</c><00:02:48.540><c> this</c><00:02:48.719><c> this</c><00:02:48.959><c> might</c>
+
+00:02:49.129 --> 00:02:49.139 align:start position:0%
+pretty comfortable with this this might
+ 
+
+00:02:49.139 --> 00:02:51.110 align:start position:0%
+pretty comfortable with this this might
+be<00:02:49.260><c> a</c><00:02:49.290><c> little</c><00:02:49.530><c> boring</c><00:02:49.680><c> but</c><00:02:50.430><c> let's</c><00:02:50.849><c> check</c><00:02:51.000><c> it</c>
+
+00:02:51.110 --> 00:02:51.120 align:start position:0%
+be a little boring but let's check it
+ 
+
+00:02:51.120 --> 00:02:54.409 align:start position:0%
+be a little boring but let's check it
+out<00:02:51.209><c> and</c><00:02:51.359><c> see</c><00:02:51.780><c> how</c><00:02:51.900><c> it</c><00:02:51.989><c> goes</c><00:02:53.060><c> first</c><00:02:54.060><c> of</c><00:02:54.269><c> all</c>
+
+00:02:54.409 --> 00:02:54.419 align:start position:0%
+out and see how it goes first of all
+ 
+
+00:02:54.419 --> 00:02:55.970 align:start position:0%
+out and see how it goes first of all
+let's<00:02:54.750><c> just</c><00:02:54.810><c> click</c><00:02:55.049><c> last</c><00:02:55.319><c> and</c><00:02:55.620><c> make</c><00:02:55.709><c> sure</c><00:02:55.859><c> we</c>
+
+00:02:55.970 --> 00:02:55.980 align:start position:0%
+let's just click last and make sure we
+ 
+
+00:02:55.980 --> 00:02:58.339 align:start position:0%
+let's just click last and make sure we
+get<00:02:56.069><c> the</c><00:02:56.250><c> right</c><00:02:56.310><c> answer</c><00:02:56.669><c> and</c><00:02:56.849><c> so</c><00:02:57.659><c> indeed</c><00:02:57.989><c> we</c><00:02:58.019><c> do</c>
+
+00:02:58.339 --> 00:02:58.349 align:start position:0%
+get the right answer and so indeed we do
+ 
+
+00:02:58.349 --> 00:03:00.170 align:start position:0%
+get the right answer and so indeed we do
+we<00:02:58.650><c> get</c><00:02:58.799><c> three</c><00:02:59.129><c> which</c><00:02:59.400><c> means</c><00:02:59.579><c> that</c><00:02:59.849><c> print</c><00:03:00.060><c> it</c>
+
+00:03:00.170 --> 00:03:00.180 align:start position:0%
+we get three which means that print it
+ 
+
+00:03:00.180 --> 00:03:02.959 align:start position:0%
+we get three which means that print it
+out<00:03:00.239><c> correctly</c><00:03:01.040><c> so</c><00:03:02.040><c> let's</c><00:03:02.340><c> run</c><00:03:02.730><c> through</c><00:03:02.879><c> it</c>
+
+00:03:02.959 --> 00:03:02.969 align:start position:0%
+out correctly so let's run through it
+ 
+
+00:03:02.969 --> 00:03:04.599 align:start position:0%
+out correctly so let's run through it
+step<00:03:03.329><c> by</c><00:03:03.359><c> step</c>
+
+00:03:04.599 --> 00:03:04.609 align:start position:0%
+step by step
+ 
+
+00:03:04.609 --> 00:03:06.920 align:start position:0%
+step by step
+after<00:03:05.609><c> the</c><00:03:05.699><c> int</c><00:03:05.819><c> list</c><00:03:05.969><c> SAR</c><00:03:06.209><c> all</c><00:03:06.299><c> created</c><00:03:06.719><c> we</c>
+
+00:03:06.920 --> 00:03:06.930 align:start position:0%
+after the int list SAR all created we
+ 
+
+00:03:06.930 --> 00:03:08.059 align:start position:0%
+after the int list SAR all created we
+finally<00:03:07.319><c> get</c><00:03:07.439><c> to</c><00:03:07.530><c> the</c><00:03:07.650><c> point</c><00:03:07.859><c> where</c><00:03:07.980><c> we're</c>
+
+00:03:08.059 --> 00:03:08.069 align:start position:0%
+finally get to the point where we're
+ 
+
+00:03:08.069 --> 00:03:10.909 align:start position:0%
+finally get to the point where we're
+gonna<00:03:08.129><c> ask</c><00:03:08.459><c> for</c><00:03:08.909><c> the</c><00:03:09.030><c> size</c><00:03:09.209><c> so</c><00:03:10.109><c> we</c><00:03:10.199><c> say</c><00:03:10.349><c> 2l</c><00:03:10.590><c> hey</c>
+
+00:03:10.909 --> 00:03:10.919 align:start position:0%
+gonna ask for the size so we say 2l hey
+ 
+
+00:03:10.919 --> 00:03:14.809 align:start position:0%
+gonna ask for the size so we say 2l hey
+what<00:03:11.879><c> size</c><00:03:12.090><c> are</c><00:03:12.299><c> you</c><00:03:12.769><c> so</c><00:03:13.769><c> L</c><00:03:13.919><c> takes</c><00:03:14.370><c> over</c><00:03:14.669><c> and</c>
+
+00:03:14.809 --> 00:03:14.819 align:start position:0%
+what size are you so L takes over and
+ 
+
+00:03:14.819 --> 00:03:19.189 align:start position:0%
+what size are you so L takes over and
+now<00:03:15.120><c> L</c><00:03:15.359><c> is</c><00:03:15.540><c> this</c><00:03:15.949><c> and</c><00:03:16.949><c> thinks</c><00:03:17.250><c> okay</c><00:03:18.090><c> is</c><00:03:18.629><c> my</c><00:03:18.689><c> rest</c>
+
+00:03:19.189 --> 00:03:19.199 align:start position:0%
+now L is this and thinks okay is my rest
+ 
+
+00:03:19.199 --> 00:03:23.210 align:start position:0%
+now L is this and thinks okay is my rest
+null<00:03:20.150><c> no</c><00:03:21.150><c> okay</c><00:03:21.989><c> so</c><00:03:22.049><c> what</c><00:03:22.379><c> I</c><00:03:22.409><c> should</c><00:03:22.650><c> do</c><00:03:22.799><c> then</c><00:03:22.829><c> is</c>
+
+00:03:23.210 --> 00:03:23.220 align:start position:0%
+null no okay so what I should do then is
+ 
+
+00:03:23.220 --> 00:03:26.030 align:start position:0%
+null no okay so what I should do then is
+I<00:03:23.729><c> should</c><00:03:23.879><c> ask</c><00:03:24.060><c> my</c><00:03:24.299><c> buddy</c><00:03:24.659><c> right</c><00:03:25.139><c> here</c><00:03:25.500><c> but</c>
+
+00:03:26.030 --> 00:03:26.040 align:start position:0%
+I should ask my buddy right here but
+ 
+
+00:03:26.040 --> 00:03:30.140 align:start position:0%
+I should ask my buddy right here but
+it's<00:03:26.220><c> size</c><00:03:26.609><c> s</c><00:03:26.879><c> and</c><00:03:27.180><c> I'll</c><00:03:27.359><c> add</c><00:03:27.509><c> one</c><00:03:27.540><c> to</c><00:03:27.810><c> that</c><00:03:29.150><c> so</c>
+
+00:03:30.140 --> 00:03:30.150 align:start position:0%
+it's size s and I'll add one to that so
+ 
+
+00:03:30.150 --> 00:03:32.990 align:start position:0%
+it's size s and I'll add one to that so
+I<00:03:30.180><c> go</c><00:03:30.449><c> over</c><00:03:30.629><c> here</c><00:03:30.659><c> and</c><00:03:31.079><c> this</c><00:03:31.650><c> is</c><00:03:31.709><c> my</c><00:03:32.069><c> middle</c>
+
+00:03:32.990 --> 00:03:33.000 align:start position:0%
+I go over here and this is my middle
+ 
+
+00:03:33.000 --> 00:03:35.809 align:start position:0%
+I go over here and this is my middle
+list<00:03:33.689><c> and</c><00:03:33.989><c> it</c><00:03:34.349><c> says</c><00:03:34.650><c> okay</c><00:03:34.979><c> yeah</c><00:03:35.189><c> now</c><00:03:35.669><c> I'm</c>
+
+00:03:35.809 --> 00:03:35.819 align:start position:0%
+list and it says okay yeah now I'm
+ 
+
+00:03:35.819 --> 00:03:39.800 align:start position:0%
+list and it says okay yeah now I'm
+active<00:03:36.299><c> list</c><00:03:36.509><c> so</c><00:03:36.979><c> as</c><00:03:37.979><c> my</c><00:03:38.159><c> rest</c><00:03:38.400><c> don't</c><00:03:38.579><c> know</c><00:03:38.819><c> so</c>
+
+00:03:39.800 --> 00:03:39.810 align:start position:0%
+active list so as my rest don't know so
+ 
+
+00:03:39.810 --> 00:03:42.939 align:start position:0%
+active list so as my rest don't know so
+I'm<00:03:40.560><c> gonna</c><00:03:40.829><c> return</c><00:03:41.069><c> one</c><00:03:41.459><c> plus</c><00:03:41.759><c> my</c><00:03:42.060><c> buddy's</c>
+
+00:03:42.939 --> 00:03:42.949 align:start position:0%
+I'm gonna return one plus my buddy's
+ 
+
+00:03:42.949 --> 00:03:46.610 align:start position:0%
+I'm gonna return one plus my buddy's
+size<00:03:44.659><c> finally</c><00:03:45.659><c> we</c><00:03:45.750><c> get</c><00:03:45.840><c> to</c><00:03:45.900><c> this</c><00:03:46.079><c> last</c><00:03:46.319><c> list</c>
+
+00:03:46.610 --> 00:03:46.620 align:start position:0%
+size finally we get to this last list
+ 
+
+00:03:46.620 --> 00:03:48.710 align:start position:0%
+size finally we get to this last list
+it's<00:03:46.829><c> the</c><00:03:46.889><c> active</c><00:03:47.459><c> list</c><00:03:47.729><c> and</c><00:03:47.939><c> that</c><00:03:48.269><c> list</c><00:03:48.329><c> says</c>
+
+00:03:48.710 --> 00:03:48.720 align:start position:0%
+it's the active list and that list says
+ 
+
+00:03:48.720 --> 00:03:50.869 align:start position:0%
+it's the active list and that list says
+yes<00:03:49.109><c> okay</c><00:03:49.500><c> you</c><00:03:49.590><c> know</c><00:03:49.680><c> what</c><00:03:49.859><c> rest</c><00:03:50.220><c> is</c><00:03:50.400><c> null</c><00:03:50.639><c> I'm</c>
+
+00:03:50.869 --> 00:03:50.879 align:start position:0%
+yes okay you know what rest is null I'm
+ 
+
+00:03:50.879 --> 00:03:52.909 align:start position:0%
+yes okay you know what rest is null I'm
+a<00:03:50.939><c> tiny</c><00:03:51.209><c> list</c><00:03:51.540><c> I</c><00:03:51.689><c> have</c><00:03:51.840><c> no</c><00:03:52.049><c> successors</c><00:03:52.650><c> there's</c>
+
+00:03:52.909 --> 00:03:52.919 align:start position:0%
+a tiny list I have no successors there's
+ 
+
+00:03:52.919 --> 00:03:53.569 align:start position:0%
+a tiny list I have no successors there's
+no<00:03:53.069><c> rest</c>
+
+00:03:53.569 --> 00:03:53.579 align:start position:0%
+no rest
+ 
+
+00:03:53.579 --> 00:03:56.270 align:start position:0%
+no rest
+so<00:03:54.000><c> my</c><00:03:54.299><c> size</c><00:03:54.540><c> is</c><00:03:54.720><c> just</c><00:03:54.959><c> one</c><00:03:55.139><c> so</c><00:03:55.829><c> I'm</c><00:03:55.889><c> gonna</c><00:03:56.009><c> tell</c>
+
+00:03:56.270 --> 00:03:56.280 align:start position:0%
+so my size is just one so I'm gonna tell
+ 
+
+00:03:56.280 --> 00:03:57.770 align:start position:0%
+so my size is just one so I'm gonna tell
+the<00:03:56.400><c> world</c><00:03:56.549><c> I'm</c><00:03:56.790><c> gonna</c><00:03:56.879><c> shout</c><00:03:57.150><c> it</c><00:03:57.299><c> onto</c><00:03:57.689><c> the</c>
+
+00:03:57.770 --> 00:03:57.780 align:start position:0%
+the world I'm gonna shout it onto the
+ 
+
+00:03:57.780 --> 00:04:00.979 align:start position:0%
+the world I'm gonna shout it onto the
+rooftops<00:03:58.199><c> whoever</c><00:03:59.159><c> who</c><00:03:59.340><c> was</c><00:03:59.519><c> asking</c><00:03:59.989><c> my</c>
+
+00:04:00.979 --> 00:04:00.989 align:start position:0%
+rooftops whoever who was asking my
+ 
+
+00:04:00.989 --> 00:04:03.949 align:start position:0%
+rooftops whoever who was asking my
+return<00:04:01.290><c> value</c><00:04:01.620><c> is</c><00:04:01.650><c> 1</c><00:04:02.239><c> ok</c><00:04:03.239><c> great</c><00:04:03.479><c> your</c><00:04:03.719><c> return</c>
+
+00:04:03.949 --> 00:04:03.959 align:start position:0%
+return value is 1 ok great your return
+ 
+
+00:04:03.959 --> 00:04:06.860 align:start position:0%
+return value is 1 ok great your return
+value<00:04:04.259><c> is</c><00:04:04.319><c> 1</c><00:04:04.560><c> so</c><00:04:04.590><c> if</c><00:04:04.979><c> my</c><00:04:05.219><c> sub</c><00:04:06.030><c> list</c><00:04:06.269><c> is</c><00:04:06.449><c> size</c><00:04:06.629><c> 1</c>
+
+00:04:06.860 --> 00:04:06.870 align:start position:0%
+value is 1 so if my sub list is size 1
+ 
+
+00:04:06.870 --> 00:04:08.599 align:start position:0%
+value is 1 so if my sub list is size 1
+then<00:04:07.259><c> my</c><00:04:07.439><c> size</c><00:04:07.650><c> must</c><00:04:07.979><c> be</c><00:04:08.069><c> 2</c>
+
+00:04:08.599 --> 00:04:08.609 align:start position:0%
+then my size must be 2
+ 
+
+00:04:08.609 --> 00:04:12.140 align:start position:0%
+then my size must be 2
+and<00:04:09.509><c> so</c><00:04:09.689><c> I</c><00:04:09.750><c> returned</c><00:04:10.079><c> to</c><00:04:10.729><c> finally</c><00:04:11.729><c> we</c><00:04:11.819><c> get</c><00:04:11.939><c> back</c>
+
+00:04:12.140 --> 00:04:12.150 align:start position:0%
+and so I returned to finally we get back
+ 
+
+00:04:12.150 --> 00:04:14.869 align:start position:0%
+and so I returned to finally we get back
+to<00:04:12.359><c> this</c><00:04:12.689><c> list</c><00:04:12.959><c> and</c><00:04:13.259><c> it</c><00:04:14.069><c> has</c><00:04:14.310><c> reported</c><00:04:14.849><c> that</c>
+
+00:04:14.869 --> 00:04:14.879 align:start position:0%
+to this list and it has reported that
+ 
+
+00:04:14.879 --> 00:04:18.709 align:start position:0%
+to this list and it has reported that
+its<00:04:15.180><c> rest</c><00:04:15.479><c> is</c><00:04:15.750><c> size</c><00:04:16.019><c> 2</c><00:04:16.310><c> now</c><00:04:17.310><c> if</c><00:04:17.639><c> my</c><00:04:18.209><c> rest</c><00:04:18.509><c> is</c>
+
+00:04:18.709 --> 00:04:18.719 align:start position:0%
+its rest is size 2 now if my rest is
+ 
+
+00:04:18.719 --> 00:04:21.050 align:start position:0%
+its rest is size 2 now if my rest is
+size<00:04:18.900><c> 2</c><00:04:19.169><c> and</c><00:04:19.349><c> I'm</c><00:04:19.799><c> only</c><00:04:19.949><c> one</c><00:04:20.280><c> additional</c><00:04:20.549><c> value</c>
+
+00:04:21.050 --> 00:04:21.060 align:start position:0%
+size 2 and I'm only one additional value
+ 
+
+00:04:21.060 --> 00:04:23.269 align:start position:0%
+size 2 and I'm only one additional value
+I'm<00:04:21.570><c> gonna</c><00:04:21.719><c> add</c><00:04:21.840><c> 1</c><00:04:22.109><c> to</c><00:04:22.260><c> that</c><00:04:22.289><c> and</c><00:04:22.770><c> I</c><00:04:23.130><c> will</c>
+
+00:04:23.269 --> 00:04:23.279 align:start position:0%
+I'm gonna add 1 to that and I will
+ 
+
+00:04:23.279 --> 00:04:25.340 align:start position:0%
+I'm gonna add 1 to that and I will
+finally<00:04:23.669><c> return</c><00:04:23.820><c> 3</c><00:04:24.240><c> and</c><00:04:24.930><c> that's</c>
+
+00:04:25.340 --> 00:04:25.350 align:start position:0%
+finally return 3 and that's
+ 
+
+00:04:25.350 --> 00:04:27.710 align:start position:0%
+finally return 3 and that's
+all<00:04:25.440><c> story</c>
+

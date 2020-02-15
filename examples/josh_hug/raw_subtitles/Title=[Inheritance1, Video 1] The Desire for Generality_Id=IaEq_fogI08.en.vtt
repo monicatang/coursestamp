@@ -1,0 +1,1016 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.090 align:start position:0%
+ 
+today<00:00:00.960><c> we're</c><00:00:01.079><c> gonna</c><00:00:01.140><c> talk</c><00:00:01.410><c> about</c><00:00:01.469><c> a</c><00:00:01.709><c> totally</c>
+
+00:00:02.090 --> 00:00:02.100 align:start position:0%
+today we're gonna talk about a totally
+ 
+
+00:00:02.100 --> 00:00:04.249 align:start position:0%
+today we're gonna talk about a totally
+new<00:00:02.220><c> topic</c><00:00:02.610><c> known</c><00:00:02.909><c> as</c><00:00:03.030><c> inheritance</c><00:00:03.360><c> to</c><00:00:04.049><c> set</c>
+
+00:00:04.249 --> 00:00:04.259 align:start position:0%
+new topic known as inheritance to set
+ 
+
+00:00:04.259 --> 00:00:06.019 align:start position:0%
+new topic known as inheritance to set
+the<00:00:04.410><c> stage</c><00:00:04.620><c> let's</c><00:00:05.069><c> consider</c><00:00:05.370><c> the</c><00:00:05.580><c> s</c><00:00:05.700><c> List</c>
+
+00:00:06.019 --> 00:00:06.029 align:start position:0%
+the stage let's consider the s List
+ 
+
+00:00:06.029 --> 00:00:07.849 align:start position:0%
+the stage let's consider the s List
+class<00:00:06.299><c> and</c><00:00:06.540><c> the</c><00:00:06.660><c> A</c><00:00:06.690><c> List</c><00:00:06.810><c> class</c><00:00:07.319><c> that</c><00:00:07.560><c> we</c><00:00:07.649><c> built</c>
+
+00:00:07.849 --> 00:00:07.859 align:start position:0%
+class and the A List class that we built
+ 
+
+00:00:07.859 --> 00:00:10.430 align:start position:0%
+class and the A List class that we built
+over<00:00:08.160><c> the</c><00:00:08.189><c> last</c><00:00:08.309><c> so</c><00:00:08.880><c> many</c><00:00:08.910><c> lectures</c><00:00:09.389><c> so</c><00:00:10.200><c> we</c><00:00:10.290><c> see</c>
+
+00:00:10.430 --> 00:00:10.440 align:start position:0%
+over the last so many lectures so we see
+ 
+
+00:00:10.440 --> 00:00:12.259 align:start position:0%
+over the last so many lectures so we see
+that<00:00:10.590><c> they</c><00:00:10.710><c> have</c><00:00:10.860><c> actually</c><00:00:11.130><c> the</c><00:00:11.550><c> exact</c><00:00:11.910><c> same</c>
+
+00:00:12.259 --> 00:00:12.269 align:start position:0%
+that they have actually the exact same
+ 
+
+00:00:12.269 --> 00:00:14.480 align:start position:0%
+that they have actually the exact same
+operations<00:00:12.990><c> they</c><00:00:13.469><c> both</c><00:00:13.679><c> let</c><00:00:13.860><c> us</c><00:00:13.950><c> add</c><00:00:14.160><c> things</c>
+
+00:00:14.480 --> 00:00:14.490 align:start position:0%
+operations they both let us add things
+ 
+
+00:00:14.490 --> 00:00:16.519 align:start position:0%
+operations they both let us add things
+get<00:00:15.089><c> things</c><00:00:15.389><c> remove</c><00:00:15.839><c> things</c><00:00:16.080><c> get</c><00:00:16.379><c> back</c><00:00:16.500><c> to</c>
+
+00:00:16.519 --> 00:00:16.529 align:start position:0%
+get things remove things get back to
+ 
+
+00:00:16.529 --> 00:00:18.680 align:start position:0%
+get things remove things get back to
+size<00:00:16.830><c> and</c><00:00:17.130><c> if</c><00:00:17.760><c> you</c><00:00:17.970><c> did</c><00:00:18.119><c> the</c><00:00:18.240><c> discussion</c>
+
+00:00:18.680 --> 00:00:18.690 align:start position:0%
+size and if you did the discussion
+ 
+
+00:00:18.690 --> 00:00:20.420 align:start position:0%
+size and if you did the discussion
+worksheet<00:00:19.020><c> available</c><00:00:19.560><c> on</c><00:00:19.650><c> the</c><00:00:19.710><c> website</c><00:00:20.070><c> or</c><00:00:20.279><c> if</c>
+
+00:00:20.420 --> 00:00:20.430 align:start position:0%
+worksheet available on the website or if
+ 
+
+00:00:20.430 --> 00:00:23.330 align:start position:0%
+worksheet available on the website or if
+you're<00:00:20.580><c> in</c><00:00:20.970><c> the</c><00:00:21.150><c> class</c><00:00:21.359><c> at</c><00:00:21.840><c> Berkeley</c><00:00:22.189><c> then</c><00:00:23.189><c> you</c>
+
+00:00:23.330 --> 00:00:23.340 align:start position:0%
+you're in the class at Berkeley then you
+ 
+
+00:00:23.340 --> 00:00:25.519 align:start position:0%
+you're in the class at Berkeley then you
+can<00:00:23.519><c> then</c><00:00:24.359><c> we</c><00:00:24.510><c> added</c><00:00:24.689><c> this</c><00:00:24.900><c> insert</c><00:00:25.320><c> method</c>
+
+00:00:25.519 --> 00:00:25.529 align:start position:0%
+can then we added this insert method
+ 
+
+00:00:25.529 --> 00:00:27.109 align:start position:0%
+can then we added this insert method
+they<00:00:25.800><c> can</c><00:00:25.920><c> insert</c><00:00:26.250><c> to</c><00:00:26.369><c> an</c><00:00:26.460><c> arbitrary</c><00:00:27.000><c> position</c>
+
+00:00:27.109 --> 00:00:27.119 align:start position:0%
+they can insert to an arbitrary position
+ 
+
+00:00:27.119 --> 00:00:30.230 align:start position:0%
+they can insert to an arbitrary position
+okay<00:00:27.720><c> so</c><00:00:28.500><c> given</c><00:00:28.740><c> these</c><00:00:28.949><c> classes</c><00:00:29.460><c> we</c><00:00:29.820><c> now</c><00:00:30.000><c> want</c>
+
+00:00:30.230 --> 00:00:30.240 align:start position:0%
+okay so given these classes we now want
+ 
+
+00:00:30.240 --> 00:00:31.690 align:start position:0%
+okay so given these classes we now want
+to<00:00:30.269><c> try</c><00:00:30.480><c> and</c><00:00:30.570><c> actually</c><00:00:30.660><c> use</c><00:00:30.990><c> them</c><00:00:31.199><c> to</c><00:00:31.349><c> do</c><00:00:31.500><c> stuff</c>
+
+00:00:31.690 --> 00:00:31.700 align:start position:0%
+to try and actually use them to do stuff
+ 
+
+00:00:31.700 --> 00:00:33.770 align:start position:0%
+to try and actually use them to do stuff
+so<00:00:32.700><c> what's</c><00:00:32.880><c> something</c><00:00:33.059><c> we</c><00:00:33.239><c> might</c><00:00:33.450><c> want</c><00:00:33.600><c> to</c><00:00:33.660><c> do</c>
+
+00:00:33.770 --> 00:00:33.780 align:start position:0%
+so what's something we might want to do
+ 
+
+00:00:33.780 --> 00:00:35.810 align:start position:0%
+so what's something we might want to do
+well<00:00:34.590><c> let's</c><00:00:34.829><c> just</c><00:00:35.010><c> make</c><00:00:35.190><c> a</c><00:00:35.219><c> little</c><00:00:35.489><c> tiny</c>
+
+00:00:35.810 --> 00:00:35.820 align:start position:0%
+well let's just make a little tiny
+ 
+
+00:00:35.820 --> 00:00:38.600 align:start position:0%
+well let's just make a little tiny
+pretend<00:00:36.390><c> problem</c><00:00:36.840><c> which</c><00:00:37.290><c> is</c><00:00:37.500><c> that</c><00:00:37.860><c> we</c><00:00:38.219><c> want</c><00:00:38.489><c> to</c>
+
+00:00:38.600 --> 00:00:38.610 align:start position:0%
+pretend problem which is that we want to
+ 
+
+00:00:38.610 --> 00:00:41.000 align:start position:0%
+pretend problem which is that we want to
+build<00:00:38.760><c> a</c><00:00:38.910><c> library</c><00:00:39.149><c> to</c><00:00:40.020><c> help</c><00:00:40.559><c> other</c><00:00:40.860><c> people</c>
+
+00:00:41.000 --> 00:00:41.010 align:start position:0%
+build a library to help other people
+ 
+
+00:00:41.010 --> 00:00:43.850 align:start position:0%
+build a library to help other people
+process<00:00:41.820><c> lists</c><00:00:42.210><c> of</c><00:00:42.329><c> words</c><00:00:42.540><c> so</c><00:00:43.350><c> maybe</c><00:00:43.559><c> we</c><00:00:43.739><c> want</c>
+
+00:00:43.850 --> 00:00:43.860 align:start position:0%
+process lists of words so maybe we want
+ 
+
+00:00:43.860 --> 00:00:45.709 align:start position:0%
+process lists of words so maybe we want
+to<00:00:43.980><c> write</c><00:00:44.100><c> a</c><00:00:44.129><c> method</c><00:00:44.340><c> that</c><00:00:44.640><c> takes</c><00:00:44.700><c> a</c><00:00:45.090><c> list</c><00:00:45.510><c> of</c>
+
+00:00:45.709 --> 00:00:45.719 align:start position:0%
+to write a method that takes a list of
+ 
+
+00:00:45.719 --> 00:00:47.869 align:start position:0%
+to write a method that takes a list of
+words<00:00:45.899><c> and</c><00:00:46.170><c> it</c><00:00:46.649><c> finds</c><00:00:46.950><c> the</c><00:00:47.129><c> longest</c><00:00:47.489><c> word</c><00:00:47.670><c> and</c>
+
+00:00:47.869 --> 00:00:47.879 align:start position:0%
+words and it finds the longest word and
+ 
+
+00:00:47.879 --> 00:00:49.100 align:start position:0%
+words and it finds the longest word and
+returns<00:00:48.329><c> it</c><00:00:48.510><c> okay</c>
+
+00:00:49.100 --> 00:00:49.110 align:start position:0%
+returns it okay
+ 
+
+00:00:49.110 --> 00:00:50.600 align:start position:0%
+returns it okay
+now<00:00:49.500><c> this</c><00:00:49.710><c> code</c><00:00:49.860><c> right</c><00:00:50.070><c> here</c><00:00:50.129><c> does</c><00:00:50.579><c> not</c>
+
+00:00:50.600 --> 00:00:50.610 align:start position:0%
+now this code right here does not
+ 
+
+00:00:50.610 --> 00:00:52.760 align:start position:0%
+now this code right here does not
+actually<00:00:50.969><c> matter</c><00:00:51.300><c> what</c><00:00:51.600><c> it</c><00:00:51.690><c> says</c><00:00:51.899><c> don't</c><00:00:52.199><c> worry</c>
+
+00:00:52.760 --> 00:00:52.770 align:start position:0%
+actually matter what it says don't worry
+ 
+
+00:00:52.770 --> 00:00:54.229 align:start position:0%
+actually matter what it says don't worry
+about<00:00:52.920><c> reading</c><00:00:53.370><c> the</c><00:00:53.460><c> implementation</c><00:00:54.120><c> here</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+about reading the implementation here
+ 
+
+00:00:54.239 --> 00:00:57.500 align:start position:0%
+about reading the implementation here
+just<00:00:54.690><c> trust</c><00:00:54.899><c> me</c><00:00:55.050><c> that</c><00:00:55.079><c> it</c><00:00:55.260><c> works</c><00:00:56.120><c> so</c><00:00:57.120><c> when</c><00:00:57.420><c> we</c>
+
+00:00:57.500 --> 00:00:57.510 align:start position:0%
+just trust me that it works so when we
+ 
+
+00:00:57.510 --> 00:00:59.270 align:start position:0%
+just trust me that it works so when we
+look<00:00:57.660><c> at</c><00:00:57.780><c> this</c><00:00:57.960><c> code</c><00:00:58.199><c> and</c><00:00:58.230><c> we</c><00:00:58.710><c> try</c><00:00:58.890><c> and</c><00:00:59.010><c> run</c><00:00:59.129><c> it</c>
+
+00:00:59.270 --> 00:00:59.280 align:start position:0%
+look at this code and we try and run it
+ 
+
+00:00:59.280 --> 00:01:01.639 align:start position:0%
+look at this code and we try and run it
+this<00:00:59.520><c> is</c><00:00:59.730><c> an</c><00:00:59.850><c> example</c><00:00:59.940><c> a</c><00:01:00.449><c> test</c><00:01:00.719><c> drive</c><00:01:01.050><c> of</c><00:01:01.350><c> this</c>
+
+00:01:01.639 --> 00:01:01.649 align:start position:0%
+this is an example a test drive of this
+ 
+
+00:01:01.649 --> 00:01:05.119 align:start position:0%
+this is an example a test drive of this
+library<00:01:02.460><c> so</c><00:01:03.300><c> if</c><00:01:03.570><c> I</c><00:01:03.690><c> create</c><00:01:04.049><c> an</c><00:01:04.170><c> S</c><00:01:04.290><c> list</c><00:01:04.559><c> and</c><00:01:04.799><c> I</c>
+
+00:01:05.119 --> 00:01:05.129 align:start position:0%
+library so if I create an S list and I
+ 
+
+00:01:05.129 --> 00:01:07.160 align:start position:0%
+library so if I create an S list and I
+put<00:01:05.339><c> in</c><00:01:05.430><c> the</c><00:01:05.519><c> words</c><00:01:05.700><c> elk</c><00:01:05.939><c> are</c><00:01:06.270><c> watching</c><00:01:06.900><c> and</c>
+
+00:01:07.160 --> 00:01:07.170 align:start position:0%
+put in the words elk are watching and
+ 
+
+00:01:07.170 --> 00:01:09.649 align:start position:0%
+put in the words elk are watching and
+then<00:01:07.650><c> I</c><00:01:07.680><c> asked</c><00:01:07.979><c> for</c><00:01:08.100><c> the</c><00:01:08.159><c> longest</c><00:01:08.490><c> word</c><00:01:08.700><c> and</c><00:01:09.600><c> I</c>
+
+00:01:09.649 --> 00:01:09.659 align:start position:0%
+then I asked for the longest word and I
+ 
+
+00:01:09.659 --> 00:01:11.990 align:start position:0%
+then I asked for the longest word and I
+click<00:01:09.869><c> run</c><00:01:10.260><c> or</c><00:01:10.650><c> a</c><00:01:10.680><c> deer</c><00:01:10.860><c> tilts</c><00:01:11.159><c> then</c><00:01:11.790><c> I</c><00:01:11.820><c> get</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+click run or a deer tilts then I get
+ 
+
+00:01:12.000 --> 00:01:13.580 align:start position:0%
+click run or a deer tilts then I get
+back<00:01:12.030><c> watching</c><00:01:12.570><c> because</c><00:01:12.810><c> it</c><00:01:12.930><c> is</c><00:01:13.049><c> the</c><00:01:13.229><c> longest</c>
+
+00:01:13.580 --> 00:01:13.590 align:start position:0%
+back watching because it is the longest
+ 
+
+00:01:13.590 --> 00:01:15.859 align:start position:0%
+back watching because it is the longest
+word<00:01:13.740><c> in</c><00:01:13.799><c> the</c><00:01:14.159><c> list</c><00:01:14.450><c> now</c><00:01:15.450><c> there's</c><00:01:15.630><c> a</c><00:01:15.689><c> little</c>
+
+00:01:15.859 --> 00:01:15.869 align:start position:0%
+word in the list now there's a little
+ 
+
+00:01:15.869 --> 00:01:17.840 align:start position:0%
+word in the list now there's a little
+bit<00:01:16.020><c> of</c><00:01:16.200><c> an</c><00:01:16.290><c> issue</c><00:01:16.409><c> here</c><00:01:16.799><c> which</c><00:01:17.340><c> is</c><00:01:17.490><c> it</c><00:01:17.610><c> may</c><00:01:17.820><c> be</c>
+
+00:01:17.840 --> 00:01:17.850 align:start position:0%
+bit of an issue here which is it may be
+ 
+
+00:01:17.850 --> 00:01:19.640 align:start position:0%
+bit of an issue here which is it may be
+someone<00:01:18.540><c> out</c><00:01:18.630><c> there</c><00:01:18.659><c> who</c><00:01:19.020><c> had</c><00:01:19.200><c> a</c><00:01:19.229><c> list</c><00:01:19.530><c> of</c>
+
+00:01:19.640 --> 00:01:19.650 align:start position:0%
+someone out there who had a list of
+ 
+
+00:01:19.650 --> 00:01:21.350 align:start position:0%
+someone out there who had a list of
+words<00:01:19.830><c> they</c><00:01:20.189><c> didn't</c><00:01:20.400><c> read</c><00:01:20.549><c> it</c><00:01:20.580><c> into</c><00:01:20.790><c> an</c><00:01:20.939><c> S</c><00:01:21.090><c> list</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+words they didn't read it into an S list
+ 
+
+00:01:21.360 --> 00:01:23.240 align:start position:0%
+words they didn't read it into an S list
+maybe<00:01:21.540><c> they</c><00:01:21.720><c> did</c><00:01:21.869><c> an</c><00:01:21.960><c> A</c><00:01:22.110><c> List</c><00:01:22.350><c> instead</c><00:01:22.770><c> so</c>
+
+00:01:23.240 --> 00:01:23.250 align:start position:0%
+maybe they did an A List instead so
+ 
+
+00:01:23.250 --> 00:01:25.820 align:start position:0%
+maybe they did an A List instead so
+let's<00:01:23.400><c> simulate</c><00:01:23.610><c> that</c><00:01:23.970><c> process</c><00:01:24.409><c> so</c><00:01:25.409><c> if</c><00:01:25.500><c> we</c><00:01:25.590><c> do</c>
+
+00:01:25.820 --> 00:01:25.830 align:start position:0%
+let's simulate that process so if we do
+ 
+
+00:01:25.830 --> 00:01:27.800 align:start position:0%
+let's simulate that process so if we do
+this<00:01:26.130><c> and</c><00:01:26.430><c> we</c><00:01:26.759><c> look</c><00:01:26.790><c> at</c><00:01:27.060><c> what</c><00:01:27.299><c> happens</c><00:01:27.630><c> after</c>
+
+00:01:27.800 --> 00:01:27.810 align:start position:0%
+this and we look at what happens after
+ 
+
+00:01:27.810 --> 00:01:29.390 align:start position:0%
+this and we look at what happens after
+we<00:01:28.020><c> change</c><00:01:28.259><c> from</c><00:01:28.350><c> s</c><00:01:28.530><c> list</c><00:01:28.740><c> to</c><00:01:28.799><c> a</c><00:01:28.829><c> list</c><00:01:29.130><c> we</c><00:01:29.280><c> of</c>
+
+00:01:29.390 --> 00:01:29.400 align:start position:0%
+we change from s list to a list we of
+ 
+
+00:01:29.400 --> 00:01:31.490 align:start position:0%
+we change from s list to a list we of
+course<00:01:29.610><c> get</c><00:01:29.759><c> an</c><00:01:29.880><c> error</c><00:01:30.060><c> the</c><00:01:30.720><c> error</c><00:01:30.750><c> is</c><00:01:31.200><c> that</c>
+
+00:01:31.490 --> 00:01:31.500 align:start position:0%
+course get an error the error is that
+ 
+
+00:01:31.500 --> 00:01:33.710 align:start position:0%
+course get an error the error is that
+well<00:01:31.740><c> we</c><00:01:31.979><c> can't</c><00:01:32.369><c> give</c><00:01:32.579><c> a</c><00:01:32.790><c> lists</c><00:01:33.329><c> to</c><00:01:33.600><c> this</c>
+
+00:01:33.710 --> 00:01:33.720 align:start position:0%
+well we can't give a lists to this
+ 
+
+00:01:33.720 --> 00:01:36.830 align:start position:0%
+well we can't give a lists to this
+method<00:01:34.189><c> so</c><00:01:35.189><c> a</c><00:01:35.430><c> pretty</c><00:01:35.729><c> short</c><00:01:35.909><c> little</c><00:01:36.270><c> problem</c>
+
+00:01:36.830 --> 00:01:36.840 align:start position:0%
+method so a pretty short little problem
+ 
+
+00:01:36.840 --> 00:01:38.870 align:start position:0%
+method so a pretty short little problem
+I<00:01:37.020><c> don't</c><00:01:37.290><c> want</c><00:01:37.470><c> you</c><00:01:37.530><c> to</c><00:01:37.619><c> consider</c><00:01:37.860><c> what</c><00:01:38.729><c> do</c><00:01:38.820><c> we</c>
+
+00:01:38.870 --> 00:01:38.880 align:start position:0%
+I don't want you to consider what do we
+ 
+
+00:01:38.880 --> 00:01:40.670 align:start position:0%
+I don't want you to consider what do we
+need<00:01:39.030><c> to</c><00:01:39.150><c> do</c><00:01:39.329><c> so</c><00:01:39.659><c> that</c><00:01:39.780><c> a</c><00:01:39.930><c> list</c><00:01:40.200><c> work</c><00:01:40.380><c> what</c><00:01:40.590><c> can</c>
+
+00:01:40.670 --> 00:01:40.680 align:start position:0%
+need to do so that a list work what can
+ 
+
+00:01:40.680 --> 00:01:44.840 align:start position:0%
+need to do so that a list work what can
+we<00:01:40.770><c> change</c><00:01:40.799><c> about</c><00:01:41.220><c> this</c><00:01:41.460><c> code</c><00:01:43.369><c> okay</c><00:01:44.369><c> so</c><00:01:44.759><c> in</c>
+
+00:01:44.840 --> 00:01:44.850 align:start position:0%
+we change about this code okay so in
+ 
+
+00:01:44.850 --> 00:01:46.280 align:start position:0%
+we change about this code okay so in
+this<00:01:44.939><c> case</c><00:01:45.000><c> there's</c><00:01:45.540><c> not</c><00:01:45.630><c> a</c><00:01:45.689><c> lot</c><00:01:45.869><c> that</c><00:01:46.020><c> we</c><00:01:46.170><c> need</c>
+
+00:01:46.280 --> 00:01:46.290 align:start position:0%
+this case there's not a lot that we need
+ 
+
+00:01:46.290 --> 00:01:48.139 align:start position:0%
+this case there's not a lot that we need
+to<00:01:46.380><c> change</c><00:01:46.560><c> in</c><00:01:47.189><c> particular</c><00:01:47.610><c> we</c><00:01:47.850><c> can</c><00:01:47.880><c> just</c>
+
+00:01:48.139 --> 00:01:48.149 align:start position:0%
+to change in particular we can just
+ 
+
+00:01:48.149 --> 00:01:50.569 align:start position:0%
+to change in particular we can just
+change<00:01:48.329><c> s</c><00:01:48.540><c> L</c><00:01:48.720><c> to</c><00:01:48.960><c> a</c><00:01:48.990><c> so</c><00:01:49.619><c> in</c><00:01:49.740><c> other</c><00:01:49.799><c> words</c><00:01:50.009><c> I</c><00:01:50.250><c> do</c>
+
+00:01:50.569 --> 00:01:50.579 align:start position:0%
+change s L to a so in other words I do
+ 
+
+00:01:50.579 --> 00:01:53.649 align:start position:0%
+change s L to a so in other words I do
+that<00:01:50.759><c> and</c><00:01:51.630><c> now</c><00:01:52.200><c> things</c><00:01:52.409><c> will</c><00:01:52.530><c> work</c><00:01:52.590><c> just</c><00:01:52.649><c> fine</c>
+
+00:01:53.649 --> 00:01:53.659 align:start position:0%
+that and now things will work just fine
+ 
+
+00:01:53.659 --> 00:01:57.319 align:start position:0%
+that and now things will work just fine
+okay<00:01:54.659><c> so</c><00:01:55.560><c> same</c><00:01:55.799><c> idea</c><00:01:56.030><c> everything</c><00:01:57.030><c> works</c><00:01:57.270><c> fine</c>
+
+00:01:57.319 --> 00:01:57.329 align:start position:0%
+okay so same idea everything works fine
+ 
+
+00:01:57.329 --> 00:02:00.590 align:start position:0%
+okay so same idea everything works fine
+in<00:01:57.570><c> this</c><00:01:57.689><c> case</c><00:01:58.040><c> now</c><00:01:59.040><c> of</c><00:01:59.310><c> course</c><00:01:59.670><c> it</c><00:02:00.390><c> would</c><00:02:00.509><c> be</c>
+
+00:02:00.590 --> 00:02:00.600 align:start position:0%
+in this case now of course it would be
+ 
+
+00:02:00.600 --> 00:02:01.819 align:start position:0%
+in this case now of course it would be
+annoying<00:02:00.780><c> if</c><00:02:01.110><c> somebody</c><00:02:01.380><c> trying</c><00:02:01.619><c> to</c><00:02:01.649><c> use</c><00:02:01.770><c> our</c>
+
+00:02:01.819 --> 00:02:01.829 align:start position:0%
+annoying if somebody trying to use our
+ 
+
+00:02:01.829 --> 00:02:03.649 align:start position:0%
+annoying if somebody trying to use our
+library<00:02:02.189><c> had</c><00:02:02.310><c> to</c><00:02:02.399><c> constantly</c><00:02:02.700><c> edit</c><00:02:03.000><c> a</c><00:02:03.119><c> list</c><00:02:03.450><c> s</c>
+
+00:02:03.649 --> 00:02:03.659 align:start position:0%
+library had to constantly edit a list s
+ 
+
+00:02:03.659 --> 00:02:05.840 align:start position:0%
+library had to constantly edit a list s
+list<00:02:03.930><c> so</c><00:02:04.530><c> another</c><00:02:04.950><c> solution</c><00:02:05.130><c> would</c><00:02:05.670><c> be</c><00:02:05.729><c> to</c>
+
+00:02:05.840 --> 00:02:05.850 align:start position:0%
+list so another solution would be to
+ 
+
+00:02:05.850 --> 00:02:07.310 align:start position:0%
+list so another solution would be to
+actually<00:02:06.360><c> just</c><00:02:06.509><c> make</c><00:02:06.630><c> another</c><00:02:06.840><c> copy</c><00:02:07.110><c> of</c><00:02:07.229><c> the</c>
+
+00:02:07.310 --> 00:02:07.320 align:start position:0%
+actually just make another copy of the
+ 
+
+00:02:07.320 --> 00:02:09.380 align:start position:0%
+actually just make another copy of the
+method<00:02:07.590><c> make</c><00:02:07.920><c> this</c><00:02:08.099><c> one</c><00:02:08.310><c> a</c><00:02:08.459><c> list</c><00:02:08.789><c> based</c><00:02:09.030><c> this</c>
+
+00:02:09.380 --> 00:02:09.390 align:start position:0%
+method make this one a list based this
+ 
+
+00:02:09.390 --> 00:02:11.839 align:start position:0%
+method make this one a list based this
+one<00:02:09.569><c> s</c><00:02:09.720><c> list</c><00:02:09.959><c> based</c><00:02:10.200><c> and</c><00:02:10.500><c> in</c><00:02:11.009><c> this</c><00:02:11.099><c> case</c><00:02:11.280><c> even</c>
+
+00:02:11.839 --> 00:02:11.849 align:start position:0%
+one s list based and in this case even
+ 
+
+00:02:11.849 --> 00:02:13.220 align:start position:0%
+one s list based and in this case even
+though<00:02:11.970><c> these</c><00:02:12.120><c> two</c><00:02:12.300><c> methods</c><00:02:12.660><c> have</c><00:02:12.840><c> the</c><00:02:12.989><c> same</c>
+
+00:02:13.220 --> 00:02:13.230 align:start position:0%
+though these two methods have the same
+ 
+
+00:02:13.230 --> 00:02:15.410 align:start position:0%
+though these two methods have the same
+name<00:02:13.440><c> it's</c><00:02:14.040><c> okay</c><00:02:14.340><c> this</c><00:02:14.730><c> code</c><00:02:14.970><c> will</c><00:02:15.090><c> compile</c>
+
+00:02:15.410 --> 00:02:15.420 align:start position:0%
+name it's okay this code will compile
+ 
+
+00:02:15.420 --> 00:02:17.000 align:start position:0%
+name it's okay this code will compile
+just<00:02:15.659><c> fine</c><00:02:15.810><c> and</c><00:02:15.989><c> work</c><00:02:16.140><c> because</c><00:02:16.920><c> that's</c>
+
+00:02:17.000 --> 00:02:17.010 align:start position:0%
+just fine and work because that's
+ 
+
+00:02:17.010 --> 00:02:20.630 align:start position:0%
+just fine and work because that's
+something<00:02:17.310><c> you</c><00:02:17.400><c> can</c><00:02:17.549><c> do</c><00:02:17.700><c> in</c><00:02:17.849><c> Java</c><00:02:18.920><c> so</c><00:02:19.920><c> this</c>
+
+00:02:20.630 --> 00:02:20.640 align:start position:0%
+something you can do in Java so this
+ 
+
+00:02:20.640 --> 00:02:23.089 align:start position:0%
+something you can do in Java so this
+idea<00:02:20.970><c> of</c><00:02:21.450><c> having</c><00:02:21.900><c> multiple</c><00:02:22.560><c> methods</c><00:02:22.950><c> with</c><00:02:23.010><c> the</c>
+
+00:02:23.089 --> 00:02:23.099 align:start position:0%
+idea of having multiple methods with the
+ 
+
+00:02:23.099 --> 00:02:25.369 align:start position:0%
+idea of having multiple methods with the
+same<00:02:23.190><c> name</c><00:02:23.400><c> but</c><00:02:24.120><c> different</c><00:02:24.420><c> parameters</c><00:02:25.200><c> or</c>
+
+00:02:25.369 --> 00:02:25.379 align:start position:0%
+same name but different parameters or
+ 
+
+00:02:25.379 --> 00:02:27.350 align:start position:0%
+same name but different parameters or
+different<00:02:25.830><c> signatures</c><00:02:26.310><c> that's</c><00:02:26.790><c> fine</c>
+
+00:02:27.350 --> 00:02:27.360 align:start position:0%
+different signatures that's fine
+ 
+
+00:02:27.360 --> 00:02:30.020 align:start position:0%
+different signatures that's fine
+Java<00:02:28.349><c> will</c><00:02:28.590><c> automatically</c><00:02:29.310><c> it</c><00:02:29.400><c> at</c><00:02:29.640><c> the</c><00:02:29.849><c> time</c>
+
+00:02:30.020 --> 00:02:30.030 align:start position:0%
+Java will automatically it at the time
+ 
+
+00:02:30.030 --> 00:02:31.789 align:start position:0%
+Java will automatically it at the time
+you<00:02:30.209><c> compile</c><00:02:30.569><c> figure</c><00:02:31.170><c> out</c><00:02:31.290><c> which</c><00:02:31.440><c> methods</c>
+
+00:02:31.789 --> 00:02:31.799 align:start position:0%
+you compile figure out which methods
+ 
+
+00:02:31.799 --> 00:02:33.740 align:start position:0%
+you compile figure out which methods
+gonna<00:02:32.010><c> get</c><00:02:32.190><c> called</c><00:02:32.400><c> and</c><00:02:32.700><c> it</c><00:02:32.970><c> will</c><00:02:33.090><c> know</c><00:02:33.330><c> which</c>
+
+00:02:33.740 --> 00:02:33.750 align:start position:0%
+gonna get called and it will know which
+ 
+
+00:02:33.750 --> 00:02:35.539 align:start position:0%
+gonna get called and it will know which
+ones<00:02:33.959><c> gonna</c><00:02:34.170><c> run</c><00:02:34.349><c> and</c><00:02:34.769><c> so</c><00:02:34.950><c> this</c><00:02:35.099><c> is</c><00:02:35.220><c> just</c><00:02:35.340><c> known</c>
+
+00:02:35.539 --> 00:02:35.549 align:start position:0%
+ones gonna run and so this is just known
+ 
+
+00:02:35.549 --> 00:02:38.170 align:start position:0%
+ones gonna run and so this is just known
+as<00:02:35.700><c> overloading</c><00:02:36.230><c> now</c><00:02:37.230><c> this</c><00:02:37.410><c> is</c><00:02:37.590><c> not</c><00:02:37.830><c> great</c>
+
+00:02:38.170 --> 00:02:38.180 align:start position:0%
+as overloading now this is not great
+ 
+
+00:02:38.180 --> 00:02:41.030 align:start position:0%
+as overloading now this is not great
+although<00:02:39.180><c> it</c><00:02:39.269><c> works</c><00:02:39.510><c> this</c><00:02:40.019><c> is</c><00:02:40.079><c> a</c><00:02:40.230><c> very</c><00:02:40.560><c> crude</c>
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+although it works this is a very crude
+ 
+
+00:02:41.040 --> 00:02:43.670 align:start position:0%
+although it works this is a very crude
+solution<00:02:41.640><c> so</c><00:02:42.299><c> while</c><00:02:42.959><c> overloading</c><00:02:43.470><c> does</c>
+
+00:02:43.670 --> 00:02:43.680 align:start position:0%
+solution so while overloading does
+ 
+
+00:02:43.680 --> 00:02:46.250 align:start position:0%
+solution so while overloading does
+technically<00:02:44.519><c> work</c><00:02:44.700><c> and</c><00:02:44.940><c> it</c><00:02:45.000><c> lets</c><00:02:45.150><c> us</c><00:02:45.360><c> run</c><00:02:46.079><c> our</c>
+
+00:02:46.250 --> 00:02:46.260 align:start position:0%
+technically work and it lets us run our
+ 
+
+00:02:46.260 --> 00:02:48.199 align:start position:0%
+technically work and it lets us run our
+code<00:02:46.410><c> in</c><00:02:46.620><c> either</c><00:02:46.829><c> case</c><00:02:47.010><c> I</c><00:02:47.310><c> think</c><00:02:47.970><c> it's</c>
+
+00:02:48.199 --> 00:02:48.209 align:start position:0%
+code in either case I think it's
+ 
+
+00:02:48.209 --> 00:02:50.089 align:start position:0%
+code in either case I think it's
+terrible<00:02:48.510><c> and</c><00:02:49.349><c> so</c><00:02:49.440><c> I</c><00:02:49.470><c> want</c><00:02:49.650><c> you</c><00:02:49.769><c> to</c><00:02:49.920><c> ponder</c>
+
+00:02:50.089 --> 00:02:50.099 align:start position:0%
+terrible and so I want you to ponder
+ 
+
+00:02:50.099 --> 00:02:51.920 align:start position:0%
+terrible and so I want you to ponder
+that<00:02:50.340><c> like</c><00:02:50.519><c> why</c><00:02:50.760><c> is</c><00:02:50.819><c> it</c><00:02:51.090><c> bad</c><00:02:51.390><c> maybe</c><00:02:51.660><c> come</c><00:02:51.900><c> up</c>
+
+00:02:51.920 --> 00:02:51.930 align:start position:0%
+that like why is it bad maybe come up
+ 
+
+00:02:51.930 --> 00:02:53.630 align:start position:0%
+that like why is it bad maybe come up
+with<00:02:52.049><c> a</c><00:02:52.170><c> short</c><00:02:52.440><c> list</c><00:02:52.500><c> and</c><00:02:52.920><c> I'll</c><00:02:53.099><c> spoil</c><00:02:53.400><c> it</c><00:02:53.609><c> with</c>
+
+00:02:53.630 --> 00:02:53.640 align:start position:0%
+with a short list and I'll spoil it with
+ 
+
+00:02:53.640 --> 00:02:56.720 align:start position:0%
+with a short list and I'll spoil it with
+my<00:02:54.209><c> list</c><00:02:54.980><c> so</c><00:02:55.980><c> some</c><00:02:56.160><c> things</c><00:02:56.340><c> I</c><00:02:56.489><c> don't</c><00:02:56.549><c> like</c>
+
+00:02:56.720 --> 00:02:56.730 align:start position:0%
+my list so some things I don't like
+ 
+
+00:02:56.730 --> 00:02:59.449 align:start position:0%
+my list so some things I don't like
+about<00:02:57.000><c> it</c><00:02:57.060><c> are</c><00:02:57.440><c> that</c><00:02:58.440><c> one</c><00:02:58.709><c> our</c><00:02:59.099><c> source</c><00:02:59.370><c> code</c>
+
+00:02:59.449 --> 00:02:59.459 align:start position:0%
+about it are that one our source code
+ 
+
+00:02:59.459 --> 00:03:01.190 align:start position:0%
+about it are that one our source code
+files<00:02:59.790><c> of</c><00:02:59.940><c> course</c><00:02:59.970><c> are</c><00:03:00.269><c> unnecessarily</c><00:03:00.870><c> long</c>
+
+00:03:01.190 --> 00:03:01.200 align:start position:0%
+files of course are unnecessarily long
+ 
+
+00:03:01.200 --> 00:03:02.900 align:start position:0%
+files of course are unnecessarily long
+you<00:03:01.500><c> look</c><00:03:01.650><c> at</c><00:03:01.829><c> them</c><00:03:01.980><c> and</c><00:03:02.220><c> you</c><00:03:02.549><c> have</c><00:03:02.670><c> all</c><00:03:02.790><c> this</c>
+
+00:03:02.900 --> 00:03:02.910 align:start position:0%
+you look at them and you have all this
+ 
+
+00:03:02.910 --> 00:03:04.550 align:start position:0%
+you look at them and you have all this
+extra<00:03:03.090><c> stuff</c><00:03:03.450><c> that</c><00:03:04.079><c> might</c><00:03:04.230><c> not</c><00:03:04.410><c> necessarily</c>
+
+00:03:04.550 --> 00:03:04.560 align:start position:0%
+extra stuff that might not necessarily
+ 
+
+00:03:04.560 --> 00:03:06.640 align:start position:0%
+extra stuff that might not necessarily
+be<00:03:04.799><c> a</c><00:03:04.890><c> big</c><00:03:05.099><c> deal</c><00:03:05.250><c> but</c><00:03:05.489><c> it</c><00:03:05.579><c> makes</c><00:03:05.730><c> it</c><00:03:05.849><c> messy</c>
+
+00:03:06.640 --> 00:03:06.650 align:start position:0%
+be a big deal but it makes it messy
+ 
+
+00:03:06.650 --> 00:03:09.559 align:start position:0%
+be a big deal but it makes it messy
+another<00:03:07.650><c> is</c><00:03:07.829><c> it's</c><00:03:08.579><c> just</c><00:03:08.670><c> aesthetically</c>
+
+00:03:09.559 --> 00:03:09.569 align:start position:0%
+another is it's just aesthetically
+ 
+
+00:03:09.569 --> 00:03:11.960 align:start position:0%
+another is it's just aesthetically
+terrible<00:03:10.109><c> to</c><00:03:10.290><c> repeat</c><00:03:10.709><c> yourself</c><00:03:10.859><c> right</c><00:03:11.430><c> I</c><00:03:11.670><c> mean</c>
+
+00:03:11.960 --> 00:03:11.970 align:start position:0%
+terrible to repeat yourself right I mean
+ 
+
+00:03:11.970 --> 00:03:15.020 align:start position:0%
+terrible to repeat yourself right I mean
+not<00:03:12.180><c> only</c><00:03:12.209><c> is</c><00:03:12.359><c> the</c><00:03:12.510><c> code</c><00:03:12.690><c> long</c><00:03:12.930><c> but</c><00:03:13.410><c> it's</c><00:03:14.030><c> so</c>
+
+00:03:15.020 --> 00:03:15.030 align:start position:0%
+not only is the code long but it's so
+ 
+
+00:03:15.030 --> 00:03:17.000 align:start position:0%
+not only is the code long but it's so
+similar<00:03:15.450><c> nobody</c><00:03:16.200><c> wants</c><00:03:16.440><c> to</c><00:03:16.470><c> you</c><00:03:16.739><c> know</c><00:03:16.769><c> it</c><00:03:16.980><c> just</c>
+
+00:03:17.000 --> 00:03:17.010 align:start position:0%
+similar nobody wants to you know it just
+ 
+
+00:03:17.010 --> 00:03:19.280 align:start position:0%
+similar nobody wants to you know it just
+doesn't<00:03:17.250><c> feel</c><00:03:17.519><c> right</c><00:03:17.790><c> another</c><00:03:18.750><c> one</c><00:03:18.930><c> is</c><00:03:19.019><c> it's</c>
+
+00:03:19.280 --> 00:03:19.290 align:start position:0%
+doesn't feel right another one is it's
+ 
+
+00:03:19.290 --> 00:03:21.890 align:start position:0%
+doesn't feel right another one is it's
+more<00:03:19.500><c> code</c><00:03:19.709><c> to</c><00:03:19.739><c> maintain</c><00:03:20.480><c> now</c><00:03:21.480><c> this</c><00:03:21.660><c> is</c><00:03:21.780><c> an</c>
+
+00:03:21.890 --> 00:03:21.900 align:start position:0%
+more code to maintain now this is an
+ 
+
+00:03:21.900 --> 00:03:23.569 align:start position:0%
+more code to maintain now this is an
+interesting<00:03:22.139><c> point</c><00:03:22.500><c> right</c><00:03:22.829><c> code</c><00:03:23.400><c> doesn't</c>
+
+00:03:23.569 --> 00:03:23.579 align:start position:0%
+interesting point right code doesn't
+ 
+
+00:03:23.579 --> 00:03:25.129 align:start position:0%
+interesting point right code doesn't
+really<00:03:23.849><c> need</c><00:03:24.030><c> maintenance</c><00:03:24.630><c> in</c><00:03:24.750><c> the</c><00:03:24.810><c> same</c><00:03:25.019><c> way</c>
+
+00:03:25.129 --> 00:03:25.139 align:start position:0%
+really need maintenance in the same way
+ 
+
+00:03:25.139 --> 00:03:26.659 align:start position:0%
+really need maintenance in the same way
+that<00:03:25.260><c> a</c><00:03:25.319><c> card</c><00:03:25.620><c> needs</c><00:03:25.829><c> maintenance</c><00:03:26.069><c> it's</c><00:03:26.519><c> not</c>
+
+00:03:26.659 --> 00:03:26.669 align:start position:0%
+that a card needs maintenance it's not
+ 
+
+00:03:26.669 --> 00:03:28.670 align:start position:0%
+that a card needs maintenance it's not
+like<00:03:26.910><c> oh</c><00:03:27.120><c> this</c><00:03:27.569><c> codes</c><00:03:27.870><c> gonna</c><00:03:28.109><c> get</c><00:03:28.290><c> you</c><00:03:28.560><c> know</c>
+
+00:03:28.670 --> 00:03:28.680 align:start position:0%
+like oh this codes gonna get you know
+ 
+
+00:03:28.680 --> 00:03:30.770 align:start position:0%
+like oh this codes gonna get you know
+rusty<00:03:29.489><c> and</c><00:03:29.639><c> we</c><00:03:29.790><c> gotta</c><00:03:29.940><c> go</c><00:03:30.090><c> fix</c><00:03:30.329><c> it</c><00:03:30.480><c> you</c><00:03:30.720><c> know</c>
+
+00:03:30.770 --> 00:03:30.780 align:start position:0%
+rusty and we gotta go fix it you know
+ 
+
+00:03:30.780 --> 00:03:32.780 align:start position:0%
+rusty and we gotta go fix it you know
+you<00:03:30.930><c> have</c><00:03:31.049><c> to</c><00:03:31.139><c> come</c><00:03:31.290><c> back</c><00:03:31.380><c> in</c><00:03:31.590><c> and</c><00:03:31.769><c> fix</c><00:03:32.430><c> like</c><00:03:32.669><c> it</c>
+
+00:03:32.780 --> 00:03:32.790 align:start position:0%
+you have to come back in and fix like it
+ 
+
+00:03:32.790 --> 00:03:34.430 align:start position:0%
+you have to come back in and fix like it
+changed<00:03:33.090><c> desist</c><00:03:33.510><c> for</c><00:03:33.750><c> some</c><00:03:33.930><c> reason</c><00:03:34.230><c> that's</c>
+
+00:03:34.430 --> 00:03:34.440 align:start position:0%
+changed desist for some reason that's
+ 
+
+00:03:34.440 --> 00:03:35.659 align:start position:0%
+changed desist for some reason that's
+not<00:03:34.590><c> a</c><00:03:34.620><c> problem</c><00:03:34.829><c> we</c><00:03:34.980><c> have</c><00:03:35.130><c> with</c><00:03:35.280><c> computers</c>
+
+00:03:35.659 --> 00:03:35.669 align:start position:0%
+not a problem we have with computers
+ 
+
+00:03:35.669 --> 00:03:38.059 align:start position:0%
+not a problem we have with computers
+thankfully<00:03:36.090><c> but</c><00:03:36.780><c> if</c><00:03:37.230><c> anything</c><00:03:37.530><c> ever</c><00:03:37.799><c> does</c>
+
+00:03:38.059 --> 00:03:38.069 align:start position:0%
+thankfully but if anything ever does
+ 
+
+00:03:38.069 --> 00:03:39.530 align:start position:0%
+thankfully but if anything ever does
+change<00:03:38.430><c> if</c><00:03:38.609><c> we</c><00:03:38.700><c> realize</c><00:03:38.970><c> oh</c><00:03:39.120><c> this</c><00:03:39.359><c> isn't</c>
+
+00:03:39.530 --> 00:03:39.540 align:start position:0%
+change if we realize oh this isn't
+ 
+
+00:03:39.540 --> 00:03:41.449 align:start position:0%
+change if we realize oh this isn't
+efficient<00:03:40.049><c> and</c><00:03:40.200><c> someone</c><00:03:40.889><c> makes</c><00:03:41.069><c> a</c><00:03:41.160><c> change</c><00:03:41.340><c> to</c>
+
+00:03:41.449 --> 00:03:41.459 align:start position:0%
+efficient and someone makes a change to
+ 
+
+00:03:41.459 --> 00:03:42.949 align:start position:0%
+efficient and someone makes a change to
+one<00:03:41.669><c> of</c><00:03:41.790><c> these</c><00:03:41.940><c> then</c><00:03:42.389><c> you</c><00:03:42.450><c> also</c><00:03:42.599><c> need</c><00:03:42.780><c> to</c><00:03:42.840><c> make</c>
+
+00:03:42.949 --> 00:03:42.959 align:start position:0%
+one of these then you also need to make
+ 
+
+00:03:42.959 --> 00:03:44.479 align:start position:0%
+one of these then you also need to make
+a<00:03:43.019><c> change</c><00:03:43.260><c> to</c><00:03:43.380><c> the</c><00:03:43.440><c> other</c><00:03:43.590><c> or</c><00:03:43.889><c> any</c><00:03:44.340><c> other</c>
+
+00:03:44.479 --> 00:03:44.489 align:start position:0%
+a change to the other or any other
+ 
+
+00:03:44.489 --> 00:03:45.830 align:start position:0%
+a change to the other or any other
+number<00:03:44.760><c> of</c><00:03:44.849><c> little</c><00:03:45.000><c> changes</c><00:03:45.269><c> so</c><00:03:45.450><c> any</c><00:03:45.630><c> change</c>
+
+00:03:45.830 --> 00:03:45.840 align:start position:0%
+number of little changes so any change
+ 
+
+00:03:45.840 --> 00:03:48.370 align:start position:0%
+number of little changes so any change
+you<00:03:45.959><c> make</c><00:03:45.989><c> the</c><00:03:46.200><c> one</c><00:03:46.349><c> must</c><00:03:46.769><c> be</c><00:03:46.919><c> made</c><00:03:47.099><c> the</c><00:03:47.489><c> other</c>
+
+00:03:48.370 --> 00:03:48.380 align:start position:0%
+you make the one must be made the other
+ 
+
+00:03:48.380 --> 00:03:51.289 align:start position:0%
+you make the one must be made the other
+and<00:03:49.380><c> this</c><00:03:50.160><c> matters</c><00:03:50.519><c> not</c><00:03:50.760><c> only</c><00:03:50.940><c> just</c><00:03:51.120><c> for</c>
+
+00:03:51.289 --> 00:03:51.299 align:start position:0%
+and this matters not only just for
+ 
+
+00:03:51.299 --> 00:03:53.599 align:start position:0%
+and this matters not only just for
+efficiency<00:03:51.630><c> reasons</c><00:03:51.930><c> but</c><00:03:52.380><c> any</c><00:03:52.500><c> bug</c><00:03:52.680><c> fix</c><00:03:52.950><c> so</c><00:03:53.579><c> a</c>
+
+00:03:53.599 --> 00:03:53.609 align:start position:0%
+efficiency reasons but any bug fix so a
+ 
+
+00:03:53.609 --> 00:03:56.270 align:start position:0%
+efficiency reasons but any bug fix so a
+common<00:03:54.120><c> mistake</c><00:03:54.329><c> in</c><00:03:54.690><c> large</c><00:03:55.290><c> projects</c><00:03:55.829><c> is</c>
+
+00:03:56.270 --> 00:03:56.280 align:start position:0%
+common mistake in large projects is
+ 
+
+00:03:56.280 --> 00:03:58.670 align:start position:0%
+common mistake in large projects is
+somebody's<00:03:56.730><c> written</c><00:03:56.970><c> a</c><00:03:57.209><c> method</c><00:03:57.900><c> that</c><00:03:58.620><c> has</c>
+
+00:03:58.670 --> 00:03:58.680 align:start position:0%
+somebody's written a method that has
+ 
+
+00:03:58.680 --> 00:04:00.680 align:start position:0%
+somebody's written a method that has
+some<00:03:59.310><c> kind</c><00:03:59.639><c> of</c><00:03:59.700><c> bug</c><00:03:59.879><c> in</c><00:04:00.060><c> it</c><00:04:00.180><c> and</c><00:04:00.359><c> it's</c><00:04:00.480><c> another</c>
+
+00:04:00.680 --> 00:04:00.690 align:start position:0%
+some kind of bug in it and it's another
+ 
+
+00:04:00.690 --> 00:04:03.289 align:start position:0%
+some kind of bug in it and it's another
+very<00:04:00.989><c> similar</c><00:04:01.500><c> method</c><00:04:01.650><c> and</c><00:04:01.980><c> they</c><00:04:02.669><c> only</c><00:04:02.910><c> track</c>
+
+00:04:03.289 --> 00:04:03.299 align:start position:0%
+very similar method and they only track
+ 
+
+00:04:03.299 --> 00:04:04.610 align:start position:0%
+very similar method and they only track
+down<00:04:03.480><c> and</c><00:04:03.690><c> kill</c><00:04:03.840><c> the</c><00:04:04.019><c> bug</c><00:04:04.200><c> in</c><00:04:04.349><c> one</c><00:04:04.470><c> of</c><00:04:04.560><c> the</c>
+
+00:04:04.610 --> 00:04:04.620 align:start position:0%
+down and kill the bug in one of the
+ 
+
+00:04:04.620 --> 00:04:06.020 align:start position:0%
+down and kill the bug in one of the
+methods<00:04:04.919><c> and</c><00:04:05.010><c> the</c><00:04:05.340><c> other</c><00:04:05.459><c> one</c><00:04:05.579><c> continues</c><00:04:06.000><c> to</c>
+
+00:04:06.020 --> 00:04:06.030 align:start position:0%
+methods and the other one continues to
+ 
+
+00:04:06.030 --> 00:04:07.640 align:start position:0%
+methods and the other one continues to
+live<00:04:06.269><c> on</c><00:04:06.389><c> that's</c><00:04:06.780><c> a</c><00:04:06.930><c> very</c><00:04:07.169><c> dangerous</c><00:04:07.379><c> thing</c>
+
+00:04:07.640 --> 00:04:07.650 align:start position:0%
+live on that's a very dangerous thing
+ 
+
+00:04:07.650 --> 00:04:09.259 align:start position:0%
+live on that's a very dangerous thing
+that<00:04:07.950><c> can</c><00:04:08.040><c> happen</c><00:04:08.190><c> when</c><00:04:08.609><c> you</c><00:04:08.669><c> have</c><00:04:08.790><c> repetitive</c>
+
+00:04:09.259 --> 00:04:09.269 align:start position:0%
+that can happen when you have repetitive
+ 
+
+00:04:09.269 --> 00:04:12.710 align:start position:0%
+that can happen when you have repetitive
+code<00:04:09.389><c> like</c><00:04:09.599><c> this</c><00:04:10.310><c> the</c><00:04:11.310><c> other</c><00:04:11.430><c> one</c><00:04:11.639><c> the</c><00:04:12.389><c> final</c>
+
+00:04:12.710 --> 00:04:12.720 align:start position:0%
+code like this the other one the final
+ 
+
+00:04:12.720 --> 00:04:14.210 align:start position:0%
+code like this the other one the final
+thing<00:04:12.870><c> I</c><00:04:12.959><c> want</c><00:04:13.109><c> to</c><00:04:13.169><c> mention</c><00:04:13.319><c> is</c><00:04:13.530><c> that</c><00:04:13.560><c> suppose</c>
+
+00:04:14.210 --> 00:04:14.220 align:start position:0%
+thing I want to mention is that suppose
+ 
+
+00:04:14.220 --> 00:04:15.979 align:start position:0%
+thing I want to mention is that suppose
+we<00:04:14.340><c> decide</c><00:04:14.489><c> I</c><00:04:14.819><c> don't</c><00:04:15.060><c> like</c><00:04:15.180><c> just</c><00:04:15.329><c> a</c><00:04:15.480><c> list</c><00:04:15.720><c> it</c><00:04:15.840><c> s</c>
+
+00:04:15.979 --> 00:04:15.989 align:start position:0%
+we decide I don't like just a list it s
+ 
+
+00:04:15.989 --> 00:04:18.110 align:start position:0%
+we decide I don't like just a list it s
+less<00:04:16.169><c> but</c><00:04:16.620><c> maybe</c><00:04:16.739><c> I</c><00:04:16.859><c> also</c><00:04:17.160><c> like</c><00:04:17.430><c> D</c><00:04:17.639><c> lists</c><00:04:18.000><c> in</c>
+
+00:04:18.110 --> 00:04:18.120 align:start position:0%
+less but maybe I also like D lists in
+ 
+
+00:04:18.120 --> 00:04:19.909 align:start position:0%
+less but maybe I also like D lists in
+that<00:04:18.630><c> case</c><00:04:18.840><c> we'll</c><00:04:19.229><c> actually</c><00:04:19.410><c> have</c><00:04:19.590><c> to</c><00:04:19.769><c> come</c>
+
+00:04:19.909 --> 00:04:19.919 align:start position:0%
+that case we'll actually have to come
+ 
+
+00:04:19.919 --> 00:04:21.890 align:start position:0%
+that case we'll actually have to come
+along<00:04:20.160><c> some</c><00:04:20.519><c> later</c><00:04:20.729><c> date</c><00:04:20.820><c> and</c><00:04:21.180><c> write</c><00:04:21.599><c> another</c>
+
+00:04:21.890 --> 00:04:21.900 align:start position:0%
+along some later date and write another
+ 
+
+00:04:21.900 --> 00:04:23.930 align:start position:0%
+along some later date and write another
+D<00:04:22.109><c> list</c><00:04:22.320><c> function</c><00:04:22.680><c> so</c><00:04:23.159><c> this</c><00:04:23.370><c> lecture</c><00:04:23.520><c> is</c><00:04:23.760><c> gonna</c>
+
+00:04:23.930 --> 00:04:23.940 align:start position:0%
+D list function so this lecture is gonna
+ 
+
+00:04:23.940 --> 00:04:25.490 align:start position:0%
+D list function so this lecture is gonna
+be<00:04:24.090><c> about</c><00:04:24.300><c> how</c><00:04:24.419><c> we</c><00:04:24.479><c> can</c><00:04:24.690><c> gracefully</c><00:04:24.930><c> deal</c><00:04:25.349><c> with</c>
+
+00:04:25.490 --> 00:04:25.500 align:start position:0%
+be about how we can gracefully deal with
+ 
+
+00:04:25.500 --> 00:04:26.700 align:start position:0%
+be about how we can gracefully deal with
+this<00:04:25.590><c> issue</c><00:04:25.800><c> and</c><00:04:26.460><c> take</c>
+
+00:04:26.700 --> 00:04:26.710 align:start position:0%
+this issue and take
+ 
+
+00:04:26.710 --> 00:04:28.050 align:start position:0%
+this issue and take
+advantage<00:04:27.100><c> of</c><00:04:27.220><c> what</c><00:04:27.340><c> we</c><00:04:27.460><c> get</c><00:04:27.639><c> as</c><00:04:27.850><c> a</c><00:04:27.880><c> result</c>
+
+00:04:28.050 --> 00:04:28.060 align:start position:0%
+advantage of what we get as a result
+ 
+
+00:04:28.060 --> 00:04:31.380 align:start position:0%
+advantage of what we get as a result
+that<00:04:28.569><c> will</c><00:04:28.690><c> be</c><00:04:28.840><c> inherited</c>
+

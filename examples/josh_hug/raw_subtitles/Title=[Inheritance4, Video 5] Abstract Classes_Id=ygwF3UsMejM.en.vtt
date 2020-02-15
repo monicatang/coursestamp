@@ -1,0 +1,2080 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.760 align:start position:0%
+ 
+King<00:00:00.149><c> into</c><00:00:00.359><c> paesan</c><00:00:00.719><c> in</c><00:00:00.840><c> various</c><00:00:01.199><c> ways</c><00:00:01.439><c> but</c>
+
+00:00:01.760 --> 00:00:01.770 align:start position:0%
+King into paesan in various ways but
+ 
+
+00:00:01.770 --> 00:00:03.679 align:start position:0%
+King into paesan in various ways but
+yeah<00:00:02.010><c> that's</c><00:00:02.370><c> it</c><00:00:02.520><c> types</c><00:00:02.730><c> is</c><00:00:02.939><c> a</c><00:00:03.000><c> big</c><00:00:03.149><c> one</c><00:00:03.300><c> that's</c>
+
+00:00:03.679 --> 00:00:03.689 align:start position:0%
+yeah that's it types is a big one that's
+ 
+
+00:00:03.689 --> 00:00:05.440 align:start position:0%
+yeah that's it types is a big one that's
+the<00:00:03.810><c> interesting</c><00:00:03.959><c> question</c><00:00:04.440><c> what</c><00:00:04.529><c> else's</c>
+
+00:00:05.440 --> 00:00:05.450 align:start position:0%
+the interesting question what else's
+ 
+
+00:00:05.450 --> 00:00:09.140 align:start position:0%
+the interesting question what else's
+okay<00:00:06.830><c> now</c><00:00:07.830><c> this</c><00:00:07.950><c> is</c><00:00:08.010><c> a</c><00:00:08.130><c> distinctly</c><00:00:08.580><c> unsexy</c>
+
+00:00:09.140 --> 00:00:09.150 align:start position:0%
+okay now this is a distinctly unsexy
+ 
+
+00:00:09.150 --> 00:00:10.339 align:start position:0%
+okay now this is a distinctly unsexy
+topic<00:00:09.510><c> so</c><00:00:09.630><c> something</c><00:00:09.960><c> I</c><00:00:10.050><c> should</c><00:00:10.230><c> mention</c>
+
+00:00:10.339 --> 00:00:10.349 align:start position:0%
+topic so something I should mention
+ 
+
+00:00:10.349 --> 00:00:11.900 align:start position:0%
+topic so something I should mention
+which<00:00:10.620><c> is</c><00:00:10.679><c> interface</c><00:00:11.160><c> as</c><00:00:11.340><c> an</c><00:00:11.460><c> abstract</c><00:00:11.820><c> class</c>
+
+00:00:11.900 --> 00:00:11.910 align:start position:0%
+which is interface as an abstract class
+ 
+
+00:00:11.910 --> 00:00:14.360 align:start position:0%
+which is interface as an abstract class
+so<00:00:12.900><c> the</c><00:00:12.990><c> last</c><00:00:13.170><c> several</c><00:00:13.349><c> lectures</c><00:00:13.469><c> we've</c><00:00:14.190><c> seen</c>
+
+00:00:14.360 --> 00:00:14.370 align:start position:0%
+so the last several lectures we've seen
+ 
+
+00:00:14.370 --> 00:00:15.860 align:start position:0%
+so the last several lectures we've seen
+out<00:00:14.490><c> implements</c><00:00:14.940><c> and</c><00:00:15.059><c> extends</c><00:00:15.480><c> can</c><00:00:15.630><c> allow</c><00:00:15.839><c> us</c>
+
+00:00:15.860 --> 00:00:15.870 align:start position:0%
+out implements and extends can allow us
+ 
+
+00:00:15.870 --> 00:00:17.359 align:start position:0%
+out implements and extends can allow us
+to<00:00:16.080><c> do</c><00:00:16.199><c> interface</c><00:00:16.619><c> inheritance</c><00:00:17.160><c> and</c>
+
+00:00:17.359 --> 00:00:17.369 align:start position:0%
+to do interface inheritance and
+ 
+
+00:00:17.369 --> 00:00:18.769 align:start position:0%
+to do interface inheritance and
+implementation<00:00:17.970><c> inheritance</c><00:00:18.119><c> and</c><00:00:18.570><c> as</c><00:00:18.690><c> a</c>
+
+00:00:18.769 --> 00:00:18.779 align:start position:0%
+implementation inheritance and as a
+ 
+
+00:00:18.779 --> 00:00:20.900 align:start position:0%
+implementation inheritance and as a
+reminder<00:00:18.960><c> interface</c><00:00:19.740><c> inheritance</c><00:00:20.279><c> is</c><00:00:20.460><c> what</c>
+
+00:00:20.900 --> 00:00:20.910 align:start position:0%
+reminder interface inheritance is what
+ 
+
+00:00:20.910 --> 00:00:22.550 align:start position:0%
+reminder interface inheritance is what
+you<00:00:21.150><c> can</c><00:00:21.330><c> do</c><00:00:21.510><c> and</c><00:00:21.869><c> implementation</c>
+
+00:00:22.550 --> 00:00:22.560 align:start position:0%
+you can do and implementation
+ 
+
+00:00:22.560 --> 00:00:25.700 align:start position:0%
+you can do and implementation
+inheritance<00:00:22.740><c> is</c><00:00:23.160><c> how</c><00:00:23.310><c> you</c><00:00:23.369><c> do</c><00:00:23.640><c> it</c><00:00:24.350><c> now</c><00:00:25.350><c> it</c>
+
+00:00:25.700 --> 00:00:25.710 align:start position:0%
+inheritance is how you do it now it
+ 
+
+00:00:25.710 --> 00:00:27.820 align:start position:0%
+inheritance is how you do it now it
+turns<00:00:26.010><c> out</c><00:00:26.189><c> that</c><00:00:26.519><c> in</c><00:00:26.880><c> the</c><00:00:27.090><c> modern</c><00:00:27.359><c> era</c>
+
+00:00:27.820 --> 00:00:27.830 align:start position:0%
+turns out that in the modern era
+ 
+
+00:00:27.830 --> 00:00:29.929 align:start position:0%
+turns out that in the modern era
+interfaces<00:00:28.830><c> which</c><00:00:29.039><c> originally</c><00:00:29.640><c> were</c><00:00:29.730><c> for</c>
+
+00:00:29.929 --> 00:00:29.939 align:start position:0%
+interfaces which originally were for
+ 
+
+00:00:29.939 --> 00:00:31.790 align:start position:0%
+interfaces which originally were for
+interface<00:00:30.359><c> inheritance</c><00:00:30.929><c> only</c><00:00:31.199><c> and</c><00:00:31.410><c> the</c>
+
+00:00:31.790 --> 00:00:31.800 align:start position:0%
+interface inheritance only and the
+ 
+
+00:00:31.800 --> 00:00:33.440 align:start position:0%
+interface inheritance only and the
+modern<00:00:32.070><c> era</c><00:00:32.250><c> they</c><00:00:32.460><c> can</c><00:00:32.610><c> have</c><00:00:32.730><c> both</c><00:00:32.940><c> abstract</c>
+
+00:00:33.440 --> 00:00:33.450 align:start position:0%
+modern era they can have both abstract
+ 
+
+00:00:33.450 --> 00:00:35.270 align:start position:0%
+modern era they can have both abstract
+methods<00:00:33.989><c> that</c><00:00:34.380><c> is</c><00:00:34.530><c> just</c><00:00:34.829><c> things</c><00:00:35.070><c> that</c><00:00:35.160><c> are</c>
+
+00:00:35.270 --> 00:00:35.280 align:start position:0%
+methods that is just things that are
+ 
+
+00:00:35.280 --> 00:00:37.670 align:start position:0%
+methods that is just things that are
+semicolons<00:00:35.820><c> off</c><00:00:35.940><c> in</c><00:00:36.180><c> default</c><00:00:36.840><c> methods</c><00:00:37.260><c> which</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+semicolons off in default methods which
+ 
+
+00:00:37.680 --> 00:00:39.290 align:start position:0%
+semicolons off in default methods which
+actually<00:00:38.010><c> do</c><00:00:38.190><c> something</c><00:00:38.579><c> right</c><00:00:38.820><c> they</c><00:00:39.149><c> have</c><00:00:39.270><c> a</c>
+
+00:00:39.290 --> 00:00:39.300 align:start position:0%
+actually do something right they have a
+ 
+
+00:00:39.300 --> 00:00:42.139 align:start position:0%
+actually do something right they have a
+how<00:00:39.649><c> now</c><00:00:40.649><c> I</c><00:00:40.920><c> don't</c><00:00:41.460><c> think</c><00:00:41.640><c> I</c><00:00:41.700><c> actually</c><00:00:41.820><c> said</c>
+
+00:00:42.139 --> 00:00:42.149 align:start position:0%
+how now I don't think I actually said
+ 
+
+00:00:42.149 --> 00:00:43.369 align:start position:0%
+how now I don't think I actually said
+this<00:00:42.300><c> on</c><00:00:42.420><c> a</c><00:00:42.450><c> slide</c><00:00:42.600><c> I've</c><00:00:42.899><c> definitely</c><00:00:43.200><c> said</c><00:00:43.350><c> it</c>
+
+00:00:43.369 --> 00:00:43.379 align:start position:0%
+this on a slide I've definitely said it
+ 
+
+00:00:43.379 --> 00:00:45.950 align:start position:0%
+this on a slide I've definitely said it
+out<00:00:43.500><c> loud</c><00:00:43.670><c> but</c><00:00:44.670><c> in</c><00:00:44.879><c> an</c><00:00:45.090><c> interface</c><00:00:45.510><c> every</c>
+
+00:00:45.950 --> 00:00:45.960 align:start position:0%
+out loud but in an interface every
+ 
+
+00:00:45.960 --> 00:00:48.080 align:start position:0%
+out loud but in an interface every
+method<00:00:46.320><c> has</c><00:00:46.440><c> to</c><00:00:46.590><c> be</c><00:00:46.620><c> public</c><00:00:47.070><c> so</c><00:00:47.520><c> anytime</c><00:00:47.700><c> I</c><00:00:47.850><c> put</c>
+
+00:00:48.080 --> 00:00:48.090 align:start position:0%
+method has to be public so anytime I put
+ 
+
+00:00:48.090 --> 00:00:49.729 align:start position:0%
+method has to be public so anytime I put
+public<00:00:48.450><c> here</c><00:00:48.629><c> it</c><00:00:48.690><c> was</c><00:00:48.780><c> redundant</c><00:00:49.260><c> and</c><00:00:49.440><c> we</c><00:00:49.559><c> saw</c>
+
+00:00:49.729 --> 00:00:49.739 align:start position:0%
+public here it was redundant and we saw
+ 
+
+00:00:49.739 --> 00:00:51.260 align:start position:0%
+public here it was redundant and we saw
+with<00:00:49.890><c> intelligent</c><00:00:50.489><c> yells</c><00:00:50.670><c> at</c><00:00:50.789><c> us</c><00:00:50.879><c> and</c><00:00:51.030><c> said</c><00:00:51.210><c> we</c>
+
+00:00:51.260 --> 00:00:51.270 align:start position:0%
+with intelligent yells at us and said we
+ 
+
+00:00:51.270 --> 00:00:53.360 align:start position:0%
+with intelligent yells at us and said we
+don't<00:00:51.390><c> have</c><00:00:51.570><c> to</c><00:00:51.719><c> and</c><00:00:52.710><c> another</c><00:00:52.920><c> thing</c><00:00:53.219><c> is</c><00:00:53.340><c> that</c>
+
+00:00:53.360 --> 00:00:53.370 align:start position:0%
+don't have to and another thing is that
+ 
+
+00:00:53.370 --> 00:00:56.090 align:start position:0%
+don't have to and another thing is that
+unless<00:00:53.699><c> you</c><00:00:54.210><c> use</c><00:00:54.420><c> the</c><00:00:54.629><c> keyword</c><00:00:54.989><c> default</c><00:00:55.530><c> then</c>
+
+00:00:56.090 --> 00:00:56.100 align:start position:0%
+unless you use the keyword default then
+ 
+
+00:00:56.100 --> 00:00:58.340 align:start position:0%
+unless you use the keyword default then
+the<00:00:56.370><c> method</c><00:00:56.699><c> is</c><00:00:56.820><c> so-called</c><00:00:57.000><c> abstract</c><00:00:57.780><c> so</c><00:00:58.230><c> it</c>
+
+00:00:58.340 --> 00:00:58.350 align:start position:0%
+the method is so-called abstract so it
+ 
+
+00:00:58.350 --> 00:01:00.560 align:start position:0%
+the method is so-called abstract so it
+has<00:00:58.440><c> a</c><00:00:58.469><c> semicolon</c><00:00:58.920><c> it's</c><00:00:59.190><c> abstract</c><00:00:59.730><c> meaning</c><00:01:00.000><c> it</c>
+
+00:01:00.560 --> 00:01:00.570 align:start position:0%
+has a semicolon it's abstract meaning it
+ 
+
+00:01:00.570 --> 00:01:02.119 align:start position:0%
+has a semicolon it's abstract meaning it
+doesn't<00:01:00.719><c> actually</c><00:01:00.930><c> do</c><00:01:01.170><c> anything</c><00:01:01.199><c> it's</c><00:01:01.800><c> just</c><00:01:01.890><c> a</c>
+
+00:01:02.119 --> 00:01:02.129 align:start position:0%
+doesn't actually do anything it's just a
+ 
+
+00:01:02.129 --> 00:01:04.359 align:start position:0%
+doesn't actually do anything it's just a
+thing<00:01:02.430><c> you</c><00:01:02.550><c> must</c><00:01:02.670><c> be</c><00:01:02.910><c> able</c><00:01:03.000><c> to</c><00:01:03.149><c> do</c><00:01:03.359><c> okay</c>
+
+00:01:04.359 --> 00:01:04.369 align:start position:0%
+thing you must be able to do okay
+ 
+
+00:01:04.369 --> 00:01:07.190 align:start position:0%
+thing you must be able to do okay
+so<00:01:05.369><c> there's</c><00:01:06.060><c> actually</c><00:01:06.240><c> one</c><00:01:06.570><c> last</c><00:01:06.840><c> thing</c><00:01:07.020><c> I</c>
+
+00:01:07.190 --> 00:01:07.200 align:start position:0%
+so there's actually one last thing I
+ 
+
+00:01:07.200 --> 00:01:08.359 align:start position:0%
+so there's actually one last thing I
+want<00:01:07.409><c> to</c><00:01:07.470><c> say</c><00:01:07.530><c> about</c><00:01:07.590><c> interfaces</c><00:01:08.159><c> we're</c>
+
+00:01:08.359 --> 00:01:08.369 align:start position:0%
+want to say about interfaces we're
+ 
+
+00:01:08.369 --> 00:01:10.039 align:start position:0%
+want to say about interfaces we're
+talking<00:01:08.580><c> about</c><00:01:08.729><c> their</c><00:01:08.880><c> cousins</c><00:01:09.210><c> which</c><00:01:09.869><c> is</c>
+
+00:01:10.039 --> 00:01:10.049 align:start position:0%
+talking about their cousins which is
+ 
+
+00:01:10.049 --> 00:01:12.200 align:start position:0%
+talking about their cousins which is
+that<00:01:10.229><c> you</c><00:01:10.560><c> can</c><00:01:10.770><c> also</c><00:01:10.950><c> actually</c><00:01:11.280><c> put</c><00:01:11.610><c> variables</c>
+
+00:01:12.200 --> 00:01:12.210 align:start position:0%
+that you can also actually put variables
+ 
+
+00:01:12.210 --> 00:01:14.480 align:start position:0%
+that you can also actually put variables
+inside<00:01:12.720><c> of</c><00:01:12.960><c> an</c><00:01:13.049><c> interface</c><00:01:13.439><c> and</c><00:01:13.740><c> in</c><00:01:14.159><c> that</c><00:01:14.310><c> case</c>
+
+00:01:14.480 --> 00:01:14.490 align:start position:0%
+inside of an interface and in that case
+ 
+
+00:01:14.490 --> 00:01:16.999 align:start position:0%
+inside of an interface and in that case
+they'll<00:01:14.729><c> be</c><00:01:14.850><c> public</c><00:01:15.299><c> static</c><00:01:15.750><c> final</c><00:01:16.020><c> so</c><00:01:16.860><c> that</c>
+
+00:01:16.999 --> 00:01:17.009 align:start position:0%
+they'll be public static final so that
+ 
+
+00:01:17.009 --> 00:01:18.530 align:start position:0%
+they'll be public static final so that
+means<00:01:17.189><c> it's</c><00:01:17.340><c> public</c><00:01:17.700><c> and</c><00:01:17.880><c> it's</c><00:01:18.030><c> static</c><00:01:18.420><c> you</c>
+
+00:01:18.530 --> 00:01:18.540 align:start position:0%
+means it's public and it's static you
+ 
+
+00:01:18.540 --> 00:01:20.030 align:start position:0%
+means it's public and it's static you
+know<00:01:18.630><c> what</c><00:01:18.750><c> those</c><00:01:18.869><c> mean</c><00:01:19.080><c> and</c><00:01:19.290><c> final</c><00:01:19.830><c> just</c>
+
+00:01:20.030 --> 00:01:20.040 align:start position:0%
+know what those mean and final just
+ 
+
+00:01:20.040 --> 00:01:21.890 align:start position:0%
+know what those mean and final just
+means<00:01:20.189><c> you</c><00:01:20.310><c> can</c><00:01:20.460><c> never</c><00:01:20.640><c> change</c><00:01:20.700><c> the</c><00:01:21.090><c> value</c><00:01:21.390><c> so</c>
+
+00:01:21.890 --> 00:01:21.900 align:start position:0%
+means you can never change the value so
+ 
+
+00:01:21.900 --> 00:01:23.359 align:start position:0%
+means you can never change the value so
+you<00:01:21.990><c> can</c><00:01:22.110><c> use</c><00:01:22.229><c> it</c><00:01:22.380><c> for</c><00:01:22.500><c> constants</c><00:01:22.950><c> like</c><00:01:23.159><c> say</c>
+
+00:01:23.359 --> 00:01:23.369 align:start position:0%
+you can use it for constants like say
+ 
+
+00:01:23.369 --> 00:01:25.609 align:start position:0%
+you can use it for constants like say
+gravity<00:01:23.659><c> and</c><00:01:24.659><c> it</c><00:01:24.750><c> turns</c><00:01:24.960><c> out</c><00:01:25.170><c> by</c><00:01:25.320><c> the</c><00:01:25.380><c> way</c><00:01:25.590><c> that</c>
+
+00:01:25.609 --> 00:01:25.619 align:start position:0%
+gravity and it turns out by the way that
+ 
+
+00:01:25.619 --> 00:01:27.260 align:start position:0%
+gravity and it turns out by the way that
+classes<00:01:26.220><c> can</c><00:01:26.400><c> implement</c><00:01:26.759><c> multiple</c>
+
+00:01:27.260 --> 00:01:27.270 align:start position:0%
+classes can implement multiple
+ 
+
+00:01:27.270 --> 00:01:29.210 align:start position:0%
+classes can implement multiple
+interfaces<00:01:27.479><c> so</c><00:01:28.229><c> I</c><00:01:28.290><c> can</c><00:01:28.439><c> implement</c><00:01:28.710><c> universe</c>
+
+00:01:29.210 --> 00:01:29.220 align:start position:0%
+interfaces so I can implement universe
+ 
+
+00:01:29.220 --> 00:01:30.830 align:start position:0%
+interfaces so I can implement universe
+and<00:01:29.490><c> illusion</c><00:01:29.880><c> and</c><00:01:30.090><c> make</c><00:01:30.270><c> an</c><00:01:30.479><c> illusory</c>
+
+00:01:30.830 --> 00:01:30.840 align:start position:0%
+and illusion and make an illusory
+ 
+
+00:01:30.840 --> 00:01:32.749 align:start position:0%
+and illusion and make an illusory
+universe<00:01:31.290><c> website</c><00:01:31.740><c> as</c><00:01:31.890><c> to</c><00:01:32.250><c> do</c><00:01:32.369><c> all</c><00:01:32.490><c> the</c><00:01:32.579><c> things</c>
+
+00:01:32.749 --> 00:01:32.759 align:start position:0%
+universe website as to do all the things
+ 
+
+00:01:32.759 --> 00:01:34.340 align:start position:0%
+universe website as to do all the things
+that<00:01:32.820><c> universes</c><00:01:33.360><c> and</c><00:01:33.570><c> illusions</c><00:01:33.960><c> can</c><00:01:34.170><c> do</c>
+
+00:01:34.340 --> 00:01:34.350 align:start position:0%
+that universes and illusions can do
+ 
+
+00:01:34.350 --> 00:01:38.390 align:start position:0%
+that universes and illusions can do
+maybe<00:01:34.829><c> get</c><00:01:35.009><c> some</c><00:01:35.159><c> default</c><00:01:35.520><c> method</c><00:01:36.229><c> so</c><00:01:37.229><c> as</c><00:01:38.100><c> we</c>
+
+00:01:38.390 --> 00:01:38.400 align:start position:0%
+maybe get some default method so as we
+ 
+
+00:01:38.400 --> 00:01:39.920 align:start position:0%
+maybe get some default method so as we
+know<00:01:38.549><c> interfaces</c><00:01:39.329><c> you</c><00:01:39.450><c> can't</c><00:01:39.659><c> instantiate</c>
+
+00:01:39.920 --> 00:01:39.930 align:start position:0%
+know interfaces you can't instantiate
+ 
+
+00:01:39.930 --> 00:01:42.289 align:start position:0%
+know interfaces you can't instantiate
+them<00:01:40.439><c> they</c><00:01:41.130><c> can</c><00:01:41.280><c> either</c><00:01:41.490><c> give</c><00:01:41.670><c> you</c><00:01:41.790><c> abstract</c>
+
+00:01:42.289 --> 00:01:42.299 align:start position:0%
+them they can either give you abstract
+ 
+
+00:01:42.299 --> 00:01:44.030 align:start position:0%
+them they can either give you abstract
+methods<00:01:42.630><c> or</c><00:01:42.810><c> concrete</c><00:01:43.380><c> methods</c><00:01:43.560><c> these</c><00:01:43.950><c> are</c>
+
+00:01:44.030 --> 00:01:44.040 align:start position:0%
+methods or concrete methods these are
+ 
+
+00:01:44.040 --> 00:01:46.190 align:start position:0%
+methods or concrete methods these are
+default<00:01:44.310><c> methods</c><00:01:44.850><c> you</c><00:01:45.630><c> can</c><00:01:45.780><c> get</c><00:01:45.930><c> public</c>
+
+00:01:46.190 --> 00:01:46.200 align:start position:0%
+default methods you can get public
+ 
+
+00:01:46.200 --> 00:01:48.649 align:start position:0%
+default methods you can get public
+static<00:01:46.500><c> final</c><00:01:46.649><c> variables</c><00:01:47.280><c> and</c><00:01:47.490><c> we</c><00:01:48.210><c> can</c><00:01:48.420><c> only</c>
+
+00:01:48.649 --> 00:01:48.659 align:start position:0%
+static final variables and we can only
+ 
+
+00:01:48.659 --> 00:01:50.929 align:start position:0%
+static final variables and we can only
+have<00:01:48.990><c> public</c><00:01:49.320><c> methods</c><00:01:49.619><c> and</c><00:01:50.310><c> they</c><00:01:50.399><c> have</c><00:01:50.520><c> to</c><00:01:50.700><c> end</c>
+
+00:01:50.929 --> 00:01:50.939 align:start position:0%
+have public methods and they have to end
+ 
+
+00:01:50.939 --> 00:01:53.539 align:start position:0%
+have public methods and they have to end
+yeah<00:01:51.439><c> now</c><00:01:52.439><c> there's</c><00:01:52.619><c> actually</c><00:01:52.740><c> a</c><00:01:53.040><c> closely</c>
+
+00:01:53.539 --> 00:01:53.549 align:start position:0%
+yeah now there's actually a closely
+ 
+
+00:01:53.549 --> 00:01:55.399 align:start position:0%
+yeah now there's actually a closely
+related<00:01:53.579><c> idea</c><00:01:54.180><c> known</c><00:01:54.420><c> as</c><00:01:54.540><c> an</c><00:01:54.630><c> abstract</c><00:01:55.170><c> class</c>
+
+00:01:55.399 --> 00:01:55.409 align:start position:0%
+related idea known as an abstract class
+ 
+
+00:01:55.409 --> 00:01:57.499 align:start position:0%
+related idea known as an abstract class
+we<00:01:56.130><c> won't</c><00:01:56.340><c> really</c><00:01:56.520><c> use</c><00:01:56.610><c> them</c><00:01:56.909><c> much</c><00:01:57.090><c> in</c><00:01:57.119><c> this</c>
+
+00:01:57.499 --> 00:01:57.509 align:start position:0%
+we won't really use them much in this
+ 
+
+00:01:57.509 --> 00:01:59.600 align:start position:0%
+we won't really use them much in this
+course<00:01:57.780><c> however</c><00:01:58.770><c> you</c><00:01:58.920><c> may</c><00:01:59.070><c> occasionally</c><00:01:59.340><c> see</c>
+
+00:01:59.600 --> 00:01:59.610 align:start position:0%
+course however you may occasionally see
+ 
+
+00:01:59.610 --> 00:02:01.219 align:start position:0%
+course however you may occasionally see
+them<00:01:59.880><c> in</c><00:01:59.969><c> the</c><00:02:00.060><c> Java</c><00:02:00.270><c> library</c><00:02:00.479><c> so</c><00:02:00.899><c> I</c><00:02:00.930><c> want</c><00:02:01.140><c> to</c>
+
+00:02:01.219 --> 00:02:01.229 align:start position:0%
+them in the Java library so I want to
+ 
+
+00:02:01.229 --> 00:02:03.740 align:start position:0%
+them in the Java library so I want to
+let<00:02:01.350><c> you</c><00:02:01.439><c> know</c><00:02:01.560><c> what</c><00:02:01.680><c> they</c><00:02:01.770><c> are</c><00:02:02.299><c> so</c><00:02:03.299><c> abstract</c>
+
+00:02:03.740 --> 00:02:03.750 align:start position:0%
+let you know what they are so abstract
+ 
+
+00:02:03.750 --> 00:02:05.580 align:start position:0%
+let you know what they are so abstract
+classes<00:02:03.960><c> are</c><00:02:04.290><c> kind</c><00:02:04.500><c> of</c>
+
+00:02:05.580 --> 00:02:05.590 align:start position:0%
+classes are kind of
+ 
+
+00:02:05.590 --> 00:02:07.350 align:start position:0%
+classes are kind of
+in<00:02:05.650><c> the</c><00:02:05.920><c> middle</c><00:02:06.250><c> between</c><00:02:06.400><c> interface</c><00:02:07.119><c> and</c>
+
+00:02:07.350 --> 00:02:07.360 align:start position:0%
+in the middle between interface and
+ 
+
+00:02:07.360 --> 00:02:10.020 align:start position:0%
+in the middle between interface and
+class<00:02:07.619><c> so</c><00:02:08.619><c> they</c><00:02:08.740><c> cannot</c><00:02:09.039><c> be</c><00:02:09.220><c> instantiated</c><00:02:09.520><c> you</c>
+
+00:02:10.020 --> 00:02:10.030 align:start position:0%
+class so they cannot be instantiated you
+ 
+
+00:02:10.030 --> 00:02:11.040 align:start position:0%
+class so they cannot be instantiated you
+can't<00:02:10.240><c> say</c><00:02:10.420><c> new</c><00:02:10.569><c> list</c>
+
+00:02:11.040 --> 00:02:11.050 align:start position:0%
+can't say new list
+ 
+
+00:02:11.050 --> 00:02:13.530 align:start position:0%
+can't say new list
+likewise<00:02:11.560><c> in</c><00:02:11.860><c> Java</c><00:02:12.400><c> they</c><00:02:12.819><c> have</c><00:02:12.940><c> an</c><00:02:13.060><c> example</c><00:02:13.360><c> in</c>
+
+00:02:13.530 --> 00:02:13.540 align:start position:0%
+likewise in Java they have an example in
+ 
+
+00:02:13.540 --> 00:02:15.540 align:start position:0%
+likewise in Java they have an example in
+their<00:02:13.750><c> tutorial</c><00:02:14.560><c> called</c><00:02:14.800><c> a</c><00:02:14.830><c> graphic</c><00:02:15.160><c> object</c>
+
+00:02:15.540 --> 00:02:15.550 align:start position:0%
+their tutorial called a graphic object
+ 
+
+00:02:15.550 --> 00:02:18.210 align:start position:0%
+their tutorial called a graphic object
+you<00:02:15.970><c> can't</c><00:02:16.180><c> make</c><00:02:16.300><c> a</c><00:02:16.330><c> new</c><00:02:16.540><c> graphic</c><00:02:16.930><c> object</c><00:02:17.260><c> now</c>
+
+00:02:18.210 --> 00:02:18.220 align:start position:0%
+you can't make a new graphic object now
+ 
+
+00:02:18.220 --> 00:02:20.520 align:start position:0%
+you can't make a new graphic object now
+abstract<00:02:18.850><c> classes</c><00:02:19.270><c> while</c><00:02:20.020><c> they</c><00:02:20.140><c> can't</c><00:02:20.350><c> be</c>
+
+00:02:20.520 --> 00:02:20.530 align:start position:0%
+abstract classes while they can't be
+ 
+
+00:02:20.530 --> 00:02:23.760 align:start position:0%
+abstract classes while they can't be
+instantiated<00:02:21.209><c> they</c><00:02:22.209><c> do</c><00:02:22.660><c> they</c><00:02:23.080><c> can't</c><00:02:23.350><c> do</c><00:02:23.500><c> some</c>
+
+00:02:23.760 --> 00:02:23.770 align:start position:0%
+instantiated they do they can't do some
+ 
+
+00:02:23.770 --> 00:02:25.860 align:start position:0%
+instantiated they do they can't do some
+things<00:02:23.800><c> that</c><00:02:24.100><c> interfaces</c><00:02:24.489><c> cannot</c><00:02:24.940><c> do</c><00:02:25.090><c> so</c><00:02:25.690><c> just</c>
+
+00:02:25.860 --> 00:02:25.870 align:start position:0%
+things that interfaces cannot do so just
+ 
+
+00:02:25.870 --> 00:02:27.330 align:start position:0%
+things that interfaces cannot do so just
+like<00:02:26.050><c> interfaces</c><00:02:26.620><c> they</c><00:02:26.739><c> can</c><00:02:26.890><c> provide</c><00:02:27.160><c> either</c>
+
+00:02:27.330 --> 00:02:27.340 align:start position:0%
+like interfaces they can provide either
+ 
+
+00:02:27.340 --> 00:02:29.670 align:start position:0%
+like interfaces they can provide either
+abstract<00:02:27.940><c> or</c><00:02:28.180><c> concrete</c><00:02:28.209><c> methods</c><00:02:28.959><c> so</c><00:02:29.440><c> they</c><00:02:29.560><c> can</c>
+
+00:02:29.670 --> 00:02:29.680 align:start position:0%
+abstract or concrete methods so they can
+ 
+
+00:02:29.680 --> 00:02:31.500 align:start position:0%
+abstract or concrete methods so they can
+give<00:02:29.830><c> you</c><00:02:29.950><c> semicolon</c><00:02:30.610><c> doc</c><00:02:30.760><c> methods</c><00:02:31.150><c> or</c><00:02:31.270><c> actual</c>
+
+00:02:31.500 --> 00:02:31.510 align:start position:0%
+give you semicolon doc methods or actual
+ 
+
+00:02:31.510 --> 00:02:33.449 align:start position:0%
+give you semicolon doc methods or actual
+methods<00:02:31.840><c> but</c><00:02:32.530><c> the</c><00:02:32.650><c> semantics</c><00:02:33.160><c> are</c><00:02:33.280><c> a</c><00:02:33.340><c> little</c>
+
+00:02:33.449 --> 00:02:33.459 align:start position:0%
+methods but the semantics are a little
+ 
+
+00:02:33.459 --> 00:02:35.070 align:start position:0%
+methods but the semantics are a little
+different<00:02:33.700><c> so</c><00:02:34.030><c> it's</c><00:02:34.330><c> just</c><00:02:34.540><c> like</c><00:02:34.780><c> kind</c><00:02:34.930><c> of</c>
+
+00:02:35.070 --> 00:02:35.080 align:start position:0%
+different so it's just like kind of
+ 
+
+00:02:35.080 --> 00:02:36.540 align:start position:0%
+different so it's just like kind of
+keyword<00:02:35.440><c> glow</c><00:02:35.709><c> thing</c><00:02:35.920><c> with</c><00:02:36.069><c> the</c><00:02:36.130><c> language</c><00:02:36.370><c> got</c>
+
+00:02:36.540 --> 00:02:36.550 align:start position:0%
+keyword glow thing with the language got
+ 
+
+00:02:36.550 --> 00:02:37.890 align:start position:0%
+keyword glow thing with the language got
+a<00:02:36.580><c> little</c><00:02:36.760><c> more</c><00:02:36.819><c> complicated</c><00:02:37.000><c> than</c><00:02:37.450><c> it</c><00:02:37.630><c> should</c>
+
+00:02:37.890 --> 00:02:37.900 align:start position:0%
+a little more complicated than it should
+ 
+
+00:02:37.900 --> 00:02:41.370 align:start position:0%
+a little more complicated than it should
+but<00:02:38.650><c> in</c><00:02:38.769><c> abstract</c><00:02:39.310><c> classes</c><00:02:39.550><c> by</c><00:02:40.150><c> default</c><00:02:40.750><c> any</c>
+
+00:02:41.370 --> 00:02:41.380 align:start position:0%
+but in abstract classes by default any
+ 
+
+00:02:41.380 --> 00:02:43.350 align:start position:0%
+but in abstract classes by default any
+method<00:02:41.920><c> you</c><00:02:41.950><c> specify</c><00:02:42.489><c> as</c><00:02:42.610><c> concrete</c><00:02:43.000><c> and</c>
+
+00:02:43.350 --> 00:02:43.360 align:start position:0%
+method you specify as concrete and
+ 
+
+00:02:43.360 --> 00:02:44.820 align:start position:0%
+method you specify as concrete and
+anything<00:02:44.110><c> that</c><00:02:44.140><c> you</c><00:02:44.290><c> want</c><00:02:44.410><c> to</c><00:02:44.500><c> say</c><00:02:44.650><c> is</c>
+
+00:02:44.820 --> 00:02:44.830 align:start position:0%
+anything that you want to say is
+ 
+
+00:02:44.830 --> 00:02:46.110 align:start position:0%
+anything that you want to say is
+abstract<00:02:45.310><c> you</c><00:02:45.430><c> have</c><00:02:45.550><c> to</c><00:02:45.640><c> use</c><00:02:45.730><c> the</c><00:02:45.850><c> abstract</c>
+
+00:02:46.110 --> 00:02:46.120 align:start position:0%
+abstract you have to use the abstract
+ 
+
+00:02:46.120 --> 00:02:47.900 align:start position:0%
+abstract you have to use the abstract
+keywords<00:02:46.450><c> sorry</c><00:02:46.989><c> that's</c><00:02:47.320><c> just</c><00:02:47.380><c> the</c><00:02:47.500><c> way</c><00:02:47.560><c> it</c><00:02:47.709><c> is</c>
+
+00:02:47.900 --> 00:02:47.910 align:start position:0%
+keywords sorry that's just the way it is
+ 
+
+00:02:47.910 --> 00:02:50.430 align:start position:0%
+keywords sorry that's just the way it is
+and<00:02:48.910><c> so</c><00:02:49.090><c> these</c><00:02:49.209><c> it's</c><00:02:49.570><c> just</c><00:02:49.750><c> the</c><00:02:49.810><c> opposite</c><00:02:50.260><c> of</c>
+
+00:02:50.430 --> 00:02:50.440 align:start position:0%
+and so these it's just the opposite of
+ 
+
+00:02:50.440 --> 00:02:53.100 align:start position:0%
+and so these it's just the opposite of
+the<00:02:50.860><c> default</c><00:02:51.250><c> choice</c><00:02:51.550><c> in</c><00:02:51.910><c> an</c><00:02:52.870><c> abstract</c>
+
+00:02:53.100 --> 00:02:53.110 align:start position:0%
+the default choice in an abstract
+ 
+
+00:02:53.110 --> 00:02:56.009 align:start position:0%
+the default choice in an abstract
+classes<00:02:53.500><c> concrete</c><00:02:54.420><c> you</c><00:02:55.420><c> can</c><00:02:55.480><c> also</c><00:02:55.690><c> provide</c>
+
+00:02:56.009 --> 00:02:56.019 align:start position:0%
+classes concrete you can also provide
+ 
+
+00:02:56.019 --> 00:02:57.809 align:start position:0%
+classes concrete you can also provide
+any<00:02:56.260><c> kind</c><00:02:56.470><c> of</c><00:02:56.620><c> variables</c><00:02:57.130><c> in</c><00:02:57.280><c> any</c><00:02:57.489><c> kind</c><00:02:57.730><c> of</c>
+
+00:02:57.809 --> 00:02:57.819 align:start position:0%
+any kind of variables in any kind of
+ 
+
+00:02:57.819 --> 00:02:59.670 align:start position:0%
+any kind of variables in any kind of
+method<00:02:58.000><c> so</c><00:02:58.720><c> I</c><00:02:58.750><c> can</c><00:02:58.930><c> have</c><00:02:59.050><c> for</c><00:02:59.200><c> example</c><00:02:59.290><c> public</c>
+
+00:02:59.670 --> 00:02:59.680 align:start position:0%
+method so I can have for example public
+ 
+
+00:02:59.680 --> 00:03:02.130 align:start position:0%
+method so I can have for example public
+int<00:03:00.100><c> X</c><00:03:00.400><c> Y</c><00:03:00.670><c> and</c><00:03:01.000><c> that</c><00:03:01.390><c> means</c><00:03:01.569><c> every</c><00:03:01.900><c> graphic</c>
+
+00:03:02.130 --> 00:03:02.140 align:start position:0%
+int X Y and that means every graphic
+ 
+
+00:03:02.140 --> 00:03:04.320 align:start position:0%
+int X Y and that means every graphic
+object<00:03:02.709><c> is</c><00:03:02.860><c> going</c><00:03:03.069><c> to</c><00:03:03.160><c> get</c><00:03:03.310><c> an</c><00:03:03.430><c> X</c><00:03:03.610><c> and</c><00:03:03.790><c> a</c><00:03:03.819><c> Y</c><00:03:03.970><c> that</c>
+
+00:03:04.320 --> 00:03:04.330 align:start position:0%
+object is going to get an X and a Y that
+ 
+
+00:03:04.330 --> 00:03:06.390 align:start position:0%
+object is going to get an X and a Y that
+is<00:03:04.390><c> public</c><00:03:04.810><c> yes</c><00:03:05.230><c> and</c><00:03:05.440><c> same</c><00:03:06.040><c> thing</c><00:03:06.069><c> with</c>
+
+00:03:06.390 --> 00:03:06.400 align:start position:0%
+is public yes and same thing with
+ 
+
+00:03:06.400 --> 00:03:07.949 align:start position:0%
+is public yes and same thing with
+methods<00:03:06.940><c> you</c><00:03:07.090><c> can</c><00:03:07.209><c> provide</c><00:03:07.450><c> any</c><00:03:07.660><c> kind</c><00:03:07.900><c> you</c>
+
+00:03:07.949 --> 00:03:07.959 align:start position:0%
+methods you can provide any kind you
+ 
+
+00:03:07.959 --> 00:03:10.020 align:start position:0%
+methods you can provide any kind you
+want<00:03:08.019><c> you</c><00:03:08.800><c> can</c><00:03:08.920><c> have</c><00:03:09.100><c> even</c><00:03:09.340><c> private</c><00:03:09.700><c> methods</c>
+
+00:03:10.020 --> 00:03:10.030 align:start position:0%
+want you can have even private methods
+ 
+
+00:03:10.030 --> 00:03:14.370 align:start position:0%
+want you can have even private methods
+to<00:03:10.180><c> get</c><00:03:10.299><c> inherited</c><00:03:10.540><c> okay</c><00:03:11.940><c> and</c><00:03:13.049><c> just</c><00:03:14.049><c> like</c><00:03:14.230><c> we</c>
+
+00:03:14.370 --> 00:03:14.380 align:start position:0%
+to get inherited okay and just like we
+ 
+
+00:03:14.380 --> 00:03:16.620 align:start position:0%
+to get inherited okay and just like we
+saw<00:03:14.560><c> before</c><00:03:14.850><c> anytime</c><00:03:15.850><c> you</c><00:03:15.970><c> have</c><00:03:16.090><c> an</c><00:03:16.239><c> abstract</c>
+
+00:03:16.620 --> 00:03:16.630 align:start position:0%
+saw before anytime you have an abstract
+ 
+
+00:03:16.630 --> 00:03:19.259 align:start position:0%
+saw before anytime you have an abstract
+method<00:03:17.200><c> if</c><00:03:17.560><c> you</c><00:03:17.680><c> have</c><00:03:17.950><c> a</c><00:03:17.980><c> concrete</c><00:03:18.280><c> class</c><00:03:18.700><c> if</c>
+
+00:03:19.259 --> 00:03:19.269 align:start position:0%
+method if you have a concrete class if
+ 
+
+00:03:19.269 --> 00:03:20.640 align:start position:0%
+method if you have a concrete class if
+it<00:03:19.480><c> doesn't</c><00:03:19.780><c> actually</c><00:03:20.019><c> override</c><00:03:20.290><c> any</c>
+
+00:03:20.640 --> 00:03:20.650 align:start position:0%
+it doesn't actually override any
+ 
+
+00:03:20.650 --> 00:03:22.229 align:start position:0%
+it doesn't actually override any
+something<00:03:20.950><c> that's</c><00:03:21.220><c> abstract</c><00:03:21.700><c> it</c><00:03:21.880><c> yells</c><00:03:22.090><c> at</c>
+
+00:03:22.229 --> 00:03:22.239 align:start position:0%
+something that's abstract it yells at
+ 
+
+00:03:22.239 --> 00:03:24.509 align:start position:0%
+something that's abstract it yells at
+you<00:03:22.329><c> so</c><00:03:22.900><c> for</c><00:03:23.079><c> example</c><00:03:23.110><c> if</c><00:03:23.530><c> graphic</c><00:03:23.980><c> object</c>
+
+00:03:24.509 --> 00:03:24.519 align:start position:0%
+you so for example if graphic object
+ 
+
+00:03:24.519 --> 00:03:27.479 align:start position:0%
+you so for example if graphic object
+provides<00:03:25.000><c> a</c><00:03:25.269><c> draw</c><00:03:25.600><c> and</c><00:03:25.959><c> a</c><00:03:26.260><c> resize</c><00:03:26.590><c> method</c><00:03:27.070><c> then</c>
+
+00:03:27.479 --> 00:03:27.489 align:start position:0%
+provides a draw and a resize method then
+ 
+
+00:03:27.489 --> 00:03:29.009 align:start position:0%
+provides a draw and a resize method then
+the<00:03:27.640><c> circle</c><00:03:28.000><c> class</c><00:03:28.209><c> absolutely</c><00:03:28.600><c> must</c>
+
+00:03:29.009 --> 00:03:29.019 align:start position:0%
+the circle class absolutely must
+ 
+
+00:03:29.019 --> 00:03:31.470 align:start position:0%
+the circle class absolutely must
+implement<00:03:29.440><c> draw</c><00:03:29.860><c> and</c><00:03:30.130><c> resize</c><00:03:30.549><c> it</c><00:03:30.850><c> doesn't</c>
+
+00:03:31.470 --> 00:03:31.480 align:start position:0%
+implement draw and resize it doesn't
+ 
+
+00:03:31.480 --> 00:03:33.060 align:start position:0%
+implement draw and resize it doesn't
+need<00:03:31.570><c> to</c><00:03:31.660><c> implement</c><00:03:31.870><c> move</c><00:03:32.170><c> -</c><00:03:32.440><c> why</c><00:03:32.769><c> does</c><00:03:32.950><c> it</c>
+
+00:03:33.060 --> 00:03:33.070 align:start position:0%
+need to implement move - why does it
+ 
+
+00:03:33.070 --> 00:03:36.150 align:start position:0%
+need to implement move - why does it
+need<00:03:33.160><c> to</c><00:03:33.340><c> implement</c><00:03:33.549><c> that</c><00:03:35.010><c> because</c><00:03:36.010><c> it's</c>
+
+00:03:36.150 --> 00:03:36.160 align:start position:0%
+need to implement that because it's
+ 
+
+00:03:36.160 --> 00:03:37.890 align:start position:0%
+need to implement that because it's
+already<00:03:36.340><c> an</c><00:03:36.430><c> implementation</c><00:03:37.000><c> good</c><00:03:37.359><c> it'll</c>
+
+00:03:37.890 --> 00:03:37.900 align:start position:0%
+already an implementation good it'll
+ 
+
+00:03:37.900 --> 00:03:40.229 align:start position:0%
+already an implementation good it'll
+inherit<00:03:38.230><c> that</c><00:03:38.380><c> okay</c><00:03:38.730><c> somebody</c><00:03:39.730><c> is</c><00:03:39.760><c> this</c><00:03:40.030><c> I</c>
+
+00:03:40.229 --> 00:03:40.239 align:start position:0%
+inherit that okay somebody is this I
+ 
+
+00:03:40.239 --> 00:03:41.910 align:start position:0%
+inherit that okay somebody is this I
+don't<00:03:40.329><c> know</c><00:03:40.450><c> how</c><00:03:40.480><c> visible</c><00:03:40.840><c> it</c><00:03:41.049><c> is</c><00:03:41.079><c> oh</c><00:03:41.410><c> it</c><00:03:41.769><c> is</c>
+
+00:03:41.910 --> 00:03:41.920 align:start position:0%
+don't know how visible it is oh it is
+ 
+
+00:03:41.920 --> 00:03:43.650 align:start position:0%
+don't know how visible it is oh it is
+it's<00:03:42.220><c> even</c><00:03:42.459><c> more</c><00:03:42.760><c> visible</c><00:03:43.090><c> there</c><00:03:43.269><c> than</c><00:03:43.480><c> on</c><00:03:43.570><c> the</c>
+
+00:03:43.650 --> 00:03:43.660 align:start position:0%
+it's even more visible there than on the
+ 
+
+00:03:43.660 --> 00:03:45.390 align:start position:0%
+it's even more visible there than on the
+screen<00:03:43.750><c> so</c><00:03:44.380><c> this</c><00:03:44.500><c> lighter</c><00:03:44.739><c> blue</c><00:03:44.829><c> will</c>
+
+00:03:45.390 --> 00:03:45.400 align:start position:0%
+screen so this lighter blue will
+ 
+
+00:03:45.400 --> 00:03:47.130 align:start position:0%
+screen so this lighter blue will
+indicate<00:03:45.850><c> an</c><00:03:46.030><c> abstract</c><00:03:46.540><c> class</c><00:03:46.660><c> and</c><00:03:47.019><c> a</c>
+
+00:03:47.130 --> 00:03:47.140 align:start position:0%
+indicate an abstract class and a
+ 
+
+00:03:47.140 --> 00:03:50.610 align:start position:0%
+indicate an abstract class and a
+concrete<00:03:47.470><c> class</c><00:03:48.150><c> you</c><00:03:49.150><c> can</c><00:03:49.299><c> actually</c><00:03:49.630><c> level</c>
+
+00:03:50.610 --> 00:03:50.620 align:start position:0%
+concrete class you can actually level
+ 
+
+00:03:50.620 --> 00:03:52.140 align:start position:0%
+concrete class you can actually level
+this<00:03:50.769><c> you</c><00:03:51.100><c> can</c><00:03:51.220><c> actually</c><00:03:51.310><c> have</c><00:03:51.549><c> a</c><00:03:51.579><c> hierarchy</c>
+
+00:03:52.140 --> 00:03:52.150 align:start position:0%
+this you can actually have a hierarchy
+ 
+
+00:03:52.150 --> 00:03:54.240 align:start position:0%
+this you can actually have a hierarchy
+with<00:03:52.299><c> an</c><00:03:52.420><c> interface</c><00:03:52.690><c> up</c><00:03:53.049><c> top</c><00:03:53.260><c> an</c><00:03:53.500><c> abstract</c>
+
+00:03:54.240 --> 00:03:54.250 align:start position:0%
+with an interface up top an abstract
+ 
+
+00:03:54.250 --> 00:03:56.099 align:start position:0%
+with an interface up top an abstract
+class<00:03:54.340><c> and</c><00:03:54.730><c> a</c><00:03:54.790><c> concrete</c><00:03:55.180><c> class</c>
+
+00:03:56.099 --> 00:03:56.109 align:start position:0%
+class and a concrete class
+ 
+
+00:03:56.109 --> 00:03:57.840 align:start position:0%
+class and a concrete class
+and<00:03:56.440><c> so</c><00:03:56.560><c> I've</c><00:03:56.680><c> just</c><00:03:56.709><c> thrown</c><00:03:56.980><c> this</c><00:03:57.280><c> at</c><00:03:57.489><c> you</c><00:03:57.640><c> here</c>
+
+00:03:57.840 --> 00:03:57.850 align:start position:0%
+and so I've just thrown this at you here
+ 
+
+00:03:57.850 --> 00:03:59.160 align:start position:0%
+and so I've just thrown this at you here
+because<00:03:58.209><c> probably</c><00:03:58.480><c> hearing</c><00:03:58.900><c> me</c><00:03:58.989><c> talk</c><00:03:59.140><c> about</c>
+
+00:03:59.160 --> 00:03:59.170 align:start position:0%
+because probably hearing me talk about
+ 
+
+00:03:59.170 --> 00:04:00.990 align:start position:0%
+because probably hearing me talk about
+this<00:03:59.560><c> might</c><00:03:59.739><c> be</c><00:03:59.890><c> a</c><00:03:59.920><c> little</c><00:04:00.070><c> boring</c><00:04:00.340><c> so</c><00:04:00.880><c> what</c>
+
+00:04:00.990 --> 00:04:01.000 align:start position:0%
+this might be a little boring so what
+ 
+
+00:04:01.000 --> 00:04:02.940 align:start position:0%
+this might be a little boring so what
+you<00:04:01.090><c> think</c><00:04:01.269><c> about</c><00:04:01.359><c> it</c><00:04:01.630><c> in</c><00:04:01.750><c> process</c><00:04:02.290><c> what</c><00:04:02.829><c> I've</c>
+
+00:04:02.940 --> 00:04:02.950 align:start position:0%
+you think about it in process what I've
+ 
+
+00:04:02.950 --> 00:04:05.069 align:start position:0%
+you think about it in process what I've
+said<00:04:03.190><c> recently</c><00:04:03.370><c> so</c><00:04:04.329><c> in</c><00:04:04.420><c> this</c><00:04:04.510><c> case</c><00:04:04.720><c> I</c><00:04:04.900><c> have</c><00:04:05.049><c> a</c>
+
+00:04:05.069 --> 00:04:05.079 align:start position:0%
+said recently so in this case I have a
+ 
+
+00:04:05.079 --> 00:04:06.750 align:start position:0%
+said recently so in this case I have a
+paper<00:04:05.320><c> shredder</c><00:04:05.500><c> interface</c><00:04:06.010><c> a</c><00:04:06.190><c> deluxe</c><00:04:06.609><c> model</c>
+
+00:04:06.750 --> 00:04:06.760 align:start position:0%
+paper shredder interface a deluxe model
+ 
+
+00:04:06.760 --> 00:04:08.670 align:start position:0%
+paper shredder interface a deluxe model
+abstract<00:04:07.390><c> class</c><00:04:07.570><c> and</c><00:04:07.840><c> a</c><00:04:07.930><c> specific</c><00:04:08.350><c> concrete</c>
+
+00:04:08.670 --> 00:04:08.680 align:start position:0%
+abstract class and a specific concrete
+ 
+
+00:04:08.680 --> 00:04:10.979 align:start position:0%
+abstract class and a specific concrete
+class<00:04:09.130><c> not</c><00:04:09.340><c> shown</c><00:04:09.579><c> and</c><00:04:10.120><c> the</c><00:04:10.209><c> question</c><00:04:10.510><c> is</c><00:04:10.630><c> by</c>
+
+00:04:10.979 --> 00:04:10.989 align:start position:0%
+class not shown and the question is by
+ 
+
+00:04:10.989 --> 00:04:12.569 align:start position:0%
+class not shown and the question is by
+the<00:04:11.049><c> time</c><00:04:11.320><c> we</c><00:04:11.470><c> climbed</c><00:04:11.769><c> down</c><00:04:11.859><c> the</c><00:04:11.980><c> inheritance</c>
+
+00:04:12.569 --> 00:04:12.579 align:start position:0%
+the time we climbed down the inheritance
+ 
+
+00:04:12.579 --> 00:04:13.140 align:start position:0%
+the time we climbed down the inheritance
+hierarchy
+
+00:04:13.140 --> 00:04:13.150 align:start position:0%
+hierarchy
+ 
+
+00:04:13.150 --> 00:04:16.229 align:start position:0%
+hierarchy
+how<00:04:13.450><c> many</c><00:04:13.629><c> methods</c><00:04:13.989><c> are</c><00:04:14.110><c> left</c><00:04:14.290><c> for</c><00:04:14.530><c> DCX</c><00:04:14.980><c> 9000</c>
+
+00:04:16.229 --> 00:04:16.239 align:start position:0%
+how many methods are left for DCX 9000
+ 
+
+00:04:16.239 --> 00:05:35.510 align:start position:0%
+how many methods are left for DCX 9000
+copier<00:04:16.599><c> I</c><00:04:16.720><c> made</c><00:04:16.930><c> up</c><00:04:17.639><c> how</c><00:04:18.639><c> many</c><00:04:18.819><c> does</c><00:04:18.970><c> it</c><00:04:19.000><c> have</c>
+
+00:05:35.510 --> 00:05:35.520 align:start position:0%
+ 
+ 
+
+00:05:35.520 --> 00:05:37.710 align:start position:0%
+ 
+alright<00:05:36.520><c> I'll</c><00:05:36.790><c> take</c><00:05:36.940><c> back</c><00:05:37.150><c> over</c><00:05:37.419><c> the</c><00:05:37.540><c> room</c>
+
+00:05:37.710 --> 00:05:37.720 align:start position:0%
+alright I'll take back over the room
+ 
+
+00:05:37.720 --> 00:05:41.850 align:start position:0%
+alright I'll take back over the room
+there's<00:05:38.199><c> some</c><00:05:38.380><c> dissent</c><00:05:39.840><c> okay</c><00:05:40.840><c> let's</c><00:05:41.770><c> talk</c>
+
+00:05:41.850 --> 00:05:41.860 align:start position:0%
+there's some dissent okay let's talk
+ 
+
+00:05:41.860 --> 00:05:42.719 align:start position:0%
+there's some dissent okay let's talk
+about<00:05:41.919><c> this</c><00:05:42.160><c> interface</c>
+
+00:05:42.719 --> 00:05:42.729 align:start position:0%
+about this interface
+ 
+
+00:05:42.729 --> 00:05:44.100 align:start position:0%
+about this interface
+how<00:05:42.820><c> many</c><00:05:42.970><c> abstract</c><00:05:43.479><c> methods</c><00:05:43.810><c> does</c><00:05:43.990><c> it</c>
+
+00:05:44.100 --> 00:05:44.110 align:start position:0%
+how many abstract methods does it
+ 
+
+00:05:44.110 --> 00:05:46.500 align:start position:0%
+how many abstract methods does it
+provide<00:05:44.580><c> to</c><00:05:45.580><c> how</c><00:05:46.150><c> do</c><00:05:46.210><c> you</c><00:05:46.240><c> know</c><00:05:46.360><c> they're</c>
+
+00:05:46.500 --> 00:05:46.510 align:start position:0%
+provide to how do you know they're
+ 
+
+00:05:46.510 --> 00:05:49.530 align:start position:0%
+provide to how do you know they're
+abstract<00:05:46.750><c> it</c><00:05:47.110><c> doesn't</c><00:05:47.320><c> say</c><00:05:47.440><c> I'm</c><00:05:47.530><c> drank</c><00:05:48.540><c> that's</c>
+
+00:05:49.530 --> 00:05:49.540 align:start position:0%
+abstract it doesn't say I'm drank that's
+ 
+
+00:05:49.540 --> 00:05:50.730 align:start position:0%
+abstract it doesn't say I'm drank that's
+what<00:05:49.660><c> happens</c><00:05:49.960><c> with</c><00:05:50.050><c> interfaces</c><00:05:50.410><c> if</c><00:05:50.680><c> you</c>
+
+00:05:50.730 --> 00:05:50.740 align:start position:0%
+what happens with interfaces if you
+ 
+
+00:05:50.740 --> 00:05:52.680 align:start position:0%
+what happens with interfaces if you
+don't<00:05:50.889><c> say</c><00:05:51.070><c> ok</c><00:05:51.520><c> good</c><00:05:51.729><c> so</c><00:05:51.970><c> now</c><00:05:52.419><c> we</c><00:05:52.479><c> get</c><00:05:52.630><c> to</c>
+
+00:05:52.680 --> 00:05:52.690 align:start position:0%
+don't say ok good so now we get to
+ 
+
+00:05:52.690 --> 00:05:55.770 align:start position:0%
+don't say ok good so now we get to
+deluxe<00:05:53.050><c> model</c><00:05:53.410><c> okay</c><00:05:54.070><c> of</c><00:05:54.280><c> these</c><00:05:54.580><c> methods</c><00:05:55.389><c> how</c>
+
+00:05:55.770 --> 00:05:55.780 align:start position:0%
+deluxe model okay of these methods how
+ 
+
+00:05:55.780 --> 00:06:00.360 align:start position:0%
+deluxe model okay of these methods how
+many<00:05:56.460><c> abstract</c><00:05:57.460><c> methods</c><00:05:57.790><c> does</c><00:05:57.970><c> it</c><00:05:58.150><c> define</c><00:05:59.370><c> one</c>
+
+00:06:00.360 --> 00:06:00.370 align:start position:0%
+many abstract methods does it define one
+ 
+
+00:06:00.370 --> 00:06:03.210 align:start position:0%
+many abstract methods does it define one
+this<00:06:00.850><c> one</c><00:06:01.060><c> connects</c><00:06:01.389><c> to</c><00:06:01.540><c> Wi-Fi</c><00:06:01.830><c> okay</c><00:06:02.830><c> so</c><00:06:02.889><c> at</c>
+
+00:06:03.210 --> 00:06:03.220 align:start position:0%
+this one connects to Wi-Fi okay so at
+ 
+
+00:06:03.220 --> 00:06:04.350 align:start position:0%
+this one connects to Wi-Fi okay so at
+this<00:06:03.340><c> point</c><00:06:03.550><c> you</c><00:06:03.820><c> would</c><00:06:03.880><c> say</c><00:06:04.060><c> there's</c><00:06:04.240><c> three</c>
+
+00:06:04.350 --> 00:06:04.360 align:start position:0%
+this point you would say there's three
+ 
+
+00:06:04.360 --> 00:06:06.210 align:start position:0%
+this point you would say there's three
+abstract<00:06:04.810><c> methods</c><00:06:05.139><c> however</c><00:06:05.710><c> how</c><00:06:06.040><c> many</c>
+
+00:06:06.210 --> 00:06:06.220 align:start position:0%
+abstract methods however how many
+ 
+
+00:06:06.220 --> 00:06:09.120 align:start position:0%
+abstract methods however how many
+methods<00:06:06.639><c> does</c><00:06:06.820><c> this</c><00:06:07.030><c> actually</c><00:06:08.130><c> implement</c>
+
+00:06:09.120 --> 00:06:09.130 align:start position:0%
+methods does this actually implement
+ 
+
+00:06:09.130 --> 00:06:12.870 align:start position:0%
+methods does this actually implement
+concretely<00:06:09.870><c> one</c><00:06:10.870><c> Oh</c><00:06:11.169><c> actually</c><00:06:11.860><c> to</c><00:06:12.130><c> count</c><00:06:12.669><c> and</c>
+
+00:06:12.870 --> 00:06:12.880 align:start position:0%
+concretely one Oh actually to count and
+ 
+
+00:06:12.880 --> 00:06:15.270 align:start position:0%
+concretely one Oh actually to count and
+shred<00:06:13.180><c> all</c><00:06:13.380><c> shred</c><00:06:14.380><c> all</c><00:06:14.530><c> it</c><00:06:14.740><c> was</c><00:06:14.830><c> inherited</c>
+
+00:06:15.270 --> 00:06:15.280 align:start position:0%
+shred all shred all it was inherited
+ 
+
+00:06:15.280 --> 00:06:18.000 align:start position:0%
+shred all shred all it was inherited
+from<00:06:15.370><c> this</c><00:06:15.580><c> one</c><00:06:15.760><c> so</c><00:06:16.300><c> basically</c><00:06:17.289><c> this</c><00:06:17.500><c> provided</c>
+
+00:06:18.000 --> 00:06:18.010 align:start position:0%
+from this one so basically this provided
+ 
+
+00:06:18.010 --> 00:06:19.950 align:start position:0%
+from this one so basically this provided
+two<00:06:18.160><c> abstract</c><00:06:18.580><c> methods</c><00:06:18.910><c> this</c><00:06:19.419><c> implemented</c>
+
+00:06:19.950 --> 00:06:19.960 align:start position:0%
+two abstract methods this implemented
+ 
+
+00:06:19.960 --> 00:06:22.020 align:start position:0%
+two abstract methods this implemented
+one<00:06:20.289><c> but</c><00:06:20.620><c> it</c><00:06:20.710><c> added</c><00:06:20.979><c> one</c><00:06:21.100><c> again</c><00:06:21.370><c> so</c><00:06:21.580><c> the</c>
+
+00:06:22.020 --> 00:06:22.030 align:start position:0%
+one but it added one again so the
+ 
+
+00:06:22.030 --> 00:06:23.820 align:start position:0%
+one but it added one again so the
+ultimate<00:06:22.150><c> answer</c><00:06:22.660><c> is</c><00:06:22.780><c> two</c><00:06:22.990><c> there's</c><00:06:23.410><c> two</c><00:06:23.620><c> more</c>
+
+00:06:23.820 --> 00:06:23.830 align:start position:0%
+ultimate answer is two there's two more
+ 
+
+00:06:23.830 --> 00:06:25.740 align:start position:0%
+ultimate answer is two there's two more
+that<00:06:24.010><c> need</c><00:06:24.160><c> to</c><00:06:24.280><c> be</c><00:06:24.310><c> done</c><00:06:24.639><c> those</c><00:06:25.090><c> are</c><00:06:25.330><c> connect</c>
+
+00:06:25.740 --> 00:06:25.750 align:start position:0%
+that need to be done those are connect
+ 
+
+00:06:25.750 --> 00:06:34.320 align:start position:0%
+that need to be done those are connect
+to<00:06:25.870><c> Wi-Fi</c><00:06:26.020><c> and</c><00:06:26.530><c> shred</c><00:06:27.220><c> okay</c><00:06:28.090><c> yeah</c><00:06:32.880><c> here</c><00:06:33.880><c> why</c>
+
+00:06:34.320 --> 00:06:34.330 align:start position:0%
+to Wi-Fi and shred okay yeah here why
+ 
+
+00:06:34.330 --> 00:06:36.060 align:start position:0%
+to Wi-Fi and shred okay yeah here why
+don't<00:06:34.389><c> have</c><00:06:34.660><c> to</c><00:06:34.750><c> say</c><00:06:34.870><c> public</c><00:06:35.260><c> abstract</c><00:06:35.770><c> shred</c>
+
+00:06:36.060 --> 00:06:36.070 align:start position:0%
+don't have to say public abstract shred
+ 
+
+00:06:36.070 --> 00:06:37.980 align:start position:0%
+don't have to say public abstract shred
+you<00:06:36.669><c> don't</c><00:06:36.910><c> have</c><00:06:37.030><c> to</c><00:06:37.150><c> explicitly</c><00:06:37.419><c> say</c><00:06:37.870><c> it</c>
+
+00:06:37.980 --> 00:06:37.990 align:start position:0%
+you don't have to explicitly say it
+ 
+
+00:06:37.990 --> 00:06:39.420 align:start position:0%
+you don't have to explicitly say it
+because<00:06:38.320><c> it's</c><00:06:38.349><c> inherited</c><00:06:38.830><c> from</c><00:06:39.010><c> the</c><00:06:39.190><c> center</c>
+
+00:06:39.420 --> 00:06:39.430 align:start position:0%
+because it's inherited from the center
+ 
+
+00:06:39.430 --> 00:06:44.550 align:start position:0%
+because it's inherited from the center
+face<00:06:42.000><c> if</c><00:06:43.000><c> you</c><00:06:43.240><c> in</c><00:06:43.450><c> this</c><00:06:43.599><c> class</c><00:06:43.810><c> do</c><00:06:44.139><c> not</c><00:06:44.289><c> have</c><00:06:44.440><c> to</c>
+
+00:06:44.550 --> 00:06:44.560 align:start position:0%
+face if you in this class do not have to
+ 
+
+00:06:44.560 --> 00:06:46.980 align:start position:0%
+face if you in this class do not have to
+implement<00:06:44.740><c> it</c><00:06:45.010><c> an</c><00:06:45.330><c> abstract</c><00:06:46.330><c> class</c><00:06:46.450><c> does</c><00:06:46.810><c> not</c>
+
+00:06:46.980 --> 00:06:46.990 align:start position:0%
+implement it an abstract class does not
+ 
+
+00:06:46.990 --> 00:06:50.190 align:start position:0%
+implement it an abstract class does not
+have<00:06:47.110><c> to</c><00:06:47.229><c> implement</c><00:06:47.550><c> interface</c><00:06:48.550><c> methods</c><00:06:49.200><c> you</c>
+
+00:06:50.190 --> 00:06:50.200 align:start position:0%
+have to implement interface methods you
+ 
+
+00:06:50.200 --> 00:06:52.140 align:start position:0%
+have to implement interface methods you
+don't<00:06:50.440><c> even</c><00:06:50.560><c> have</c><00:06:50.680><c> to</c><00:06:50.830><c> list</c><00:06:51.310><c> it</c><00:06:51.490><c> and</c><00:06:51.669><c> there's</c><00:06:52.090><c> a</c>
+
+00:06:52.140 --> 00:06:52.150 align:start position:0%
+don't even have to list it and there's a
+ 
+
+00:06:52.150 --> 00:06:54.180 align:start position:0%
+don't even have to list it and there's a
+chance<00:06:52.450><c> I'm</c><00:06:52.630><c> wrong</c><00:06:52.840><c> but</c><00:06:53.289><c> I'm</c><00:06:53.410><c> pretty</c><00:06:53.830><c> sure</c><00:06:54.070><c> I'm</c>
+
+00:06:54.180 --> 00:06:54.190 align:start position:0%
+chance I'm wrong but I'm pretty sure I'm
+ 
+
+00:06:54.190 --> 00:06:56.879 align:start position:0%
+chance I'm wrong but I'm pretty sure I'm
+right<00:06:54.220><c> okay</c><00:06:55.150><c> now</c><00:06:55.780><c> we</c><00:06:56.169><c> could</c><00:06:56.320><c> try</c><00:06:56.500><c> it</c><00:06:56.560><c> but</c><00:06:56.800><c> I'm</c>
+
+00:06:56.879 --> 00:06:56.889 align:start position:0%
+right okay now we could try it but I'm
+ 
+
+00:06:56.889 --> 00:07:03.390 align:start position:0%
+right okay now we could try it but I'm
+afraid<00:06:57.010><c> to</c><00:06:57.190><c> open</c><00:06:57.340><c> it</c><00:06:57.639><c> yes</c><00:07:02.039><c> public</c><00:07:03.039><c> so</c><00:07:03.160><c> in</c><00:07:03.280><c> this</c>
+
+00:07:03.390 --> 00:07:03.400 align:start position:0%
+afraid to open it yes public so in this
+ 
+
+00:07:03.400 --> 00:07:05.760 align:start position:0%
+afraid to open it yes public so in this
+class<00:07:03.669><c> I</c><00:07:03.910><c> do</c><00:07:03.970><c> public</c><00:07:04.449><c> abstract</c><00:07:05.169><c> void</c><00:07:05.380><c> shred</c>
+
+00:07:05.760 --> 00:07:05.770 align:start position:0%
+class I do public abstract void shred
+ 
+
+00:07:05.770 --> 00:07:10.860 align:start position:0%
+class I do public abstract void shred
+all<00:07:06.960><c> shred</c><00:07:07.960><c> is</c><00:07:09.030><c> a</c><00:07:10.030><c> good</c><00:07:10.240><c> question</c><00:07:10.389><c> so</c><00:07:10.750><c> if</c><00:07:10.810><c> I</c>
+
+00:07:10.860 --> 00:07:10.870 align:start position:0%
+all shred is a good question so if I
+ 
+
+00:07:10.870 --> 00:07:13.589 align:start position:0%
+all shred is a good question so if I
+actually<00:07:10.930><c> do</c><00:07:11.169><c> public</c><00:07:11.560><c> abstract</c><00:07:12.130><c> void</c><00:07:13.090><c> shred</c>
+
+00:07:13.589 --> 00:07:13.599 align:start position:0%
+actually do public abstract void shred
+ 
+
+00:07:13.599 --> 00:07:17.820 align:start position:0%
+actually do public abstract void shred
+like<00:07:13.960><c> I</c><00:07:14.110><c> just</c><00:07:14.289><c> repeat</c><00:07:14.620><c> this</c><00:07:14.800><c> again</c><00:07:16.680><c> that's</c><00:07:17.680><c> a</c>
+
+00:07:17.820 --> 00:07:17.830 align:start position:0%
+like I just repeat this again that's a
+ 
+
+00:07:17.830 --> 00:07:19.560 align:start position:0%
+like I just repeat this again that's a
+great<00:07:18.039><c> question</c><00:07:18.460><c> I</c><00:07:18.610><c> would</c><00:07:18.820><c> have</c><00:07:18.940><c> no</c><00:07:19.090><c> semantic</c>
+
+00:07:19.560 --> 00:07:19.570 align:start position:0%
+great question I would have no semantic
+ 
+
+00:07:19.570 --> 00:07:21.750 align:start position:0%
+great question I would have no semantic
+impact<00:07:19.990><c> and</c><00:07:20.229><c> I'm</c><00:07:20.349><c> not</c><00:07:20.470><c> sure</c><00:07:20.740><c> what</c><00:07:21.160><c> it'll</c><00:07:21.430><c> do</c>
+
+00:07:21.750 --> 00:07:21.760 align:start position:0%
+impact and I'm not sure what it'll do
+ 
+
+00:07:21.760 --> 00:07:24.000 align:start position:0%
+impact and I'm not sure what it'll do
+I<00:07:21.789><c> would</c><00:07:22.539><c> I</c><00:07:22.720><c> would</c><00:07:23.020><c> open</c><00:07:23.260><c> it</c><00:07:23.380><c> in</c><00:07:23.470><c> intelligent</c>
+
+00:07:24.000 --> 00:07:24.010 align:start position:0%
+I would I would open it in intelligent
+ 
+
+00:07:24.010 --> 00:07:25.170 align:start position:0%
+I would I would open it in intelligent
+but<00:07:24.070><c> I</c><00:07:24.130><c> don't</c><00:07:24.310><c> have</c><00:07:24.370><c> the</c><00:07:24.490><c> files</c><00:07:24.729><c> ready</c><00:07:25.030><c> I</c><00:07:25.060><c> don't</c>
+
+00:07:25.170 --> 00:07:25.180 align:start position:0%
+but I don't have the files ready I don't
+ 
+
+00:07:25.180 --> 00:07:26.730 align:start position:0%
+but I don't have the files ready I don't
+want<00:07:25.300><c> to</c><00:07:25.360><c> type</c><00:07:25.479><c> all</c><00:07:25.660><c> this</c><00:07:25.810><c> stuff</c><00:07:26.080><c> so</c><00:07:26.620><c> I'll</c>
+
+00:07:26.730 --> 00:07:26.740 align:start position:0%
+want to type all this stuff so I'll
+ 
+
+00:07:26.740 --> 00:07:28.020 align:start position:0%
+want to type all this stuff so I'll
+table<00:07:27.099><c> the</c><00:07:27.190><c> question</c><00:07:27.370><c> but</c><00:07:27.789><c> it's</c><00:07:27.880><c> interesting</c>
+
+00:07:28.020 --> 00:07:28.030 align:start position:0%
+table the question but it's interesting
+ 
+
+00:07:28.030 --> 00:07:29.730 align:start position:0%
+table the question but it's interesting
+thing<00:07:28.389><c> to</c><00:07:28.510><c> ponder</c><00:07:28.539><c> what</c><00:07:29.289><c> happens</c><00:07:29.530><c> if</c><00:07:29.650><c> you</c>
+
+00:07:29.730 --> 00:07:29.740 align:start position:0%
+thing to ponder what happens if you
+ 
+
+00:07:29.740 --> 00:07:31.560 align:start position:0%
+thing to ponder what happens if you
+actually<00:07:29.860><c> put</c><00:07:30.130><c> this</c><00:07:30.340><c> again</c><00:07:30.669><c> an</c><00:07:30.940><c> abstract</c>
+
+00:07:31.560 --> 00:07:31.570 align:start position:0%
+actually put this again an abstract
+ 
+
+00:07:31.570 --> 00:07:33.150 align:start position:0%
+actually put this again an abstract
+class<00:07:31.710><c> ultimately</c><00:07:32.710><c> though</c><00:07:32.860><c> there's</c><00:07:33.039><c> two</c>
+
+00:07:33.150 --> 00:07:33.160 align:start position:0%
+class ultimately though there's two
+ 
+
+00:07:33.160 --> 00:07:34.800 align:start position:0%
+class ultimately though there's two
+things<00:07:33.340><c> that</c><00:07:33.490><c> are</c><00:07:33.729><c> left</c><00:07:33.849><c> for</c><00:07:34.000><c> you</c><00:07:34.120><c> to</c><00:07:34.210><c> do</c><00:07:34.389><c> you</c>
+
+00:07:34.800 --> 00:07:34.810 align:start position:0%
+things that are left for you to do you
+ 
+
+00:07:34.810 --> 00:07:36.540 align:start position:0%
+things that are left for you to do you
+need<00:07:34.960><c> to</c><00:07:35.080><c> write</c><00:07:35.229><c> connect</c><00:07:35.530><c> to</c><00:07:35.650><c> Wi-Fi</c><00:07:35.800><c> and</c><00:07:36.220><c> you</c>
+
+00:07:36.540 --> 00:07:36.550 align:start position:0%
+need to write connect to Wi-Fi and you
+ 
+
+00:07:36.550 --> 00:07:38.310 align:start position:0%
+need to write connect to Wi-Fi and you
+need<00:07:36.699><c> to</c><00:07:36.820><c> write</c><00:07:36.910><c> shred</c><00:07:37.270><c> shred</c><00:07:37.780><c> all</c><00:07:37.990><c> is</c><00:07:38.080><c> already</c>
+
+00:07:38.310 --> 00:07:38.320 align:start position:0%
+need to write shred shred all is already
+ 
+
+00:07:38.320 --> 00:07:41.939 align:start position:0%
+need to write shred shred all is already
+done<00:07:39.419><c> so</c><00:07:40.419><c> to</c><00:07:40.750><c> summarize</c><00:07:41.199><c> this</c><00:07:41.470><c> that's</c><00:07:41.740><c> as</c><00:07:41.830><c> much</c>
+
+00:07:41.939 --> 00:07:41.949 align:start position:0%
+done so to summarize this that's as much
+ 
+
+00:07:41.949 --> 00:07:43.230 align:start position:0%
+done so to summarize this that's as much
+as<00:07:42.130><c> I'm</c><00:07:42.250><c> really</c><00:07:42.400><c> going</c><00:07:42.640><c> to</c><00:07:42.700><c> say</c><00:07:42.849><c> about</c><00:07:42.969><c> them</c>
+
+00:07:43.230 --> 00:07:43.240 align:start position:0%
+as I'm really going to say about them
+ 
+
+00:07:43.240 --> 00:07:44.790 align:start position:0%
+as I'm really going to say about them
+all<00:07:43.330><c> give</c><00:07:43.510><c> a</c><00:07:43.539><c> little</c><00:07:43.719><c> more</c><00:07:43.930><c> but</c><00:07:44.650><c> for</c>
+
+00:07:44.790 --> 00:07:44.800 align:start position:0%
+all give a little more but for
+ 
+
+00:07:44.800 --> 00:07:46.380 align:start position:0%
+all give a little more but for
+interfaces<00:07:45.340><c> the</c><00:07:45.700><c> main</c><00:07:45.909><c> goal</c><00:07:46.180><c> is</c><00:07:46.360><c> for</c>
+
+00:07:46.380 --> 00:07:46.390 align:start position:0%
+interfaces the main goal is for
+ 
+
+00:07:46.390 --> 00:07:47.000 align:start position:0%
+interfaces the main goal is for
+interface
+
+00:07:47.000 --> 00:07:47.010 align:start position:0%
+interface
+ 
+
+00:07:47.010 --> 00:07:48.860 align:start position:0%
+interface
+hairatan<00:07:47.490><c> and</c><00:07:47.640><c> you</c><00:07:48.060><c> could</c><00:07:48.180><c> do</c><00:07:48.270><c> a</c><00:07:48.300><c> little</c><00:07:48.570><c> bit</c>
+
+00:07:48.860 --> 00:07:48.870 align:start position:0%
+hairatan and you could do a little bit
+ 
+
+00:07:48.870 --> 00:07:50.750 align:start position:0%
+hairatan and you could do a little bit
+of<00:07:48.960><c> implementation</c><00:07:49.620><c> inheritance</c><00:07:49.760><c> and</c>
+
+00:07:50.750 --> 00:07:50.760 align:start position:0%
+of implementation inheritance and
+ 
+
+00:07:50.760 --> 00:07:52.460 align:start position:0%
+of implementation inheritance and
+classes<00:07:51.240><c> can</c><00:07:51.390><c> implement</c><00:07:51.780><c> multiple</c><00:07:51.870><c> interface</c>
+
+00:07:52.460 --> 00:07:52.470 align:start position:0%
+classes can implement multiple interface
+ 
+
+00:07:52.470 --> 00:07:55.340 align:start position:0%
+classes can implement multiple interface
+with<00:07:53.370><c> abstract</c><00:07:53.880><c> classes</c><00:07:54.330><c> basically</c><00:07:54.840><c> they</c><00:07:55.200><c> can</c>
+
+00:07:55.340 --> 00:07:55.350 align:start position:0%
+with abstract classes basically they can
+ 
+
+00:07:55.350 --> 00:07:57.350 align:start position:0%
+with abstract classes basically they can
+do<00:07:55.470><c> anything</c><00:07:55.710><c> an</c><00:07:55.950><c> interface</c><00:07:56.310><c> can</c><00:07:56.520><c> do</c><00:07:56.700><c> but</c><00:07:57.300><c> they</c>
+
+00:07:57.350 --> 00:07:57.360 align:start position:0%
+do anything an interface can do but they
+ 
+
+00:07:57.360 --> 00:07:58.820 align:start position:0%
+do anything an interface can do but they
+have<00:07:57.390><c> a</c><00:07:57.480><c> little</c><00:07:57.750><c> more</c><00:07:57.900><c> capability</c><00:07:58.530><c> like</c><00:07:58.680><c> they</c>
+
+00:07:58.820 --> 00:07:58.830 align:start position:0%
+have a little more capability like they
+ 
+
+00:07:58.830 --> 00:08:01.970 align:start position:0%
+have a little more capability like they
+can<00:07:59.010><c> provide</c><00:08:00.170><c> non-public</c><00:08:01.170><c> methods</c><00:08:01.740><c> for</c>
+
+00:08:01.970 --> 00:08:01.980 align:start position:0%
+can provide non-public methods for
+ 
+
+00:08:01.980 --> 00:08:04.760 align:start position:0%
+can provide non-public methods for
+example<00:08:02.900><c> subclasses</c><00:08:03.900><c> of</c><00:08:03.930><c> course</c><00:08:04.260><c> also</c><00:08:04.620><c> can</c>
+
+00:08:04.760 --> 00:08:04.770 align:start position:0%
+example subclasses of course also can
+ 
+
+00:08:04.770 --> 00:08:06.350 align:start position:0%
+example subclasses of course also can
+only<00:08:04.920><c> extend</c><00:08:05.370><c> one</c><00:08:05.520><c> abstract</c><00:08:05.940><c> class</c><00:08:06.120><c> because</c>
+
+00:08:06.350 --> 00:08:06.360 align:start position:0%
+only extend one abstract class because
+ 
+
+00:08:06.360 --> 00:08:07.940 align:start position:0%
+only extend one abstract class because
+there's<00:08:06.510><c> a</c><00:08:06.570><c> rule</c><00:08:06.720><c> in</c><00:08:06.870><c> Java</c><00:08:07.110><c> so</c><00:08:07.620><c> you</c><00:08:07.710><c> can</c><00:08:07.830><c> only</c>
+
+00:08:07.940 --> 00:08:07.950 align:start position:0%
+there's a rule in Java so you can only
+ 
+
+00:08:07.950 --> 00:08:09.890 align:start position:0%
+there's a rule in Java so you can only
+extend<00:08:08.310><c> one</c><00:08:08.550><c> class</c><00:08:08.760><c> and</c><00:08:09.480><c> in</c><00:08:09.630><c> my</c><00:08:09.750><c> opinion</c>
+
+00:08:09.890 --> 00:08:09.900 align:start position:0%
+extend one class and in my opinion
+ 
+
+00:08:09.900 --> 00:08:11.420 align:start position:0%
+extend one class and in my opinion
+whatever<00:08:10.410><c> you're</c><00:08:10.620><c> not</c><00:08:10.710><c> really</c><00:08:10.860><c> sure</c><00:08:11.130><c> you</c>
+
+00:08:11.420 --> 00:08:11.430 align:start position:0%
+whatever you're not really sure you
+ 
+
+00:08:11.430 --> 00:08:13.400 align:start position:0%
+whatever you're not really sure you
+should<00:08:11.460><c> use</c><00:08:11.730><c> an</c><00:08:11.880><c> interface</c><00:08:12.230><c> abstract</c><00:08:13.230><c> classes</c>
+
+00:08:13.400 --> 00:08:13.410 align:start position:0%
+should use an interface abstract classes
+ 
+
+00:08:13.410 --> 00:08:15.860 align:start position:0%
+should use an interface abstract classes
+come<00:08:13.740><c> up</c><00:08:13.860><c> sometimes</c><00:08:14.310><c> but</c><00:08:15.180><c> I</c><00:08:15.240><c> basically</c><00:08:15.690><c> I</c><00:08:15.720><c> feel</c>
+
+00:08:15.860 --> 00:08:15.870 align:start position:0%
+come up sometimes but I basically I feel
+ 
+
+00:08:15.870 --> 00:08:17.840 align:start position:0%
+come up sometimes but I basically I feel
+like<00:08:16.020><c> the</c><00:08:16.380><c> more</c><00:08:16.560><c> complicated</c><00:08:16.950><c> the</c><00:08:17.370><c> thing</c><00:08:17.610><c> it</c>
+
+00:08:17.840 --> 00:08:17.850 align:start position:0%
+like the more complicated the thing it
+ 
+
+00:08:17.850 --> 00:08:19.640 align:start position:0%
+like the more complicated the thing it
+is<00:08:18.000><c> that</c><00:08:18.210><c> you</c><00:08:18.270><c> use</c><00:08:18.330><c> in</c><00:08:18.720><c> a</c><00:08:18.780><c> language</c><00:08:19.140><c> the</c><00:08:19.500><c> more</c>
+
+00:08:19.640 --> 00:08:19.650 align:start position:0%
+is that you use in a language the more
+ 
+
+00:08:19.650 --> 00:08:20.570 align:start position:0%
+is that you use in a language the more
+likely<00:08:20.010><c> you're</c><00:08:20.100><c> going</c><00:08:20.190><c> to</c><00:08:20.250><c> cause</c><00:08:20.430><c> yourself</c>
+
+00:08:20.570 --> 00:08:20.580 align:start position:0%
+likely you're going to cause yourself
+ 
+
+00:08:20.580 --> 00:08:22.730 align:start position:0%
+likely you're going to cause yourself
+trouble<00:08:21.120><c> so</c><00:08:21.510><c> you</c><00:08:21.630><c> should</c><00:08:21.900><c> restrict</c><00:08:22.260><c> choices</c>
+
+00:08:22.730 --> 00:08:22.740 align:start position:0%
+trouble so you should restrict choices
+ 
+
+00:08:22.740 --> 00:08:25.010 align:start position:0%
+trouble so you should restrict choices
+from<00:08:22.890><c> yourself</c><00:08:23.280><c> when</c><00:08:23.310><c> you</c><00:08:23.580><c> can</c><00:08:23.850><c> and</c><00:08:24.690><c> Oracle</c>
+
+00:08:25.010 --> 00:08:25.020 align:start position:0%
+from yourself when you can and Oracle
+ 
+
+00:08:25.020 --> 00:08:26.090 align:start position:0%
+from yourself when you can and Oracle
+has<00:08:25.110><c> a</c><00:08:25.140><c> whole</c><00:08:25.290><c> tutorial</c><00:08:25.470><c> and</c><00:08:25.890><c> when</c><00:08:25.980><c> to</c><00:08:26.070><c> use</c>
+
+00:08:26.090 --> 00:08:26.100 align:start position:0%
+has a whole tutorial and when to use
+ 
+
+00:08:26.100 --> 00:08:27.860 align:start position:0%
+has a whole tutorial and when to use
+each<00:08:26.340><c> this</c><00:08:26.880><c> is</c><00:08:27.030><c> not</c><00:08:27.120><c> a</c><00:08:27.150><c> software</c><00:08:27.480><c> engineering</c>
+
+00:08:27.860 --> 00:08:27.870 align:start position:0%
+each this is not a software engineering
+ 
+
+00:08:27.870 --> 00:08:29.300 align:start position:0%
+each this is not a software engineering
+class<00:08:28.140><c> we</c><00:08:28.440><c> won't</c><00:08:28.590><c> really</c><00:08:28.710><c> see</c><00:08:28.950><c> it</c><00:08:29.010><c> in</c><00:08:29.070><c> a</c><00:08:29.100><c> lot</c><00:08:29.220><c> of</c>
+
+00:08:29.300 --> 00:08:29.310 align:start position:0%
+class we won't really see it in a lot of
+ 
+
+00:08:29.310 --> 00:08:31.160 align:start position:0%
+class we won't really see it in a lot of
+detail<00:08:29.640><c> but</c><00:08:29.850><c> I</c><00:08:30.270><c> do</c><00:08:30.360><c> want</c><00:08:30.570><c> to</c><00:08:30.600><c> show</c><00:08:30.780><c> you</c><00:08:30.810><c> a</c>
+
+00:08:31.160 --> 00:08:31.170 align:start position:0%
+detail but I do want to show you a
+ 
+
+00:08:31.170 --> 00:08:33.530 align:start position:0%
+detail but I do want to show you a
+little<00:08:31.440><c> bit</c><00:08:31.680><c> of</c><00:08:31.710><c> what</c><00:08:31.920><c> the</c><00:08:32.100><c> why</c><00:08:32.490><c> Java</c><00:08:32.970><c> uses</c><00:08:33.419><c> on</c>
+
+00:08:33.530 --> 00:08:33.540 align:start position:0%
+little bit of what the why Java uses on
+ 
+
+00:08:33.540 --> 00:08:36.680 align:start position:0%
+little bit of what the why Java uses on
+scratch<00:08:33.840><c> classes</c><00:08:34.290><c> so</c><00:08:35.220><c> this</c><00:08:35.640><c> is</c><00:08:35.850><c> how</c><00:08:36.030><c> lists</c><00:08:36.479><c> and</c>
+
+00:08:36.680 --> 00:08:36.690 align:start position:0%
+scratch classes so this is how lists and
+ 
+
+00:08:36.690 --> 00:08:38.960 align:start position:0%
+scratch classes so this is how lists and
+Java<00:08:36.930><c> work</c><00:08:37.260><c> that's</c><00:08:37.770><c> not</c><00:08:38.040><c> totally</c><00:08:38.340><c> but</c><00:08:38.700><c> this</c><00:08:38.820><c> is</c>
+
+00:08:38.960 --> 00:08:38.970 align:start position:0%
+Java work that's not totally but this is
+ 
+
+00:08:38.970 --> 00:08:40.730 align:start position:0%
+Java work that's not totally but this is
+mostly<00:08:39.240><c> how</c><00:08:39.390><c> it</c><00:08:39.479><c> goes</c><00:08:39.690><c> so</c><00:08:40.350><c> there's</c><00:08:40.530><c> a</c><00:08:40.560><c> list</c>
+
+00:08:40.730 --> 00:08:40.740 align:start position:0%
+mostly how it goes so there's a list
+ 
+
+00:08:40.740 --> 00:08:42.920 align:start position:0%
+mostly how it goes so there's a list
+interface<00:08:41.220><c> and</c><00:08:41.460><c> there's</c><00:08:41.940><c> an</c><00:08:42.030><c> abstract</c><00:08:42.450><c> list</c>
+
+00:08:42.920 --> 00:08:42.930 align:start position:0%
+interface and there's an abstract list
+ 
+
+00:08:42.930 --> 00:08:45.980 align:start position:0%
+interface and there's an abstract list
+abstract<00:08:43.770><c> class</c><00:08:44.100><c> good</c><00:08:45.060><c> name</c><00:08:45.240><c> and</c><00:08:45.450><c> then</c><00:08:45.870><c> there</c>
+
+00:08:45.980 --> 00:08:45.990 align:start position:0%
+abstract class good name and then there
+ 
+
+00:08:45.990 --> 00:08:47.810 align:start position:0%
+abstract class good name and then there
+are<00:08:46.020><c> two</c><00:08:46.200><c> specific</c><00:08:46.410><c> implementations</c><00:08:47.370><c> that</c>
+
+00:08:47.810 --> 00:08:47.820 align:start position:0%
+are two specific implementations that
+ 
+
+00:08:47.820 --> 00:08:50.030 align:start position:0%
+are two specific implementations that
+extend<00:08:48.240><c> this</c><00:08:48.420><c> class</c><00:08:48.690><c> what</c><00:08:49.470><c> does</c><00:08:49.590><c> abstract</c>
+
+00:08:50.030 --> 00:08:50.040 align:start position:0%
+extend this class what does abstract
+ 
+
+00:08:50.040 --> 00:08:52.340 align:start position:0%
+extend this class what does abstract
+list<00:08:50.250><c> do</c><00:08:50.460><c> well</c><00:08:51.150><c> it</c><00:08:51.270><c> provides</c><00:08:51.390><c> for</c><00:08:51.840><c> example</c><00:08:52.230><c> an</c>
+
+00:08:52.340 --> 00:08:52.350 align:start position:0%
+list do well it provides for example an
+ 
+
+00:08:52.350 --> 00:08:54.500 align:start position:0%
+list do well it provides for example an
+add<00:08:52.560><c> methods</c><00:08:53.100><c> that</c><00:08:53.550><c> adds</c><00:08:53.850><c> something</c><00:08:54.180><c> to</c><00:08:54.330><c> the</c>
+
+00:08:54.500 --> 00:08:54.510 align:start position:0%
+add methods that adds something to the
+ 
+
+00:08:54.510 --> 00:08:56.720 align:start position:0%
+add methods that adds something to the
+end<00:08:54.690><c> of</c><00:08:54.870><c> the</c><00:08:54.930><c> list</c><00:08:55.110><c> how</c><00:08:55.740><c> does</c><00:08:55.890><c> it</c><00:08:56.010><c> do</c><00:08:56.130><c> that</c><00:08:56.160><c> it</c>
+
+00:08:56.720 --> 00:08:56.730 align:start position:0%
+end of the list how does it do that it
+ 
+
+00:08:56.730 --> 00:09:00.020 align:start position:0%
+end of the list how does it do that it
+uses<00:08:57.000><c> the</c><00:08:57.330><c> add</c><00:08:57.480><c> method</c><00:08:58.280><c> and</c><00:08:59.280><c> add</c><00:08:59.460><c> something</c><00:08:59.820><c> to</c>
+
+00:09:00.020 --> 00:09:00.030 align:start position:0%
+uses the add method and add something to
+ 
+
+00:09:00.030 --> 00:09:02.030 align:start position:0%
+uses the add method and add something to
+the<00:09:00.120><c> end</c><00:09:00.150><c> of</c><00:09:00.510><c> the</c><00:09:00.570><c> list</c><00:09:00.810><c> so</c><00:09:01.350><c> it</c><00:09:01.470><c> uses</c><00:09:01.650><c> its</c><00:09:01.950><c> own</c>
+
+00:09:02.030 --> 00:09:02.040 align:start position:0%
+the end of the list so it uses its own
+ 
+
+00:09:02.040 --> 00:09:04.190 align:start position:0%
+the end of the list so it uses its own
+size<00:09:02.340><c> method</c><00:09:02.640><c> and</c><00:09:02.970><c> it</c><00:09:03.360><c> uses</c><00:09:03.510><c> the</c><00:09:03.810><c> add</c><00:09:03.930><c> method</c>
+
+00:09:04.190 --> 00:09:04.200 align:start position:0%
+size method and it uses the add method
+ 
+
+00:09:04.200 --> 00:09:06.650 align:start position:0%
+size method and it uses the add method
+that's<00:09:04.530><c> going</c><00:09:04.740><c> to</c><00:09:04.830><c> be</c><00:09:04.920><c> implemented</c><00:09:05.550><c> by</c><00:09:05.580><c> DS</c><00:09:05.910><c> so</c>
+
+00:09:06.650 --> 00:09:06.660 align:start position:0%
+that's going to be implemented by DS so
+ 
+
+00:09:06.660 --> 00:09:08.780 align:start position:0%
+that's going to be implemented by DS so
+a<00:09:06.690><c> ray</c><00:09:06.990><c> list</c><00:09:07.230><c> and</c><00:09:07.440><c> linked</c><00:09:07.650><c> list</c><00:09:07.860><c> they're</c><00:09:08.520><c> less</c>
+
+00:09:08.780 --> 00:09:08.790 align:start position:0%
+a ray list and linked list they're less
+ 
+
+00:09:08.790 --> 00:09:10.340 align:start position:0%
+a ray list and linked list they're less
+Caesar<00:09:09.060><c> this</c><00:09:09.390><c> is</c><00:09:09.510><c> a</c><00:09:09.540><c> method</c><00:09:09.810><c> that's</c><00:09:10.110><c> still</c>
+
+00:09:10.340 --> 00:09:10.350 align:start position:0%
+Caesar this is a method that's still
+ 
+
+00:09:10.350 --> 00:09:11.900 align:start position:0%
+Caesar this is a method that's still
+abstract<00:09:10.860><c> by</c><00:09:11.130><c> the</c><00:09:11.190><c> time</c><00:09:11.430><c> we</c><00:09:11.550><c> get</c><00:09:11.670><c> to</c><00:09:11.730><c> the</c>
+
+00:09:11.900 --> 00:09:11.910 align:start position:0%
+abstract by the time we get to the
+ 
+
+00:09:11.910 --> 00:09:14.270 align:start position:0%
+abstract by the time we get to the
+bottom<00:09:12.170><c> there</c><00:09:13.170><c> each</c><00:09:13.410><c> of</c><00:09:13.590><c> these</c><00:09:13.680><c> classes</c><00:09:13.920><c> has</c>
+
+00:09:14.270 --> 00:09:14.280 align:start position:0%
+bottom there each of these classes has
+ 
+
+00:09:14.280 --> 00:09:15.830 align:start position:0%
+bottom there each of these classes has
+to<00:09:14.460><c> be</c><00:09:14.550><c> able</c><00:09:14.640><c> to</c><00:09:14.790><c> implement</c><00:09:15.210><c> something</c><00:09:15.720><c> for</c>
+
+00:09:15.830 --> 00:09:15.840 align:start position:0%
+to be able to implement something for
+ 
+
+00:09:15.840 --> 00:09:18.020 align:start position:0%
+to be able to implement something for
+adding<00:09:16.140><c> to</c><00:09:16.230><c> any</c><00:09:16.440><c> position</c><00:09:16.710><c> in</c><00:09:17.010><c> the</c><00:09:17.130><c> list</c><00:09:17.310><c> but</c>
+
+00:09:18.020 --> 00:09:18.030 align:start position:0%
+adding to any position in the list but
+ 
+
+00:09:18.030 --> 00:09:19.820 align:start position:0%
+adding to any position in the list but
+if<00:09:18.150><c> you</c><00:09:18.210><c> don't</c><00:09:18.390><c> want</c><00:09:18.570><c> to</c><00:09:18.780><c> implement</c><00:09:19.590><c> the</c><00:09:19.710><c> add</c>
+
+00:09:19.820 --> 00:09:19.830 align:start position:0%
+if you don't want to implement the add
+ 
+
+00:09:19.830 --> 00:09:21.770 align:start position:0%
+if you don't want to implement the add
+to<00:09:20.010><c> the</c><00:09:20.130><c> end</c><00:09:20.280><c> of</c><00:09:20.430><c> the</c><00:09:20.490><c> list</c><00:09:20.700><c> method</c><00:09:20.880><c> that's</c>
+
+00:09:21.770 --> 00:09:21.780 align:start position:0%
+to the end of the list method that's
+ 
+
+00:09:21.780 --> 00:09:24.350 align:start position:0%
+to the end of the list method that's
+what<00:09:21.930><c> ADD</c><00:09:22.080><c> does</c><00:09:22.380><c> okay</c><00:09:22.830><c> now</c><00:09:23.760><c> one</c><00:09:23.970><c> question</c><00:09:24.300><c> you</c>
+
+00:09:24.350 --> 00:09:24.360 align:start position:0%
+what ADD does okay now one question you
+ 
+
+00:09:24.360 --> 00:09:25.730 align:start position:0%
+what ADD does okay now one question you
+might<00:09:24.390><c> ask</c><00:09:24.510><c> yourself</c><00:09:25.020><c> is</c><00:09:25.170><c> why</c><00:09:25.320><c> isn't</c><00:09:25.620><c> this</c>
+
+00:09:25.730 --> 00:09:25.740 align:start position:0%
+might ask yourself is why isn't this
+ 
+
+00:09:25.740 --> 00:09:27.770 align:start position:0%
+might ask yourself is why isn't this
+just<00:09:25.800><c> a</c><00:09:26.040><c> default</c><00:09:26.490><c> method</c><00:09:26.730><c> and</c><00:09:27.030><c> list</c><00:09:27.210><c> and</c><00:09:27.450><c> I</c>
+
+00:09:27.770 --> 00:09:27.780 align:start position:0%
+just a default method and list and I
+ 
+
+00:09:27.780 --> 00:09:29.690 align:start position:0%
+just a default method and list and I
+think<00:09:27.810><c> the</c><00:09:28.050><c> reason</c><00:09:28.350><c> is</c><00:09:28.470><c> that</c><00:09:28.500><c> the</c><00:09:29.100><c> interfaces</c>
+
+00:09:29.690 --> 00:09:29.700 align:start position:0%
+think the reason is that the interfaces
+ 
+
+00:09:29.700 --> 00:09:31.160 align:start position:0%
+think the reason is that the interfaces
+didn't<00:09:29.940><c> have</c><00:09:30.060><c> default</c><00:09:30.450><c> methods</c><00:09:30.780><c> until</c><00:09:30.900><c> two</c>
+
+00:09:31.160 --> 00:09:31.170 align:start position:0%
+didn't have default methods until two
+ 
+
+00:09:31.170 --> 00:09:33.530 align:start position:0%
+didn't have default methods until two
+years<00:09:31.200><c> ago</c><00:09:31.440><c> so</c><00:09:31.950><c> that's</c><00:09:32.220><c> probably</c><00:09:32.490><c> why</c><00:09:32.700><c> okay</c><00:09:33.300><c> an</c>
+
+00:09:33.530 --> 00:09:33.540 align:start position:0%
+years ago so that's probably why okay an
+ 
+
+00:09:33.540 --> 00:09:35.360 align:start position:0%
+years ago so that's probably why okay an
+abstract<00:09:34.260><c> list</c><00:09:34.440><c> was</c><00:09:34.590><c> public</c><00:09:34.950><c> and</c><00:09:35.100><c> we</c><00:09:35.160><c> can't</c>
+
+00:09:35.360 --> 00:09:35.370 align:start position:0%
+abstract list was public and we can't
+ 
+
+00:09:35.370 --> 00:09:35.990 align:start position:0%
+abstract list was public and we can't
+just<00:09:35.520><c> throw</c><00:09:35.640><c> it</c><00:09:35.730><c> away</c>
+
+00:09:35.990 --> 00:09:36.000 align:start position:0%
+just throw it away
+ 
+
+00:09:36.000 --> 00:09:37.070 align:start position:0%
+just throw it away
+so<00:09:36.270><c> that's</c><00:09:36.420><c> an</c><00:09:36.510><c> example</c><00:09:36.780><c> of</c><00:09:37.020><c> something</c>
+
+00:09:37.070 --> 00:09:37.080 align:start position:0%
+so that's an example of something
+ 
+
+00:09:37.080 --> 00:09:39.170 align:start position:0%
+so that's an example of something
+abstract<00:09:37.560><c> lists</c><00:09:38.010><c> we're</c><00:09:38.130><c> good</c><00:09:38.280><c> for</c><00:09:38.460><c> now</c><00:09:39.060><c> it's</c>
+
+00:09:39.170 --> 00:09:39.180 align:start position:0%
+abstract lists we're good for now it's
+ 
+
+00:09:39.180 --> 00:09:40.970 align:start position:0%
+abstract lists we're good for now it's
+actually<00:09:39.420><c> even</c><00:09:39.540><c> a</c><00:09:39.630><c> little</c><00:09:39.750><c> more</c><00:09:39.840><c> messy</c><00:09:40.170><c> this</c>
+
+00:09:40.970 --> 00:09:40.980 align:start position:0%
+actually even a little more messy this
+ 
+
+00:09:40.980 --> 00:09:42.650 align:start position:0%
+actually even a little more messy this
+is<00:09:41.130><c> more</c><00:09:41.430><c> of</c><00:09:41.580><c> what</c><00:09:41.610><c> the</c><00:09:41.820><c> real</c><00:09:41.970><c> list</c><00:09:42.150><c> hierarchy</c>
+
+00:09:42.650 --> 00:09:42.660 align:start position:0%
+is more of what the real list hierarchy
+ 
+
+00:09:42.660 --> 00:09:44.570 align:start position:0%
+is more of what the real list hierarchy
+looks<00:09:42.780><c> like</c><00:09:43.020><c> in</c><00:09:43.230><c> reality</c><00:09:43.710><c> linked</c><00:09:44.250><c> lists</c>
+
+00:09:44.570 --> 00:09:44.580 align:start position:0%
+looks like in reality linked lists
+ 
+
+00:09:44.580 --> 00:09:46.550 align:start position:0%
+looks like in reality linked lists
+extends<00:09:45.330><c> abstract</c><00:09:45.780><c> sequential</c><00:09:46.200><c> lists</c><00:09:46.380><c> and</c>
+
+00:09:46.550 --> 00:09:46.560 align:start position:0%
+extends abstract sequential lists and
+ 
+
+00:09:46.560 --> 00:09:47.930 align:start position:0%
+extends abstract sequential lists and
+that<00:09:46.620><c> actually</c><00:09:46.950><c> extends</c><00:09:47.280><c> that</c><00:09:47.430><c> exact</c><00:09:47.730><c> list</c>
+
+00:09:47.930 --> 00:09:47.940 align:start position:0%
+that actually extends that exact list
+ 
+
+00:09:47.940 --> 00:09:49.760 align:start position:0%
+that actually extends that exact list
+which<00:09:48.150><c> extends</c><00:09:48.570><c> abstract</c><00:09:48.960><c> collection</c><00:09:49.320><c> which</c>
+
+00:09:49.760 --> 00:09:49.770 align:start position:0%
+which extends abstract collection which
+ 
+
+00:09:49.770 --> 00:09:51.920 align:start position:0%
+which extends abstract collection which
+in<00:09:49.950><c> turn</c><00:09:50.100><c> influenced</c><00:09:50.640><c> and</c><00:09:50.850><c> collection</c><00:09:51.480><c> okay</c>
+
+00:09:51.920 --> 00:09:51.930 align:start position:0%
+in turn influenced and collection okay
+ 
+
+00:09:51.930 --> 00:09:53.900 align:start position:0%
+in turn influenced and collection okay
+and<00:09:52.860><c> if</c><00:09:52.950><c> you</c><00:09:53.040><c> want</c><00:09:53.220><c> you</c><00:09:53.340><c> can</c><00:09:53.430><c> browse</c><00:09:53.670><c> the</c>
+
+00:09:53.900 --> 00:09:53.910 align:start position:0%
+and if you want you can browse the
+ 
+
+00:09:53.910 --> 00:09:55.460 align:start position:0%
+and if you want you can browse the
+source<00:09:54.120><c> code</c><00:09:54.330><c> we</c><00:09:54.780><c> won't</c><00:09:54.990><c> really</c><00:09:55.110><c> care</c><00:09:55.380><c> about</c>
+
+00:09:55.460 --> 00:09:55.470 align:start position:0%
+source code we won't really care about
+ 
+
+00:09:55.470 --> 00:09:56.990 align:start position:0%
+source code we won't really care about
+this<00:09:55.740><c> but</c><00:09:55.980><c> actually</c><00:09:56.250><c> I</c><00:09:56.310><c> lied</c><00:09:56.490><c> this</c><00:09:56.730><c> is</c><00:09:56.880><c> the</c>
+
+00:09:56.990 --> 00:09:57.000 align:start position:0%
+this but actually I lied this is the
+ 
+
+00:09:57.000 --> 00:09:59.000 align:start position:0%
+this but actually I lied this is the
+real<00:09:57.210><c> true</c><00:09:58.020><c> hierarchy</c>
+
+00:09:59.000 --> 00:09:59.010 align:start position:0%
+real true hierarchy
+ 
+
+00:09:59.010 --> 00:10:01.130 align:start position:0%
+real true hierarchy
+links<00:09:59.730><c> list</c><00:09:59.790><c> that</c><00:10:00.090><c> is</c><00:10:00.300><c> fun</c><00:10:00.600><c> to</c><00:10:00.630><c> try</c><00:10:00.900><c> and</c><00:10:01.020><c> lay</c>
+
+00:10:01.130 --> 00:10:01.140 align:start position:0%
+links list that is fun to try and lay
+ 
+
+00:10:01.140 --> 00:10:04.190 align:start position:0%
+links list that is fun to try and lay
+out<00:10:01.290><c> yesterday</c><00:10:01.830><c> by</c><00:10:01.980><c> the</c><00:10:02.040><c> way</c><00:10:02.780><c> it's</c><00:10:03.780><c> just</c><00:10:03.870><c> real</c>
+
+00:10:04.190 --> 00:10:04.200 align:start position:0%
+out yesterday by the way it's just real
+ 
+
+00:10:04.200 --> 00:10:05.870 align:start position:0%
+out yesterday by the way it's just real
+weird<00:10:04.410><c> like</c><00:10:04.650><c> abstract</c><00:10:04.980><c> collection</c><00:10:05.640><c> that</c>
+
+00:10:05.870 --> 00:10:05.880 align:start position:0%
+weird like abstract collection that
+ 
+
+00:10:05.880 --> 00:10:07.820 align:start position:0%
+weird like abstract collection that
+implements<00:10:06.390><c> list</c><00:10:06.600><c> but</c><00:10:06.840><c> list</c><00:10:07.020><c> also</c><00:10:07.260><c> extends</c>
+
+00:10:07.820 --> 00:10:07.830 align:start position:0%
+implements list but list also extends
+ 
+
+00:10:07.830 --> 00:10:09.290 align:start position:0%
+implements list but list also extends
+collection<00:10:08.340><c> and</c><00:10:08.460><c> abstract</c><00:10:08.850><c> collection</c>
+
+00:10:09.290 --> 00:10:09.300 align:start position:0%
+collection and abstract collection
+ 
+
+00:10:09.300 --> 00:10:11.300 align:start position:0%
+collection and abstract collection
+extends<00:10:09.690><c> collection</c><00:10:10.170><c> and</c><00:10:10.380><c> you</c><00:10:10.950><c> know</c><00:10:11.100><c> if</c>
+
+00:10:11.300 --> 00:10:11.310 align:start position:0%
+extends collection and you know if
+ 
+
+00:10:11.310 --> 00:10:12.680 align:start position:0%
+extends collection and you know if
+you're<00:10:11.580><c> excited</c><00:10:11.940><c> about</c><00:10:12.120><c> these</c><00:10:12.300><c> things</c><00:10:12.570><c> you</c>
+
+00:10:12.680 --> 00:10:12.690 align:start position:0%
+you're excited about these things you
+ 
+
+00:10:12.690 --> 00:10:14.960 align:start position:0%
+you're excited about these things you
+can<00:10:12.840><c> read</c><00:10:12.990><c> about</c><00:10:13.170><c> them</c><00:10:13.380><c> later</c><00:10:13.590><c> okay</c><00:10:13.940><c> but</c><00:10:14.940><c> I</c>
+
+00:10:14.960 --> 00:10:14.970 align:start position:0%
+can read about them later okay but I
+ 
+
+00:10:14.970 --> 00:10:16.520 align:start position:0%
+can read about them later okay but I
+just<00:10:15.180><c> wanted</c><00:10:15.390><c> to</c><00:10:15.480><c> let</c><00:10:15.600><c> you</c><00:10:15.720><c> know</c><00:10:15.750><c> basically</c>
+
+00:10:16.520 --> 00:10:16.530 align:start position:0%
+just wanted to let you know basically
+ 
+
+00:10:16.530 --> 00:10:18.590 align:start position:0%
+just wanted to let you know basically
+abstract<00:10:17.100><c> classes</c><00:10:17.310><c> work</c><00:10:17.730><c> because</c><00:10:18.360><c> you're</c>
+
+00:10:18.590 --> 00:10:18.600 align:start position:0%
+abstract classes work because you're
+ 
+
+00:10:18.600 --> 00:10:19.730 align:start position:0%
+abstract classes work because you're
+likely<00:10:18.780><c> to</c><00:10:18.930><c> see</c><00:10:19.140><c> them</c><00:10:19.290><c> when</c><00:10:19.350><c> you</c><00:10:19.470><c> look</c><00:10:19.590><c> at</c>
+
+00:10:19.730 --> 00:10:19.740 align:start position:0%
+likely to see them when you look at
+ 
+
+00:10:19.740 --> 00:10:21.500 align:start position:0%
+likely to see them when you look at
+documentation<00:10:20.550><c> but</c><00:10:20.970><c> you</c><00:10:21.090><c> probably</c><00:10:21.360><c> won't</c>
+
+00:10:21.500 --> 00:10:21.510 align:start position:0%
+documentation but you probably won't
+ 
+
+00:10:21.510 --> 00:10:22.850 align:start position:0%
+documentation but you probably won't
+need<00:10:21.810><c> to</c><00:10:21.960><c> write</c><00:10:22.140><c> me</c><00:10:22.260><c> abstract</c><00:10:22.650><c> classes</c>
+
+00:10:22.850 --> 00:10:22.860 align:start position:0%
+need to write me abstract classes
+ 
+
+00:10:22.860 --> 00:10:25.310 align:start position:0%
+need to write me abstract classes
+yourself
+

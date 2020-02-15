@@ -1,0 +1,1120 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.419 align:start position:0%
+ 
+now<00:00:00.840><c> as</c><00:00:00.989><c> it</c><00:00:01.140><c> happens</c><00:00:01.469><c> the</c><00:00:01.770><c> implementation</c>
+
+00:00:02.419 --> 00:00:02.429 align:start position:0%
+now as it happens the implementation
+ 
+
+00:00:02.429 --> 00:00:03.590 align:start position:0%
+now as it happens the implementation
+used<00:00:02.610><c> in</c><00:00:02.730><c> our</c><00:00:02.850><c> book</c><00:00:03.000><c> is</c><00:00:03.120><c> actually</c><00:00:03.240><c> none</c><00:00:03.570><c> of</c>
+
+00:00:03.590 --> 00:00:03.600 align:start position:0%
+used in our book is actually none of
+ 
+
+00:00:03.600 --> 00:00:06.590 align:start position:0%
+used in our book is actually none of
+these<00:00:03.810><c> we</c><00:00:04.770><c> use</c><00:00:04.799><c> a</c><00:00:04.920><c> very</c><00:00:05.609><c> similar</c><00:00:06.029><c> approach</c><00:00:06.569><c> to</c>
+
+00:00:06.590 --> 00:00:06.600 align:start position:0%
+these we use a very similar approach to
+ 
+
+00:00:06.600 --> 00:00:10.040 align:start position:0%
+these we use a very similar approach to
+three<00:00:07.290><c> called</c><00:00:08.040><c> hot</c><00:00:08.610><c> 3b</c><00:00:09.090><c> here</c><00:00:09.120><c> now</c><00:00:09.809><c> when</c><00:00:09.929><c> we</c>
+
+00:00:10.040 --> 00:00:10.050 align:start position:0%
+three called hot 3b here now when we
+ 
+
+00:00:10.050 --> 00:00:12.259 align:start position:0%
+three called hot 3b here now when we
+leave<00:00:10.230><c> one</c><00:00:10.469><c> empty</c><00:00:10.590><c> spot</c><00:00:11.010><c> at</c><00:00:11.219><c> the</c><00:00:11.340><c> front</c><00:00:11.580><c> okay</c>
+
+00:00:12.259 --> 00:00:12.269 align:start position:0%
+leave one empty spot at the front okay
+ 
+
+00:00:12.269 --> 00:00:16.279 align:start position:0%
+leave one empty spot at the front okay
+so<00:00:13.219><c> the</c><00:00:14.219><c> idea</c><00:00:14.700><c> behind</c><00:00:14.849><c> this</c><00:00:15.150><c> is</c><00:00:15.420><c> it</c><00:00:15.870><c> just</c><00:00:16.109><c> makes</c>
+
+00:00:16.279 --> 00:00:16.289 align:start position:0%
+so the idea behind this is it just makes
+ 
+
+00:00:16.289 --> 00:00:17.870 align:start position:0%
+so the idea behind this is it just makes
+the<00:00:16.470><c> computation</c><00:00:17.100><c> of</c><00:00:17.220><c> the</c><00:00:17.340><c> parents</c><00:00:17.699><c> and</c><00:00:17.789><c> the</c>
+
+00:00:17.870 --> 00:00:17.880 align:start position:0%
+the computation of the parents and the
+ 
+
+00:00:17.880 --> 00:00:20.150 align:start position:0%
+the computation of the parents and the
+children<00:00:18.060><c> a</c><00:00:18.330><c> little</c><00:00:18.359><c> nicer</c><00:00:18.930><c> and</c><00:00:19.590><c> use</c><00:00:19.830><c> a</c><00:00:19.859><c> little</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+children a little nicer and use a little
+ 
+
+00:00:20.160 --> 00:00:22.220 align:start position:0%
+children a little nicer and use a little
+extra<00:00:20.400><c> space</c><00:00:20.580><c> so</c><00:00:21.449><c> rather</c><00:00:21.630><c> than</c><00:00:21.840><c> the</c><00:00:21.930><c> parent</c>
+
+00:00:22.220 --> 00:00:22.230 align:start position:0%
+extra space so rather than the parent
+ 
+
+00:00:22.230 --> 00:00:24.019 align:start position:0%
+extra space so rather than the parent
+function<00:00:22.439><c> looking</c><00:00:22.890><c> like</c><00:00:23.039><c> this</c><00:00:23.279><c> K</c><00:00:23.580><c> minus</c><00:00:23.730><c> 1</c>
+
+00:00:24.019 --> 00:00:24.029 align:start position:0%
+function looking like this K minus 1
+ 
+
+00:00:24.029 --> 00:00:25.970 align:start position:0%
+function looking like this K minus 1
+divided<00:00:24.269><c> by</c><00:00:24.359><c> 2</c><00:00:24.480><c> in</c><00:00:24.869><c> this</c><00:00:25.260><c> approach</c><00:00:25.710><c> if</c><00:00:25.920><c> you</c>
+
+00:00:25.970 --> 00:00:25.980 align:start position:0%
+divided by 2 in this approach if you
+ 
+
+00:00:25.980 --> 00:00:27.980 align:start position:0%
+divided by 2 in this approach if you
+leave<00:00:26.310><c> an</c><00:00:26.460><c> empty</c><00:00:26.550><c> space</c><00:00:26.880><c> not</c><00:00:27.359><c> parent</c><00:00:27.689><c> is</c><00:00:27.810><c> just</c>
+
+00:00:27.980 --> 00:00:27.990 align:start position:0%
+leave an empty space not parent is just
+ 
+
+00:00:27.990 --> 00:00:29.660 align:start position:0%
+leave an empty space not parent is just
+K<00:00:28.170><c> over</c><00:00:28.380><c> 2</c><00:00:28.529><c> that's</c><00:00:28.890><c> literally</c><00:00:29.160><c> why</c><00:00:29.369><c> we</c><00:00:29.400><c> do</c><00:00:29.640><c> it</c>
+
+00:00:29.660 --> 00:00:29.670 align:start position:0%
+K over 2 that's literally why we do it
+ 
+
+00:00:29.670 --> 00:00:32.120 align:start position:0%
+K over 2 that's literally why we do it
+yeah<00:00:30.119><c> seem</c><00:00:30.570><c> a</c><00:00:30.599><c> little</c><00:00:30.750><c> silly</c><00:00:30.960><c> so</c><00:00:31.740><c> the</c><00:00:31.769><c> authors</c>
+
+00:00:32.120 --> 00:00:32.130 align:start position:0%
+yeah seem a little silly so the authors
+ 
+
+00:00:32.130 --> 00:00:34.340 align:start position:0%
+yeah seem a little silly so the authors
+of<00:00:32.160><c> the</c><00:00:32.309><c> textbook</c><00:00:32.520><c> chose</c><00:00:32.850><c> to</c><00:00:33.000><c> do</c><00:00:33.149><c> but</c><00:00:33.420><c> yeah</c><00:00:34.079><c> you</c>
+
+00:00:34.340 --> 00:00:34.350 align:start position:0%
+of the textbook chose to do but yeah you
+ 
+
+00:00:34.350 --> 00:00:35.780 align:start position:0%
+of the textbook chose to do but yeah you
+know<00:00:34.380><c> let's</c><00:00:34.620><c> make</c><00:00:34.710><c> the</c><00:00:34.829><c> math</c><00:00:34.980><c> nicer</c><00:00:35.280><c> I'm</c><00:00:35.610><c> not</c>
+
+00:00:35.780 --> 00:00:35.790 align:start position:0%
+know let's make the math nicer I'm not
+ 
+
+00:00:35.790 --> 00:00:38.330 align:start position:0%
+know let's make the math nicer I'm not
+gonna<00:00:35.880><c> complain</c><00:00:36.290><c> so</c><00:00:37.290><c> in</c><00:00:37.350><c> this</c><00:00:37.440><c> case</c><00:00:37.649><c> our</c><00:00:37.829><c> route</c>
+
+00:00:38.330 --> 00:00:38.340 align:start position:0%
+gonna complain so in this case our route
+ 
+
+00:00:38.340 --> 00:00:40.760 align:start position:0%
+gonna complain so in this case our route
+is<00:00:38.520><c> now</c><00:00:38.760><c> in</c><00:00:38.910><c> position</c><00:00:39.180><c> 1</c><00:00:39.540><c> the</c><00:00:40.230><c> children</c><00:00:40.590><c> are</c><00:00:40.680><c> in</c>
+
+00:00:40.760 --> 00:00:40.770 align:start position:0%
+is now in position 1 the children are in
+ 
+
+00:00:40.770 --> 00:00:42.139 align:start position:0%
+is now in position 1 the children are in
+2<00:00:40.890><c> and</c><00:00:41.040><c> 3</c><00:00:41.250><c> and</c><00:00:41.340><c> so</c><00:00:41.489><c> forth</c><00:00:41.520><c> so</c><00:00:41.940><c> if</c><00:00:42.000><c> we</c><00:00:42.059><c> think</c>
+
+00:00:42.139 --> 00:00:42.149 align:start position:0%
+2 and 3 and so forth so if we think
+ 
+
+00:00:42.149 --> 00:00:44.900 align:start position:0%
+2 and 3 and so forth so if we think
+about<00:00:42.239><c> parent</c><00:00:42.719><c> 6</c><00:00:43.170><c> divide</c><00:00:43.410><c> away</c><00:00:43.500><c> -</c><00:00:43.649><c> and</c><00:00:44.550><c> it's</c><00:00:44.670><c> 3</c>
+
+00:00:44.900 --> 00:00:44.910 align:start position:0%
+about parent 6 divide away - and it's 3
+ 
+
+00:00:44.910 --> 00:00:46.010 align:start position:0%
+about parent 6 divide away - and it's 3
+7<00:00:45.510><c> divided</c><00:00:45.690><c> by</c><00:00:45.719><c> 2</c>
+
+00:00:46.010 --> 00:00:46.020 align:start position:0%
+7 divided by 2
+ 
+
+00:00:46.020 --> 00:00:48.470 align:start position:0%
+7 divided by 2
+well<00:00:46.260><c> have</c><00:00:46.350><c> 3.5</c><00:00:46.770><c> rounded</c><00:00:47.219><c> ooh</c><00:00:47.340><c> down</c><00:00:47.789><c> that's</c><00:00:48.120><c> 3</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+well have 3.5 rounded ooh down that's 3
+ 
+
+00:00:48.480 --> 00:00:50.750 align:start position:0%
+well have 3.5 rounded ooh down that's 3
+also<00:00:48.600><c> ok</c><00:00:49.050><c> good</c><00:00:49.320><c> seems</c><00:00:49.739><c> to</c><00:00:49.860><c> work</c><00:00:49.980><c> and</c><00:00:50.160><c> left</c><00:00:50.579><c> and</c>
+
+00:00:50.750 --> 00:00:50.760 align:start position:0%
+also ok good seems to work and left and
+ 
+
+00:00:50.760 --> 00:00:52.670 align:start position:0%
+also ok good seems to work and left and
+right<00:00:50.879><c> child</c><00:00:51.030><c> will</c><00:00:51.239><c> be</c><00:00:51.329><c> similar</c><00:00:51.600><c> and</c><00:00:51.809><c> so</c><00:00:52.530><c> in</c>
+
+00:00:52.670 --> 00:00:52.680 align:start position:0%
+right child will be similar and so in
+ 
+
+00:00:52.680 --> 00:00:53.840 align:start position:0%
+right child will be similar and so in
+next<00:00:52.829><c> week's</c><00:00:53.100><c> lap</c><00:00:53.309><c> you'll</c><00:00:53.579><c> actually</c>
+
+00:00:53.840 --> 00:00:53.850 align:start position:0%
+next week's lap you'll actually
+ 
+
+00:00:53.850 --> 00:00:55.130 align:start position:0%
+next week's lap you'll actually
+implement<00:00:54.270><c> one</c><00:00:54.360><c> of</c><00:00:54.480><c> these</c><00:00:54.600><c> and</c><00:00:54.870><c> you</c><00:00:54.989><c> should</c>
+
+00:00:55.130 --> 00:00:55.140 align:start position:0%
+implement one of these and you should
+ 
+
+00:00:55.140 --> 00:00:56.720 align:start position:0%
+implement one of these and you should
+use<00:00:55.260><c> this</c><00:00:55.440><c> approach</c><00:00:55.739><c> in</c><00:00:55.980><c> order</c><00:00:56.250><c> to</c><00:00:56.370><c> understand</c>
+
+00:00:56.720 --> 00:00:56.730 align:start position:0%
+use this approach in order to understand
+ 
+
+00:00:56.730 --> 00:00:59.270 align:start position:0%
+use this approach in order to understand
+the<00:00:56.879><c> textbook</c><00:00:57.239><c> approach</c><00:00:57.680><c> man</c><00:00:58.680><c> just</c><00:00:59.039><c> kind</c><00:00:59.160><c> of</c><00:00:59.190><c> a</c>
+
+00:00:59.270 --> 00:00:59.280 align:start position:0%
+the textbook approach man just kind of a
+ 
+
+00:00:59.280 --> 00:01:00.799 align:start position:0%
+the textbook approach man just kind of a
+nice<00:00:59.399><c> trick</c><00:00:59.640><c> ok</c><00:01:00.030><c> it's</c><00:01:00.510><c> kind</c><00:01:00.629><c> of</c><00:01:00.660><c> like</c><00:01:00.780><c> a</c>
+
+00:01:00.799 --> 00:01:00.809 align:start position:0%
+nice trick ok it's kind of like a
+ 
+
+00:01:00.809 --> 00:01:02.450 align:start position:0%
+nice trick ok it's kind of like a
+sentinel<00:01:01.140><c> node</c><00:01:01.199><c> but</c><00:01:01.710><c> in</c><00:01:01.859><c> this</c><00:01:01.949><c> case</c><00:01:02.190><c> it</c><00:01:02.340><c> makes</c>
+
+00:01:02.450 --> 00:01:02.460 align:start position:0%
+sentinel node but in this case it makes
+ 
+
+00:01:02.460 --> 00:01:03.920 align:start position:0%
+sentinel node but in this case it makes
+them<00:01:02.670><c> actually</c><00:01:03.059><c> it</c><00:01:03.149><c> is</c><00:01:03.239><c> just</c><00:01:03.270><c> like</c><00:01:03.600><c> a</c><00:01:03.629><c> central</c>
+
+00:01:03.920 --> 00:01:03.930 align:start position:0%
+them actually it is just like a central
+ 
+
+00:01:03.930 --> 00:01:06.350 align:start position:0%
+them actually it is just like a central
+node<00:01:04.080><c> it</c><00:01:04.500><c> makes</c><00:01:04.710><c> the</c><00:01:04.860><c> code</c><00:01:05.010><c> nicer</c><00:01:05.430><c> it</c><00:01:06.000><c> cost</c><00:01:06.210><c> you</c>
+
+00:01:06.350 --> 00:01:06.360 align:start position:0%
+node it makes the code nicer it cost you
+ 
+
+00:01:06.360 --> 00:01:09.800 align:start position:0%
+node it makes the code nicer it cost you
+just<00:01:06.600><c> a</c><00:01:06.659><c> little</c><00:01:06.810><c> bit</c><00:01:06.990><c> of</c><00:01:07.080><c> space</c><00:01:07.229><c> ok</c><00:01:08.810><c> our</c>
+
+00:01:09.800 --> 00:01:09.810 align:start position:0%
+just a little bit of space ok our
+ 
+
+00:01:09.810 --> 00:01:14.270 align:start position:0%
+just a little bit of space ok our
+message<00:01:09.990><c> okay</c><00:01:11.689><c> so</c><00:01:12.689><c> let's</c><00:01:13.619><c> now</c><00:01:13.740><c> summarize</c><00:01:14.100><c> what</c>
+
+00:01:14.270 --> 00:01:14.280 align:start position:0%
+message okay so let's now summarize what
+ 
+
+00:01:14.280 --> 00:01:18.109 align:start position:0%
+message okay so let's now summarize what
+we<00:01:14.369><c> know</c><00:01:15.320><c> what</c><00:01:16.320><c> we</c><00:01:16.350><c> have</c><00:01:16.470><c> here</c><00:01:16.890><c> is</c><00:01:17.040><c> all</c><00:01:17.729><c> of</c><00:01:17.790><c> the</c>
+
+00:01:18.109 --> 00:01:18.119 align:start position:0%
+we know what we have here is all of the
+ 
+
+00:01:18.119 --> 00:01:19.700 align:start position:0%
+we know what we have here is all of the
+different<00:01:18.420><c> implementations</c><00:01:19.049><c> that</c><00:01:19.470><c> we</c><00:01:19.560><c> knew</c>
+
+00:01:19.700 --> 00:01:19.710 align:start position:0%
+different implementations that we knew
+ 
+
+00:01:19.710 --> 00:01:21.410 align:start position:0%
+different implementations that we knew
+about<00:01:19.740><c> before</c><00:01:20.100><c> we</c><00:01:20.670><c> could</c><00:01:20.820><c> have</c><00:01:20.909><c> imagined</c>
+
+00:01:21.410 --> 00:01:21.420 align:start position:0%
+about before we could have imagined
+ 
+
+00:01:21.420 --> 00:01:23.719 align:start position:0%
+about before we could have imagined
+here's<00:01:21.780><c> any</c><00:01:21.960><c> one</c><00:01:22.110><c> heap</c><00:01:22.350><c> so</c><00:01:23.280><c> if</c><00:01:23.340><c> we</c><00:01:23.400><c> compare</c><00:01:23.670><c> it</c>
+
+00:01:23.719 --> 00:01:23.729 align:start position:0%
+here's any one heap so if we compare it
+ 
+
+00:01:23.729 --> 00:01:24.890 align:start position:0%
+here's any one heap so if we compare it
+to<00:01:23.850><c> the</c><00:01:23.970><c> others</c><00:01:24.210><c> we</c><00:01:24.420><c> could</c><00:01:24.509><c> see</c><00:01:24.630><c> that</c><00:01:24.750><c> has</c>
+
+00:01:24.890 --> 00:01:24.900 align:start position:0%
+to the others we could see that has
+ 
+
+00:01:24.900 --> 00:01:27.140 align:start position:0%
+to the others we could see that has
+great<00:01:25.170><c> performance</c><00:01:25.350><c> but</c><00:01:26.310><c> unlike</c><00:01:26.790><c> the</c><00:01:26.970><c> bushy</c>
+
+00:01:27.140 --> 00:01:27.150 align:start position:0%
+great performance but unlike the bushy
+ 
+
+00:01:27.150 --> 00:01:29.240 align:start position:0%
+great performance but unlike the bushy
+binary<00:01:27.540><c> search</c><00:01:27.720><c> tree</c><00:01:27.990><c> items</c><00:01:28.680><c> that</c><00:01:28.920><c> have</c><00:01:29.040><c> the</c>
+
+00:01:29.240 --> 00:01:29.250 align:start position:0%
+binary search tree items that have the
+ 
+
+00:01:29.250 --> 00:01:31.490 align:start position:0%
+binary search tree items that have the
+same<00:01:29.490><c> priority</c><00:01:30.299><c> are</c><00:01:30.689><c> hard</c><00:01:30.900><c> to</c><00:01:30.990><c> handle</c><00:01:31.110><c> no</c>
+
+00:01:31.490 --> 00:01:31.500 align:start position:0%
+same priority are hard to handle no
+ 
+
+00:01:31.500 --> 00:01:32.480 align:start position:0%
+same priority are hard to handle no
+priority
+
+00:01:32.480 --> 00:01:32.490 align:start position:0%
+priority
+ 
+
+00:01:32.490 --> 00:01:34.010 align:start position:0%
+priority
+what<00:01:32.640><c> ok</c><00:01:33.240><c> well</c><00:01:33.390><c> this</c><00:01:33.450><c> brings</c><00:01:33.600><c> us</c><00:01:33.810><c> to</c><00:01:33.930><c> an</c>
+
+00:01:34.010 --> 00:01:34.020 align:start position:0%
+what ok well this brings us to an
+ 
+
+00:01:34.020 --> 00:01:35.420 align:start position:0%
+what ok well this brings us to an
+important<00:01:34.320><c> question</c><00:01:34.619><c> why</c><00:01:35.040><c> is</c><00:01:35.100><c> this</c><00:01:35.250><c> thing</c>
+
+00:01:35.420 --> 00:01:35.430 align:start position:0%
+important question why is this thing
+ 
+
+00:01:35.430 --> 00:01:37.399 align:start position:0%
+important question why is this thing
+called<00:01:35.610><c> a</c><00:01:35.759><c> priority</c><00:01:36.180><c> queue</c><00:01:36.360><c> well</c><00:01:37.170><c> we</c><00:01:37.290><c> could</c>
+
+00:01:37.399 --> 00:01:37.409 align:start position:0%
+called a priority queue well we could
+ 
+
+00:01:37.409 --> 00:01:38.780 align:start position:0%
+called a priority queue well we could
+think<00:01:37.500><c> of</c><00:01:37.619><c> its</c><00:01:37.740><c> position</c><00:01:38.130><c> in</c><00:01:38.220><c> the</c><00:01:38.310><c> tree</c><00:01:38.490><c> as</c><00:01:38.610><c> its</c>
+
+00:01:38.780 --> 00:01:38.790 align:start position:0%
+think of its position in the tree as its
+ 
+
+00:01:38.790 --> 00:01:41.090 align:start position:0%
+think of its position in the tree as its
+priority<00:01:39.299><c> the</c><00:01:39.840><c> thing</c><00:01:40.079><c> that's</c><00:01:40.350><c> at</c><00:01:40.500><c> the</c><00:01:40.590><c> root</c><00:01:40.619><c> is</c>
+
+00:01:41.090 --> 00:01:41.100 align:start position:0%
+priority the thing that's at the root is
+ 
+
+00:01:41.100 --> 00:01:43.219 align:start position:0%
+priority the thing that's at the root is
+the<00:01:41.400><c> highest</c><00:01:41.820><c> priority</c><00:01:42.119><c> item</c><00:01:42.720><c> it's</c><00:01:42.899><c> the</c><00:01:43.020><c> thing</c>
+
+00:01:43.219 --> 00:01:43.229 align:start position:0%
+the highest priority item it's the thing
+ 
+
+00:01:43.229 --> 00:01:44.359 align:start position:0%
+the highest priority item it's the thing
+that<00:01:43.409><c> is</c><00:01:43.500><c> going</c><00:01:43.680><c> to</c><00:01:43.829><c> come</c><00:01:44.009><c> out</c><00:01:44.130><c> of</c><00:01:44.280><c> the</c>
+
+00:01:44.359 --> 00:01:44.369 align:start position:0%
+that is going to come out of the
+ 
+
+00:01:44.369 --> 00:01:46.370 align:start position:0%
+that is going to come out of the
+priority<00:01:44.790><c> queue</c><00:01:45.000><c> as</c><00:01:45.149><c> soon</c><00:01:45.329><c> as</c><00:01:45.450><c> possible</c><00:01:45.899><c> so</c><00:01:46.320><c> if</c>
+
+00:01:46.370 --> 00:01:46.380 align:start position:0%
+priority queue as soon as possible so if
+ 
+
+00:01:46.380 --> 00:01:47.929 align:start position:0%
+priority queue as soon as possible so if
+we<00:01:46.439><c> think</c><00:01:46.530><c> about</c><00:01:46.649><c> this</c><00:01:46.920><c> sock</c><00:01:47.189><c> it's</c><00:01:47.790><c> got</c><00:01:47.909><c> a</c>
+
+00:01:47.929 --> 00:01:47.939 align:start position:0%
+we think about this sock it's got a
+ 
+
+00:01:47.939 --> 00:01:49.460 align:start position:0%
+we think about this sock it's got a
+bunch<00:01:48.180><c> of</c><00:01:48.299><c> stuff</c><00:01:48.540><c> in</c><00:01:48.659><c> it</c><00:01:48.840><c> well</c><00:01:48.990><c> nothing</c><00:01:49.290><c> right</c>
+
+00:01:49.460 --> 00:01:49.470 align:start position:0%
+bunch of stuff in it well nothing right
+ 
+
+00:01:49.470 --> 00:01:50.630 align:start position:0%
+bunch of stuff in it well nothing right
+now<00:01:49.500><c> but</c><00:01:49.860><c> I</c><00:01:49.890><c> might</c><00:01:50.009><c> throw</c><00:01:50.100><c> a</c><00:01:50.189><c> bunch</c><00:01:50.369><c> of</c><00:01:50.460><c> stuff</c>
+
+00:01:50.630 --> 00:01:50.640 align:start position:0%
+now but I might throw a bunch of stuff
+ 
+
+00:01:50.640 --> 00:01:52.100 align:start position:0%
+now but I might throw a bunch of stuff
+in<00:01:50.729><c> it</c><00:01:50.850><c> there's</c><00:01:51.270><c> something</c><00:01:51.570><c> with</c><00:01:51.659><c> the</c><00:01:51.689><c> highest</c>
+
+00:01:52.100 --> 00:01:52.110 align:start position:0%
+in it there's something with the highest
+ 
+
+00:01:52.110 --> 00:01:53.749 align:start position:0%
+in it there's something with the highest
+priority<00:01:52.619><c> it's</c><00:01:52.890><c> gonna</c><00:01:52.979><c> come</c><00:01:53.220><c> out</c><00:01:53.340><c> of</c><00:01:53.369><c> there</c><00:01:53.549><c> as</c>
+
+00:01:53.749 --> 00:01:53.759 align:start position:0%
+priority it's gonna come out of there as
+ 
+
+00:01:53.759 --> 00:01:55.639 align:start position:0%
+priority it's gonna come out of there as
+soon<00:01:53.970><c> as</c><00:01:54.090><c> possible</c><00:01:54.149><c> so</c><00:01:55.049><c> it's</c><00:01:55.170><c> like</c><00:01:55.290><c> a</c><00:01:55.320><c> queue</c>
+
+00:01:55.639 --> 00:01:55.649 align:start position:0%
+soon as possible so it's like a queue
+ 
+
+00:01:55.649 --> 00:01:57.410 align:start position:0%
+soon as possible so it's like a queue
+where<00:01:56.189><c> some</c><00:01:56.430><c> people</c><00:01:56.549><c> are</c><00:01:56.759><c> more</c><00:01:57.000><c> important</c>
+
+00:01:57.410 --> 00:01:57.420 align:start position:0%
+where some people are more important
+ 
+
+00:01:57.420 --> 00:01:59.980 align:start position:0%
+where some people are more important
+than<00:01:57.659><c> others</c><00:01:57.899><c> so</c><00:01:58.290><c> this</c><00:01:58.439><c> is</c><00:01:58.619><c> not</c><00:01:58.740><c> a</c><00:01:59.369><c> very</c>
+
+00:01:59.980 --> 00:01:59.990 align:start position:0%
+than others so this is not a very
+ 
+
+00:01:59.990 --> 00:02:03.620 align:start position:0%
+than others so this is not a very
+egalitarian<00:02:00.990><c> data</c><00:02:01.590><c> structure</c><00:02:02.180><c> so</c><00:02:03.180><c> if</c><00:02:03.420><c> you</c>
+
+00:02:03.620 --> 00:02:03.630 align:start position:0%
+egalitarian data structure so if you
+ 
+
+00:02:03.630 --> 00:02:06.050 align:start position:0%
+egalitarian data structure so if you
+have<00:02:03.840><c> multiple</c><00:02:04.740><c> items</c><00:02:04.890><c> of</c><00:02:05.250><c> the</c><00:02:05.340><c> same</c><00:02:05.549><c> priority</c>
+
+00:02:06.050 --> 00:02:06.060 align:start position:0%
+have multiple items of the same priority
+ 
+
+00:02:06.060 --> 00:02:07.340 align:start position:0%
+have multiple items of the same priority
+let's<00:02:06.270><c> say</c><00:02:06.360><c> you're</c><00:02:06.479><c> monitoring</c><00:02:06.930><c> the</c><00:02:07.079><c> text</c>
+
+00:02:07.340 --> 00:02:07.350 align:start position:0%
+let's say you're monitoring the text
+ 
+
+00:02:07.350 --> 00:02:09.290 align:start position:0%
+let's say you're monitoring the text
+messages<00:02:07.770><c> you're</c><00:02:07.890><c> citizenry</c><00:02:08.459><c> and</c><00:02:08.610><c> two</c><00:02:09.030><c> people</c>
+
+00:02:09.290 --> 00:02:09.300 align:start position:0%
+messages you're citizenry and two people
+ 
+
+00:02:09.300 --> 00:02:11.449 align:start position:0%
+messages you're citizenry and two people
+write<00:02:09.479><c> to</c><00:02:09.810><c> two</c><00:02:10.259><c> people</c><00:02:10.470><c> right</c><00:02:11.069><c> equally</c>
+
+00:02:11.449 --> 00:02:11.459 align:start position:0%
+write to two people right equally
+ 
+
+00:02:11.459 --> 00:02:13.070 align:start position:0%
+write to two people right equally
+seditious<00:02:12.060><c> posts</c><00:02:12.540><c> things</c>
+
+00:02:13.070 --> 00:02:13.080 align:start position:0%
+seditious posts things
+ 
+
+00:02:13.080 --> 00:02:14.690 align:start position:0%
+seditious posts things
+we<00:02:13.170><c> don't</c><00:02:13.380><c> approve</c><00:02:13.650><c> of</c><00:02:13.860><c> that</c><00:02:14.070><c> our</c><00:02:14.520><c> bushy</c>
+
+00:02:14.690 --> 00:02:14.700 align:start position:0%
+we don't approve of that our bushy
+ 
+
+00:02:14.700 --> 00:02:16.310 align:start position:0%
+we don't approve of that our bushy
+binary<00:02:15.120><c> search</c><00:02:15.360><c> tree</c><00:02:15.660><c> approach</c><00:02:15.960><c> will</c><00:02:16.200><c> get</c>
+
+00:02:16.310 --> 00:02:16.320 align:start position:0%
+binary search tree approach will get
+ 
+
+00:02:16.320 --> 00:02:18.980 align:start position:0%
+binary search tree approach will get
+confused<00:02:16.800><c> however</c><00:02:17.370><c> a</c><00:02:17.760><c> heap</c><00:02:18.090><c> very</c><00:02:18.450><c> naturally</c>
+
+00:02:18.980 --> 00:02:18.990 align:start position:0%
+confused however a heap very naturally
+ 
+
+00:02:18.990 --> 00:02:21.620 align:start position:0%
+confused however a heap very naturally
+handles<00:02:19.380><c> items</c><00:02:20.370><c> with</c><00:02:20.580><c> the</c><00:02:20.700><c> same</c><00:02:20.850><c> priority</c><00:02:21.330><c> for</c>
+
+00:02:21.620 --> 00:02:21.630 align:start position:0%
+handles items with the same priority for
+ 
+
+00:02:21.630 --> 00:02:25.670 align:start position:0%
+handles items with the same priority for
+example<00:02:22.020><c> an</c><00:02:22.170><c> array</c><00:02:22.470><c> of</c><00:02:22.500><c> all</c><00:02:22.710><c> aims</c><00:02:23.090><c> now</c><00:02:24.090><c> the</c><00:02:24.680><c> now</c>
+
+00:02:25.670 --> 00:02:25.680 align:start position:0%
+example an array of all aims now the now
+ 
+
+00:02:25.680 --> 00:02:27.290 align:start position:0%
+example an array of all aims now the now
+I'll<00:02:25.830><c> note</c><00:02:26.010><c> actually</c><00:02:26.370><c> that</c><00:02:26.490><c> these</c><00:02:26.700><c> approaches</c>
+
+00:02:27.290 --> 00:02:27.300 align:start position:0%
+I'll note actually that these approaches
+ 
+
+00:02:27.300 --> 00:02:29.720 align:start position:0%
+I'll note actually that these approaches
+here<00:02:27.510><c> these</c><00:02:28.050><c> runtimes</c><00:02:28.530><c> are</c><00:02:29.010><c> actually</c><00:02:29.430><c> I'll</c>
+
+00:02:29.720 --> 00:02:29.730 align:start position:0%
+here these runtimes are actually I'll
+ 
+
+00:02:29.730 --> 00:02:33.110 align:start position:0%
+here these runtimes are actually I'll
+log<00:02:30.090><c> in</c><00:02:30.120><c> at</c><00:02:30.540><c> least</c><00:02:30.660><c> cheese</c><00:02:31.410><c> add</c><00:02:31.920><c> this</c><00:02:32.670><c> log</c><00:02:32.910><c> in</c>
+
+00:02:33.110 --> 00:02:33.120 align:start position:0%
+log in at least cheese add this log in
+ 
+
+00:02:33.120 --> 00:02:35.780 align:start position:0%
+log in at least cheese add this log in
+here<00:02:33.360><c> is</c><00:02:33.510><c> amortized</c><00:02:34.460><c> because</c><00:02:35.460><c> sometimes</c>
+
+00:02:35.780 --> 00:02:35.790 align:start position:0%
+here is amortized because sometimes
+ 
+
+00:02:35.790 --> 00:02:38.480 align:start position:0%
+here is amortized because sometimes
+we'll<00:02:35.910><c> have</c><00:02:36.000><c> resizes</c><00:02:36.570><c> so</c><00:02:37.290><c> if</c><00:02:37.830><c> we</c><00:02:37.980><c> added</c><00:02:38.430><c> a</c>
+
+00:02:38.480 --> 00:02:38.490 align:start position:0%
+we'll have resizes so if we added a
+ 
+
+00:02:38.490 --> 00:02:38.960 align:start position:0%
+we'll have resizes so if we added a
+bunch<00:02:38.640><c> of</c><00:02:38.730><c> stuff</c>
+
+00:02:38.960 --> 00:02:38.970 align:start position:0%
+bunch of stuff
+ 
+
+00:02:38.970 --> 00:02:40.340 align:start position:0%
+bunch of stuff
+there'll<00:02:39.420><c> be</c><00:02:39.450><c> the</c><00:02:39.600><c> occasional</c><00:02:40.140><c> heap</c>
+
+00:02:40.340 --> 00:02:40.350 align:start position:0%
+there'll be the occasional heap
+ 
+
+00:02:40.350 --> 00:02:42.140 align:start position:0%
+there'll be the occasional heap
+operation<00:02:40.920><c> where</c><00:02:41.100><c> we</c><00:02:41.220><c> need</c><00:02:41.370><c> to</c><00:02:41.400><c> resize</c><00:02:41.910><c> our</c>
+
+00:02:42.140 --> 00:02:42.150 align:start position:0%
+operation where we need to resize our
+ 
+
+00:02:42.150 --> 00:02:44.140 align:start position:0%
+operation where we need to resize our
+backing<00:02:42.480><c> array</c><00:02:42.690><c> and</c><00:02:43.200><c> that's</c><00:02:43.410><c> no</c><00:02:43.530><c> big</c><00:02:43.710><c> deal</c>
+
+00:02:44.140 --> 00:02:44.150 align:start position:0%
+backing array and that's no big deal
+ 
+
+00:02:44.150 --> 00:02:47.120 align:start position:0%
+backing array and that's no big deal
+the<00:02:45.150><c> binary</c><00:02:45.450><c> search</c><00:02:45.600><c> tree</c><00:02:45.900><c> as</c><00:02:46.260><c> it</c><00:02:46.380><c> happens</c><00:02:46.860><c> can</c>
+
+00:02:47.120 --> 00:02:47.130 align:start position:0%
+the binary search tree as it happens can
+ 
+
+00:02:47.130 --> 00:02:48.710 align:start position:0%
+the binary search tree as it happens can
+have<00:02:47.280><c> a</c><00:02:47.340><c> constant</c><00:02:47.700><c> get</c><00:02:48.000><c> smallest</c><00:02:48.420><c> you</c><00:02:48.570><c> can</c>
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+have a constant get smallest you can
+ 
+
+00:02:48.720 --> 00:02:50.480 align:start position:0%
+have a constant get smallest you can
+modify<00:02:49.020><c> this</c><00:02:49.170><c> if</c><00:02:49.530><c> you</c><00:02:49.650><c> keep</c><00:02:49.860><c> a</c><00:02:49.980><c> pointer</c><00:02:50.280><c> to</c><00:02:50.310><c> the</c>
+
+00:02:50.480 --> 00:02:50.490 align:start position:0%
+modify this if you keep a pointer to the
+ 
+
+00:02:50.490 --> 00:02:51.800 align:start position:0%
+modify this if you keep a pointer to the
+smallest<00:02:50.820><c> so</c><00:02:50.910><c> you</c><00:02:50.970><c> can</c><00:02:51.090><c> modify</c><00:02:51.360><c> it</c><00:02:51.510><c> if</c><00:02:51.690><c> you'd</c>
+
+00:02:51.800 --> 00:02:51.810 align:start position:0%
+smallest so you can modify it if you'd
+ 
+
+00:02:51.810 --> 00:02:53.470 align:start position:0%
+smallest so you can modify it if you'd
+like<00:02:51.990><c> but</c><00:02:52.410><c> you'd</c><00:02:52.560><c> only</c><00:02:52.680><c> get</c><00:02:52.860><c> much</c><00:02:53.010><c> out</c><00:02:53.160><c> of</c><00:02:53.220><c> it</c>
+
+00:02:53.470 --> 00:02:53.480 align:start position:0%
+like but you'd only get much out of it
+ 
+
+00:02:53.480 --> 00:02:57.110 align:start position:0%
+like but you'd only get much out of it
+I'll<00:02:54.480><c> mention</c><00:02:54.720><c> also</c><00:02:55.020><c> that</c><00:02:55.610><c> array</c><00:02:56.610><c> based</c><00:02:56.790><c> heaps</c>
+
+00:02:57.110 --> 00:02:57.120 align:start position:0%
+I'll mention also that array based heaps
+ 
+
+00:02:57.120 --> 00:02:59.120 align:start position:0%
+I'll mention also that array based heaps
+they<00:02:57.510><c> take</c><00:02:57.690><c> a</c><00:02:57.720><c> lot</c><00:02:57.990><c> less</c><00:02:58.170><c> memory</c><00:02:58.560><c> only</c><00:02:58.740><c> about</c><00:02:59.100><c> a</c>
+
+00:02:59.120 --> 00:02:59.130 align:start position:0%
+they take a lot less memory only about a
+ 
+
+00:02:59.130 --> 00:03:01.310 align:start position:0%
+they take a lot less memory only about a
+third<00:02:59.430><c> of</c><00:02:59.459><c> the</c><00:02:59.700><c> memory</c><00:03:00.000><c> as</c><00:03:00.600><c> if</c><00:03:00.900><c> we</c><00:03:01.020><c> tried</c><00:03:01.230><c> to</c>
+
+00:03:01.310 --> 00:03:01.320 align:start position:0%
+third of the memory as if we tried to
+ 
+
+00:03:01.320 --> 00:03:03.080 align:start position:0%
+third of the memory as if we tried to
+represent<00:03:01.770><c> our</c><00:03:01.860><c> heap</c><00:03:02.010><c> with</c><00:03:02.220><c> approach</c><00:03:02.490><c> 1a</c><00:03:02.730><c> but</c>
+
+00:03:03.080 --> 00:03:03.090 align:start position:0%
+represent our heap with approach 1a but
+ 
+
+00:03:03.090 --> 00:03:04.580 align:start position:0%
+represent our heap with approach 1a but
+you<00:03:03.180><c> could</c><00:03:03.330><c> do</c><00:03:03.450><c> any</c><00:03:03.600><c> of</c><00:03:03.750><c> these</c><00:03:03.840><c> like</c><00:03:04.080><c> any</c><00:03:04.470><c> of</c>
+
+00:03:04.580 --> 00:03:04.590 align:start position:0%
+you could do any of these like any of
+ 
+
+00:03:04.590 --> 00:03:06.710 align:start position:0%
+you could do any of these like any of
+these<00:03:04.680><c> approaches</c><00:03:05.160><c> here</c><00:03:05.370><c> will</c><00:03:05.550><c> work</c><00:03:05.790><c> but</c><00:03:06.570><c> this</c>
+
+00:03:06.710 --> 00:03:06.720 align:start position:0%
+these approaches here will work but this
+ 
+
+00:03:06.720 --> 00:03:07.790 align:start position:0%
+these approaches here will work but this
+is<00:03:06.870><c> the</c><00:03:06.959><c> one</c><00:03:07.080><c> that</c><00:03:07.200><c> we've</c><00:03:07.290><c> chosen</c><00:03:07.500><c> to</c><00:03:07.770><c> use</c>
+
+00:03:07.790 --> 00:03:07.800 align:start position:0%
+is the one that we've chosen to use
+ 
+
+00:03:07.800 --> 00:03:10.070 align:start position:0%
+is the one that we've chosen to use
+because<00:03:08.340><c> it</c><00:03:08.580><c> uses</c><00:03:08.730><c> less</c><00:03:08.880><c> memory</c><00:03:09.150><c> it's</c><00:03:09.630><c> faster</c>
+
+00:03:10.070 --> 00:03:10.080 align:start position:0%
+because it uses less memory it's faster
+ 
+
+00:03:10.080 --> 00:03:12.230 align:start position:0%
+because it uses less memory it's faster
+and<00:03:10.230><c> ultimately</c><00:03:10.800><c> has</c><00:03:11.010><c> this</c><00:03:11.459><c> really</c><00:03:11.850><c> simple</c>
+
+00:03:12.230 --> 00:03:12.240 align:start position:0%
+and ultimately has this really simple
+ 
+
+00:03:12.240 --> 00:03:16.040 align:start position:0%
+and ultimately has this really simple
+code<00:03:12.420><c> okay</c><00:03:13.160><c> and</c><00:03:14.160><c> just</c><00:03:14.190><c> as</c><00:03:14.730><c> a</c><00:03:14.760><c> follow</c><00:03:15.480><c> on</c><00:03:15.570><c> these</c>
+
+00:03:16.040 --> 00:03:16.050 align:start position:0%
+code okay and just as a follow on these
+ 
+
+00:03:16.050 --> 00:03:17.810 align:start position:0%
+code okay and just as a follow on these
+heaps<00:03:16.320><c> here</c><00:03:16.620><c> of</c><00:03:16.740><c> course</c><00:03:16.950><c> they</c><00:03:17.489><c> handle</c>
+
+00:03:17.810 --> 00:03:17.820 align:start position:0%
+heaps here of course they handle
+ 
+
+00:03:17.820 --> 00:03:19.160 align:start position:0%
+heaps here of course they handle
+priorities<00:03:18.269><c> naturally</c><00:03:18.660><c> as</c><00:03:18.750><c> I</c><00:03:18.840><c> said</c><00:03:19.019><c> out</c><00:03:19.140><c> loud</c>
+
+00:03:19.160 --> 00:03:19.170 align:start position:0%
+priorities naturally as I said out loud
+ 
+
+00:03:19.170 --> 00:03:20.600 align:start position:0%
+priorities naturally as I said out loud
+but<00:03:19.560><c> I</c><00:03:19.620><c> guess</c><00:03:19.800><c> I'll</c><00:03:19.920><c> highlight</c><00:03:20.070><c> this</c><00:03:20.340><c> bullet</c>
+
+00:03:20.600 --> 00:03:20.610 align:start position:0%
+but I guess I'll highlight this bullet
+ 
+
+00:03:20.610 --> 00:03:22.250 align:start position:0%
+but I guess I'll highlight this bullet
+point<00:03:20.880><c> same</c><00:03:21.209><c> deal</c><00:03:21.420><c> this</c><00:03:21.600><c> is</c><00:03:21.750><c> just</c><00:03:21.959><c> saying</c><00:03:22.110><c> the</c>
+
+00:03:22.250 --> 00:03:22.260 align:start position:0%
+point same deal this is just saying the
+ 
+
+00:03:22.260 --> 00:03:23.870 align:start position:0%
+point same deal this is just saying the
+heat<00:03:22.410><c> needs</c><00:03:22.620><c> to</c><00:03:22.739><c> have</c><00:03:22.860><c> all</c><00:03:23.070><c> bit</c><00:03:23.370><c> it</c><00:03:23.610><c> can</c><00:03:23.730><c> have</c>
+
+00:03:23.870 --> 00:03:23.880 align:start position:0%
+heat needs to have all bit it can have
+ 
+
+00:03:23.880 --> 00:03:26.840 align:start position:0%
+heat needs to have all bit it can have
+all<00:03:24.000><c> eights</c><00:03:24.239><c> and</c><00:03:24.630><c> that's</c><00:03:24.780><c> fine</c><00:03:25.580><c> so</c><00:03:26.580><c> just</c><00:03:26.790><c> a</c>
+
+00:03:26.840 --> 00:03:26.850 align:start position:0%
+all eights and that's fine so just a
+ 
+
+00:03:26.850 --> 00:03:28.310 align:start position:0%
+all eights and that's fine so just a
+couple<00:03:26.970><c> last</c><00:03:27.239><c> implementation</c><00:03:27.959><c> questions</c>
+
+00:03:28.310 --> 00:03:28.320 align:start position:0%
+couple last implementation questions
+ 
+
+00:03:28.320 --> 00:03:29.540 align:start position:0%
+couple last implementation questions
+before<00:03:28.560><c> we</c><00:03:28.590><c> move</c><00:03:28.650><c> on</c>
+
+00:03:29.540 --> 00:03:29.550 align:start position:0%
+before we move on
+ 
+
+00:03:29.550 --> 00:03:30.920 align:start position:0%
+before we move on
+how<00:03:29.880><c> does</c><00:03:30.030><c> a</c><00:03:30.060><c> priority</c><00:03:30.480><c> queue</c><00:03:30.600><c> know</c><00:03:30.780><c> how</c><00:03:30.870><c> to</c>
+
+00:03:30.920 --> 00:03:30.930 align:start position:0%
+how does a priority queue know how to
+ 
+
+00:03:30.930 --> 00:03:32.300 align:start position:0%
+how does a priority queue know how to
+determine<00:03:31.230><c> which</c><00:03:31.530><c> item</c><00:03:31.890><c> is</c><00:03:32.040><c> actually</c>
+
+00:03:32.300 --> 00:03:32.310 align:start position:0%
+determine which item is actually
+ 
+
+00:03:32.310 --> 00:03:35.360 align:start position:0%
+determine which item is actually
+literature<00:03:32.790><c> like</c><00:03:33.120><c> in</c><00:03:33.269><c> Java</c><00:03:34.070><c> so</c><00:03:35.070><c> we</c><00:03:35.190><c> look</c><00:03:35.310><c> at</c>
+
+00:03:35.360 --> 00:03:35.370 align:start position:0%
+literature like in Java so we look at
+ 
+
+00:03:35.370 --> 00:03:37.699 align:start position:0%
+literature like in Java so we look at
+the<00:03:35.489><c> code</c><00:03:35.610><c> here</c><00:03:35.959><c> what</c><00:03:36.959><c> can</c><00:03:37.080><c> we</c><00:03:37.140><c> eat</c><00:03:37.170><c> what</c><00:03:37.590><c> would</c>
+
+00:03:37.699 --> 00:03:37.709 align:start position:0%
+the code here what can we eat what would
+ 
+
+00:03:37.709 --> 00:03:38.840 align:start position:0%
+the code here what can we eat what would
+we<00:03:37.830><c> need</c><00:03:37.860><c> to</c><00:03:38.070><c> change</c><00:03:38.250><c> here</c><00:03:38.489><c> let's</c><00:03:38.670><c> imagine</c>
+
+00:03:38.840 --> 00:03:38.850 align:start position:0%
+we need to change here let's imagine
+ 
+
+00:03:38.850 --> 00:03:40.160 align:start position:0%
+we need to change here let's imagine
+that<00:03:39.030><c> we</c><00:03:39.150><c> wanted</c><00:03:39.390><c> to</c><00:03:39.480><c> have</c><00:03:39.600><c> some</c><00:03:39.780><c> default</c>
+
+00:03:40.160 --> 00:03:40.170 align:start position:0%
+that we wanted to have some default
+ 
+
+00:03:40.170 --> 00:03:42.470 align:start position:0%
+that we wanted to have some default
+comparison<00:03:40.860><c> what</c><00:03:41.730><c> we</c><00:03:41.880><c> could</c><00:03:42.030><c> do</c><00:03:42.180><c> is</c><00:03:42.360><c> actually</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+comparison what we could do is actually
+ 
+
+00:03:42.480 --> 00:03:43.940 align:start position:0%
+comparison what we could do is actually
+go<00:03:42.720><c> in</c><00:03:42.840><c> here</c><00:03:43.019><c> and</c><00:03:43.110><c> say</c><00:03:43.290><c> we</c><00:03:43.470><c> don't</c><00:03:43.590><c> just</c><00:03:43.800><c> take</c>
+
+00:03:43.940 --> 00:03:43.950 align:start position:0%
+go in here and say we don't just take
+ 
+
+00:03:43.950 --> 00:03:46.040 align:start position:0%
+go in here and say we don't just take
+any<00:03:44.130><c> item</c><00:03:44.459><c> but</c><00:03:44.760><c> we'll</c><00:03:44.880><c> only</c><00:03:44.940><c> take</c><00:03:45.239><c> items</c><00:03:45.540><c> which</c>
+
+00:03:46.040 --> 00:03:46.050 align:start position:0%
+any item but we'll only take items which
+ 
+
+00:03:46.050 --> 00:03:48.770 align:start position:0%
+any item but we'll only take items which
+extend<00:03:46.560><c> comparable</c><00:03:47.220><c> item</c><00:03:47.519><c> basically</c><00:03:48.450><c> set</c>
+
+00:03:48.770 --> 00:03:48.780 align:start position:0%
+extend comparable item basically set
+ 
+
+00:03:48.780 --> 00:03:50.840 align:start position:0%
+extend comparable item basically set
+here<00:03:48.959><c> at</c><00:03:49.080><c> type</c><00:03:49.290><c> bound</c><00:03:49.650><c> and</c><00:03:50.400><c> so</c><00:03:50.550><c> that</c><00:03:50.700><c> right</c>
+
+00:03:50.840 --> 00:03:50.850 align:start position:0%
+here at type bound and so that right
+ 
+
+00:03:50.850 --> 00:03:52.580 align:start position:0%
+here at type bound and so that right
+there<00:03:50.910><c> will</c><00:03:51.269><c> now</c><00:03:51.390><c> make</c><00:03:51.570><c> it</c><00:03:51.630><c> so</c><00:03:51.900><c> the</c><00:03:52.019><c> bin</c><00:03:52.200><c> we</c>
+
+00:03:52.580 --> 00:03:52.590 align:start position:0%
+there will now make it so the bin we
+ 
+
+00:03:52.590 --> 00:03:54.020 align:start position:0%
+there will now make it so the bin we
+could<00:03:52.709><c> only</c><00:03:52.890><c> use</c><00:03:53.100><c> our</c><00:03:53.400><c> priority</c><00:03:53.760><c> queue</c><00:03:53.940><c> with</c>
+
+00:03:54.020 --> 00:03:54.030 align:start position:0%
+could only use our priority queue with
+ 
+
+00:03:54.030 --> 00:03:55.460 align:start position:0%
+could only use our priority queue with
+comparable<00:03:54.420><c> items</c><00:03:54.780><c> and</c><00:03:54.959><c> there'll</c><00:03:55.350><c> be</c><00:03:55.380><c> a</c>
+
+00:03:55.460 --> 00:03:55.470 align:start position:0%
+comparable items and there'll be a
+ 
+
+00:03:55.470 --> 00:03:58.220 align:start position:0%
+comparable items and there'll be a
+default<00:03:55.830><c> behavior</c><00:03:56.310><c> as</c><00:03:57.239><c> we</c><00:03:57.510><c> did</c><00:03:57.660><c> earlier</c><00:03:57.690><c> and</c>
+
+00:03:58.220 --> 00:03:58.230 align:start position:0%
+default behavior as we did earlier and
+ 
+
+00:03:58.230 --> 00:04:00.259 align:start position:0%
+default behavior as we did earlier and
+you<00:03:58.320><c> could</c><00:03:58.440><c> do</c><00:03:58.530><c> that</c><00:03:58.650><c> or</c><00:03:58.709><c> not</c><00:03:58.880><c> but</c><00:03:59.880><c> as</c><00:04:00.000><c> we</c><00:04:00.120><c> did</c>
+
+00:04:00.259 --> 00:04:00.269 align:start position:0%
+you could do that or not but as we did
+ 
+
+00:04:00.269 --> 00:04:02.060 align:start position:0%
+you could do that or not but as we did
+earlier<00:04:00.540><c> we</c><00:04:00.840><c> also</c><00:04:01.019><c> showed</c><00:04:01.380><c> how</c><00:04:01.560><c> we</c><00:04:01.590><c> could</c><00:04:01.920><c> have</c>
+
+00:04:02.060 --> 00:04:02.070 align:start position:0%
+earlier we also showed how we could have
+ 
+
+00:04:02.070 --> 00:04:03.800 align:start position:0%
+earlier we also showed how we could have
+different<00:04:02.370><c> orderings</c><00:04:02.910><c> and</c><00:04:03.450><c> we</c><00:04:03.540><c> could</c><00:04:03.690><c> do</c><00:04:03.780><c> that</c>
+
+00:04:03.800 --> 00:04:03.810 align:start position:0%
+different orderings and we could do that
+ 
+
+00:04:03.810 --> 00:04:06.050 align:start position:0%
+different orderings and we could do that
+by<00:04:04.080><c> having</c><00:04:04.230><c> a</c><00:04:04.440><c> constructor</c><00:04:05.010><c> in</c><00:04:05.160><c> our</c><00:04:05.519><c> priority</c>
+
+00:04:06.050 --> 00:04:06.060 align:start position:0%
+by having a constructor in our priority
+ 
+
+00:04:06.060 --> 00:04:08.210 align:start position:0%
+by having a constructor in our priority
+queue<00:04:06.300><c> implementations</c><00:04:07.140><c> so</c><00:04:07.709><c> for</c><00:04:07.890><c> example</c>
+
+00:04:08.210 --> 00:04:08.220 align:start position:0%
+queue implementations so for example
+ 
+
+00:04:08.220 --> 00:04:11.750 align:start position:0%
+queue implementations so for example
+heap<00:04:08.459><c> min</c><00:04:08.820><c> V</c><00:04:08.970><c> Q</c><00:04:09.239><c> where</c><00:04:10.100><c> the</c><00:04:11.100><c> constructor</c>
+
+00:04:11.750 --> 00:04:11.760 align:start position:0%
+heap min V Q where the constructor
+ 
+
+00:04:11.760 --> 00:04:14.570 align:start position:0%
+heap min V Q where the constructor
+actually<00:04:12.090><c> takes</c><00:04:12.330><c> a</c><00:04:12.620><c> comparator</c><00:04:13.620><c> of</c><00:04:13.799><c> items</c><00:04:14.400><c> in</c>
+
+00:04:14.570 --> 00:04:14.580 align:start position:0%
+actually takes a comparator of items in
+ 
+
+00:04:14.580 --> 00:04:16.670 align:start position:0%
+actually takes a comparator of items in
+that<00:04:15.090><c> case</c><00:04:15.299><c> it</c><00:04:15.720><c> will</c><00:04:15.840><c> use</c><00:04:16.019><c> the</c><00:04:16.169><c> comparator</c><00:04:16.650><c> to</c>
+
+00:04:16.670 --> 00:04:16.680 align:start position:0%
+that case it will use the comparator to
+ 
+
+00:04:16.680 --> 00:04:18.800 align:start position:0%
+that case it will use the comparator to
+decide<00:04:17.100><c> whether</c><00:04:17.310><c> to</c><00:04:17.489><c> add</c><00:04:17.640><c> get</c><00:04:18.239><c> smallest</c><00:04:18.570><c> or</c>
+
+00:04:18.800 --> 00:04:18.810 align:start position:0%
+decide whether to add get smallest or
+ 
+
+00:04:18.810 --> 00:04:21.020 align:start position:0%
+decide whether to add get smallest or
+move<00:04:18.989><c> smallest</c><00:04:19.290><c> so</c><00:04:20.100><c> that's</c><00:04:20.250><c> it</c><00:04:20.430><c> for</c><00:04:20.760><c> with</c><00:04:20.910><c> the</c>
+
+00:04:21.020 --> 00:04:21.030 align:start position:0%
+move smallest so that's it for with the
+ 
+
+00:04:21.030 --> 00:04:22.610 align:start position:0%
+move smallest so that's it for with the
+core<00:04:21.209><c> of</c><00:04:21.239><c> the</c><00:04:21.450><c> priority</c><00:04:21.870><c> queue</c><00:04:22.049><c> from</c><00:04:22.410><c> there</c>
+
+00:04:22.610 --> 00:04:22.620 align:start position:0%
+core of the priority queue from there
+ 
+
+00:04:22.620 --> 00:04:24.110 align:start position:0%
+core of the priority queue from there
+you'll<00:04:22.830><c> implement</c><00:04:23.010><c> it</c><00:04:23.310><c> on</c><00:04:23.400><c> your</c><00:04:23.610><c> homework</c><00:04:23.729><c> and</c>
+
+00:04:24.110 --> 00:04:24.120 align:start position:0%
+you'll implement it on your homework and
+ 
+
+00:04:24.120 --> 00:04:25.880 align:start position:0%
+you'll implement it on your homework and
+I<00:04:24.479><c> think</c><00:04:24.720><c> this</c><00:04:24.840><c> is</c><00:04:24.960><c> a</c><00:04:24.990><c> really</c><00:04:25.350><c> nice</c><00:04:25.590><c> data</c>
+
+00:04:25.880 --> 00:04:25.890 align:start position:0%
+I think this is a really nice data
+ 
+
+00:04:25.890 --> 00:04:26.450 align:start position:0%
+I think this is a really nice data
+structure
+
+00:04:26.450 --> 00:04:26.460 align:start position:0%
+structure
+ 
+
+00:04:26.460 --> 00:04:28.909 align:start position:0%
+structure
+with<00:04:26.699><c> a</c><00:04:26.729><c> really</c><00:04:27.120><c> slick</c><00:04:27.800><c> implementation</c><00:04:28.800><c> I</c>
+
+00:04:28.909 --> 00:04:28.919 align:start position:0%
+with a really slick implementation I
+ 
+
+00:04:28.919 --> 00:04:30.170 align:start position:0%
+with a really slick implementation I
+love<00:04:29.130><c> heaps</c><00:04:29.370><c> they're</c><00:04:29.610><c> really</c><00:04:29.789><c> cool</c><00:04:29.940><c> but</c>
+
+00:04:30.170 --> 00:04:30.180 align:start position:0%
+love heaps they're really cool but
+ 
+
+00:04:30.180 --> 00:04:31.550 align:start position:0%
+love heaps they're really cool but
+they're<00:04:30.539><c> just</c><00:04:30.630><c> not</c><00:04:30.780><c> quite</c><00:04:30.930><c> as</c><00:04:31.020><c> versatile</c><00:04:31.500><c> as</c>
+
+00:04:31.550 --> 00:04:31.560 align:start position:0%
+they're just not quite as versatile as
+ 
+
+00:04:31.560 --> 00:04:33.980 align:start position:0%
+they're just not quite as versatile as
+binary<00:04:31.800><c> search</c><00:04:32.130><c> trees</c><00:04:32.430><c> and</c><00:04:32.580><c> so</c><00:04:33.090><c> and</c><00:04:33.360><c> nor</c><00:04:33.840><c> our</c>
+
+00:04:33.980 --> 00:04:33.990 align:start position:0%
+binary search trees and so and nor our
+ 
+
+00:04:33.990 --> 00:04:36.260 align:start position:0%
+binary search trees and so and nor our
+binary<00:04:34.139><c> sorry</c><00:04:34.740><c> nor</c><00:04:35.160><c> our</c><00:04:35.340><c> priority</c><00:04:35.789><c> queues</c><00:04:36.060><c> as</c>
+
+00:04:36.260 --> 00:04:36.270 align:start position:0%
+binary sorry nor our priority queues as
+ 
+
+00:04:36.270 --> 00:04:37.969 align:start position:0%
+binary sorry nor our priority queues as
+versatile<00:04:36.870><c> as</c><00:04:36.930><c> maps</c><00:04:37.229><c> and</c><00:04:37.530><c> so</c><00:04:37.740><c> they</c><00:04:37.830><c> don't</c>
+
+00:04:37.969 --> 00:04:37.979 align:start position:0%
+versatile as maps and so they don't
+ 
+
+00:04:37.979 --> 00:04:39.860 align:start position:0%
+versatile as maps and so they don't
+quite<00:04:38.220><c> get</c><00:04:38.520><c> that</c><00:04:38.729><c> level</c><00:04:39.030><c> of</c><00:04:39.150><c> Fame</c><00:04:39.389><c> but</c><00:04:39.750><c> they're</c>
+
+00:04:39.860 --> 00:04:39.870 align:start position:0%
+quite get that level of Fame but they're
+ 
+
+00:04:39.870 --> 00:04:41.510 align:start position:0%
+quite get that level of Fame but they're
+still<00:04:40.050><c> very</c><00:04:40.169><c> cool</c><00:04:40.440><c> and</c><00:04:41.009><c> can</c><00:04:41.190><c> be</c><00:04:41.280><c> very</c><00:04:41.490><c> useful</c>
+
+00:04:41.510 --> 00:04:41.520 align:start position:0%
+still very cool and can be very useful
+ 
+
+00:04:41.520 --> 00:04:44.000 align:start position:0%
+still very cool and can be very useful
+indeed
+

@@ -1,0 +1,1480 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.319 --> 00:00:02.570 align:start position:0%
+ 
+as<00:00:01.319><c> our</c><00:00:01.439><c> last</c><00:00:01.589><c> program</c><00:00:01.979><c> of</c><00:00:02.010><c> the</c><00:00:02.190><c> day</c><00:00:02.340><c> let's</c>
+
+00:00:02.570 --> 00:00:02.580 align:start position:0%
+as our last program of the day let's
+ 
+
+00:00:02.580 --> 00:00:05.630 align:start position:0%
+as our last program of the day let's
+talk<00:00:02.760><c> about</c><00:00:02.879><c> defining</c><00:00:03.419><c> functions</c><00:00:03.600><c> in</c><00:00:04.080><c> Java</c><00:00:04.640><c> so</c>
+
+00:00:05.630 --> 00:00:05.640 align:start position:0%
+talk about defining functions in Java so
+ 
+
+00:00:05.640 --> 00:00:07.010 align:start position:0%
+talk about defining functions in Java so
+again<00:00:06.029><c> I'm</c><00:00:06.089><c> going</c><00:00:06.210><c> to</c><00:00:06.270><c> use</c><00:00:06.359><c> Python</c><00:00:06.569><c> it's</c><00:00:06.930><c> the</c>
+
+00:00:07.010 --> 00:00:07.020 align:start position:0%
+again I'm going to use Python it's the
+ 
+
+00:00:07.020 --> 00:00:07.880 align:start position:0%
+again I'm going to use Python it's the
+simple<00:00:07.319><c> example</c>
+
+00:00:07.880 --> 00:00:07.890 align:start position:0%
+simple example
+ 
+
+00:00:07.890 --> 00:00:09.740 align:start position:0%
+simple example
+I'm<00:00:08.040><c> gonna</c><00:00:08.160><c> say</c><00:00:08.370><c> over</c><00:00:08.610><c> here</c><00:00:08.910><c> let's</c><00:00:09.420><c> define</c><00:00:09.690><c> a</c>
+
+00:00:09.740 --> 00:00:09.750 align:start position:0%
+I'm gonna say over here let's define a
+ 
+
+00:00:09.750 --> 00:00:12.200 align:start position:0%
+I'm gonna say over here let's define a
+function<00:00:09.929><c> called</c><00:00:10.139><c> larger</c><00:00:11.000><c> and</c><00:00:12.000><c> what</c><00:00:12.090><c> it's</c>
+
+00:00:12.200 --> 00:00:12.210 align:start position:0%
+function called larger and what it's
+ 
+
+00:00:12.210 --> 00:00:14.799 align:start position:0%
+function called larger and what it's
+gonna<00:00:12.360><c> do</c><00:00:12.599><c> is</c><00:00:12.750><c> take</c><00:00:12.960><c> two</c><00:00:13.019><c> variables</c><00:00:13.769><c> x</c><00:00:14.009><c> and</c><00:00:14.160><c> y</c>
+
+00:00:14.799 --> 00:00:14.809 align:start position:0%
+gonna do is take two variables x and y
+ 
+
+00:00:14.809 --> 00:00:17.660 align:start position:0%
+gonna do is take two variables x and y
+and<00:00:15.809><c> if</c><00:00:16.230><c> X</c><00:00:16.529><c> happens</c><00:00:16.740><c> to</c><00:00:17.010><c> be</c><00:00:17.070><c> bigger</c><00:00:17.340><c> than</c><00:00:17.460><c> Y</c>
+
+00:00:17.660 --> 00:00:17.670 align:start position:0%
+and if X happens to be bigger than Y
+ 
+
+00:00:17.670 --> 00:00:21.609 align:start position:0%
+and if X happens to be bigger than Y
+we'll<00:00:18.060><c> return</c><00:00:18.390><c> X</c><00:00:19.490><c> otherwise</c><00:00:20.490><c> we'll</c><00:00:20.760><c> return</c><00:00:21.060><c> Y</c>
+
+00:00:21.609 --> 00:00:21.619 align:start position:0%
+we'll return X otherwise we'll return Y
+ 
+
+00:00:21.619 --> 00:00:24.590 align:start position:0%
+we'll return X otherwise we'll return Y
+that's<00:00:22.619><c> it</c><00:00:22.850><c> and</c><00:00:23.850><c> then</c><00:00:23.910><c> we</c><00:00:24.029><c> might</c><00:00:24.150><c> say</c><00:00:24.390><c> let's</c>
+
+00:00:24.590 --> 00:00:24.600 align:start position:0%
+that's it and then we might say let's
+ 
+
+00:00:24.600 --> 00:00:26.210 align:start position:0%
+that's it and then we might say let's
+print<00:00:24.750><c> the</c><00:00:24.900><c> larger</c><00:00:25.170><c> of</c><00:00:25.260><c> negative</c><00:00:25.590><c> 5</c><00:00:25.769><c> and</c><00:00:26.010><c> 10</c>
+
+00:00:26.210 --> 00:00:26.220 align:start position:0%
+print the larger of negative 5 and 10
+ 
+
+00:00:26.220 --> 00:00:29.630 align:start position:0%
+print the larger of negative 5 and 10
+and<00:00:26.519><c> hopefully</c><00:00:27.000><c> we</c><00:00:27.119><c> get</c><00:00:27.330><c> yeah</c><00:00:27.810><c> okay</c><00:00:28.490><c> so</c><00:00:29.490><c> what</c>
+
+00:00:29.630 --> 00:00:29.640 align:start position:0%
+and hopefully we get yeah okay so what
+ 
+
+00:00:29.640 --> 00:00:32.120 align:start position:0%
+and hopefully we get yeah okay so what
+should<00:00:29.670><c> the</c><00:00:30.289><c> Java</c><00:00:31.289><c> version</c><00:00:31.560><c> of</c><00:00:31.830><c> this</c><00:00:31.980><c> look</c>
+
+00:00:32.120 --> 00:00:32.130 align:start position:0%
+should the Java version of this look
+ 
+
+00:00:32.130 --> 00:00:40.790 align:start position:0%
+should the Java version of this look
+like<00:00:38.570><c> the</c><00:00:39.570><c> larger</c><00:00:39.870><c> version</c><00:00:40.020><c> are</c><00:00:40.469><c> said</c><00:00:40.649><c> that</c>
+
+00:00:40.790 --> 00:00:40.800 align:start position:0%
+like the larger version are said that
+ 
+
+00:00:40.800 --> 00:00:42.470 align:start position:0%
+like the larger version are said that
+Java<00:00:41.100><c> version</c><00:00:41.460><c> of</c><00:00:41.550><c> it</c><00:00:41.670><c> should</c><00:00:41.820><c> look</c><00:00:41.910><c> like</c><00:00:41.969><c> well</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+Java version of it should look like well
+ 
+
+00:00:42.480 --> 00:00:43.970 align:start position:0%
+Java version of it should look like well
+we'll<00:00:42.719><c> make</c><00:00:42.809><c> a</c><00:00:42.899><c> class</c><00:00:43.110><c> called</c><00:00:43.379><c> larger</c><00:00:43.710><c> demo</c>
+
+00:00:43.970 --> 00:00:43.980 align:start position:0%
+we'll make a class called larger demo
+ 
+
+00:00:43.980 --> 00:00:46.000 align:start position:0%
+we'll make a class called larger demo
+and<00:00:44.370><c> then</c><00:00:44.940><c> if</c><00:00:45.030><c> we</c><00:00:45.090><c> wanted</c><00:00:45.300><c> to</c><00:00:45.390><c> find</c><00:00:45.600><c> a</c><00:00:45.780><c> function</c>
+
+00:00:46.000 --> 00:00:46.010 align:start position:0%
+and then if we wanted to find a function
+ 
+
+00:00:46.010 --> 00:00:48.889 align:start position:0%
+and then if we wanted to find a function
+we<00:00:47.010><c> can't</c><00:00:47.340><c> put</c><00:00:47.640><c> it</c><00:00:47.730><c> up</c><00:00:47.820><c> here</c><00:00:48.059><c> all</c><00:00:48.539><c> right</c><00:00:48.660><c> if</c><00:00:48.780><c> we</c>
+
+00:00:48.889 --> 00:00:48.899 align:start position:0%
+we can't put it up here all right if we
+ 
+
+00:00:48.899 --> 00:00:50.510 align:start position:0%
+we can't put it up here all right if we
+tried<00:00:49.110><c> to</c><00:00:49.140><c> define</c><00:00:49.320><c> a</c><00:00:49.469><c> function</c><00:00:49.649><c> up</c><00:00:49.920><c> here</c><00:00:50.219><c> right</c>
+
+00:00:50.510 --> 00:00:50.520 align:start position:0%
+tried to define a function up here right
+ 
+
+00:00:50.520 --> 00:00:52.369 align:start position:0%
+tried to define a function up here right
+like<00:00:50.789><c> define</c><00:00:51.149><c> larger</c><00:00:51.570><c> or</c><00:00:51.629><c> whatever</c><00:00:51.840><c> that</c>
+
+00:00:52.369 --> 00:00:52.379 align:start position:0%
+like define larger or whatever that
+ 
+
+00:00:52.379 --> 00:00:55.010 align:start position:0%
+like define larger or whatever that
+would<00:00:52.469><c> not</c><00:00:52.620><c> work</c><00:00:52.800><c> in</c><00:00:53.070><c> Java</c><00:00:53.579><c> all</c><00:00:54.030><c> code</c><00:00:54.539><c> must</c><00:00:54.930><c> be</c>
+
+00:00:55.010 --> 00:00:55.020 align:start position:0%
+would not work in Java all code must be
+ 
+
+00:00:55.020 --> 00:00:57.319 align:start position:0%
+would not work in Java all code must be
+part<00:00:55.320><c> of</c><00:00:55.379><c> a</c><00:00:55.500><c> class</c><00:00:55.789><c> so</c><00:00:56.789><c> I'm</c><00:00:56.879><c> actually</c><00:00:56.969><c> going</c><00:00:57.210><c> to</c>
+
+00:00:57.319 --> 00:00:57.329 align:start position:0%
+part of a class so I'm actually going to
+ 
+
+00:00:57.329 --> 00:00:59.869 align:start position:0%
+part of a class so I'm actually going to
+do<00:00:57.390><c> the</c><00:00:57.510><c> function</c><00:00:57.840><c> definition</c><00:00:58.050><c> here</c><00:00:58.820><c> now</c><00:00:59.820><c> the</c>
+
+00:00:59.869 --> 00:00:59.879 align:start position:0%
+do the function definition here now the
+ 
+
+00:00:59.879 --> 00:01:01.520 align:start position:0%
+do the function definition here now the
+special<00:01:00.149><c> phrase</c><00:01:00.600><c> I'm</c><00:01:00.840><c> going</c><00:01:00.960><c> to</c><00:01:01.020><c> use</c><00:01:01.109><c> instead</c>
+
+00:01:01.520 --> 00:01:01.530 align:start position:0%
+special phrase I'm going to use instead
+ 
+
+00:01:01.530 --> 00:01:04.490 align:start position:0%
+special phrase I'm going to use instead
+of<00:01:01.590><c> Def</c><00:01:01.980><c> in</c><00:01:02.219><c> Java</c><00:01:03.059><c> I'm</c><00:01:03.300><c> gonna</c><00:01:03.539><c> say</c><00:01:03.750><c> public</c>
+
+00:01:04.490 --> 00:01:04.500 align:start position:0%
+of Def in Java I'm gonna say public
+ 
+
+00:01:04.500 --> 00:01:06.859 align:start position:0%
+of Def in Java I'm gonna say public
+static<00:01:05.339><c> and</c><00:01:05.580><c> then</c><00:01:06.420><c> I'm</c><00:01:06.540><c> gonna</c><00:01:06.630><c> make</c><00:01:06.810><c> a</c>
+
+00:01:06.859 --> 00:01:06.869 align:start position:0%
+static and then I'm gonna make a
+ 
+
+00:01:06.869 --> 00:01:10.130 align:start position:0%
+static and then I'm gonna make a
+function<00:01:07.290><c> name</c><00:01:07.409><c> called</c><00:01:07.619><c> larger</c><00:01:08.010><c> on</c><00:01:08.250><c> X</c><00:01:08.520><c> Y</c><00:01:09.140><c> then</c>
+
+00:01:10.130 --> 00:01:10.140 align:start position:0%
+function name called larger on X Y then
+ 
+
+00:01:10.140 --> 00:01:11.810 align:start position:0%
+function name called larger on X Y then
+I<00:01:10.260><c> might</c><00:01:10.439><c> say</c><00:01:10.619><c> something</c><00:01:10.680><c> like</c><00:01:11.010><c> if</c><00:01:11.220><c> it</c><00:01:11.369><c> X</c><00:01:11.670><c> is</c>
+
+00:01:11.810 --> 00:01:11.820 align:start position:0%
+I might say something like if it X is
+ 
+
+00:01:11.820 --> 00:01:14.330 align:start position:0%
+I might say something like if it X is
+bigger<00:01:12.030><c> than</c><00:01:12.119><c> Y</c><00:01:12.360><c> return</c><00:01:12.990><c> X</c><00:01:13.229><c> otherwise</c><00:01:13.979><c> return</c>
+
+00:01:14.330 --> 00:01:14.340 align:start position:0%
+bigger than Y return X otherwise return
+ 
+
+00:01:14.340 --> 00:01:17.810 align:start position:0%
+bigger than Y return X otherwise return
+a<00:01:14.490><c> Y</c><00:01:15.350><c> now</c><00:01:16.350><c> if</c><00:01:16.409><c> I</c><00:01:16.470><c> try</c><00:01:16.619><c> compiling</c><00:01:16.920><c> this</c><00:01:17.280><c> since</c>
+
+00:01:17.810 --> 00:01:17.820 align:start position:0%
+a Y now if I try compiling this since
+ 
+
+00:01:17.820 --> 00:01:19.730 align:start position:0%
+a Y now if I try compiling this since
+Java<00:01:18.060><c> is</c><00:01:18.270><c> a</c><00:01:18.299><c> statically</c><00:01:18.750><c> typed</c><00:01:19.080><c> language</c><00:01:19.500><c> it</c>
+
+00:01:19.730 --> 00:01:19.740 align:start position:0%
+Java is a statically typed language it
+ 
+
+00:01:19.740 --> 00:01:21.530 align:start position:0%
+Java is a statically typed language it
+yells<00:01:20.009><c> at</c><00:01:20.189><c> man</c><00:01:20.340><c> it</c><00:01:20.729><c> says</c><00:01:20.939><c> you</c><00:01:21.030><c> need</c><00:01:21.150><c> to</c><00:01:21.210><c> tell</c><00:01:21.420><c> me</c>
+
+00:01:21.530 --> 00:01:21.540 align:start position:0%
+yells at man it says you need to tell me
+ 
+
+00:01:21.540 --> 00:01:23.240 align:start position:0%
+yells at man it says you need to tell me
+what<00:01:21.659><c> X</c><00:01:21.840><c> is</c><00:01:21.990><c> what</c><00:01:22.229><c> Y</c><00:01:22.380><c> is</c><00:01:22.409><c> and</c><00:01:22.770><c> indeed</c><00:01:22.920><c> what</c>
+
+00:01:23.240 --> 00:01:23.250 align:start position:0%
+what X is what Y is and indeed what
+ 
+
+00:01:23.250 --> 00:01:25.490 align:start position:0%
+what X is what Y is and indeed what
+larger<00:01:23.580><c> is</c><00:01:23.700><c> supposed</c><00:01:24.000><c> to</c><00:01:24.060><c> return</c><00:01:24.320><c> so</c><00:01:25.320><c> we</c><00:01:25.380><c> need</c>
+
+00:01:25.490 --> 00:01:25.500 align:start position:0%
+larger is supposed to return so we need
+ 
+
+00:01:25.500 --> 00:01:28.429 align:start position:0%
+larger is supposed to return so we need
+to<00:01:25.619><c> say</c><00:01:25.770><c> X</c><00:01:26.009><c> has</c><00:01:26.460><c> type</c><00:01:27.180><c> Y</c><00:01:27.570><c> has</c><00:01:27.810><c> a</c><00:01:27.840><c> type</c><00:01:28.140><c> let's</c><00:01:28.350><c> say</c>
+
+00:01:28.429 --> 00:01:28.439 align:start position:0%
+to say X has type Y has a type let's say
+ 
+
+00:01:28.439 --> 00:01:30.950 align:start position:0%
+to say X has type Y has a type let's say
+they're<00:01:28.560><c> integers</c><00:01:29.060><c> and</c><00:01:30.060><c> then</c><00:01:30.270><c> larger</c><00:01:30.600><c> itself</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+they're integers and then larger itself
+ 
+
+00:01:30.960 --> 00:01:32.510 align:start position:0%
+they're integers and then larger itself
+needs<00:01:31.259><c> a</c><00:01:31.350><c> type</c><00:01:31.560><c> which</c><00:01:31.890><c> we'll</c><00:01:32.100><c> put</c><00:01:32.250><c> right</c><00:01:32.490><c> here</c>
+
+00:01:32.510 --> 00:01:32.520 align:start position:0%
+needs a type which we'll put right here
+ 
+
+00:01:32.520 --> 00:01:36.310 align:start position:0%
+needs a type which we'll put right here
+right<00:01:33.090><c> before</c><00:01:33.479><c> the</c><00:01:33.630><c> name</c><00:01:33.840><c> of</c><00:01:34.170><c> the</c><00:01:34.979><c> function</c><00:01:35.579><c> ok</c>
+
+00:01:36.310 --> 00:01:36.320 align:start position:0%
+right before the name of the function ok
+ 
+
+00:01:36.320 --> 00:01:39.319 align:start position:0%
+right before the name of the function ok
+so<00:01:37.320><c> now</c><00:01:37.470><c> that</c><00:01:37.590><c> I've</c><00:01:37.710><c> written</c><00:01:37.829><c> this</c><00:01:38.130><c> this</c><00:01:39.090><c> is</c><00:01:39.240><c> a</c>
+
+00:01:39.319 --> 00:01:39.329 align:start position:0%
+so now that I've written this this is a
+ 
+
+00:01:39.329 --> 00:01:40.880 align:start position:0%
+so now that I've written this this is a
+proper<00:01:39.720><c> program</c><00:01:39.930><c> that</c><00:01:40.350><c> contains</c><00:01:40.619><c> the</c>
+
+00:01:40.880 --> 00:01:40.890 align:start position:0%
+proper program that contains the
+ 
+
+00:01:40.890 --> 00:01:43.069 align:start position:0%
+proper program that contains the
+function<00:01:41.189><c> larger</c><00:01:41.579><c> and</c><00:01:41.790><c> then</c><00:01:42.360><c> the</c><00:01:42.450><c> call</c><00:01:42.750><c> to</c><00:01:42.960><c> the</c>
+
+00:01:43.069 --> 00:01:43.079 align:start position:0%
+function larger and then the call to the
+ 
+
+00:01:43.079 --> 00:01:45.170 align:start position:0%
+function larger and then the call to the
+function<00:01:43.229><c> will</c><00:01:43.530><c> put</c><00:01:43.680><c> in</c><00:01:43.979><c> the</c><00:01:44.189><c> main</c><00:01:44.340><c> method</c><00:01:44.610><c> so</c>
+
+00:01:45.170 --> 00:01:45.180 align:start position:0%
+function will put in the main method so
+ 
+
+00:01:45.180 --> 00:01:46.580 align:start position:0%
+function will put in the main method so
+this<00:01:45.270><c> is</c><00:01:45.390><c> what</c><00:01:45.540><c> actually</c><00:01:45.630><c> gets</c><00:01:45.930><c> run</c><00:01:46.170><c> when</c><00:01:46.560><c> we</c>
+
+00:01:46.580 --> 00:01:46.590 align:start position:0%
+this is what actually gets run when we
+ 
+
+00:01:46.590 --> 00:01:48.740 align:start position:0%
+this is what actually gets run when we
+run<00:01:46.920><c> the</c><00:01:47.040><c> program</c><00:01:47.390><c> so</c><00:01:48.390><c> if</c><00:01:48.509><c> we</c><00:01:48.570><c> want</c><00:01:48.720><c> to</c>
+
+00:01:48.740 --> 00:01:48.750 align:start position:0%
+run the program so if we want to
+ 
+
+00:01:48.750 --> 00:01:51.080 align:start position:0%
+run the program so if we want to
+actually<00:01:48.899><c> get</c><00:01:49.439><c> larger</c><00:01:49.860><c> to</c><00:01:50.130><c> run</c><00:01:50.310><c> we</c><00:01:50.670><c> need</c><00:01:50.820><c> to</c><00:01:50.939><c> do</c>
+
+00:01:51.080 --> 00:01:51.090 align:start position:0%
+actually get larger to run we need to do
+ 
+
+00:01:51.090 --> 00:01:53.810 align:start position:0%
+actually get larger to run we need to do
+something<00:01:51.420><c> like</c><00:01:51.570><c> this</c><00:01:52.280><c> so</c><00:01:53.280><c> now</c><00:01:53.399><c> we</c><00:01:53.460><c> run</c><00:01:53.670><c> this</c>
+
+00:01:53.810 --> 00:01:53.820 align:start position:0%
+something like this so now we run this
+ 
+
+00:01:53.820 --> 00:01:55.609 align:start position:0%
+something like this so now we run this
+and<00:01:54.000><c> we</c><00:01:54.119><c> get</c><00:01:54.299><c> tap</c><00:01:54.630><c> so</c><00:01:55.229><c> these</c><00:01:55.350><c> will</c><00:01:55.500><c> be</c>
+
+00:01:55.609 --> 00:01:55.619 align:start position:0%
+and we get tap so these will be
+ 
+
+00:01:55.619 --> 00:01:59.300 align:start position:0%
+and we get tap so these will be
+equivalent<00:01:56.189><c> programs</c><00:01:56.759><c> Python</c><00:01:57.240><c> and</c><00:01:57.960><c> Java</c><00:01:58.310><c> so</c>
+
+00:01:59.300 --> 00:01:59.310 align:start position:0%
+equivalent programs Python and Java so
+ 
+
+00:01:59.310 --> 00:02:00.790 align:start position:0%
+equivalent programs Python and Java so
+some<00:01:59.520><c> notes</c><00:01:59.729><c> here</c>
+
+00:02:00.790 --> 00:02:00.800 align:start position:0%
+some notes here
+ 
+
+00:02:00.800 --> 00:02:03.670 align:start position:0%
+some notes here
+to<00:02:01.700><c> define</c><00:02:02.000><c> a</c><00:02:02.030><c> function</c><00:02:02.270><c> in</c><00:02:02.660><c> Java</c><00:02:02.900><c> actually</c>
+
+00:02:03.670 --> 00:02:03.680 align:start position:0%
+to define a function in Java actually
+ 
+
+00:02:03.680 --> 00:02:06.430 align:start position:0%
+to define a function in Java actually
+we'll<00:02:03.980><c> do</c><00:02:04.130><c> one</c><00:02:04.600><c> functions</c><00:02:05.600><c> must</c><00:02:05.870><c> be</c><00:02:06.050><c> part</c><00:02:06.290><c> of</c><00:02:06.350><c> a</c>
+
+00:02:06.430 --> 00:02:06.440 align:start position:0%
+we'll do one functions must be part of a
+ 
+
+00:02:06.440 --> 00:02:11.290 align:start position:0%
+we'll do one functions must be part of a
+class<00:02:08.860><c> as</c><00:02:09.860><c> unlike</c><00:02:10.490><c> Python</c><00:02:10.970><c> or</c><00:02:11.120><c> other</c>
+
+00:02:11.290 --> 00:02:11.300 align:start position:0%
+class as unlike Python or other
+ 
+
+00:02:11.300 --> 00:02:13.000 align:start position:0%
+class as unlike Python or other
+languages<00:02:11.840><c> this</c><00:02:12.020><c> is</c><00:02:12.080><c> not</c><00:02:12.320><c> part</c><00:02:12.530><c> of</c><00:02:12.590><c> any</c><00:02:12.710><c> class</c>
+
+00:02:13.000 --> 00:02:13.010 align:start position:0%
+languages this is not part of any class
+ 
+
+00:02:13.010 --> 00:02:15.100 align:start position:0%
+languages this is not part of any class
+it's<00:02:13.280><c> just</c><00:02:13.430><c> a</c><00:02:13.490><c> function</c><00:02:13.850><c> that</c><00:02:13.880><c> exists</c><00:02:14.450><c> but</c>
+
+00:02:15.100 --> 00:02:15.110 align:start position:0%
+it's just a function that exists but
+ 
+
+00:02:15.110 --> 00:02:18.370 align:start position:0%
+it's just a function that exists but
+here<00:02:15.380><c> functions</c><00:02:16.280><c> must</c><00:02:16.490><c> be</c><00:02:16.640><c> declared</c><00:02:17.080><c> as</c><00:02:18.080><c> part</c>
+
+00:02:18.370 --> 00:02:18.380 align:start position:0%
+here functions must be declared as part
+ 
+
+00:02:18.380 --> 00:02:19.360 align:start position:0%
+here functions must be declared as part
+of<00:02:18.410><c> a</c><00:02:18.500><c> class</c><00:02:18.710><c> in</c><00:02:19.010><c> Java</c>
+
+00:02:19.360 --> 00:02:19.370 align:start position:0%
+of a class in Java
+ 
+
+00:02:19.370 --> 00:02:22.510 align:start position:0%
+of a class in Java
+okay<00:02:19.750><c> and</c><00:02:20.750><c> as</c><00:02:20.870><c> a</c><00:02:20.900><c> quick</c><00:02:21.020><c> aside</c><00:02:21.230><c> a</c><00:02:21.740><c> function</c>
+
+00:02:22.510 --> 00:02:22.520 align:start position:0%
+okay and as a quick aside a function
+ 
+
+00:02:22.520 --> 00:02:26.170 align:start position:0%
+okay and as a quick aside a function
+that<00:02:22.550><c> is</c><00:02:22.970><c> part</c><00:02:23.240><c> of</c><00:02:23.300><c> a</c><00:02:23.390><c> class</c><00:02:23.660><c> is</c><00:02:25.030><c> called</c><00:02:26.030><c> a</c>
+
+00:02:26.170 --> 00:02:26.180 align:start position:0%
+that is part of a class is called a
+ 
+
+00:02:26.180 --> 00:02:31.420 align:start position:0%
+that is part of a class is called a
+method<00:02:26.740><c> LM</c><00:02:27.740><c> Java</c><00:02:29.260><c> all</c><00:02:30.260><c> functions</c><00:02:30.770><c> are</c><00:02:31.040><c> methods</c>
+
+00:02:31.420 --> 00:02:31.430 align:start position:0%
+method LM Java all functions are methods
+ 
+
+00:02:31.430 --> 00:02:34.210 align:start position:0%
+method LM Java all functions are methods
+ok<00:02:32.410><c> this</c><00:02:33.410><c> is</c><00:02:33.560><c> just</c><00:02:33.590><c> some</c><00:02:33.830><c> programming</c>
+
+00:02:34.210 --> 00:02:34.220 align:start position:0%
+ok this is just some programming
+ 
+
+00:02:34.220 --> 00:02:35.470 align:start position:0%
+ok this is just some programming
+language<00:02:34.520><c> terminology</c><00:02:35.120><c> that's</c><00:02:35.240><c> pretty</c>
+
+00:02:35.470 --> 00:02:35.480 align:start position:0%
+language terminology that's pretty
+ 
+
+00:02:35.480 --> 00:02:38.380 align:start position:0%
+language terminology that's pretty
+common<00:02:35.660><c> to</c><00:02:36.310><c> to</c><00:02:37.310><c> define</c><00:02:37.580><c> a</c><00:02:37.610><c> function</c><00:02:38.000><c> in</c><00:02:38.120><c> Java</c>
+
+00:02:38.380 --> 00:02:38.390 align:start position:0%
+common to to define a function in Java
+ 
+
+00:02:38.390 --> 00:02:43.630 align:start position:0%
+common to to define a function in Java
+we<00:02:39.380><c> use</c><00:02:39.650><c> public</c><00:02:40.400><c> static</c><00:02:40.910><c> and</c><00:02:42.220><c> we</c><00:02:43.220><c> will</c><00:02:43.370><c> see</c>
+
+00:02:43.630 --> 00:02:43.640 align:start position:0%
+we use public static and we will see
+ 
+
+00:02:43.640 --> 00:02:47.380 align:start position:0%
+we use public static and we will see
+alternate<00:02:44.570><c> ways</c><00:02:44.750><c> of</c><00:02:46.030><c> defining</c><00:02:47.030><c> functions</c>
+
+00:02:47.380 --> 00:02:47.390 align:start position:0%
+alternate ways of defining functions
+ 
+
+00:02:47.390 --> 00:02:49.960 align:start position:0%
+alternate ways of defining functions
+later<00:02:48.110><c> so</c><00:02:48.950><c> they're</c><00:02:49.070><c> not</c><00:02:49.190><c> always</c><00:02:49.430><c> public</c>
+
+00:02:49.960 --> 00:02:49.970 align:start position:0%
+later so they're not always public
+ 
+
+00:02:49.970 --> 00:02:51.430 align:start position:0%
+later so they're not always public
+static<00:02:50.330><c> this</c><00:02:50.510><c> isn't</c><00:02:50.810><c> quite</c><00:02:51.020><c> the</c><00:02:51.230><c> same</c><00:02:51.260><c> thing</c>
+
+00:02:51.430 --> 00:02:51.440 align:start position:0%
+static this isn't quite the same thing
+ 
+
+00:02:51.440 --> 00:02:53.320 align:start position:0%
+static this isn't quite the same thing
+as<00:02:51.650><c> def</c><00:02:51.950><c> but</c><00:02:52.430><c> for</c><00:02:52.580><c> our</c><00:02:52.640><c> purposes</c><00:02:53.030><c> today</c>
+
+00:02:53.320 --> 00:02:53.330 align:start position:0%
+as def but for our purposes today
+ 
+
+00:02:53.330 --> 00:02:56.890 align:start position:0%
+as def but for our purposes today
+it<00:02:53.540><c> basically</c><00:02:53.690><c> is</c><00:02:55.060><c> next</c><00:02:56.060><c> we</c><00:02:56.210><c> have</c><00:02:56.390><c> all</c>
+
+00:02:56.890 --> 00:02:56.900 align:start position:0%
+it basically is next we have all
+ 
+
+00:02:56.900 --> 00:03:03.220 align:start position:0%
+it basically is next we have all
+parameters<00:02:59.980><c> of</c><00:03:00.980><c> a</c><00:03:01.160><c> function</c><00:03:01.960><c> must</c><00:03:02.960><c> have</c><00:03:03.200><c> a</c>
+
+00:03:03.220 --> 00:03:03.230 align:start position:0%
+parameters of a function must have a
+ 
+
+00:03:03.230 --> 00:03:08.380 align:start position:0%
+parameters of a function must have a
+declared<00:03:03.620><c> type</c><00:03:04.120><c> and</c><00:03:06.100><c> the</c><00:03:07.100><c> return</c><00:03:07.580><c> value</c><00:03:08.030><c> of</c>
+
+00:03:08.380 --> 00:03:08.390 align:start position:0%
+declared type and the return value of
+ 
+
+00:03:08.390 --> 00:03:11.850 align:start position:0%
+declared type and the return value of
+the<00:03:08.570><c> function</c><00:03:08.780><c> must</c><00:03:09.500><c> have</c><00:03:09.709><c> a</c><00:03:09.739><c> declared</c><00:03:10.160><c> type</c>
+
+00:03:11.850 --> 00:03:11.860 align:start position:0%
+the function must have a declared type
+ 
+
+00:03:11.860 --> 00:03:16.510 align:start position:0%
+the function must have a declared type
+okay<00:03:12.860><c> so</c><00:03:13.700><c> here</c><00:03:14.090><c> are</c><00:03:14.420><c> declared</c><00:03:14.750><c> type</c><00:03:14.959><c> is</c><00:03:15.140><c> int</c><00:03:15.520><c> so</c>
+
+00:03:16.510 --> 00:03:16.520 align:start position:0%
+okay so here are declared type is int so
+ 
+
+00:03:16.520 --> 00:03:18.250 align:start position:0%
+okay so here are declared type is int so
+for<00:03:16.730><c> example</c><00:03:17.060><c> we</c><00:03:17.120><c> tried</c><00:03:17.300><c> to</c><00:03:17.420><c> say</c><00:03:17.600><c> like</c><00:03:17.840><c> string</c>
+
+00:03:18.250 --> 00:03:18.260 align:start position:0%
+for example we tried to say like string
+ 
+
+00:03:18.260 --> 00:03:21.100 align:start position:0%
+for example we tried to say like string
+x<00:03:18.650><c> equals</c><00:03:19.310><c> larger</c><00:03:19.520><c> minus</c><00:03:20.030><c> 5</c><00:03:20.239><c> 10</c><00:03:20.540><c> we</c><00:03:20.870><c> would</c><00:03:20.989><c> get</c>
+
+00:03:21.100 --> 00:03:21.110 align:start position:0%
+x equals larger minus 5 10 we would get
+ 
+
+00:03:21.110 --> 00:03:23.080 align:start position:0%
+x equals larger minus 5 10 we would get
+a<00:03:21.170><c> compiler</c><00:03:21.650><c> error</c><00:03:21.800><c> larger</c><00:03:22.550><c> is</c><00:03:22.670><c> a</c><00:03:22.700><c> function</c>
+
+00:03:23.080 --> 00:03:23.090 align:start position:0%
+a compiler error larger is a function
+ 
+
+00:03:23.090 --> 00:03:23.530 align:start position:0%
+a compiler error larger is a function
+that<00:03:23.120><c> returns</c>
+
+00:03:23.530 --> 00:03:23.540 align:start position:0%
+that returns
+ 
+
+00:03:23.540 --> 00:03:28.690 align:start position:0%
+that returns
+intz<00:03:23.780><c> this</c><00:03:24.350><c> is</c><00:03:24.500><c> a</c><00:03:24.620><c> string</c><00:03:24.950><c> variable</c><00:03:27.220><c> and</c><00:03:28.220><c> maybe</c>
+
+00:03:28.690 --> 00:03:28.700 align:start position:0%
+intz this is a string variable and maybe
+ 
+
+00:03:28.700 --> 00:03:30.390 align:start position:0%
+intz this is a string variable and maybe
+I<00:03:28.790><c> guess</c><00:03:29.000><c> I'll</c><00:03:29.150><c> mention</c><00:03:29.330><c> just</c><00:03:29.630><c> as</c><00:03:29.750><c> an</c><00:03:29.900><c> aside</c>
+
+00:03:30.390 --> 00:03:30.400 align:start position:0%
+I guess I'll mention just as an aside
+ 
+
+00:03:30.400 --> 00:03:34.350 align:start position:0%
+I guess I'll mention just as an aside
+functions<00:03:31.400><c> and</c><00:03:31.670><c> Java</c><00:03:31.970><c> return</c><00:03:32.870><c> only</c><00:03:33.470><c> one</c><00:03:33.739><c> value</c>
+
+00:03:34.350 --> 00:03:34.360 align:start position:0%
+functions and Java return only one value
+ 
+
+00:03:34.360 --> 00:03:38.050 align:start position:0%
+functions and Java return only one value
+okay<00:03:35.360><c> so</c><00:03:35.870><c> I</c><00:03:35.930><c> can't</c><00:03:36.170><c> say</c><00:03:36.320><c> like</c><00:03:36.500><c> int</c><00:03:36.800><c> string</c><00:03:37.489><c> and</c>
+
+00:03:38.050 --> 00:03:38.060 align:start position:0%
+okay so I can't say like int string and
+ 
+
+00:03:38.060 --> 00:03:39.940 align:start position:0%
+okay so I can't say like int string and
+then<00:03:38.660><c> I</c><00:03:38.690><c> have</c><00:03:38.810><c> like</c><00:03:38.959><c> two</c><00:03:39.200><c> things</c><00:03:39.530><c> come</c><00:03:39.800><c> out</c><00:03:39.830><c> of</c>
+
+00:03:39.940 --> 00:03:39.950 align:start position:0%
+then I have like two things come out of
+ 
+
+00:03:39.950 --> 00:03:41.620 align:start position:0%
+then I have like two things come out of
+large<00:03:40.160><c> that's</c><00:03:40.430><c> not</c><00:03:40.610><c> allowed</c><00:03:40.850><c> in</c><00:03:41.000><c> Java</c><00:03:41.239><c> you</c><00:03:41.510><c> get</c>
+
+00:03:41.620 --> 00:03:41.630 align:start position:0%
+large that's not allowed in Java you get
+ 
+
+00:03:41.630 --> 00:03:45.130 align:start position:0%
+large that's not allowed in Java you get
+one<00:03:41.870><c> thing</c><00:03:43.000><c> so</c><00:03:44.000><c> that's</c><00:03:44.150><c> basically</c><00:03:44.480><c> the</c><00:03:44.870><c> idea</c>
+
+00:03:45.130 --> 00:03:45.140 align:start position:0%
+one thing so that's basically the idea
+ 
+
+00:03:45.140 --> 00:03:47.110 align:start position:0%
+one thing so that's basically the idea
+of<00:03:45.200><c> how</c><00:03:45.410><c> we</c><00:03:45.440><c> or</c><00:03:46.220><c> the</c><00:03:46.400><c> idea</c><00:03:46.700><c> behind</c><00:03:46.850><c> how</c><00:03:47.090><c> we</c>
+
+00:03:47.110 --> 00:03:47.120 align:start position:0%
+of how we or the idea behind how we
+ 
+
+00:03:47.120 --> 00:03:49.540 align:start position:0%
+of how we or the idea behind how we
+define<00:03:47.690><c> functions</c><00:03:48.200><c> in</c><00:03:48.410><c> Java</c><00:03:48.680><c> and</c><00:03:48.920><c> that's</c><00:03:49.430><c> it</c>
+
+00:03:49.540 --> 00:03:49.550 align:start position:0%
+define functions in Java and that's it
+ 
+
+00:03:49.550 --> 00:03:51.520 align:start position:0%
+define functions in Java and that's it
+for<00:03:49.670><c> programming</c><00:03:50.150><c> for</c><00:03:50.330><c> today</c><00:03:50.540><c> now</c><00:03:51.410><c> I</c><00:03:51.440><c> don't</c>
+
+00:03:51.520 --> 00:03:51.530 align:start position:0%
+for programming for today now I don't
+ 
+
+00:03:51.530 --> 00:03:53.199 align:start position:0%
+for programming for today now I don't
+expect<00:03:51.709><c> that</c><00:03:52.070><c> me</c><00:03:52.610><c> having</c><00:03:52.910><c> done</c><00:03:53.030><c> all</c><00:03:53.060><c> these</c>
+
+00:03:53.199 --> 00:03:53.209 align:start position:0%
+expect that me having done all these
+ 
+
+00:03:53.209 --> 00:03:54.729 align:start position:0%
+expect that me having done all these
+demos<00:03:53.570><c> that</c><00:03:53.780><c> you</c><00:03:53.840><c> could</c><00:03:53.989><c> just</c><00:03:54.110><c> walk</c><00:03:54.200><c> right</c><00:03:54.410><c> out</c>
+
+00:03:54.729 --> 00:03:54.739 align:start position:0%
+demos that you could just walk right out
+ 
+
+00:03:54.739 --> 00:03:56.020 align:start position:0%
+demos that you could just walk right out
+there<00:03:54.890><c> and</c><00:03:55.070><c> write</c><00:03:55.190><c> a</c><00:03:55.220><c> bunch</c><00:03:55.400><c> of</c><00:03:55.489><c> programs</c><00:03:55.880><c> you</c>
+
+00:03:56.020 --> 00:03:56.030 align:start position:0%
+there and write a bunch of programs you
+ 
+
+00:03:56.030 --> 00:03:57.490 align:start position:0%
+there and write a bunch of programs you
+could<00:03:56.209><c> write</c><00:03:56.330><c> functions</c><00:03:56.720><c> because</c><00:03:57.320><c> like</c>
+
+00:03:57.490 --> 00:03:57.500 align:start position:0%
+could write functions because like
+ 
+
+00:03:57.500 --> 00:03:59.710 align:start position:0%
+could write functions because like
+anything<00:03:57.860><c> it</c><00:03:58.010><c> takes</c><00:03:58.130><c> practice</c><00:03:58.610><c> so</c><00:03:58.820><c> there</c><00:03:59.630><c> are</c>
+
+00:03:59.710 --> 00:03:59.720 align:start position:0%
+anything it takes practice so there are
+ 
+
+00:03:59.720 --> 00:04:01.570 align:start position:0%
+anything it takes practice so there are
+labs<00:04:00.019><c> that</c><00:04:00.380><c> go</c><00:04:00.500><c> with</c><00:04:00.650><c> this</c><00:04:00.860><c> set</c><00:04:01.400><c> of</c><00:04:01.519><c> videos</c>
+
+00:04:01.570 --> 00:04:01.580 align:start position:0%
+labs that go with this set of videos
+ 
+
+00:04:01.580 --> 00:04:03.790 align:start position:0%
+labs that go with this set of videos
+there's<00:04:02.150><c> a</c><00:04:02.239><c> book</c><00:04:02.510><c> and</c><00:04:03.260><c> I</c><00:04:03.380><c> encourage</c><00:04:03.620><c> you</c><00:04:03.739><c> to</c>
+
+00:04:03.790 --> 00:04:03.800 align:start position:0%
+there's a book and I encourage you to
+ 
+
+00:04:03.800 --> 00:04:05.740 align:start position:0%
+there's a book and I encourage you to
+experiment<00:04:04.160><c> with</c><00:04:04.489><c> those</c><00:04:04.670><c> in</c><00:04:05.000><c> order</c><00:04:05.269><c> to</c><00:04:05.390><c> gain</c><00:04:05.570><c> a</c>
+
+00:04:05.740 --> 00:04:05.750 align:start position:0%
+experiment with those in order to gain a
+ 
+
+00:04:05.750 --> 00:04:08.890 align:start position:0%
+experiment with those in order to gain a
+deeper<00:04:06.080><c> understanding</c><00:04:07.450><c> but</c><00:04:08.450><c> we're</c><00:04:08.570><c> not</c><00:04:08.690><c> quite</c>
+
+00:04:08.890 --> 00:04:08.900 align:start position:0%
+deeper understanding but we're not quite
+ 
+
+00:04:08.900 --> 00:04:10.780 align:start position:0%
+deeper understanding but we're not quite
+done<00:04:08.960><c> yet</c><00:04:09.310><c> so</c><00:04:10.310><c> I</c><00:04:10.340><c> want</c><00:04:10.490><c> to</c><00:04:10.550><c> make</c><00:04:10.640><c> some</c>
+
+00:04:10.780 --> 00:04:10.790 align:start position:0%
+done yet so I want to make some
+ 
+
+00:04:10.790 --> 00:04:12.640 align:start position:0%
+done yet so I want to make some
+observations<00:04:10.940><c> about</c><00:04:11.660><c> the</c><00:04:11.840><c> code</c>
+
+00:04:12.640 --> 00:04:12.650 align:start position:0%
+observations about the code
+ 
+
+00:04:12.650 --> 00:04:14.680 align:start position:0%
+observations about the code
+you'll<00:04:13.190><c> notice</c><00:04:13.400><c> that</c><00:04:13.550><c> throughout</c><00:04:14.209><c> the</c><00:04:14.390><c> code</c>
+
+00:04:14.680 --> 00:04:14.690 align:start position:0%
+you'll notice that throughout the code
+ 
+
+00:04:14.690 --> 00:04:17.140 align:start position:0%
+you'll notice that throughout the code
+ma<00:04:15.140><c> there's</c><00:04:15.349><c> not</c><00:04:15.470><c> much</c><00:04:15.620><c> here</c><00:04:16.040><c> but</c><00:04:16.700><c> we've</c><00:04:16.850><c> named</c>
+
+00:04:17.140 --> 00:04:17.150 align:start position:0%
+ma there's not much here but we've named
+ 
+
+00:04:17.150 --> 00:04:19.150 align:start position:0%
+ma there's not much here but we've named
+things<00:04:17.450><c> in</c><00:04:17.720><c> a</c><00:04:17.780><c> way</c><00:04:17.959><c> that</c><00:04:17.989><c> makes</c><00:04:18.470><c> the</c><00:04:18.620><c> code</c><00:04:18.799><c> self</c>
+
+00:04:19.150 --> 00:04:19.160 align:start position:0%
+things in a way that makes the code self
+ 
+
+00:04:19.160 --> 00:04:19.750 align:start position:0%
+things in a way that makes the code self
+readable
+
+00:04:19.750 --> 00:04:19.760 align:start position:0%
+readable
+ 
+
+00:04:19.760 --> 00:04:21.849 align:start position:0%
+readable
+what<00:04:20.030><c> is</c><00:04:20.120><c> this</c><00:04:20.299><c> class</c><00:04:20.570><c> do</c><00:04:20.840><c> well</c><00:04:21.260><c> it's</c><00:04:21.380><c> a</c><00:04:21.470><c> demo</c>
+
+00:04:21.849 --> 00:04:21.859 align:start position:0%
+what is this class do well it's a demo
+ 
+
+00:04:21.859 --> 00:04:23.950 align:start position:0%
+what is this class do well it's a demo
+of<00:04:22.070><c> the</c><00:04:22.460><c> larger</c><00:04:22.850><c> function</c><00:04:23.270><c> what</c><00:04:23.780><c> does</c><00:04:23.840><c> this</c>
+
+00:04:23.950 --> 00:04:23.960 align:start position:0%
+of the larger function what does this
+ 
+
+00:04:23.960 --> 00:04:25.690 align:start position:0%
+of the larger function what does this
+function<00:04:24.169><c> do</c><00:04:24.560><c> what's</c><00:04:24.800><c> called</c><00:04:24.919><c> larger</c><00:04:25.460><c> we</c>
+
+00:04:25.690 --> 00:04:25.700 align:start position:0%
+function do what's called larger we
+ 
+
+00:04:25.700 --> 00:04:27.460 align:start position:0%
+function do what's called larger we
+didn't<00:04:25.910><c> call</c><00:04:26.060><c> it</c><00:04:26.090><c> f</c><00:04:26.330><c> I</c><00:04:26.630><c> mean</c><00:04:26.870><c> we've</c><00:04:27.110><c> got</c><00:04:27.230><c> a</c><00:04:27.290><c> call</c>
+
+00:04:27.460 --> 00:04:27.470 align:start position:0%
+didn't call it f I mean we've got a call
+ 
+
+00:04:27.470 --> 00:04:30.190 align:start position:0%
+didn't call it f I mean we've got a call
+to<00:04:27.650><c> F</c><00:04:27.770><c> that's</c><00:04:28.700><c> the</c><00:04:28.790><c> work</c><00:04:28.910><c> just</c><00:04:29.150><c> the</c><00:04:29.300><c> same</c><00:04:29.330><c> but</c>
+
+00:04:30.190 --> 00:04:30.200 align:start position:0%
+to F that's the work just the same but
+ 
+
+00:04:30.200 --> 00:04:32.170 align:start position:0%
+to F that's the work just the same but
+the<00:04:30.320><c> code</c><00:04:30.530><c> as</c><00:04:30.710><c> written</c><00:04:31.010><c> here</c><00:04:31.040><c> is</c><00:04:31.490><c> more</c>
+
+00:04:32.170 --> 00:04:32.180 align:start position:0%
+the code as written here is more
+ 
+
+00:04:32.180 --> 00:04:34.300 align:start position:0%
+the code as written here is more
+descriptive<00:04:32.479><c> so</c><00:04:33.410><c> one</c><00:04:33.530><c> of</c><00:04:33.560><c> the</c><00:04:33.680><c> very</c><00:04:33.860><c> important</c>
+
+00:04:34.300 --> 00:04:34.310 align:start position:0%
+descriptive so one of the very important
+ 
+
+00:04:34.310 --> 00:04:35.379 align:start position:0%
+descriptive so one of the very important
+things<00:04:34.460><c> we're</c><00:04:34.639><c> gonna</c><00:04:34.729><c> teach</c><00:04:35.000><c> you</c><00:04:35.150><c> in</c><00:04:35.270><c> this</c>
+
+00:04:35.379 --> 00:04:35.389 align:start position:0%
+things we're gonna teach you in this
+ 
+
+00:04:35.389 --> 00:04:37.870 align:start position:0%
+things we're gonna teach you in this
+class<00:04:35.630><c> or</c><00:04:35.900><c> hope</c><00:04:36.050><c> to</c><00:04:36.080><c> write</c><00:04:36.580><c> because</c><00:04:37.580><c> we're</c><00:04:37.820><c> not</c>
+
+00:04:37.870 --> 00:04:37.880 align:start position:0%
+class or hope to write because we're not
+ 
+
+00:04:37.880 --> 00:04:39.490 align:start position:0%
+class or hope to write because we're not
+gonna<00:04:38.030><c> manually</c><00:04:38.510><c> examine</c><00:04:38.900><c> your</c><00:04:39.020><c> code</c><00:04:39.200><c> so</c><00:04:39.440><c> I</c>
+
+00:04:39.490 --> 00:04:39.500 align:start position:0%
+gonna manually examine your code so I
+ 
+
+00:04:39.500 --> 00:04:41.050 align:start position:0%
+gonna manually examine your code so I
+guess<00:04:39.650><c> you</c><00:04:39.740><c> could</c><00:04:39.860><c> get</c><00:04:40.040><c> away</c><00:04:40.130><c> with</c><00:04:40.370><c> it</c><00:04:40.400><c> trick</c>
+
+00:04:41.050 --> 00:04:41.060 align:start position:0%
+guess you could get away with it trick
+ 
+
+00:04:41.060 --> 00:04:43.540 align:start position:0%
+guess you could get away with it trick
+us<00:04:41.210><c> but</c><00:04:42.080><c> what</c><00:04:42.229><c> I</c><00:04:42.440><c> think</c><00:04:42.710><c> you</c><00:04:43.190><c> should</c><00:04:43.370><c> really</c>
+
+00:04:43.540 --> 00:04:43.550 align:start position:0%
+us but what I think you should really
+ 
+
+00:04:43.550 --> 00:04:45.520 align:start position:0%
+us but what I think you should really
+strive<00:04:43.910><c> for</c><00:04:44.260><c> even</c><00:04:45.260><c> though</c><00:04:45.380><c> we're</c><00:04:45.500><c> not</c>
+
+00:04:45.520 --> 00:04:45.530 align:start position:0%
+strive for even though we're not
+ 
+
+00:04:45.530 --> 00:04:47.350 align:start position:0%
+strive for even though we're not
+watching<00:04:46.010><c> right</c><00:04:46.040><c> over</c><00:04:46.370><c> your</c><00:04:46.460><c> shoulder</c><00:04:46.520><c> is</c><00:04:47.120><c> the</c>
+
+00:04:47.350 --> 00:04:47.360 align:start position:0%
+watching right over your shoulder is the
+ 
+
+00:04:47.360 --> 00:04:49.600 align:start position:0%
+watching right over your shoulder is the
+right<00:04:47.510><c> code</c><00:04:47.780><c> that</c><00:04:48.110><c> is</c><00:04:48.229><c> going</c><00:04:48.410><c> to</c><00:04:48.650><c> be</c><00:04:48.830><c> self</c>
+
+00:04:49.600 --> 00:04:49.610 align:start position:0%
+right code that is going to be self
+ 
+
+00:04:49.610 --> 00:04:51.879 align:start position:0%
+right code that is going to be self
+documenting<00:04:49.790><c> that's</c><00:04:50.540><c> readable</c><00:04:50.990><c> above</c><00:04:51.710><c> all</c>
+
+00:04:51.879 --> 00:04:51.889 align:start position:0%
+documenting that's readable above all
+ 
+
+00:04:51.889 --> 00:04:52.210 align:start position:0%
+documenting that's readable above all
+else
+
+00:04:52.210 --> 00:04:52.220 align:start position:0%
+else
+ 
+
+00:04:52.220 --> 00:04:53.560 align:start position:0%
+else
+you<00:04:52.340><c> should</c><00:04:52.490><c> write</c><00:04:52.610><c> code</c><00:04:52.910><c> that</c><00:04:52.940><c> if</c><00:04:53.270><c> someone</c>
+
+00:04:53.560 --> 00:04:53.570 align:start position:0%
+you should write code that if someone
+ 
+
+00:04:53.570 --> 00:04:55.480 align:start position:0%
+you should write code that if someone
+looks<00:04:53.750><c> at</c><00:04:53.870><c> it</c><00:04:54.050><c> they</c><00:04:54.229><c> can</c><00:04:54.380><c> understand</c><00:04:54.889><c> it</c><00:04:55.010><c> there</c>
+
+00:04:55.480 --> 00:04:55.490 align:start position:0%
+looks at it they can understand it there
+ 
+
+00:04:55.490 --> 00:04:56.950 align:start position:0%
+looks at it they can understand it there
+are<00:04:55.520><c> plenty</c><00:04:55.760><c> of</c><00:04:56.000><c> other</c><00:04:56.210><c> ways</c><00:04:56.419><c> that</c><00:04:56.479><c> you</c><00:04:56.810><c> could</c>
+
+00:04:56.950 --> 00:04:56.960 align:start position:0%
+are plenty of other ways that you could
+ 
+
+00:04:56.960 --> 00:04:59.950 align:start position:0%
+are plenty of other ways that you could
+write<00:04:57.139><c> this</c><00:04:57.380><c> code</c><00:04:57.620><c> oh</c><00:04:57.919><c> it</c><00:04:58.430><c> this</c><00:04:58.610><c> way</c><00:04:58.820><c> I</c><00:04:59.240><c> think</c>
+
+00:04:59.950 --> 00:04:59.960 align:start position:0%
+write this code oh it this way I think
+ 
+
+00:04:59.960 --> 00:05:02.860 align:start position:0%
+write this code oh it this way I think
+is<00:05:00.380><c> one</c><00:05:00.500><c> of</c><00:05:00.590><c> the</c><00:05:00.680><c> very</c><00:05:00.770><c> clearest</c><00:05:01.250><c> okay</c><00:05:01.870><c> one</c>
+
+00:05:02.860 --> 00:05:02.870 align:start position:0%
+is one of the very clearest okay one
+ 
+
+00:05:02.870 --> 00:05:04.360 align:start position:0%
+is one of the very clearest okay one
+other<00:05:03.139><c> little</c><00:05:03.350><c> thing</c><00:05:03.500><c> I'll</c><00:05:03.770><c> mention</c><00:05:03.889><c> is</c><00:05:04.190><c> that</c>
+
+00:05:04.360 --> 00:05:04.370 align:start position:0%
+other little thing I'll mention is that
+ 
+
+00:05:04.370 --> 00:05:05.800 align:start position:0%
+other little thing I'll mention is that
+well<00:05:04.610><c> right</c><00:05:05.150><c> here</c><00:05:05.330><c> I've</c><00:05:05.389><c> been</c><00:05:05.510><c> showing</c><00:05:05.690><c> you</c>
+
+00:05:05.800 --> 00:05:05.810 align:start position:0%
+well right here I've been showing you
+ 
+
+00:05:05.810 --> 00:05:07.270 align:start position:0%
+well right here I've been showing you
+comments<00:05:06.320><c> obviously</c><00:05:06.500><c> in</c><00:05:06.830><c> your</c><00:05:06.950><c> code</c><00:05:07.130><c> you're</c>
+
+00:05:07.270 --> 00:05:07.280 align:start position:0%
+comments obviously in your code you're
+ 
+
+00:05:07.280 --> 00:05:08.590 align:start position:0%
+comments obviously in your code you're
+not<00:05:07.400><c> gonna</c><00:05:07.490><c> have</c><00:05:07.700><c> a</c><00:05:07.729><c> big</c><00:05:07.940><c> paragraph</c><00:05:08.419><c> at</c><00:05:08.570><c> the</c>
+
+00:05:08.590 --> 00:05:08.600 align:start position:0%
+not gonna have a big paragraph at the
+ 
+
+00:05:08.600 --> 00:05:09.909 align:start position:0%
+not gonna have a big paragraph at the
+end<00:05:08.690><c> explaining</c><00:05:09.380><c> all</c><00:05:09.500><c> the</c><00:05:09.620><c> things</c><00:05:09.770><c> we</c>
+
+00:05:09.909 --> 00:05:09.919 align:start position:0%
+end explaining all the things we
+ 
+
+00:05:09.919 --> 00:05:12.460 align:start position:0%
+end explaining all the things we
+observed<00:05:10.010><c> writing</c><00:05:10.550><c> it</c><00:05:10.870><c> instead</c><00:05:11.870><c> what</c><00:05:12.410><c> you</c>
+
+00:05:12.460 --> 00:05:12.470 align:start position:0%
+observed writing it instead what you
+ 
+
+00:05:12.470 --> 00:05:14.469 align:start position:0%
+observed writing it instead what you
+want<00:05:12.680><c> to</c><00:05:12.740><c> do</c><00:05:12.830><c> is</c><00:05:12.979><c> make</c><00:05:13.160><c> sure</c><00:05:13.190><c> that</c><00:05:13.430><c> where</c><00:05:14.389><c> you</c>
+
+00:05:14.469 --> 00:05:14.479 align:start position:0%
+want to do is make sure that where you
+ 
+
+00:05:14.479 --> 00:05:16.270 align:start position:0%
+want to do is make sure that where you
+do<00:05:14.660><c> use</c><00:05:14.840><c> comments</c><00:05:15.290><c> it's</c><00:05:15.620><c> there</c><00:05:15.889><c> so</c><00:05:16.130><c> that</c>
+
+00:05:16.270 --> 00:05:16.280 align:start position:0%
+do use comments it's there so that
+ 
+
+00:05:16.280 --> 00:05:18.490 align:start position:0%
+do use comments it's there so that
+someone<00:05:16.520><c> else</c><00:05:16.639><c> can</c><00:05:16.789><c> understand</c><00:05:17.240><c> your</c><00:05:17.389><c> code</c><00:05:17.570><c> so</c>
+
+00:05:18.490 --> 00:05:18.500 align:start position:0%
+someone else can understand your code so
+ 
+
+00:05:18.500 --> 00:05:19.510 align:start position:0%
+someone else can understand your code so
+I'd<00:05:18.590><c> say</c><00:05:18.710><c> there's</c><00:05:18.889><c> not</c><00:05:18.979><c> really</c><00:05:19.190><c> much</c><00:05:19.460><c> to</c>
+
+00:05:19.510 --> 00:05:19.520 align:start position:0%
+I'd say there's not really much to
+ 
+
+00:05:19.520 --> 00:05:21.760 align:start position:0%
+I'd say there's not really much to
+comment<00:05:20.150><c> in</c><00:05:20.240><c> this</c><00:05:20.539><c> program</c><00:05:20.930><c> except</c><00:05:21.680><c> that</c>
+
+00:05:21.760 --> 00:05:21.770 align:start position:0%
+comment in this program except that
+ 
+
+00:05:21.770 --> 00:05:24.219 align:start position:0%
+comment in this program except that
+there's<00:05:21.979><c> a</c><00:05:22.340><c> general</c><00:05:22.970><c> rule</c><00:05:23.270><c> of</c><00:05:23.300><c> thumb</c><00:05:23.479><c> that</c>
+
+00:05:24.219 --> 00:05:24.229 align:start position:0%
+there's a general rule of thumb that
+ 
+
+00:05:24.229 --> 00:05:25.960 align:start position:0%
+there's a general rule of thumb that
+when<00:05:24.380><c> you</c><00:05:24.470><c> write</c><00:05:24.650><c> a</c><00:05:24.680><c> function</c><00:05:24.979><c> it's</c><00:05:25.370><c> nice</c><00:05:25.700><c> to</c>
+
+00:05:25.960 --> 00:05:25.970 align:start position:0%
+when you write a function it's nice to
+ 
+
+00:05:25.970 --> 00:05:27.279 align:start position:0%
+when you write a function it's nice to
+put<00:05:26.120><c> a</c><00:05:26.180><c> little</c><00:05:26.479><c> comment</c><00:05:26.750><c> at</c><00:05:27.020><c> the</c><00:05:27.139><c> top</c>
+
+00:05:27.279 --> 00:05:27.289 align:start position:0%
+put a little comment at the top
+ 
+
+00:05:27.289 --> 00:05:30.129 align:start position:0%
+put a little comment at the top
+describing<00:05:27.919><c> what</c><00:05:28.070><c> it</c><00:05:28.160><c> does</c><00:05:28.570><c> so</c><00:05:29.570><c> in</c><00:05:29.660><c> Python</c><00:05:29.810><c> it</c>
+
+00:05:30.129 --> 00:05:30.139 align:start position:0%
+describing what it does so in Python it
+ 
+
+00:05:30.139 --> 00:05:32.469 align:start position:0%
+describing what it does so in Python it
+might<00:05:30.260><c> look</c><00:05:30.380><c> something</c><00:05:30.440><c> like</c><00:05:30.800><c> this</c><00:05:31.479><c> returns</c>
+
+00:05:32.469 --> 00:05:32.479 align:start position:0%
+might look something like this returns
+ 
+
+00:05:32.479 --> 00:05:35.290 align:start position:0%
+might look something like this returns
+the<00:05:32.630><c> larger</c><00:05:33.139><c> of</c><00:05:33.350><c> xny</c><00:05:33.979><c> and</c><00:05:34.850><c> these</c><00:05:34.970><c> triple</c>
+
+00:05:35.290 --> 00:05:35.300 align:start position:0%
+the larger of xny and these triple
+ 
+
+00:05:35.300 --> 00:05:38.529 align:start position:0%
+the larger of xny and these triple
+quotes<00:05:35.510><c> in</c><00:05:36.410><c> Java</c><00:05:36.919><c> the</c><00:05:37.610><c> common</c><00:05:37.940><c> convention</c><00:05:38.389><c> is</c>
+
+00:05:38.529 --> 00:05:38.539 align:start position:0%
+quotes in Java the common convention is
+ 
+
+00:05:38.539 --> 00:05:41.440 align:start position:0%
+quotes in Java the common convention is
+to<00:05:38.600><c> do</c><00:05:39.080><c> slash</c><00:05:39.470><c> star</c><00:05:39.979><c> of</c><00:05:40.160><c> stars</c><00:05:40.400><c> an</c><00:05:40.850><c> extra</c><00:05:41.180><c> star</c>
+
+00:05:41.440 --> 00:05:41.450 align:start position:0%
+to do slash star of stars an extra star
+ 
+
+00:05:41.450 --> 00:05:43.390 align:start position:0%
+to do slash star of stars an extra star
+here<00:05:41.720><c> for</c><00:05:41.960><c> our</c><00:05:42.020><c> block</c><00:05:42.260><c> comet</c><00:05:42.650><c> and</c><00:05:42.860><c> write</c><00:05:43.310><c> the</c>
+
+00:05:43.390 --> 00:05:43.400 align:start position:0%
+here for our block comet and write the
+ 
+
+00:05:43.400 --> 00:05:46.000 align:start position:0%
+here for our block comet and write the
+description<00:05:43.880><c> that</c><00:05:44.750><c> returns</c><00:05:45.110><c> the</c><00:05:45.289><c> larger</c><00:05:45.650><c> of</c><00:05:45.800><c> x</c>
+
+00:05:46.000 --> 00:05:46.010 align:start position:0%
+description that returns the larger of x
+ 
+
+00:05:46.010 --> 00:05:48.580 align:start position:0%
+description that returns the larger of x
+and<00:05:46.310><c> y</c><00:05:46.490><c> okay</c><00:05:47.000><c> now</c><00:05:47.690><c> in</c><00:05:47.780><c> this</c><00:05:47.870><c> case</c><00:05:48.139><c> it's</c><00:05:48.410><c> a</c>
+
+00:05:48.580 --> 00:05:48.590 align:start position:0%
+and y okay now in this case it's a
+ 
+
+00:05:48.590 --> 00:05:51.010 align:start position:0%
+and y okay now in this case it's a
+little<00:05:48.830><c> silly</c><00:05:49.270><c> but</c><00:05:50.270><c> there</c><00:05:50.419><c> are</c><00:05:50.539><c> tools</c><00:05:50.840><c> that</c>
+
+00:05:51.010 --> 00:05:51.020 align:start position:0%
+little silly but there are tools that
+ 
+
+00:05:51.020 --> 00:05:53.230 align:start position:0%
+little silly but there are tools that
+exist<00:05:51.229><c> that</c><00:05:51.680><c> will</c><00:05:51.770><c> take</c><00:05:51.950><c> source</c><00:05:52.250><c> code</c><00:05:52.520><c> find</c>
+
+00:05:53.230 --> 00:05:53.240 align:start position:0%
+exist that will take source code find
+ 
+
+00:05:53.240 --> 00:05:55.240 align:start position:0%
+exist that will take source code find
+all<00:05:53.510><c> of</c><00:05:53.539><c> the</c><00:05:53.870><c> slash</c><00:05:54.110><c> star</c><00:05:54.380><c> star</c><00:05:54.650><c> comments</c><00:05:55.130><c> and</c>
+
+00:05:55.240 --> 00:05:55.250 align:start position:0%
+all of the slash star star comments and
+ 
+
+00:05:55.250 --> 00:05:59.469 align:start position:0%
+all of the slash star star comments and
+generate<00:05:55.550><c> a</c><00:05:55.580><c> nice</c><00:05:55.820><c> HTML</c><00:05:56.539><c> document</c><00:05:57.050><c> and</c><00:05:57.740><c> so</c><00:05:58.479><c> for</c>
+
+00:05:59.469 --> 00:05:59.479 align:start position:0%
+generate a nice HTML document and so for
+ 
+
+00:05:59.479 --> 00:06:01.240 align:start position:0%
+generate a nice HTML document and so for
+that<00:05:59.570><c> reason</c><00:05:59.630><c> you're</c><00:06:00.320><c> encouraged</c><00:06:00.620><c> to</c><00:06:00.650><c> always</c>
+
+00:06:01.240 --> 00:06:01.250 align:start position:0%
+that reason you're encouraged to always
+ 
+
+00:06:01.250 --> 00:06:03.129 align:start position:0%
+that reason you're encouraged to always
+use<00:06:01.430><c> Java</c><00:06:01.700><c> comments</c><00:06:02.389><c> even</c><00:06:02.539><c> whenever</c><00:06:03.050><c> a</c>
+
+00:06:03.129 --> 00:06:03.139 align:start position:0%
+use Java comments even whenever a
+ 
+
+00:06:03.139 --> 00:06:04.740 align:start position:0%
+use Java comments even whenever a
+function<00:06:03.349><c> is</c><00:06:03.680><c> pretty</c><00:06:03.889><c> self-explanatory</c>
+
+00:06:04.740 --> 00:06:04.750 align:start position:0%
+function is pretty self-explanatory
+ 
+
+00:06:04.750 --> 00:06:08.050 align:start position:0%
+function is pretty self-explanatory
+now<00:06:05.750><c> the</c><00:06:05.810><c> Java</c><00:06:06.410><c> doc</c><00:06:06.650><c> format</c><00:06:06.979><c> sometimes</c><00:06:07.490><c> people</c>
+
+00:06:08.050 --> 00:06:08.060 align:start position:0%
+now the Java doc format sometimes people
+ 
+
+00:06:08.060 --> 00:06:10.420 align:start position:0%
+now the Java doc format sometimes people
+also<00:06:08.240><c> add</c><00:06:08.510><c> little</c><00:06:08.810><c> tags</c><00:06:09.080><c> here</c><00:06:09.530><c> so</c><00:06:09.979><c> you</c><00:06:10.070><c> can</c><00:06:10.250><c> add</c>
+
+00:06:10.420 --> 00:06:10.430 align:start position:0%
+also add little tags here so you can add
+ 
+
+00:06:10.430 --> 00:06:11.179 align:start position:0%
+also add little tags here so you can add
+you<00:06:10.729><c> know</c>
+
+00:06:11.179 --> 00:06:11.189 align:start position:0%
+you know
+ 
+
+00:06:11.189 --> 00:06:13.309 align:start position:0%
+you know
+there's<00:06:11.879><c> various</c><00:06:12.330><c> conventions</c><00:06:12.869><c> but</c><00:06:13.080><c> you</c><00:06:13.139><c> can</c>
+
+00:06:13.309 --> 00:06:13.319 align:start position:0%
+there's various conventions but you can
+ 
+
+00:06:13.319 --> 00:06:15.459 align:start position:0%
+there's various conventions but you can
+write<00:06:13.499><c> things</c><00:06:13.680><c> like</c><00:06:13.830><c> precondition</c><00:06:14.789><c> and</c>
+
+00:06:15.459 --> 00:06:15.469 align:start position:0%
+write things like precondition and
+ 
+
+00:06:15.469 --> 00:06:17.600 align:start position:0%
+write things like precondition and
+explain<00:06:16.469><c> thing</c><00:06:16.770><c> you</c><00:06:16.889><c> expect</c><00:06:17.009><c> to</c><00:06:17.279><c> be</c><00:06:17.400><c> true</c>
+
+00:06:17.600 --> 00:06:17.610 align:start position:0%
+explain thing you expect to be true
+ 
+
+00:06:17.610 --> 00:06:19.369 align:start position:0%
+explain thing you expect to be true
+before<00:06:17.789><c> the</c><00:06:18.059><c> function</c><00:06:18.389><c> or</c><00:06:18.539><c> whatever</c><00:06:18.659><c> there's</c>
+
+00:06:19.369 --> 00:06:19.379 align:start position:0%
+before the function or whatever there's
+ 
+
+00:06:19.379 --> 00:06:21.379 align:start position:0%
+before the function or whatever there's
+a<00:06:19.439><c> whole</c><00:06:19.619><c> different</c><00:06:20.189><c> set</c><00:06:20.430><c> of</c><00:06:20.460><c> ideas</c><00:06:21.089><c> about</c>
+
+00:06:21.379 --> 00:06:21.389 align:start position:0%
+a whole different set of ideas about
+ 
+
+00:06:21.389 --> 00:06:23.510 align:start position:0%
+a whole different set of ideas about
+what<00:06:21.569><c> kind</c><00:06:21.749><c> of</c><00:06:21.779><c> tags</c><00:06:22.020><c> you</c><00:06:22.229><c> can</c><00:06:22.379><c> have</c><00:06:22.559><c> we're</c><00:06:23.399><c> not</c>
+
+00:06:23.510 --> 00:06:23.520 align:start position:0%
+what kind of tags you can have we're not
+ 
+
+00:06:23.520 --> 00:06:26.239 align:start position:0%
+what kind of tags you can have we're not
+gonna<00:06:23.669><c> tip</c><00:06:23.909><c> acquire</c><00:06:24.779><c> those</c><00:06:25.169><c> in</c><00:06:25.409><c> this</c><00:06:25.559><c> class</c><00:06:25.800><c> of</c>
+
+00:06:26.239 --> 00:06:26.249 align:start position:0%
+gonna tip acquire those in this class of
+ 
+
+00:06:26.249 --> 00:06:29.239 align:start position:0%
+gonna tip acquire those in this class of
+a<00:06:26.399><c> do</c><00:06:26.550><c> be</c><00:06:26.669><c> aware</c><00:06:26.699><c> they</c><00:06:26.999><c> exist</c><00:06:27.860><c> it</c><00:06:28.860><c> is</c><00:06:28.919><c> also</c>
+
+00:06:29.239 --> 00:06:29.249 align:start position:0%
+a do be aware they exist it is also
+ 
+
+00:06:29.249 --> 00:06:31.309 align:start position:0%
+a do be aware they exist it is also
+pretty<00:06:29.399><c> common</c><00:06:29.610><c> to</c><00:06:29.909><c> write</c><00:06:30.059><c> a</c><00:06:30.270><c> Java</c><00:06:30.960><c> Docs</c>
+
+00:06:31.309 --> 00:06:31.319 align:start position:0%
+pretty common to write a Java Docs
+ 
+
+00:06:31.319 --> 00:06:32.899 align:start position:0%
+pretty common to write a Java Docs
+screen<00:06:31.619><c> string</c><00:06:32.009><c> at</c><00:06:32.159><c> the</c><00:06:32.249><c> beginning</c><00:06:32.639><c> something</c>
+
+00:06:32.899 --> 00:06:32.909 align:start position:0%
+screen string at the beginning something
+ 
+
+00:06:32.909 --> 00:06:39.139 align:start position:0%
+screen string at the beginning something
+like<00:06:33.919><c> demonstrates</c><00:06:36.740><c> creation</c><00:06:37.740><c> of</c><00:06:38.550><c> a</c><00:06:38.669><c> larger</c>
+
+00:06:39.139 --> 00:06:39.149 align:start position:0%
+like demonstrates creation of a larger
+ 
+
+00:06:39.149 --> 00:06:43.450 align:start position:0%
+like demonstrates creation of a larger
+method<00:06:39.979><c> or</c><00:06:40.979><c> creation</c><00:06:41.550><c> of</c><00:06:41.639><c> a</c><00:06:41.699><c> method</c><00:06:41.999><c> in</c><00:06:42.119><c> Java</c>
+
+00:06:43.450 --> 00:06:43.460 align:start position:0%
+method or creation of a method in Java
+ 
+
+00:06:43.460 --> 00:06:45.980 align:start position:0%
+method or creation of a method in Java
+something<00:06:44.460><c> like</c><00:06:44.580><c> that</c><00:06:44.759><c> right</c><00:06:45.029><c> I</c><00:06:45.240><c> mean</c><00:06:45.449><c> mmm</c>
+
+00:06:45.980 --> 00:06:45.990 align:start position:0%
+something like that right I mean mmm
+ 
+
+00:06:45.990 --> 00:06:47.959 align:start position:0%
+something like that right I mean mmm
+this<00:06:46.379><c> is</c><00:06:46.499><c> kind</c><00:06:46.680><c> of</c><00:06:46.710><c> weird</c><00:06:47.099><c> meta</c><00:06:47.430><c> thing</c><00:06:47.699><c> since</c>
+
+00:06:47.959 --> 00:06:47.969 align:start position:0%
+this is kind of weird meta thing since
+ 
+
+00:06:47.969 --> 00:06:50.179 align:start position:0%
+this is kind of weird meta thing since
+it's<00:06:48.120><c> actually</c><00:06:48.289><c> just</c><00:06:49.289><c> for</c><00:06:49.409><c> instruction</c><00:06:49.919><c> so</c>
+
+00:06:50.179 --> 00:06:50.189 align:start position:0%
+it's actually just for instruction so
+ 
+
+00:06:50.189 --> 00:06:52.700 align:start position:0%
+it's actually just for instruction so
+you<00:06:50.520><c> might</c><00:06:50.669><c> have</c><00:06:50.819><c> Java</c><00:06:51.089><c> Doc's</c><00:06:51.360><c> at</c><00:06:51.629><c> the</c><00:06:51.809><c> top</c><00:06:51.990><c> mmm</c>
+
+00:06:52.700 --> 00:06:52.710 align:start position:0%
+you might have Java Doc's at the top mmm
+ 
+
+00:06:52.710 --> 00:06:55.670 align:start position:0%
+you might have Java Doc's at the top mmm
+for<00:06:52.830><c> this</c><00:06:52.949><c> case</c><00:06:53.159><c> I</c><00:06:53.490><c> don't</c><00:06:53.550><c> maybe</c><00:06:53.819><c> not</c><00:06:54.029><c> but</c><00:06:54.680><c> yeah</c>
+
+00:06:55.670 --> 00:06:55.680 align:start position:0%
+for this case I don't maybe not but yeah
+ 
+
+00:06:55.680 --> 00:06:58.760 align:start position:0%
+for this case I don't maybe not but yeah
+so<00:06:55.979><c> be</c><00:06:56.699><c> aware</c><00:06:56.789><c> this</c><00:06:57.360><c> is</c><00:06:57.419><c> a</c><00:06:57.539><c> good</c><00:06:57.749><c> practice</c><00:06:58.169><c> but</c>
+
+00:06:58.760 --> 00:06:58.770 align:start position:0%
+so be aware this is a good practice but
+ 
+
+00:06:58.770 --> 00:07:02.029 align:start position:0%
+so be aware this is a good practice but
+the<00:06:58.979><c> most</c><00:06:59.159><c> important</c><00:06:59.580><c> thing</c><00:06:59.699><c> is</c><00:06:59.819><c> not</c><00:06:59.999><c> the</c><00:07:01.039><c> the</c>
+
+00:07:02.029 --> 00:07:02.039 align:start position:0%
+the most important thing is not the the
+ 
+
+00:07:02.039 --> 00:07:04.100 align:start position:0%
+the most important thing is not the the
+minor<00:07:02.249><c> details</c><00:07:02.759><c> of</c><00:07:03.089><c> the</c><00:07:03.180><c> tags</c><00:07:03.419><c> or</c><00:07:03.809><c> slash</c>
+
+00:07:04.100 --> 00:07:04.110 align:start position:0%
+minor details of the tags or slash
+ 
+
+00:07:04.110 --> 00:07:05.779 align:start position:0%
+minor details of the tags or slash
+darkstar's<00:07:04.770><c> it's</c><00:07:05.069><c> really</c><00:07:05.339><c> you</c><00:07:05.490><c> should</c><00:07:05.669><c> be</c>
+
+00:07:05.779 --> 00:07:05.789 align:start position:0%
+darkstar's it's really you should be
+ 
+
+00:07:05.789 --> 00:07:07.339 align:start position:0%
+darkstar's it's really you should be
+striving<00:07:06.089><c> to</c><00:07:06.360><c> make</c><00:07:06.539><c> sure</c><00:07:06.779><c> your</c><00:07:06.990><c> code</c><00:07:07.169><c> is</c>
+
+00:07:07.339 --> 00:07:07.349 align:start position:0%
+striving to make sure your code is
+ 
+
+00:07:07.349 --> 00:07:09.799 align:start position:0%
+striving to make sure your code is
+readable<00:07:07.620><c> to</c><00:07:08.159><c> other</c><00:07:08.370><c> people</c><00:07:08.789><c> and</c><00:07:08.999><c> sometimes</c>
+
+00:07:09.799 --> 00:07:09.809 align:start position:0%
+readable to other people and sometimes
+ 
+
+00:07:09.809 --> 00:07:11.209 align:start position:0%
+readable to other people and sometimes
+you'll<00:07:10.139><c> find</c><00:07:10.379><c> that</c><00:07:10.499><c> those</c><00:07:10.649><c> other</c><00:07:10.800><c> people</c><00:07:11.099><c> are</c>
+
+00:07:11.209 --> 00:07:11.219 align:start position:0%
+you'll find that those other people are
+ 
+
+00:07:11.219 --> 00:07:13.519 align:start position:0%
+you'll find that those other people are
+actually<00:07:11.369><c> you</c><00:07:11.669><c> what</c><00:07:12.209><c> do</c><00:07:12.270><c> I</c><00:07:12.330><c> mean</c><00:07:12.509><c> by</c><00:07:12.569><c> that</c><00:07:12.899><c> well</c>
+
+00:07:13.519 --> 00:07:13.529 align:start position:0%
+actually you what do I mean by that well
+ 
+
+00:07:13.529 --> 00:07:15.469 align:start position:0%
+actually you what do I mean by that well
+you<00:07:13.619><c> write</c><00:07:13.740><c> a</c><00:07:13.830><c> program</c><00:07:13.949><c> in</c><00:07:14.279><c> September</c><00:07:14.729><c> of</c><00:07:14.759><c> 2014</c>
+
+00:07:15.469 --> 00:07:15.479 align:start position:0%
+you write a program in September of 2014
+ 
+
+00:07:15.479 --> 00:07:18.019 align:start position:0%
+you write a program in September of 2014
+and<00:07:15.749><c> then</c><00:07:16.199><c> May</c><00:07:16.469><c> of</c><00:07:16.649><c> 2018</c><00:07:16.919><c> rolls</c><00:07:17.490><c> around</c><00:07:17.639><c> and</c>
+
+00:07:18.019 --> 00:07:18.029 align:start position:0%
+and then May of 2018 rolls around and
+ 
+
+00:07:18.029 --> 00:07:20.239 align:start position:0%
+and then May of 2018 rolls around and
+you<00:07:18.089><c> need</c><00:07:18.209><c> to</c><00:07:18.360><c> fix</c><00:07:18.509><c> it</c><00:07:18.719><c> it</c><00:07:19.139><c> is</c><00:07:19.289><c> a</c><00:07:19.499><c> great</c><00:07:19.949><c> favor</c>
+
+00:07:20.239 --> 00:07:20.249 align:start position:0%
+you need to fix it it is a great favor
+ 
+
+00:07:20.249 --> 00:07:22.249 align:start position:0%
+you need to fix it it is a great favor
+to<00:07:20.550><c> yourself</c><00:07:20.969><c> in</c><00:07:21.180><c> the</c><00:07:21.209><c> future</c><00:07:21.419><c> to</c><00:07:21.870><c> write</c><00:07:22.020><c> code</c>
+
+00:07:22.249 --> 00:07:22.259 align:start position:0%
+to yourself in the future to write code
+ 
+
+00:07:22.259 --> 00:07:25.459 align:start position:0%
+to yourself in the future to write code
+that<00:07:22.680><c> is</c><00:07:22.770><c> understandable</c>
+

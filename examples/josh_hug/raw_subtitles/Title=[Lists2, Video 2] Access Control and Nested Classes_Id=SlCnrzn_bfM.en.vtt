@@ -1,0 +1,2048 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.079 --> 00:00:02.720 align:start position:0%
+ 
+using<00:00:01.079><c> an</c><00:00:01.170><c> S</c><00:00:01.290><c> lists</c><00:00:01.650><c> pretty</c><00:00:01.890><c> simple</c><00:00:02.280><c> you</c><00:00:02.610><c> want</c>
+
+00:00:02.720 --> 00:00:02.730 align:start position:0%
+using an S lists pretty simple you want
+ 
+
+00:00:02.730 --> 00:00:04.579 align:start position:0%
+using an S lists pretty simple you want
+to<00:00:02.850><c> add</c><00:00:02.939><c> or</c><00:00:03.060><c> remove</c><00:00:03.210><c> stuff</c><00:00:03.659><c> get</c><00:00:04.259><c> stuff</c>
+
+00:00:04.579 --> 00:00:04.589 align:start position:0%
+to add or remove stuff get stuff
+ 
+
+00:00:04.589 --> 00:00:07.190 align:start position:0%
+to add or remove stuff get stuff
+whatever<00:00:05.130><c> you</c><00:00:06.000><c> should</c><00:00:06.210><c> use</c><00:00:06.450><c> the</c><00:00:06.690><c> methods</c><00:00:07.049><c> that</c>
+
+00:00:07.190 --> 00:00:07.200 align:start position:0%
+whatever you should use the methods that
+ 
+
+00:00:07.200 --> 00:00:09.440 align:start position:0%
+whatever you should use the methods that
+are<00:00:07.290><c> provided</c><00:00:07.710><c> by</c><00:00:07.740><c> the</c><00:00:08.189><c> class</c><00:00:08.450><c> however</c>
+
+00:00:09.440 --> 00:00:09.450 align:start position:0%
+are provided by the class however
+ 
+
+00:00:09.450 --> 00:00:11.540 align:start position:0%
+are provided by the class however
+technically<00:00:09.929><c> the</c><00:00:10.349><c> way</c><00:00:10.469><c> Java</c><00:00:10.830><c> syntax</c><00:00:11.070><c> works</c>
+
+00:00:11.540 --> 00:00:11.550 align:start position:0%
+technically the way Java syntax works
+ 
+
+00:00:11.550 --> 00:00:14.180 align:start position:0%
+technically the way Java syntax works
+you<00:00:12.059><c> can</c><00:00:12.210><c> try</c><00:00:12.360><c> and</c><00:00:12.450><c> do</c><00:00:12.570><c> weird</c><00:00:12.900><c> stuff</c><00:00:13.040><c> so</c><00:00:14.040><c> for</c>
+
+00:00:14.180 --> 00:00:14.190 align:start position:0%
+you can try and do weird stuff so for
+ 
+
+00:00:14.190 --> 00:00:16.730 align:start position:0%
+you can try and do weird stuff so for
+example<00:00:14.549><c> I</c><00:00:14.730><c> can</c><00:00:15.059><c> reach</c><00:00:15.780><c> directly</c><00:00:16.139><c> inside</c><00:00:16.680><c> of</c>
+
+00:00:16.730 --> 00:00:16.740 align:start position:0%
+example I can reach directly inside of
+ 
+
+00:00:16.740 --> 00:00:18.590 align:start position:0%
+example I can reach directly inside of
+the<00:00:16.890><c> object</c><00:00:17.010><c> I</c><00:00:17.490><c> could</c><00:00:17.699><c> say</c><00:00:17.880><c> hey</c><00:00:18.300><c> you</c><00:00:18.390><c> know</c><00:00:18.480><c> what</c>
+
+00:00:18.590 --> 00:00:18.600 align:start position:0%
+the object I could say hey you know what
+ 
+
+00:00:18.600 --> 00:00:21.620 align:start position:0%
+the object I could say hey you know what
+L<00:00:19.580><c> I'm</c><00:00:20.580><c> not</c><00:00:20.730><c> gonna</c><00:00:20.850><c> use</c><00:00:21.000><c> your</c><00:00:21.029><c> method</c><00:00:21.390><c> let's</c>
+
+00:00:21.620 --> 00:00:21.630 align:start position:0%
+L I'm not gonna use your method let's
+ 
+
+00:00:21.630 --> 00:00:24.439 align:start position:0%
+L I'm not gonna use your method let's
+say<00:00:21.720><c> I'm</c><00:00:21.810><c> gonna</c><00:00:21.930><c> say</c><00:00:22.140><c> take</c><00:00:23.010><c> first</c><00:00:23.369><c> next</c><00:00:24.240><c> dot</c>
+
+00:00:24.439 --> 00:00:24.449 align:start position:0%
+say I'm gonna say take first next dot
+ 
+
+00:00:24.449 --> 00:00:26.540 align:start position:0%
+say I'm gonna say take first next dot
+next<00:00:25.140><c> and</c><00:00:25.380><c> set</c><00:00:25.710><c> it</c><00:00:25.800><c> equal</c><00:00:25.859><c> to</c><00:00:26.039><c> L</c><00:00:26.220><c> dot</c><00:00:26.340><c> first</c>
+
+00:00:26.540 --> 00:00:26.550 align:start position:0%
+next and set it equal to L dot first
+ 
+
+00:00:26.550 --> 00:00:29.900 align:start position:0%
+next and set it equal to L dot first
+next<00:00:27.090><c> and</c><00:00:27.570><c> I</c><00:00:27.660><c> can</c><00:00:27.949><c> basically</c><00:00:28.949><c> do</c><00:00:29.490><c> bizarre</c>
+
+00:00:29.900 --> 00:00:29.910 align:start position:0%
+next and I can basically do bizarre
+ 
+
+00:00:29.910 --> 00:00:31.490 align:start position:0%
+next and I can basically do bizarre
+things<00:00:30.179><c> to</c><00:00:30.390><c> my</c><00:00:30.510><c> data</c><00:00:30.689><c> structures</c><00:00:31.170><c> that</c><00:00:31.380><c> are</c>
+
+00:00:31.490 --> 00:00:31.500 align:start position:0%
+things to my data structures that are
+ 
+
+00:00:31.500 --> 00:00:33.500 align:start position:0%
+things to my data structures that are
+not<00:00:31.619><c> intended</c><00:00:32.130><c> or</c><00:00:32.219><c> allowed</c><00:00:32.489><c> by</c><00:00:32.520><c> the</c><00:00:32.820><c> methods</c>
+
+00:00:33.500 --> 00:00:33.510 align:start position:0%
+not intended or allowed by the methods
+ 
+
+00:00:33.510 --> 00:00:35.900 align:start position:0%
+not intended or allowed by the methods
+provided<00:00:33.899><c> you</c><00:00:34.800><c> might</c><00:00:34.950><c> consider</c><00:00:35.160><c> pausing</c><00:00:35.760><c> and</c>
+
+00:00:35.900 --> 00:00:35.910 align:start position:0%
+provided you might consider pausing and
+ 
+
+00:00:35.910 --> 00:00:36.950 align:start position:0%
+provided you might consider pausing and
+guessing<00:00:36.090><c> what's</c><00:00:36.390><c> gonna</c><00:00:36.510><c> happen</c><00:00:36.809><c> to</c><00:00:36.870><c> this</c>
+
+00:00:36.950 --> 00:00:36.960 align:start position:0%
+guessing what's gonna happen to this
+ 
+
+00:00:36.960 --> 00:00:40.310 align:start position:0%
+guessing what's gonna happen to this
+picture<00:00:37.730><c> so</c><00:00:38.730><c> what</c><00:00:38.850><c> happens</c><00:00:39.180><c> is</c><00:00:39.390><c> this</c><00:00:40.050><c> right</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+picture so what happens is this right
+ 
+
+00:00:40.320 --> 00:00:42.319 align:start position:0%
+picture so what happens is this right
+here<00:00:40.530><c> ends</c><00:00:41.100><c> up</c><00:00:41.160><c> pointing</c><00:00:41.489><c> back</c><00:00:41.640><c> at</c><00:00:41.670><c> itself</c><00:00:42.090><c> and</c>
+
+00:00:42.319 --> 00:00:42.329 align:start position:0%
+here ends up pointing back at itself and
+ 
+
+00:00:42.329 --> 00:00:45.229 align:start position:0%
+here ends up pointing back at itself and
+we<00:00:42.750><c> ruin</c><00:00:43.110><c> the</c><00:00:43.590><c> list</c><00:00:43.770><c> this</c><00:00:44.489><c> is</c><00:00:44.550><c> not</c><00:00:44.789><c> something</c>
+
+00:00:45.229 --> 00:00:45.239 align:start position:0%
+we ruin the list this is not something
+ 
+
+00:00:45.239 --> 00:00:46.790 align:start position:0%
+we ruin the list this is not something
+that<00:00:45.270><c> an</c><00:00:45.450><c> int</c><00:00:45.719><c> list</c><00:00:45.809><c> or</c><00:00:46.230><c> an</c><00:00:46.320><c> int</c><00:00:46.440><c> list</c><00:00:46.500><c> like</c>
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+that an int list or an int list like
+ 
+
+00:00:46.800 --> 00:00:48.020 align:start position:0%
+that an int list or an int list like
+object<00:00:47.219><c> should</c><00:00:47.370><c> do</c><00:00:47.489><c> shouldn't</c><00:00:47.850><c> have</c><00:00:47.940><c> an</c>
+
+00:00:48.020 --> 00:00:48.030 align:start position:0%
+object should do shouldn't have an
+ 
+
+00:00:48.030 --> 00:00:49.670 align:start position:0%
+object should do shouldn't have an
+infinite<00:00:48.390><c> loop</c><00:00:48.539><c> I</c><00:00:48.840><c> guess</c><00:00:49.260><c> this</c><00:00:49.440><c> would</c><00:00:49.500><c> be</c><00:00:49.559><c> the</c>
+
+00:00:49.670 --> 00:00:49.680 align:start position:0%
+infinite loop I guess this would be the
+ 
+
+00:00:49.680 --> 00:00:51.889 align:start position:0%
+infinite loop I guess this would be the
+list<00:00:49.950><c> that's</c><00:00:50.129><c> like</c><00:00:50.309><c> the</c><00:00:50.489><c> number</c><00:00:50.760><c> 10</c><00:00:50.969><c> and</c><00:00:51.270><c> then</c>
+
+00:00:51.889 --> 00:00:51.899 align:start position:0%
+list that's like the number 10 and then
+ 
+
+00:00:51.899 --> 00:00:53.810 align:start position:0%
+list that's like the number 10 and then
+an<00:00:51.989><c> infinite</c><00:00:52.350><c> number</c><00:00:52.590><c> of</c><00:00:52.649><c> 15s</c><00:00:53.280><c> and</c><00:00:53.460><c> that's</c><00:00:53.640><c> not</c>
+
+00:00:53.810 --> 00:00:53.820 align:start position:0%
+an infinite number of 15s and that's not
+ 
+
+00:00:53.820 --> 00:00:55.069 align:start position:0%
+an infinite number of 15s and that's not
+something<00:00:54.270><c> we're</c><00:00:54.420><c> really</c><00:00:54.449><c> intended</c><00:00:55.050><c> to</c>
+
+00:00:55.069 --> 00:00:55.079 align:start position:0%
+something we're really intended to
+ 
+
+00:00:55.079 --> 00:00:59.540 align:start position:0%
+something we're really intended to
+support<00:00:55.559><c> with</c><00:00:56.219><c> the</c><00:00:56.309><c> methods</c><00:00:56.670><c> provided</c><00:00:57.770><c> so</c><00:00:58.770><c> we</c>
+
+00:00:59.540 --> 00:00:59.550 align:start position:0%
+support with the methods provided so we
+ 
+
+00:00:59.550 --> 00:01:01.189 align:start position:0%
+support with the methods provided so we
+could<00:00:59.760><c> leave</c><00:01:00.030><c> a</c><00:01:00.059><c> little</c><00:01:00.149><c> note</c><00:01:00.390><c> somewhere</c><00:01:00.960><c> in</c>
+
+00:01:01.189 --> 00:01:01.199 align:start position:0%
+could leave a little note somewhere in
+ 
+
+00:01:01.199 --> 00:01:03.619 align:start position:0%
+could leave a little note somewhere in
+the<00:01:01.289><c> file</c><00:01:01.530><c> we</c><00:01:01.739><c> could</c><00:01:01.920><c> in</c><00:01:02.420><c> comments</c><00:01:03.420><c> do</c>
+
+00:01:03.619 --> 00:01:03.629 align:start position:0%
+the file we could in comments do
+ 
+
+00:01:03.629 --> 00:01:06.289 align:start position:0%
+the file we could in comments do
+something<00:01:03.989><c> like</c><00:01:04.640><c> it</c><00:01:05.640><c> is</c><00:01:05.790><c> incredibly</c>
+
+00:01:06.289 --> 00:01:06.299 align:start position:0%
+something like it is incredibly
+ 
+
+00:01:06.299 --> 00:01:08.270 align:start position:0%
+something like it is incredibly
+important
+
+00:01:08.270 --> 00:01:08.280 align:start position:0%
+important
+ 
+
+00:01:08.280 --> 00:01:14.719 align:start position:0%
+important
+up<00:01:09.060><c> here</c><00:01:12.110><c> note</c><00:01:13.110><c> please</c><00:01:13.830><c> do</c><00:01:14.159><c> not</c><00:01:14.340><c> mess</c><00:01:14.700><c> with</c>
+
+00:01:14.719 --> 00:01:14.729 align:start position:0%
+up here note please do not mess with
+ 
+
+00:01:14.729 --> 00:01:17.359 align:start position:0%
+up here note please do not mess with
+first<00:01:15.270><c> all</c><00:01:15.930><c> right</c><00:01:16.020><c> could</c><00:01:16.830><c> do</c><00:01:16.950><c> something</c><00:01:17.340><c> like</c>
+
+00:01:17.359 --> 00:01:17.369 align:start position:0%
+first all right could do something like
+ 
+
+00:01:17.369 --> 00:01:19.399 align:start position:0%
+first all right could do something like
+that<00:01:17.729><c> and</c><00:01:18.000><c> hope</c><00:01:18.390><c> that</c><00:01:18.540><c> other</c><00:01:18.600><c> programs</c><00:01:19.140><c> will</c>
+
+00:01:19.399 --> 00:01:19.409 align:start position:0%
+that and hope that other programs will
+ 
+
+00:01:19.409 --> 00:01:22.219 align:start position:0%
+that and hope that other programs will
+look<00:01:19.530><c> at</c><00:01:19.680><c> it</c><00:01:19.830><c> but</c><00:01:20.670><c> other</c><00:01:21.509><c> programmers</c><00:01:21.869><c> will</c>
+
+00:01:22.219 --> 00:01:22.229 align:start position:0%
+look at it but other programmers will
+ 
+
+00:01:22.229 --> 00:01:24.230 align:start position:0%
+look at it but other programmers will
+probably<00:01:22.619><c> not</c><00:01:22.770><c> and</c><00:01:23.130><c> so</c><00:01:23.310><c> instead</c><00:01:23.549><c> Java</c>
+
+00:01:24.230 --> 00:01:24.240 align:start position:0%
+probably not and so instead Java
+ 
+
+00:01:24.240 --> 00:01:26.120 align:start position:0%
+probably not and so instead Java
+provides<00:01:24.450><c> us</c><00:01:24.780><c> with</c><00:01:24.840><c> a</c><00:01:25.020><c> feature</c><00:01:25.229><c> where</c><00:01:25.830><c> instead</c>
+
+00:01:26.120 --> 00:01:26.130 align:start position:0%
+provides us with a feature where instead
+ 
+
+00:01:26.130 --> 00:01:28.550 align:start position:0%
+provides us with a feature where instead
+of<00:01:26.189><c> declaring</c><00:01:26.580><c> a</c><00:01:26.909><c> member</c><00:01:27.450><c> of</c><00:01:27.600><c> a</c><00:01:27.689><c> class</c><00:01:27.900><c> public</c>
+
+00:01:28.550 --> 00:01:28.560 align:start position:0%
+of declaring a member of a class public
+ 
+
+00:01:28.560 --> 00:01:31.190 align:start position:0%
+of declaring a member of a class public
+we<00:01:29.040><c> can</c><00:01:29.159><c> instead</c><00:01:29.490><c> say</c><00:01:29.670><c> private</c><00:01:30.150><c> ok</c><00:01:30.810><c> so</c><00:01:31.079><c> I'll</c>
+
+00:01:31.190 --> 00:01:31.200 align:start position:0%
+we can instead say private ok so I'll
+ 
+
+00:01:31.200 --> 00:01:33.170 align:start position:0%
+we can instead say private ok so I'll
+just<00:01:31.350><c> go</c><00:01:31.470><c> in</c><00:01:31.619><c> here</c><00:01:31.799><c> and</c><00:01:31.860><c> I'll</c><00:01:32.520><c> say</c><00:01:32.700><c> private</c>
+
+00:01:33.170 --> 00:01:33.180 align:start position:0%
+just go in here and I'll say private
+ 
+
+00:01:33.180 --> 00:01:36.620 align:start position:0%
+just go in here and I'll say private
+here<00:01:34.400><c> and</c><00:01:35.400><c> that</c><00:01:35.610><c> does</c><00:01:35.820><c> what</c><00:01:36.180><c> I</c><00:01:36.210><c> want</c><00:01:36.299><c> to</c>
+
+00:01:36.620 --> 00:01:36.630 align:start position:0%
+here and that does what I want to
+ 
+
+00:01:36.630 --> 00:01:39.260 align:start position:0%
+here and that does what I want to
+accomplish<00:01:37.189><c> now</c><00:01:38.189><c> the</c><00:01:38.250><c> nice</c><00:01:38.490><c> thing</c><00:01:38.520><c> is</c><00:01:38.759><c> not</c>
+
+00:01:39.260 --> 00:01:39.270 align:start position:0%
+accomplish now the nice thing is not
+ 
+
+00:01:39.270 --> 00:01:41.149 align:start position:0%
+accomplish now the nice thing is not
+only<00:01:39.479><c> is</c><00:01:39.600><c> this</c><00:01:39.780><c> self</c><00:01:40.020><c> documenting</c><00:01:40.229><c> but</c><00:01:41.040><c> it's</c>
+
+00:01:41.149 --> 00:01:41.159 align:start position:0%
+only is this self documenting but it's
+ 
+
+00:01:41.159 --> 00:01:44.060 align:start position:0%
+only is this self documenting but it's
+also<00:01:41.340><c> enforced</c><00:01:41.939><c> by</c><00:01:42.060><c> the</c><00:01:42.090><c> compiler</c><00:01:42.560><c> if</c><00:01:43.560><c> I</c><00:01:43.860><c> make</c>
+
+00:01:44.060 --> 00:01:44.070 align:start position:0%
+also enforced by the compiler if I make
+ 
+
+00:01:44.070 --> 00:01:46.700 align:start position:0%
+also enforced by the compiler if I make
+this<00:01:44.280><c> private</c><00:01:44.729><c> and</c><00:01:44.909><c> then</c><00:01:45.600><c> in</c><00:01:45.689><c> another</c><00:01:45.840><c> class</c><00:01:46.409><c> I</c>
+
+00:01:46.700 --> 00:01:46.710 align:start position:0%
+this private and then in another class I
+ 
+
+00:01:46.710 --> 00:01:48.440 align:start position:0%
+this private and then in another class I
+do<00:01:46.770><c> something</c><00:01:47.189><c> like</c><00:01:47.310><c> L</c><00:01:47.520><c> dot</c><00:01:47.759><c> first</c><00:01:47.939><c> but</c><00:01:48.240><c> next</c>
+
+00:01:48.440 --> 00:01:48.450 align:start position:0%
+do something like L dot first but next
+ 
+
+00:01:48.450 --> 00:01:50.840 align:start position:0%
+do something like L dot first but next
+next<00:01:48.990><c> he</c><00:01:49.079><c> goes</c><00:01:49.200><c> out</c><00:01:49.380><c> at</c><00:01:49.470><c> first</c><00:01:49.649><c> but</c><00:01:49.740><c> next</c><00:01:49.920><c> when</c>
+
+00:01:50.840 --> 00:01:50.850 align:start position:0%
+next he goes out at first but next when
+ 
+
+00:01:50.850 --> 00:01:52.880 align:start position:0%
+next he goes out at first but next when
+I<00:01:50.880><c> try</c><00:01:51.060><c> and</c><00:01:51.090><c> compile</c><00:01:51.509><c> that</c><00:01:51.780><c> file</c><00:01:52.049><c> I</c><00:01:52.290><c> get</c><00:01:52.649><c> back</c>
+
+00:01:52.880 --> 00:01:52.890 align:start position:0%
+I try and compile that file I get back
+ 
+
+00:01:52.890 --> 00:01:55.550 align:start position:0%
+I try and compile that file I get back
+that<00:01:53.100><c> first</c><00:01:53.369><c> half</c><00:01:53.579><c> private</c><00:01:54.000><c> access</c><00:01:54.409><c> so</c><00:01:55.409><c> what</c>
+
+00:01:55.550 --> 00:01:55.560 align:start position:0%
+that first half private access so what
+ 
+
+00:01:55.560 --> 00:01:57.200 align:start position:0%
+that first half private access so what
+the<00:01:55.649><c> private</c><00:01:55.860><c> keyword</c><00:01:56.310><c> does</c><00:01:56.579><c> is</c><00:01:56.790><c> it</c><00:01:56.909><c> prevents</c>
+
+00:01:57.200 --> 00:01:57.210 align:start position:0%
+the private keyword does is it prevents
+ 
+
+00:01:57.210 --> 00:01:59.420 align:start position:0%
+the private keyword does is it prevents
+code<00:01:57.509><c> in</c><00:01:57.630><c> other</c><00:01:57.810><c> classes</c><00:01:58.140><c> from</c><00:01:58.799><c> using</c><00:01:58.950><c> members</c>
+
+00:01:59.420 --> 00:01:59.430 align:start position:0%
+code in other classes from using members
+ 
+
+00:01:59.430 --> 00:02:02.120 align:start position:0%
+code in other classes from using members
+that<00:01:59.700><c> is</c><00:01:59.850><c> variables</c><00:02:00.840><c> methods</c><00:02:01.649><c> or</c>
+
+00:02:02.120 --> 00:02:02.130 align:start position:0%
+that is variables methods or
+ 
+
+00:02:02.130 --> 00:02:05.120 align:start position:0%
+that is variables methods or
+constructors<00:02:02.700><c> it</c><00:02:03.600><c> what</c><00:02:04.380><c> private</c><00:02:04.740><c> does</c><00:02:04.860><c> is</c><00:02:04.979><c> it</c>
+
+00:02:05.120 --> 00:02:05.130 align:start position:0%
+constructors it what private does is it
+ 
+
+00:02:05.130 --> 00:02:06.770 align:start position:0%
+constructors it what private does is it
+says<00:02:05.340><c> you</c><00:02:05.610><c> cannot</c><00:02:05.909><c> use</c><00:02:06.149><c> those</c><00:02:06.329><c> from</c><00:02:06.570><c> outside</c>
+
+00:02:06.770 --> 00:02:06.780 align:start position:0%
+says you cannot use those from outside
+ 
+
+00:02:06.780 --> 00:02:09.740 align:start position:0%
+says you cannot use those from outside
+the<00:02:07.350><c> S</c><00:02:07.469><c> list</c><00:02:07.770><c> class</c><00:02:08.209><c> now</c><00:02:09.209><c> if</c><00:02:09.330><c> I</c><00:02:09.360><c> had</c><00:02:09.479><c> a</c><00:02:09.539><c> main</c>
+
+00:02:09.740 --> 00:02:09.750 align:start position:0%
+the S list class now if I had a main
+ 
+
+00:02:09.750 --> 00:02:10.719 align:start position:0%
+the S list class now if I had a main
+method<00:02:09.989><c> down</c><00:02:10.379><c> here</c>
+
+00:02:10.719 --> 00:02:10.729 align:start position:0%
+method down here
+ 
+
+00:02:10.729 --> 00:02:12.399 align:start position:0%
+method down here
+s<00:02:10.849><c> list</c><00:02:11.180><c> that</c><00:02:11.390><c> did</c><00:02:11.540><c> funny</c><00:02:11.780><c> things</c><00:02:12.019><c> like</c><00:02:12.110><c> that</c>
+
+00:02:12.399 --> 00:02:12.409 align:start position:0%
+s list that did funny things like that
+ 
+
+00:02:12.409 --> 00:02:14.320 align:start position:0%
+s list that did funny things like that
+it<00:02:12.920><c> would</c><00:02:13.010><c> work</c><00:02:13.129><c> fine</c><00:02:13.459><c> because</c><00:02:13.760><c> it's</c><00:02:14.090><c> part</c><00:02:14.300><c> of</c>
+
+00:02:14.320 --> 00:02:14.330 align:start position:0%
+it would work fine because it's part of
+ 
+
+00:02:14.330 --> 00:02:16.180 align:start position:0%
+it would work fine because it's part of
+the<00:02:14.420><c> s</c><00:02:14.569><c> list</c><00:02:14.840><c> class</c><00:02:15.110><c> but</c><00:02:15.650><c> anybody</c><00:02:15.860><c> outside</c>
+
+00:02:16.180 --> 00:02:16.190 align:start position:0%
+the s list class but anybody outside
+ 
+
+00:02:16.190 --> 00:02:19.000 align:start position:0%
+the s list class but anybody outside
+anybody<00:02:16.849><c> not</c><00:02:17.060><c> editing</c><00:02:17.510><c> s</c><00:02:17.659><c> list</c><00:02:17.959><c> Java</c><00:02:18.440><c> could</c>
+
+00:02:19.000 --> 00:02:19.010 align:start position:0%
+anybody not editing s list Java could
+ 
+
+00:02:19.010 --> 00:02:21.940 align:start position:0%
+anybody not editing s list Java could
+not<00:02:19.190><c> access</c><00:02:19.459><c> first</c><00:02:20.140><c> now</c><00:02:21.140><c> that's</c><00:02:21.290><c> not</c><00:02:21.409><c> 100%</c>
+
+00:02:21.940 --> 00:02:21.950 align:start position:0%
+not access first now that's not 100%
+ 
+
+00:02:21.950 --> 00:02:24.190 align:start position:0%
+not access first now that's not 100%
+true<00:02:22.190><c> there</c><00:02:22.970><c> is</c><00:02:23.090><c> a</c><00:02:23.120><c> funny</c><00:02:23.450><c> feature</c><00:02:23.720><c> in</c><00:02:23.959><c> Java</c>
+
+00:02:24.190 --> 00:02:24.200 align:start position:0%
+true there is a funny feature in Java
+ 
+
+00:02:24.200 --> 00:02:26.020 align:start position:0%
+true there is a funny feature in Java
+known<00:02:24.560><c> as</c><00:02:24.709><c> reflection</c><00:02:25.400><c> which</c><00:02:25.610><c> allows</c><00:02:25.849><c> you</c><00:02:26.000><c> to</c>
+
+00:02:26.020 --> 00:02:26.030 align:start position:0%
+known as reflection which allows you to
+ 
+
+00:02:26.030 --> 00:02:28.780 align:start position:0%
+known as reflection which allows you to
+bypass<00:02:26.269><c> these</c><00:02:26.720><c> modifiers</c><00:02:27.170><c> but</c><00:02:27.830><c> you</c><00:02:28.340><c> rarely</c>
+
+00:02:28.780 --> 00:02:28.790 align:start position:0%
+bypass these modifiers but you rarely
+ 
+
+00:02:28.790 --> 00:02:32.650 align:start position:0%
+bypass these modifiers but you rarely
+rarely<00:02:29.269><c> use</c><00:02:29.599><c> it</c><00:02:29.629><c> and</c><00:02:30.819><c> what</c><00:02:31.819><c> this</c><00:02:31.970><c> does</c><00:02:32.209><c> is</c><00:02:32.390><c> says</c>
+
+00:02:32.650 --> 00:02:32.660 align:start position:0%
+rarely use it and what this does is says
+ 
+
+00:02:32.660 --> 00:02:34.930 align:start position:0%
+rarely use it and what this does is says
+if<00:02:33.080><c> you're</c><00:02:33.290><c> a</c><00:02:33.349><c> casual</c><00:02:33.739><c> programmer</c><00:02:34.220><c> this</c><00:02:34.760><c> is</c>
+
+00:02:34.930 --> 00:02:34.940 align:start position:0%
+if you're a casual programmer this is
+ 
+
+00:02:34.940 --> 00:02:36.100 align:start position:0%
+if you're a casual programmer this is
+something<00:02:35.209><c> you</c><00:02:35.299><c> shouldn't</c><00:02:35.510><c> mess</c><00:02:35.720><c> with</c><00:02:35.930><c> and</c>
+
+00:02:36.100 --> 00:02:36.110 align:start position:0%
+something you shouldn't mess with and
+ 
+
+00:02:36.110 --> 00:02:38.050 align:start position:0%
+something you shouldn't mess with and
+the<00:02:36.319><c> compiler</c><00:02:36.829><c> will</c><00:02:36.950><c> stop</c><00:02:37.250><c> you</c><00:02:37.400><c> from</c><00:02:37.640><c> doing</c><00:02:37.849><c> it</c>
+
+00:02:38.050 --> 00:02:38.060 align:start position:0%
+the compiler will stop you from doing it
+ 
+
+00:02:38.060 --> 00:02:41.020 align:start position:0%
+the compiler will stop you from doing it
+so<00:02:38.500><c> why</c><00:02:39.500><c> do</c><00:02:39.560><c> we</c><00:02:39.709><c> do</c><00:02:39.860><c> that</c><00:02:40.010><c> what's</c><00:02:40.489><c> the</c><00:02:40.610><c> point</c><00:02:40.700><c> of</c>
+
+00:02:41.020 --> 00:02:41.030 align:start position:0%
+so why do we do that what's the point of
+ 
+
+00:02:41.030 --> 00:02:43.539 align:start position:0%
+so why do we do that what's the point of
+restricting<00:02:41.510><c> access</c><00:02:41.900><c> other</c><00:02:42.170><c> than</c><00:02:42.549><c> the</c>
+
+00:02:43.539 --> 00:02:43.549 align:start position:0%
+restricting access other than the
+ 
+
+00:02:43.549 --> 00:02:46.300 align:start position:0%
+restricting access other than the
+implicit<00:02:44.090><c> picture</c><00:02:44.510><c> I</c><00:02:44.540><c> presented</c><00:02:44.810><c> so</c><00:02:45.079><c> far</c><00:02:45.319><c> well</c>
+
+00:02:46.300 --> 00:02:46.310 align:start position:0%
+implicit picture I presented so far well
+ 
+
+00:02:46.310 --> 00:02:48.309 align:start position:0%
+implicit picture I presented so far well
+the<00:02:46.459><c> basic</c><00:02:46.970><c> idea</c><00:02:47.120><c> if</c><00:02:47.420><c> we</c><00:02:47.510><c> wanted</c><00:02:47.690><c> to</c><00:02:47.750><c> summarize</c>
+
+00:02:48.309 --> 00:02:48.319 align:start position:0%
+the basic idea if we wanted to summarize
+ 
+
+00:02:48.319 --> 00:02:50.800 align:start position:0%
+the basic idea if we wanted to summarize
+really<00:02:48.680><c> the</c><00:02:48.950><c> heart</c><00:02:49.250><c> of</c><00:02:49.459><c> private</c><00:02:49.910><c> is</c><00:02:50.060><c> to</c><00:02:50.599><c> hide</c>
+
+00:02:50.800 --> 00:02:50.810 align:start position:0%
+really the heart of private is to hide
+ 
+
+00:02:50.810 --> 00:02:52.990 align:start position:0%
+really the heart of private is to hide
+implementation<00:02:51.709><c> details</c><00:02:52.160><c> from</c><00:02:52.430><c> the</c><00:02:52.519><c> users</c><00:02:52.790><c> of</c>
+
+00:02:52.990 --> 00:02:53.000 align:start position:0%
+implementation details from the users of
+ 
+
+00:02:53.000 --> 00:02:54.910 align:start position:0%
+implementation details from the users of
+your<00:02:53.030><c> class</c><00:02:53.359><c> the</c><00:02:54.049><c> user</c><00:02:54.200><c> doesn't</c><00:02:54.470><c> need</c><00:02:54.739><c> to</c><00:02:54.859><c> know</c>
+
+00:02:54.910 --> 00:02:54.920 align:start position:0%
+your class the user doesn't need to know
+ 
+
+00:02:54.920 --> 00:02:56.319 align:start position:0%
+your class the user doesn't need to know
+that<00:02:55.010><c> we</c><00:02:55.250><c> have</c><00:02:55.370><c> a</c><00:02:55.400><c> first</c><00:02:55.700><c> variable</c><00:02:56.060><c> they</c>
+
+00:02:56.319 --> 00:02:56.329 align:start position:0%
+that we have a first variable they
+ 
+
+00:02:56.329 --> 00:02:57.910 align:start position:0%
+that we have a first variable they
+shouldn't<00:02:56.629><c> be</c><00:02:56.690><c> messing</c><00:02:56.900><c> with</c><00:02:57.049><c> it</c><00:02:57.319><c> so</c><00:02:57.739><c> by</c>
+
+00:02:57.910 --> 00:02:57.920 align:start position:0%
+shouldn't be messing with it so by
+ 
+
+00:02:57.920 --> 00:02:59.530 align:start position:0%
+shouldn't be messing with it so by
+making<00:02:58.069><c> it</c><00:02:58.340><c> private</c><00:02:58.700><c> it's</c><00:02:58.849><c> a</c><00:02:58.940><c> detail</c><00:02:59.269><c> that</c><00:02:59.420><c> we</c>
+
+00:02:59.530 --> 00:02:59.540 align:start position:0%
+making it private it's a detail that we
+ 
+
+00:02:59.540 --> 00:03:01.630 align:start position:0%
+making it private it's a detail that we
+the<00:02:59.690><c> programmer</c><00:03:00.079><c> of</c><00:03:00.200><c> s</c><00:03:00.349><c> list</c><00:03:00.620><c> need</c><00:03:00.920><c> but</c><00:03:01.549><c> the</c>
+
+00:03:01.630 --> 00:03:01.640 align:start position:0%
+the programmer of s list need but the
+ 
+
+00:03:01.640 --> 00:03:04.479 align:start position:0%
+the programmer of s list need but the
+user<00:03:01.849><c> does</c><00:03:02.090><c> not</c><00:03:02.530><c> so</c><00:03:03.530><c> that's</c><00:03:04.040><c> something</c><00:03:04.250><c> that's</c>
+
+00:03:04.479 --> 00:03:04.489 align:start position:0%
+user does not so that's something that's
+ 
+
+00:03:04.489 --> 00:03:05.860 align:start position:0%
+user does not so that's something that's
+less<00:03:04.640><c> for</c><00:03:04.849><c> the</c><00:03:04.910><c> user</c><00:03:05.030><c> to</c><00:03:05.209><c> understand</c><00:03:05.690><c> they</c>
+
+00:03:05.860 --> 00:03:05.870 align:start position:0%
+less for the user to understand they
+ 
+
+00:03:05.870 --> 00:03:07.059 align:start position:0%
+less for the user to understand they
+don't<00:03:05.989><c> have</c><00:03:06.079><c> to</c><00:03:06.200><c> know</c><00:03:06.319><c> anything</c><00:03:06.560><c> about</c><00:03:06.859><c> what's</c>
+
+00:03:07.059 --> 00:03:07.069 align:start position:0%
+don't have to know anything about what's
+ 
+
+00:03:07.069 --> 00:03:08.559 align:start position:0%
+don't have to know anything about what's
+going<00:03:07.250><c> on</c><00:03:07.370><c> no</c><00:03:07.519><c> to</c><00:03:07.609><c> the</c><00:03:07.700><c> head</c><00:03:07.849><c> and</c><00:03:08.060><c> they</c><00:03:08.420><c> can</c>
+
+00:03:08.559 --> 00:03:08.569 align:start position:0%
+going on no to the head and they can
+ 
+
+00:03:08.569 --> 00:03:10.089 align:start position:0%
+going on no to the head and they can
+think<00:03:08.750><c> of</c><00:03:08.840><c> the</c><00:03:08.959><c> s</c><00:03:09.079><c> list</c><00:03:09.379><c> class</c><00:03:09.590><c> it's</c><00:03:09.859><c> just</c><00:03:10.010><c> a</c>
+
+00:03:10.089 --> 00:03:10.099 align:start position:0%
+think of the s list class it's just a
+ 
+
+00:03:10.099 --> 00:03:11.559 align:start position:0%
+think of the s list class it's just a
+magical<00:03:10.519><c> black</c><00:03:10.730><c> box</c><00:03:11.000><c> they</c><00:03:11.269><c> don't</c><00:03:11.390><c> have</c><00:03:11.480><c> to</c>
+
+00:03:11.559 --> 00:03:11.569 align:start position:0%
+magical black box they don't have to
+ 
+
+00:03:11.569 --> 00:03:12.910 align:start position:0%
+magical black box they don't have to
+know<00:03:11.720><c> about</c><00:03:11.840><c> the</c><00:03:12.049><c> naked</c><00:03:12.230><c> recursive</c><00:03:12.799><c> data</c>
+
+00:03:12.910 --> 00:03:12.920 align:start position:0%
+know about the naked recursive data
+ 
+
+00:03:12.920 --> 00:03:16.720 align:start position:0%
+know about the naked recursive data
+structure<00:03:13.400><c> inside</c><00:03:14.019><c> likewise</c><00:03:15.340><c> you're</c><00:03:16.340><c> welcome</c>
+
+00:03:16.720 --> 00:03:16.730 align:start position:0%
+structure inside likewise you're welcome
+ 
+
+00:03:16.730 --> 00:03:18.759 align:start position:0%
+structure inside likewise you're welcome
+to<00:03:16.880><c> change</c><00:03:17.120><c> any</c><00:03:17.329><c> private</c><00:03:17.780><c> method</c><00:03:18.109><c> or</c><00:03:18.319><c> private</c>
+
+00:03:18.759 --> 00:03:18.769 align:start position:0%
+to change any private method or private
+ 
+
+00:03:18.769 --> 00:03:20.949 align:start position:0%
+to change any private method or private
+constructor<00:03:19.160><c> or</c><00:03:19.310><c> private</c><00:03:19.760><c> variable</c><00:03:20.269><c> that</c><00:03:20.840><c> you</c>
+
+00:03:20.949 --> 00:03:20.959 align:start position:0%
+constructor or private variable that you
+ 
+
+00:03:20.959 --> 00:03:22.710 align:start position:0%
+constructor or private variable that you
+want<00:03:21.169><c> right</c><00:03:21.410><c> it's</c><00:03:21.889><c> your</c><00:03:22.069><c> own</c><00:03:22.280><c> personal</c>
+
+00:03:22.710 --> 00:03:22.720 align:start position:0%
+want right it's your own personal
+ 
+
+00:03:22.720 --> 00:03:24.879 align:start position:0%
+want right it's your own personal
+implementation<00:03:23.720><c> so</c><00:03:24.230><c> if</c><00:03:24.319><c> it's</c><00:03:24.440><c> marked</c><00:03:24.680><c> private</c>
+
+00:03:24.879 --> 00:03:24.889 align:start position:0%
+implementation so if it's marked private
+ 
+
+00:03:24.889 --> 00:03:26.379 align:start position:0%
+implementation so if it's marked private
+it's<00:03:25.310><c> not</c><00:03:25.459><c> something</c><00:03:25.790><c> else</c><00:03:25.910><c> someone's</c><00:03:26.239><c> gonna</c>
+
+00:03:26.379 --> 00:03:26.389 align:start position:0%
+it's not something else someone's gonna
+ 
+
+00:03:26.389 --> 00:03:30.370 align:start position:0%
+it's not something else someone's gonna
+rely<00:03:26.720><c> on</c><00:03:27.370><c> so</c><00:03:28.370><c> is</c><00:03:28.489><c> an</c><00:03:28.579><c> analogy</c><00:03:29.060><c> in</c><00:03:29.269><c> a</c><00:03:29.540><c> car</c><00:03:29.780><c> well</c>
+
+00:03:30.370 --> 00:03:30.380 align:start position:0%
+rely on so is an analogy in a car well
+ 
+
+00:03:30.380 --> 00:03:31.900 align:start position:0%
+rely on so is an analogy in a car well
+we<00:03:30.560><c> have</c><00:03:30.650><c> some</c><00:03:30.829><c> public</c><00:03:31.010><c> parts</c><00:03:31.400><c> right</c><00:03:31.639><c> we</c><00:03:31.819><c> have</c>
+
+00:03:31.900 --> 00:03:31.910 align:start position:0%
+we have some public parts right we have
+ 
+
+00:03:31.910 --> 00:03:33.819 align:start position:0%
+we have some public parts right we have
+the<00:03:32.060><c> pedals</c><00:03:32.389><c> in</c><00:03:32.540><c> the</c><00:03:32.660><c> steering</c><00:03:32.989><c> wheel</c><00:03:33.139><c> we</c><00:03:33.709><c> have</c>
+
+00:03:33.819 --> 00:03:33.829 align:start position:0%
+the pedals in the steering wheel we have
+ 
+
+00:03:33.829 --> 00:03:35.170 align:start position:0%
+the pedals in the steering wheel we have
+the<00:03:33.950><c> idea</c><00:03:34.250><c> that</c><00:03:34.310><c> there's</c><00:03:34.579><c> an</c><00:03:34.700><c> accelerator</c>
+
+00:03:35.170 --> 00:03:35.180 align:start position:0%
+the idea that there's an accelerator
+ 
+
+00:03:35.180 --> 00:03:37.240 align:start position:0%
+the idea that there's an accelerator
+pedal<00:03:35.540><c> and</c><00:03:35.690><c> a</c><00:03:35.959><c> brake</c><00:03:36.139><c> pedal</c><00:03:36.380><c> one</c><00:03:36.859><c> should</c><00:03:37.010><c> speed</c>
+
+00:03:37.240 --> 00:03:37.250 align:start position:0%
+pedal and a brake pedal one should speed
+ 
+
+00:03:37.250 --> 00:03:38.830 align:start position:0%
+pedal and a brake pedal one should speed
+me<00:03:37.400><c> up</c><00:03:37.430><c> one</c><00:03:37.730><c> should</c><00:03:37.880><c> slow</c><00:03:38.090><c> me</c><00:03:38.239><c> down</c><00:03:38.269><c> the</c>
+
+00:03:38.830 --> 00:03:38.840 align:start position:0%
+me up one should slow me down the
+ 
+
+00:03:38.840 --> 00:03:40.390 align:start position:0%
+me up one should slow me down the
+steering<00:03:39.169><c> wheel</c><00:03:39.319><c> when</c><00:03:39.470><c> I</c><00:03:39.530><c> turn</c><00:03:39.769><c> it</c><00:03:39.799><c> that</c><00:03:40.010><c> way</c><00:03:40.069><c> I</c>
+
+00:03:40.390 --> 00:03:40.400 align:start position:0%
+steering wheel when I turn it that way I
+ 
+
+00:03:40.400 --> 00:03:42.940 align:start position:0%
+steering wheel when I turn it that way I
+should<00:03:40.639><c> be</c><00:03:40.669><c> turning</c><00:03:40.910><c> that</c><00:03:41.209><c> direction</c><00:03:41.950><c> and</c>
+
+00:03:42.940 --> 00:03:42.950 align:start position:0%
+should be turning that direction and
+ 
+
+00:03:42.950 --> 00:03:44.650 align:start position:0%
+should be turning that direction and
+then<00:03:43.040><c> there's</c><00:03:43.190><c> a</c><00:03:43.250><c> bunch</c><00:03:43.430><c> of</c><00:03:43.519><c> private</c><00:03:43.910><c> details</c>
+
+00:03:44.650 --> 00:03:44.660 align:start position:0%
+then there's a bunch of private details
+ 
+
+00:03:44.660 --> 00:03:47.890 align:start position:0%
+then there's a bunch of private details
+to<00:03:44.840><c> the</c><00:03:44.959><c> car</c><00:03:45.169><c> so</c><00:03:45.889><c> you</c><00:03:45.980><c> may</c><00:03:46.190><c> have</c><00:03:46.400><c> a</c><00:03:47.060><c> fuel</c><00:03:47.630><c> line</c>
+
+00:03:47.890 --> 00:03:47.900 align:start position:0%
+to the car so you may have a fuel line
+ 
+
+00:03:47.900 --> 00:03:51.099 align:start position:0%
+to the car so you may have a fuel line
+that<00:03:48.590><c> is</c><00:03:48.889><c> able</c><00:03:49.849><c> to</c><00:03:49.970><c> carry</c><00:03:50.120><c> liquid</c><00:03:50.569><c> fuel</c><00:03:50.840><c> from</c>
+
+00:03:51.099 --> 00:03:51.109 align:start position:0%
+that is able to carry liquid fuel from
+ 
+
+00:03:51.109 --> 00:03:52.720 align:start position:0%
+that is able to carry liquid fuel from
+one<00:03:51.290><c> part</c><00:03:51.530><c> of</c><00:03:51.590><c> the</c><00:03:51.709><c> car</c><00:03:51.889><c> to</c><00:03:51.980><c> the</c><00:03:52.069><c> other</c><00:03:52.220><c> but</c>
+
+00:03:52.720 --> 00:03:52.730 align:start position:0%
+one part of the car to the other but
+ 
+
+00:03:52.730 --> 00:03:54.190 align:start position:0%
+one part of the car to the other but
+some<00:03:52.910><c> cars</c><00:03:53.120><c> don't</c><00:03:53.299><c> have</c><00:03:53.419><c> that</c><00:03:53.690><c> right</c><00:03:53.870><c> there</c><00:03:54.109><c> is</c>
+
+00:03:54.190 --> 00:03:54.200 align:start position:0%
+some cars don't have that right there is
+ 
+
+00:03:54.200 --> 00:03:55.990 align:start position:0%
+some cars don't have that right there is
+no<00:03:54.410><c> notion</c><00:03:54.799><c> of</c><00:03:54.889><c> fuel</c><00:03:55.190><c> and</c><00:03:55.459><c> just</c><00:03:55.639><c> have</c><00:03:55.790><c> a</c>
+
+00:03:55.990 --> 00:03:56.000 align:start position:0%
+no notion of fuel and just have a
+ 
+
+00:03:56.000 --> 00:03:58.390 align:start position:0%
+no notion of fuel and just have a
+battery<00:03:56.329><c> an</c><00:03:56.720><c> electric</c><00:03:57.230><c> motor</c><00:03:57.440><c> so</c><00:03:58.190><c> those</c><00:03:58.280><c> are</c>
+
+00:03:58.390 --> 00:03:58.400 align:start position:0%
+battery an electric motor so those are
+ 
+
+00:03:58.400 --> 00:03:59.500 align:start position:0%
+battery an electric motor so those are
+private<00:03:58.700><c> details</c><00:03:59.060><c> you</c><00:03:59.180><c> can</c><00:03:59.329><c> manipulate</c>
+
+00:03:59.500 --> 00:03:59.510 align:start position:0%
+private details you can manipulate
+ 
+
+00:03:59.510 --> 00:04:01.330 align:start position:0%
+private details you can manipulate
+however<00:04:00.049><c> you</c><00:04:00.109><c> want</c><00:04:00.290><c> because</c><00:04:00.769><c> the</c><00:04:00.889><c> user</c><00:04:01.040><c> does</c>
+
+00:04:01.330 --> 00:04:01.340 align:start position:0%
+however you want because the user does
+ 
+
+00:04:01.340 --> 00:04:02.949 align:start position:0%
+however you want because the user does
+not<00:04:01.370><c> think</c><00:04:01.760><c> about</c><00:04:02.000><c> them</c><00:04:02.209><c> they</c><00:04:02.419><c> don't</c><00:04:02.629><c> think</c><00:04:02.840><c> oh</c>
+
+00:04:02.949 --> 00:04:02.959 align:start position:0%
+not think about them they don't think oh
+ 
+
+00:04:02.959 --> 00:04:05.319 align:start position:0%
+not think about them they don't think oh
+I<00:04:03.410><c> need</c><00:04:03.680><c> to</c><00:04:03.919><c> worry</c><00:04:04.160><c> about</c><00:04:04.250><c> fuel</c><00:04:04.760><c> injections</c>
+
+00:04:05.319 --> 00:04:05.329 align:start position:0%
+I need to worry about fuel injections
+ 
+
+00:04:05.329 --> 00:04:08.379 align:start position:0%
+I need to worry about fuel injections
+not<00:04:05.870><c> on</c><00:04:06.019><c> their</c><00:04:06.169><c> menu</c><00:04:06.699><c> now</c><00:04:07.699><c> despite</c><00:04:08.000><c> the</c><00:04:08.209><c> term</c>
+
+00:04:08.379 --> 00:04:08.389 align:start position:0%
+not on their menu now despite the term
+ 
+
+00:04:08.389 --> 00:04:11.559 align:start position:0%
+not on their menu now despite the term
+access<00:04:08.810><c> control</c><00:04:09.290><c> people</c><00:04:09.919><c> use</c><00:04:10.040><c> that</c><00:04:10.250><c> to</c><00:04:10.569><c> refer</c>
+
+00:04:11.559 --> 00:04:11.569 align:start position:0%
+access control people use that to refer
+ 
+
+00:04:11.569 --> 00:04:13.089 align:start position:0%
+access control people use that to refer
+to<00:04:11.750><c> the</c><00:04:11.870><c> public</c><00:04:12.169><c> private</c><00:04:12.379><c> and</c><00:04:12.680><c> so</c><00:04:12.829><c> forth</c>
+
+00:04:13.089 --> 00:04:13.099 align:start position:0%
+to the public private and so forth
+ 
+
+00:04:13.099 --> 00:04:15.309 align:start position:0%
+to the public private and so forth
+future<00:04:13.730><c> in</c><00:04:13.849><c> Java</c><00:04:14.030><c> it</c><00:04:14.540><c> has</c><00:04:14.690><c> nothing</c><00:04:15.079><c> to</c><00:04:15.109><c> do</c><00:04:15.290><c> with</c>
+
+00:04:15.309 --> 00:04:15.319 align:start position:0%
+future in Java it has nothing to do with
+ 
+
+00:04:15.319 --> 00:04:16.960 align:start position:0%
+future in Java it has nothing to do with
+protection<00:04:15.769><c> against</c><00:04:16.220><c> people</c><00:04:16.489><c> trying</c><00:04:16.760><c> to</c><00:04:16.849><c> do</c>
+
+00:04:16.960 --> 00:04:16.970 align:start position:0%
+protection against people trying to do
+ 
+
+00:04:16.970 --> 00:04:19.800 align:start position:0%
+protection against people trying to do
+bad<00:04:17.209><c> stuff</c><00:04:17.539><c> with</c><00:04:17.720><c> your</c><00:04:17.840><c> code</c>
+
+00:04:19.800 --> 00:04:19.810 align:start position:0%
+bad stuff with your code
+ 
+
+00:04:19.810 --> 00:04:20.940 align:start position:0%
+bad stuff with your code
+because<00:04:19.959><c> if</c><00:04:20.260><c> they</c><00:04:20.380><c> have</c><00:04:20.470><c> access</c><00:04:20.739><c> to</c><00:04:20.889><c> your</c>
+
+00:04:20.940 --> 00:04:20.950 align:start position:0%
+because if they have access to your
+ 
+
+00:04:20.950 --> 00:04:22.350 align:start position:0%
+because if they have access to your
+source<00:04:21.160><c> code</c><00:04:21.400><c> they</c><00:04:21.730><c> could</c><00:04:21.880><c> do</c><00:04:21.940><c> whatever</c><00:04:22.090><c> they</c>
+
+00:04:22.350 --> 00:04:22.360 align:start position:0%
+source code they could do whatever they
+ 
+
+00:04:22.360 --> 00:04:25.440 align:start position:0%
+source code they could do whatever they
+want<00:04:23.040><c> so</c><00:04:24.040><c> that's</c><00:04:24.310><c> not</c><00:04:24.520><c> what</c><00:04:24.639><c> has</c><00:04:24.820><c> to</c><00:04:24.940><c> do</c><00:04:25.030><c> it</c><00:04:25.150><c> it</c>
+
+00:04:25.440 --> 00:04:25.450 align:start position:0%
+want so that's not what has to do it it
+ 
+
+00:04:25.450 --> 00:04:27.750 align:start position:0%
+want so that's not what has to do it it
+is<00:04:25.540><c> instead</c><00:04:25.960><c> simply</c><00:04:26.320><c> oops</c><00:04:26.650><c> and</c><00:04:26.889><c> it</c><00:04:27.370><c> is</c><00:04:27.490><c> instead</c>
+
+00:04:27.750 --> 00:04:27.760 align:start position:0%
+is instead simply oops and it is instead
+ 
+
+00:04:27.760 --> 00:04:29.640 align:start position:0%
+is instead simply oops and it is instead
+simply<00:04:28.090><c> a</c><00:04:28.510><c> weight</c><00:04:28.870><c> a</c><00:04:28.900><c> signal</c><00:04:29.380><c> to</c><00:04:29.530><c> other</c>
+
+00:04:29.640 --> 00:04:29.650 align:start position:0%
+simply a weight a signal to other
+ 
+
+00:04:29.650 --> 00:04:31.680 align:start position:0%
+simply a weight a signal to other
+programmers<00:04:30.130><c> you</c><00:04:30.550><c> should</c><00:04:30.820><c> not</c><00:04:30.970><c> use</c><00:04:31.210><c> this</c><00:04:31.419><c> and</c>
+
+00:04:31.680 --> 00:04:31.690 align:start position:0%
+programmers you should not use this and
+ 
+
+00:04:31.690 --> 00:04:33.720 align:start position:0%
+programmers you should not use this and
+it's<00:04:32.020><c> a</c><00:04:32.110><c> soft</c><00:04:32.500><c> restriction</c><00:04:33.160><c> by</c><00:04:33.280><c> the</c><00:04:33.340><c> compiler</c>
+
+00:04:33.720 --> 00:04:33.730 align:start position:0%
+it's a soft restriction by the compiler
+ 
+
+00:04:33.730 --> 00:04:35.879 align:start position:0%
+it's a soft restriction by the compiler
+so<00:04:34.120><c> you</c><00:04:34.240><c> can't</c><00:04:34.450><c> mess</c><00:04:34.630><c> with</c><00:04:34.660><c> it</c><00:04:34.930><c> now</c><00:04:35.740><c> there's</c>
+
+00:04:35.879 --> 00:04:35.889 align:start position:0%
+so you can't mess with it now there's
+ 
+
+00:04:35.889 --> 00:04:37.800 align:start position:0%
+so you can't mess with it now there's
+actually<00:04:35.980><c> another</c><00:04:36.610><c> side</c><00:04:37.389><c> point</c><00:04:37.660><c> I</c><00:04:37.780><c> should</c>
+
+00:04:37.800 --> 00:04:37.810 align:start position:0%
+actually another side point I should
+ 
+
+00:04:37.810 --> 00:04:39.930 align:start position:0%
+actually another side point I should
+mention<00:04:37.990><c> here</c><00:04:38.410><c> that</c><00:04:38.620><c> if</c><00:04:39.250><c> you</c><00:04:39.430><c> make</c><00:04:39.669><c> something</c>
+
+00:04:39.930 --> 00:04:39.940 align:start position:0%
+mention here that if you make something
+ 
+
+00:04:39.940 --> 00:04:42.600 align:start position:0%
+mention here that if you make something
+public<00:04:40.450><c> in</c><00:04:40.600><c> Java</c><00:04:40.870><c> the</c><00:04:41.620><c> expectation</c><00:04:42.430><c> is</c><00:04:42.580><c> that</c>
+
+00:04:42.600 --> 00:04:42.610 align:start position:0%
+public in Java the expectation is that
+ 
+
+00:04:42.610 --> 00:04:45.150 align:start position:0%
+public in Java the expectation is that
+you<00:04:42.760><c> will</c><00:04:42.880><c> never</c><00:04:43.150><c> ever</c><00:04:43.540><c> remove</c><00:04:44.139><c> it</c><00:04:44.260><c> and</c><00:04:44.980><c> what's</c>
+
+00:04:45.150 --> 00:04:45.160 align:start position:0%
+you will never ever remove it and what's
+ 
+
+00:04:45.160 --> 00:04:46.500 align:start position:0%
+you will never ever remove it and what's
+the<00:04:45.310><c> same</c><00:04:45.460><c> way</c><00:04:45.669><c> that</c><00:04:45.820><c> if</c><00:04:45.940><c> you</c><00:04:46.030><c> sit</c><00:04:46.210><c> down</c><00:04:46.240><c> on</c><00:04:46.360><c> a</c>
+
+00:04:46.500 --> 00:04:46.510 align:start position:0%
+the same way that if you sit down on a
+ 
+
+00:04:46.510 --> 00:04:48.690 align:start position:0%
+the same way that if you sit down on a
+car<00:04:46.720><c> that</c><00:04:46.900><c> has</c><00:04:47.050><c> no</c><00:04:47.260><c> steering</c><00:04:47.560><c> wheel</c><00:04:47.830><c> you're</c>
+
+00:04:48.690 --> 00:04:48.700 align:start position:0%
+car that has no steering wheel you're
+ 
+
+00:04:48.700 --> 00:04:50.310 align:start position:0%
+car that has no steering wheel you're
+not<00:04:48.820><c> gonna</c><00:04:48.910><c> want</c><00:04:49.120><c> to</c><00:04:49.210><c> drive</c><00:04:49.419><c> it</c><00:04:49.570><c> I</c><00:04:49.720><c> mean</c><00:04:49.960><c> yes</c><00:04:50.169><c> it</c>
+
+00:04:50.310 --> 00:04:50.320 align:start position:0%
+not gonna want to drive it I mean yes it
+ 
+
+00:04:50.320 --> 00:04:51.480 align:start position:0%
+not gonna want to drive it I mean yes it
+is<00:04:50.410><c> technically</c><00:04:50.800><c> possible</c><00:04:51.040><c> there</c><00:04:51.370><c> would</c><00:04:51.460><c> be</c>
+
+00:04:51.480 --> 00:04:51.490 align:start position:0%
+is technically possible there would be
+ 
+
+00:04:51.490 --> 00:04:53.159 align:start position:0%
+is technically possible there would be
+some<00:04:51.730><c> joystick</c><00:04:52.180><c> that's</c><00:04:52.630><c> just</c><00:04:52.870><c> not</c><00:04:53.050><c> what</c>
+
+00:04:53.159 --> 00:04:53.169 align:start position:0%
+some joystick that's just not what
+ 
+
+00:04:53.169 --> 00:04:57.840 align:start position:0%
+some joystick that's just not what
+people<00:04:53.350><c> expect</c><00:04:53.820><c> so</c><00:04:54.820><c> in</c><00:04:54.940><c> the</c><00:04:55.060><c> case</c><00:04:55.240><c> of</c><00:04:56.850><c> Java</c>
+
+00:04:57.840 --> 00:04:57.850 align:start position:0%
+people expect so in the case of Java
+ 
+
+00:04:57.850 --> 00:04:59.670 align:start position:0%
+people expect so in the case of Java
+classes<00:04:58.150><c> whenever</c><00:04:58.810><c> you</c><00:04:59.020><c> provide</c><00:04:59.320><c> a</c><00:04:59.350><c> public</c>
+
+00:04:59.670 --> 00:04:59.680 align:start position:0%
+classes whenever you provide a public
+ 
+
+00:04:59.680 --> 00:05:01.379 align:start position:0%
+classes whenever you provide a public
+method<00:04:59.830><c> you're</c><00:05:00.430><c> basically</c><00:05:00.850><c> announcing</c><00:05:01.300><c> to</c>
+
+00:05:01.379 --> 00:05:01.389 align:start position:0%
+method you're basically announcing to
+ 
+
+00:05:01.389 --> 00:05:03.450 align:start position:0%
+method you're basically announcing to
+the<00:05:01.450><c> world</c><00:05:01.540><c> that</c><00:05:01.960><c> they</c><00:05:02.229><c> will</c><00:05:02.680><c> have</c><00:05:02.830><c> access</c><00:05:03.040><c> to</c>
+
+00:05:03.450 --> 00:05:03.460 align:start position:0%
+the world that they will have access to
+ 
+
+00:05:03.460 --> 00:05:05.520 align:start position:0%
+the world that they will have access to
+that<00:05:03.610><c> method</c><00:05:04.150><c> forever</c><00:05:04.780><c> okay</c>
+
+00:05:05.520 --> 00:05:05.530 align:start position:0%
+that method forever okay
+ 
+
+00:05:05.530 --> 00:05:07.110 align:start position:0%
+that method forever okay
+so<00:05:05.919><c> private</c><00:05:06.280><c> of</c><00:05:06.370><c> stuff</c><00:05:06.580><c> you</c><00:05:06.760><c> can</c><00:05:06.910><c> mess</c><00:05:07.090><c> with</c>
+
+00:05:07.110 --> 00:05:07.120 align:start position:0%
+so private of stuff you can mess with
+ 
+
+00:05:07.120 --> 00:05:08.460 align:start position:0%
+so private of stuff you can mess with
+that<00:05:07.479><c> the</c><00:05:07.570><c> user</c><00:05:07.720><c> never</c><00:05:07.900><c> needs</c><00:05:08.200><c> to</c><00:05:08.229><c> know</c><00:05:08.320><c> about</c>
+
+00:05:08.460 --> 00:05:08.470 align:start position:0%
+that the user never needs to know about
+ 
+
+00:05:08.470 --> 00:05:10.170 align:start position:0%
+that the user never needs to know about
+public<00:05:09.220><c> is</c><00:05:09.340><c> something</c><00:05:09.639><c> that</c><00:05:09.760><c> should</c><00:05:09.910><c> stay</c>
+
+00:05:10.170 --> 00:05:10.180 align:start position:0%
+public is something that should stay
+ 
+
+00:05:10.180 --> 00:05:12.450 align:start position:0%
+public is something that should stay
+true<00:05:10.510><c> forever</c><00:05:11.080><c> otherwise</c><00:05:12.040><c> we</c><00:05:12.220><c> break</c>
+
+00:05:12.450 --> 00:05:12.460 align:start position:0%
+true forever otherwise we break
+ 
+
+00:05:12.460 --> 00:05:14.360 align:start position:0%
+true forever otherwise we break
+backwards<00:05:13.030><c> compatibility</c><00:05:13.510><c> with</c><00:05:13.750><c> other</c><00:05:13.990><c> code</c>
+
+00:05:14.360 --> 00:05:14.370 align:start position:0%
+backwards compatibility with other code
+ 
+
+00:05:14.370 --> 00:05:17.719 align:start position:0%
+backwards compatibility with other code
+so<00:05:15.370><c> that's</c><00:05:15.669><c> one</c><00:05:16.210><c> thing</c><00:05:16.389><c> we</c><00:05:16.479><c> could</c><00:05:16.630><c> do</c><00:05:16.750><c> is</c><00:05:16.960><c> make</c>
+
+00:05:17.719 --> 00:05:17.729 align:start position:0%
+so that's one thing we could do is make
+ 
+
+00:05:17.729 --> 00:05:21.570 align:start position:0%
+so that's one thing we could do is make
+pieces<00:05:18.729><c> of</c><00:05:18.880><c> our</c><00:05:18.940><c> class</c><00:05:19.180><c> private</c><00:05:20.370><c> so</c><00:05:21.370><c> another</c>
+
+00:05:21.570 --> 00:05:21.580 align:start position:0%
+pieces of our class private so another
+ 
+
+00:05:21.580 --> 00:05:23.760 align:start position:0%
+pieces of our class private so another
+little<00:05:22.080><c> argumentation</c><00:05:23.080><c> we</c><00:05:23.200><c> can</c><00:05:23.380><c> do</c><00:05:23.500><c> is</c>
+
+00:05:23.760 --> 00:05:23.770 align:start position:0%
+little argumentation we can do is
+ 
+
+00:05:23.770 --> 00:05:26.940 align:start position:0%
+little argumentation we can do is
+nesting<00:05:24.490><c> a</c><00:05:24.640><c> class</c><00:05:25.350><c> so</c><00:05:26.350><c> we</c><00:05:26.470><c> think</c><00:05:26.590><c> about</c><00:05:26.680><c> this</c>
+
+00:05:26.940 --> 00:05:26.950 align:start position:0%
+nesting a class so we think about this
+ 
+
+00:05:26.950 --> 00:05:29.279 align:start position:0%
+nesting a class so we think about this
+in<00:05:27.160><c> note</c><00:05:27.430><c> class</c><00:05:27.729><c> I</c><00:05:28.030><c> accidentally</c><00:05:28.690><c> closed</c><00:05:29.050><c> the</c>
+
+00:05:29.279 --> 00:05:29.289 align:start position:0%
+in note class I accidentally closed the
+ 
+
+00:05:29.289 --> 00:05:29.719 align:start position:0%
+in note class I accidentally closed the
+file
+
+00:05:29.719 --> 00:05:29.729 align:start position:0%
+file
+ 
+
+00:05:29.729 --> 00:05:33.029 align:start position:0%
+file
+possibly<00:05:30.729><c> yet</c><00:05:31.450><c> here</c><00:05:31.630><c> it</c><00:05:31.690><c> is</c><00:05:31.810><c> so</c><00:05:32.560><c> here's</c><00:05:32.770><c> int</c>
+
+00:05:33.029 --> 00:05:33.039 align:start position:0%
+possibly yet here it is so here's int
+ 
+
+00:05:33.039 --> 00:05:36.600 align:start position:0%
+possibly yet here it is so here's int
+node<00:05:33.570><c> so</c><00:05:34.570><c> it</c><00:05:34.900><c> is</c><00:05:35.229><c> possible</c><00:05:35.770><c> to</c><00:05:35.800><c> take</c><00:05:36.070><c> this</c><00:05:36.310><c> away</c>
+
+00:05:36.600 --> 00:05:36.610 align:start position:0%
+node so it is possible to take this away
+ 
+
+00:05:36.610 --> 00:05:38.580 align:start position:0%
+node so it is possible to take this away
+and<00:05:36.910><c> say</c><00:05:37.150><c> end</c><00:05:37.479><c> node</c><00:05:37.750><c> really</c><00:05:38.169><c> should</c><00:05:38.380><c> not</c><00:05:38.530><c> be</c>
+
+00:05:38.580 --> 00:05:38.590 align:start position:0%
+and say end node really should not be
+ 
+
+00:05:38.590 --> 00:05:41.730 align:start position:0%
+and say end node really should not be
+its<00:05:39.160><c> own</c><00:05:39.340><c> class</c><00:05:40.210><c> like</c><00:05:40.840><c> file</c><00:05:41.169><c> it</c><00:05:41.470><c> should</c><00:05:41.500><c> be</c>
+
+00:05:41.730 --> 00:05:41.740 align:start position:0%
+its own class like file it should be
+ 
+
+00:05:41.740 --> 00:05:43.380 align:start position:0%
+its own class like file it should be
+that's<00:05:41.860><c> on</c><00:05:42.039><c> Java</c><00:05:42.280><c> file</c><00:05:42.520><c> that's</c><00:05:43.090><c> really</c><00:05:43.360><c> a</c>
+
+00:05:43.380 --> 00:05:43.390 align:start position:0%
+that's on Java file that's really a
+ 
+
+00:05:43.390 --> 00:05:46.440 align:start position:0%
+that's on Java file that's really a
+feature<00:05:43.660><c> of</c><00:05:43.810><c> an</c><00:05:43.960><c> S</c><00:05:44.110><c> list</c><00:05:44.490><c> so</c><00:05:45.490><c> in</c><00:05:45.820><c> Java</c><00:05:46.120><c> it's</c>
+
+00:05:46.440 --> 00:05:46.450 align:start position:0%
+feature of an S list so in Java it's
+ 
+
+00:05:46.450 --> 00:05:47.700 align:start position:0%
+feature of an S list so in Java it's
+pretty<00:05:46.750><c> natural</c><00:05:47.110><c> that</c><00:05:47.140><c> you</c><00:05:47.260><c> can</c><00:05:47.380><c> just</c><00:05:47.530><c> take</c><00:05:47.650><c> a</c>
+
+00:05:47.700 --> 00:05:47.710 align:start position:0%
+pretty natural that you can just take a
+ 
+
+00:05:47.710 --> 00:05:49.890 align:start position:0%
+pretty natural that you can just take a
+class<00:05:48.039><c> and</c><00:05:48.310><c> move</c><00:05:48.550><c> it</c><00:05:48.669><c> inside</c><00:05:49.150><c> of</c><00:05:49.450><c> another</c>
+
+00:05:49.890 --> 00:05:49.900 align:start position:0%
+class and move it inside of another
+ 
+
+00:05:49.900 --> 00:05:52.500 align:start position:0%
+class and move it inside of another
+class<00:05:50.560><c> declaration</c><00:05:51.310><c> and</c><00:05:51.850><c> if</c><00:05:52.090><c> I</c><00:05:52.180><c> could</c><00:05:52.330><c> pile</c>
+
+00:05:52.500 --> 00:05:52.510 align:start position:0%
+class declaration and if I could pile
+ 
+
+00:05:52.510 --> 00:05:54.090 align:start position:0%
+class declaration and if I could pile
+this<00:05:52.750><c> it'll</c><00:05:53.260><c> work</c><00:05:53.440><c> just</c><00:05:53.650><c> fine</c>
+
+00:05:54.090 --> 00:05:54.100 align:start position:0%
+this it'll work just fine
+ 
+
+00:05:54.100 --> 00:05:56.129 align:start position:0%
+this it'll work just fine
+so<00:05:54.700><c> you</c><00:05:54.789><c> can</c><00:05:54.910><c> move</c><00:05:55.060><c> classes</c><00:05:55.539><c> inside</c><00:05:55.870><c> of</c><00:05:56.020><c> other</c>
+
+00:05:56.129 --> 00:05:56.139 align:start position:0%
+so you can move classes inside of other
+ 
+
+00:05:56.139 --> 00:05:58.800 align:start position:0%
+so you can move classes inside of other
+classes<00:05:56.740><c> this</c><00:05:57.400><c> will</c><00:05:57.550><c> be</c><00:05:57.639><c> the</c><00:05:57.729><c> boss</c><00:05:57.940><c> and</c><00:05:58.330><c> this</c>
+
+00:05:58.800 --> 00:05:58.810 align:start position:0%
+classes this will be the boss and this
+ 
+
+00:05:58.810 --> 00:06:00.779 align:start position:0%
+classes this will be the boss and this
+is<00:05:58.900><c> now</c><00:05:59.020><c> subordinate</c><00:05:59.680><c> class</c><00:05:59.889><c> so</c><00:06:00.250><c> in</c><00:06:00.370><c> Java</c><00:06:00.580><c> the</c>
+
+00:06:00.779 --> 00:06:00.789 align:start position:0%
+is now subordinate class so in Java the
+ 
+
+00:06:00.789 --> 00:06:05.370 align:start position:0%
+is now subordinate class so in Java the
+term<00:06:00.970><c> people</c><00:06:01.120><c> use</c><00:06:01.389><c> is</c><00:06:01.570><c> nested</c><00:06:02.139><c> class</c><00:06:04.020><c> so</c><00:06:05.020><c> this</c>
+
+00:06:05.370 --> 00:06:05.380 align:start position:0%
+term people use is nested class so this
+ 
+
+00:06:05.380 --> 00:06:07.379 align:start position:0%
+term people use is nested class so this
+is<00:06:05.530><c> a</c><00:06:05.560><c> nested</c><00:06:05.919><c> class</c><00:06:06.130><c> definition</c><00:06:06.789><c> I</c><00:06:06.910><c> made</c><00:06:07.270><c> it</c>
+
+00:06:07.379 --> 00:06:07.389 align:start position:0%
+is a nested class definition I made it
+ 
+
+00:06:07.389 --> 00:06:08.909 align:start position:0%
+is a nested class definition I made it
+public<00:06:07.720><c> but</c><00:06:07.990><c> you</c><00:06:08.020><c> can't</c><00:06:08.260><c> actually</c><00:06:08.500><c> also</c><00:06:08.650><c> make</c>
+
+00:06:08.909 --> 00:06:08.919 align:start position:0%
+public but you can't actually also make
+ 
+
+00:06:08.919 --> 00:06:12.210 align:start position:0%
+public but you can't actually also make
+it<00:06:08.950><c> private</c><00:06:09.539><c> it</c><00:06:10.539><c> is</c><00:06:10.600><c> typical</c><00:06:11.229><c> but</c><00:06:11.560><c> not</c><00:06:11.770><c> always</c>
+
+00:06:12.210 --> 00:06:12.220 align:start position:0%
+it private it is typical but not always
+ 
+
+00:06:12.220 --> 00:06:14.760 align:start position:0%
+it private it is typical but not always
+that<00:06:12.789><c> what</c><00:06:13.000><c> you'll</c><00:06:13.150><c> do</c><00:06:13.360><c> is</c><00:06:13.510><c> put</c><00:06:13.780><c> the</c><00:06:14.169><c> nested</c>
+
+00:06:14.760 --> 00:06:14.770 align:start position:0%
+that what you'll do is put the nested
+ 
+
+00:06:14.770 --> 00:06:16.770 align:start position:0%
+that what you'll do is put the nested
+class<00:06:14.979><c> definitions</c><00:06:15.610><c> up</c><00:06:15.760><c> top</c><00:06:15.970><c> and</c><00:06:16.240><c> everything</c>
+
+00:06:16.770 --> 00:06:16.780 align:start position:0%
+class definitions up top and everything
+ 
+
+00:06:16.780 --> 00:06:19.409 align:start position:0%
+class definitions up top and everything
+else<00:06:16.900><c> below</c><00:06:17.289><c> but</c><00:06:17.979><c> you</c><00:06:18.910><c> can</c><00:06:19.030><c> do</c><00:06:19.120><c> whatever</c><00:06:19.270><c> you</c>
+
+00:06:19.409 --> 00:06:19.419 align:start position:0%
+else below but you can do whatever you
+ 
+
+00:06:19.419 --> 00:06:21.450 align:start position:0%
+else below but you can do whatever you
+want<00:06:19.600><c> so</c><00:06:19.780><c> typically</c><00:06:20.620><c> I'll</c><00:06:20.830><c> take</c><00:06:21.039><c> this</c><00:06:21.220><c> and</c>
+
+00:06:21.450 --> 00:06:21.460 align:start position:0%
+want so typically I'll take this and
+ 
+
+00:06:21.460 --> 00:06:23.610 align:start position:0%
+want so typically I'll take this and
+move<00:06:21.550><c> it</c><00:06:21.639><c> down</c><00:06:21.700><c> here</c><00:06:22.120><c> but</c><00:06:22.660><c> it</c><00:06:23.020><c> just</c><00:06:23.260><c> depends</c><00:06:23.590><c> on</c>
+
+00:06:23.610 --> 00:06:23.620 align:start position:0%
+move it down here but it just depends on
+ 
+
+00:06:23.620 --> 00:06:25.290 align:start position:0%
+move it down here but it just depends on
+the<00:06:23.740><c> convention</c><00:06:24.220><c> of</c><00:06:24.340><c> the</c><00:06:24.490><c> environment</c><00:06:25.210><c> you're</c>
+
+00:06:25.290 --> 00:06:25.300 align:start position:0%
+the convention of the environment you're
+ 
+
+00:06:25.300 --> 00:06:26.879 align:start position:0%
+the convention of the environment you're
+working<00:06:25.570><c> on</c><00:06:25.660><c> so</c><00:06:26.200><c> if</c><00:06:26.260><c> you</c><00:06:26.350><c> work</c><00:06:26.470><c> for</c><00:06:26.620><c> a</c><00:06:26.650><c> company</c>
+
+00:06:26.879 --> 00:06:26.889 align:start position:0%
+working on so if you work for a company
+ 
+
+00:06:26.889 --> 00:06:28.649 align:start position:0%
+working on so if you work for a company
+that<00:06:27.100><c> always</c><00:06:27.400><c> puts</c><00:06:27.760><c> the</c><00:06:27.820><c> nested</c><00:06:28.180><c> classes</c><00:06:28.390><c> up</c>
+
+00:06:28.649 --> 00:06:28.659 align:start position:0%
+that always puts the nested classes up
+ 
+
+00:06:28.659 --> 00:06:30.490 align:start position:0%
+that always puts the nested classes up
+front<00:06:28.930><c> do</c><00:06:29.560><c> that</c>
+
+00:06:30.490 --> 00:06:30.500 align:start position:0%
+front do that
+ 
+
+00:06:30.500 --> 00:06:32.140 align:start position:0%
+front do that
+for<00:06:30.830><c> a</c><00:06:30.860><c> project</c><00:06:31.370><c> team</c><00:06:31.520><c> where</c><00:06:31.730><c> you</c><00:06:31.820><c> always</c><00:06:31.910><c> put</c>
+
+00:06:32.140 --> 00:06:32.150 align:start position:0%
+for a project team where you always put
+ 
+
+00:06:32.150 --> 00:06:34.000 align:start position:0%
+for a project team where you always put
+at<00:06:32.240><c> the</c><00:06:32.270><c> end</c><00:06:32.360><c> do</c><00:06:32.840><c> that</c><00:06:33.020><c> inset</c><00:06:33.290><c> doesn't</c><00:06:33.890><c> matter</c>
+
+00:06:34.000 --> 00:06:34.010 align:start position:0%
+at the end do that inset doesn't matter
+ 
+
+00:06:34.010 --> 00:06:38.350 align:start position:0%
+at the end do that inset doesn't matter
+what<00:06:34.190><c> order</c><00:06:35.380><c> um</c><00:06:36.400><c> so</c><00:06:37.400><c> why</c><00:06:37.580><c> what's</c><00:06:38.000><c> good</c><00:06:38.150><c> about</c><00:06:38.240><c> a</c>
+
+00:06:38.350 --> 00:06:38.360 align:start position:0%
+what order um so why what's good about a
+ 
+
+00:06:38.360 --> 00:06:40.300 align:start position:0%
+what order um so why what's good about a
+nested<00:06:38.750><c> class</c><00:06:38.960><c> will</c><00:06:39.560><c> be</c><00:06:39.650><c> useful</c><00:06:39.680><c> whenever</c><00:06:40.220><c> a</c>
+
+00:06:40.300 --> 00:06:40.310 align:start position:0%
+nested class will be useful whenever a
+ 
+
+00:06:40.310 --> 00:06:41.980 align:start position:0%
+nested class will be useful whenever a
+class<00:06:40.610><c> here</c><00:06:40.820><c> declaring</c><00:06:41.240><c> doesn't</c><00:06:41.600><c> stand</c><00:06:41.840><c> on</c><00:06:41.960><c> a</c>
+
+00:06:41.980 --> 00:06:41.990 align:start position:0%
+class here declaring doesn't stand on a
+ 
+
+00:06:41.990 --> 00:06:43.780 align:start position:0%
+class here declaring doesn't stand on a
+note<00:06:42.230><c> when</c><00:06:42.530><c> it</c><00:06:42.620><c> on</c><00:06:42.740><c> its</c><00:06:42.890><c> own</c><00:06:43.010><c> whenever</c><00:06:43.550><c> it's</c>
+
+00:06:43.780 --> 00:06:43.790 align:start position:0%
+note when it on its own whenever it's
+ 
+
+00:06:43.790 --> 00:06:45.730 align:start position:0%
+note when it on its own whenever it's
+obvious<00:06:44.240><c> that</c><00:06:44.270><c> an</c><00:06:44.540><c> int</c><00:06:44.720><c> note</c><00:06:44.930><c> is</c><00:06:45.170><c> really</c><00:06:45.530><c> just</c>
+
+00:06:45.730 --> 00:06:45.740 align:start position:0%
+obvious that an int note is really just
+ 
+
+00:06:45.740 --> 00:06:47.440 align:start position:0%
+obvious that an int note is really just
+something<00:06:46.040><c> used</c><00:06:46.190><c> by</c><00:06:46.340><c> an</c><00:06:46.460><c> S</c><00:06:46.640><c> list</c><00:06:46.880><c> and</c><00:06:47.090><c> only</c><00:06:47.150><c> s</c>
+
+00:06:47.440 --> 00:06:47.450 align:start position:0%
+something used by an S list and only s
+ 
+
+00:06:47.450 --> 00:06:49.600 align:start position:0%
+something used by an S list and only s
+missed<00:06:47.750><c> right</c><00:06:48.200><c> it's</c><00:06:48.380><c> like</c><00:06:48.500><c> its</c><00:06:49.130><c> its</c>
+
+00:06:49.600 --> 00:06:49.610 align:start position:0%
+missed right it's like its its
+ 
+
+00:06:49.610 --> 00:06:53.260 align:start position:0%
+missed right it's like its its
+subordinate<00:06:50.060><c> to</c><00:06:51.040><c> the</c><00:06:52.040><c> S</c><00:06:52.370><c> list</c><00:06:52.610><c> class</c><00:06:52.850><c> in</c><00:06:53.090><c> some</c>
+
+00:06:53.260 --> 00:06:53.270 align:start position:0%
+subordinate to the S list class in some
+ 
+
+00:06:53.270 --> 00:06:55.870 align:start position:0%
+subordinate to the S list class in some
+way<00:06:53.470><c> now</c><00:06:54.470><c> occasionally</c><00:06:54.830><c> you</c><00:06:55.370><c> will</c><00:06:55.610><c> actually</c>
+
+00:06:55.870 --> 00:06:55.880 align:start position:0%
+way now occasionally you will actually
+ 
+
+00:06:55.880 --> 00:06:58.780 align:start position:0%
+way now occasionally you will actually
+want<00:06:56.240><c> an</c><00:06:56.900><c> external</c><00:06:57.560><c> program</c><00:06:57.920><c> to</c><00:06:58.370><c> be</c><00:06:58.460><c> able</c><00:06:58.640><c> to</c>
+
+00:06:58.780 --> 00:06:58.790 align:start position:0%
+want an external program to be able to
+ 
+
+00:06:58.790 --> 00:07:01.990 align:start position:0%
+want an external program to be able to
+make<00:06:59.480><c> instances</c><00:07:00.440><c> of</c><00:07:00.740><c> int</c><00:07:00.980><c> nodes</c><00:07:01.220><c> or</c><00:07:01.490><c> directly</c>
+
+00:07:01.990 --> 00:07:02.000 align:start position:0%
+make instances of int nodes or directly
+ 
+
+00:07:02.000 --> 00:07:03.700 align:start position:0%
+make instances of int nodes or directly
+manipulate<00:07:02.480><c> them</c><00:07:02.660><c> in</c><00:07:02.780><c> some</c><00:07:02.990><c> way</c><00:07:03.140><c> so</c><00:07:03.590><c> I</c><00:07:03.620><c> could</c>
+
+00:07:03.700 --> 00:07:03.710 align:start position:0%
+manipulate them in some way so I could
+ 
+
+00:07:03.710 --> 00:07:06.310 align:start position:0%
+manipulate them in some way so I could
+for<00:07:03.980><c> example</c><00:07:04.360><c> this</c><00:07:05.360><c> would</c><00:07:05.510><c> be</c><00:07:05.630><c> very</c><00:07:05.930><c> strange</c>
+
+00:07:06.310 --> 00:07:06.320 align:start position:0%
+for example this would be very strange
+ 
+
+00:07:06.320 --> 00:07:07.540 align:start position:0%
+for example this would be very strange
+behavior<00:07:06.500><c> but</c><00:07:07.040><c> I</c><00:07:07.070><c> couldn't</c><00:07:07.340><c> do</c><00:07:07.400><c> something</c>
+
+00:07:07.540 --> 00:07:07.550 align:start position:0%
+behavior but I couldn't do something
+ 
+
+00:07:07.550 --> 00:07:12.220 align:start position:0%
+behavior but I couldn't do something
+like<00:07:07.880><c> public</c><00:07:08.120><c> int</c><00:07:08.540><c> note</c><00:07:08.750><c> get</c><00:07:09.350><c> front</c><00:07:09.650><c> node</c><00:07:11.230><c> in</c>
+
+00:07:12.220 --> 00:07:12.230 align:start position:0%
+like public int note get front node in
+ 
+
+00:07:12.230 --> 00:07:13.780 align:start position:0%
+like public int note get front node in
+which<00:07:12.410><c> case</c><00:07:12.620><c> I</c><00:07:12.770><c> really</c><00:07:12.890><c> need</c><00:07:13.190><c> the</c><00:07:13.340><c> int</c><00:07:13.520><c> node</c>
+
+00:07:13.780 --> 00:07:13.790 align:start position:0%
+which case I really need the int node
+ 
+
+00:07:13.790 --> 00:07:17.260 align:start position:0%
+which case I really need the int node
+class<00:07:14.180><c> to</c><00:07:14.720><c> be</c><00:07:15.460><c> public</c><00:07:16.460><c> so</c><00:07:16.700><c> that</c><00:07:16.850><c> someone</c><00:07:17.150><c> is</c>
+
+00:07:17.260 --> 00:07:17.270 align:start position:0%
+class to be public so that someone is
+ 
+
+00:07:17.270 --> 00:07:19.600 align:start position:0%
+class to be public so that someone is
+actually<00:07:17.419><c> able</c><00:07:17.750><c> to</c><00:07:17.840><c> make</c><00:07:18.800><c> int</c><00:07:19.010><c> nodes</c><00:07:19.220><c> or</c><00:07:19.460><c> have</c>
+
+00:07:19.600 --> 00:07:19.610 align:start position:0%
+actually able to make int nodes or have
+ 
+
+00:07:19.610 --> 00:07:22.150 align:start position:0%
+actually able to make int nodes or have
+references<00:07:20.060><c> to</c><00:07:20.120><c> them</c><00:07:20.360><c> but</c><00:07:21.080><c> if</c><00:07:21.169><c> in</c><00:07:21.320><c> this</c><00:07:21.500><c> but</c><00:07:22.040><c> in</c>
+
+00:07:22.150 --> 00:07:22.160 align:start position:0%
+references to them but if in this but in
+ 
+
+00:07:22.160 --> 00:07:24.159 align:start position:0%
+references to them but if in this but in
+a<00:07:22.250><c> class</c><00:07:22.460><c> like</c><00:07:22.490><c> this</c><00:07:22.700><c> where</c><00:07:23.480><c> the</c><00:07:23.600><c> user</c><00:07:23.840><c> never</c>
+
+00:07:24.159 --> 00:07:24.169 align:start position:0%
+a class like this where the user never
+ 
+
+00:07:24.169 --> 00:07:26.440 align:start position:0%
+a class like this where the user never
+needs<00:07:24.530><c> to</c><00:07:24.650><c> even</c><00:07:24.890><c> moba</c><00:07:25.250><c> in</c><00:07:25.400><c> node</c><00:07:25.640><c> we</c><00:07:26.150><c> can</c><00:07:26.300><c> make</c>
+
+00:07:26.440 --> 00:07:26.450 align:start position:0%
+needs to even moba in node we can make
+ 
+
+00:07:26.450 --> 00:07:29.380 align:start position:0%
+needs to even moba in node we can make
+this<00:07:26.600><c> private</c><00:07:27.220><c> so</c><00:07:28.220><c> in</c><00:07:28.310><c> this</c><00:07:28.430><c> way</c><00:07:28.640><c> what</c><00:07:29.240><c> this</c>
+
+00:07:29.380 --> 00:07:29.390 align:start position:0%
+this private so in this way what this
+ 
+
+00:07:29.390 --> 00:07:31.420 align:start position:0%
+this private so in this way what this
+says<00:07:29.630><c> is</c><00:07:29.810><c> that</c><00:07:29.840><c> in</c><00:07:30.140><c> nodes</c><00:07:30.440><c> can</c><00:07:30.710><c> never</c><00:07:30.980><c> be</c><00:07:31.190><c> made</c>
+
+00:07:31.420 --> 00:07:31.430 align:start position:0%
+says is that in nodes can never be made
+ 
+
+00:07:31.430 --> 00:07:34.120 align:start position:0%
+says is that in nodes can never be made
+by<00:07:31.669><c> an</c><00:07:31.790><c> external</c><00:07:32.270><c> user</c><00:07:32.450><c> so</c><00:07:33.050><c> if</c><00:07:33.230><c> we</c><00:07:33.350><c> have</c><00:07:33.500><c> s</c><00:07:33.740><c> list</c>
+
+00:07:34.120 --> 00:07:34.130 align:start position:0%
+by an external user so if we have s list
+ 
+
+00:07:34.130 --> 00:07:36.760 align:start position:0%
+by an external user so if we have s list
+user<00:07:34.370><c> you</c><00:07:34.640><c> could</c><00:07:34.820><c> not</c><00:07:35.000><c> make</c><00:07:35.180><c> an</c><00:07:35.300><c> end</c><00:07:35.479><c> node</c><00:07:35.770><c> but</c>
+
+00:07:36.760 --> 00:07:36.770 align:start position:0%
+user you could not make an end node but
+ 
+
+00:07:36.770 --> 00:07:37.960 align:start position:0%
+user you could not make an end node but
+we're<00:07:36.860><c> kind</c><00:07:37.040><c> of</c><00:07:37.070><c> splitting</c><00:07:37.250><c> hairs</c><00:07:37.610><c> this</c><00:07:37.820><c> is</c>
+
+00:07:37.960 --> 00:07:37.970 align:start position:0%
+we're kind of splitting hairs this is
+ 
+
+00:07:37.970 --> 00:07:39.640 align:start position:0%
+we're kind of splitting hairs this is
+probably<00:07:38.180><c> getting</c><00:07:38.360><c> a</c><00:07:38.450><c> little</c><00:07:38.479><c> boring</c><00:07:38.840><c> for</c><00:07:39.110><c> a</c>
+
+00:07:39.640 --> 00:07:39.650 align:start position:0%
+probably getting a little boring for a
+ 
+
+00:07:39.650 --> 00:07:41.560 align:start position:0%
+probably getting a little boring for a
+video<00:07:39.950><c> but</c><00:07:40.460><c> the</c><00:07:40.520><c> basic</c><00:07:40.850><c> rule</c><00:07:41.000><c> of</c><00:07:41.060><c> thumb</c><00:07:41.270><c> is</c><00:07:41.419><c> if</c>
+
+00:07:41.560 --> 00:07:41.570 align:start position:0%
+video but the basic rule of thumb is if
+ 
+
+00:07:41.570 --> 00:07:43.180 align:start position:0%
+video but the basic rule of thumb is if
+nobody<00:07:42.110><c> else</c><00:07:42.229><c> ever</c><00:07:42.380><c> needs</c><00:07:42.710><c> an</c><00:07:42.890><c> int</c><00:07:43.040><c> node</c>
+
+00:07:43.180 --> 00:07:43.190 align:start position:0%
+nobody else ever needs an int node
+ 
+
+00:07:43.190 --> 00:07:47.050 align:start position:0%
+nobody else ever needs an int node
+reference<00:07:43.640><c> make</c><00:07:44.180><c> it</c><00:07:44.300><c> frightened</c><00:07:44.660><c> okay</c><00:07:46.000><c> now</c><00:07:47.000><c> to</c>
+
+00:07:47.050 --> 00:07:47.060 align:start position:0%
+reference make it frightened okay now to
+ 
+
+00:07:47.060 --> 00:07:49.810 align:start position:0%
+reference make it frightened okay now to
+go<00:07:47.270><c> one</c><00:07:47.540><c> level</c><00:07:47.840><c> deeper</c><00:07:48.260><c> and</c><00:07:48.919><c> I</c><00:07:49.160><c> don't</c><00:07:49.610><c> want</c><00:07:49.760><c> to</c>
+
+00:07:49.810 --> 00:07:49.820 align:start position:0%
+go one level deeper and I don't want to
+ 
+
+00:07:49.820 --> 00:07:52.380 align:start position:0%
+go one level deeper and I don't want to
+get<00:07:49.910><c> too</c><00:07:50.180><c> much</c><00:07:50.450><c> into</c><00:07:50.720><c> my</c><00:07:51.410><c> new</c><00:07:51.620><c> show</c><00:07:51.860><c> of</c><00:07:52.040><c> Java</c>
+
+00:07:52.380 --> 00:07:52.390 align:start position:0%
+get too much into my new show of Java
+ 
+
+00:07:52.390 --> 00:07:55.659 align:start position:0%
+get too much into my new show of Java
+but<00:07:53.390><c> if</c><00:07:53.630><c> it</c><00:07:53.780><c> is</c><00:07:53.900><c> the</c><00:07:54.080><c> case</c><00:07:54.320><c> that</c><00:07:54.620><c> the</c><00:07:55.220><c> nested</c>
+
+00:07:55.659 --> 00:07:55.669 align:start position:0%
+but if it is the case that the nested
+ 
+
+00:07:55.669 --> 00:07:59.380 align:start position:0%
+but if it is the case that the nested
+class<00:07:55.910><c> so</c><00:07:56.419><c> I</c><00:07:57.160><c> said</c><00:07:58.160><c> make</c><00:07:58.370><c> this</c><00:07:58.550><c> private</c><00:07:59.000><c> if</c><00:07:59.180><c> no</c>
+
+00:07:59.380 --> 00:07:59.390 align:start position:0%
+class so I said make this private if no
+ 
+
+00:07:59.390 --> 00:08:02.080 align:start position:0%
+class so I said make this private if no
+external<00:07:59.540><c> class</c><00:08:00.110><c> uses</c><00:08:00.440><c> it</c><00:08:00.560><c> nodes</c><00:08:00.800><c> okay</c><00:08:01.130><c> so</c>
+
+00:08:02.080 --> 00:08:02.090 align:start position:0%
+external class uses it nodes okay so
+ 
+
+00:08:02.090 --> 00:08:03.700 align:start position:0%
+external class uses it nodes okay so
+this<00:08:02.240><c> is</c><00:08:02.360><c> yet</c><00:08:02.510><c> another</c><00:08:02.660><c> thing</c><00:08:03.169><c> like</c><00:08:03.200><c> that</c>
+
+00:08:03.700 --> 00:08:03.710 align:start position:0%
+this is yet another thing like that
+ 
+
+00:08:03.710 --> 00:08:06.700 align:start position:0%
+this is yet another thing like that
+if<00:08:03.830><c> the</c><00:08:04.130><c> int</c><00:08:04.340><c> node</c><00:08:04.790><c> class</c><00:08:05.180><c> never</c><00:08:05.870><c> uses</c><00:08:06.440><c> any</c>
+
+00:08:06.700 --> 00:08:06.710 align:start position:0%
+if the int node class never uses any
+ 
+
+00:08:06.710 --> 00:08:09.490 align:start position:0%
+if the int node class never uses any
+detail<00:08:07.310><c> of</c><00:08:07.550><c> the</c><00:08:08.030><c> S</c><00:08:08.180><c> list</c><00:08:08.540><c> class</c><00:08:08.810><c> of</c><00:08:09.080><c> the</c><00:08:09.169><c> nested</c>
+
+00:08:09.490 --> 00:08:09.500 align:start position:0%
+detail of the S list class of the nested
+ 
+
+00:08:09.500 --> 00:08:11.530 align:start position:0%
+detail of the S list class of the nested
+class<00:08:09.710><c> never</c><00:08:09.950><c> needs</c><00:08:10.190><c> to</c><00:08:10.340><c> look</c><00:08:10.460><c> out</c><00:08:10.669><c> you</c><00:08:11.390><c> can</c>
+
+00:08:11.530 --> 00:08:11.540 align:start position:0%
+class never needs to look out you can
+ 
+
+00:08:11.540 --> 00:08:13.840 align:start position:0%
+class never needs to look out you can
+add<00:08:11.690><c> the</c><00:08:11.870><c> word</c><00:08:11.990><c> static</c><00:08:12.410><c> here</c><00:08:12.830><c> now</c><00:08:13.700><c> that</c>
+
+00:08:13.840 --> 00:08:13.850 align:start position:0%
+add the word static here now that
+ 
+
+00:08:13.850 --> 00:08:15.760 align:start position:0%
+add the word static here now that
+probably<00:08:14.090><c> seems</c><00:08:14.360><c> like</c><00:08:14.479><c> this</c><00:08:15.260><c> word</c><00:08:15.440><c> static</c>
+
+00:08:15.760 --> 00:08:15.770 align:start position:0%
+probably seems like this word static
+ 
+
+00:08:15.770 --> 00:08:19.270 align:start position:0%
+probably seems like this word static
+pops<00:08:16.130><c> up</c><00:08:16.340><c> on</c><00:08:16.490><c> a</c><00:08:16.520><c> lot</c><00:08:16.700><c> of</c><00:08:16.729><c> strange</c><00:08:17.090><c> places</c><00:08:18.280><c> I'm</c>
+
+00:08:19.270 --> 00:08:19.280 align:start position:0%
+pops up on a lot of strange places I'm
+ 
+
+00:08:19.280 --> 00:08:21.280 align:start position:0%
+pops up on a lot of strange places I'm
+not<00:08:19.580><c> gonna</c><00:08:19.729><c> go</c><00:08:20.090><c> into</c><00:08:20.300><c> right</c><00:08:20.720><c> now</c><00:08:20.900><c> why</c><00:08:21.140><c> they</c>
+
+00:08:21.280 --> 00:08:21.290 align:start position:0%
+not gonna go into right now why they
+ 
+
+00:08:21.290 --> 00:08:22.930 align:start position:0%
+not gonna go into right now why they
+decided<00:08:21.680><c> to</c><00:08:21.710><c> use</c><00:08:21.800><c> the</c><00:08:22.010><c> word</c><00:08:22.190><c> static</c><00:08:22.580><c> but</c><00:08:22.880><c> you</c>
+
+00:08:22.930 --> 00:08:22.940 align:start position:0%
+decided to use the word static but you
+ 
+
+00:08:22.940 --> 00:08:24.640 align:start position:0%
+decided to use the word static but you
+could<00:08:23.090><c> imagine</c><00:08:23.270><c> this</c><00:08:23.510><c> set</c><00:08:23.750><c> this</c><00:08:24.260><c> keyword</c>
+
+00:08:24.640 --> 00:08:24.650 align:start position:0%
+could imagine this set this keyword
+ 
+
+00:08:24.650 --> 00:08:27.880 align:start position:0%
+could imagine this set this keyword
+could<00:08:24.830><c> be</c><00:08:24.979><c> never</c><00:08:25.490><c> looks</c><00:08:25.910><c> outwards</c><00:08:26.450><c> okay</c><00:08:27.080><c> it's</c>
+
+00:08:27.880 --> 00:08:27.890 align:start position:0%
+could be never looks outwards okay it's
+ 
+
+00:08:27.890 --> 00:08:30.760 align:start position:0%
+could be never looks outwards okay it's
+not<00:08:28.040><c> it's</c><00:08:28.310><c> static</c><00:08:28.930><c> and</c><00:08:29.930><c> what</c><00:08:30.080><c> that</c><00:08:30.229><c> means</c><00:08:30.410><c> is</c>
+
+00:08:30.760 --> 00:08:30.770 align:start position:0%
+not it's static and what that means is
+ 
+
+00:08:30.770 --> 00:08:34.240 align:start position:0%
+not it's static and what that means is
+that<00:08:31.510><c> the</c><00:08:32.510><c> endowed</c><00:08:32.839><c> class</c><00:08:33.140><c> like</c><00:08:33.770><c> I</c><00:08:33.890><c> could</c><00:08:34.099><c> not</c>
+
+00:08:34.240 --> 00:08:34.250 align:start position:0%
+that the endowed class like I could not
+ 
+
+00:08:34.250 --> 00:08:36.219 align:start position:0%
+that the endowed class like I could not
+write<00:08:34.430><c> a</c><00:08:34.490><c> method</c><00:08:34.729><c> here</c><00:08:35.030><c> that</c><00:08:35.210><c> uses</c><00:08:35.510><c> first</c><00:08:35.719><c> that</c>
+
+00:08:36.219 --> 00:08:36.229 align:start position:0%
+write a method here that uses first that
+ 
+
+00:08:36.229 --> 00:08:38.529 align:start position:0%
+write a method here that uses first that
+would<00:08:36.349><c> not</c><00:08:36.500><c> be</c><00:08:36.650><c> allowed</c><00:08:36.710><c> okay</c><00:08:37.250><c> so</c><00:08:37.969><c> since</c><00:08:38.180><c> this</c>
+
+00:08:38.529 --> 00:08:38.539 align:start position:0%
+would not be allowed okay so since this
+ 
+
+00:08:38.539 --> 00:08:40.639 align:start position:0%
+would not be allowed okay so since this
+int<00:08:38.810><c> node</c><00:08:39.020><c> class</c><00:08:39.320><c> if</c><00:08:39.560><c> you</c><00:08:39.650><c> look</c><00:08:39.800><c> at</c><00:08:39.919><c> it</c><00:08:40.039><c> right</c>
+
+00:08:40.639 --> 00:08:40.649 align:start position:0%
+int node class if you look at it right
+ 
+
+00:08:40.649 --> 00:08:43.249 align:start position:0%
+int node class if you look at it right
+as<00:08:40.769><c> its</c><00:08:40.979><c> own</c><00:08:41.099><c> item</c><00:08:41.459><c> its</c><00:08:41.639><c> own</c><00:08:41.789><c> next</c><00:08:42.259><c> constructor</c>
+
+00:08:43.249 --> 00:08:43.259 align:start position:0%
+as its own item its own next constructor
+ 
+
+00:08:43.259 --> 00:08:45.199 align:start position:0%
+as its own item its own next constructor
+but<00:08:43.649><c> never</c><00:08:43.860><c> does</c><00:08:44.099><c> it</c><00:08:44.219><c> try</c><00:08:44.399><c> and</c><00:08:44.430><c> use</c><00:08:44.639><c> any</c><00:08:44.850><c> of</c><00:08:44.910><c> s</c>
+
+00:08:45.199 --> 00:08:45.209 align:start position:0%
+but never does it try and use any of s
+ 
+
+00:08:45.209 --> 00:08:47.299 align:start position:0%
+but never does it try and use any of s
+lists<00:08:45.660><c> stuff</c><00:08:46.019><c> none</c><00:08:46.350><c> of</c><00:08:46.470><c> its</c><00:08:46.589><c> methods</c><00:08:47.009><c> none</c><00:08:47.220><c> of</c>
+
+00:08:47.299 --> 00:08:47.309 align:start position:0%
+lists stuff none of its methods none of
+ 
+
+00:08:47.309 --> 00:08:48.920 align:start position:0%
+lists stuff none of its methods none of
+its<00:08:47.459><c> constructors</c><00:08:47.999><c> none</c><00:08:48.209><c> of</c><00:08:48.300><c> its</c><00:08:48.449><c> variables</c>
+
+00:08:48.920 --> 00:08:48.930 align:start position:0%
+its constructors none of its variables
+ 
+
+00:08:48.930 --> 00:08:51.829 align:start position:0%
+its constructors none of its variables
+so<00:08:49.410><c> we</c><00:08:49.529><c> can</c><00:08:49.649><c> make</c><00:08:49.800><c> it</c><00:08:49.949><c> static</c><00:08:50.420><c> now</c><00:08:51.420><c> what</c><00:08:51.629><c> good</c>
+
+00:08:51.829 --> 00:08:51.839 align:start position:0%
+so we can make it static now what good
+ 
+
+00:08:51.839 --> 00:08:54.259 align:start position:0%
+so we can make it static now what good
+is<00:08:51.930><c> that</c><00:08:52.139><c> well</c><00:08:52.860><c> it</c><00:08:52.980><c> gives</c><00:08:53.069><c> you</c><00:08:53.220><c> a</c><00:08:53.249><c> tiny</c><00:08:53.730><c> little</c>
+
+00:08:54.259 --> 00:08:54.269 align:start position:0%
+is that well it gives you a tiny little
+ 
+
+00:08:54.269 --> 00:08:57.169 align:start position:0%
+is that well it gives you a tiny little
+bit<00:08:54.449><c> of</c><00:08:54.509><c> memory</c><00:08:54.809><c> savings</c><00:08:55.439><c> for</c><00:08:56.309><c> each</c><00:08:56.430><c> node</c><00:08:56.939><c> and</c>
+
+00:08:57.169 --> 00:08:57.179 align:start position:0%
+bit of memory savings for each node and
+ 
+
+00:08:57.179 --> 00:08:58.489 align:start position:0%
+bit of memory savings for each node and
+you<00:08:57.449><c> can</c><00:08:57.569><c> look</c><00:08:57.689><c> in</c><00:08:57.779><c> the</c><00:08:57.869><c> book</c><00:08:57.899><c> for</c><00:08:58.259><c> a</c><00:08:58.290><c> little</c>
+
+00:08:58.489 --> 00:08:58.499 align:start position:0%
+you can look in the book for a little
+ 
+
+00:08:58.499 --> 00:09:00.530 align:start position:0%
+you can look in the book for a little
+more<00:08:58.649><c> details</c><00:08:59.040><c> on</c><00:08:59.249><c> that</c><00:08:59.279><c> but</c><00:08:59.639><c> the</c><00:08:59.970><c> basic</c><00:09:00.269><c> idea</c>
+
+00:09:00.530 --> 00:09:00.540 align:start position:0%
+more details on that but the basic idea
+ 
+
+00:09:00.540 --> 00:09:02.269 align:start position:0%
+more details on that but the basic idea
+is<00:09:00.600><c> simply</c><00:09:00.839><c> that</c><00:09:01.110><c> a</c><00:09:01.259><c> nested</c><00:09:01.679><c> class</c><00:09:01.920><c> which</c><00:09:02.129><c> is</c>
+
+00:09:02.269 --> 00:09:02.279 align:start position:0%
+is simply that a nested class which is
+ 
+
+00:09:02.279 --> 00:09:04.189 align:start position:0%
+is simply that a nested class which is
+static<00:09:02.490><c> cannot</c><00:09:03.059><c> access</c><00:09:03.449><c> any</c><00:09:03.660><c> of</c><00:09:03.899><c> the</c><00:09:04.019><c> outer</c>
+
+00:09:04.189 --> 00:09:04.199 align:start position:0%
+static cannot access any of the outer
+ 
+
+00:09:04.199 --> 00:09:07.040 align:start position:0%
+static cannot access any of the outer
+classes<00:09:04.740><c> stuff</c><00:09:05.220><c> okay</c><00:09:05.759><c> now</c><00:09:06.540><c> I'm</c><00:09:06.629><c> sure</c><00:09:06.809><c> that</c><00:09:06.839><c> I</c>
+
+00:09:07.040 --> 00:09:07.050 align:start position:0%
+classes stuff okay now I'm sure that I
+ 
+
+00:09:07.050 --> 00:09:08.480 align:start position:0%
+classes stuff okay now I'm sure that I
+pushed<00:09:07.319><c> you</c><00:09:07.439><c> to</c><00:09:07.559><c> the</c><00:09:07.589><c> limit</c><00:09:07.920><c> of</c><00:09:08.009><c> the</c><00:09:08.160><c> amount</c><00:09:08.429><c> of</c>
+
+00:09:08.480 --> 00:09:08.490 align:start position:0%
+pushed you to the limit of the amount of
+ 
+
+00:09:08.490 --> 00:09:10.009 align:start position:0%
+pushed you to the limit of the amount of
+syntax<00:09:08.910><c> you</c><00:09:09.119><c> can</c><00:09:09.269><c> fit</c><00:09:09.480><c> in</c><00:09:09.540><c> your</c><00:09:09.629><c> brain</c><00:09:09.839><c> without</c>
+
+00:09:10.009 --> 00:09:10.019 align:start position:0%
+syntax you can fit in your brain without
+ 
+
+00:09:10.019 --> 00:09:12.379 align:start position:0%
+syntax you can fit in your brain without
+any<00:09:10.290><c> practice</c><00:09:10.470><c> so</c><00:09:11.249><c> don't</c><00:09:11.519><c> fret</c><00:09:11.790><c> this</c><00:09:12.029><c> too</c><00:09:12.209><c> much</c>
+
+00:09:12.379 --> 00:09:12.389 align:start position:0%
+any practice so don't fret this too much
+ 
+
+00:09:12.389 --> 00:09:13.970 align:start position:0%
+any practice so don't fret this too much
+this<00:09:12.899><c> is</c><00:09:12.959><c> something</c><00:09:13.350><c> you'll</c><00:09:13.470><c> get</c><00:09:13.559><c> a</c><00:09:13.619><c> chance</c><00:09:13.829><c> to</c>
+
+00:09:13.970 --> 00:09:13.980 align:start position:0%
+this is something you'll get a chance to
+ 
+
+00:09:13.980 --> 00:09:17.439 align:start position:0%
+this is something you'll get a chance to
+explore<00:09:14.399><c> a</c><00:09:14.429><c> little</c><00:09:14.579><c> bit</c><00:09:14.790><c> in</c><00:09:14.879><c> project</c><00:09:15.269><c> one</c><00:09:15.769><c> and</c>
+
+00:09:17.439 --> 00:09:17.449 align:start position:0%
+explore a little bit in project one and
+ 
+
+00:09:17.449 --> 00:09:20.900 align:start position:0%
+explore a little bit in project one and
+at<00:09:18.449><c> the</c><00:09:18.509><c> risk</c><00:09:19.350><c> of</c><00:09:19.619><c> making</c><00:09:19.980><c> this</c><00:09:20.309><c> lecture</c><00:09:20.670><c> even</c>
+
+00:09:20.900 --> 00:09:20.910 align:start position:0%
+at the risk of making this lecture even
+ 
+
+00:09:20.910 --> 00:09:22.669 align:start position:0%
+at the risk of making this lecture even
+a<00:09:20.939><c> little</c><00:09:21.089><c> more</c><00:09:21.329><c> boring</c><00:09:21.600><c> and</c><00:09:22.110><c> a</c><00:09:22.259><c> little</c><00:09:22.499><c> more</c>
+
+00:09:22.669 --> 00:09:22.679 align:start position:0%
+a little more boring and a little more
+ 
+
+00:09:22.679 --> 00:09:25.369 align:start position:0%
+a little more boring and a little more
+minut<00:09:23.040><c> I</c><00:09:23.279><c> will</c><00:09:23.699><c> make</c><00:09:23.850><c> the</c><00:09:24.059><c> very</c><00:09:24.660><c> minor</c><00:09:25.019><c> note</c>
+
+00:09:25.369 --> 00:09:25.379 align:start position:0%
+minut I will make the very minor note
+ 
+
+00:09:25.379 --> 00:09:27.590 align:start position:0%
+minut I will make the very minor note
+that<00:09:25.920><c> whenever</c><00:09:26.399><c> you</c><00:09:26.519><c> make</c><00:09:26.730><c> a</c><00:09:26.999><c> nested</c><00:09:27.420><c> class</c>
+
+00:09:27.590 --> 00:09:27.600 align:start position:0%
+that whenever you make a nested class
+ 
+
+00:09:27.600 --> 00:09:30.169 align:start position:0%
+that whenever you make a nested class
+private<00:09:27.899><c> these</c><00:09:28.439><c> access</c><00:09:28.949><c> modifiers</c><00:09:29.490><c> no</c><00:09:29.819><c> longer</c>
+
+00:09:30.169 --> 00:09:30.179 align:start position:0%
+private these access modifiers no longer
+ 
+
+00:09:30.179 --> 00:09:32.960 align:start position:0%
+private these access modifiers no longer
+really<00:09:30.360><c> matter</c><00:09:30.720><c> but</c><00:09:31.589><c> not</c><00:09:32.249><c> an</c><00:09:32.429><c> important</c><00:09:32.850><c> job</c>
+
+00:09:32.960 --> 00:09:32.970 align:start position:0%
+really matter but not an important job
+ 
+
+00:09:32.970 --> 00:09:35.600 align:start position:0%
+really matter but not an important job
+of<00:09:33.029><c> detail</c><00:09:33.480><c> so</c><00:09:34.069><c> those</c><00:09:35.069><c> are</c><00:09:35.189><c> a</c><00:09:35.279><c> couple</c><00:09:35.399><c> more</c>
+
+00:09:35.600 --> 00:09:35.610 align:start position:0%
+of detail so those are a couple more
+ 
+
+00:09:35.610 --> 00:09:37.519 align:start position:0%
+of detail so those are a couple more
+improvements<00:09:36.119><c> we</c><00:09:36.209><c> could</c><00:09:36.389><c> basically</c><00:09:36.540><c> make</c><00:09:37.199><c> to</c>
+
+00:09:37.519 --> 00:09:37.529 align:start position:0%
+improvements we could basically make to
+ 
+
+00:09:37.529 --> 00:09:40.699 align:start position:0%
+improvements we could basically make to
+our<00:09:37.709><c> s</c><00:09:38.550><c> list</c><00:09:38.879><c> class</c><00:09:39.149><c> we</c><00:09:39.600><c> can</c><00:09:39.779><c> make</c><00:09:40.199><c> this</c><00:09:40.439><c> class</c>
+
+00:09:40.699 --> 00:09:40.709 align:start position:0%
+our s list class we can make this class
+ 
+
+00:09:40.709 --> 00:09:43.129 align:start position:0%
+our s list class we can make this class
+a<00:09:40.920><c> private</c><00:09:41.279><c> static</c><00:09:41.519><c> nested</c><00:09:42.119><c> class</c><00:09:42.360><c> and</c><00:09:42.839><c> we</c><00:09:42.990><c> can</c>
+
+00:09:43.129 --> 00:09:43.139 align:start position:0%
+a private static nested class and we can
+ 
+
+00:09:43.139 --> 00:09:46.639 align:start position:0%
+a private static nested class and we can
+make<00:09:43.290><c> it</c><00:09:43.439><c> B</c><00:09:43.529><c> first</c><00:09:43.740><c> variable</c><00:09:44.220><c> right</c>
+

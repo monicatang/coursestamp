@@ -1,0 +1,1184 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.690 align:start position:0%
+ 
+the<00:00:00.750><c> big</c><00:00:00.900><c> AHA</c><00:00:01.230><c> is</c><00:00:01.500><c> to</c><00:00:01.860><c> realize</c><00:00:02.190><c> that</c><00:00:02.340><c> if</c><00:00:02.460><c> every</c>
+
+00:00:02.690 --> 00:00:02.700 align:start position:0%
+the big AHA is to realize that if every
+ 
+
+00:00:02.700 --> 00:00:04.789 align:start position:0%
+the big AHA is to realize that if every
+node<00:00:02.730><c> simply</c><00:00:03.240><c> had</c><00:00:03.600><c> a</c><00:00:03.629><c> pointer</c><00:00:04.110><c> to</c><00:00:04.140><c> whoever</c><00:00:04.589><c> was</c>
+
+00:00:04.789 --> 00:00:04.799 align:start position:0%
+node simply had a pointer to whoever was
+ 
+
+00:00:04.799 --> 00:00:06.950 align:start position:0%
+node simply had a pointer to whoever was
+behind<00:00:04.920><c> it</c><00:00:05.250><c> we</c><00:00:05.670><c> never</c><00:00:05.910><c> need</c><00:00:06.150><c> to</c><00:00:06.270><c> scan</c><00:00:06.540><c> forward</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+behind it we never need to scan forward
+ 
+
+00:00:06.960 --> 00:00:08.870 align:start position:0%
+behind it we never need to scan forward
+from<00:00:07.140><c> the</c><00:00:07.230><c> front</c><00:00:07.500><c> to</c><00:00:07.919><c> find</c><00:00:08.130><c> our</c><00:00:08.280><c> predecessor</c>
+
+00:00:08.870 --> 00:00:08.880 align:start position:0%
+from the front to find our predecessor
+ 
+
+00:00:08.880 --> 00:00:11.690 align:start position:0%
+from the front to find our predecessor
+so<00:00:09.570><c> in</c><00:00:09.660><c> other</c><00:00:09.719><c> words</c><00:00:09.929><c> if</c><00:00:10.139><c> 50</c><00:00:10.769><c> had</c><00:00:11.250><c> a</c><00:00:11.280><c> pointer</c>
+
+00:00:11.690 --> 00:00:11.700 align:start position:0%
+so in other words if 50 had a pointer
+ 
+
+00:00:11.700 --> 00:00:13.879 align:start position:0%
+so in other words if 50 had a pointer
+back<00:00:12.030><c> to</c><00:00:12.330><c> the</c><00:00:12.450><c> node</c><00:00:12.630><c> containing</c><00:00:13.049><c> 9</c><00:00:13.320><c> and</c><00:00:13.620><c> the</c>
+
+00:00:13.879 --> 00:00:13.889 align:start position:0%
+back to the node containing 9 and the
+ 
+
+00:00:13.889 --> 00:00:16.039 align:start position:0%
+back to the node containing 9 and the
+node<00:00:14.099><c> with</c><00:00:14.280><c> 9</c><00:00:14.460><c> in</c><00:00:14.639><c> it</c><00:00:14.790><c> had</c><00:00:15.179><c> a</c><00:00:15.210><c> pointer</c><00:00:15.660><c> back</c><00:00:15.870><c> at</c>
+
+00:00:16.039 --> 00:00:16.049 align:start position:0%
+node with 9 in it had a pointer back at
+ 
+
+00:00:16.049 --> 00:00:17.930 align:start position:0%
+node with 9 in it had a pointer back at
+3<00:00:16.289><c> and</c><00:00:16.500><c> this</c><00:00:16.890><c> note</c><00:00:17.070><c> had</c><00:00:17.220><c> a</c><00:00:17.279><c> pointer</c><00:00:17.580><c> back</c><00:00:17.760><c> at</c>
+
+00:00:17.930 --> 00:00:17.940 align:start position:0%
+3 and this note had a pointer back at
+ 
+
+00:00:17.940 --> 00:00:20.120 align:start position:0%
+3 and this note had a pointer back at
+the<00:00:18.090><c> sentinel</c><00:00:18.750><c> then</c><00:00:19.320><c> if</c><00:00:19.560><c> we</c><00:00:19.650><c> wanted</c><00:00:19.859><c> to</c><00:00:19.949><c> find</c>
+
+00:00:20.120 --> 00:00:20.130 align:start position:0%
+the sentinel then if we wanted to find
+ 
+
+00:00:20.130 --> 00:00:21.769 align:start position:0%
+the sentinel then if we wanted to find
+any<00:00:20.340><c> of</c><00:00:20.460><c> our</c><00:00:20.550><c> previous</c><00:00:20.730><c> we</c><00:00:21.240><c> just</c><00:00:21.420><c> follow</c><00:00:21.600><c> that</c>
+
+00:00:21.769 --> 00:00:21.779 align:start position:0%
+any of our previous we just follow that
+ 
+
+00:00:21.779 --> 00:00:24.200 align:start position:0%
+any of our previous we just follow that
+pointer<00:00:22.140><c> so</c><00:00:22.980><c> we</c><00:00:23.070><c> ended</c><00:00:23.279><c> up</c><00:00:23.369><c> with</c><00:00:23.880><c> this</c>
+
+00:00:24.200 --> 00:00:24.210 align:start position:0%
+pointer so we ended up with this
+ 
+
+00:00:24.210 --> 00:00:27.230 align:start position:0%
+pointer so we ended up with this
+topology<00:00:24.570><c> here</c><00:00:25.439><c> where</c><00:00:26.189><c> each</c><00:00:26.400><c> node</c><00:00:26.760><c> has</c><00:00:26.789><c> not</c>
+
+00:00:27.230 --> 00:00:27.240 align:start position:0%
+topology here where each node has not
+ 
+
+00:00:27.240 --> 00:00:29.480 align:start position:0%
+topology here where each node has not
+just<00:00:27.539><c> an</c><00:00:27.750><c> item</c><00:00:28.260><c> and</c><00:00:28.439><c> a</c><00:00:28.470><c> next</c><00:00:28.740><c> planner</c><00:00:28.980><c> but</c><00:00:29.340><c> also</c>
+
+00:00:29.480 --> 00:00:29.490 align:start position:0%
+just an item and a next planner but also
+ 
+
+00:00:29.490 --> 00:00:31.370 align:start position:0%
+just an item and a next planner but also
+a<00:00:29.609><c> previous</c><00:00:30.090><c> pointer</c><00:00:30.480><c> and</c><00:00:30.689><c> then</c><00:00:31.050><c> that</c><00:00:31.260><c> way</c>
+
+00:00:31.370 --> 00:00:31.380 align:start position:0%
+a previous pointer and then that way
+ 
+
+00:00:31.380 --> 00:00:34.100 align:start position:0%
+a previous pointer and then that way
+this<00:00:32.099><c> list</c><00:00:32.730><c> structure</c><00:00:33.360><c> is</c><00:00:33.540><c> often</c><00:00:33.870><c> called</c><00:00:34.020><c> a</c>
+
+00:00:34.100 --> 00:00:34.110 align:start position:0%
+this list structure is often called a
+ 
+
+00:00:34.110 --> 00:00:36.470 align:start position:0%
+this list structure is often called a
+doubly<00:00:34.590><c> linked</c><00:00:34.980><c> list</c><00:00:35.219><c> each</c><00:00:35.790><c> node</c><00:00:36.090><c> has</c><00:00:36.120><c> two</c>
+
+00:00:36.470 --> 00:00:36.480 align:start position:0%
+doubly linked list each node has two
+ 
+
+00:00:36.480 --> 00:00:38.479 align:start position:0%
+doubly linked list each node has two
+links<00:00:36.719><c> and</c><00:00:37.050><c> that's</c><00:00:37.620><c> as</c><00:00:37.770><c> opposed</c><00:00:38.070><c> to</c><00:00:38.250><c> what</c><00:00:38.399><c> we</c>
+
+00:00:38.479 --> 00:00:38.489 align:start position:0%
+links and that's as opposed to what we
+ 
+
+00:00:38.489 --> 00:00:40.160 align:start position:0%
+links and that's as opposed to what we
+had<00:00:38.640><c> before</c><00:00:38.790><c> which</c><00:00:39.120><c> was</c><00:00:39.239><c> a</c><00:00:39.360><c> singly</c><00:00:39.780><c> linked</c><00:00:40.050><c> or</c>
+
+00:00:40.160 --> 00:00:40.170 align:start position:0%
+had before which was a singly linked or
+ 
+
+00:00:40.170 --> 00:00:42.560 align:start position:0%
+had before which was a singly linked or
+only<00:00:40.410><c> forward-pointing</c><00:00:40.800><c> list</c><00:00:41.370><c> and</c><00:00:42.239><c> so</c><00:00:42.540><c> a</c>
+
+00:00:42.560 --> 00:00:42.570 align:start position:0%
+only forward-pointing list and so a
+ 
+
+00:00:42.570 --> 00:00:44.360 align:start position:0%
+only forward-pointing list and so a
+singly<00:00:42.899><c> linked</c><00:00:43.079><c> list</c><00:00:43.320><c> by</c><00:00:43.440><c> the</c><00:00:43.500><c> way</c><00:00:43.680><c> is</c><00:00:43.860><c> what</c><00:00:44.129><c> s</c>
+
+00:00:44.360 --> 00:00:44.370 align:start position:0%
+singly linked list by the way is what s
+ 
+
+00:00:44.370 --> 00:00:48.080 align:start position:0%
+singly linked list by the way is what s
+lists<00:00:44.789><c> stood</c><00:00:45.329><c> for</c><00:00:45.539><c> now</c><00:00:45.989><c> you</c><00:00:46.050><c> know</c><00:00:46.940><c> so</c><00:00:47.940><c> this</c>
+
+00:00:48.080 --> 00:00:48.090 align:start position:0%
+lists stood for now you know so this
+ 
+
+00:00:48.090 --> 00:00:50.420 align:start position:0%
+lists stood for now you know so this
+approach<00:00:48.390><c> is</c><00:00:48.629><c> wonderful</c><00:00:49.200><c> and</c><00:00:49.469><c> that</c><00:00:50.160><c> once</c>
+
+00:00:50.420 --> 00:00:50.430 align:start position:0%
+approach is wonderful and that once
+ 
+
+00:00:50.430 --> 00:00:52.580 align:start position:0%
+approach is wonderful and that once
+we've<00:00:50.670><c> added</c><00:00:50.940><c> these</c><00:00:51.210><c> two</c><00:00:51.420><c> links</c><00:00:51.629><c> our</c><00:00:52.379><c> add</c>
+
+00:00:52.580 --> 00:00:52.590 align:start position:0%
+we've added these two links our add
+ 
+
+00:00:52.590 --> 00:00:54.709 align:start position:0%
+we've added these two links our add
+methods<00:00:53.100><c> fast</c><00:00:53.399><c> our</c><00:00:53.640><c> get</c><00:00:53.850><c> methods</c><00:00:54.239><c> fast</c><00:00:54.480><c> in</c><00:00:54.660><c> our</c>
+
+00:00:54.709 --> 00:00:54.719 align:start position:0%
+methods fast our get methods fast in our
+ 
+
+00:00:54.719 --> 00:00:56.779 align:start position:0%
+methods fast our get methods fast in our
+remove<00:00:55.079><c> method</c><00:00:55.440><c> from</c><00:00:55.920><c> either</c><00:00:56.129><c> the</c><00:00:56.399><c> ends</c><00:00:56.640><c> is</c>
+
+00:00:56.779 --> 00:00:56.789 align:start position:0%
+remove method from either the ends is
+ 
+
+00:00:56.789 --> 00:00:59.450 align:start position:0%
+remove method from either the ends is
+fast<00:00:57.030><c> so</c><00:00:57.989><c> any</c><00:00:58.170><c> operations</c><00:00:58.980><c> involving</c><00:00:59.340><c> the</c>
+
+00:00:59.450 --> 00:00:59.460 align:start position:0%
+fast so any operations involving the
+ 
+
+00:00:59.460 --> 00:01:01.090 align:start position:0%
+fast so any operations involving the
+ends<00:00:59.670><c> of</c><00:00:59.760><c> the</c><00:00:59.820><c> list</c><00:01:00.000><c> will</c><00:01:00.300><c> take</c><00:01:00.449><c> constant</c><00:01:00.629><c> time</c>
+
+00:01:01.090 --> 00:01:01.100 align:start position:0%
+ends of the list will take constant time
+ 
+
+00:01:01.100 --> 00:01:03.319 align:start position:0%
+ends of the list will take constant time
+though<00:01:02.100><c> operations</c><00:01:02.760><c> in</c><00:01:02.879><c> the</c><00:01:02.969><c> middle</c><00:01:03.180><c> will</c><00:01:03.300><c> be</c>
+
+00:01:03.319 --> 00:01:03.329 align:start position:0%
+though operations in the middle will be
+ 
+
+00:01:03.329 --> 00:01:05.450 align:start position:0%
+though operations in the middle will be
+slower<00:01:03.870><c> and</c><00:01:04.409><c> we'll</c><00:01:04.650><c> talk</c><00:01:04.769><c> about</c><00:01:04.890><c> alternative</c>
+
+00:01:05.450 --> 00:01:05.460 align:start position:0%
+slower and we'll talk about alternative
+ 
+
+00:01:05.460 --> 00:01:06.740 align:start position:0%
+slower and we'll talk about alternative
+approaches<00:01:05.820><c> for</c><00:01:06.000><c> dealing</c><00:01:06.150><c> with</c><00:01:06.330><c> those</c><00:01:06.450><c> later</c>
+
+00:01:06.740 --> 00:01:06.750 align:start position:0%
+approaches for dealing with those later
+ 
+
+00:01:06.750 --> 00:01:09.410 align:start position:0%
+approaches for dealing with those later
+but<00:01:07.439><c> as</c><00:01:07.979><c> far</c><00:01:08.130><c> as</c><00:01:08.159><c> linked</c><00:01:08.400><c> lists</c><00:01:08.760><c> go</c><00:01:08.850><c> this</c><00:01:09.270><c> is</c>
+
+00:01:09.410 --> 00:01:09.420 align:start position:0%
+but as far as linked lists go this is
+ 
+
+00:01:09.420 --> 00:01:11.750 align:start position:0%
+but as far as linked lists go this is
+the<00:01:09.450><c> way</c><00:01:10.350><c> that</c><00:01:10.619><c> linked</c><00:01:10.860><c> lists</c><00:01:11.189><c> are</c><00:01:11.340><c> typically</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+the way that linked lists are typically
+ 
+
+00:01:11.760 --> 00:01:17.600 align:start position:0%
+the way that linked lists are typically
+done<00:01:12.530><c> now</c><00:01:13.530><c> this</c><00:01:13.680><c> approach</c><00:01:14.030><c> while</c><00:01:15.030><c> it</c><00:01:15.210><c> works</c><00:01:16.610><c> it</c>
+
+00:01:17.600 --> 00:01:17.610 align:start position:0%
+done now this approach while it works it
+ 
+
+00:01:17.610 --> 00:01:21.950 align:start position:0%
+done now this approach while it works it
+has<00:01:17.640><c> this</c><00:01:18.210><c> one</c><00:01:18.540><c> limitation</c><00:01:19.400><c> which</c><00:01:20.810><c> you</c><00:01:21.810><c> will</c>
+
+00:01:21.950 --> 00:01:21.960 align:start position:0%
+has this one limitation which you will
+ 
+
+00:01:21.960 --> 00:01:24.140 align:start position:0%
+has this one limitation which you will
+only<00:01:22.140><c> really</c><00:01:22.619><c> feel</c><00:01:22.950><c> and</c><00:01:23.220><c> come</c><00:01:23.670><c> to</c><00:01:23.759><c> understand</c>
+
+00:01:24.140 --> 00:01:24.150 align:start position:0%
+only really feel and come to understand
+ 
+
+00:01:24.150 --> 00:01:26.630 align:start position:0%
+only really feel and come to understand
+if<00:01:24.240><c> you</c><00:01:24.330><c> try</c><00:01:24.509><c> and</c><00:01:24.570><c> code</c><00:01:24.780><c> this</c><00:01:24.990><c> thing</c><00:01:25.200><c> up</c><00:01:25.640><c> the</c>
+
+00:01:26.630 --> 00:01:26.640 align:start position:0%
+if you try and code this thing up the
+ 
+
+00:01:26.640 --> 00:01:29.179 align:start position:0%
+if you try and code this thing up the
+there<00:01:27.210><c> is</c><00:01:27.299><c> a</c><00:01:27.330><c> special</c><00:01:27.780><c> case</c><00:01:27.960><c> which</c><00:01:28.770><c> is</c><00:01:28.979><c> that</c>
+
+00:01:29.179 --> 00:01:29.189 align:start position:0%
+there is a special case which is that
+ 
+
+00:01:29.189 --> 00:01:31.789 align:start position:0%
+there is a special case which is that
+the<00:01:29.640><c> last</c><00:01:30.000><c> pointer</c><00:01:30.540><c> sometimes</c><00:01:31.290><c> points</c><00:01:31.619><c> at</c><00:01:31.710><c> the</c>
+
+00:01:31.789 --> 00:01:31.799 align:start position:0%
+the last pointer sometimes points at the
+ 
+
+00:01:31.799 --> 00:01:33.950 align:start position:0%
+the last pointer sometimes points at the
+sentinel<00:01:32.220><c> and</c><00:01:32.430><c> it</c><00:01:32.939><c> sometimes</c><00:01:33.270><c> points</c><00:01:33.840><c> that</c>
+
+00:01:33.950 --> 00:01:33.960 align:start position:0%
+sentinel and it sometimes points that
+ 
+
+00:01:33.960 --> 00:01:37.100 align:start position:0%
+sentinel and it sometimes points that
+what<00:01:34.140><c> we'll</c><00:01:34.259><c> call</c><00:01:34.439><c> a</c><00:01:34.470><c> real</c><00:01:34.860><c> note</c><00:01:35.310><c> and</c><00:01:36.210><c> so</c><00:01:36.390><c> while</c>
+
+00:01:37.100 --> 00:01:37.110 align:start position:0%
+what we'll call a real note and so while
+ 
+
+00:01:37.110 --> 00:01:39.649 align:start position:0%
+what we'll call a real note and so while
+that<00:01:37.140><c> might</c><00:01:37.439><c> not</c><00:01:37.470><c> seem</c><00:01:37.770><c> such</c><00:01:37.979><c> a</c><00:01:38.009><c> big</c><00:01:38.220><c> deal</c><00:01:38.630><c> here</c>
+
+00:01:39.649 --> 00:01:39.659 align:start position:0%
+that might not seem such a big deal here
+ 
+
+00:01:39.659 --> 00:01:41.210 align:start position:0%
+that might not seem such a big deal here
+once<00:01:40.049><c> you</c><00:01:40.140><c> try</c><00:01:40.320><c> and</c><00:01:40.439><c> code</c><00:01:40.560><c> it</c><00:01:40.680><c> up</c><00:01:40.740><c> you'll</c><00:01:41.130><c> see</c>
+
+00:01:41.210 --> 00:01:41.220 align:start position:0%
+once you try and code it up you'll see
+ 
+
+00:01:41.220 --> 00:01:42.950 align:start position:0%
+once you try and code it up you'll see
+that<00:01:41.460><c> for</c><00:01:41.579><c> each</c><00:01:41.790><c> of</c><00:01:42.090><c> your</c><00:01:42.210><c> methods</c><00:01:42.420><c> you'll</c>
+
+00:01:42.950 --> 00:01:42.960 align:start position:0%
+that for each of your methods you'll
+ 
+
+00:01:42.960 --> 00:01:44.330 align:start position:0%
+that for each of your methods you'll
+start<00:01:43.200><c> running</c><00:01:43.439><c> into</c><00:01:43.680><c> these</c><00:01:43.799><c> annoying</c><00:01:44.189><c> if</c>
+
+00:01:44.330 --> 00:01:44.340 align:start position:0%
+start running into these annoying if
+ 
+
+00:01:44.340 --> 00:01:45.649 align:start position:0%
+start running into these annoying if
+statements<00:01:44.850><c> we</c><00:01:44.970><c> have</c><00:01:45.060><c> to</c><00:01:45.149><c> check</c><00:01:45.299><c> and</c><00:01:45.479><c> see</c><00:01:45.540><c> if</c>
+
+00:01:45.649 --> 00:01:45.659 align:start position:0%
+statements we have to check and see if
+ 
+
+00:01:45.659 --> 00:01:47.630 align:start position:0%
+statements we have to check and see if
+it's<00:01:45.780><c> actually</c><00:01:45.899><c> the</c><00:01:46.110><c> sentinel</c><00:01:46.530><c> so</c><00:01:47.369><c> we</c><00:01:47.460><c> want</c><00:01:47.579><c> to</c>
+
+00:01:47.630 --> 00:01:47.640 align:start position:0%
+it's actually the sentinel so we want to
+ 
+
+00:01:47.640 --> 00:01:50.270 align:start position:0%
+it's actually the sentinel so we want to
+avoid<00:01:47.880><c> that</c><00:01:48.110><c> so</c><00:01:49.110><c> what</c><00:01:49.259><c> we</c><00:01:49.380><c> can</c><00:01:49.530><c> do</c><00:01:49.710><c> is</c><00:01:49.950><c> try</c><00:01:50.250><c> and</c>
+
+00:01:50.270 --> 00:01:50.280 align:start position:0%
+avoid that so what we can do is try and
+ 
+
+00:01:50.280 --> 00:01:53.149 align:start position:0%
+avoid that so what we can do is try and
+be<00:01:50.490><c> a</c><00:01:50.520><c> little</c><00:01:51.149><c> more</c><00:01:51.530><c> pure</c><00:01:52.530><c> we're</c><00:01:52.770><c> gonna</c><00:01:52.860><c> look</c>
+
+00:01:53.149 --> 00:01:53.159 align:start position:0%
+be a little more pure we're gonna look
+ 
+
+00:01:53.159 --> 00:01:55.819 align:start position:0%
+be a little more pure we're gonna look
+to<00:01:54.060><c> the</c><00:01:54.270><c> heavens</c><00:01:54.450><c> for</c><00:01:54.810><c> inspiration</c><00:01:55.470><c> and</c><00:01:55.649><c> try</c>
+
+00:01:55.819 --> 00:01:55.829 align:start position:0%
+to the heavens for inspiration and try
+ 
+
+00:01:55.829 --> 00:01:57.580 align:start position:0%
+to the heavens for inspiration and try
+and<00:01:55.950><c> think</c><00:01:56.040><c> how</c><00:01:56.219><c> can</c><00:01:56.280><c> I</c><00:01:56.460><c> make</c><00:01:56.490><c> this</c><00:01:56.790><c> just</c><00:01:57.090><c> more</c>
+
+00:01:57.580 --> 00:01:57.590 align:start position:0%
+and think how can I make this just more
+ 
+
+00:01:57.590 --> 00:02:01.130 align:start position:0%
+and think how can I make this just more
+perfect<00:01:59.030><c> so</c><00:02:00.030><c> the</c><00:02:00.240><c> most</c><00:02:00.390><c> natural</c><00:02:00.899><c> way</c><00:02:01.110><c> to</c>
+
+00:02:01.130 --> 00:02:01.140 align:start position:0%
+perfect so the most natural way to
+ 
+
+00:02:01.140 --> 00:02:04.010 align:start position:0%
+perfect so the most natural way to
+perfect<00:02:01.860><c> our</c><00:02:02.040><c> approach</c><00:02:02.369><c> is</c><00:02:02.610><c> to</c><00:02:03.270><c> add</c><00:02:03.450><c> a</c><00:02:03.479><c> second</c>
+
+00:02:04.010 --> 00:02:04.020 align:start position:0%
+perfect our approach is to add a second
+ 
+
+00:02:04.020 --> 00:02:07.249 align:start position:0%
+perfect our approach is to add a second
+Sentinel<00:02:04.439><c> we</c><00:02:05.009><c> could</c><00:02:05.189><c> say</c><00:02:06.020><c> instead</c><00:02:07.020><c> of</c><00:02:07.110><c> having</c>
+
+00:02:07.249 --> 00:02:07.259 align:start position:0%
+Sentinel we could say instead of having
+ 
+
+00:02:07.259 --> 00:02:09.020 align:start position:0%
+Sentinel we could say instead of having
+a<00:02:07.380><c> last</c><00:02:07.619><c> pointer</c><00:02:08.039><c> that</c><00:02:08.190><c> points</c><00:02:08.250><c> the</c><00:02:08.550><c> last</c><00:02:08.729><c> item</c>
+
+00:02:09.020 --> 00:02:09.030 align:start position:0%
+a last pointer that points the last item
+ 
+
+00:02:09.030 --> 00:02:10.880 align:start position:0%
+a last pointer that points the last item
+we're<00:02:09.450><c> gonna</c><00:02:09.569><c> have</c><00:02:09.690><c> a</c><00:02:09.720><c> sentinel</c><00:02:10.110><c> on</c><00:02:10.259><c> both</c><00:02:10.500><c> ends</c>
+
+00:02:10.880 --> 00:02:10.890 align:start position:0%
+we're gonna have a sentinel on both ends
+ 
+
+00:02:10.890 --> 00:02:12.830 align:start position:0%
+we're gonna have a sentinel on both ends
+because<00:02:11.280><c> now</c><00:02:11.550><c> that</c><00:02:11.610><c> we</c><00:02:11.760><c> have</c><00:02:11.849><c> front</c><00:02:12.180><c> and</c><00:02:12.330><c> back</c>
+
+00:02:12.830 --> 00:02:12.840 align:start position:0%
+because now that we have front and back
+ 
+
+00:02:12.840 --> 00:02:15.559 align:start position:0%
+because now that we have front and back
+pointers<00:02:13.080><c> are</c><00:02:13.230><c> sorry</c><00:02:13.560><c> next</c><00:02:13.830><c> and</c><00:02:14.099><c> previous</c><00:02:14.569><c> we</c>
+
+00:02:15.559 --> 00:02:15.569 align:start position:0%
+pointers are sorry next and previous we
+ 
+
+00:02:15.569 --> 00:02:17.390 align:start position:0%
+pointers are sorry next and previous we
+can<00:02:15.810><c> have</c><00:02:15.989><c> a</c><00:02:16.290><c> sensible</c><00:02:16.830><c> it's</c><00:02:17.010><c> always</c><00:02:17.220><c> of</c><00:02:17.340><c> the</c>
+
+00:02:17.390 --> 00:02:17.400 align:start position:0%
+can have a sensible it's always of the
+ 
+
+00:02:17.400 --> 00:02:18.770 align:start position:0%
+can have a sensible it's always of the
+front<00:02:17.610><c> and</c><00:02:17.849><c> one</c><00:02:18.030><c> that's</c><00:02:18.120><c> always</c><00:02:18.330><c> at</c><00:02:18.510><c> the</c><00:02:18.599><c> back</c>
+
+00:02:18.770 --> 00:02:18.780 align:start position:0%
+front and one that's always at the back
+ 
+
+00:02:18.780 --> 00:02:21.979 align:start position:0%
+front and one that's always at the back
+so<00:02:19.590><c> that</c><00:02:19.620><c> the</c><00:02:19.890><c> empty</c><00:02:20.310><c> list</c><00:02:20.489><c> has</c><00:02:21.150><c> a</c><00:02:21.209><c> pointer</c><00:02:21.690><c> or</c>
+
+00:02:21.979 --> 00:02:21.989 align:start position:0%
+so that the empty list has a pointer or
+ 
+
+00:02:21.989 --> 00:02:24.530 align:start position:0%
+so that the empty list has a pointer or
+has<00:02:22.230><c> a</c><00:02:22.260><c> sentinel</c><00:02:23.220><c> here</c><00:02:23.459><c> at</c><00:02:24.000><c> the</c><00:02:24.120><c> front</c><00:02:24.269><c> and</c><00:02:24.450><c> a</c>
+
+00:02:24.530 --> 00:02:24.540 align:start position:0%
+has a sentinel here at the front and a
+ 
+
+00:02:24.540 --> 00:02:26.780 align:start position:0%
+has a sentinel here at the front and a
+scintilla<00:02:25.230><c> here</c><00:02:25.530><c> the</c><00:02:25.800><c> back</c><00:02:25.980><c> and</c><00:02:26.220><c> then</c><00:02:26.580><c> as</c><00:02:26.700><c> we</c>
+
+00:02:26.780 --> 00:02:26.790 align:start position:0%
+scintilla here the back and then as we
+ 
+
+00:02:26.790 --> 00:02:28.670 align:start position:0%
+scintilla here the back and then as we
+add<00:02:26.970><c> items</c><00:02:27.480><c> to</c><00:02:27.569><c> our</c><00:02:27.690><c> list</c><00:02:28.019><c> we</c><00:02:28.440><c> end</c><00:02:28.560><c> up</c><00:02:28.650><c> just</c>
+
+00:02:28.670 --> 00:02:28.680 align:start position:0%
+add items to our list we end up just
+ 
+
+00:02:28.680 --> 00:02:30.710 align:start position:0%
+add items to our list we end up just
+sliding<00:02:29.129><c> them</c><00:02:29.250><c> in</c><00:02:29.370><c> between</c><00:02:29.700><c> the</c><00:02:30.269><c> two</c>
+
+00:02:30.710 --> 00:02:30.720 align:start position:0%
+sliding them in between the two
+ 
+
+00:02:30.720 --> 00:02:33.410 align:start position:0%
+sliding them in between the two
+sentinels<00:02:31.200><c> so</c><00:02:32.160><c> this</c><00:02:32.280><c> approach</c><00:02:32.519><c> is</c><00:02:32.760><c> nicer</c>
+
+00:02:33.410 --> 00:02:33.420 align:start position:0%
+sentinels so this approach is nicer
+ 
+
+00:02:33.420 --> 00:02:35.449 align:start position:0%
+sentinels so this approach is nicer
+it'll<00:02:33.870><c> be</c><00:02:33.959><c> much</c><00:02:34.170><c> easier</c><00:02:34.200><c> to</c><00:02:34.590><c> code</c><00:02:34.830><c> up</c><00:02:34.860><c> than</c><00:02:35.310><c> the</c>
+
+00:02:35.449 --> 00:02:35.459 align:start position:0%
+it'll be much easier to code up than the
+ 
+
+00:02:35.459 --> 00:02:37.309 align:start position:0%
+it'll be much easier to code up than the
+naive<00:02:35.760><c> approach</c><00:02:35.910><c> and</c><00:02:36.510><c> it'll</c><00:02:36.780><c> be</c><00:02:36.900><c> equally</c>
+
+00:02:37.309 --> 00:02:37.319 align:start position:0%
+naive approach and it'll be equally
+ 
+
+00:02:37.319 --> 00:02:38.869 align:start position:0%
+naive approach and it'll be equally
+powerful<00:02:37.500><c> and</c><00:02:38.010><c> this</c><00:02:38.280><c> is</c><00:02:38.430><c> one</c><00:02:38.580><c> approach</c><00:02:38.790><c> you</c>
+
+00:02:38.869 --> 00:02:38.879 align:start position:0%
+powerful and this is one approach you
+ 
+
+00:02:38.879 --> 00:02:42.170 align:start position:0%
+powerful and this is one approach you
+can<00:02:39.090><c> use</c><00:02:39.269><c> for</c><00:02:39.450><c> project</c><00:02:39.840><c> one</c><00:02:40.730><c> now</c>
+
+00:02:42.170 --> 00:02:42.180 align:start position:0%
+can use for project one now
+ 
+
+00:02:42.180 --> 00:02:44.570 align:start position:0%
+can use for project one now
+while<00:02:43.049><c> this</c><00:02:43.200><c> approach</c><00:02:43.260><c> is</c><00:02:43.769><c> nice</c><00:02:44.010><c> and</c><00:02:44.280><c> easy</c><00:02:44.430><c> to</c>
+
+00:02:44.570 --> 00:02:44.580 align:start position:0%
+while this approach is nice and easy to
+ 
+
+00:02:44.580 --> 00:02:46.430 align:start position:0%
+while this approach is nice and easy to
+cut<00:02:44.849><c> up</c><00:02:44.970><c> I</c><00:02:45.150><c> think</c><00:02:45.480><c> there's</c><00:02:45.840><c> one</c><00:02:46.079><c> better</c>
+
+00:02:46.430 --> 00:02:46.440 align:start position:0%
+cut up I think there's one better
+ 
+
+00:02:46.440 --> 00:02:48.740 align:start position:0%
+cut up I think there's one better
+approach<00:02:46.829><c> this</c><00:02:47.700><c> is</c><00:02:47.849><c> the</c><00:02:47.880><c> approach</c><00:02:48.299><c> that</c><00:02:48.329><c> if</c><00:02:48.660><c> he</c>
+
+00:02:48.740 --> 00:02:48.750 align:start position:0%
+approach this is the approach that if he
+ 
+
+00:02:48.750 --> 00:02:49.940 align:start position:0%
+approach this is the approach that if he
+went<00:02:48.900><c> up</c><00:02:48.989><c> to</c><00:02:49.019><c> the</c><00:02:49.290><c> you</c><00:02:49.500><c> know</c><00:02:49.590><c> the</c><00:02:49.680><c> mountain</c>
+
+00:02:49.940 --> 00:02:49.950 align:start position:0%
+went up to the you know the mountain
+ 
+
+00:02:49.950 --> 00:02:51.470 align:start position:0%
+went up to the you know the mountain
+where<00:02:50.190><c> the</c><00:02:50.310><c> monk</c><00:02:50.489><c> is</c><00:02:50.700><c> like</c><00:02:51.000><c> hanging</c><00:02:51.299><c> out</c><00:02:51.360><c> in</c>
+
+00:02:51.470 --> 00:02:51.480 align:start position:0%
+where the monk is like hanging out in
+ 
+
+00:02:51.480 --> 00:02:53.390 align:start position:0%
+where the monk is like hanging out in
+the<00:02:51.569><c> mountaintop</c><00:02:52.019><c> temple</c><00:02:52.410><c> and</c><00:02:52.620><c> you</c><00:02:52.950><c> said</c><00:02:53.160><c> what</c>
+
+00:02:53.390 --> 00:02:53.400 align:start position:0%
+the mountaintop temple and you said what
+ 
+
+00:02:53.400 --> 00:02:55.460 align:start position:0%
+the mountaintop temple and you said what
+is<00:02:53.519><c> truly</c><00:02:53.940><c> the</c><00:02:54.090><c> best</c><00:02:54.239><c> doubly-linked</c><00:02:54.930><c> list</c><00:02:55.170><c> and</c>
+
+00:02:55.460 --> 00:02:55.470 align:start position:0%
+is truly the best doubly-linked list and
+ 
+
+00:02:55.470 --> 00:02:57.619 align:start position:0%
+is truly the best doubly-linked list and
+you<00:02:55.650><c> had</c><00:02:55.769><c> yeah</c><00:02:56.190><c> I</c><00:02:56.220><c> was</c><00:02:56.340><c> long</c><00:02:56.549><c> climb</c><00:02:56.880><c> and</c><00:02:57.569><c> you</c>
+
+00:02:57.619 --> 00:02:57.629 align:start position:0%
+you had yeah I was long climb and you
+ 
+
+00:02:57.629 --> 00:02:59.930 align:start position:0%
+you had yeah I was long climb and you
+had<00:02:57.720><c> to</c><00:02:57.840><c> it</c><00:02:58.470><c> was</c><00:02:58.530><c> just</c><00:02:58.590><c> excruciating</c><00:02:59.160><c> to</c><00:02:59.790><c> get</c>
+
+00:02:59.930 --> 00:02:59.940 align:start position:0%
+had to it was just excruciating to get
+ 
+
+00:02:59.940 --> 00:03:01.130 align:start position:0%
+had to it was just excruciating to get
+up<00:03:00.030><c> there</c><00:03:00.180><c> and</c><00:03:00.269><c> you</c><00:03:00.360><c> really</c><00:03:00.629><c> are</c><00:03:00.720><c> asking</c><00:03:01.019><c> for</c>
+
+00:03:01.130 --> 00:03:01.140 align:start position:0%
+up there and you really are asking for
+ 
+
+00:03:01.140 --> 00:03:03.410 align:start position:0%
+up there and you really are asking for
+answers<00:03:01.319><c> this</c><00:03:02.040><c> is</c><00:03:02.099><c> what</c><00:03:02.340><c> you</c><00:03:02.430><c> would</c><00:03:02.549><c> get</c><00:03:02.700><c> okay</c>
+
+00:03:03.410 --> 00:03:03.420 align:start position:0%
+answers this is what you would get okay
+ 
+
+00:03:03.420 --> 00:03:06.979 align:start position:0%
+answers this is what you would get okay
+in<00:03:03.690><c> this</c><00:03:04.530><c> approach</c><00:03:05.599><c> instead</c><00:03:06.599><c> of</c><00:03:06.690><c> having</c><00:03:06.930><c> a</c>
+
+00:03:06.979 --> 00:03:06.989 align:start position:0%
+in this approach instead of having a
+ 
+
+00:03:06.989 --> 00:03:08.720 align:start position:0%
+in this approach instead of having a
+sentinel<00:03:07.410><c> in</c><00:03:07.560><c> either</c><00:03:07.769><c> end</c><00:03:07.980><c> you're</c><00:03:08.459><c> gonna</c><00:03:08.579><c> have</c>
+
+00:03:08.720 --> 00:03:08.730 align:start position:0%
+sentinel in either end you're gonna have
+ 
+
+00:03:08.730 --> 00:03:10.729 align:start position:0%
+sentinel in either end you're gonna have
+one<00:03:08.910><c> Sentinel</c><00:03:09.450><c> that</c><00:03:09.870><c> is</c><00:03:09.989><c> both</c><00:03:10.170><c> the</c><00:03:10.349><c> front</c><00:03:10.620><c> and</c>
+
+00:03:10.729 --> 00:03:10.739 align:start position:0%
+one Sentinel that is both the front and
+ 
+
+00:03:10.739 --> 00:03:13.280 align:start position:0%
+one Sentinel that is both the front and
+the<00:03:11.459><c> back</c><00:03:11.489><c> well</c><00:03:12.360><c> how</c><00:03:12.450><c> can</c><00:03:12.510><c> that</c><00:03:12.660><c> be</c>
+
+00:03:13.280 --> 00:03:13.290 align:start position:0%
+the back well how can that be
+ 
+
+00:03:13.290 --> 00:03:15.650 align:start position:0%
+the back well how can that be
+you<00:03:13.650><c> might</c><00:03:13.829><c> ask</c><00:03:14.010><c> you're</c><00:03:14.310><c> you're</c><00:03:14.610><c> you</c><00:03:15.510><c> know</c><00:03:15.629><c> the</c>
+
+00:03:15.650 --> 00:03:15.660 align:start position:0%
+you might ask you're you're you know the
+ 
+
+00:03:15.660 --> 00:03:19.930 align:start position:0%
+you might ask you're you're you know the
+monk<00:03:15.959><c> atop</c><00:03:16.230><c> the</c><00:03:16.379><c> hill</c><00:03:16.819><c> and</c><00:03:17.819><c> he</c><00:03:17.970><c> might</c><00:03:18.150><c> say</c><00:03:18.359><c> well</c>
+
+00:03:19.930 --> 00:03:19.940 align:start position:0%
+monk atop the hill and he might say well
+ 
+
+00:03:19.940 --> 00:03:22.309 align:start position:0%
+monk atop the hill and he might say well
+whenever<00:03:20.940><c> you</c><00:03:21.030><c> have</c><00:03:21.120><c> an</c><00:03:21.209><c> empty</c><00:03:21.389><c> list</c><00:03:21.660><c> the</c>
+
+00:03:22.309 --> 00:03:22.319 align:start position:0%
+whenever you have an empty list the
+ 
+
+00:03:22.319 --> 00:03:24.559 align:start position:0%
+whenever you have an empty list the
+previous<00:03:22.799><c> is</c><00:03:23.010><c> the</c><00:03:23.160><c> sentinel</c><00:03:23.549><c> itself</c><00:03:23.910><c> and</c><00:03:24.180><c> the</c>
+
+00:03:24.559 --> 00:03:24.569 align:start position:0%
+previous is the sentinel itself and the
+ 
+
+00:03:24.569 --> 00:03:26.930 align:start position:0%
+previous is the sentinel itself and the
+next<00:03:24.900><c> is</c><00:03:25.049><c> the</c><00:03:25.319><c> Sinhala</c><00:03:25.739><c> itself</c><00:03:26.130><c> and</c><00:03:26.609><c> at</c><00:03:26.819><c> that</c>
+
+00:03:26.930 --> 00:03:26.940 align:start position:0%
+next is the Sinhala itself and at that
+ 
+
+00:03:26.940 --> 00:03:28.129 align:start position:0%
+next is the Sinhala itself and at that
+point<00:03:27.180><c> you're</c><00:03:27.269><c> getting</c><00:03:27.359><c> irritated</c><00:03:27.930><c> of</c><00:03:28.019><c> the</c>
+
+00:03:28.129 --> 00:03:28.139 align:start position:0%
+point you're getting irritated of the
+ 
+
+00:03:28.139 --> 00:03:30.020 align:start position:0%
+point you're getting irritated of the
+monk<00:03:28.319><c> and</c><00:03:28.500><c> you</c><00:03:28.560><c> just</c><00:03:28.709><c> want</c><00:03:28.889><c> answers</c><00:03:29.190><c> and</c><00:03:29.910><c> you</c>
+
+00:03:30.020 --> 00:03:30.030 align:start position:0%
+monk and you just want answers and you
+ 
+
+00:03:30.030 --> 00:03:31.789 align:start position:0%
+monk and you just want answers and you
+have<00:03:30.150><c> to</c><00:03:30.269><c> reflect</c><00:03:31.079><c> a</c><00:03:31.200><c> little</c><00:03:31.319><c> that's</c><00:03:31.560><c> part</c><00:03:31.769><c> of</c>
+
+00:03:31.789 --> 00:03:31.799 align:start position:0%
+have to reflect a little that's part of
+ 
+
+00:03:31.799 --> 00:03:34.009 align:start position:0%
+have to reflect a little that's part of
+the<00:03:32.030><c> the</c><00:03:33.030><c> glory</c><00:03:33.329><c> of</c><00:03:33.450><c> some</c><00:03:33.720><c> of</c><00:03:33.810><c> the</c><00:03:33.870><c> most</c>
+
+00:03:34.009 --> 00:03:34.019 align:start position:0%
+the the glory of some of the most
+ 
+
+00:03:34.019 --> 00:03:35.629 align:start position:0%
+the the glory of some of the most
+beautiful<00:03:34.440><c> ideas</c><00:03:34.530><c> they</c><00:03:34.980><c> take</c><00:03:35.130><c> a</c><00:03:35.160><c> lot</c><00:03:35.370><c> of</c><00:03:35.459><c> deep</c>
+
+00:03:35.629 --> 00:03:35.639 align:start position:0%
+beautiful ideas they take a lot of deep
+ 
+
+00:03:35.639 --> 00:03:38.240 align:start position:0%
+beautiful ideas they take a lot of deep
+thought<00:03:35.940><c> to</c><00:03:36.180><c> really</c><00:03:36.420><c> get</c><00:03:36.799><c> but</c><00:03:37.799><c> in</c><00:03:37.889><c> this</c><00:03:38.010><c> case</c>
+
+00:03:38.240 --> 00:03:38.250 align:start position:0%
+thought to really get but in this case
+ 
+
+00:03:38.250 --> 00:03:40.280 align:start position:0%
+thought to really get but in this case
+as<00:03:38.549><c> you</c><00:03:38.760><c> add</c><00:03:38.910><c> items</c><00:03:39.120><c> to</c><00:03:39.389><c> the</c><00:03:39.510><c> sentence</c><00:03:39.930><c> to</c><00:03:40.260><c> the</c>
+
+00:03:40.280 --> 00:03:40.290 align:start position:0%
+as you add items to the sentence to the
+ 
+
+00:03:40.290 --> 00:03:43.430 align:start position:0%
+as you add items to the sentence to the
+frontal<00:03:40.920><c> list</c><00:03:41.099><c> you'll</c><00:03:41.819><c> find</c><00:03:42.150><c> that</c><00:03:42.780><c> there's</c><00:03:43.380><c> a</c>
+
+00:03:43.430 --> 00:03:43.440 align:start position:0%
+frontal list you'll find that there's a
+ 
+
+00:03:43.440 --> 00:03:45.740 align:start position:0%
+frontal list you'll find that there's a
+very<00:03:43.620><c> natural</c><00:03:44.040><c> place</c><00:03:44.160><c> to</c><00:03:44.370><c> add</c><00:03:44.489><c> them</c><00:03:44.730><c> so</c><00:03:45.450><c> after</c>
+
+00:03:45.740 --> 00:03:45.750 align:start position:0%
+very natural place to add them so after
+ 
+
+00:03:45.750 --> 00:03:47.599 align:start position:0%
+very natural place to add them so after
+we<00:03:45.840><c> add</c><00:03:45.989><c> the</c><00:03:46.230><c> numbers</c><00:03:46.530><c> 3</c><00:03:46.709><c> and</c><00:03:46.829><c> 9</c><00:03:46.950><c> for</c><00:03:47.160><c> example</c>
+
+00:03:47.599 --> 00:03:47.609 align:start position:0%
+we add the numbers 3 and 9 for example
+ 
+
+00:03:47.609 --> 00:03:50.360 align:start position:0%
+we add the numbers 3 and 9 for example
+we<00:03:48.180><c> would</c><00:03:48.299><c> say</c><00:03:48.450><c> the</c><00:03:48.599><c> Sentinel</c><00:03:49.019><c> its</c><00:03:49.470><c> next</c><00:03:49.950><c> is</c><00:03:50.099><c> 3</c>
+
+00:03:50.360 --> 00:03:50.370 align:start position:0%
+we would say the Sentinel its next is 3
+ 
+
+00:03:50.370 --> 00:03:52.339 align:start position:0%
+we would say the Sentinel its next is 3
+that's<00:03:50.880><c> the</c><00:03:50.970><c> first</c><00:03:51.150><c> thing</c><00:03:51.299><c> we</c><00:03:51.389><c> added</c><00:03:51.540><c> and</c><00:03:51.840><c> then</c>
+
+00:03:52.339 --> 00:03:52.349 align:start position:0%
+that's the first thing we added and then
+ 
+
+00:03:52.349 --> 00:03:54.710 align:start position:0%
+that's the first thing we added and then
+it's<00:03:52.620><c> next</c><00:03:52.859><c> is</c><00:03:53.130><c> 9</c><00:03:53.340><c> and</c><00:03:53.639><c> then</c><00:03:53.970><c> it's</c><00:03:54.150><c> next</c><00:03:54.480><c> is</c><00:03:54.599><c> the</c>
+
+00:03:54.710 --> 00:03:54.720 align:start position:0%
+it's next is 9 and then it's next is the
+ 
+
+00:03:54.720 --> 00:03:56.960 align:start position:0%
+it's next is 9 and then it's next is the
+Sentinel<00:03:55.139><c> again</c><00:03:55.380><c> so</c><00:03:56.190><c> in</c><00:03:56.280><c> effect</c><00:03:56.370><c> it's</c><00:03:56.730><c> kind</c><00:03:56.910><c> of</c>
+
+00:03:56.960 --> 00:03:56.970 align:start position:0%
+Sentinel again so in effect it's kind of
+ 
+
+00:03:56.970 --> 00:03:58.490 align:start position:0%
+Sentinel again so in effect it's kind of
+like<00:03:57.090><c> the</c><00:03:57.510><c> fact</c><00:03:57.660><c> you</c><00:03:57.810><c> know</c><00:03:57.900><c> the</c><00:03:58.019><c> worlds</c><00:03:58.290><c> round</c>
+
+00:03:58.490 --> 00:03:58.500 align:start position:0%
+like the fact you know the worlds round
+ 
+
+00:03:58.500 --> 00:04:00.020 align:start position:0%
+like the fact you know the worlds round
+if<00:03:58.739><c> I</c><00:03:58.829><c> keep</c><00:03:58.980><c> going</c><00:03:59.130><c> in</c><00:03:59.310><c> one</c><00:03:59.489><c> direction</c><00:03:59.519><c> around</c>
+
+00:04:00.020 --> 00:04:00.030 align:start position:0%
+if I keep going in one direction around
+ 
+
+00:04:00.030 --> 00:04:01.159 align:start position:0%
+if I keep going in one direction around
+the<00:04:00.239><c> world</c><00:04:00.389><c> that</c><00:04:00.599><c> come</c><00:04:00.750><c> back</c><00:04:00.900><c> to</c><00:04:01.049><c> where</c><00:04:01.139><c> I</c>
+
+00:04:01.159 --> 00:04:01.169 align:start position:0%
+the world that come back to where I
+ 
+
+00:04:01.169 --> 00:04:04.059 align:start position:0%
+the world that come back to where I
+start<00:04:01.500><c> and</c><00:04:02.130><c> and</c><00:04:02.910><c> that's</c><00:04:03.120><c> this</c><00:04:03.329><c> approach</c><00:04:03.660><c> and</c>
+
+00:04:04.059 --> 00:04:04.069 align:start position:0%
+start and and that's this approach and
+ 
+
+00:04:04.069 --> 00:04:08.000 align:start position:0%
+start and and that's this approach and
+so<00:04:05.069><c> for</c><00:04:05.190><c> example</c><00:04:05.519><c> if</c><00:04:05.849><c> I</c><00:04:05.970><c> do</c><00:04:06.030><c> Sentinel</c><00:04:06.750><c> dot</c><00:04:07.560><c> next</c>
+
+00:04:08.000 --> 00:04:08.010 align:start position:0%
+so for example if I do Sentinel dot next
+ 
+
+00:04:08.010 --> 00:04:11.210 align:start position:0%
+so for example if I do Sentinel dot next
+dot<00:04:08.669><c> next</c><00:04:09.000><c> dot</c><00:04:09.780><c> next</c><00:04:10.109><c> I'm</c><00:04:10.470><c> back</c><00:04:10.950><c> to</c><00:04:11.099><c> where</c><00:04:11.160><c> I</c>
+
+00:04:11.210 --> 00:04:11.220 align:start position:0%
+dot next dot next I'm back to where I
+ 
+
+00:04:11.220 --> 00:04:13.039 align:start position:0%
+dot next dot next I'm back to where I
+started<00:04:11.250><c> so</c><00:04:11.819><c> this</c><00:04:12.180><c> arrow</c><00:04:12.450><c> and</c><00:04:12.599><c> purple</c><00:04:12.900><c> is</c>
+
+00:04:13.039 --> 00:04:13.049 align:start position:0%
+started so this arrow and purple is
+ 
+
+00:04:13.049 --> 00:04:15.199 align:start position:0%
+started so this arrow and purple is
+Sentinel<00:04:13.410><c> next</c><00:04:13.889><c> next</c><00:04:14.280><c> next</c><00:04:14.459><c> which</c><00:04:14.880><c> is</c><00:04:15.030><c> just</c>
+
+00:04:15.199 --> 00:04:15.209 align:start position:0%
+Sentinel next next next which is just
+ 
+
+00:04:15.209 --> 00:04:17.719 align:start position:0%
+Sentinel next next next which is just
+the<00:04:15.329><c> Sentinel</c><00:04:15.769><c> and</c><00:04:16.769><c> so</c><00:04:16.950><c> while</c><00:04:17.130><c> this</c><00:04:17.280><c> idea</c><00:04:17.430><c> may</c>
+
+00:04:17.719 --> 00:04:17.729 align:start position:0%
+the Sentinel and so while this idea may
+ 
+
+00:04:17.729 --> 00:04:21.080 align:start position:0%
+the Sentinel and so while this idea may
+seem<00:04:17.789><c> more</c><00:04:18.389><c> confusing</c><00:04:18.900><c> and</c><00:04:19.380><c> a</c><00:04:20.010><c> little</c><00:04:20.220><c> silly</c><00:04:20.489><c> I</c>
+
+00:04:21.080 --> 00:04:21.090 align:start position:0%
+seem more confusing and a little silly I
+ 
+
+00:04:21.090 --> 00:04:23.390 align:start position:0%
+seem more confusing and a little silly I
+encourage<00:04:21.870><c> you</c><00:04:22.049><c> when</c><00:04:22.320><c> you</c><00:04:22.440><c> do</c><00:04:22.560><c> project</c><00:04:22.979><c> one</c><00:04:23.130><c> do</c>
+
+00:04:23.390 --> 00:04:23.400 align:start position:0%
+encourage you when you do project one do
+ 
+
+00:04:23.400 --> 00:04:25.650 align:start position:0%
+encourage you when you do project one do
+this<00:04:23.580><c> right</c><00:04:24.000><c> understand</c><00:04:24.960><c> the</c><00:04:25.110><c> wisdom</c><00:04:25.289><c> of</c>
+
+00:04:25.650 --> 00:04:25.660 align:start position:0%
+this right understand the wisdom of
+ 
+
+00:04:25.660 --> 00:04:28.410 align:start position:0%
+this right understand the wisdom of
+the<00:04:25.720><c> monk</c><00:04:25.930><c> atop</c><00:04:26.290><c> the</c><00:04:26.500><c> hill</c><00:04:26.650><c> and</c><00:04:27.550><c> I'm</c><00:04:28.030><c> like</c><00:04:28.210><c> NIT</c>
+
+00:04:28.410 --> 00:04:28.420 align:start position:0%
+the monk atop the hill and I'm like NIT
+ 
+
+00:04:28.420 --> 00:04:32.340 align:start position:0%
+the monk atop the hill and I'm like NIT
+enlightenment<00:04:29.320><c> will</c><00:04:29.560><c> be</c><00:04:29.710><c> yours</c><00:04:30.690><c> so</c><00:04:31.690><c> that's</c><00:04:31.870><c> it</c>
+
+00:04:32.340 --> 00:04:32.350 align:start position:0%
+enlightenment will be yours so that's it
+ 
+
+00:04:32.350 --> 00:04:34.710 align:start position:0%
+enlightenment will be yours so that's it
+as<00:04:32.800><c> far</c><00:04:33.100><c> as</c><00:04:33.190><c> our</c><00:04:33.340><c> doubly-linked</c><00:04:34.000><c> lists</c><00:04:34.300><c> go</c><00:04:34.540><c> in</c>
+
+00:04:34.710 --> 00:04:34.720 align:start position:0%
+as far as our doubly-linked lists go in
+ 
+
+00:04:34.720 --> 00:04:37.320 align:start position:0%
+as far as our doubly-linked lists go in
+terms<00:04:34.930><c> of</c><00:04:35.140><c> topological</c><00:04:35.740><c> improvements</c><00:04:36.610><c> and</c><00:04:37.150><c> so</c>
+
+00:04:37.320 --> 00:04:37.330 align:start position:0%
+terms of topological improvements and so
+ 
+
+00:04:37.330 --> 00:04:39.020 align:start position:0%
+terms of topological improvements and so
+just<00:04:37.540><c> to</c><00:04:37.630><c> summarize</c><00:04:37.960><c> what</c><00:04:37.990><c> we</c><00:04:38.230><c> did</c><00:04:38.380><c> there</c>
+
+00:04:39.020 --> 00:04:39.030 align:start position:0%
+just to summarize what we did there
+ 
+
+00:04:39.030 --> 00:04:41.760 align:start position:0%
+just to summarize what we did there
+improvement<00:04:40.030><c> 7</c><00:04:40.330><c> was</c><00:04:40.480><c> adding</c><00:04:40.780><c> a</c><00:04:40.960><c> dot</c><00:04:41.410><c> last</c>
+
+00:04:41.760 --> 00:04:41.770 align:start position:0%
+improvement 7 was adding a dot last
+ 
+
+00:04:41.770 --> 00:04:44.610 align:start position:0%
+improvement 7 was adding a dot last
+pointer<00:04:42.280><c> to</c><00:04:42.910><c> the</c><00:04:43.030><c> last</c><00:04:43.390><c> item</c><00:04:43.600><c> analyst</c><00:04:43.990><c> and</c><00:04:44.200><c> doc</c>
+
+00:04:44.610 --> 00:04:44.620 align:start position:0%
+pointer to the last item analyst and doc
+ 
+
+00:04:44.620 --> 00:04:46.230 align:start position:0%
+pointer to the last item analyst and doc
+previous<00:04:45.070><c> says</c><00:04:45.490><c> everything</c><00:04:45.910><c> should</c><00:04:46.090><c> look</c>
+
+00:04:46.230 --> 00:04:46.240 align:start position:0%
+previous says everything should look
+ 
+
+00:04:46.240 --> 00:04:48.270 align:start position:0%
+previous says everything should look
+behind<00:04:46.480><c> it</c><00:04:46.780><c> but</c><00:04:47.410><c> the</c><00:04:47.500><c> problem</c><00:04:47.830><c> there</c><00:04:47.860><c> is</c><00:04:48.040><c> that</c>
+
+00:04:48.270 --> 00:04:48.280 align:start position:0%
+behind it but the problem there is that
+ 
+
+00:04:48.280 --> 00:04:49.650 align:start position:0%
+behind it but the problem there is that
+for<00:04:48.430><c> each</c><00:04:48.520><c> of</c><00:04:48.670><c> our</c><00:04:48.730><c> methods</c><00:04:49.120><c> wound</c><00:04:49.300><c> up</c><00:04:49.510><c> with</c>
+
+00:04:49.650 --> 00:04:49.660 align:start position:0%
+for each of our methods wound up with
+ 
+
+00:04:49.660 --> 00:04:53.010 align:start position:0%
+for each of our methods wound up with
+special<00:04:50.020><c> cases</c><00:04:50.440><c> owing</c><00:04:51.280><c> to</c><00:04:51.460><c> the</c><00:04:51.580><c> fact</c><00:04:51.790><c> that</c><00:04:52.020><c> to</c>
+
+00:04:53.010 --> 00:04:53.020 align:start position:0%
+special cases owing to the fact that to
+ 
+
+00:04:53.020 --> 00:04:56.070 align:start position:0%
+special cases owing to the fact that to
+this<00:04:53.170><c> situation</c><00:04:53.410><c> here</c><00:04:53.980><c> where</c><00:04:54.250><c> we</c><00:04:55.150><c> this</c><00:04:55.600><c> this</c>
+
+00:04:56.070 --> 00:04:56.080 align:start position:0%
+this situation here where we this this
+ 
+
+00:04:56.080 --> 00:04:57.630 align:start position:0%
+this situation here where we this this
+special<00:04:56.470><c> case</c><00:04:56.620><c> we</c><00:04:56.800><c> described</c><00:04:57.160><c> before</c>
+
+00:04:57.630 --> 00:04:57.640 align:start position:0%
+special case we described before
+ 
+
+00:04:57.640 --> 00:05:00.510 align:start position:0%
+special case we described before
+so<00:04:58.390><c> to</c><00:04:58.450><c> avoid</c><00:04:58.780><c> those</c><00:04:59.140><c> special</c><00:04:59.950><c> cases</c><00:05:00.100><c> in</c><00:05:00.340><c> each</c>
+
+00:05:00.510 --> 00:05:00.520 align:start position:0%
+so to avoid those special cases in each
+ 
+
+00:05:00.520 --> 00:05:02.640 align:start position:0%
+so to avoid those special cases in each
+of<00:05:00.700><c> our</c><00:05:00.790><c> methods</c><00:05:01.180><c> we</c><00:05:01.810><c> can</c><00:05:01.930><c> either</c><00:05:02.050><c> have</c><00:05:02.350><c> two</c>
+
+00:05:02.640 --> 00:05:02.650 align:start position:0%
+of our methods we can either have two
+ 
+
+00:05:02.650 --> 00:05:04.590 align:start position:0%
+of our methods we can either have two
+sentinels<00:05:03.190><c> or</c><00:05:03.760><c> we</c><00:05:04.000><c> can</c><00:05:04.150><c> make</c><00:05:04.240><c> our</c><00:05:04.390><c> list</c>
+
+00:05:04.590 --> 00:05:04.600 align:start position:0%
+sentinels or we can make our list
+ 
+
+00:05:04.600 --> 00:05:06.150 align:start position:0%
+sentinels or we can make our list
+circular<00:05:05.110><c> and</c><00:05:05.320><c> this</c><00:05:05.530><c> is</c><00:05:05.650><c> the</c><00:05:05.740><c> approach</c><00:05:06.010><c> I</c>
+
+00:05:06.150 --> 00:05:06.160 align:start position:0%
+circular and this is the approach I
+ 
+
+00:05:06.160 --> 00:05:07.770 align:start position:0%
+circular and this is the approach I
+recommend<00:05:06.580><c> for</c><00:05:06.700><c> project</c><00:05:07.060><c> one</c><00:05:07.240><c> because</c><00:05:07.630><c> it's</c>
+
+00:05:07.770 --> 00:05:07.780 align:start position:0%
+recommend for project one because it's
+ 
+
+00:05:07.780 --> 00:05:08.310 align:start position:0%
+recommend for project one because it's
+cool
+
+00:05:08.310 --> 00:05:08.320 align:start position:0%
+cool
+ 
+
+00:05:08.320 --> 00:05:10.350 align:start position:0%
+cool
+so<00:05:09.160><c> to</c><00:05:09.250><c> summarize</c><00:05:09.610><c> all</c><00:05:09.820><c> the</c><00:05:10.000><c> things</c><00:05:10.180><c> we've</c>
+
+00:05:10.350 --> 00:05:10.360 align:start position:0%
+so to summarize all the things we've
+ 
+
+00:05:10.360 --> 00:05:13.170 align:start position:0%
+so to summarize all the things we've
+done<00:05:10.390><c> in</c><00:05:10.810><c> the</c><00:05:11.710><c> previous</c><00:05:11.950><c> lecture</c><00:05:12.190><c> we</c><00:05:12.760><c> made</c><00:05:13.030><c> an</c>
+
+00:05:13.170 --> 00:05:13.180 align:start position:0%
+done in the previous lecture we made an
+ 
+
+00:05:13.180 --> 00:05:15.360 align:start position:0%
+done in the previous lecture we made an
+S<00:05:13.330><c> list</c><00:05:13.600><c> improvements</c><00:05:14.440><c> one</c><00:05:14.560><c> through</c><00:05:14.770><c> six</c><00:05:14.980><c> in</c>
+
+00:05:15.360 --> 00:05:15.370 align:start position:0%
+S list improvements one through six in
+ 
+
+00:05:15.370 --> 00:05:17.370 align:start position:0%
+S list improvements one through six in
+this<00:05:15.610><c> lecture</c><00:05:15.940><c> we've</c><00:05:16.030><c> made</c><00:05:16.180><c> the</c><00:05:16.300><c> D</c><00:05:16.480><c> list</c><00:05:16.720><c> seven</c>
+
+00:05:17.370 --> 00:05:17.380 align:start position:0%
+this lecture we've made the D list seven
+ 
+
+00:05:17.380 --> 00:05:18.780 align:start position:0%
+this lecture we've made the D list seven
+and<00:05:17.590><c> eight</c><00:05:17.680><c> and</c><00:05:17.860><c> so</c><00:05:18.220><c> there's</c><00:05:18.400><c> many</c><00:05:18.520><c> more</c>
+
+00:05:18.780 --> 00:05:18.790 align:start position:0%
+and eight and so there's many more
+ 
+
+00:05:18.790 --> 00:05:20.610 align:start position:0%
+and eight and so there's many more
+things<00:05:19.030><c> before</c><00:05:19.480><c> we</c><00:05:19.510><c> would</c><00:05:19.780><c> be</c><00:05:19.870><c> up</c><00:05:20.080><c> to</c><00:05:20.320><c> par</c><00:05:20.590><c> with</c>
+
+00:05:20.610 --> 00:05:20.620 align:start position:0%
+things before we would be up to par with
+ 
+
+00:05:20.620 --> 00:05:23.490 align:start position:0%
+things before we would be up to par with
+the<00:05:21.160><c> built</c><00:05:21.400><c> in</c><00:05:21.610><c> linked</c><00:05:22.150><c> list</c><00:05:22.360><c> that's</c><00:05:23.020><c> in</c><00:05:23.230><c> Java</c>
+
+00:05:23.490 --> 00:05:23.500 align:start position:0%
+the built in linked list that's in Java
+ 
+
+00:05:23.500 --> 00:05:25.830 align:start position:0%
+the built in linked list that's in Java
+for<00:05:24.010><c> example</c><00:05:24.730><c> adding</c><00:05:24.910><c> exceptions</c><00:05:25.570><c> and</c>
+
+00:05:25.830 --> 00:05:25.840 align:start position:0%
+for example adding exceptions and
+ 
+
+00:05:25.840 --> 00:05:27.810 align:start position:0%
+for example adding exceptions and
+various<00:05:26.440><c> other</c><00:05:26.620><c> features</c><00:05:26.830><c> and</c><00:05:27.280><c> we'll</c><00:05:27.490><c> discuss</c>
+
+00:05:27.810 --> 00:05:27.820 align:start position:0%
+various other features and we'll discuss
+ 
+
+00:05:27.820 --> 00:05:29.280 align:start position:0%
+various other features and we'll discuss
+those<00:05:27.970><c> over</c><00:05:28.210><c> the</c><00:05:28.300><c> coming</c><00:05:28.480><c> weeks</c><00:05:28.720><c> but</c><00:05:28.930><c> that's</c>
+
+00:05:29.280 --> 00:05:29.290 align:start position:0%
+those over the coming weeks but that's
+ 
+
+00:05:29.290 --> 00:05:30.960 align:start position:0%
+those over the coming weeks but that's
+the<00:05:29.440><c> core</c><00:05:29.710><c> of</c><00:05:29.740><c> what</c><00:05:30.070><c> makes</c><00:05:30.100><c> a</c><00:05:30.430><c> doubly-linked</c>
+
+00:05:30.960 --> 00:05:30.970 align:start position:0%
+the core of what makes a doubly-linked
+ 
+
+00:05:30.970 --> 00:05:33.780 align:start position:0%
+the core of what makes a doubly-linked
+list<00:05:31.240><c> good</c><00:05:31.950><c> so</c><00:05:32.950><c> there's</c><00:05:33.130><c> a</c><00:05:33.160><c> little</c><00:05:33.460><c> bit</c><00:05:33.610><c> more</c>
+
+00:05:33.780 --> 00:05:33.790 align:start position:0%
+list good so there's a little bit more
+ 
+
+00:05:33.790 --> 00:05:35.790 align:start position:0%
+list good so there's a little bit more
+we're<00:05:33.970><c> gonna</c><00:05:34.060><c> say</c><00:05:34.360><c> now</c><00:05:34.600><c> about</c><00:05:35.200><c> making</c><00:05:35.680><c> our</c>
+
+00:05:35.790 --> 00:05:35.800 align:start position:0%
+we're gonna say now about making our
+ 
+
+00:05:35.800 --> 00:05:39.030 align:start position:0%
+we're gonna say now about making our
+linked<00:05:36.010><c> lists</c><00:05:36.340><c> even</c><00:05:36.790><c> better</c>
+

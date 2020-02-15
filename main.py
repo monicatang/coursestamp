@@ -3,12 +3,13 @@ from forms import QueryForm
 from flask_wtf.csrf import CSRFProtect
 import os, sys, houndify
 import speech_recognition as sr
+from phrase_occurances import find_occurances
 
 app = Flask(__name__)
 app.config.from_pyfile('config.py', silent=True)
 csrf = CSRFProtect(app)
 
-SECRET_KEY = os.urandom(32)
+SECRET_KEY = 'go bears'
 app.config['SECRET_KEY'] = SECRET_KEY
 client_id = app.config['HOUNDIFY_ID']
 client_key = app.config['HOUNDIFY_KEY']
@@ -20,7 +21,8 @@ def home():
     search = QueryForm(request.form)
     if request.method == 'POST':
         search_string = request.form['query']
-        return render_template('index.html', form=search, name=search_string)
+        data = find_occurances(search_string, "andrew_ng.json")
+        return render_template('index.html', form=search, name=search_string, data=data)
     return render_template('index.html', form=search)
 
 @app.route("/listen", methods=['POST'])
@@ -33,7 +35,9 @@ def listen():
             app.logger.info("I'm listening...")
             audio = rec.listen(source, phrase_time_limit=5)
         search_string = rec.recognize_houndify(audio, client_id, client_key)
-        return render_template('index.html', form=search, name=search_string)
+        if search_string:
+            data = find_occurances(search_string, "andrew_ng.json")
+            return render_template('index.html', form=search, name=search_string, data=data)
     return render_template('index.html', form=search)
 
 if __name__ == "__main__":

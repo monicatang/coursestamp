@@ -12,7 +12,7 @@
         <form  action="" method="post" role="form">
           {{ form.hidden_tag() }}
           <div class="form-group">
-            <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword">
+            <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
           </div>                        
           <button type="submit" class="btn btn-success">Submit</button>
         </form>
@@ -22,7 +22,9 @@
           <button type="submit" class="btn btn-success">Voice Query</button>
         </form>
         <h3 style="padding:32px" class="title">{{ name }}</h3>
-
+        {% for item in data %}
+            <p> {{ item }} </p>
+        {% endfor %}
       </center>
     </div>
   </body>

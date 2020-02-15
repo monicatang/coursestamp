@@ -3,18 +3,23 @@ import re
 import os
 
 # regex parsers
-lecture_matcher = re.compile("Lecture (\\d+.\\d).*-(.*)\\.en") # for Andrew Ng specifically
-#lecture_matcher = re.compile("-(.*)\\.en") # YouTube code only
+#lecture_matcher = re.compile("Lecture (\\d+.\\d).*-(.*)\\.en") # for Andrew Ng specifically
+lecture_matcher = re.compile(".*-(.*)\\.en") # YouTube code only
 timestamp_matcher = re.compile("(\\d\\d):(\\d\\d):(\\d\\d).\\d\\d\\d --> \\d\\d:\\d\\d:\\d\\d.\\d\\d\\d")
 
+"""
+Parses all .vtt files in the current directory and prints to stdout a formatted json.
+
+Piping into files in parent directories recommended.
+"""
 def parse():
   subtitle_dict = {}
   for filename in os.listdir(os.getcwd()):
     if filename == "subtitle_parser.py": # ignore self
       continue
     lecture_obj = lecture_matcher.match(filename)
-    lecture_number = lecture_obj.group(1)
-    lecture_code = lecture_obj.group(2)
+#    lecture_number = lecture_obj.group()
+    lecture_code = lecture_obj.group(1)
     file_dict = {}
     with open(filename) as file:
       last_time = None
@@ -34,7 +39,8 @@ def parse():
               continue
             found_subtitle = True
             last_time = total_seconds
-      subtitle_dict[lecture_number + " " + lecture_code] = file_dict
+#      subtitle_dict[lecture_number + " " + lecture_code] = file_dict
+      subtitle_dict[lecture_code] = file_dict
   return subtitle_dict
 
 if __name__ == '__main__':

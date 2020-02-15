@@ -10,7 +10,8 @@ and out puts the youtube timestamped link.
 Returns previous phrase to allow for prepadding and post padding of phrase.
 """
 def find_occurrences(phrase, filename):
-  ret = []
+  urls = []
+  phrases = []
   with open(filename) as file:
     data = json.load(file)
     for video_code in data:
@@ -19,8 +20,9 @@ def find_occurrences(phrase, filename):
       for index in range(len(timestamps)):
           if phrase in video_data[timestamps[index]]:
             timestamp = timestamps[index] if index == 0 else timestamps[index - 1]
-            ret.append(youtube + video_code + "?start=" + timestamp)
-  return ret
+            urls.append(youtube + video_code + "?start=" + timestamp)
+            phrases.append(video_data[timestamps[index]])
+  return urls, phrases
 
 if __name__ == '__main__':
   args = sys.argv

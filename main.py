@@ -31,7 +31,7 @@ def home():
 
 @app.route('/<search_term>', methods=('GET', 'POST'))
 def results(search_term):
-    data = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
+    data, phrases = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
     search = QueryForm(request.form)
     if request.method == 'POST':
         search_string = request.form['query']

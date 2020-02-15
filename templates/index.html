@@ -14,8 +14,10 @@
   <head>
     <meta charset="utf-8">
     <title>coursestamp</title>
-    <link rel="stylesheet" media="screen" href="static/bootstrap.min.css">
-    <link rel="stylesheet" media="screen" href="static/custom.css">
+    <link rel="stylesheet" media="screen" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+    <link rel="stylesheet" media="screen" href="{{ url_for('static', filename='custom.css') }}">
+
+
   </head>
   <body>
     <div class="container">

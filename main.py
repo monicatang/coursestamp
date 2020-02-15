@@ -22,16 +22,22 @@ client = houndify.StreamingHoundClient(client_id, client_key, user_id, sampleRat
 def home():
     search = QueryForm(request.form)
     if request.method == 'POST':
-        if request.form['search'] == "voice":
-            search_string = listen()
-        else:
-            search_string = request.form['query']
-        return redirect('/'+search_string)
+        #prof_name = request.form['profs']
+        prof_name = "josh_hug"
+        return redirect('/'+prof_name)
     return render_template('index.html', form=search)
 
-@app.route('/<search_term>', methods=('GET', 'POST'))
-def results(search_term):
-    titles, urls, raw_phrases, term_idxes = find_occurrences(search_term, "examples/andrew_ng/andrew_ng.json")
+@app.route('/<prof_name>', methods=('GET', 'POST'))
+def pick_prof(prof_name):
+    search = QueryForm(request.form)
+    if request.method == 'POST':
+        search_string = request.form['query']
+        return redirect('/'+prof_name+'/'+search_string)
+    return render_template('index.html', form=search)
+
+@app.route('/<prof_name>/<search_term>', methods=('GET', 'POST'))
+def results(prof_name, search_term):
+    titles, urls, raw_phrases, term_idxes = find_occurrences(search_term, "examples/"+prof_name+"/"+prof_name+".json")
     leftContexts = []
     rightContexts = []
     titleContexts = []

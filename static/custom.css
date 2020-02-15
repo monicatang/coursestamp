@@ -1,0 +1,37 @@
+.border-3 {
+    border-width:3px !important;
+    border-color:#dbedff !important;
+}
+
+.excerpt-box {
+    overflow: hidden;
+	white-space:nowrap;
+	text-align:left;
+	position:relative;
+	height:40px;
+}
+
+.excerpt-box span {
+  position: absolute;
+  white-space: nowrap;
+  transform: translateX(0);
+  transition: 4s;
+  text-transform: uppercase;
+  font-size:11px;
+  font-weight:bold;
+}
+
+.excerpt-box p {
+	margin-top:30px;
+}
+
+.excerpt-box:hover span {
+  transform: translateX(calc(200px - 90%));
+}
+
+#logo {
+	width:400px;
+	padding-top:100px;
+	padding-bottom:20px;
+	cursor:pointer;
+}

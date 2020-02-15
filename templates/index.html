@@ -28,14 +28,16 @@
             </div>
           </form>
         {% if showViewer == true %}
-        <iframe width="560" height="315" src="{{urls[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe style="float:right;padding-top:32px;padding-left:32px" width="66%" height="600px" src="{{urls[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {% endif %}
         <br>
         
-        <h3 style="padding:32px" class="title">{{ name }}</h3>
-        {% for url in urls %}
-            <p id="{{url}}" onclick="setYTClip(this)"> {{ leftContexts[loop.index0] }}<b>{{ name }}</b> {{ rightContexts[loop.index0] }} </p>
-        {% endfor %}
+        <div style="float:left;width:33%;overflow:scroll;height:600px">
+          <h3 style="padding:32px;" class="title">{{ name }}</h3>
+          {% for url in urls %}
+              <p id="{{url}}" onclick="setYTClip(this)"> {{ leftContexts[loop.index0] }}<b>{{ name }}</b> {{ rightContexts[loop.index0] }} </p>
+          {% endfor %}
+        </div>
       </center>
     </div>
   </body>

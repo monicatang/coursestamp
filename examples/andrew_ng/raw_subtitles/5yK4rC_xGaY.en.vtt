@@ -1,0 +1,680 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:01.520 align:start position:0%
+ 
+in<00:00:00.240><c> this</c><00:00:00.420><c> video</c><00:00:00.659><c> I</c><00:00:01.020><c> want</c><00:00:01.170><c> to</c><00:00:01.260><c> just</c><00:00:01.380><c> quickly</c>
+
+00:00:01.520 --> 00:00:01.530 align:start position:0%
+in this video I want to just quickly
+ 
+
+00:00:01.530 --> 00:00:03.949 align:start position:0%
+in this video I want to just quickly
+step<00:00:02.010><c> you</c><00:00:02.159><c> through</c><00:00:02.190><c> the</c><00:00:02.520><c> logistics</c><00:00:02.939><c> of</c><00:00:03.720><c> how</c><00:00:03.780><c> to</c>
+
+00:00:03.949 --> 00:00:03.959 align:start position:0%
+step you through the logistics of how to
+ 
+
+00:00:03.959 --> 00:00:06.079 align:start position:0%
+step you through the logistics of how to
+work<00:00:04.350><c> on</c><00:00:04.529><c> homeworks</c><00:00:04.920><c> in</c><00:00:05.160><c> this</c><00:00:05.310><c> process</c><00:00:05.910><c> and</c>
+
+00:00:06.079 --> 00:00:06.089 align:start position:0%
+work on homeworks in this process and
+ 
+
+00:00:06.089 --> 00:00:08.870 align:start position:0%
+work on homeworks in this process and
+how<00:00:06.569><c> to</c><00:00:06.600><c> use</c><00:00:07.319><c> the</c><00:00:07.500><c> submission</c><00:00:07.980><c> system</c><00:00:08.189><c> which</c>
+
+00:00:08.870 --> 00:00:08.880 align:start position:0%
+how to use the submission system which
+ 
+
+00:00:08.880 --> 00:00:10.610 align:start position:0%
+how to use the submission system which
+will<00:00:09.090><c> let</c><00:00:09.210><c> you</c><00:00:09.330><c> verify</c><00:00:09.510><c> right</c><00:00:10.019><c> away</c><00:00:10.260><c> that</c><00:00:10.530><c> you</c>
+
+00:00:10.610 --> 00:00:10.620 align:start position:0%
+will let you verify right away that you
+ 
+
+00:00:10.620 --> 00:00:12.709 align:start position:0%
+will let you verify right away that you
+got<00:00:10.830><c> the</c><00:00:10.950><c> right</c><00:00:10.980><c> answer</c><00:00:11.309><c> for</c><00:00:11.790><c> your</c><00:00:12.150><c> machine</c>
+
+00:00:12.709 --> 00:00:12.719 align:start position:0%
+got the right answer for your machine
+ 
+
+00:00:12.719 --> 00:00:16.460 align:start position:0%
+got the right answer for your machine
+learning<00:00:13.049><c> programming</c><00:00:13.469><c> exercise</c><00:00:15.350><c> here's</c><00:00:16.350><c> my</c>
+
+00:00:16.460 --> 00:00:16.470 align:start position:0%
+learning programming exercise here's my
+ 
+
+00:00:16.470 --> 00:00:18.859 align:start position:0%
+learning programming exercise here's my
+octave<00:00:16.680><c> window</c><00:00:17.100><c> and</c><00:00:17.760><c> let's</c><00:00:18.300><c> first</c><00:00:18.480><c> go</c><00:00:18.660><c> to</c><00:00:18.720><c> my</c>
+
+00:00:18.859 --> 00:00:18.869 align:start position:0%
+octave window and let's first go to my
+ 
+
+00:00:18.869 --> 00:00:19.490 align:start position:0%
+octave window and let's first go to my
+desktop
+
+00:00:19.490 --> 00:00:19.500 align:start position:0%
+desktop
+ 
+
+00:00:19.500 --> 00:00:23.179 align:start position:0%
+desktop
+I<00:00:19.529><c> saved</c><00:00:20.160><c> the</c><00:00:20.460><c> files</c><00:00:20.760><c> for</c><00:00:21.210><c> my</c><00:00:21.810><c> first</c><00:00:22.680><c> exercise</c>
+
+00:00:23.179 --> 00:00:23.189 align:start position:0%
+I saved the files for my first exercise
+ 
+
+00:00:23.189 --> 00:00:25.790 align:start position:0%
+I saved the files for my first exercise
+some<00:00:24.029><c> of</c><00:00:24.060><c> the</c><00:00:24.150><c> files</c><00:00:24.210><c> on</c><00:00:24.810><c> my</c><00:00:25.019><c> desktop</c><00:00:25.410><c> in</c><00:00:25.680><c> this</c>
+
+00:00:25.790 --> 00:00:25.800 align:start position:0%
+some of the files on my desktop in this
+ 
+
+00:00:25.800 --> 00:00:29.150 align:start position:0%
+some of the files on my desktop in this
+directory<00:00:26.430><c> Emma</c><00:00:26.670><c> class</c><00:00:26.910><c> II</c><00:00:27.119><c> x1</c><00:00:27.630><c> and</c><00:00:28.160><c> we</c>
+
+00:00:29.150 --> 00:00:29.160 align:start position:0%
+directory Emma class II x1 and we
+ 
+
+00:00:29.160 --> 00:00:31.849 align:start position:0%
+directory Emma class II x1 and we
+provide<00:00:29.519><c> the</c><00:00:29.699><c> number</c><00:00:29.970><c> of</c><00:00:30.060><c> files</c><00:00:30.300><c> and</c><00:00:30.710><c> ask</c><00:00:31.710><c> you</c>
+
+00:00:31.849 --> 00:00:31.859 align:start position:0%
+provide the number of files and ask you
+ 
+
+00:00:31.859 --> 00:00:34.400 align:start position:0%
+provide the number of files and ask you
+to<00:00:32.009><c> edit</c><00:00:32.189><c> some</c><00:00:32.579><c> of</c><00:00:32.700><c> them</c><00:00:32.850><c> so</c><00:00:33.690><c> the</c><00:00:33.870><c> first</c><00:00:34.110><c> file</c>
+
+00:00:34.400 --> 00:00:34.410 align:start position:0%
+to edit some of them so the first file
+ 
+
+00:00:34.410 --> 00:00:38.119 align:start position:0%
+to edit some of them so the first file
+you<00:00:34.860><c> should</c><00:00:34.890><c> meet</c><00:00:35.309><c> the</c><00:00:35.579><c> detailed</c><00:00:36.710><c> PDF</c><00:00:37.710><c> file</c>
+
+00:00:38.119 --> 00:00:38.129 align:start position:0%
+you should meet the detailed PDF file
+ 
+
+00:00:38.129 --> 00:00:40.430 align:start position:0%
+you should meet the detailed PDF file
+for<00:00:38.910><c> this</c><00:00:39.030><c> programming</c><00:00:39.420><c> exercise</c><00:00:39.750><c> to</c><00:00:40.110><c> get</c><00:00:40.320><c> the</c>
+
+00:00:40.430 --> 00:00:40.440 align:start position:0%
+for this programming exercise to get the
+ 
+
+00:00:40.440 --> 00:00:42.290 align:start position:0%
+for this programming exercise to get the
+details<00:00:40.829><c> but</c><00:00:41.460><c> one</c><00:00:41.610><c> of</c><00:00:41.640><c> the</c><00:00:41.790><c> files</c><00:00:41.940><c> we</c><00:00:42.120><c> also</c>
+
+00:00:42.290 --> 00:00:42.300 align:start position:0%
+details but one of the files we also
+ 
+
+00:00:42.300 --> 00:00:44.060 align:start position:0%
+details but one of the files we also
+edit<00:00:42.750><c> is</c><00:00:42.930><c> this</c><00:00:43.079><c> file</c><00:00:43.260><c> called</c><00:00:43.559><c> warm-up</c>
+
+00:00:44.060 --> 00:00:44.070 align:start position:0%
+edit is this file called warm-up
+ 
+
+00:00:44.070 --> 00:00:46.670 align:start position:0%
+edit is this file called warm-up
+exercise<00:00:44.640><c> where</c><00:00:45.450><c> you</c><00:00:45.660><c> know</c><00:00:45.750><c> the</c><00:00:45.899><c> exercise</c><00:00:46.289><c> is</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+exercise where you know the exercise is
+ 
+
+00:00:46.680 --> 00:00:48.080 align:start position:0%
+exercise where you know the exercise is
+really<00:00:46.829><c> just</c><00:00:47.309><c> to</c><00:00:47.430><c> make</c><00:00:47.550><c> sure</c><00:00:47.579><c> that</c><00:00:47.910><c> you're</c>
+
+00:00:48.080 --> 00:00:48.090 align:start position:0%
+really just to make sure that you're
+ 
+
+00:00:48.090 --> 00:00:50.119 align:start position:0%
+really just to make sure that you're
+familiar<00:00:48.239><c> with</c><00:00:48.780><c> the</c><00:00:49.079><c> submission</c><00:00:49.530><c> system</c><00:00:49.739><c> and</c>
+
+00:00:50.119 --> 00:00:50.129 align:start position:0%
+familiar with the submission system and
+ 
+
+00:00:50.129 --> 00:00:52.580 align:start position:0%
+familiar with the submission system and
+all<00:00:50.670><c> you</c><00:00:50.789><c> need</c><00:00:50.940><c> to</c><00:00:50.969><c> do</c><00:00:51.180><c> is</c><00:00:51.510><c> return</c><00:00:52.140><c> the</c><00:00:52.379><c> 5x5</c>
+
+00:00:52.580 --> 00:00:52.590 align:start position:0%
+all you need to do is return the 5x5
+ 
+
+00:00:52.590 --> 00:00:55.610 align:start position:0%
+all you need to do is return the 5x5
+identity<00:00:53.219><c> matrix</c><00:00:53.940><c> so</c><00:00:54.480><c> you</c><00:00:54.960><c> know</c><00:00:55.020><c> the</c><00:00:55.140><c> solution</c>
+
+00:00:55.610 --> 00:00:55.620 align:start position:0%
+identity matrix so you know the solution
+ 
+
+00:00:55.620 --> 00:00:57.439 align:start position:0%
+identity matrix so you know the solution
+to<00:00:55.739><c> this</c><00:00:55.860><c> exercise</c><00:00:56.309><c> just</c><00:00:56.820><c> show</c><00:00:57.000><c> you</c><00:00:57.059><c> is</c><00:00:57.300><c> to</c>
+
+00:00:57.439 --> 00:00:57.449 align:start position:0%
+to this exercise just show you is to
+ 
+
+00:00:57.449 --> 00:01:01.160 align:start position:0%
+to this exercise just show you is to
+write<00:00:57.629><c> a</c><00:00:57.780><c> equals</c><00:00:58.410><c> I</c><00:00:58.649><c> five</c><00:00:59.609><c> right</c><00:01:00.180><c> so</c><00:01:00.210><c> that</c>
+
+00:01:01.160 --> 00:01:01.170 align:start position:0%
+write a equals I five right so that
+ 
+
+00:01:01.170 --> 00:01:03.889 align:start position:0%
+write a equals I five right so that
+modifies<00:01:01.710><c> this</c><00:01:01.920><c> function</c><00:01:02.399><c> to</c><00:01:03.000><c> generate</c><00:01:03.030><c> the</c>
+
+00:01:03.889 --> 00:01:03.899 align:start position:0%
+modifies this function to generate the
+ 
+
+00:01:03.899 --> 00:01:06.560 align:start position:0%
+modifies this function to generate the
+5x5<00:01:04.260><c> identity</c><00:01:04.650><c> matrix</c><00:01:05.280><c> and</c><00:01:05.820><c> this</c><00:01:06.360><c> function</c>
+
+00:01:06.560 --> 00:01:06.570 align:start position:0%
+5x5 identity matrix and this function
+ 
+
+00:01:06.570 --> 00:01:09.380 align:start position:0%
+5x5 identity matrix and this function
+warmup<00:01:07.140><c> exercise</c><00:01:07.290><c> now</c><00:01:07.979><c> returns</c><00:01:08.460><c> you</c><00:01:09.090><c> know</c><00:01:09.119><c> the</c>
+
+00:01:09.380 --> 00:01:09.390 align:start position:0%
+warmup exercise now returns you know the
+ 
+
+00:01:09.390 --> 00:01:12.320 align:start position:0%
+warmup exercise now returns you know the
+5x5<00:01:09.930><c> identity</c><00:01:09.960><c> matrix</c><00:01:10.439><c> and</c><00:01:11.030><c> I'm</c><00:01:12.030><c> just</c><00:01:12.180><c> gonna</c>
+
+00:01:12.320 --> 00:01:12.330 align:start position:0%
+5x5 identity matrix and I'm just gonna
+ 
+
+00:01:12.330 --> 00:01:14.780 align:start position:0%
+5x5 identity matrix and I'm just gonna
+save<00:01:12.600><c> it</c><00:01:12.890><c> so</c><00:01:13.890><c> I've</c><00:01:13.950><c> done</c><00:01:14.100><c> the</c><00:01:14.250><c> first</c><00:01:14.400><c> part</c><00:01:14.700><c> of</c>
+
+00:01:14.780 --> 00:01:14.790 align:start position:0%
+save it so I've done the first part of
+ 
+
+00:01:14.790 --> 00:01:17.120 align:start position:0%
+save it so I've done the first part of
+this<00:01:14.909><c> homework</c><00:01:15.380><c> going</c><00:01:16.380><c> back</c><00:01:16.530><c> to</c><00:01:16.680><c> my</c><00:01:16.770><c> octave</c>
+
+00:01:17.120 --> 00:01:17.130 align:start position:0%
+this homework going back to my octave
+ 
+
+00:01:17.130 --> 00:01:21.050 align:start position:0%
+this homework going back to my octave
+window<00:01:17.159><c> let's</c><00:01:17.970><c> now</c><00:01:18.210><c> go</c><00:01:18.930><c> to</c><00:01:18.960><c> my</c><00:01:19.380><c> directory</c><00:01:20.159><c> user</c>
+
+00:01:21.050 --> 00:01:21.060 align:start position:0%
+window let's now go to my directory user
+ 
+
+00:01:21.060 --> 00:01:24.260 align:start position:0%
+window let's now go to my directory user
+slash<00:01:21.509><c> ng</c><00:01:22.020><c> slash</c><00:01:22.380><c> desktop</c><00:01:22.790><c> slash</c><00:01:23.790><c> and</c><00:01:24.090><c> I'll</c>
+
+00:01:24.260 --> 00:01:24.270 align:start position:0%
+slash ng slash desktop slash and I'll
+ 
+
+00:01:24.270 --> 00:01:28.910 align:start position:0%
+slash ng slash desktop slash and I'll
+class<00:01:24.890><c> -</c><00:01:25.890><c> x1</c><00:01:26.670><c> and</c><00:01:27.259><c> if</c><00:01:28.259><c> I</c><00:01:28.380><c> want</c><00:01:28.530><c> to</c><00:01:28.619><c> make</c><00:01:28.890><c> sure</c>
+
+00:01:28.910 --> 00:01:28.920 align:start position:0%
+class - x1 and if I want to make sure
+ 
+
+00:01:28.920 --> 00:01:30.679 align:start position:0%
+class - x1 and if I want to make sure
+that<00:01:29.310><c> I've</c><00:01:29.490><c> you</c><00:01:29.759><c> know</c><00:01:29.790><c> implemented</c><00:01:30.420><c> in</c><00:01:30.509><c> some</c>
+
+00:01:30.679 --> 00:01:30.689 align:start position:0%
+that I've you know implemented in some
+ 
+
+00:01:30.689 --> 00:01:34.520 align:start position:0%
+that I've you know implemented in some
+type<00:01:30.900><c> warm-up</c><00:01:31.350><c> exercise</c><00:01:32.000><c> like</c><00:01:33.000><c> so</c><00:01:33.299><c> and</c><00:01:33.600><c> the</c>
+
+00:01:34.520 --> 00:01:34.530 align:start position:0%
+type warm-up exercise like so and the
+ 
+
+00:01:34.530 --> 00:01:36.170 align:start position:0%
+type warm-up exercise like so and the
+update<00:01:34.770><c> returns</c><00:01:35.100><c> to</c><00:01:35.340><c> desta</c><00:01:35.700><c> five</c><00:01:35.880><c> by</c><00:01:36.030><c> five</c>
+
+00:01:36.170 --> 00:01:36.180 align:start position:0%
+update returns to desta five by five
+ 
+
+00:01:36.180 --> 00:01:38.240 align:start position:0%
+update returns to desta five by five
+entity<00:01:36.659><c> matrix</c><00:01:37.079><c> that</c><00:01:37.290><c> we</c><00:01:37.650><c> just</c><00:01:37.829><c> wrote</c><00:01:38.130><c> the</c>
+
+00:01:38.240 --> 00:01:38.250 align:start position:0%
+entity matrix that we just wrote the
+ 
+
+00:01:38.250 --> 00:01:41.359 align:start position:0%
+entity matrix that we just wrote the
+code<00:01:38.430><c> to</c><00:01:38.579><c> create</c><00:01:38.759><c> and</c><00:01:39.210><c> I</c><00:01:40.079><c> can</c><00:01:40.619><c> now</c><00:01:40.740><c> submit</c><00:01:41.070><c> the</c>
+
+00:01:41.359 --> 00:01:41.369 align:start position:0%
+code to create and I can now submit the
+ 
+
+00:01:41.369 --> 00:01:43.730 align:start position:0%
+code to create and I can now submit the
+code<00:01:41.640><c> as</c><00:01:42.329><c> follow</c><00:01:42.689><c> us</c><00:01:42.899><c> on</c><00:01:42.990><c> the</c><00:01:43.049><c> type</c><00:01:43.259><c> submit'</c>
+
+00:01:43.730 --> 00:01:43.740 align:start position:0%
+code as follow us on the type submit'
+ 
+
+00:01:43.740 --> 00:01:46.280 align:start position:0%
+code as follow us on the type submit'
+from<00:01:43.950><c> this</c><00:01:44.100><c> directory</c><00:01:44.549><c> and</c><00:01:44.810><c> I'm</c><00:01:45.810><c> ready</c><00:01:46.079><c> to</c>
+
+00:01:46.280 --> 00:01:46.290 align:start position:0%
+from this directory and I'm ready to
+ 
+
+00:01:46.290 --> 00:01:48.080 align:start position:0%
+from this directory and I'm ready to
+submit<00:01:46.439><c> part</c><00:01:46.829><c> 1</c><00:01:47.070><c> so</c><00:01:47.250><c> when</c><00:01:47.340><c> they</c><00:01:47.399><c> enter</c><00:01:47.729><c> your</c>
+
+00:01:48.080 --> 00:01:48.090 align:start position:0%
+submit part 1 so when they enter your
+ 
+
+00:01:48.090 --> 00:01:51.170 align:start position:0%
+submit part 1 so when they enter your
+choice<00:01:48.420><c> one</c><00:01:48.860><c> so</c><00:01:49.860><c> let</c><00:01:50.159><c> me</c><00:01:50.220><c> find</c><00:01:50.430><c> email</c><00:01:50.790><c> address</c>
+
+00:01:51.170 --> 00:01:51.180 align:start position:0%
+choice one so let me find email address
+ 
+
+00:01:51.180 --> 00:01:52.700 align:start position:0%
+choice one so let me find email address
+so<00:01:51.360><c> I'm</c><00:01:51.420><c> going</c><00:01:51.630><c> to</c><00:01:51.689><c> go</c><00:01:52.020><c> to</c><00:01:52.079><c> the</c><00:01:52.229><c> course</c><00:01:52.500><c> website</c>
+
+00:01:52.700 --> 00:01:52.710 align:start position:0%
+so I'm going to go to the course website
+ 
+
+00:01:52.710 --> 00:01:55.609 align:start position:0%
+so I'm going to go to the course website
+and<00:01:53.250><c> you</c><00:01:54.210><c> know</c><00:01:54.270><c> this</c><00:01:54.509><c> list</c><00:01:54.780><c> Maya</c><00:01:55.049><c> this</c><00:01:55.350><c> is</c><00:01:55.409><c> an</c>
+
+00:01:55.609 --> 00:01:55.619 align:start position:0%
+and you know this list Maya this is an
+ 
+
+00:01:55.619 --> 00:01:57.590 align:start position:0%
+and you know this list Maya this is an
+internal<00:01:56.009><c> testing</c><00:01:56.520><c> site</c><00:01:56.790><c> so</c><00:01:57.030><c> your</c><00:01:57.329><c> your</c>
+
+00:01:57.590 --> 00:01:57.600 align:start position:0%
+internal testing site so your your
+ 
+
+00:01:57.600 --> 00:01:59.030 align:start position:0%
+internal testing site so your your
+version<00:01:58.020><c> of</c><00:01:58.079><c> the</c><00:01:58.170><c> website</c><00:01:58.350><c> maybe</c><00:01:58.740><c> look</c><00:01:59.009><c> a</c>
+
+00:01:59.030 --> 00:01:59.040 align:start position:0%
+version of the website maybe look a
+ 
+
+00:01:59.040 --> 00:02:00.950 align:start position:0%
+version of the website maybe look a
+little<00:01:59.189><c> bit</c><00:01:59.340><c> different</c><00:01:59.670><c> but</c><00:02:00.270><c> there's</c><00:02:00.810><c> my</c>
+
+00:02:00.950 --> 00:02:00.960 align:start position:0%
+little bit different but there's my
+ 
+
+00:02:00.960 --> 00:02:03.380 align:start position:0%
+little bit different but there's my
+email<00:02:01.680><c> address</c><00:02:02.219><c> and</c><00:02:02.579><c> this</c><00:02:02.790><c> is</c><00:02:02.969><c> my</c><00:02:03.149><c> submission</c>
+
+00:02:03.380 --> 00:02:03.390 align:start position:0%
+email address and this is my submission
+ 
+
+00:02:03.390 --> 00:02:07.389 align:start position:0%
+email address and this is my submission
+password<00:02:03.840><c> and</c><00:02:04.469><c> I'm</c><00:02:05.040><c> just</c><00:02:05.219><c> type</c><00:02:05.520><c> them</c><00:02:05.700><c> in</c><00:02:05.820><c> here</c>
+
+00:02:07.389 --> 00:02:07.399 align:start position:0%
+password and I'm just type them in here
+ 
+
+00:02:07.399 --> 00:02:08.830 align:start position:0%
+password and I'm just type them in here
+so
+
+00:02:08.830 --> 00:02:08.840 align:start position:0%
+so
+ 
+
+00:02:08.840 --> 00:02:12.050 align:start position:0%
+so
+NGH<00:02:09.840><c> siesta</c><00:02:10.319><c> centered</c><00:02:10.679><c> on</c><00:02:10.830><c> you</c><00:02:11.220><c> and</c><00:02:11.459><c> my</c>
+
+00:02:12.050 --> 00:02:12.060 align:start position:0%
+NGH siesta centered on you and my
+ 
+
+00:02:12.060 --> 00:02:19.690 align:start position:0%
+NGH siesta centered on you and my
+submission<00:02:12.540><c> password</c><00:02:12.750><c> is</c><00:02:15.200><c> 975</c><00:02:17.180><c> u.s.</c><00:02:18.290><c> sgf</c>
+
+00:02:19.690 --> 00:02:19.700 align:start position:0%
+submission password is 975 u.s. sgf
+ 
+
+00:02:19.700 --> 00:02:22.250 align:start position:0%
+submission password is 975 u.s. sgf
+enter<00:02:20.700><c> it</c><00:02:21.000><c> connects</c><00:02:21.450><c> to</c><00:02:21.510><c> the</c><00:02:21.569><c> server</c><00:02:21.660><c> and</c>
+
+00:02:22.250 --> 00:02:22.260 align:start position:0%
+enter it connects to the server and
+ 
+
+00:02:22.260 --> 00:02:24.619 align:start position:0%
+enter it connects to the server and
+submits<00:02:23.099><c> it</c><00:02:23.220><c> and</c><00:02:23.459><c> right</c><00:02:23.700><c> away</c><00:02:23.730><c> it</c><00:02:23.970><c> tells</c><00:02:24.420><c> you</c>
+
+00:02:24.619 --> 00:02:24.629 align:start position:0%
+submits it and right away it tells you
+ 
+
+00:02:24.629 --> 00:02:26.210 align:start position:0%
+submits it and right away it tells you
+you<00:02:24.810><c> know</c><00:02:24.900><c> this</c><00:02:25.080><c> is</c><00:02:25.140><c> congratulations</c><00:02:25.890><c> you've</c>
+
+00:02:26.210 --> 00:02:26.220 align:start position:0%
+you know this is congratulations you've
+ 
+
+00:02:26.220 --> 00:02:27.830 align:start position:0%
+you know this is congratulations you've
+successfully<00:02:26.250><c> complete</c><00:02:27.000><c> over</c><00:02:27.239><c> in</c><00:02:27.450><c> part</c><00:02:27.660><c> one</c>
+
+00:02:27.830 --> 00:02:27.840 align:start position:0%
+successfully complete over in part one
+ 
+
+00:02:27.840 --> 00:02:30.259 align:start position:0%
+successfully complete over in part one
+and<00:02:28.650><c> this</c><00:02:28.920><c> gives</c><00:02:29.160><c> you</c><00:02:29.280><c> a</c><00:02:29.340><c> verification</c><00:02:29.550><c> that</c>
+
+00:02:30.259 --> 00:02:30.269 align:start position:0%
+and this gives you a verification that
+ 
+
+00:02:30.269 --> 00:02:33.140 align:start position:0%
+and this gives you a verification that
+you<00:02:30.599><c> you</c><00:02:30.930><c> you</c><00:02:31.170><c> got</c><00:02:31.380><c> this</c><00:02:31.530><c> part</c><00:02:31.830><c> right</c><00:02:32.040><c> and</c><00:02:32.670><c> if</c>
+
+00:02:33.140 --> 00:02:33.150 align:start position:0%
+you you you got this part right and if
+ 
+
+00:02:33.150 --> 00:02:34.820 align:start position:0%
+you you you got this part right and if
+you<00:02:33.269><c> don't</c><00:02:33.450><c> submit</c><00:02:33.690><c> a</c><00:02:33.840><c> right</c><00:02:33.989><c> answer</c><00:02:34.349><c> then</c><00:02:34.650><c> you</c>
+
+00:02:34.820 --> 00:02:34.830 align:start position:0%
+you don't submit a right answer then you
+ 
+
+00:02:34.830 --> 00:02:35.780 align:start position:0%
+you don't submit a right answer then you
+know<00:02:34.950><c> it</c><00:02:35.130><c> will</c><00:02:35.280><c> give</c><00:02:35.400><c> you</c><00:02:35.549><c> a</c><00:02:35.580><c> message</c>
+
+00:02:35.780 --> 00:02:35.790 align:start position:0%
+know it will give you a message
+ 
+
+00:02:35.790 --> 00:02:37.940 align:start position:0%
+know it will give you a message
+indicating<00:02:36.390><c> that</c><00:02:36.900><c> you</c><00:02:37.110><c> haven't</c><00:02:37.500><c> quite</c><00:02:37.650><c> gotten</c>
+
+00:02:37.940 --> 00:02:37.950 align:start position:0%
+indicating that you haven't quite gotten
+ 
+
+00:02:37.950 --> 00:02:41.509 align:start position:0%
+indicating that you haven't quite gotten
+it<00:02:38.190><c> right</c><00:02:38.340><c> yet</c><00:02:38.400><c> and</c><00:02:39.019><c> by</c><00:02:40.019><c> the</c><00:02:40.080><c> way</c><00:02:40.260><c> um</c><00:02:40.560><c> you</c><00:02:41.370><c> can</c>
+
+00:02:41.509 --> 00:02:41.519 align:start position:0%
+it right yet and by the way um you can
+ 
+
+00:02:41.519 --> 00:02:43.670 align:start position:0%
+it right yet and by the way um you can
+also<00:02:41.580><c> call</c><00:02:41.970><c> you</c><00:02:42.660><c> can</c><00:02:42.810><c> use</c><00:02:42.989><c> this</c><00:02:43.230><c> submission</c>
+
+00:02:43.670 --> 00:02:43.680 align:start position:0%
+also call you can use this submission
+ 
+
+00:02:43.680 --> 00:02:45.949 align:start position:0%
+also call you can use this submission
+password<00:02:43.910><c> and</c><00:02:44.910><c> you</c><00:02:45.360><c> can</c><00:02:45.540><c> generate</c><00:02:45.900><c> new</c>
+
+00:02:45.949 --> 00:02:45.959 align:start position:0%
+password and you can generate new
+ 
+
+00:02:45.959 --> 00:02:48.740 align:start position:0%
+password and you can generate new
+passwords<00:02:46.110><c> it</c><00:02:46.799><c> doesn't</c><00:02:47.099><c> matter</c><00:02:47.250><c> but</c><00:02:48.060><c> you</c><00:02:48.630><c> can</c>
+
+00:02:48.740 --> 00:02:48.750 align:start position:0%
+passwords it doesn't matter but you can
+ 
+
+00:02:48.750 --> 00:02:50.449 align:start position:0%
+passwords it doesn't matter but you can
+also<00:02:48.900><c> use</c><00:02:49.230><c> your</c><00:02:49.380><c> regular</c><00:02:49.620><c> website</c><00:02:50.220><c> login</c>
+
+00:02:50.449 --> 00:02:50.459 align:start position:0%
+also use your regular website login
+ 
+
+00:02:50.459 --> 00:02:52.400 align:start position:0%
+also use your regular website login
+password<00:02:51.090><c> but</c><00:02:51.269><c> because</c><00:02:51.599><c> you</c><00:02:51.810><c> know</c><00:02:51.930><c> this</c>
+
+00:02:52.400 --> 00:02:52.410 align:start position:0%
+password but because you know this
+ 
+
+00:02:52.410 --> 00:02:55.670 align:start position:0%
+password but because you know this
+password<00:02:52.860><c> here</c><00:02:53.099><c> is</c><00:02:53.310><c> typed</c><00:02:53.640><c> in</c><00:02:54.049><c> clear</c><00:02:55.049><c> text</c><00:02:55.290><c> you</c>
+
+00:02:55.670 --> 00:02:55.680 align:start position:0%
+password here is typed in clear text you
+ 
+
+00:02:55.680 --> 00:02:58.039 align:start position:0%
+password here is typed in clear text you
+know<00:02:55.769><c> on</c><00:02:55.920><c> your</c><00:02:55.950><c> monitor</c><00:02:56.569><c> we</c><00:02:57.569><c> gave</c><00:02:57.780><c> you</c><00:02:57.900><c> this</c>
+
+00:02:58.039 --> 00:02:58.049 align:start position:0%
+know on your monitor we gave you this
+ 
+
+00:02:58.049 --> 00:02:59.990 align:start position:0%
+know on your monitor we gave you this
+extra<00:02:58.470><c> submission</c><00:02:58.920><c> password</c><00:02:59.130><c> in</c><00:02:59.610><c> case</c><00:02:59.819><c> you</c>
+
+00:02:59.990 --> 00:03:00.000 align:start position:0%
+extra submission password in case you
+ 
+
+00:03:00.000 --> 00:03:01.759 align:start position:0%
+extra submission password in case you
+don't<00:03:00.180><c> want</c><00:03:00.239><c> to</c><00:03:00.450><c> type</c><00:03:00.660><c> in</c><00:03:00.840><c> your</c><00:03:01.319><c> website's</c>
+
+00:03:01.759 --> 00:03:01.769 align:start position:0%
+don't want to type in your website's
+ 
+
+00:03:01.769 --> 00:03:03.940 align:start position:0%
+don't want to type in your website's
+normal<00:03:02.190><c> password</c><00:03:02.430><c> onto</c><00:03:03.000><c> a</c><00:03:03.030><c> window</c><00:03:03.510><c> that</c>
+
+00:03:03.940 --> 00:03:03.950 align:start position:0%
+normal password onto a window that
+ 
+
+00:03:03.950 --> 00:03:06.710 align:start position:0%
+normal password onto a window that
+depending<00:03:04.950><c> on</c><00:03:05.069><c> your</c><00:03:05.130><c> operating</c><00:03:05.310><c> system</c><00:03:06.060><c> this</c>
+
+00:03:06.710 --> 00:03:06.720 align:start position:0%
+depending on your operating system this
+ 
+
+00:03:06.720 --> 00:03:09.229 align:start position:0%
+depending on your operating system this
+password<00:03:07.230><c> may</c><00:03:07.440><c> or</c><00:03:07.560><c> may</c><00:03:07.709><c> not</c><00:03:07.890><c> appear</c><00:03:08.340><c> as</c><00:03:08.519><c> text</c>
+
+00:03:09.229 --> 00:03:09.239 align:start position:0%
+password may or may not appear as text
+ 
+
+00:03:09.239 --> 00:03:13.039 align:start position:0%
+password may or may not appear as text
+when<00:03:09.390><c> you</c><00:03:09.510><c> type</c><00:03:09.810><c> it</c><00:03:10.019><c> into</c><00:03:10.230><c> the</c><00:03:11.510><c> octaves</c><00:03:12.510><c> of</c>
+
+00:03:13.039 --> 00:03:13.049 align:start position:0%
+when you type it into the octaves of
+ 
+
+00:03:13.049 --> 00:03:16.309 align:start position:0%
+when you type it into the octaves of
+submission<00:03:13.920><c> script</c><00:03:14.420><c> so</c><00:03:15.420><c> that's</c><00:03:15.930><c> how</c><00:03:16.260><c> you</c>
+
+00:03:16.309 --> 00:03:16.319 align:start position:0%
+submission script so that's how you
+ 
+
+00:03:16.319 --> 00:03:18.110 align:start position:0%
+submission script so that's how you
+submit<00:03:17.010><c> the</c><00:03:17.220><c> homeworks</c><00:03:17.549><c> after</c><00:03:17.880><c> you've</c><00:03:18.000><c> done</c>
+
+00:03:18.110 --> 00:03:18.120 align:start position:0%
+submit the homeworks after you've done
+ 
+
+00:03:18.120 --> 00:03:20.900 align:start position:0%
+submit the homeworks after you've done
+it<00:03:18.180><c> good</c><00:03:19.079><c> luck</c><00:03:19.230><c> and</c><00:03:19.500><c> I</c><00:03:19.620><c> hope</c><00:03:19.650><c> you</c><00:03:20.010><c> get</c><00:03:20.310><c> when</c><00:03:20.819><c> you</c>
+
+00:03:20.900 --> 00:03:20.910 align:start position:0%
+it good luck and I hope you get when you
+ 
+
+00:03:20.910 --> 00:03:22.460 align:start position:0%
+it good luck and I hope you get when you
+get<00:03:21.060><c> around</c><00:03:21.209><c> to</c><00:03:21.420><c> homeworks</c><00:03:21.810><c> I</c><00:03:21.930><c> hope</c><00:03:22.109><c> you</c><00:03:22.319><c> get</c>
+
+00:03:22.460 --> 00:03:22.470 align:start position:0%
+get around to homeworks I hope you get
+ 
+
+00:03:22.470 --> 00:03:25.190 align:start position:0%
+get around to homeworks I hope you get
+all<00:03:22.530><c> of</c><00:03:22.829><c> them</c><00:03:22.950><c> right</c><00:03:22.980><c> and</c><00:03:23.489><c> finally</c><00:03:24.480><c> in</c><00:03:24.930><c> the</c>
+
+00:03:25.190 --> 00:03:25.200 align:start position:0%
+all of them right and finally in the
+ 
+
+00:03:25.200 --> 00:03:27.590 align:start position:0%
+all of them right and finally in the
+next<00:03:25.380><c> and</c><00:03:25.650><c> final</c><00:03:25.739><c> octave</c><00:03:26.489><c> tutorial</c><00:03:26.670><c> video</c><00:03:27.299><c> I</c>
+
+00:03:27.590 --> 00:03:27.600 align:start position:0%
+next and final octave tutorial video I
+ 
+
+00:03:27.600 --> 00:03:29.000 align:start position:0%
+next and final octave tutorial video I
+want<00:03:27.959><c> to</c><00:03:28.019><c> tell</c><00:03:28.170><c> you</c><00:03:28.290><c> about</c><00:03:28.410><c> vectorization</c>
+
+00:03:29.000 --> 00:03:29.010 align:start position:0%
+want to tell you about vectorization
+ 
+
+00:03:29.010 --> 00:03:31.250 align:start position:0%
+want to tell you about vectorization
+which<00:03:29.850><c> is</c><00:03:29.970><c> a</c><00:03:30.000><c> way</c><00:03:30.180><c> to</c><00:03:30.239><c> get</c><00:03:30.569><c> your</c><00:03:30.690><c> octave</c><00:03:31.109><c> code</c>
+
+00:03:31.250 --> 00:03:31.260 align:start position:0%
+which is a way to get your octave code
+ 
+
+00:03:31.260 --> 00:03:34.160 align:start position:0%
+which is a way to get your octave code
+to<00:03:31.500><c> run</c><00:03:31.650><c> much</c><00:03:31.920><c> more</c><00:03:32.100><c> efficiently</c>
+

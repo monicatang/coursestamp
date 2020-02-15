@@ -1,0 +1,928 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:01.819 align:start position:0%
+ 
+in<00:00:00.210><c> the</c><00:00:00.510><c> previous</c><00:00:00.900><c> video</c><00:00:01.199><c> we</c><00:00:01.260><c> talked</c><00:00:01.709><c> about</c>
+
+00:00:01.819 --> 00:00:01.829 align:start position:0%
+in the previous video we talked about
+ 
+
+00:00:01.829 --> 00:00:04.519 align:start position:0%
+in the previous video we talked about
+the<00:00:02.220><c> form</c><00:00:02.490><c> of</c><00:00:02.610><c> the</c><00:00:02.669><c> hypothesis</c><00:00:03.480><c> for</c><00:00:04.200><c> linear</c>
+
+00:00:04.519 --> 00:00:04.529 align:start position:0%
+the form of the hypothesis for linear
+ 
+
+00:00:04.529 --> 00:00:06.530 align:start position:0%
+the form of the hypothesis for linear
+regression<00:00:05.130><c> with</c><00:00:05.339><c> multiple</c><00:00:05.370><c> features</c><00:00:05.850><c> with</c>
+
+00:00:06.530 --> 00:00:06.540 align:start position:0%
+regression with multiple features with
+ 
+
+00:00:06.540 --> 00:00:08.870 align:start position:0%
+regression with multiple features with
+multiple<00:00:06.899><c> variables</c><00:00:07.109><c> in</c><00:00:07.589><c> this</c><00:00:08.309><c> video</c><00:00:08.610><c> let's</c>
+
+00:00:08.870 --> 00:00:08.880 align:start position:0%
+multiple variables in this video let's
+ 
+
+00:00:08.880 --> 00:00:10.820 align:start position:0%
+multiple variables in this video let's
+talk<00:00:09.030><c> about</c><00:00:09.090><c> how</c><00:00:09.540><c> to</c><00:00:09.599><c> fit</c><00:00:10.019><c> the</c><00:00:10.170><c> parameters</c><00:00:10.349><c> of</c>
+
+00:00:10.820 --> 00:00:10.830 align:start position:0%
+talk about how to fit the parameters of
+ 
+
+00:00:10.830 --> 00:00:13.459 align:start position:0%
+talk about how to fit the parameters of
+that<00:00:11.099><c> hypothesis</c><00:00:11.910><c> in</c><00:00:12.059><c> particular</c><00:00:12.809><c> software</c>
+
+00:00:13.459 --> 00:00:13.469 align:start position:0%
+that hypothesis in particular software
+ 
+
+00:00:13.469 --> 00:00:15.919 align:start position:0%
+that hypothesis in particular software
+how<00:00:13.920><c> to</c><00:00:13.950><c> use</c><00:00:14.490><c> gradient</c><00:00:14.820><c> descent</c><00:00:15.360><c> for</c><00:00:15.570><c> linear</c>
+
+00:00:15.919 --> 00:00:15.929 align:start position:0%
+how to use gradient descent for linear
+ 
+
+00:00:15.929 --> 00:00:20.450 align:start position:0%
+how to use gradient descent for linear
+regression<00:00:16.619><c> with</c><00:00:16.920><c> multiple</c><00:00:17.130><c> features</c><00:00:19.460><c> to</c>
+
+00:00:20.450 --> 00:00:20.460 align:start position:0%
+regression with multiple features to
+ 
+
+00:00:20.460 --> 00:00:22.550 align:start position:0%
+regression with multiple features to
+quickly<00:00:20.699><c> summarize</c><00:00:21.180><c> our</c><00:00:21.570><c> notation</c><00:00:21.960><c> this</c><00:00:22.500><c> is</c>
+
+00:00:22.550 --> 00:00:22.560 align:start position:0%
+quickly summarize our notation this is
+ 
+
+00:00:22.560 --> 00:00:25.910 align:start position:0%
+quickly summarize our notation this is
+our<00:00:22.920><c> formal</c><00:00:23.310><c> hypothesis</c><00:00:24.029><c> in</c><00:00:24.920><c> multivariate</c>
+
+00:00:25.910 --> 00:00:25.920 align:start position:0%
+our formal hypothesis in multivariate
+ 
+
+00:00:25.920 --> 00:00:28.160 align:start position:0%
+our formal hypothesis in multivariate
+linear<00:00:26.130><c> regression</c><00:00:26.330><c> where</c><00:00:27.330><c> we</c><00:00:27.539><c> adopted</c><00:00:28.050><c> the</c>
+
+00:00:28.160 --> 00:00:28.170 align:start position:0%
+linear regression where we adopted the
+ 
+
+00:00:28.170 --> 00:00:32.540 align:start position:0%
+linear regression where we adopted the
+convention<00:00:28.769><c> that</c><00:00:29.039><c> x0</c><00:00:29.420><c> equals</c><00:00:30.420><c> 1</c><00:00:30.830><c> all</c><00:00:31.830><c> the</c>
+
+00:00:32.540 --> 00:00:32.550 align:start position:0%
+convention that x0 equals 1 all the
+ 
+
+00:00:32.550 --> 00:00:35.389 align:start position:0%
+convention that x0 equals 1 all the
+parameters<00:00:33.090><c> of</c><00:00:33.120><c> this</c><00:00:33.329><c> model</c><00:00:33.780><c> are</c><00:00:33.989><c> theta</c><00:00:34.829><c> 0</c>
+
+00:00:35.389 --> 00:00:35.399 align:start position:0%
+parameters of this model are theta 0
+ 
+
+00:00:35.399 --> 00:00:38.060 align:start position:0%
+parameters of this model are theta 0
+through<00:00:35.940><c> theta</c><00:00:36.000><c> n</c><00:00:36.570><c> but</c><00:00:37.260><c> instead</c><00:00:37.620><c> of</c><00:00:37.770><c> thinking</c>
+
+00:00:38.060 --> 00:00:38.070 align:start position:0%
+through theta n but instead of thinking
+ 
+
+00:00:38.070 --> 00:00:40.369 align:start position:0%
+through theta n but instead of thinking
+of<00:00:38.190><c> this</c><00:00:38.370><c> as</c><00:00:38.610><c> n</c><00:00:38.910><c> separate</c><00:00:39.450><c> parameters</c><00:00:40.079><c> which</c>
+
+00:00:40.369 --> 00:00:40.379 align:start position:0%
+of this as n separate parameters which
+ 
+
+00:00:40.379 --> 00:00:42.500 align:start position:0%
+of this as n separate parameters which
+is<00:00:40.530><c> valid</c><00:00:40.739><c> I'm</c><00:00:41.129><c> instead</c><00:00:41.460><c> going</c><00:00:41.520><c> to</c><00:00:41.850><c> think</c><00:00:42.450><c> of</c>
+
+00:00:42.500 --> 00:00:42.510 align:start position:0%
+is valid I'm instead going to think of
+ 
+
+00:00:42.510 --> 00:00:46.459 align:start position:0%
+is valid I'm instead going to think of
+the<00:00:42.600><c> parameters</c><00:00:43.170><c> as</c><00:00:43.550><c> theta</c><00:00:44.550><c> where</c><00:00:45.239><c> theta</c><00:00:45.510><c> here</c>
+
+00:00:46.459 --> 00:00:46.469 align:start position:0%
+the parameters as theta where theta here
+ 
+
+00:00:46.469 --> 00:00:52.040 align:start position:0%
+the parameters as theta where theta here
+is<00:00:46.680><c> a</c><00:00:47.010><c> n</c><00:00:47.700><c> plus</c><00:00:47.969><c> 1</c><00:00:48.239><c> dimensional</c><00:00:48.750><c> vector</c><00:00:50.960><c> so</c><00:00:51.960><c> I'm</c>
+
+00:00:52.040 --> 00:00:52.050 align:start position:0%
+is a n plus 1 dimensional vector so I'm
+ 
+
+00:00:52.050 --> 00:00:54.049 align:start position:0%
+is a n plus 1 dimensional vector so I'm
+just<00:00:52.199><c> going</c><00:00:52.379><c> to</c><00:00:52.440><c> think</c><00:00:52.680><c> of</c><00:00:52.770><c> the</c><00:00:52.860><c> parameter</c><00:00:53.460><c> the</c>
+
+00:00:54.049 --> 00:00:54.059 align:start position:0%
+just going to think of the parameter the
+ 
+
+00:00:54.059 --> 00:00:57.260 align:start position:0%
+just going to think of the parameter the
+parameters<00:00:54.600><c> of</c><00:00:54.840><c> this</c><00:00:55.199><c> model</c><00:00:55.260><c> as</c><00:00:55.829><c> itself</c><00:00:56.270><c> being</c>
+
+00:00:57.260 --> 00:00:57.270 align:start position:0%
+parameters of this model as itself being
+ 
+
+00:00:57.270 --> 00:01:00.500 align:start position:0%
+parameters of this model as itself being
+a<00:00:57.570><c> vector</c><00:00:58.070><c> our</c><00:00:59.070><c> cost</c><00:00:59.340><c> function</c><00:00:59.789><c> is</c><00:00:59.969><c> J</c><00:01:00.300><c> of</c><00:01:00.480><c> theta</c>
+
+00:01:00.500 --> 00:01:00.510 align:start position:0%
+a vector our cost function is J of theta
+ 
+
+00:01:00.510 --> 00:01:03.020 align:start position:0%
+a vector our cost function is J of theta
+0<00:01:01.289><c> through</c><00:01:01.590><c> theta</c><00:01:01.680><c> n</c><00:01:02.039><c> which</c><00:01:02.430><c> is</c><00:01:02.550><c> given</c><00:01:02.850><c> by</c><00:01:02.969><c> this</c>
+
+00:01:03.020 --> 00:01:03.030 align:start position:0%
+0 through theta n which is given by this
+ 
+
+00:01:03.030 --> 00:01:05.899 align:start position:0%
+0 through theta n which is given by this
+usual<00:01:03.600><c> sum</c><00:01:04.260><c> squared</c><00:01:04.650><c> error</c><00:01:04.799><c> term</c><00:01:04.890><c> but</c><00:01:05.700><c> again</c>
+
+00:01:05.899 --> 00:01:05.909 align:start position:0%
+usual sum squared error term but again
+ 
+
+00:01:05.909 --> 00:01:08.270 align:start position:0%
+usual sum squared error term but again
+instead<00:01:06.240><c> instead</c><00:01:06.570><c> of</c><00:01:06.869><c> thinking</c><00:01:07.200><c> of</c><00:01:07.350><c> J</c><00:01:07.979><c> as</c><00:01:08.220><c> a</c>
+
+00:01:08.270 --> 00:01:08.280 align:start position:0%
+instead instead of thinking of J as a
+ 
+
+00:01:08.280 --> 00:01:11.000 align:start position:0%
+instead instead of thinking of J as a
+function<00:01:09.210><c> of</c><00:01:09.360><c> these</c><00:01:09.659><c> n</c><00:01:09.930><c> plus</c><00:01:10.200><c> 1</c><00:01:10.409><c> numbers</c><00:01:10.799><c> I'm</c>
+
+00:01:11.000 --> 00:01:11.010 align:start position:0%
+function of these n plus 1 numbers I'm
+ 
+
+00:01:11.010 --> 00:01:14.149 align:start position:0%
+function of these n plus 1 numbers I'm
+going<00:01:11.100><c> to</c><00:01:11.390><c> more</c><00:01:12.390><c> commonly</c><00:01:12.780><c> write</c><00:01:13.049><c> J</c><00:01:13.350><c> as</c><00:01:13.560><c> just</c><00:01:14.010><c> a</c>
+
+00:01:14.149 --> 00:01:14.159 align:start position:0%
+going to more commonly write J as just a
+ 
+
+00:01:14.159 --> 00:01:16.310 align:start position:0%
+going to more commonly write J as just a
+function<00:01:14.700><c> of</c><00:01:14.880><c> the</c><00:01:15.240><c> parameter</c><00:01:15.900><c> vector</c><00:01:16.110><c> theta</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+function of the parameter vector theta
+ 
+
+00:01:16.320 --> 00:01:21.860 align:start position:0%
+function of the parameter vector theta
+so<00:01:17.070><c> that</c><00:01:17.189><c> theta</c><00:01:17.250><c> here</c><00:01:17.850><c> is</c><00:01:18.030><c> a</c><00:01:18.270><c> vector</c>
+
+00:01:21.860 --> 00:01:21.870 align:start position:0%
+ 
+ 
+
+00:01:21.870 --> 00:01:24.440 align:start position:0%
+ 
+here's<00:01:22.870><c> what</c><00:01:23.080><c> gradient</c><00:01:23.350><c> descent</c><00:01:23.560><c> looks</c><00:01:24.190><c> like</c>
+
+00:01:24.440 --> 00:01:24.450 align:start position:0%
+here's what gradient descent looks like
+ 
+
+00:01:24.450 --> 00:01:27.120 align:start position:0%
+here's what gradient descent looks like
+we're<00:01:25.450><c> going</c><00:01:25.600><c> to</c><00:01:25.780><c> repeatedly</c><00:01:26.170><c> update</c><00:01:26.860><c> each</c>
+
+00:01:27.120 --> 00:01:27.130 align:start position:0%
+we're going to repeatedly update each
+ 
+
+00:01:27.130 --> 00:01:29.100 align:start position:0%
+we're going to repeatedly update each
+parameter<00:01:27.340><c> theta</c><00:01:27.940><c> J</c><00:01:28.090><c> according</c><00:01:28.750><c> to</c><00:01:28.869><c> the</c><00:01:28.930><c> theta</c>
+
+00:01:29.100 --> 00:01:29.110 align:start position:0%
+parameter theta J according to the theta
+ 
+
+00:01:29.110 --> 00:01:31.710 align:start position:0%
+parameter theta J according to the theta
+J<00:01:29.350><c> minus</c><00:01:29.380><c> alpha</c><00:01:30.250><c> times</c><00:01:30.820><c> this</c><00:01:31.090><c> derivative</c><00:01:31.390><c> term</c>
+
+00:01:31.710 --> 00:01:31.720 align:start position:0%
+J minus alpha times this derivative term
+ 
+
+00:01:31.720 --> 00:01:35.490 align:start position:0%
+J minus alpha times this derivative term
+and<00:01:32.400><c> once</c><00:01:33.400><c> again</c><00:01:33.550><c> and</c><00:01:33.880><c> just</c><00:01:34.090><c> write</c><00:01:34.360><c> this</c><00:01:34.570><c> as</c><00:01:34.630><c> J</c>
+
+00:01:35.490 --> 00:01:35.500 align:start position:0%
+and once again and just write this as J
+ 
+
+00:01:35.500 --> 00:01:38.070 align:start position:0%
+and once again and just write this as J
+of<00:01:35.740><c> theta</c><00:01:36.070><c> so</c><00:01:36.759><c> theta</c><00:01:37.060><c> J's</c><00:01:37.390><c> update</c><00:01:37.810><c> to</c><00:01:37.930><c> that</c>
+
+00:01:38.070 --> 00:01:38.080 align:start position:0%
+of theta so theta J's update to that
+ 
+
+00:01:38.080 --> 00:01:39.930 align:start position:0%
+of theta so theta J's update to that
+state<00:01:38.320><c> AJ</c><00:01:38.560><c> minus</c><00:01:39.009><c> the</c><00:01:39.190><c> learning</c><00:01:39.580><c> rate</c><00:01:39.729><c> alpha</c>
+
+00:01:39.930 --> 00:01:39.940 align:start position:0%
+state AJ minus the learning rate alpha
+ 
+
+00:01:39.940 --> 00:01:42.420 align:start position:0%
+state AJ minus the learning rate alpha
+times<00:01:40.600><c> the</c><00:01:40.810><c> yo</c><00:01:41.320><c> derivative</c><00:01:41.890><c> a</c><00:01:42.040><c> partial</c>
+
+00:01:42.420 --> 00:01:42.430 align:start position:0%
+times the yo derivative a partial
+ 
+
+00:01:42.430 --> 00:01:44.910 align:start position:0%
+times the yo derivative a partial
+derivative<00:01:42.940><c> of</c><00:01:43.170><c> the</c><00:01:44.170><c> cost</c><00:01:44.380><c> function</c><00:01:44.560><c> with</c>
+
+00:01:44.910 --> 00:01:44.920 align:start position:0%
+derivative of the cost function with
+ 
+
+00:01:44.920 --> 00:01:48.749 align:start position:0%
+derivative of the cost function with
+respect<00:01:45.550><c> to</c><00:01:45.670><c> the</c><00:01:45.790><c> parameter</c><00:01:46.300><c> theta</c><00:01:46.810><c> J</c><00:01:47.759><c> let's</c>
+
+00:01:48.749 --> 00:01:48.759 align:start position:0%
+respect to the parameter theta J let's
+ 
+
+00:01:48.759 --> 00:01:50.040 align:start position:0%
+respect to the parameter theta J let's
+see<00:01:48.909><c> what</c><00:01:49.090><c> this</c><00:01:49.210><c> looks</c><00:01:49.420><c> like</c><00:01:49.570><c> when</c><00:01:49.899><c> we</c>
+
+00:01:50.040 --> 00:01:50.050 align:start position:0%
+see what this looks like when we
+ 
+
+00:01:50.050 --> 00:01:51.660 align:start position:0%
+see what this looks like when we
+implement<00:01:50.560><c> gradient</c><00:01:50.740><c> descent</c><00:01:51.280><c> and</c><00:01:51.490><c> in</c>
+
+00:01:51.660 --> 00:01:51.670 align:start position:0%
+implement gradient descent and in
+ 
+
+00:01:51.670 --> 00:01:53.630 align:start position:0%
+implement gradient descent and in
+particular<00:01:51.820><c> let's</c><00:01:52.570><c> go</c><00:01:52.810><c> see</c><00:01:53.050><c> what</c><00:01:53.290><c> that</c>
+
+00:01:53.630 --> 00:01:53.640 align:start position:0%
+particular let's go see what that
+ 
+
+00:01:53.640 --> 00:01:55.889 align:start position:0%
+particular let's go see what that
+partial<00:01:54.640><c> derivative</c><00:01:54.670><c> term</c><00:01:55.179><c> looks</c><00:01:55.690><c> like</c>
+
+00:01:55.889 --> 00:01:55.899 align:start position:0%
+partial derivative term looks like
+ 
+
+00:01:55.899 --> 00:01:58.080 align:start position:0%
+partial derivative term looks like
+here's<00:01:56.679><c> what</c><00:01:56.890><c> we</c><00:01:57.009><c> have</c><00:01:57.220><c> a</c><00:01:57.250><c> gradient</c><00:01:57.640><c> descent</c>
+
+00:01:58.080 --> 00:01:58.090 align:start position:0%
+here's what we have a gradient descent
+ 
+
+00:01:58.090 --> 00:02:00.870 align:start position:0%
+here's what we have a gradient descent
+for<00:01:58.390><c> the</c><00:01:58.479><c> case</c><00:01:58.720><c> of</c><00:01:58.960><c> when</c><00:01:59.200><c> we</c><00:01:59.350><c> had</c><00:01:59.560><c> N</c><00:01:59.770><c> equals</c><00:02:00.490><c> one</c>
+
+00:02:00.870 --> 00:02:00.880 align:start position:0%
+for the case of when we had N equals one
+ 
+
+00:02:00.880 --> 00:02:03.660 align:start position:0%
+for the case of when we had N equals one
+feature<00:02:01.270><c> we</c><00:02:02.110><c> had</c><00:02:02.380><c> two</c><00:02:02.679><c> separate</c><00:02:03.070><c> update</c><00:02:03.429><c> rules</c>
+
+00:02:03.660 --> 00:02:03.670 align:start position:0%
+feature we had two separate update rules
+ 
+
+00:02:03.670 --> 00:02:05.999 align:start position:0%
+feature we had two separate update rules
+for<00:02:04.030><c> the</c><00:02:04.240><c> parameters</c><00:02:04.390><c> theta</c><00:02:04.810><c> zero</c><00:02:05.770><c> and</c><00:02:05.800><c> theta</c>
+
+00:02:05.999 --> 00:02:06.009 align:start position:0%
+for the parameters theta zero and theta
+ 
+
+00:02:06.009 --> 00:02:08.219 align:start position:0%
+for the parameters theta zero and theta
+one<00:02:06.280><c> and</c><00:02:06.700><c> hopefully</c><00:02:06.910><c> these</c><00:02:07.330><c> look</c><00:02:07.539><c> familiar</c><00:02:07.720><c> to</c>
+
+00:02:08.219 --> 00:02:08.229 align:start position:0%
+one and hopefully these look familiar to
+ 
+
+00:02:08.229 --> 00:02:12.720 align:start position:0%
+one and hopefully these look familiar to
+you<00:02:08.259><c> and</c><00:02:09.239><c> this</c><00:02:10.239><c> term</c><00:02:10.509><c> here</c><00:02:11.010><c> was</c><00:02:12.010><c> of</c><00:02:12.190><c> course</c><00:02:12.400><c> the</c>
+
+00:02:12.720 --> 00:02:12.730 align:start position:0%
+you and this term here was of course the
+ 
+
+00:02:12.730 --> 00:02:14.880 align:start position:0%
+you and this term here was of course the
+partial<00:02:13.269><c> derivative</c><00:02:14.019><c> of</c><00:02:14.230><c> the</c><00:02:14.500><c> cost</c><00:02:14.530><c> function</c>
+
+00:02:14.880 --> 00:02:14.890 align:start position:0%
+partial derivative of the cost function
+ 
+
+00:02:14.890 --> 00:02:17.670 align:start position:0%
+partial derivative of the cost function
+with<00:02:15.280><c> respect</c><00:02:16.209><c> to</c><00:02:16.360><c> the</c><00:02:16.450><c> parameter</c><00:02:16.959><c> theta</c><00:02:17.230><c> zero</c>
+
+00:02:17.670 --> 00:02:17.680 align:start position:0%
+with respect to the parameter theta zero
+ 
+
+00:02:17.680 --> 00:02:20.160 align:start position:0%
+with respect to the parameter theta zero
+and<00:02:17.970><c> similarly</c><00:02:18.970><c> we</c><00:02:19.180><c> had</c><00:02:19.330><c> a</c><00:02:19.360><c> different</c><00:02:19.810><c> update</c>
+
+00:02:20.160 --> 00:02:20.170 align:start position:0%
+and similarly we had a different update
+ 
+
+00:02:20.170 --> 00:02:22.920 align:start position:0%
+and similarly we had a different update
+rule<00:02:20.380><c> for</c><00:02:20.739><c> the</c><00:02:20.860><c> parameter</c><00:02:21.310><c> theta</c><00:02:21.489><c> one</c><00:02:21.930><c> those</c>
+
+00:02:22.920 --> 00:02:22.930 align:start position:0%
+rule for the parameter theta one those
+ 
+
+00:02:22.930 --> 00:02:24.509 align:start position:0%
+rule for the parameter theta one those
+one<00:02:23.140><c> little</c><00:02:23.380><c> difference</c><00:02:23.530><c> which</c><00:02:23.890><c> is</c><00:02:24.040><c> that</c><00:02:24.069><c> when</c>
+
+00:02:24.509 --> 00:02:24.519 align:start position:0%
+one little difference which is that when
+ 
+
+00:02:24.519 --> 00:02:27.780 align:start position:0%
+one little difference which is that when
+we<00:02:24.640><c> previously</c><00:02:25.030><c> had</c><00:02:25.510><c> only</c><00:02:25.900><c> one</c><00:02:26.440><c> feature</c><00:02:26.790><c> we</c>
+
+00:02:27.780 --> 00:02:27.790 align:start position:0%
+we previously had only one feature we
+ 
+
+00:02:27.790 --> 00:02:31.259 align:start position:0%
+we previously had only one feature we
+would<00:02:27.970><c> call</c><00:02:28.269><c> that</c><00:02:28.480><c> feature</c><00:02:28.750><c> X</c><00:02:29.260><c> I</c><00:02:29.739><c> but</c><00:02:30.640><c> now</c><00:02:30.880><c> in</c>
+
+00:02:31.259 --> 00:02:31.269 align:start position:0%
+would call that feature X I but now in
+ 
+
+00:02:31.269 --> 00:02:33.210 align:start position:0%
+would call that feature X I but now in
+our<00:02:31.450><c> new</c><00:02:31.630><c> notation</c><00:02:31.660><c> we</c><00:02:32.410><c> would</c><00:02:32.590><c> of</c><00:02:32.709><c> course</c><00:02:32.890><c> call</c>
+
+00:02:33.210 --> 00:02:33.220 align:start position:0%
+our new notation we would of course call
+ 
+
+00:02:33.220 --> 00:02:36.990 align:start position:0%
+our new notation we would of course call
+this<00:02:33.400><c> X</c><00:02:33.760><c> superscript</c><00:02:34.209><c> I</c><00:02:34.750><c> subscript</c><00:02:35.160><c> one</c><00:02:36.160><c> to</c>
+
+00:02:36.990 --> 00:02:37.000 align:start position:0%
+this X superscript I subscript one to
+ 
+
+00:02:37.000 --> 00:02:39.930 align:start position:0%
+this X superscript I subscript one to
+denote<00:02:37.329><c> our</c><00:02:37.600><c> one</c><00:02:38.200><c> feature</c><00:02:38.530><c> so</c><00:02:39.040><c> that</c><00:02:39.070><c> was</c><00:02:39.370><c> four</c>
+
+00:02:39.930 --> 00:02:39.940 align:start position:0%
+denote our one feature so that was four
+ 
+
+00:02:39.940 --> 00:02:42.210 align:start position:0%
+denote our one feature so that was four
+we<00:02:40.060><c> had</c><00:02:40.209><c> only</c><00:02:40.450><c> one</c><00:02:40.630><c> feature</c><00:02:40.920><c> let's</c><00:02:41.920><c> look</c><00:02:42.130><c> at</c>
+
+00:02:42.210 --> 00:02:42.220 align:start position:0%
+we had only one feature let's look at
+ 
+
+00:02:42.220 --> 00:02:44.039 align:start position:0%
+we had only one feature let's look at
+the<00:02:42.310><c> new</c><00:02:42.459><c> algorithm</c><00:02:42.790><c> for</c><00:02:43.239><c> we</c><00:02:43.390><c> have</c><00:02:43.600><c> more</c><00:02:43.630><c> than</c>
+
+00:02:44.039 --> 00:02:44.049 align:start position:0%
+the new algorithm for we have more than
+ 
+
+00:02:44.049 --> 00:02:45.720 align:start position:0%
+the new algorithm for we have more than
+one<00:02:44.290><c> feature</c><00:02:44.530><c> when</c><00:02:44.980><c> the</c><00:02:45.130><c> number</c><00:02:45.370><c> of</c><00:02:45.459><c> features</c>
+
+00:02:45.720 --> 00:02:45.730 align:start position:0%
+one feature when the number of features
+ 
+
+00:02:45.730 --> 00:02:48.810 align:start position:0%
+one feature when the number of features
+n<00:02:45.910><c> may</c><00:02:46.120><c> be</c><00:02:46.180><c> much</c><00:02:46.450><c> larger</c><00:02:46.660><c> than</c><00:02:46.870><c> one</c><00:02:47.640><c> we</c><00:02:48.640><c> get</c>
+
+00:02:48.810 --> 00:02:48.820 align:start position:0%
+n may be much larger than one we get
+ 
+
+00:02:48.820 --> 00:02:51.150 align:start position:0%
+n may be much larger than one we get
+this<00:02:49.060><c> update</c><00:02:49.540><c> rule</c><00:02:49.780><c> for</c><00:02:49.829><c> gradient</c><00:02:50.829><c> descent</c>
+
+00:02:51.150 --> 00:02:51.160 align:start position:0%
+this update rule for gradient descent
+ 
+
+00:02:51.160 --> 00:02:53.610 align:start position:0%
+this update rule for gradient descent
+and<00:02:51.480><c> maybe</c><00:02:52.480><c> for</c><00:02:52.690><c> those</c><00:02:52.780><c> of</c><00:02:52.989><c> you</c><00:02:53.170><c> that</c><00:02:53.350><c> know</c>
+
+00:02:53.610 --> 00:02:53.620 align:start position:0%
+and maybe for those of you that know
+ 
+
+00:02:53.620 --> 00:02:56.520 align:start position:0%
+and maybe for those of you that know
+calculus<00:02:53.950><c> if</c><00:02:54.640><c> you</c><00:02:55.000><c> take</c><00:02:55.690><c> the</c><00:02:55.840><c> definition</c><00:02:56.410><c> of</c>
+
+00:02:56.520 --> 00:02:56.530 align:start position:0%
+calculus if you take the definition of
+ 
+
+00:02:56.530 --> 00:02:58.470 align:start position:0%
+calculus if you take the definition of
+the<00:02:56.650><c> cost</c><00:02:56.799><c> function</c><00:02:56.980><c> and</c><00:02:57.519><c> take</c><00:02:58.239><c> the</c><00:02:58.299><c> partial</c>
+
+00:02:58.470 --> 00:02:58.480 align:start position:0%
+the cost function and take the partial
+ 
+
+00:02:58.480 --> 00:03:01.440 align:start position:0%
+the cost function and take the partial
+derivative<00:02:58.930><c> of</c><00:02:59.739><c> the</c><00:03:00.310><c> cost</c><00:03:00.489><c> function</c><00:03:00.640><c> J</c><00:03:01.030><c> with</c>
+
+00:03:01.440 --> 00:03:01.450 align:start position:0%
+derivative of the cost function J with
+ 
+
+00:03:01.450 --> 00:03:04.560 align:start position:0%
+derivative of the cost function J with
+respect<00:03:01.540><c> to</c><00:03:02.079><c> the</c><00:03:02.769><c> parameter</c><00:03:03.519><c> theta</c><00:03:03.730><c> J</c><00:03:03.910><c> you</c>
+
+00:03:04.560 --> 00:03:04.570 align:start position:0%
+respect to the parameter theta J you
+ 
+
+00:03:04.570 --> 00:03:06.390 align:start position:0%
+respect to the parameter theta J you
+find<00:03:04.900><c> that</c><00:03:05.049><c> that</c><00:03:05.290><c> partial</c><00:03:05.709><c> derivative</c><00:03:06.160><c> is</c>
+
+00:03:06.390 --> 00:03:06.400 align:start position:0%
+find that that partial derivative is
+ 
+
+00:03:06.400 --> 00:03:09.000 align:start position:0%
+find that that partial derivative is
+exactly<00:03:07.060><c> that</c><00:03:07.720><c> terms</c><00:03:07.989><c> I've</c><00:03:08.260><c> just</c><00:03:08.470><c> drawn</c><00:03:08.769><c> and</c>
+
+00:03:09.000 --> 00:03:09.010 align:start position:0%
+exactly that terms I've just drawn and
+ 
+
+00:03:09.010 --> 00:03:11.789 align:start position:0%
+exactly that terms I've just drawn and
+drawn<00:03:09.370><c> the</c><00:03:09.400><c> blue</c><00:03:09.700><c> box</c><00:03:09.940><c> around</c><00:03:10.090><c> and</c><00:03:10.650><c> if</c><00:03:11.650><c> you</c>
+
+00:03:11.789 --> 00:03:11.799 align:start position:0%
+drawn the blue box around and if you
+ 
+
+00:03:11.799 --> 00:03:14.009 align:start position:0%
+drawn the blue box around and if you
+implement<00:03:12.100><c> this</c><00:03:12.459><c> you</c><00:03:12.790><c> will</c><00:03:12.970><c> get</c><00:03:13.239><c> a</c><00:03:13.570><c> working</c>
+
+00:03:14.009 --> 00:03:14.019 align:start position:0%
+implement this you will get a working
+ 
+
+00:03:14.019 --> 00:03:16.340 align:start position:0%
+implement this you will get a working
+implementation<00:03:14.260><c> of</c><00:03:14.920><c> gradient</c><00:03:15.250><c> descent</c><00:03:15.489><c> for</c>
+
+00:03:16.340 --> 00:03:16.350 align:start position:0%
+implementation of gradient descent for
+ 
+
+00:03:16.350 --> 00:03:19.380 align:start position:0%
+implementation of gradient descent for
+multivariate<00:03:17.350><c> than</c><00:03:17.590><c> aggression</c><00:03:18.180><c> the</c><00:03:19.180><c> last</c>
+
+00:03:19.380 --> 00:03:19.390 align:start position:0%
+multivariate than aggression the last
+ 
+
+00:03:19.390 --> 00:03:20.910 align:start position:0%
+multivariate than aggression the last
+thing<00:03:19.570><c> I</c><00:03:19.630><c> want</c><00:03:19.780><c> to</c><00:03:19.810><c> do</c><00:03:19.930><c> on</c><00:03:19.959><c> this</c><00:03:20.170><c> slide</c><00:03:20.410><c> is</c><00:03:20.650><c> give</c>
+
+00:03:20.910 --> 00:03:20.920 align:start position:0%
+thing I want to do on this slide is give
+ 
+
+00:03:20.920 --> 00:03:23.610 align:start position:0%
+thing I want to do on this slide is give
+you<00:03:21.040><c> a</c><00:03:21.070><c> sense</c><00:03:21.400><c> of</c><00:03:21.670><c> why</c><00:03:21.970><c> these</c><00:03:22.030><c> some</c><00:03:22.690><c> new</c><00:03:23.320><c> and</c>
+
+00:03:23.610 --> 00:03:23.620 align:start position:0%
+you a sense of why these some new and
+ 
+
+00:03:23.620 --> 00:03:25.890 align:start position:0%
+you a sense of why these some new and
+old<00:03:23.890><c> algorithms</c><00:03:24.459><c> are</c><00:03:24.880><c> you</c><00:03:25.329><c> know</c><00:03:25.420><c> sort</c><00:03:25.630><c> of</c><00:03:25.810><c> the</c>
+
+00:03:25.890 --> 00:03:25.900 align:start position:0%
+old algorithms are you know sort of the
+ 
+
+00:03:25.900 --> 00:03:28.560 align:start position:0%
+old algorithms are you know sort of the
+same<00:03:26.049><c> thing</c><00:03:26.290><c> or</c><00:03:26.440><c> why</c><00:03:26.590><c> they're</c><00:03:26.859><c> both</c><00:03:27.570><c> similar</c>
+
+00:03:28.560 --> 00:03:28.570 align:start position:0%
+same thing or why they're both similar
+ 
+
+00:03:28.570 --> 00:03:29.970 align:start position:0%
+same thing or why they're both similar
+algorithms<00:03:29.019><c> why</c><00:03:29.260><c> they</c><00:03:29.410><c> both</c><00:03:29.560><c> gradient</c>
+
+00:03:29.970 --> 00:03:29.980 align:start position:0%
+algorithms why they both gradient
+ 
+
+00:03:29.980 --> 00:03:31.150 align:start position:0%
+algorithms why they both gradient
+descent<00:03:30.280><c> our</c>
+
+00:03:31.150 --> 00:03:31.160 align:start position:0%
+descent our
+ 
+
+00:03:31.160 --> 00:03:33.830 align:start position:0%
+descent our
+let's<00:03:32.160><c> consider</c><00:03:32.580><c> case</c><00:03:32.880><c> where</c><00:03:33.210><c> we</c><00:03:33.330><c> have</c><00:03:33.570><c> two</c>
+
+00:03:33.830 --> 00:03:33.840 align:start position:0%
+let's consider case where we have two
+ 
+
+00:03:33.840 --> 00:03:35.900 align:start position:0%
+let's consider case where we have two
+features<00:03:34.560><c> or</c><00:03:34.800><c> maybe</c><00:03:34.950><c> more</c><00:03:35.190><c> than</c><00:03:35.340><c> two</c><00:03:35.520><c> features</c>
+
+00:03:35.900 --> 00:03:35.910 align:start position:0%
+features or maybe more than two features
+ 
+
+00:03:35.910 --> 00:03:38.060 align:start position:0%
+features or maybe more than two features
+so<00:03:36.360><c> we</c><00:03:36.390><c> have</c><00:03:36.720><c> three</c><00:03:37.050><c> update</c><00:03:37.500><c> rules</c><00:03:37.740><c> for</c><00:03:37.980><c> the</c>
+
+00:03:38.060 --> 00:03:38.070 align:start position:0%
+so we have three update rules for the
+ 
+
+00:03:38.070 --> 00:03:41.210 align:start position:0%
+so we have three update rules for the
+parameters<00:03:38.190><c> theta0</c><00:03:38.930><c> theta1</c><00:03:39.930><c> theta2</c><00:03:40.470><c> and</c>
+
+00:03:41.210 --> 00:03:41.220 align:start position:0%
+parameters theta0 theta1 theta2 and
+ 
+
+00:03:41.220 --> 00:03:43.100 align:start position:0%
+parameters theta0 theta1 theta2 and
+maybe<00:03:41.340><c> other</c><00:03:41.610><c> values</c><00:03:42.060><c> of</c><00:03:42.180><c> theta</c><00:03:42.390><c> as</c><00:03:42.570><c> well</c><00:03:42.780><c> if</c>
+
+00:03:43.100 --> 00:03:43.110 align:start position:0%
+maybe other values of theta as well if
+ 
+
+00:03:43.110 --> 00:03:45.910 align:start position:0%
+maybe other values of theta as well if
+you<00:03:44.010><c> look</c><00:03:44.160><c> at</c><00:03:44.370><c> the</c><00:03:44.460><c> update</c><00:03:44.850><c> rule</c><00:03:45.090><c> for</c><00:03:45.120><c> theta</c><00:03:45.510><c> 0</c>
+
+00:03:45.910 --> 00:03:45.920 align:start position:0%
+you look at the update rule for theta 0
+ 
+
+00:03:45.920 --> 00:03:50.720 align:start position:0%
+you look at the update rule for theta 0
+what<00:03:46.920><c> you</c><00:03:47.040><c> find</c><00:03:47.340><c> is</c><00:03:47.610><c> that</c><00:03:48.590><c> this</c><00:03:49.590><c> update</c><00:03:49.890><c> rule</c>
+
+00:03:50.720 --> 00:03:50.730 align:start position:0%
+what you find is that this update rule
+ 
+
+00:03:50.730 --> 00:03:54.830 align:start position:0%
+what you find is that this update rule
+here<00:03:51.860><c> is</c><00:03:52.860><c> the</c><00:03:53.100><c> same</c><00:03:53.340><c> as</c><00:03:53.640><c> the</c><00:03:53.850><c> update</c><00:03:54.180><c> rule</c><00:03:54.390><c> that</c>
+
+00:03:54.830 --> 00:03:54.840 align:start position:0%
+here is the same as the update rule that
+ 
+
+00:03:54.840 --> 00:03:56.510 align:start position:0%
+here is the same as the update rule that
+we<00:03:54.960><c> had</c><00:03:55.140><c> previously</c><00:03:55.410><c> for</c><00:03:55.980><c> the</c><00:03:56.010><c> case</c><00:03:56.220><c> of</c><00:03:56.250><c> N</c>
+
+00:03:56.510 --> 00:03:56.520 align:start position:0%
+we had previously for the case of N
+ 
+
+00:03:56.520 --> 00:03:58.760 align:start position:0%
+we had previously for the case of N
+equals<00:03:56.610><c> 1</c><00:03:57.060><c> and</c><00:03:57.330><c> the</c><00:03:57.900><c> reason</c><00:03:58.290><c> that</c><00:03:58.320><c> they're</c>
+
+00:03:58.760 --> 00:03:58.770 align:start position:0%
+equals 1 and the reason that they're
+ 
+
+00:03:58.770 --> 00:04:01.130 align:start position:0%
+equals 1 and the reason that they're
+equivalent<00:03:59.340><c> is</c><00:03:59.820><c> of</c><00:04:00.090><c> course</c><00:04:00.360><c> because</c><00:04:00.810><c> in</c><00:04:01.050><c> a</c>
+
+00:04:01.130 --> 00:04:01.140 align:start position:0%
+equivalent is of course because in a
+ 
+
+00:04:01.140 --> 00:04:04.870 align:start position:0%
+equivalent is of course because in a
+notational<00:04:01.680><c> convention</c><00:04:02.250><c> we</c><00:04:02.790><c> had</c><00:04:03.000><c> this</c><00:04:03.240><c> X</c><00:04:03.840><c> 0</c>
+
+00:04:04.870 --> 00:04:04.880 align:start position:0%
+notational convention we had this X 0
+ 
+
+00:04:04.880 --> 00:04:07.280 align:start position:0%
+notational convention we had this X 0
+equals<00:04:05.880><c> 1</c><00:04:05.970><c> Convention</c><00:04:06.750><c> which</c><00:04:06.959><c> is</c><00:04:07.080><c> why</c><00:04:07.230><c> these</c>
+
+00:04:07.280 --> 00:04:07.290 align:start position:0%
+equals 1 Convention which is why these
+ 
+
+00:04:07.290 --> 00:04:09.830 align:start position:0%
+equals 1 Convention which is why these
+two<00:04:07.800><c> terms</c><00:04:08.040><c> that</c><00:04:08.580><c> I've</c><00:04:08.700><c> drawn</c><00:04:08.910><c> the</c><00:04:09.120><c> magenta</c>
+
+00:04:09.830 --> 00:04:09.840 align:start position:0%
+two terms that I've drawn the magenta
+ 
+
+00:04:09.840 --> 00:04:12.040 align:start position:0%
+two terms that I've drawn the magenta
+boxes<00:04:10.350><c> around</c><00:04:10.620><c> are</c><00:04:11.010><c> equivalent</c>
+
+00:04:12.040 --> 00:04:12.050 align:start position:0%
+boxes around are equivalent
+ 
+
+00:04:12.050 --> 00:04:14.240 align:start position:0%
+boxes around are equivalent
+similarly<00:04:13.050><c> if</c><00:04:13.380><c> you</c><00:04:13.470><c> look</c><00:04:13.620><c> at</c><00:04:13.740><c> the</c><00:04:13.800><c> update</c><00:04:14.040><c> rule</c>
+
+00:04:14.240 --> 00:04:14.250 align:start position:0%
+similarly if you look at the update rule
+ 
+
+00:04:14.250 --> 00:04:17.120 align:start position:0%
+similarly if you look at the update rule
+for<00:04:14.280><c> theta</c><00:04:14.580><c> 1</c><00:04:14.910><c> you</c><00:04:15.390><c> find</c><00:04:15.690><c> that</c><00:04:15.930><c> this</c><00:04:16.260><c> term</c><00:04:16.470><c> here</c>
+
+00:04:17.120 --> 00:04:17.130 align:start position:0%
+for theta 1 you find that this term here
+ 
+
+00:04:17.130 --> 00:04:20.690 align:start position:0%
+for theta 1 you find that this term here
+is<00:04:17.299><c> equivalent</c><00:04:18.299><c> to</c><00:04:18.840><c> the</c><00:04:19.709><c> term</c><00:04:19.980><c> we</c><00:04:20.220><c> previously</c>
+
+00:04:20.690 --> 00:04:20.700 align:start position:0%
+is equivalent to the term we previously
+ 
+
+00:04:20.700 --> 00:04:23.330 align:start position:0%
+is equivalent to the term we previously
+had<00:04:21.180><c> of</c><00:04:21.870><c> the</c><00:04:22.109><c> equation</c><00:04:22.590><c> the</c><00:04:22.770><c> update</c><00:04:23.040><c> where</c><00:04:23.220><c> we</c>
+
+00:04:23.330 --> 00:04:23.340 align:start position:0%
+had of the equation the update where we
+ 
+
+00:04:23.340 --> 00:04:25.909 align:start position:0%
+had of the equation the update where we
+previously<00:04:23.550><c> had</c><00:04:24.030><c> for</c><00:04:24.360><c> theta</c><00:04:24.600><c> 1</c><00:04:24.960><c> where</c><00:04:25.830><c> of</c>
+
+00:04:25.909 --> 00:04:25.919 align:start position:0%
+previously had for theta 1 where of
+ 
+
+00:04:25.919 --> 00:04:27.650 align:start position:0%
+previously had for theta 1 where of
+course<00:04:26.190><c> we're</c><00:04:26.520><c> just</c><00:04:26.730><c> using</c><00:04:27.330><c> this</c><00:04:27.450><c> new</c>
+
+00:04:27.650 --> 00:04:27.660 align:start position:0%
+course we're just using this new
+ 
+
+00:04:27.660 --> 00:04:32.210 align:start position:0%
+course we're just using this new
+notation<00:04:28.230><c> X</c><00:04:28.500><c> subscript</c><00:04:28.860><c> 1</c><00:04:29.280><c> to</c><00:04:30.000><c> denote</c><00:04:30.300><c> our</c><00:04:31.220><c> new</c>
+
+00:04:32.210 --> 00:04:32.220 align:start position:0%
+notation X subscript 1 to denote our new
+ 
+
+00:04:32.220 --> 00:04:34.040 align:start position:0%
+notation X subscript 1 to denote our new
+notation<00:04:32.490><c> for</c><00:04:33.030><c> denoting</c><00:04:33.270><c> the</c><00:04:33.600><c> first</c><00:04:33.630><c> feature</c>
+
+00:04:34.040 --> 00:04:34.050 align:start position:0%
+notation for denoting the first feature
+ 
+
+00:04:34.050 --> 00:04:36.470 align:start position:0%
+notation for denoting the first feature
+and<00:04:34.440><c> now</c><00:04:35.070><c> that</c><00:04:35.310><c> we</c><00:04:35.520><c> have</c><00:04:35.730><c> more</c><00:04:35.970><c> than</c><00:04:36.030><c> one</c>
+
+00:04:36.470 --> 00:04:36.480 align:start position:0%
+and now that we have more than one
+ 
+
+00:04:36.480 --> 00:04:39.380 align:start position:0%
+and now that we have more than one
+feature<00:04:36.690><c> we</c><00:04:37.110><c> can</c><00:04:37.230><c> have</c><00:04:37.710><c> similar</c><00:04:38.460><c> update</c><00:04:38.880><c> rules</c>
+
+00:04:39.380 --> 00:04:39.390 align:start position:0%
+feature we can have similar update rules
+ 
+
+00:04:39.390 --> 00:04:41.540 align:start position:0%
+feature we can have similar update rules
+for<00:04:39.780><c> for</c><00:04:40.290><c> the</c><00:04:40.380><c> other</c><00:04:40.500><c> parameters</c><00:04:41.160><c> like</c><00:04:41.340><c> theta2</c>
+
+00:04:41.540 --> 00:04:41.550 align:start position:0%
+for for the other parameters like theta2
+ 
+
+00:04:41.550 --> 00:04:45.020 align:start position:0%
+for for the other parameters like theta2
+and<00:04:42.210><c> so</c><00:04:42.660><c> on</c><00:04:42.950><c> there's</c><00:04:43.950><c> a</c><00:04:44.040><c> lot</c><00:04:44.190><c> going</c><00:04:44.460><c> on</c><00:04:44.610><c> on</c><00:04:44.669><c> the</c>
+
+00:04:45.020 --> 00:04:45.030 align:start position:0%
+and so on there's a lot going on on the
+ 
+
+00:04:45.030 --> 00:04:47.810 align:start position:0%
+and so on there's a lot going on on the
+slide<00:04:45.270><c> so</c><00:04:45.720><c> if</c><00:04:46.310><c> so</c><00:04:47.310><c> I</c><00:04:47.340><c> definitely</c><00:04:47.580><c> encourage</c>
+
+00:04:47.810 --> 00:04:47.820 align:start position:0%
+slide so if so I definitely encourage
+ 
+
+00:04:47.820 --> 00:04:50.180 align:start position:0%
+slide so if so I definitely encourage
+you<00:04:48.150><c> if</c><00:04:48.510><c> you</c><00:04:48.690><c> need</c><00:04:48.900><c> to</c><00:04:49.080><c> to</c><00:04:49.380><c> pause</c><00:04:49.650><c> the</c><00:04:49.860><c> video</c>
+
+00:04:50.180 --> 00:04:50.190 align:start position:0%
+you if you need to to pause the video
+ 
+
+00:04:50.190 --> 00:04:52.159 align:start position:0%
+you if you need to to pause the video
+and<00:04:50.460><c> look</c><00:04:51.030><c> at</c><00:04:51.210><c> all</c><00:04:51.330><c> the</c><00:04:51.450><c> math</c><00:04:51.630><c> on</c><00:04:51.840><c> the</c><00:04:51.960><c> slide</c>
+
+00:04:52.159 --> 00:04:52.169 align:start position:0%
+and look at all the math on the slide
+ 
+
+00:04:52.169 --> 00:04:53.840 align:start position:0%
+and look at all the math on the slide
+slowly<00:04:52.530><c> to</c><00:04:52.860><c> make</c><00:04:52.890><c> sure</c><00:04:53.190><c> you</c><00:04:53.340><c> understand</c>
+
+00:04:53.840 --> 00:04:53.850 align:start position:0%
+slowly to make sure you understand
+ 
+
+00:04:53.850 --> 00:04:56.180 align:start position:0%
+slowly to make sure you understand
+everything<00:04:54.120><c> that's</c><00:04:54.390><c> going</c><00:04:54.510><c> on</c><00:04:54.780><c> here</c><00:04:54.919><c> but</c><00:04:55.919><c> um</c>
+
+00:04:56.180 --> 00:04:56.190 align:start position:0%
+everything that's going on here but um
+ 
+
+00:04:56.190 --> 00:04:58.250 align:start position:0%
+everything that's going on here but um
+if<00:04:56.430><c> you</c><00:04:56.700><c> implement</c><00:04:57.060><c> the</c><00:04:57.510><c> algorithm</c><00:04:57.870><c> written</c>
+
+00:04:58.250 --> 00:04:58.260 align:start position:0%
+if you implement the algorithm written
+ 
+
+00:04:58.260 --> 00:05:00.560 align:start position:0%
+if you implement the algorithm written
+written<00:04:58.919><c> up</c><00:04:59.220><c> here</c><00:04:59.460><c> then</c><00:04:59.760><c> you</c><00:05:00.210><c> will</c><00:05:00.330><c> have</c><00:05:00.510><c> a</c>
+
+00:05:00.560 --> 00:05:00.570 align:start position:0%
+written up here then you will have a
+ 
+
+00:05:00.570 --> 00:05:02.300 align:start position:0%
+written up here then you will have a
+working<00:05:00.990><c> implementation</c><00:05:01.380><c> of</c><00:05:02.070><c> linear</c>
+
+00:05:02.300 --> 00:05:02.310 align:start position:0%
+working implementation of linear
+ 
+
+00:05:02.310 --> 00:05:06.050 align:start position:0%
+working implementation of linear
+regression<00:05:02.910><c> with</c><00:05:03.479><c> multiple</c><00:05:03.660><c> features</c>
+

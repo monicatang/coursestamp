@@ -3,8 +3,7 @@ import re
 import os
 
 # regex parsers
-#lecture_matcher = re.compile("Lecture (\\d+.\\d).*-(.*)\\.en") # for Andrew Ng specifically
-lecture_matcher = re.compile(".*-(.*)\\.en") # YouTube code only
+lecture_matcher = re.compile("(.*).en.vtt") # YouTube code only
 timestamp_matcher = re.compile("(\\d\\d):(\\d\\d):(\\d\\d).\\d\\d\\d --> \\d\\d:\\d\\d:\\d\\d.\\d\\d\\d")
 
 """
@@ -18,7 +17,6 @@ def parse():
     if filename == "subtitle_parser.py": # ignore self
       continue
     lecture_obj = lecture_matcher.match(filename)
-#    lecture_number = lecture_obj.group()
     lecture_code = lecture_obj.group(1)
     file_dict = {}
     with open(filename) as file:
@@ -39,7 +37,6 @@ def parse():
               continue
             found_subtitle = True
             last_time = total_seconds
-#      subtitle_dict[lecture_number + " " + lecture_code] = file_dict
       subtitle_dict[lecture_code] = file_dict
   return subtitle_dict
 

@@ -1,0 +1,1640 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.030 align:start position:0%
+ 
+in<00:00:00.089><c> this</c><00:00:00.570><c> video</c><00:00:00.930><c> and</c><00:00:01.199><c> in</c><00:00:01.439><c> the</c><00:00:01.469><c> video</c><00:00:01.829><c> after</c>
+
+00:00:02.030 --> 00:00:02.040 align:start position:0%
+in this video and in the video after
+ 
+
+00:00:02.040 --> 00:00:03.889 align:start position:0%
+in this video and in the video after
+this<00:00:02.340><c> one</c><00:00:02.580><c> I</c><00:00:02.790><c> want</c><00:00:03.090><c> to</c><00:00:03.179><c> tell</c><00:00:03.360><c> you</c><00:00:03.449><c> about</c><00:00:03.540><c> some</c>
+
+00:00:03.889 --> 00:00:03.899 align:start position:0%
+this one I want to tell you about some
+ 
+
+00:00:03.899 --> 00:00:05.720 align:start position:0%
+this one I want to tell you about some
+of<00:00:03.990><c> the</c><00:00:04.140><c> practical</c><00:00:05.069><c> tricks</c><00:00:05.460><c> for</c><00:00:05.670><c> making</c>
+
+00:00:05.720 --> 00:00:05.730 align:start position:0%
+of the practical tricks for making
+ 
+
+00:00:05.730 --> 00:00:08.299 align:start position:0%
+of the practical tricks for making
+gradient<00:00:06.390><c> descent</c><00:00:06.690><c> work</c><00:00:06.839><c> well</c><00:00:07.140><c> in</c><00:00:07.440><c> this</c><00:00:07.950><c> video</c>
+
+00:00:08.299 --> 00:00:08.309 align:start position:0%
+gradient descent work well in this video
+ 
+
+00:00:08.309 --> 00:00:09.919 align:start position:0%
+gradient descent work well in this video
+I<00:00:08.340><c> want</c><00:00:08.639><c> to</c><00:00:08.700><c> tell</c><00:00:08.849><c> you</c><00:00:08.970><c> about</c><00:00:09.059><c> an</c><00:00:09.300><c> idea</c><00:00:09.599><c> called</c>
+
+00:00:09.919 --> 00:00:09.929 align:start position:0%
+I want to tell you about an idea called
+ 
+
+00:00:09.929 --> 00:00:13.190 align:start position:0%
+I want to tell you about an idea called
+feature<00:00:10.200><c> scaling</c><00:00:10.940><c> here's</c><00:00:11.940><c> the</c><00:00:12.090><c> idea</c><00:00:12.420><c> if</c><00:00:13.049><c> you</c>
+
+00:00:13.190 --> 00:00:13.200 align:start position:0%
+feature scaling here's the idea if you
+ 
+
+00:00:13.200 --> 00:00:14.749 align:start position:0%
+feature scaling here's the idea if you
+have<00:00:13.290><c> a</c><00:00:13.410><c> problem</c><00:00:13.710><c> where</c><00:00:14.099><c> you</c><00:00:14.130><c> have</c><00:00:14.219><c> multiple</c>
+
+00:00:14.749 --> 00:00:14.759 align:start position:0%
+have a problem where you have multiple
+ 
+
+00:00:14.759 --> 00:00:17.450 align:start position:0%
+have a problem where you have multiple
+features<00:00:14.969><c> if</c><00:00:15.480><c> you</c><00:00:15.809><c> make</c><00:00:16.529><c> sure</c><00:00:16.830><c> that</c><00:00:17.340><c> the</c>
+
+00:00:17.450 --> 00:00:17.460 align:start position:0%
+features if you make sure that the
+ 
+
+00:00:17.460 --> 00:00:19.730 align:start position:0%
+features if you make sure that the
+features<00:00:17.910><c> are</c><00:00:18.210><c> on</c><00:00:18.270><c> a</c><00:00:18.510><c> similar</c><00:00:18.840><c> scale</c><00:00:19.050><c> by</c><00:00:19.590><c> which</c>
+
+00:00:19.730 --> 00:00:19.740 align:start position:0%
+features are on a similar scale by which
+ 
+
+00:00:19.740 --> 00:00:21.109 align:start position:0%
+features are on a similar scale by which
+I<00:00:19.890><c> mean</c><00:00:20.039><c> make</c><00:00:20.250><c> sure</c><00:00:20.430><c> that</c><00:00:20.640><c> the</c><00:00:20.760><c> different</c>
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+I mean make sure that the different
+ 
+
+00:00:21.119 --> 00:00:23.420 align:start position:0%
+I mean make sure that the different
+features<00:00:21.240><c> take</c><00:00:22.050><c> on</c><00:00:22.260><c> similar</c><00:00:22.769><c> ranges</c><00:00:23.250><c> of</c>
+
+00:00:23.420 --> 00:00:23.430 align:start position:0%
+features take on similar ranges of
+ 
+
+00:00:23.430 --> 00:00:25.609 align:start position:0%
+features take on similar ranges of
+values<00:00:23.850><c> then</c><00:00:24.600><c> gradient</c><00:00:24.990><c> descent</c><00:00:25.470><c> can</c>
+
+00:00:25.609 --> 00:00:25.619 align:start position:0%
+values then gradient descent can
+ 
+
+00:00:25.619 --> 00:00:28.339 align:start position:0%
+values then gradient descent can
+converge<00:00:26.220><c> more</c><00:00:26.550><c> quickly</c><00:00:27.170><c> concretely</c><00:00:28.170><c> let's</c>
+
+00:00:28.339 --> 00:00:28.349 align:start position:0%
+converge more quickly concretely let's
+ 
+
+00:00:28.349 --> 00:00:30.259 align:start position:0%
+converge more quickly concretely let's
+say<00:00:28.710><c> you</c><00:00:28.769><c> have</c><00:00:29.010><c> a</c><00:00:29.039><c> problem</c><00:00:29.369><c> with</c><00:00:29.670><c> two</c><00:00:29.849><c> features</c>
+
+00:00:30.259 --> 00:00:30.269 align:start position:0%
+say you have a problem with two features
+ 
+
+00:00:30.269 --> 00:00:32.870 align:start position:0%
+say you have a problem with two features
+where<00:00:30.539><c> x1</c><00:00:30.929><c> is</c><00:00:31.320><c> the</c><00:00:31.590><c> size</c><00:00:31.890><c> of</c><00:00:32.070><c> Houston</c><00:00:32.520><c> takes</c><00:00:32.730><c> on</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+where x1 is the size of Houston takes on
+ 
+
+00:00:32.880 --> 00:00:36.229 align:start position:0%
+where x1 is the size of Houston takes on
+values<00:00:33.300><c> between</c><00:00:33.329><c> say</c><00:00:33.660><c> 0</c><00:00:34.230><c> to</c><00:00:34.320><c> 2000</c><00:00:35.010><c> and</c><00:00:35.090><c> x2</c><00:00:36.090><c> is</c>
+
+00:00:36.229 --> 00:00:36.239 align:start position:0%
+values between say 0 to 2000 and x2 is
+ 
+
+00:00:36.239 --> 00:00:37.580 align:start position:0%
+values between say 0 to 2000 and x2 is
+the<00:00:36.329><c> number</c><00:00:36.570><c> of</c><00:00:36.630><c> bedrooms</c><00:00:36.780><c> and</c><00:00:37.260><c> maybe</c><00:00:37.440><c> that</c>
+
+00:00:37.580 --> 00:00:37.590 align:start position:0%
+the number of bedrooms and maybe that
+ 
+
+00:00:37.590 --> 00:00:40.400 align:start position:0%
+the number of bedrooms and maybe that
+takes<00:00:37.800><c> on</c><00:00:37.980><c> values</c><00:00:38.370><c> between</c><00:00:38.579><c> 1</c><00:00:38.760><c> and</c><00:00:39.149><c> 5</c><00:00:39.360><c> if</c><00:00:39.750><c> you</c>
+
+00:00:40.400 --> 00:00:40.410 align:start position:0%
+takes on values between 1 and 5 if you
+ 
+
+00:00:40.410 --> 00:00:42.889 align:start position:0%
+takes on values between 1 and 5 if you
+plot<00:00:40.710><c> the</c><00:00:40.920><c> contours</c><00:00:41.219><c> of</c><00:00:41.670><c> the</c><00:00:41.850><c> cost</c><00:00:42.180><c> function</c><00:00:42.629><c> J</c>
+
+00:00:42.889 --> 00:00:42.899 align:start position:0%
+plot the contours of the cost function J
+ 
+
+00:00:42.899 --> 00:00:46.910 align:start position:0%
+plot the contours of the cost function J
+of<00:00:42.930><c> theta</c><00:00:43.969><c> then</c><00:00:44.969><c> the</c><00:00:45.329><c> contours</c><00:00:45.899><c> may</c><00:00:46.170><c> look</c><00:00:46.680><c> like</c>
+
+00:00:46.910 --> 00:00:46.920 align:start position:0%
+of theta then the contours may look like
+ 
+
+00:00:46.920 --> 00:00:50.240 align:start position:0%
+of theta then the contours may look like
+this<00:00:47.280><c> where</c><00:00:48.090><c> let's</c><00:00:49.020><c> see</c><00:00:49.140><c> J</c><00:00:49.469><c> of</c><00:00:49.590><c> theta</c><00:00:49.620><c> is</c><00:00:50.219><c> a</c>
+
+00:00:50.240 --> 00:00:50.250 align:start position:0%
+this where let's see J of theta is a
+ 
+
+00:00:50.250 --> 00:00:52.880 align:start position:0%
+this where let's see J of theta is a
+function<00:00:50.399><c> of</c><00:00:51.000><c> parameters</c><00:00:51.809><c> theta</c><00:00:52.079><c> 0</c><00:00:52.440><c> theta</c><00:00:52.739><c> 1</c>
+
+00:00:52.880 --> 00:00:52.890 align:start position:0%
+function of parameters theta 0 theta 1
+ 
+
+00:00:52.890 --> 00:00:55.760 align:start position:0%
+function of parameters theta 0 theta 1
+and<00:00:53.309><c> theta</c><00:00:53.370><c> 2</c><00:00:53.670><c> I'm</c><00:00:54.390><c> going</c><00:00:54.690><c> to</c><00:00:54.750><c> ignore</c><00:00:54.899><c> theta</c><00:00:55.289><c> 0</c>
+
+00:00:55.760 --> 00:00:55.770 align:start position:0%
+and theta 2 I'm going to ignore theta 0
+ 
+
+00:00:55.770 --> 00:00:57.439 align:start position:0%
+and theta 2 I'm going to ignore theta 0
+so<00:00:56.190><c> let's</c><00:00:56.430><c> forget</c><00:00:56.550><c> about</c><00:00:56.670><c> theta</c><00:00:56.969><c> 0</c><00:00:57.360><c> and</c>
+
+00:00:57.439 --> 00:00:57.449 align:start position:0%
+so let's forget about theta 0 and
+ 
+
+00:00:57.449 --> 00:00:59.540 align:start position:0%
+so let's forget about theta 0 and
+pretend<00:00:57.989><c> as</c><00:00:58.109><c> a</c><00:00:58.140><c> function</c><00:00:58.649><c> of</c><00:00:58.829><c> only</c><00:00:58.980><c> theta</c><00:00:59.280><c> 1</c>
+
+00:00:59.540 --> 00:00:59.550 align:start position:0%
+pretend as a function of only theta 1
+ 
+
+00:00:59.550 --> 00:01:02.959 align:start position:0%
+pretend as a function of only theta 1
+and<00:00:59.699><c> theta</c><00:00:59.760><c> 2</c><00:01:00.230><c> but</c><00:01:01.230><c> if</c><00:01:01.649><c> X</c><00:01:02.039><c> 1</c><00:01:02.280><c> can</c><00:01:02.520><c> take</c><00:01:02.579><c> on</c><00:01:02.940><c> a</c>
+
+00:01:02.959 --> 00:01:02.969 align:start position:0%
+and theta 2 but if X 1 can take on a
+ 
+
+00:01:02.969 --> 00:01:05.840 align:start position:0%
+and theta 2 but if X 1 can take on a
+much<00:01:03.660><c> larger</c><00:01:03.899><c> range</c><00:01:04.320><c> of</c><00:01:04.439><c> values</c><00:01:04.769><c> in</c><00:01:04.920><c> X</c><00:01:05.070><c> 2</c><00:01:05.309><c> it</c>
+
+00:01:05.840 --> 00:01:05.850 align:start position:0%
+much larger range of values in X 2 it
+ 
+
+00:01:05.850 --> 00:01:07.609 align:start position:0%
+much larger range of values in X 2 it
+turns<00:01:06.090><c> out</c><00:01:06.270><c> that</c><00:01:06.420><c> the</c><00:01:06.510><c> contours</c><00:01:07.110><c> of</c><00:01:07.290><c> the</c><00:01:07.409><c> cost</c>
+
+00:01:07.609 --> 00:01:07.619 align:start position:0%
+turns out that the contours of the cost
+ 
+
+00:01:07.619 --> 00:01:10.280 align:start position:0%
+turns out that the contours of the cost
+function<00:01:07.799><c> J</c><00:01:08.070><c> of</c><00:01:08.340><c> theta</c><00:01:08.600><c> can</c><00:01:09.600><c> take</c><00:01:09.840><c> on</c><00:01:10.080><c> this</c>
+
+00:01:10.280 --> 00:01:10.290 align:start position:0%
+function J of theta can take on this
+ 
+
+00:01:10.290 --> 00:01:13.310 align:start position:0%
+function J of theta can take on this
+sort<00:01:10.530><c> of</c><00:01:10.710><c> a</c><00:01:10.860><c> very</c><00:01:11.610><c> very</c><00:01:11.880><c> skewed</c><00:01:12.510><c> elliptical</c>
+
+00:01:13.310 --> 00:01:13.320 align:start position:0%
+sort of a very very skewed elliptical
+ 
+
+00:01:13.320 --> 00:01:16.999 align:start position:0%
+sort of a very very skewed elliptical
+shape<00:01:14.090><c> except</c><00:01:15.090><c> that</c><00:01:15.240><c> with</c><00:01:15.420><c> a</c><00:01:15.450><c> sort</c><00:01:15.840><c> of</c><00:01:15.930><c> mm</c><00:01:16.619><c> to</c><00:01:16.799><c> 5</c>
+
+00:01:16.999 --> 00:01:17.009 align:start position:0%
+shape except that with a sort of mm to 5
+ 
+
+00:01:17.009 --> 00:01:19.280 align:start position:0%
+shape except that with a sort of mm to 5
+ratio<00:01:17.280><c> it</c><00:01:17.640><c> can</c><00:01:17.670><c> be</c><00:01:17.820><c> even</c><00:01:17.939><c> more</c><00:01:18.330><c> skewed</c><00:01:18.810><c> so</c><00:01:19.049><c> this</c>
+
+00:01:19.280 --> 00:01:19.290 align:start position:0%
+ratio it can be even more skewed so this
+ 
+
+00:01:19.290 --> 00:01:22.550 align:start position:0%
+ratio it can be even more skewed so this
+is<00:01:19.380><c> very</c><00:01:19.619><c> very</c><00:01:19.920><c> tall</c><00:01:20.340><c> and</c><00:01:20.700><c> skinny</c><00:01:21.320><c> ellipses</c><00:01:22.320><c> or</c>
+
+00:01:22.550 --> 00:01:22.560 align:start position:0%
+is very very tall and skinny ellipses or
+ 
+
+00:01:22.560 --> 00:01:25.219 align:start position:0%
+is very very tall and skinny ellipses or
+these<00:01:23.280><c> very</c><00:01:23.520><c> tall</c><00:01:23.759><c> skinny</c><00:01:24.119><c> ovals</c><00:01:24.570><c> can</c><00:01:24.869><c> form</c>
+
+00:01:25.219 --> 00:01:25.229 align:start position:0%
+these very tall skinny ovals can form
+ 
+
+00:01:25.229 --> 00:01:27.859 align:start position:0%
+these very tall skinny ovals can form
+the<00:01:25.790><c> contours</c><00:01:26.790><c> of</c><00:01:26.909><c> the</c><00:01:26.970><c> cost</c><00:01:27.240><c> function</c><00:01:27.390><c> J</c><00:01:27.689><c> of</c>
+
+00:01:27.859 --> 00:01:27.869 align:start position:0%
+the contours of the cost function J of
+ 
+
+00:01:27.869 --> 00:01:30.890 align:start position:0%
+the contours of the cost function J of
+theta<00:01:28.020><c> and</c><00:01:28.790><c> if</c><00:01:29.790><c> you've</c><00:01:29.970><c> run</c><00:01:30.329><c> gradient</c><00:01:30.659><c> descent</c>
+
+00:01:30.890 --> 00:01:30.900 align:start position:0%
+theta and if you've run gradient descent
+ 
+
+00:01:30.900 --> 00:01:34.580 align:start position:0%
+theta and if you've run gradient descent
+on<00:01:31.439><c> this</c><00:01:31.770><c> sort</c><00:01:32.040><c> of</c><00:01:32.159><c> cost</c><00:01:33.119><c> function</c><00:01:33.590><c> your</c>
+
+00:01:34.580 --> 00:01:34.590 align:start position:0%
+on this sort of cost function your
+ 
+
+00:01:34.590 --> 00:01:38.030 align:start position:0%
+on this sort of cost function your
+gradients<00:01:35.460><c> may</c><00:01:36.180><c> end</c><00:01:36.420><c> up</c><00:01:36.630><c> taking</c><00:01:37.170><c> a</c><00:01:37.439><c> long</c><00:01:37.680><c> time</c>
+
+00:01:38.030 --> 00:01:38.040 align:start position:0%
+gradients may end up taking a long time
+ 
+
+00:01:38.040 --> 00:01:40.670 align:start position:0%
+gradients may end up taking a long time
+and<00:01:38.430><c> can</c><00:01:38.790><c> sort</c><00:01:39.329><c> of</c><00:01:39.390><c> oscillate</c><00:01:39.869><c> back</c><00:01:40.170><c> and</c><00:01:40.229><c> forth</c>
+
+00:01:40.670 --> 00:01:40.680 align:start position:0%
+and can sort of oscillate back and forth
+ 
+
+00:01:40.680 --> 00:01:43.190 align:start position:0%
+and can sort of oscillate back and forth
+and<00:01:40.950><c> they</c><00:01:41.070><c> can</c><00:01:41.189><c> take</c><00:01:41.340><c> a</c><00:01:41.400><c> long</c><00:01:41.640><c> time</c><00:01:41.930><c> before</c><00:01:42.930><c> we</c>
+
+00:01:43.190 --> 00:01:43.200 align:start position:0%
+and they can take a long time before we
+ 
+
+00:01:43.200 --> 00:01:46.190 align:start position:0%
+and they can take a long time before we
+can<00:01:43.409><c> finally</c><00:01:44.340><c> find</c><00:01:44.579><c> this</c><00:01:44.759><c> way</c><00:01:45.000><c> to</c><00:01:45.720><c> the</c><00:01:45.840><c> global</c>
+
+00:01:46.190 --> 00:01:46.200 align:start position:0%
+can finally find this way to the global
+ 
+
+00:01:46.200 --> 00:01:48.889 align:start position:0%
+can finally find this way to the global
+minimum<00:01:46.530><c> in</c><00:01:46.979><c> fact</c><00:01:47.820><c> you'd</c><00:01:48.000><c> imagine</c><00:01:48.509><c> if</c><00:01:48.720><c> these</c>
+
+00:01:48.889 --> 00:01:48.899 align:start position:0%
+minimum in fact you'd imagine if these
+ 
+
+00:01:48.899 --> 00:01:50.960 align:start position:0%
+minimum in fact you'd imagine if these
+contours<00:01:49.409><c> are</c><00:01:49.619><c> exaggerated</c><00:01:50.340><c> even</c><00:01:50.430><c> more</c><00:01:50.790><c> able</c>
+
+00:01:50.960 --> 00:01:50.970 align:start position:0%
+contours are exaggerated even more able
+ 
+
+00:01:50.970 --> 00:01:53.870 align:start position:0%
+contours are exaggerated even more able
+to<00:01:51.030><c> draw</c><00:01:51.299><c> your</c><00:01:51.509><c> incredibly</c><00:01:52.290><c> skinny</c><00:01:52.880><c> tall</c>
+
+00:01:53.870 --> 00:01:53.880 align:start position:0%
+to draw your incredibly skinny tall
+ 
+
+00:01:53.880 --> 00:01:57.020 align:start position:0%
+to draw your incredibly skinny tall
+skinny<00:01:54.270><c> contours</c><00:01:54.930><c> and</c><00:01:55.490><c> it</c><00:01:56.490><c> can</c><00:01:56.579><c> be</c><00:01:56.700><c> even</c><00:01:56.790><c> more</c>
+
+00:01:57.020 --> 00:01:57.030 align:start position:0%
+skinny contours and it can be even more
+ 
+
+00:01:57.030 --> 00:01:59.090 align:start position:0%
+skinny contours and it can be even more
+extreme<00:01:57.270><c> than</c><00:01:57.540><c> that</c><00:01:57.750><c> then</c><00:01:58.380><c> you</c><00:01:58.590><c> know</c><00:01:58.680><c> gradient</c>
+
+00:01:59.090 --> 00:01:59.100 align:start position:0%
+extreme than that then you know gradient
+ 
+
+00:01:59.100 --> 00:02:01.100 align:start position:0%
+extreme than that then you know gradient
+descent<00:01:59.460><c> can</c><00:01:59.670><c> just</c><00:02:00.060><c> well</c><00:02:00.600><c> it</c><00:02:00.750><c> turns</c><00:02:00.960><c> out</c>
+
+00:02:01.100 --> 00:02:01.110 align:start position:0%
+descent can just well it turns out
+ 
+
+00:02:01.110 --> 00:02:02.569 align:start position:0%
+descent can just well it turns out
+gradient<00:02:01.619><c> descent</c><00:02:01.890><c> we</c><00:02:02.009><c> just</c><00:02:02.219><c> have</c><00:02:02.310><c> a</c><00:02:02.340><c> much</c>
+
+00:02:02.569 --> 00:02:02.579 align:start position:0%
+gradient descent we just have a much
+ 
+
+00:02:02.579 --> 00:02:05.179 align:start position:0%
+gradient descent we just have a much
+harder<00:02:02.790><c> time</c><00:02:03.020><c> taking</c><00:02:04.020><c> us</c><00:02:04.259><c> way</c><00:02:04.469><c> meandering</c>
+
+00:02:05.179 --> 00:02:05.189 align:start position:0%
+harder time taking us way meandering
+ 
+
+00:02:05.189 --> 00:02:07.429 align:start position:0%
+harder time taking us way meandering
+around<00:02:05.280><c> you</c><00:02:05.640><c> can</c><00:02:05.790><c> take</c><00:02:05.939><c> a</c><00:02:05.969><c> long</c><00:02:06.240><c> time</c><00:02:06.270><c> to</c><00:02:07.200><c> find</c>
+
+00:02:07.429 --> 00:02:07.439 align:start position:0%
+around you can take a long time to find
+ 
+
+00:02:07.439 --> 00:02:10.300 align:start position:0%
+around you can take a long time to find
+this<00:02:07.530><c> way</c><00:02:07.710><c> to</c><00:02:07.770><c> the</c><00:02:07.979><c> global</c><00:02:08.340><c> minimum</c>
+
+00:02:10.300 --> 00:02:10.310 align:start position:0%
+this way to the global minimum
+ 
+
+00:02:10.310 --> 00:02:15.230 align:start position:0%
+this way to the global minimum
+in<00:02:11.510><c> these</c><00:02:12.510><c> settings</c><00:02:12.990><c> a</c><00:02:13.820><c> useful</c><00:02:14.820><c> thing</c><00:02:14.970><c> to</c><00:02:15.000><c> do</c>
+
+00:02:15.230 --> 00:02:15.240 align:start position:0%
+in these settings a useful thing to do
+ 
+
+00:02:15.240 --> 00:02:18.260 align:start position:0%
+in these settings a useful thing to do
+is<00:02:15.510><c> to</c><00:02:15.780><c> scale</c><00:02:16.080><c> the</c><00:02:16.320><c> features</c><00:02:17.030><c> concretely</c><00:02:18.030><c> if</c>
+
+00:02:18.260 --> 00:02:18.270 align:start position:0%
+is to scale the features concretely if
+ 
+
+00:02:18.270 --> 00:02:20.990 align:start position:0%
+is to scale the features concretely if
+you<00:02:18.330><c> instead</c><00:02:18.690><c> define</c><00:02:19.410><c> the</c><00:02:20.040><c> feature</c><00:02:20.280><c> x1</c><00:02:20.640><c> to</c><00:02:20.970><c> be</c>
+
+00:02:20.990 --> 00:02:21.000 align:start position:0%
+you instead define the feature x1 to be
+ 
+
+00:02:21.000 --> 00:02:23.540 align:start position:0%
+you instead define the feature x1 to be
+the<00:02:21.210><c> size</c><00:02:21.450><c> of</c><00:02:21.870><c> the</c><00:02:21.990><c> house</c><00:02:22.170><c> divided</c><00:02:22.740><c> by</c><00:02:22.860><c> 2,000</c>
+
+00:02:23.540 --> 00:02:23.550 align:start position:0%
+the size of the house divided by 2,000
+ 
+
+00:02:23.550 --> 00:02:26.060 align:start position:0%
+the size of the house divided by 2,000
+and<00:02:23.730><c> define</c><00:02:24.450><c> x2</c><00:02:24.930><c> to</c><00:02:25.200><c> be</c><00:02:25.290><c> maybe</c><00:02:25.470><c> the</c><00:02:25.740><c> number</c><00:02:26.010><c> of</c>
+
+00:02:26.060 --> 00:02:26.070 align:start position:0%
+and define x2 to be maybe the number of
+ 
+
+00:02:26.070 --> 00:02:29.870 align:start position:0%
+and define x2 to be maybe the number of
+bedrooms<00:02:26.280><c> divided</c><00:02:26.970><c> by</c><00:02:27.090><c> 5</c><00:02:27.500><c> then</c><00:02:28.500><c> the</c><00:02:29.130><c> contours</c>
+
+00:02:29.870 --> 00:02:29.880 align:start position:0%
+bedrooms divided by 5 then the contours
+ 
+
+00:02:29.880 --> 00:02:33.110 align:start position:0%
+bedrooms divided by 5 then the contours
+of<00:02:29.970><c> the</c><00:02:30.090><c> cost</c><00:02:30.390><c> function</c><00:02:30.600><c> J</c><00:02:30.870><c> can</c><00:02:31.860><c> become</c><00:02:32.280><c> much</c>
+
+00:02:33.110 --> 00:02:33.120 align:start position:0%
+of the cost function J can become much
+ 
+
+00:02:33.120 --> 00:02:36.350 align:start position:0%
+of the cost function J can become much
+more<00:02:33.630><c> much</c><00:02:34.380><c> less</c><00:02:34.410><c> skew</c><00:02:35.100><c> so</c><00:02:35.430><c> the</c><00:02:35.550><c> contours</c><00:02:36.150><c> may</c>
+
+00:02:36.350 --> 00:02:36.360 align:start position:0%
+more much less skew so the contours may
+ 
+
+00:02:36.360 --> 00:02:39.140 align:start position:0%
+more much less skew so the contours may
+look<00:02:36.570><c> more</c><00:02:36.750><c> like</c><00:02:36.900><c> circles</c><00:02:37.410><c> and</c><00:02:37.730><c> if</c><00:02:38.730><c> you</c><00:02:38.970><c> run</c>
+
+00:02:39.140 --> 00:02:39.150 align:start position:0%
+look more like circles and if you run
+ 
+
+00:02:39.150 --> 00:02:40.400 align:start position:0%
+look more like circles and if you run
+gradient<00:02:39.390><c> descent</c><00:02:39.600><c> on</c><00:02:39.959><c> the</c><00:02:39.990><c> cost</c><00:02:40.260><c> function</c>
+
+00:02:40.400 --> 00:02:40.410 align:start position:0%
+gradient descent on the cost function
+ 
+
+00:02:40.410 --> 00:02:44.420 align:start position:0%
+gradient descent on the cost function
+like<00:02:40.709><c> this</c><00:02:40.920><c> then</c><00:02:41.160><c> gradient</c><00:02:41.940><c> descent</c><00:02:42.420><c> you</c><00:02:43.430><c> can</c>
+
+00:02:44.420 --> 00:02:44.430 align:start position:0%
+like this then gradient descent you can
+ 
+
+00:02:44.430 --> 00:02:46.490 align:start position:0%
+like this then gradient descent you can
+show<00:02:44.640><c> mathematically</c><00:02:44.850><c> you</c><00:02:45.750><c> can</c><00:02:45.810><c> find</c><00:02:46.140><c> a</c><00:02:46.290><c> much</c>
+
+00:02:46.490 --> 00:02:46.500 align:start position:0%
+show mathematically you can find a much
+ 
+
+00:02:46.500 --> 00:02:48.110 align:start position:0%
+show mathematically you can find a much
+more<00:02:46.680><c> direct</c><00:02:46.920><c> path</c><00:02:47.340><c> to</c><00:02:47.400><c> the</c><00:02:47.610><c> global</c><00:02:48.030><c> minimum</c>
+
+00:02:48.110 --> 00:02:48.120 align:start position:0%
+more direct path to the global minimum
+ 
+
+00:02:48.120 --> 00:02:50.210 align:start position:0%
+more direct path to the global minimum
+rather<00:02:48.570><c> than</c><00:02:48.870><c> taking</c><00:02:49.200><c> a</c><00:02:49.350><c> much</c><00:02:49.950><c> more</c>
+
+00:02:50.210 --> 00:02:50.220 align:start position:0%
+rather than taking a much more
+ 
+
+00:02:50.220 --> 00:02:52.640 align:start position:0%
+rather than taking a much more
+convoluted<00:02:50.880><c> path</c><00:02:51.420><c> we're</c><00:02:51.690><c> sort</c><00:02:51.930><c> of</c><00:02:52.020><c> trying</c><00:02:52.500><c> to</c>
+
+00:02:52.640 --> 00:02:52.650 align:start position:0%
+convoluted path we're sort of trying to
+ 
+
+00:02:52.650 --> 00:02:53.900 align:start position:0%
+convoluted path we're sort of trying to
+follow<00:02:52.950><c> a</c><00:02:53.070><c> much</c><00:02:53.340><c> more</c><00:02:53.520><c> complicated</c>
+
+00:02:53.900 --> 00:02:53.910 align:start position:0%
+follow a much more complicated
+ 
+
+00:02:53.910 --> 00:02:56.440 align:start position:0%
+follow a much more complicated
+trajectory<00:02:54.290><c> to</c><00:02:55.290><c> get</c><00:02:55.470><c> to</c><00:02:55.560><c> the</c><00:02:55.650><c> global</c><00:02:55.830><c> minimum</c>
+
+00:02:56.440 --> 00:02:56.450 align:start position:0%
+trajectory to get to the global minimum
+ 
+
+00:02:56.450 --> 00:02:59.120 align:start position:0%
+trajectory to get to the global minimum
+so<00:02:57.450><c> by</c><00:02:57.660><c> scaling</c><00:02:58.020><c> the</c><00:02:58.290><c> feature</c><00:02:58.530><c> is</c><00:02:58.770><c> so</c><00:02:58.950><c> that</c>
+
+00:02:59.120 --> 00:02:59.130 align:start position:0%
+so by scaling the feature is so that
+ 
+
+00:02:59.130 --> 00:03:01.430 align:start position:0%
+so by scaling the feature is so that
+they're<00:02:59.370><c> taken</c><00:03:00.090><c> similar</c><00:03:00.390><c> ranges</c><00:03:00.870><c> of</c><00:03:01.020><c> values</c>
+
+00:03:01.430 --> 00:03:01.440 align:start position:0%
+they're taken similar ranges of values
+ 
+
+00:03:01.440 --> 00:03:03.350 align:start position:0%
+they're taken similar ranges of values
+in<00:03:01.709><c> this</c><00:03:01.890><c> example</c><00:03:02.280><c> we</c><00:03:02.640><c> end</c><00:03:02.790><c> up</c><00:03:02.940><c> with</c><00:03:03.150><c> both</c>
+
+00:03:03.350 --> 00:03:03.360 align:start position:0%
+in this example we end up with both
+ 
+
+00:03:03.360 --> 00:03:09.920 align:start position:0%
+in this example we end up with both
+features<00:03:03.810><c> x1</c><00:03:04.200><c> and</c><00:03:04.470><c> x2</c><00:03:05.300><c> between</c><00:03:06.300><c> 0</c><00:03:06.720><c> &amp;</c><00:03:06.870><c> 1</c><00:03:06.930><c> you</c><00:03:08.930><c> can</c>
+
+00:03:09.920 --> 00:03:09.930 align:start position:0%
+features x1 and x2 between 0 &amp; 1 you can
+ 
+
+00:03:09.930 --> 00:03:11.900 align:start position:0%
+features x1 and x2 between 0 &amp; 1 you can
+wind<00:03:10.620><c> up</c><00:03:10.800><c> with</c><00:03:10.980><c> an</c><00:03:11.130><c> implementation</c><00:03:11.820><c> of</c>
+
+00:03:11.900 --> 00:03:11.910 align:start position:0%
+wind up with an implementation of
+ 
+
+00:03:11.910 --> 00:03:13.759 align:start position:0%
+wind up with an implementation of
+gradient<00:03:12.090><c> descent</c><00:03:12.330><c> they</c><00:03:12.840><c> can</c><00:03:13.019><c> converge</c><00:03:13.410><c> much</c>
+
+00:03:13.759 --> 00:03:13.769 align:start position:0%
+gradient descent they can converge much
+ 
+
+00:03:13.769 --> 00:03:19.670 align:start position:0%
+gradient descent they can converge much
+faster<00:03:17.269><c> more</c><00:03:18.269><c> generally</c><00:03:18.870><c> when</c><00:03:19.440><c> we're</c>
+
+00:03:19.670 --> 00:03:19.680 align:start position:0%
+faster more generally when we're
+ 
+
+00:03:19.680 --> 00:03:21.410 align:start position:0%
+faster more generally when we're
+performing<00:03:19.980><c> feature</c><00:03:20.340><c> scaling</c><00:03:20.519><c> what</c><00:03:21.120><c> we</c><00:03:21.269><c> often</c>
+
+00:03:21.410 --> 00:03:21.420 align:start position:0%
+performing feature scaling what we often
+ 
+
+00:03:21.420 --> 00:03:23.600 align:start position:0%
+performing feature scaling what we often
+want<00:03:21.690><c> to</c><00:03:21.750><c> do</c><00:03:21.959><c> is</c><00:03:22.230><c> get</c><00:03:22.440><c> every</c><00:03:22.739><c> feature</c><00:03:22.950><c> into</c><00:03:23.580><c> a</c>
+
+00:03:23.600 --> 00:03:23.610 align:start position:0%
+want to do is get every feature into a
+ 
+
+00:03:23.610 --> 00:03:27.640 align:start position:0%
+want to do is get every feature into a
+proximately<00:03:24.390><c> a</c><00:03:24.510><c> minus</c><00:03:25.110><c> 1</c><00:03:25.350><c> to</c><00:03:25.950><c> +1</c><00:03:26.340><c> range</c><00:03:26.760><c> and</c>
+
+00:03:27.640 --> 00:03:27.650 align:start position:0%
+proximately a minus 1 to +1 range and
+ 
+
+00:03:27.650 --> 00:03:30.199 align:start position:0%
+proximately a minus 1 to +1 range and
+concretely<00:03:28.650><c> you</c><00:03:29.100><c> know</c><00:03:29.220><c> your</c><00:03:29.400><c> feature</c><00:03:29.760><c> x0</c>
+
+00:03:30.199 --> 00:03:30.209 align:start position:0%
+concretely you know your feature x0
+ 
+
+00:03:30.209 --> 00:03:31.970 align:start position:0%
+concretely you know your feature x0
+that's<00:03:30.720><c> always</c><00:03:30.900><c> equal</c><00:03:31.320><c> to</c><00:03:31.350><c> 1</c><00:03:31.590><c> so</c><00:03:31.830><c> that's</c>
+
+00:03:31.970 --> 00:03:31.980 align:start position:0%
+that's always equal to 1 so that's
+ 
+
+00:03:31.980 --> 00:03:35.120 align:start position:0%
+that's always equal to 1 so that's
+already<00:03:32.220><c> in</c><00:03:32.549><c> that</c><00:03:32.580><c> range</c><00:03:33.260><c> but</c><00:03:34.260><c> you</c><00:03:34.470><c> may</c><00:03:34.680><c> end</c><00:03:34.920><c> up</c>
+
+00:03:35.120 --> 00:03:35.130 align:start position:0%
+already in that range but you may end up
+ 
+
+00:03:35.130 --> 00:03:36.979 align:start position:0%
+already in that range but you may end up
+dividing<00:03:35.430><c> other</c><00:03:35.790><c> features</c><00:03:36.180><c> by</c><00:03:36.480><c> different</c>
+
+00:03:36.979 --> 00:03:36.989 align:start position:0%
+dividing other features by different
+ 
+
+00:03:36.989 --> 00:03:38.720 align:start position:0%
+dividing other features by different
+numbers<00:03:37.290><c> to</c><00:03:37.320><c> get</c><00:03:37.620><c> them</c><00:03:37.769><c> into</c><00:03:37.980><c> this</c><00:03:38.130><c> range</c><00:03:38.459><c> and</c>
+
+00:03:38.720 --> 00:03:38.730 align:start position:0%
+numbers to get them into this range and
+ 
+
+00:03:38.730 --> 00:03:41.539 align:start position:0%
+numbers to get them into this range and
+the<00:03:39.570><c> numbers</c><00:03:39.900><c> minus</c><00:03:40.230><c> 1</c><00:03:40.410><c> and</c><00:03:40.590><c> +1</c><00:03:40.860><c> on</c><00:03:41.220><c> two</c>
+
+00:03:41.539 --> 00:03:41.549 align:start position:0%
+the numbers minus 1 and +1 on two
+ 
+
+00:03:41.549 --> 00:03:44.150 align:start position:0%
+the numbers minus 1 and +1 on two
+important<00:03:42.060><c> so</c><00:03:42.420><c> if</c><00:03:42.630><c> you</c><00:03:42.750><c> have</c><00:03:42.870><c> a</c><00:03:42.900><c> feature</c><00:03:43.160><c> x1</c>
+
+00:03:44.150 --> 00:03:44.160 align:start position:0%
+important so if you have a feature x1
+ 
+
+00:03:44.160 --> 00:03:47.120 align:start position:0%
+important so if you have a feature x1
+that<00:03:44.970><c> winds</c><00:03:45.299><c> up</c><00:03:45.510><c> being</c><00:03:45.690><c> between</c><00:03:46.049><c> 0</c><00:03:46.440><c> and</c><00:03:46.590><c> 3</c><00:03:46.860><c> say</c>
+
+00:03:47.120 --> 00:03:47.130 align:start position:0%
+that winds up being between 0 and 3 say
+ 
+
+00:03:47.130 --> 00:03:48.949 align:start position:0%
+that winds up being between 0 and 3 say
+that's<00:03:47.459><c> not</c><00:03:47.640><c> a</c><00:03:47.700><c> problem</c><00:03:47.970><c> review</c><00:03:48.660><c> end</c><00:03:48.750><c> up</c>
+
+00:03:48.949 --> 00:03:48.959 align:start position:0%
+that's not a problem review end up
+ 
+
+00:03:48.959 --> 00:03:50.990 align:start position:0%
+that's not a problem review end up
+having<00:03:49.260><c> a</c><00:03:49.290><c> different</c><00:03:49.620><c> feature</c><00:03:49.769><c> that</c><00:03:50.579><c> winds</c><00:03:50.790><c> up</c>
+
+00:03:50.990 --> 00:03:51.000 align:start position:0%
+having a different feature that winds up
+ 
+
+00:03:51.000 --> 00:03:53.150 align:start position:0%
+having a different feature that winds up
+being<00:03:51.360><c> between</c><00:03:51.660><c> you</c><00:03:51.900><c> know</c><00:03:52.019><c> minus</c><00:03:52.530><c> 2</c><00:03:52.799><c> and</c>
+
+00:03:53.150 --> 00:03:53.160 align:start position:0%
+being between you know minus 2 and
+ 
+
+00:03:53.160 --> 00:03:55.759 align:start position:0%
+being between you know minus 2 and
+positive<00:03:54.090><c> 0.5</c><00:03:54.810><c> again</c><00:03:55.170><c> this</c><00:03:55.320><c> is</c><00:03:55.470><c> close</c><00:03:55.650><c> enough</c>
+
+00:03:55.759 --> 00:03:55.769 align:start position:0%
+positive 0.5 again this is close enough
+ 
+
+00:03:55.769 --> 00:03:57.920 align:start position:0%
+positive 0.5 again this is close enough
+to<00:03:56.220><c> minus</c><00:03:56.549><c> 1</c><00:03:56.700><c> and</c><00:03:56.730><c> plus</c><00:03:56.940><c> 1</c><00:03:57.090><c> that</c><00:03:57.540><c> you</c><00:03:57.840><c> know</c>
+
+00:03:57.920 --> 00:03:57.930 align:start position:0%
+to minus 1 and plus 1 that you know
+ 
+
+00:03:57.930 --> 00:03:59.600 align:start position:0%
+to minus 1 and plus 1 that you know
+that's<00:03:58.290><c> fine</c><00:03:58.530><c> that's</c><00:03:59.130><c> fine</c>
+
+00:03:59.600 --> 00:03:59.610 align:start position:0%
+that's fine that's fine
+ 
+
+00:03:59.610 --> 00:04:01.789 align:start position:0%
+that's fine that's fine
+as<00:04:00.360><c> only</c><00:04:00.630><c> if</c><00:04:00.810><c> you</c><00:04:00.930><c> have</c><00:04:01.079><c> a</c><00:04:01.110><c> different</c><00:04:01.680><c> feature</c>
+
+00:04:01.789 --> 00:04:01.799 align:start position:0%
+as only if you have a different feature
+ 
+
+00:04:01.799 --> 00:04:06.350 align:start position:0%
+as only if you have a different feature
+say<00:04:02.250><c> x3</c><00:04:02.880><c> that</c><00:04:03.510><c> is</c><00:04:03.690><c> between</c><00:04:04.079><c> say</c><00:04:04.950><c> their</c><00:04:05.940><c> ranges</c>
+
+00:04:06.350 --> 00:04:06.360 align:start position:0%
+say x3 that is between say their ranges
+ 
+
+00:04:06.360 --> 00:04:10.190 align:start position:0%
+say x3 that is between say their ranges
+from<00:04:06.540><c> minus</c><00:04:07.079><c> 100</c><00:04:07.829><c> to</c><00:04:08.100><c> plus</c><00:04:08.430><c> 100</c><00:04:09.090><c> then</c><00:04:09.690><c> you</c><00:04:09.989><c> know</c>
+
+00:04:10.190 --> 00:04:10.200 align:start position:0%
+from minus 100 to plus 100 then you know
+ 
+
+00:04:10.200 --> 00:04:12.470 align:start position:0%
+from minus 100 to plus 100 then you know
+this<00:04:10.470><c> is</c><00:04:10.590><c> a</c><00:04:10.620><c> very</c><00:04:11.280><c> different</c><00:04:11.579><c> range</c><00:04:11.940><c> of</c><00:04:12.120><c> values</c>
+
+00:04:12.470 --> 00:04:12.480 align:start position:0%
+this is a very different range of values
+ 
+
+00:04:12.480 --> 00:04:14.840 align:start position:0%
+this is a very different range of values
+than<00:04:12.720><c> minus</c><00:04:13.049><c> 1</c><00:04:13.230><c> and</c><00:04:13.380><c> plus</c><00:04:13.530><c> 1</c><00:04:13.620><c> so</c><00:04:14.130><c> so</c><00:04:14.430><c> this</c><00:04:14.670><c> might</c>
+
+00:04:14.840 --> 00:04:14.850 align:start position:0%
+than minus 1 and plus 1 so so this might
+ 
+
+00:04:14.850 --> 00:04:15.600 align:start position:0%
+than minus 1 and plus 1 so so this might
+be<00:04:15.000><c> a</c><00:04:15.030><c> less</c>
+
+00:04:15.600 --> 00:04:15.610 align:start position:0%
+be a less
+ 
+
+00:04:15.610 --> 00:04:18.300 align:start position:0%
+be a less
+scale<00:04:15.880><c> feature</c><00:04:16.150><c> and</c><00:04:16.859><c> similarly</c><00:04:17.859><c> if</c><00:04:18.160><c> your</c>
+
+00:04:18.300 --> 00:04:18.310 align:start position:0%
+scale feature and similarly if your
+ 
+
+00:04:18.310 --> 00:04:20.580 align:start position:0%
+scale feature and similarly if your
+features<00:04:18.670><c> take</c><00:04:18.700><c> on</c><00:04:19.120><c> a</c><00:04:19.390><c> very</c><00:04:19.690><c> very</c><00:04:19.959><c> small</c><00:04:20.290><c> range</c>
+
+00:04:20.580 --> 00:04:20.590 align:start position:0%
+features take on a very very small range
+ 
+
+00:04:20.590 --> 00:04:23.220 align:start position:0%
+features take on a very very small range
+of<00:04:20.739><c> values</c><00:04:20.799><c> so</c><00:04:21.430><c> if</c><00:04:21.609><c> x4</c><00:04:22.180><c> takes</c><00:04:22.600><c> on</c><00:04:22.780><c> values</c>
+
+00:04:23.220 --> 00:04:23.230 align:start position:0%
+of values so if x4 takes on values
+ 
+
+00:04:23.230 --> 00:04:28.740 align:start position:0%
+of values so if x4 takes on values
+between<00:04:23.260><c> minus</c><00:04:24.030><c> 0.0001</c><00:04:25.030><c> and</c><00:04:25.800><c> positive</c><00:04:27.750><c> 0.0001</c>
+
+00:04:28.740 --> 00:04:28.750 align:start position:0%
+between minus 0.0001 and positive 0.0001
+ 
+
+00:04:28.750 --> 00:04:31.020 align:start position:0%
+between minus 0.0001 and positive 0.0001
+then<00:04:29.740><c> again</c><00:04:30.010><c> this</c><00:04:30.250><c> thing's</c><00:04:30.520><c> on</c><00:04:30.700><c> a</c><00:04:30.730><c> much</c>
+
+00:04:31.020 --> 00:04:31.030 align:start position:0%
+then again this thing's on a much
+ 
+
+00:04:31.030 --> 00:04:33.180 align:start position:0%
+then again this thing's on a much
+smaller<00:04:31.480><c> range</c><00:04:31.780><c> of</c><00:04:32.020><c> values</c><00:04:32.380><c> than</c><00:04:32.620><c> the</c><00:04:32.650><c> minus</c><00:04:33.010><c> 1</c>
+
+00:04:33.180 --> 00:04:33.190 align:start position:0%
+smaller range of values than the minus 1
+ 
+
+00:04:33.190 --> 00:04:34.950 align:start position:0%
+smaller range of values than the minus 1
+to<00:04:33.310><c> +1</c><00:04:33.550><c> range</c><00:04:33.970><c> and</c><00:04:34.180><c> again</c><00:04:34.240><c> I</c><00:04:34.540><c> would</c><00:04:34.660><c> consider</c>
+
+00:04:34.950 --> 00:04:34.960 align:start position:0%
+to +1 range and again I would consider
+ 
+
+00:04:34.960 --> 00:04:38.550 align:start position:0%
+to +1 range and again I would consider
+this<00:04:35.260><c> feature</c><00:04:35.590><c> wholly</c><00:04:36.460><c> scaled</c><00:04:36.990><c> so</c><00:04:37.990><c> you</c><00:04:38.050><c> want</c>
+
+00:04:38.550 --> 00:04:38.560 align:start position:0%
+this feature wholly scaled so you want
+ 
+
+00:04:38.560 --> 00:04:40.680 align:start position:0%
+this feature wholly scaled so you want
+the<00:04:38.770><c> range</c><00:04:39.100><c> of</c><00:04:39.250><c> values</c><00:04:39.370><c> you</c><00:04:40.000><c> know</c><00:04:40.120><c> it</c><00:04:40.270><c> can</c><00:04:40.390><c> be</c><00:04:40.510><c> a</c>
+
+00:04:40.680 --> 00:04:40.690 align:start position:0%
+the range of values you know it can be a
+ 
+
+00:04:40.690 --> 00:04:42.450 align:start position:0%
+the range of values you know it can be a
+bit<00:04:41.140><c> bigger</c><00:04:41.320><c> than</c><00:04:41.410><c> plus</c><00:04:41.680><c> 1</c><00:04:41.890><c> is</c><00:04:42.100><c> smaller</c><00:04:42.340><c> than</c>
+
+00:04:42.450 --> 00:04:42.460 align:start position:0%
+bit bigger than plus 1 is smaller than
+ 
+
+00:04:42.460 --> 00:04:45.180 align:start position:0%
+bit bigger than plus 1 is smaller than
+plus<00:04:42.760><c> 1</c><00:04:43.000><c> but</c><00:04:43.750><c> just</c><00:04:44.050><c> not</c><00:04:44.260><c> much</c><00:04:44.560><c> bigger</c><00:04:44.770><c> like</c>
+
+00:04:45.180 --> 00:04:45.190 align:start position:0%
+plus 1 but just not much bigger like
+ 
+
+00:04:45.190 --> 00:04:48.150 align:start position:0%
+plus 1 but just not much bigger like
+plus<00:04:45.430><c> 100</c><00:04:46.000><c> here</c><00:04:46.270><c> and</c><00:04:46.470><c> not</c><00:04:47.470><c> too</c><00:04:47.680><c> much</c><00:04:47.800><c> smaller</c>
+
+00:04:48.150 --> 00:04:48.160 align:start position:0%
+plus 100 here and not too much smaller
+ 
+
+00:04:48.160 --> 00:04:51.570 align:start position:0%
+plus 100 here and not too much smaller
+like<00:04:48.490><c> 0.001</c><00:04:49.330><c> over</c><00:04:50.050><c> there</c><00:04:50.200><c> different</c><00:04:51.130><c> people</c>
+
+00:04:51.570 --> 00:04:51.580 align:start position:0%
+like 0.001 over there different people
+ 
+
+00:04:51.580 --> 00:04:53.100 align:start position:0%
+like 0.001 over there different people
+have<00:04:51.790><c> different</c><00:04:51.820><c> rules</c><00:04:52.390><c> of</c><00:04:52.540><c> thumb</c><00:04:52.840><c> but</c><00:04:53.050><c> the</c>
+
+00:04:53.100 --> 00:04:53.110 align:start position:0%
+have different rules of thumb but the
+ 
+
+00:04:53.110 --> 00:04:54.990 align:start position:0%
+have different rules of thumb but the
+one<00:04:53.260><c> that</c><00:04:53.380><c> I</c><00:04:53.530><c> use</c><00:04:53.800><c> is</c><00:04:54.070><c> that</c><00:04:54.100><c> if</c><00:04:54.610><c> a</c><00:04:54.760><c> feature</c>
+
+00:04:54.990 --> 00:04:55.000 align:start position:0%
+one that I use is that if a feature
+ 
+
+00:04:55.000 --> 00:04:57.150 align:start position:0%
+one that I use is that if a feature
+takes<00:04:55.660><c> on</c><00:04:55.840><c> the</c><00:04:55.930><c> range</c><00:04:56.110><c> of</c><00:04:56.290><c> values</c><00:04:56.650><c> from</c><00:04:56.890><c> say</c>
+
+00:04:57.150 --> 00:04:57.160 align:start position:0%
+takes on the range of values from say
+ 
+
+00:04:57.160 --> 00:04:59.880 align:start position:0%
+takes on the range of values from say
+minus<00:04:57.400><c> 3</c><00:04:57.820><c> to</c><00:04:58.450><c> plus</c><00:04:58.480><c> 3</c><00:04:58.990><c> I</c><00:04:59.020><c> usually</c><00:04:59.560><c> think</c><00:04:59.740><c> that</c>
+
+00:04:59.880 --> 00:04:59.890 align:start position:0%
+minus 3 to plus 3 I usually think that
+ 
+
+00:04:59.890 --> 00:05:00.930 align:start position:0%
+minus 3 to plus 3 I usually think that
+should<00:05:00.190><c> be</c><00:05:00.250><c> just</c><00:05:00.400><c> fine</c>
+
+00:05:00.930 --> 00:05:00.940 align:start position:0%
+should be just fine
+ 
+
+00:05:00.940 --> 00:05:02.909 align:start position:0%
+should be just fine
+but<00:05:01.690><c> maybe</c><00:05:01.870><c> if</c><00:05:02.080><c> it</c><00:05:02.169><c> takes</c><00:05:02.350><c> on</c><00:05:02.500><c> much</c><00:05:02.740><c> larger</c>
+
+00:05:02.909 --> 00:05:02.919 align:start position:0%
+but maybe if it takes on much larger
+ 
+
+00:05:02.919 --> 00:05:04.980 align:start position:0%
+but maybe if it takes on much larger
+values<00:05:03.430><c> than</c><00:05:03.580><c> plus</c><00:05:03.760><c> 3</c><00:05:03.970><c> or</c><00:05:04.060><c> minus</c><00:05:04.180><c> VMs</c><00:05:04.720><c> not</c><00:05:04.870><c> to</c>
+
+00:05:04.980 --> 00:05:04.990 align:start position:0%
+values than plus 3 or minus VMs not to
+ 
+
+00:05:04.990 --> 00:05:08.340 align:start position:0%
+values than plus 3 or minus VMs not to
+worry<00:05:05.200><c> and</c><00:05:05.610><c> if</c><00:05:06.610><c> it</c><00:05:06.850><c> takes</c><00:05:07.120><c> on</c><00:05:07.390><c> values</c><00:05:07.870><c> from</c><00:05:07.900><c> say</c>
+
+00:05:08.340 --> 00:05:08.350 align:start position:0%
+worry and if it takes on values from say
+ 
+
+00:05:08.350 --> 00:05:11.490 align:start position:0%
+worry and if it takes on values from say
+minus<00:05:08.680><c> one</c><00:05:09.040><c> third</c><00:05:09.310><c> to</c><00:05:09.700><c> one</c><00:05:09.730><c> third</c><00:05:10.210><c> you</c><00:05:11.050><c> know</c><00:05:11.200><c> I</c>
+
+00:05:11.490 --> 00:05:11.500 align:start position:0%
+minus one third to one third you know I
+ 
+
+00:05:11.500 --> 00:05:13.290 align:start position:0%
+minus one third to one third you know I
+think<00:05:11.740><c> that's</c><00:05:11.980><c> fine</c><00:05:12.250><c> too</c><00:05:12.460><c> or</c><00:05:12.669><c> zero</c><00:05:13.000><c> to</c><00:05:13.060><c> one</c>
+
+00:05:13.290 --> 00:05:13.300 align:start position:0%
+think that's fine too or zero to one
+ 
+
+00:05:13.300 --> 00:05:15.000 align:start position:0%
+think that's fine too or zero to one
+third<00:05:13.540><c> of</c><00:05:13.570><c> the</c><00:05:13.690><c> minus</c><00:05:13.990><c> one</c><00:05:14.140><c> third</c><00:05:14.320><c> to</c><00:05:14.470><c> zero</c><00:05:14.800><c> or</c>
+
+00:05:15.000 --> 00:05:15.010 align:start position:0%
+third of the minus one third to zero or
+ 
+
+00:05:15.010 --> 00:05:16.980 align:start position:0%
+third of the minus one third to zero or
+just<00:05:15.040><c> that's</c><00:05:15.490><c> that's</c><00:05:15.970><c> typical</c><00:05:16.630><c> range</c><00:05:16.840><c> of</c>
+
+00:05:16.980 --> 00:05:16.990 align:start position:0%
+just that's that's typical range of
+ 
+
+00:05:16.990 --> 00:05:19.170 align:start position:0%
+just that's that's typical range of
+values<00:05:17.290><c> cycle</c><00:05:17.590><c> zero</c><00:05:17.830><c> okay</c><00:05:18.100><c> but</c><00:05:18.730><c> if</c><00:05:18.880><c> it</c><00:05:19.000><c> takes</c>
+
+00:05:19.170 --> 00:05:19.180 align:start position:0%
+values cycle zero okay but if it takes
+ 
+
+00:05:19.180 --> 00:05:21.420 align:start position:0%
+values cycle zero okay but if it takes
+on<00:05:19.330><c> a</c><00:05:19.360><c> much</c><00:05:19.540><c> tinier</c><00:05:20.140><c> range</c><00:05:20.350><c> of</c><00:05:20.470><c> values</c><00:05:20.830><c> like</c><00:05:21.040><c> x4</c>
+
+00:05:21.420 --> 00:05:21.430 align:start position:0%
+on a much tinier range of values like x4
+ 
+
+00:05:21.430 --> 00:05:23.070 align:start position:0%
+on a much tinier range of values like x4
+here<00:05:21.640><c> and</c><00:05:21.970><c> then</c><00:05:22.240><c> again</c><00:05:22.510><c> on</c><00:05:22.630><c> might</c><00:05:22.780><c> start</c><00:05:22.990><c> to</c>
+
+00:05:23.070 --> 00:05:23.080 align:start position:0%
+here and then again on might start to
+ 
+
+00:05:23.080 --> 00:05:26.070 align:start position:0%
+here and then again on might start to
+worry<00:05:23.260><c> so</c><00:05:23.950><c> the</c><00:05:24.610><c> take-home</c><00:05:24.940><c> message</c><00:05:25.419><c> is</c><00:05:25.630><c> don't</c>
+
+00:05:26.070 --> 00:05:26.080 align:start position:0%
+worry so the take-home message is don't
+ 
+
+00:05:26.080 --> 00:05:28.409 align:start position:0%
+worry so the take-home message is don't
+worry<00:05:26.380><c> if</c><00:05:26.740><c> your</c><00:05:26.950><c> features</c><00:05:27.250><c> are</c><00:05:27.610><c> not</c><00:05:27.790><c> exactly</c>
+
+00:05:28.409 --> 00:05:28.419 align:start position:0%
+worry if your features are not exactly
+ 
+
+00:05:28.419 --> 00:05:30.420 align:start position:0%
+worry if your features are not exactly
+on<00:05:28.510><c> the</c><00:05:28.840><c> same</c><00:05:29.050><c> scale</c><00:05:29.410><c> or</c><00:05:29.620><c> exactly</c><00:05:30.070><c> in</c><00:05:30.190><c> the</c><00:05:30.280><c> same</c>
+
+00:05:30.420 --> 00:05:30.430 align:start position:0%
+on the same scale or exactly in the same
+ 
+
+00:05:30.430 --> 00:05:31.920 align:start position:0%
+on the same scale or exactly in the same
+range<00:05:30.669><c> of</c><00:05:30.790><c> values</c><00:05:31.120><c> but</c><00:05:31.300><c> so</c><00:05:31.479><c> long</c><00:05:31.660><c> as</c><00:05:31.780><c> they're</c>
+
+00:05:31.920 --> 00:05:31.930 align:start position:0%
+range of values but so long as they're
+ 
+
+00:05:31.930 --> 00:05:34.080 align:start position:0%
+range of values but so long as they're
+all<00:05:31.960><c> close</c><00:05:32.350><c> enough</c><00:05:32.650><c> to</c><00:05:32.770><c> this</c><00:05:33.090><c> gradient</c>
+
+00:05:34.080 --> 00:05:34.090 align:start position:0%
+all close enough to this gradient
+ 
+
+00:05:34.090 --> 00:05:36.719 align:start position:0%
+all close enough to this gradient
+descent<00:05:34.510><c> should</c><00:05:34.780><c> work</c><00:05:35.020><c> okay</c><00:05:35.200><c> in</c><00:05:35.919><c> addition</c><00:05:36.550><c> to</c>
+
+00:05:36.719 --> 00:05:36.729 align:start position:0%
+descent should work okay in addition to
+ 
+
+00:05:36.729 --> 00:05:39.510 align:start position:0%
+descent should work okay in addition to
+dividing<00:05:37.419><c> by</c><00:05:37.720><c> so</c><00:05:38.110><c> that</c><00:05:38.140><c> the</c><00:05:38.290><c> maximum</c><00:05:38.520><c> value</c>
+
+00:05:39.510 --> 00:05:39.520 align:start position:0%
+dividing by so that the maximum value
+ 
+
+00:05:39.520 --> 00:05:41.570 align:start position:0%
+dividing by so that the maximum value
+when<00:05:40.120><c> performing</c><00:05:40.720><c> feature</c><00:05:40.930><c> scaling</c>
+
+00:05:41.570 --> 00:05:41.580 align:start position:0%
+when performing feature scaling
+ 
+
+00:05:41.580 --> 00:05:44.460 align:start position:0%
+when performing feature scaling
+sometimes<00:05:42.580><c> people</c><00:05:43.060><c> will</c><00:05:43.180><c> also</c><00:05:43.360><c> do</c><00:05:43.840><c> what's</c>
+
+00:05:44.460 --> 00:05:44.470 align:start position:0%
+sometimes people will also do what's
+ 
+
+00:05:44.470 --> 00:05:46.980 align:start position:0%
+sometimes people will also do what's
+called<00:05:44.680><c> mean</c><00:05:44.979><c> normalization</c><00:05:45.490><c> and</c><00:05:46.120><c> what</c><00:05:46.960><c> I</c>
+
+00:05:46.980 --> 00:05:46.990 align:start position:0%
+called mean normalization and what I
+ 
+
+00:05:46.990 --> 00:05:48.480 align:start position:0%
+called mean normalization and what I
+mean<00:05:47.140><c> by</c><00:05:47.200><c> that</c><00:05:47.500><c> is</c><00:05:47.800><c> that</c><00:05:47.979><c> you</c><00:05:48.160><c> might</c><00:05:48.310><c> take</c><00:05:48.460><c> a</c>
+
+00:05:48.480 --> 00:05:48.490 align:start position:0%
+mean by that is that you might take a
+ 
+
+00:05:48.490 --> 00:05:51.000 align:start position:0%
+mean by that is that you might take a
+feature<00:05:48.729><c> X</c><00:05:49.030><c> I</c><00:05:49.180><c> and</c><00:05:49.450><c> replace</c><00:05:50.140><c> it</c><00:05:50.350><c> with</c><00:05:50.620><c> X</c><00:05:50.830><c> I</c>
+
+00:05:51.000 --> 00:05:51.010 align:start position:0%
+feature X I and replace it with X I
+ 
+
+00:05:51.010 --> 00:05:54.270 align:start position:0%
+feature X I and replace it with X I
+minus<00:05:51.490><c> mu</c><00:05:51.700><c> I</c><00:05:52.110><c> to</c><00:05:53.110><c> make</c><00:05:53.350><c> your</c><00:05:53.530><c> features</c><00:05:53.950><c> have</c>
+
+00:05:54.270 --> 00:05:54.280 align:start position:0%
+minus mu I to make your features have
+ 
+
+00:05:54.280 --> 00:05:57.690 align:start position:0%
+minus mu I to make your features have
+approximately<00:05:55.090><c> zero</c><00:05:55.510><c> mean</c><00:05:55.780><c> and</c><00:05:56.580><c> obviously</c><00:05:57.580><c> we</c>
+
+00:05:57.690 --> 00:05:57.700 align:start position:0%
+approximately zero mean and obviously we
+ 
+
+00:05:57.700 --> 00:05:59.940 align:start position:0%
+approximately zero mean and obviously we
+won't<00:05:57.820><c> apply</c><00:05:58.150><c> this</c><00:05:58.240><c> to</c><00:05:58.780><c> the</c><00:05:59.080><c> feature</c><00:05:59.530><c> x0</c>
+
+00:05:59.940 --> 00:05:59.950 align:start position:0%
+won't apply this to the feature x0
+ 
+
+00:05:59.950 --> 00:06:02.250 align:start position:0%
+won't apply this to the feature x0
+because<00:06:00.520><c> the</c><00:06:00.669><c> feature</c><00:06:00.880><c> x0</c><00:06:01.180><c> is</c><00:06:01.660><c> always</c><00:06:01.960><c> equal</c>
+
+00:06:02.250 --> 00:06:02.260 align:start position:0%
+because the feature x0 is always equal
+ 
+
+00:06:02.260 --> 00:06:04.200 align:start position:0%
+because the feature x0 is always equal
+to<00:06:02.290><c> one</c><00:06:02.470><c> so</c><00:06:02.680><c> it</c><00:06:03.040><c> cannot</c><00:06:03.340><c> have</c><00:06:03.580><c> an</c><00:06:03.729><c> average</c><00:06:04.090><c> of</c>
+
+00:06:04.200 --> 00:06:04.210 align:start position:0%
+to one so it cannot have an average of
+ 
+
+00:06:04.210 --> 00:06:07.920 align:start position:0%
+to one so it cannot have an average of
+value<00:06:04.810><c> of</c><00:06:04.900><c> 0</c><00:06:05.520><c> but</c><00:06:06.520><c> concretely</c><00:06:07.030><c> for</c><00:06:07.390><c> other</c>
+
+00:06:07.920 --> 00:06:07.930 align:start position:0%
+value of 0 but concretely for other
+ 
+
+00:06:07.930 --> 00:06:10.380 align:start position:0%
+value of 0 but concretely for other
+features<00:06:08.350><c> if</c><00:06:08.650><c> the</c><00:06:08.919><c> range</c><00:06:09.550><c> of</c><00:06:09.669><c> sizes</c><00:06:09.729><c> of</c><00:06:10.180><c> a</c>
+
+00:06:10.380 --> 00:06:10.390 align:start position:0%
+features if the range of sizes of a
+ 
+
+00:06:10.390 --> 00:06:13.380 align:start position:0%
+features if the range of sizes of a
+house<00:06:10.570><c> takes</c><00:06:11.200><c> on</c><00:06:11.380><c> values</c><00:06:11.890><c> between</c><00:06:12.360><c> zero</c><00:06:13.360><c> to</c>
+
+00:06:13.380 --> 00:06:13.390 align:start position:0%
+house takes on values between zero to
+ 
+
+00:06:13.390 --> 00:06:15.780 align:start position:0%
+house takes on values between zero to
+two<00:06:13.660><c> thousand</c><00:06:14.110><c> and</c><00:06:14.320><c> if</c><00:06:14.890><c> you</c><00:06:15.100><c> know</c><00:06:15.220><c> the</c><00:06:15.400><c> average</c>
+
+00:06:15.780 --> 00:06:15.790 align:start position:0%
+two thousand and if you know the average
+ 
+
+00:06:15.790 --> 00:06:18.800 align:start position:0%
+two thousand and if you know the average
+size<00:06:16.030><c> of</c><00:06:16.270><c> a</c><00:06:16.360><c> house</c><00:06:16.540><c> is</c><00:06:16.930><c> equal</c><00:06:17.770><c> to</c><00:06:17.890><c> one</c><00:06:18.040><c> thousand</c>
+
+00:06:18.800 --> 00:06:18.810 align:start position:0%
+size of a house is equal to one thousand
+ 
+
+00:06:18.810 --> 00:06:24.870 align:start position:0%
+size of a house is equal to one thousand
+then<00:06:19.810><c> you</c><00:06:20.110><c> might</c><00:06:20.640><c> use</c><00:06:21.640><c> this</c><00:06:21.880><c> formula</c><00:06:23.130><c> size</c><00:06:24.130><c> set</c>
+
+00:06:24.870 --> 00:06:24.880 align:start position:0%
+then you might use this formula size set
+ 
+
+00:06:24.880 --> 00:06:26.640 align:start position:0%
+then you might use this formula size set
+the<00:06:25.030><c> feature</c><00:06:25.210><c> x1</c><00:06:25.510><c> to</c><00:06:25.810><c> the</c><00:06:25.840><c> size</c><00:06:26.140><c> minus</c><00:06:26.560><c> the</c>
+
+00:06:26.640 --> 00:06:26.650 align:start position:0%
+the feature x1 to the size minus the
+ 
+
+00:06:26.650 --> 00:06:27.380 align:start position:0%
+the feature x1 to the size minus the
+average<00:06:26.770><c> value</c>
+
+00:06:27.380 --> 00:06:27.390 align:start position:0%
+average value
+ 
+
+00:06:27.390 --> 00:06:31.790 align:start position:0%
+average value
+/<00:06:28.190><c> mm</c><00:06:29.190><c> and</c><00:06:29.870><c> similarly</c><00:06:30.870><c> if</c><00:06:31.140><c> you</c><00:06:31.470><c> know</c><00:06:31.620><c> on</c>
+
+00:06:31.790 --> 00:06:31.800 align:start position:0%
+/ mm and similarly if you know on
+ 
+
+00:06:31.800 --> 00:06:35.120 align:start position:0%
+/ mm and similarly if you know on
+average<00:06:32.250><c> if</c><00:06:32.580><c> your</c><00:06:33.540><c> houses</c><00:06:34.020><c> have</c><00:06:34.290><c> one</c><00:06:34.710><c> to</c><00:06:34.920><c> five</c>
+
+00:06:35.120 --> 00:06:35.130 align:start position:0%
+average if your houses have one to five
+ 
+
+00:06:35.130 --> 00:06:39.650 align:start position:0%
+average if your houses have one to five
+bedrooms<00:06:35.790><c> and</c><00:06:36.860><c> if</c><00:06:37.910><c> number</c><00:06:38.910><c> of</c><00:06:39.030><c> and</c><00:06:39.360><c> if</c><00:06:39.510><c> on</c>
+
+00:06:39.650 --> 00:06:39.660 align:start position:0%
+bedrooms and if number of and if on
+ 
+
+00:06:39.660 --> 00:06:41.540 align:start position:0%
+bedrooms and if number of and if on
+average<00:06:39.840><c> a</c><00:06:40.170><c> house</c><00:06:40.380><c> has</c><00:06:40.620><c> say</c><00:06:40.860><c> two</c><00:06:40.920><c> bedrooms</c>
+
+00:06:41.540 --> 00:06:41.550 align:start position:0%
+average a house has say two bedrooms
+ 
+
+00:06:41.550 --> 00:06:44.960 align:start position:0%
+average a house has say two bedrooms
+then<00:06:41.820><c> you</c><00:06:41.970><c> might</c><00:06:42.120><c> use</c><00:06:42.270><c> this</c><00:06:42.510><c> formula</c><00:06:43.080><c> to</c><00:06:43.970><c> mean</c>
+
+00:06:44.960 --> 00:06:44.970 align:start position:0%
+then you might use this formula to mean
+ 
+
+00:06:44.970 --> 00:06:49.280 align:start position:0%
+then you might use this formula to mean
+normalize<00:06:45.570><c> the</c><00:06:46.230><c> your</c><00:06:46.830><c> second</c><00:06:47.160><c> feature</c><00:06:47.340><c> x2</c><00:06:48.290><c> in</c>
+
+00:06:49.280 --> 00:06:49.290 align:start position:0%
+normalize the your second feature x2 in
+ 
+
+00:06:49.290 --> 00:06:51.350 align:start position:0%
+normalize the your second feature x2 in
+both<00:06:49.740><c> of</c><00:06:49.920><c> these</c><00:06:50.010><c> cases</c><00:06:50.280><c> you</c><00:06:50.850><c> therefore</c><00:06:51.180><c> wind</c>
+
+00:06:51.350 --> 00:06:51.360 align:start position:0%
+both of these cases you therefore wind
+ 
+
+00:06:51.360 --> 00:06:53.690 align:start position:0%
+both of these cases you therefore wind
+up<00:06:51.600><c> with</c><00:06:51.780><c> features</c><00:06:52.170><c> x1</c><00:06:52.530><c> and</c><00:06:52.650><c> x2</c><00:06:53.010><c> they</c><00:06:53.370><c> can</c><00:06:53.520><c> take</c>
+
+00:06:53.690 --> 00:06:53.700 align:start position:0%
+up with features x1 and x2 they can take
+ 
+
+00:06:53.700 --> 00:06:55.850 align:start position:0%
+up with features x1 and x2 they can take
+on<00:06:53.850><c> values</c><00:06:54.120><c> roughly</c><00:06:54.840><c> between</c><00:06:55.020><c> minus</c><00:06:55.500><c> point</c><00:06:55.680><c> 5</c>
+
+00:06:55.850 --> 00:06:55.860 align:start position:0%
+on values roughly between minus point 5
+ 
+
+00:06:55.860 --> 00:06:57.620 align:start position:0%
+on values roughly between minus point 5
+and<00:06:56.070><c> positive</c><00:06:56.220><c> point</c><00:06:56.580><c> five</c><00:06:56.820><c> forms</c><00:06:57.210><c> a</c><00:06:57.360><c> key</c><00:06:57.420><c> not</c>
+
+00:06:57.620 --> 00:06:57.630 align:start position:0%
+and positive point five forms a key not
+ 
+
+00:06:57.630 --> 00:06:59.420 align:start position:0%
+and positive point five forms a key not
+true<00:06:57.810><c> x2</c><00:06:58.200><c> can</c><00:06:58.410><c> actually</c><00:06:58.650><c> be</c><00:06:58.740><c> slightly</c><00:06:59.010><c> larger</c>
+
+00:06:59.420 --> 00:06:59.430 align:start position:0%
+true x2 can actually be slightly larger
+ 
+
+00:06:59.430 --> 00:07:00.860 align:start position:0%
+true x2 can actually be slightly larger
+than<00:06:59.460><c> point</c><00:06:59.940><c> five</c><00:07:00.000><c> but</c><00:07:00.390><c> you</c><00:07:00.540><c> know</c><00:07:00.630><c> close</c>
+
+00:07:00.860 --> 00:07:00.870 align:start position:0%
+than point five but you know close
+ 
+
+00:07:00.870 --> 00:07:03.350 align:start position:0%
+than point five but you know close
+enough<00:07:01.170><c> and</c><00:07:01.380><c> the</c><00:07:02.190><c> more</c><00:07:02.370><c> general</c><00:07:02.400><c> rule</c><00:07:03.060><c> is</c><00:07:03.300><c> that</c>
+
+00:07:03.350 --> 00:07:03.360 align:start position:0%
+enough and the more general rule is that
+ 
+
+00:07:03.360 --> 00:07:06.740 align:start position:0%
+enough and the more general rule is that
+you<00:07:04.080><c> might</c><00:07:04.290><c> take</c><00:07:04.830><c> a</c><00:07:04.890><c> feature</c><00:07:05.160><c> x1</c><00:07:05.490><c> and</c><00:07:05.880><c> replace</c>
+
+00:07:06.740 --> 00:07:06.750 align:start position:0%
+you might take a feature x1 and replace
+ 
+
+00:07:06.750 --> 00:07:13.610 align:start position:0%
+you might take a feature x1 and replace
+it<00:07:06.960><c> with</c><00:07:07.070><c> X</c><00:07:08.070><c> 1</c><00:07:08.430><c> minus</c><00:07:09.320><c> nu</c><00:07:10.320><c> 1</c><00:07:10.560><c> over</c><00:07:11.280><c> s</c><00:07:11.580><c> 1</c><00:07:12.320><c> where</c><00:07:13.320><c> to</c>
+
+00:07:13.610 --> 00:07:13.620 align:start position:0%
+it with X 1 minus nu 1 over s 1 where to
+ 
+
+00:07:13.620 --> 00:07:16.580 align:start position:0%
+it with X 1 minus nu 1 over s 1 where to
+define<00:07:13.950><c> these</c><00:07:14.100><c> terms</c><00:07:14.340><c> nu</c><00:07:15.210><c> 1</c><00:07:15.450><c> is</c><00:07:15.690><c> the</c><00:07:16.350><c> average</c>
+
+00:07:16.580 --> 00:07:16.590 align:start position:0%
+define these terms nu 1 is the average
+ 
+
+00:07:16.590 --> 00:07:23.300 align:start position:0%
+define these terms nu 1 is the average
+value<00:07:17.040><c> of</c><00:07:17.600><c> x1</c><00:07:18.600><c> in</c><00:07:19.910><c> the</c><00:07:20.910><c> training</c><00:07:21.300><c> set</c><00:07:21.510><c> and</c><00:07:22.310><c> s1</c>
+
+00:07:23.300 --> 00:07:23.310 align:start position:0%
+value of x1 in the training set and s1
+ 
+
+00:07:23.310 --> 00:07:28.040 align:start position:0%
+value of x1 in the training set and s1
+is<00:07:23.580><c> the</c><00:07:23.660><c> range</c><00:07:24.660><c> of</c><00:07:25.050><c> values</c><00:07:25.590><c> of</c><00:07:26.810><c> that</c><00:07:27.810><c> feature</c>
+
+00:07:28.040 --> 00:07:28.050 align:start position:0%
+is the range of values of that feature
+ 
+
+00:07:28.050 --> 00:07:30.140 align:start position:0%
+is the range of values of that feature
+and<00:07:28.470><c> by</c><00:07:28.590><c> range</c><00:07:28.860><c> I</c><00:07:29.070><c> mean</c><00:07:29.100><c> let's</c><00:07:29.520><c> say</c><00:07:29.610><c> the</c>
+
+00:07:30.140 --> 00:07:30.150 align:start position:0%
+and by range I mean let's say the
+ 
+
+00:07:30.150 --> 00:07:32.930 align:start position:0%
+and by range I mean let's say the
+maximum<00:07:30.360><c> value</c><00:07:31.020><c> minus</c><00:07:31.800><c> the</c><00:07:31.950><c> minimum</c><00:07:32.130><c> value</c><00:07:32.760><c> or</c>
+
+00:07:32.930 --> 00:07:32.940 align:start position:0%
+maximum value minus the minimum value or
+ 
+
+00:07:32.940 --> 00:07:34.730 align:start position:0%
+maximum value minus the minimum value or
+for<00:07:33.690><c> those</c><00:07:33.810><c> of</c><00:07:33.870><c> you</c><00:07:34.050><c> that</c><00:07:34.200><c> know</c><00:07:34.470><c> what</c><00:07:34.650><c> the</c>
+
+00:07:34.730 --> 00:07:34.740 align:start position:0%
+for those of you that know what the
+ 
+
+00:07:34.740 --> 00:07:36.620 align:start position:0%
+for those of you that know what the
+standard<00:07:35.100><c> deviation</c><00:07:35.130><c> of</c><00:07:35.910><c> a</c><00:07:36.060><c> variable</c><00:07:36.360><c> is</c>
+
+00:07:36.620 --> 00:07:36.630 align:start position:0%
+standard deviation of a variable is
+ 
+
+00:07:36.630 --> 00:07:39.140 align:start position:0%
+standard deviation of a variable is
+setting<00:07:37.320><c> s1</c><00:07:37.740><c> to</c><00:07:37.920><c> be</c><00:07:38.040><c> the</c><00:07:38.160><c> standard</c><00:07:38.550><c> deviation</c>
+
+00:07:39.140 --> 00:07:39.150 align:start position:0%
+setting s1 to be the standard deviation
+ 
+
+00:07:39.150 --> 00:07:41.150 align:start position:0%
+setting s1 to be the standard deviation
+of<00:07:39.330><c> the</c><00:07:39.990><c> variable</c><00:07:40.140><c> would</c><00:07:40.470><c> be</c><00:07:40.590><c> fine</c><00:07:40.770><c> too</c><00:07:40.980><c> but</c>
+
+00:07:41.150 --> 00:07:41.160 align:start position:0%
+of the variable would be fine too but
+ 
+
+00:07:41.160 --> 00:07:43.100 align:start position:0%
+of the variable would be fine too but
+taking<00:07:41.490><c> you</c><00:07:41.640><c> of</c><00:07:41.760><c> this</c><00:07:41.910><c> max</c><00:07:42.180><c> minus</c><00:07:42.570><c> min</c><00:07:42.600><c> would</c>
+
+00:07:43.100 --> 00:07:43.110 align:start position:0%
+taking you of this max minus min would
+ 
+
+00:07:43.110 --> 00:07:45.560 align:start position:0%
+taking you of this max minus min would
+be<00:07:43.230><c> fine</c><00:07:43.470><c> and</c><00:07:43.850><c> similarly</c><00:07:44.850><c> for</c><00:07:45.120><c> the</c><00:07:45.210><c> second</c>
+
+00:07:45.560 --> 00:07:45.570 align:start position:0%
+be fine and similarly for the second
+ 
+
+00:07:45.570 --> 00:07:49.220 align:start position:0%
+be fine and similarly for the second
+feature<00:07:45.810><c> x2</c><00:07:46.190><c> you</c><00:07:47.190><c> replace</c><00:07:47.730><c> x2</c><00:07:48.360><c> with</c><00:07:48.690><c> this</c><00:07:48.990><c> are</c>
+
+00:07:49.220 --> 00:07:49.230 align:start position:0%
+feature x2 you replace x2 with this are
+ 
+
+00:07:49.230 --> 00:07:52.490 align:start position:0%
+feature x2 you replace x2 with this are
+sort<00:07:49.950><c> of</c><00:07:50.390><c> subtract</c><00:07:51.390><c> the</c><00:07:51.540><c> mean</c><00:07:51.690><c> of</c><00:07:51.870><c> the</c><00:07:52.290><c> feature</c>
+
+00:07:52.490 --> 00:07:52.500 align:start position:0%
+sort of subtract the mean of the feature
+ 
+
+00:07:52.500 --> 00:07:54.620 align:start position:0%
+sort of subtract the mean of the feature
+and<00:07:52.800><c> divided</c><00:07:53.430><c> by</c><00:07:53.460><c> the</c><00:07:54.090><c> range</c><00:07:54.330><c> of</c><00:07:54.510><c> values</c>
+
+00:07:54.620 --> 00:07:54.630 align:start position:0%
+and divided by the range of values
+ 
+
+00:07:54.630 --> 00:07:57.800 align:start position:0%
+and divided by the range of values
+meaning<00:07:55.110><c> the</c><00:07:55.320><c> max</c><00:07:55.530><c> minus</c><00:07:55.980><c> min</c><00:07:56.010><c> and</c><00:07:56.630><c> this</c><00:07:57.630><c> sort</c>
+
+00:07:57.800 --> 00:07:57.810 align:start position:0%
+meaning the max minus min and this sort
+ 
+
+00:07:57.810 --> 00:07:59.390 align:start position:0%
+meaning the max minus min and this sort
+of<00:07:57.900><c> formula</c><00:07:58.290><c> will</c><00:07:58.440><c> get</c><00:07:58.590><c> your</c><00:07:58.770><c> features</c><00:07:59.160><c> you</c>
+
+00:07:59.390 --> 00:07:59.400 align:start position:0%
+of formula will get your features you
+ 
+
+00:07:59.400 --> 00:08:01.430 align:start position:0%
+of formula will get your features you
+know<00:07:59.520><c> maybe</c><00:07:59.820><c> not</c><00:08:00.030><c> exactly</c><00:08:00.180><c> but</c><00:08:00.780><c> maybe</c><00:08:00.900><c> roughly</c>
+
+00:08:01.430 --> 00:08:01.440 align:start position:0%
+know maybe not exactly but maybe roughly
+ 
+
+00:08:01.440 --> 00:08:04.880 align:start position:0%
+know maybe not exactly but maybe roughly
+into<00:08:01.970><c> these</c><00:08:02.970><c> sorts</c><00:08:03.360><c> of</c><00:08:03.420><c> ranges</c><00:08:03.710><c> and</c><00:08:04.710><c> by</c><00:08:04.830><c> the</c>
+
+00:08:04.880 --> 00:08:04.890 align:start position:0%
+into these sorts of ranges and by the
+ 
+
+00:08:04.890 --> 00:08:06.050 align:start position:0%
+into these sorts of ranges and by the
+way<00:08:05.040><c> for</c><00:08:05.280><c> those</c><00:08:05.370><c> of</c><00:08:05.430><c> you</c><00:08:05.700><c> that</c><00:08:05.880><c> are</c><00:08:05.970><c> being</c>
+
+00:08:06.050 --> 00:08:06.060 align:start position:0%
+way for those of you that are being
+ 
+
+00:08:06.060 --> 00:08:07.850 align:start position:0%
+way for those of you that are being
+super<00:08:06.210><c> careful</c><00:08:06.660><c> technically</c><00:08:07.470><c> if</c><00:08:07.710><c> we're</c>
+
+00:08:07.850 --> 00:08:07.860 align:start position:0%
+super careful technically if we're
+ 
+
+00:08:07.860 --> 00:08:11.000 align:start position:0%
+super careful technically if we're
+taking<00:08:08.190><c> the</c><00:08:08.310><c> range</c><00:08:08.580><c> as</c><00:08:08.850><c> max</c><00:08:09.510><c> minus</c><00:08:09.960><c> min</c><00:08:09.990><c> this</c><00:08:10.710><c> 5</c>
+
+00:08:11.000 --> 00:08:11.010 align:start position:0%
+taking the range as max minus min this 5
+ 
+
+00:08:11.010 --> 00:08:12.830 align:start position:0%
+taking the range as max minus min this 5
+here<00:08:11.370><c> will</c><00:08:11.550><c> actually</c><00:08:11.700><c> become</c><00:08:11.940><c> a</c><00:08:12.090><c> four</c><00:08:12.210><c> so</c><00:08:12.750><c> that</c>
+
+00:08:12.830 --> 00:08:12.840 align:start position:0%
+here will actually become a four so that
+ 
+
+00:08:12.840 --> 00:08:15.650 align:start position:0%
+here will actually become a four so that
+if<00:08:12.990><c> max</c><00:08:13.920><c> is</c><00:08:14.100><c> five</c><00:08:14.340><c> minutes</c><00:08:14.790><c> one</c><00:08:15.030><c> then</c><00:08:15.330><c> a</c><00:08:15.360><c> range</c>
+
+00:08:15.650 --> 00:08:15.660 align:start position:0%
+if max is five minutes one then a range
+ 
+
+00:08:15.660 --> 00:08:17.690 align:start position:0%
+if max is five minutes one then a range
+of<00:08:15.990><c> bedroom</c><00:08:16.680><c> values</c><00:08:17.040><c> is</c><00:08:17.220><c> actual</c><00:08:17.460><c> equal</c><00:08:17.610><c> to</c>
+
+00:08:17.690 --> 00:08:17.700 align:start position:0%
+of bedroom values is actual equal to
+ 
+
+00:08:17.700 --> 00:08:19.430 align:start position:0%
+of bedroom values is actual equal to
+four<00:08:18.000><c> but</c><00:08:18.270><c> all</c><00:08:18.420><c> of</c><00:08:18.570><c> these</c><00:08:18.660><c> are</c><00:08:18.900><c> approximate</c>
+
+00:08:19.430 --> 00:08:19.440 align:start position:0%
+four but all of these are approximate
+ 
+
+00:08:19.440 --> 00:08:21.980 align:start position:0%
+four but all of these are approximate
+and<00:08:19.680><c> any</c><00:08:20.160><c> value</c><00:08:20.580><c> that</c><00:08:21.000><c> gets</c><00:08:21.300><c> the</c><00:08:21.630><c> features</c>
+
+00:08:21.980 --> 00:08:21.990 align:start position:0%
+and any value that gets the features
+ 
+
+00:08:21.990 --> 00:08:23.990 align:start position:0%
+and any value that gets the features
+into<00:08:22.350><c> anything</c><00:08:22.680><c> close</c><00:08:23.100><c> to</c><00:08:23.130><c> these</c><00:08:23.490><c> sorts</c><00:08:23.940><c> of</c>
+
+00:08:23.990 --> 00:08:24.000 align:start position:0%
+into anything close to these sorts of
+ 
+
+00:08:24.000 --> 00:08:27.110 align:start position:0%
+into anything close to these sorts of
+ranges<00:08:24.360><c> will</c><00:08:24.570><c> do</c><00:08:24.690><c> fine</c><00:08:24.990><c> and</c><00:08:25.280><c> the</c><00:08:26.280><c> the</c><00:08:26.910><c> feature</c>
+
+00:08:27.110 --> 00:08:27.120 align:start position:0%
+ranges will do fine and the the feature
+ 
+
+00:08:27.120 --> 00:08:29.180 align:start position:0%
+ranges will do fine and the the feature
+scaling<00:08:27.450><c> doesn't</c><00:08:28.050><c> have</c><00:08:28.140><c> to</c><00:08:28.260><c> be</c><00:08:28.380><c> too</c><00:08:28.560><c> exact</c><00:08:28.920><c> in</c>
+
+00:08:29.180 --> 00:08:29.190 align:start position:0%
+scaling doesn't have to be too exact in
+ 
+
+00:08:29.190 --> 00:08:31.520 align:start position:0%
+scaling doesn't have to be too exact in
+order<00:08:29.550><c> to</c><00:08:30.180><c> get</c><00:08:30.420><c> gradient</c><00:08:30.780><c> descent</c><00:08:31.080><c> to</c><00:08:31.230><c> run</c>
+
+00:08:31.520 --> 00:08:31.530 align:start position:0%
+order to get gradient descent to run
+ 
+
+00:08:31.530 --> 00:08:34.290 align:start position:0%
+order to get gradient descent to run
+quite<00:08:31.830><c> a</c><00:08:31.860><c> lot</c><00:08:32.070><c> faster</c>
+
+00:08:34.290 --> 00:08:34.300 align:start position:0%
+quite a lot faster
+ 
+
+00:08:34.300 --> 00:08:36.790 align:start position:0%
+quite a lot faster
+so<00:08:35.300><c> now</c><00:08:35.660><c> you</c><00:08:35.720><c> know</c><00:08:35.990><c> about</c><00:08:36.020><c> feature</c><00:08:36.560><c> scaling</c>
+
+00:08:36.790 --> 00:08:36.800 align:start position:0%
+so now you know about feature scaling
+ 
+
+00:08:36.800 --> 00:08:39.040 align:start position:0%
+so now you know about feature scaling
+and<00:08:37.190><c> if</c><00:08:37.550><c> you</c><00:08:37.700><c> apply</c><00:08:37.940><c> the</c><00:08:38.030><c> simple</c><00:08:38.630><c> trick</c>
+
+00:08:39.040 --> 00:08:39.050 align:start position:0%
+and if you apply the simple trick
+ 
+
+00:08:39.050 --> 00:08:40.870 align:start position:0%
+and if you apply the simple trick
+it<00:08:39.140><c> can</c><00:08:39.380><c> make</c><00:08:39.590><c> gradient</c><00:08:40.039><c> descent</c><00:08:40.370><c> run</c><00:08:40.669><c> much</c>
+
+00:08:40.870 --> 00:08:40.880 align:start position:0%
+it can make gradient descent run much
+ 
+
+00:08:40.880 --> 00:08:43.420 align:start position:0%
+it can make gradient descent run much
+faster<00:08:40.910><c> and</c><00:08:41.390><c> converge</c><00:08:41.710><c> in</c><00:08:42.710><c> a</c><00:08:42.950><c> lot</c><00:08:43.160><c> fewer</c>
+
+00:08:43.420 --> 00:08:43.430 align:start position:0%
+faster and converge in a lot fewer
+ 
+
+00:08:43.430 --> 00:08:46.210 align:start position:0%
+faster and converge in a lot fewer
+iterations<00:08:44.140><c> that</c><00:08:45.140><c> was</c><00:08:45.260><c> feature</c><00:08:45.500><c> scaling</c><00:08:45.800><c> in</c>
+
+00:08:46.210 --> 00:08:46.220 align:start position:0%
+iterations that was feature scaling in
+ 
+
+00:08:46.220 --> 00:08:47.620 align:start position:0%
+iterations that was feature scaling in
+the<00:08:46.460><c> next</c><00:08:46.760><c> video</c><00:08:47.030><c> I'll</c><00:08:47.210><c> tell</c><00:08:47.390><c> you</c><00:08:47.450><c> about</c>
+
+00:08:47.620 --> 00:08:47.630 align:start position:0%
+the next video I'll tell you about
+ 
+
+00:08:47.630 --> 00:08:50.350 align:start position:0%
+the next video I'll tell you about
+another<00:08:47.930><c> trick</c><00:08:48.470><c> to</c><00:08:49.070><c> make</c><00:08:49.670><c> gradient</c><00:08:50.090><c> descent</c>
+
+00:08:50.350 --> 00:08:50.360 align:start position:0%
+another trick to make gradient descent
+ 
+
+00:08:50.360 --> 00:08:53.440 align:start position:0%
+another trick to make gradient descent
+work<00:08:50.600><c> Wow</c><00:08:50.810><c> in</c><00:08:51.020><c> practice</c>
+

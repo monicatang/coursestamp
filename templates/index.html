@@ -19,7 +19,7 @@
         <form  action="" method="post" role="form">
           {{ form.hidden_tag() }}
           <div class="form-group">
-            <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword/keyphrase">
+            <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
           </div>                        
           <button type="submit" class="btn btn-success">Submit</button>
         </form>
@@ -27,6 +27,10 @@
         <iframe width="560" height="315" src="{{data[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {% endif %}
         <br>
+        <form action="/listen" method="post">
+          {{ form.hidden_tag() }}
+          <button type="submit" class="btn btn-success">Voice Query</button>
+        </form>
         <h3 style="padding:32px" class="title">{{ name }}</h3>
         {% for item in data %}
             <p id="{{item}}" onclick="setYTClip(this)"> {{ item }} </p>

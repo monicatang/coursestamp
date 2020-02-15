@@ -1,0 +1,1592 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.720 align:start position:0%
+ 
+in<00:00:00.089><c> this</c><00:00:00.900><c> and</c><00:00:01.199><c> the</c><00:00:01.319><c> next</c><00:00:01.469><c> few</c><00:00:01.650><c> videos</c><00:00:02.159><c> I</c><00:00:02.429><c> want</c>
+
+00:00:02.720 --> 00:00:02.730 align:start position:0%
+in this and the next few videos I want
+ 
+
+00:00:02.730 --> 00:00:04.670 align:start position:0%
+in this and the next few videos I want
+to<00:00:02.850><c> start</c><00:00:03.120><c> to</c><00:00:03.270><c> talk</c><00:00:03.449><c> about</c><00:00:03.680><c> classification</c>
+
+00:00:04.670 --> 00:00:04.680 align:start position:0%
+to start to talk about classification
+ 
+
+00:00:04.680 --> 00:00:07.249 align:start position:0%
+to start to talk about classification
+problems<00:00:05.130><c> where</c><00:00:05.670><c> the</c><00:00:05.940><c> variable</c><00:00:06.569><c> Y</c><00:00:06.810><c> that</c><00:00:06.839><c> you</c>
+
+00:00:07.249 --> 00:00:07.259 align:start position:0%
+problems where the variable Y that you
+ 
+
+00:00:07.259 --> 00:00:09.650 align:start position:0%
+problems where the variable Y that you
+want<00:00:07.440><c> to</c><00:00:07.560><c> predict</c><00:00:07.890><c> is</c><00:00:08.099><c> discrete</c><00:00:08.580><c> values</c><00:00:09.000><c> we'll</c>
+
+00:00:09.650 --> 00:00:09.660 align:start position:0%
+want to predict is discrete values we'll
+ 
+
+00:00:09.660 --> 00:00:11.360 align:start position:0%
+want to predict is discrete values we'll
+develop<00:00:09.990><c> an</c><00:00:10.320><c> algorithm</c><00:00:10.920><c> called</c><00:00:11.219><c> logistic</c>
+
+00:00:11.360 --> 00:00:11.370 align:start position:0%
+develop an algorithm called logistic
+ 
+
+00:00:11.370 --> 00:00:13.940 align:start position:0%
+develop an algorithm called logistic
+regression<00:00:12.360><c> which</c><00:00:12.630><c> is</c><00:00:12.840><c> a</c><00:00:12.870><c> one</c><00:00:13.530><c> of</c><00:00:13.559><c> the</c><00:00:13.769><c> most</c>
+
+00:00:13.940 --> 00:00:13.950 align:start position:0%
+regression which is a one of the most
+ 
+
+00:00:13.950 --> 00:00:15.919 align:start position:0%
+regression which is a one of the most
+popular<00:00:14.549><c> and</c><00:00:14.820><c> most</c><00:00:15.150><c> widely</c><00:00:15.389><c> used</c><00:00:15.599><c> learning</c>
+
+00:00:15.919 --> 00:00:15.929 align:start position:0%
+popular and most widely used learning
+ 
+
+00:00:15.929 --> 00:00:20.870 align:start position:0%
+popular and most widely used learning
+algorithms<00:00:16.619><c> today</c><00:00:18.920><c> here</c><00:00:19.920><c> are</c><00:00:20.070><c> some</c><00:00:20.279><c> examples</c>
+
+00:00:20.870 --> 00:00:20.880 align:start position:0%
+algorithms today here are some examples
+ 
+
+00:00:20.880 --> 00:00:23.720 align:start position:0%
+algorithms today here are some examples
+of<00:00:21.180><c> classification</c><00:00:22.140><c> problems</c><00:00:22.680><c> earlier</c><00:00:23.519><c> we</c>
+
+00:00:23.720 --> 00:00:23.730 align:start position:0%
+of classification problems earlier we
+ 
+
+00:00:23.730 --> 00:00:25.970 align:start position:0%
+of classification problems earlier we
+talked<00:00:24.029><c> about</c><00:00:24.150><c> email</c><00:00:25.050><c> spam</c><00:00:25.439><c> classification</c>
+
+00:00:25.970 --> 00:00:25.980 align:start position:0%
+talked about email spam classification
+ 
+
+00:00:25.980 --> 00:00:28.009 align:start position:0%
+talked about email spam classification
+as<00:00:26.519><c> an</c><00:00:26.849><c> example</c><00:00:27.210><c> of</c><00:00:27.570><c> a</c><00:00:27.660><c> classification</c>
+
+00:00:28.009 --> 00:00:28.019 align:start position:0%
+as an example of a classification
+ 
+
+00:00:28.019 --> 00:00:30.500 align:start position:0%
+as an example of a classification
+problem<00:00:28.640><c> another</c><00:00:29.640><c> example</c><00:00:30.179><c> would</c><00:00:30.449><c> be</c>
+
+00:00:30.500 --> 00:00:30.510 align:start position:0%
+problem another example would be
+ 
+
+00:00:30.510 --> 00:00:33.500 align:start position:0%
+problem another example would be
+classifying<00:00:31.500><c> online</c><00:00:32.099><c> transactions</c><00:00:32.910><c> so</c><00:00:33.300><c> if</c>
+
+00:00:33.500 --> 00:00:33.510 align:start position:0%
+classifying online transactions so if
+ 
+
+00:00:33.510 --> 00:00:35.180 align:start position:0%
+classifying online transactions so if
+you<00:00:33.660><c> have</c><00:00:33.780><c> a</c><00:00:33.809><c> website</c><00:00:34.110><c> that</c><00:00:34.350><c> sell</c><00:00:34.710><c> stuff</c><00:00:34.950><c> and</c>
+
+00:00:35.180 --> 00:00:35.190 align:start position:0%
+you have a website that sell stuff and
+ 
+
+00:00:35.190 --> 00:00:37.130 align:start position:0%
+you have a website that sell stuff and
+if<00:00:35.640><c> you</c><00:00:35.790><c> want</c><00:00:36.000><c> to</c><00:00:36.090><c> know</c><00:00:36.270><c> if</c><00:00:36.570><c> a</c><00:00:36.690><c> particular</c>
+
+00:00:37.130 --> 00:00:37.140 align:start position:0%
+if you want to know if a particular
+ 
+
+00:00:37.140 --> 00:00:39.650 align:start position:0%
+if you want to know if a particular
+transaction<00:00:37.380><c> is</c><00:00:37.980><c> fraudulent</c><00:00:38.760><c> or</c><00:00:39.239><c> not</c><00:00:39.390><c> whether</c>
+
+00:00:39.650 --> 00:00:39.660 align:start position:0%
+transaction is fraudulent or not whether
+ 
+
+00:00:39.660 --> 00:00:41.660 align:start position:0%
+transaction is fraudulent or not whether
+someone<00:00:40.350><c> has</c><00:00:40.530><c> you</c><00:00:40.739><c> know</c><00:00:40.860><c> you</c><00:00:40.920><c> is</c><00:00:41.250><c> using</c><00:00:41.579><c> a</c>
+
+00:00:41.660 --> 00:00:41.670 align:start position:0%
+someone has you know you is using a
+ 
+
+00:00:41.670 --> 00:00:43.400 align:start position:0%
+someone has you know you is using a
+stolen<00:00:41.910><c> credit</c><00:00:42.059><c> card</c><00:00:42.360><c> or</c><00:00:42.780><c> has</c><00:00:42.899><c> stolen</c><00:00:43.200><c> the</c>
+
+00:00:43.400 --> 00:00:43.410 align:start position:0%
+stolen credit card or has stolen the
+ 
+
+00:00:43.410 --> 00:00:45.080 align:start position:0%
+stolen credit card or has stolen the
+user's<00:00:43.710><c> password</c><00:00:43.890><c> that's</c><00:00:44.730><c> another</c>
+
+00:00:45.080 --> 00:00:45.090 align:start position:0%
+user's password that's another
+ 
+
+00:00:45.090 --> 00:00:47.569 align:start position:0%
+user's password that's another
+classification<00:00:45.570><c> problem</c><00:00:46.289><c> and</c><00:00:46.469><c> earlier</c><00:00:47.370><c> we</c>
+
+00:00:47.569 --> 00:00:47.579 align:start position:0%
+classification problem and earlier we
+ 
+
+00:00:47.579 --> 00:00:49.160 align:start position:0%
+classification problem and earlier we
+also<00:00:47.700><c> talked</c><00:00:48.090><c> about</c><00:00:48.210><c> the</c><00:00:48.510><c> example</c><00:00:48.600><c> of</c>
+
+00:00:49.160 --> 00:00:49.170 align:start position:0%
+also talked about the example of
+ 
+
+00:00:49.170 --> 00:00:52.130 align:start position:0%
+also talked about the example of
+classifying<00:00:50.039><c> tumors</c><00:00:50.570><c> as</c><00:00:51.570><c> cancerous</c>
+
+00:00:52.130 --> 00:00:52.140 align:start position:0%
+classifying tumors as cancerous
+ 
+
+00:00:52.140 --> 00:00:55.729 align:start position:0%
+classifying tumors as cancerous
+malignant<00:00:52.350><c> or</c><00:00:52.980><c> as</c><00:00:53.190><c> benign</c><00:00:53.610><c> tumors</c><00:00:54.120><c> in</c><00:00:54.530><c> all</c><00:00:55.530><c> of</c>
+
+00:00:55.729 --> 00:00:55.739 align:start position:0%
+malignant or as benign tumors in all of
+ 
+
+00:00:55.739 --> 00:00:57.650 align:start position:0%
+malignant or as benign tumors in all of
+these<00:00:55.890><c> problems</c><00:00:56.489><c> the</c><00:00:56.850><c> variable</c><00:00:57.360><c> that</c><00:00:57.510><c> we're</c>
+
+00:00:57.650 --> 00:00:57.660 align:start position:0%
+these problems the variable that we're
+ 
+
+00:00:57.660 --> 00:00:59.840 align:start position:0%
+these problems the variable that we're
+trying<00:00:57.899><c> to</c><00:00:57.989><c> predict</c><00:00:58.350><c> is</c><00:00:58.530><c> a</c><00:00:58.829><c> variable</c><00:00:59.280><c> Y</c><00:00:59.489><c> that</c>
+
+00:00:59.840 --> 00:00:59.850 align:start position:0%
+trying to predict is a variable Y that
+ 
+
+00:00:59.850 --> 00:01:01.910 align:start position:0%
+trying to predict is a variable Y that
+we<00:01:00.000><c> can</c><00:01:00.149><c> think</c><00:01:00.329><c> of</c><00:01:00.570><c> as</c><00:01:00.809><c> taking</c><00:01:01.260><c> on</c><00:01:01.410><c> two</c><00:01:01.680><c> values</c>
+
+00:01:01.910 --> 00:01:01.920 align:start position:0%
+we can think of as taking on two values
+ 
+
+00:01:01.920 --> 00:01:05.350 align:start position:0%
+we can think of as taking on two values
+either<00:01:02.609><c> 0</c><00:01:03.030><c> or</c><00:01:03.510><c> 1</c><00:01:03.629><c> either</c><00:01:04.199><c> spam</c><00:01:04.680><c> or</c><00:01:04.860><c> non-spam</c>
+
+00:01:05.350 --> 00:01:05.360 align:start position:0%
+either 0 or 1 either spam or non-spam
+ 
+
+00:01:05.360 --> 00:01:08.390 align:start position:0%
+either 0 or 1 either spam or non-spam
+fraudulent<00:01:06.360><c> or</c><00:01:06.570><c> not</c><00:01:06.900><c> fraudulent</c><00:01:07.400><c> malignant</c>
+
+00:01:08.390 --> 00:01:08.400 align:start position:0%
+fraudulent or not fraudulent malignant
+ 
+
+00:01:08.400 --> 00:01:11.510 align:start position:0%
+fraudulent or not fraudulent malignant
+or<00:01:08.610><c> benign</c><00:01:09.770><c> another</c><00:01:10.770><c> name</c><00:01:11.100><c> for</c><00:01:11.369><c> the</c><00:01:11.490><c> class</c>
+
+00:01:11.510 --> 00:01:11.520 align:start position:0%
+or benign another name for the class
+ 
+
+00:01:11.520 --> 00:01:14.240 align:start position:0%
+or benign another name for the class
+that<00:01:11.970><c> we</c><00:01:12.060><c> denote</c><00:01:12.360><c> with</c><00:01:12.390><c> 0</c><00:01:13.200><c> is</c><00:01:13.590><c> the</c><00:01:13.920><c> negative</c>
+
+00:01:14.240 --> 00:01:14.250 align:start position:0%
+that we denote with 0 is the negative
+ 
+
+00:01:14.250 --> 00:01:16.730 align:start position:0%
+that we denote with 0 is the negative
+class<00:01:14.670><c> and</c><00:01:15.150><c> another</c><00:01:15.869><c> name</c><00:01:16.170><c> for</c><00:01:16.409><c> the</c><00:01:16.500><c> class</c>
+
+00:01:16.730 --> 00:01:16.740 align:start position:0%
+class and another name for the class
+ 
+
+00:01:16.740 --> 00:01:18.920 align:start position:0%
+class and another name for the class
+that<00:01:16.950><c> we</c><00:01:17.040><c> denote</c><00:01:17.369><c> with</c><00:01:17.400><c> 1</c><00:01:17.880><c> is</c><00:01:18.119><c> the</c><00:01:18.600><c> positive</c>
+
+00:01:18.920 --> 00:01:18.930 align:start position:0%
+that we denote with 1 is the positive
+ 
+
+00:01:18.930 --> 00:01:22.910 align:start position:0%
+that we denote with 1 is the positive
+class<00:01:19.530><c> so</c><00:01:20.130><c> 0</c><00:01:20.640><c> may</c><00:01:20.850><c> denote</c><00:01:21.180><c> the</c><00:01:21.630><c> benign</c><00:01:22.409><c> tumor</c>
+
+00:01:22.910 --> 00:01:22.920 align:start position:0%
+class so 0 may denote the benign tumor
+ 
+
+00:01:22.920 --> 00:01:25.219 align:start position:0%
+class so 0 may denote the benign tumor
+and<00:01:23.130><c> 1</c><00:01:23.700><c> positive</c><00:01:24.119><c> class</c><00:01:24.509><c> may</c><00:01:24.750><c> denote</c><00:01:25.049><c> a</c>
+
+00:01:25.219 --> 00:01:25.229 align:start position:0%
+and 1 positive class may denote a
+ 
+
+00:01:25.229 --> 00:01:28.429 align:start position:0%
+and 1 positive class may denote a
+malignant<00:01:25.860><c> tumor</c><00:01:26.220><c> the</c><00:01:27.210><c> assignment</c><00:01:27.960><c> of</c><00:01:28.200><c> the</c>
+
+00:01:28.429 --> 00:01:28.439 align:start position:0%
+malignant tumor the assignment of the
+ 
+
+00:01:28.439 --> 00:01:30.620 align:start position:0%
+malignant tumor the assignment of the
+two<00:01:28.650><c> classes</c><00:01:29.250><c> you</c><00:01:29.549><c> know</c><00:01:29.640><c> spam</c><00:01:29.939><c> not</c><00:01:30.180><c> spam</c><00:01:30.450><c> and</c>
+
+00:01:30.620 --> 00:01:30.630 align:start position:0%
+two classes you know spam not spam and
+ 
+
+00:01:30.630 --> 00:01:32.990 align:start position:0%
+two classes you know spam not spam and
+so<00:01:30.780><c> on</c><00:01:30.960><c> the</c><00:01:31.470><c> assignment</c><00:01:32.040><c> of</c><00:01:32.189><c> the</c><00:01:32.310><c> two</c><00:01:32.490><c> classes</c>
+
+00:01:32.990 --> 00:01:33.000 align:start position:0%
+so on the assignment of the two classes
+ 
+
+00:01:33.000 --> 00:01:35.480 align:start position:0%
+so on the assignment of the two classes
+to<00:01:33.329><c> positive</c><00:01:33.869><c> and</c><00:01:33.990><c> negative</c><00:01:34.049><c> to</c><00:01:34.380><c> 0</c><00:01:34.890><c> and</c><00:01:35.070><c> 1</c><00:01:35.250><c> is</c>
+
+00:01:35.480 --> 00:01:35.490 align:start position:0%
+to positive and negative to 0 and 1 is
+ 
+
+00:01:35.490 --> 00:01:37.819 align:start position:0%
+to positive and negative to 0 and 1 is
+somewhat<00:01:36.240><c> arbitrary</c><00:01:36.450><c> and</c><00:01:36.960><c> it</c><00:01:37.380><c> doesn't</c><00:01:37.710><c> really</c>
+
+00:01:37.819 --> 00:01:37.829 align:start position:0%
+somewhat arbitrary and it doesn't really
+ 
+
+00:01:37.829 --> 00:01:40.609 align:start position:0%
+somewhat arbitrary and it doesn't really
+matter<00:01:38.040><c> but</c><00:01:38.820><c> often</c><00:01:39.540><c> there</c><00:01:39.720><c> is</c><00:01:39.810><c> this</c><00:01:39.960><c> intuition</c>
+
+00:01:40.609 --> 00:01:40.619 align:start position:0%
+matter but often there is this intuition
+ 
+
+00:01:40.619 --> 00:01:42.830 align:start position:0%
+matter but often there is this intuition
+that<00:01:40.860><c> the</c><00:01:41.040><c> negative</c><00:01:41.490><c> Clause</c><00:01:41.729><c> is</c><00:01:42.000><c> conveying</c>
+
+00:01:42.830 --> 00:01:42.840 align:start position:0%
+that the negative Clause is conveying
+ 
+
+00:01:42.840 --> 00:01:44.510 align:start position:0%
+that the negative Clause is conveying
+the<00:01:43.049><c> absence</c><00:01:43.680><c> of</c><00:01:43.770><c> something</c><00:01:44.040><c> like</c><00:01:44.369><c> the</c>
+
+00:01:44.510 --> 00:01:44.520 align:start position:0%
+the absence of something like the
+ 
+
+00:01:44.520 --> 00:01:47.660 align:start position:0%
+the absence of something like the
+absence<00:01:44.640><c> of</c><00:01:45.090><c> a</c><00:01:45.210><c> malignant</c><00:01:45.509><c> tumor</c><00:01:46.079><c> whereas</c><00:01:46.890><c> a</c><00:01:46.920><c> 1</c>
+
+00:01:47.660 --> 00:01:47.670 align:start position:0%
+absence of a malignant tumor whereas a 1
+ 
+
+00:01:47.670 --> 00:01:50.090 align:start position:0%
+absence of a malignant tumor whereas a 1
+the<00:01:48.000><c> positive</c><00:01:48.479><c> class</c><00:01:48.720><c> is</c><00:01:49.049><c> conveying</c><00:01:49.890><c> the</c>
+
+00:01:50.090 --> 00:01:50.100 align:start position:0%
+the positive class is conveying the
+ 
+
+00:01:50.100 --> 00:01:51.740 align:start position:0%
+the positive class is conveying the
+presence<00:01:50.670><c> of</c><00:01:50.820><c> something</c><00:01:51.060><c> that</c><00:01:51.420><c> we</c><00:01:51.540><c> may</c><00:01:51.689><c> be</c>
+
+00:01:51.740 --> 00:01:51.750 align:start position:0%
+presence of something that we may be
+ 
+
+00:01:51.750 --> 00:01:52.399 align:start position:0%
+presence of something that we may be
+looking<00:01:52.110><c> for</c>
+
+00:01:52.399 --> 00:01:52.409 align:start position:0%
+looking for
+ 
+
+00:01:52.409 --> 00:01:55.039 align:start position:0%
+looking for
+but<00:01:52.920><c> the</c><00:01:53.100><c> declination</c><00:01:53.579><c> of</c><00:01:54.000><c> which</c><00:01:54.509><c> is</c><00:01:54.659><c> negative</c>
+
+00:01:55.039 --> 00:01:55.049 align:start position:0%
+but the declination of which is negative
+ 
+
+00:01:55.049 --> 00:01:56.420 align:start position:0%
+but the declination of which is negative
+and<00:01:55.170><c> which</c><00:01:55.290><c> is</c><00:01:55.320><c> positive</c><00:01:55.470><c> is</c><00:01:56.009><c> somewhat</c>
+
+00:01:56.420 --> 00:01:56.430 align:start position:0%
+and which is positive is somewhat
+ 
+
+00:01:56.430 --> 00:01:58.370 align:start position:0%
+and which is positive is somewhat
+arbitrary<00:01:56.579><c> and</c><00:01:57.119><c> it</c><00:01:57.840><c> doesn't</c><00:01:58.140><c> matter</c><00:01:58.259><c> that</c>
+
+00:01:58.370 --> 00:01:58.380 align:start position:0%
+arbitrary and it doesn't matter that
+ 
+
+00:01:58.380 --> 00:02:01.459 align:start position:0%
+arbitrary and it doesn't matter that
+much<00:01:59.299><c> for</c><00:02:00.299><c> now</c><00:02:00.420><c> we're</c><00:02:00.659><c> going</c><00:02:00.840><c> to</c><00:02:00.930><c> start</c><00:02:01.229><c> with</c>
+
+00:02:01.459 --> 00:02:01.469 align:start position:0%
+much for now we're going to start with
+ 
+
+00:02:01.469 --> 00:02:03.469 align:start position:0%
+much for now we're going to start with
+classification<00:02:02.340><c> problems</c><00:02:02.820><c> with</c><00:02:03.000><c> just</c><00:02:03.299><c> two</c>
+
+00:02:03.469 --> 00:02:03.479 align:start position:0%
+classification problems with just two
+ 
+
+00:02:03.479 --> 00:02:04.760 align:start position:0%
+classification problems with just two
+classes<00:02:03.719><c> 0</c><00:02:04.350><c> &amp;</c><00:02:04.530><c> 1</c>
+
+00:02:04.760 --> 00:02:04.770 align:start position:0%
+classes 0 &amp; 1
+ 
+
+00:02:04.770 --> 00:02:07.249 align:start position:0%
+classes 0 &amp; 1
+later<00:02:05.670><c> on</c><00:02:05.939><c> we'll</c><00:02:06.149><c> talk</c><00:02:06.210><c> about</c><00:02:06.570><c> multi</c><00:02:07.079><c> class</c>
+
+00:02:07.249 --> 00:02:07.259 align:start position:0%
+later on we'll talk about multi class
+ 
+
+00:02:07.259 --> 00:02:09.949 align:start position:0%
+later on we'll talk about multi class
+problems<00:02:07.890><c> as</c><00:02:08.039><c> well</c><00:02:08.250><c> where</c><00:02:08.580><c> the</c><00:02:08.780><c> variable</c><00:02:09.780><c> Y</c>
+
+00:02:09.949 --> 00:02:09.959 align:start position:0%
+problems as well where the variable Y
+ 
+
+00:02:09.959 --> 00:02:13.090 align:start position:0%
+problems as well where the variable Y
+may<00:02:10.319><c> take</c><00:02:10.560><c> on</c><00:02:10.800><c> say</c><00:02:11.129><c> 4</c><00:02:11.730><c> values</c><00:02:12.180><c> 0</c><00:02:12.569><c> 1</c>
+
+00:02:13.090 --> 00:02:13.100 align:start position:0%
+may take on say 4 values 0 1
+ 
+
+00:02:13.100 --> 00:02:15.040 align:start position:0%
+may take on say 4 values 0 1
+two<00:02:13.250><c> and</c><00:02:13.520><c> three</c><00:02:13.820><c> this</c><00:02:14.360><c> is</c><00:02:14.540><c> called</c><00:02:14.870><c> a</c>
+
+00:02:15.040 --> 00:02:15.050 align:start position:0%
+two and three this is called a
+ 
+
+00:02:15.050 --> 00:02:17.830 align:start position:0%
+two and three this is called a
+multi-class<00:02:15.950><c> classification</c><00:02:16.370><c> problem</c><00:02:17.270><c> but</c>
+
+00:02:17.830 --> 00:02:17.840 align:start position:0%
+multi-class classification problem but
+ 
+
+00:02:17.840 --> 00:02:19.930 align:start position:0%
+multi-class classification problem but
+for<00:02:18.230><c> the</c><00:02:18.620><c> next</c><00:02:18.770><c> view</c><00:02:18.950><c> videos</c><00:02:19.310><c> let's</c><00:02:19.670><c> start</c>
+
+00:02:19.930 --> 00:02:19.940 align:start position:0%
+for the next view videos let's start
+ 
+
+00:02:19.940 --> 00:02:22.000 align:start position:0%
+for the next view videos let's start
+with<00:02:20.180><c> the</c><00:02:20.390><c> two</c><00:02:20.870><c> class</c><00:02:21.170><c> or</c><00:02:21.470><c> the</c><00:02:21.620><c> binary</c>
+
+00:02:22.000 --> 00:02:22.010 align:start position:0%
+with the two class or the binary
+ 
+
+00:02:22.010 --> 00:02:24.040 align:start position:0%
+with the two class or the binary
+classification<00:02:22.520><c> problem</c><00:02:22.820><c> and</c><00:02:23.390><c> we'll</c><00:02:23.840><c> worry</c>
+
+00:02:24.040 --> 00:02:24.050 align:start position:0%
+classification problem and we'll worry
+ 
+
+00:02:24.050 --> 00:02:27.190 align:start position:0%
+classification problem and we'll worry
+about<00:02:24.140><c> the</c><00:02:24.500><c> multi</c><00:02:24.890><c> class</c><00:02:25.130><c> setting</c><00:02:25.610><c> later</c><00:02:26.200><c> so</c>
+
+00:02:27.190 --> 00:02:27.200 align:start position:0%
+about the multi class setting later so
+ 
+
+00:02:27.200 --> 00:02:28.960 align:start position:0%
+about the multi class setting later so
+how<00:02:27.650><c> do</c><00:02:27.710><c> we</c><00:02:27.920><c> develop</c><00:02:28.190><c> a</c><00:02:28.640><c> classification</c>
+
+00:02:28.960 --> 00:02:28.970 align:start position:0%
+how do we develop a classification
+ 
+
+00:02:28.970 --> 00:02:31.780 align:start position:0%
+how do we develop a classification
+algorithm<00:02:29.750><c> here's</c><00:02:30.710><c> an</c><00:02:30.860><c> example</c><00:02:31.190><c> of</c><00:02:31.580><c> a</c>
+
+00:02:31.780 --> 00:02:31.790 align:start position:0%
+algorithm here's an example of a
+ 
+
+00:02:31.790 --> 00:02:33.750 align:start position:0%
+algorithm here's an example of a
+training<00:02:32.090><c> set</c><00:02:32.420><c> for</c><00:02:32.690><c> a</c><00:02:32.720><c> classification</c><00:02:33.170><c> task</c>
+
+00:02:33.750 --> 00:02:33.760 align:start position:0%
+training set for a classification task
+ 
+
+00:02:33.760 --> 00:02:37.060 align:start position:0%
+training set for a classification task
+for<00:02:34.760><c> classifying</c><00:02:35.270><c> a</c><00:02:35.540><c> tumor</c><00:02:36.020><c> as</c><00:02:36.230><c> malignant</c><00:02:36.710><c> or</c>
+
+00:02:37.060 --> 00:02:37.070 align:start position:0%
+for classifying a tumor as malignant or
+ 
+
+00:02:37.070 --> 00:02:39.250 align:start position:0%
+for classifying a tumor as malignant or
+benign<00:02:37.220><c> and</c><00:02:37.700><c> notice</c><00:02:38.000><c> that</c><00:02:38.240><c> malignancy</c><00:02:38.930><c> takes</c>
+
+00:02:39.250 --> 00:02:39.260 align:start position:0%
+benign and notice that malignancy takes
+ 
+
+00:02:39.260 --> 00:02:43.650 align:start position:0%
+benign and notice that malignancy takes
+on<00:02:39.470><c> only</c><00:02:39.710><c> two</c><00:02:40.040><c> values</c><00:02:40.460><c> 0</c><00:02:40.970><c> or</c><00:02:41.000><c> no</c><00:02:41.420><c> 1</c><00:02:42.170><c> or</c><00:02:42.470><c> 1</c><00:02:42.740><c> or</c><00:02:43.010><c> yes</c>
+
+00:02:43.650 --> 00:02:43.660 align:start position:0%
+on only two values 0 or no 1 or 1 or yes
+ 
+
+00:02:43.660 --> 00:02:46.570 align:start position:0%
+on only two values 0 or no 1 or 1 or yes
+so<00:02:44.660><c> one</c><00:02:45.230><c> thing</c><00:02:45.500><c> we</c><00:02:45.650><c> could</c><00:02:45.860><c> do</c><00:02:46.070><c> given</c><00:02:46.340><c> this</c>
+
+00:02:46.570 --> 00:02:46.580 align:start position:0%
+so one thing we could do given this
+ 
+
+00:02:46.580 --> 00:02:49.030 align:start position:0%
+so one thing we could do given this
+training<00:02:46.910><c> set</c><00:02:47.240><c> is</c><00:02:47.510><c> to</c><00:02:47.990><c> apply</c><00:02:48.380><c> the</c><00:02:48.530><c> algorithm</c>
+
+00:02:49.030 --> 00:02:49.040 align:start position:0%
+training set is to apply the algorithm
+ 
+
+00:02:49.040 --> 00:02:52.120 align:start position:0%
+training set is to apply the algorithm
+that<00:02:49.280><c> we</c><00:02:49.580><c> already</c><00:02:49.790><c> know</c><00:02:50.680><c> linear</c><00:02:51.680><c> regression</c>
+
+00:02:52.120 --> 00:02:52.130 align:start position:0%
+that we already know linear regression
+ 
+
+00:02:52.130 --> 00:02:54.310 align:start position:0%
+that we already know linear regression
+to<00:02:52.280><c> this</c><00:02:52.400><c> data</c><00:02:52.640><c> set</c><00:02:52.730><c> and</c><00:02:53.150><c> just</c><00:02:53.660><c> try</c><00:02:53.900><c> to</c><00:02:53.930><c> fit</c><00:02:54.290><c> a</c>
+
+00:02:54.310 --> 00:02:54.320 align:start position:0%
+to this data set and just try to fit a
+ 
+
+00:02:54.320 --> 00:02:57.250 align:start position:0%
+to this data set and just try to fit a
+straight<00:02:54.500><c> line</c><00:02:54.770><c> to</c><00:02:54.980><c> the</c><00:02:55.190><c> data</c><00:02:55.390><c> so</c><00:02:56.390><c> if</c><00:02:56.720><c> you</c><00:02:56.930><c> take</c>
+
+00:02:57.250 --> 00:02:57.260 align:start position:0%
+straight line to the data so if you take
+ 
+
+00:02:57.260 --> 00:02:58.900 align:start position:0%
+straight line to the data so if you take
+this<00:02:57.470><c> training</c><00:02:57.710><c> set</c><00:02:58.040><c> and</c><00:02:58.250><c> for</c><00:02:58.580><c> the</c><00:02:58.670><c> straight</c>
+
+00:02:58.900 --> 00:02:58.910 align:start position:0%
+this training set and for the straight
+ 
+
+00:02:58.910 --> 00:03:02.500 align:start position:0%
+this training set and for the straight
+line<00:02:59.090><c> to</c><00:02:59.270><c> it</c><00:02:59.420><c> maybe</c><00:03:00.050><c> you</c><00:03:00.290><c> get</c><00:03:00.590><c> a</c><00:03:01.510><c> hypothesis</c>
+
+00:03:02.500 --> 00:03:02.510 align:start position:0%
+line to it maybe you get a hypothesis
+ 
+
+00:03:02.510 --> 00:03:04.150 align:start position:0%
+line to it maybe you get a hypothesis
+that<00:03:02.540><c> looks</c><00:03:02.990><c> like</c><00:03:03.110><c> that</c><00:03:03.350><c> right</c><00:03:03.710><c> so</c><00:03:03.890><c> that's</c><00:03:04.040><c> my</c>
+
+00:03:04.150 --> 00:03:04.160 align:start position:0%
+that looks like that right so that's my
+ 
+
+00:03:04.160 --> 00:03:07.720 align:start position:0%
+that looks like that right so that's my
+hypothesis<00:03:04.880><c> H</c><00:03:05.240><c> of</c><00:03:05.990><c> x</c><00:03:06.230><c> equals</c><00:03:06.740><c> theta</c><00:03:07.250><c> transpose</c>
+
+00:03:07.720 --> 00:03:07.730 align:start position:0%
+hypothesis H of x equals theta transpose
+ 
+
+00:03:07.730 --> 00:03:11.260 align:start position:0%
+hypothesis H of x equals theta transpose
+X<00:03:08.030><c> if</c><00:03:08.350><c> you</c><00:03:09.350><c> want</c><00:03:09.380><c> to</c><00:03:09.710><c> make</c><00:03:09.890><c> predictions</c><00:03:10.270><c> one</c>
+
+00:03:11.260 --> 00:03:11.270 align:start position:0%
+X if you want to make predictions one
+ 
+
+00:03:11.270 --> 00:03:13.230 align:start position:0%
+X if you want to make predictions one
+thing<00:03:11.480><c> you</c><00:03:11.630><c> could</c><00:03:11.900><c> try</c><00:03:12.080><c> doing</c><00:03:12.560><c> is</c><00:03:12.890><c> then</c>
+
+00:03:13.230 --> 00:03:13.240 align:start position:0%
+thing you could try doing is then
+ 
+
+00:03:13.240 --> 00:03:16.990 align:start position:0%
+thing you could try doing is then
+threshold<00:03:14.240><c> the</c><00:03:14.750><c> classifier</c><00:03:15.380><c> output</c><00:03:15.890><c> at</c><00:03:16.130><c> 0.5</c>
+
+00:03:16.990 --> 00:03:17.000 align:start position:0%
+threshold the classifier output at 0.5
+ 
+
+00:03:17.000 --> 00:03:20.890 align:start position:0%
+threshold the classifier output at 0.5
+that<00:03:17.450><c> is</c><00:03:17.600><c> at</c><00:03:17.900><c> the</c><00:03:18.080><c> vertical</c><00:03:18.920><c> axis</c><00:03:19.370><c> value</c><00:03:19.900><c> 0.5</c>
+
+00:03:20.890 --> 00:03:20.900 align:start position:0%
+that is at the vertical axis value 0.5
+ 
+
+00:03:20.900 --> 00:03:24.460 align:start position:0%
+that is at the vertical axis value 0.5
+and<00:03:21.280><c> if</c><00:03:22.280><c> the</c><00:03:23.210><c> hypothesis</c><00:03:23.870><c> outputs</c><00:03:24.020><c> a</c><00:03:24.440><c> value</c>
+
+00:03:24.460 --> 00:03:24.470 align:start position:0%
+and if the hypothesis outputs a value
+ 
+
+00:03:24.470 --> 00:03:26.770 align:start position:0%
+and if the hypothesis outputs a value
+that<00:03:24.980><c> is</c><00:03:25.040><c> greater</c><00:03:25.190><c> than</c><00:03:25.550><c> equal</c><00:03:25.790><c> to</c><00:03:25.940><c> 0.5</c><00:03:26.540><c> you</c>
+
+00:03:26.770 --> 00:03:26.780 align:start position:0%
+that is greater than equal to 0.5 you
+ 
+
+00:03:26.780 --> 00:03:28.930 align:start position:0%
+that is greater than equal to 0.5 you
+predict<00:03:27.110><c> y</c><00:03:27.230><c> equals</c><00:03:27.320><c> 1</c><00:03:27.710><c> this</c><00:03:28.130><c> is</c><00:03:28.280><c> less</c><00:03:28.460><c> than</c><00:03:28.580><c> 0.5</c>
+
+00:03:28.930 --> 00:03:28.940 align:start position:0%
+predict y equals 1 this is less than 0.5
+ 
+
+00:03:28.940 --> 00:03:31.270 align:start position:0%
+predict y equals 1 this is less than 0.5
+you<00:03:29.060><c> predict</c><00:03:29.540><c> y</c><00:03:29.690><c> equals</c><00:03:29.960><c> 0</c><00:03:30.290><c> let's</c><00:03:31.070><c> see</c><00:03:31.160><c> what</c>
+
+00:03:31.270 --> 00:03:31.280 align:start position:0%
+you predict y equals 0 let's see what
+ 
+
+00:03:31.280 --> 00:03:33.340 align:start position:0%
+you predict y equals 0 let's see what
+happens<00:03:31.550><c> we</c><00:03:31.670><c> do</c><00:03:31.760><c> that</c><00:03:31.910><c> so</c><00:03:32.090><c> let's</c><00:03:32.240><c> take</c><00:03:32.390><c> 0.5</c><00:03:32.990><c> and</c>
+
+00:03:33.340 --> 00:03:33.350 align:start position:0%
+happens we do that so let's take 0.5 and
+ 
+
+00:03:33.350 --> 00:03:36.640 align:start position:0%
+happens we do that so let's take 0.5 and
+so<00:03:33.970><c> you</c><00:03:34.970><c> know</c><00:03:35.120><c> that's</c><00:03:35.690><c> where</c><00:03:36.050><c> the</c><00:03:36.170><c> threshold</c>
+
+00:03:36.640 --> 00:03:36.650 align:start position:0%
+so you know that's where the threshold
+ 
+
+00:03:36.650 --> 00:03:39.220 align:start position:0%
+so you know that's where the threshold
+is<00:03:36.830><c> and</c><00:03:37.070><c> thus</c><00:03:37.670><c> using</c><00:03:38.240><c> linear</c><00:03:38.660><c> regression</c><00:03:39.110><c> this</c>
+
+00:03:39.220 --> 00:03:39.230 align:start position:0%
+is and thus using linear regression this
+ 
+
+00:03:39.230 --> 00:03:41.590 align:start position:0%
+is and thus using linear regression this
+way<00:03:39.440><c> everything</c><00:03:40.190><c> to</c><00:03:40.880><c> the</c><00:03:41.000><c> right</c><00:03:41.240><c> of</c><00:03:41.450><c> this</c>
+
+00:03:41.590 --> 00:03:41.600 align:start position:0%
+way everything to the right of this
+ 
+
+00:03:41.600 --> 00:03:43.750 align:start position:0%
+way everything to the right of this
+point<00:03:41.720><c> we</c><00:03:42.290><c> would</c><00:03:42.440><c> end</c><00:03:42.650><c> up</c><00:03:42.770><c> predicting</c><00:03:43.040><c> as</c><00:03:43.460><c> the</c>
+
+00:03:43.750 --> 00:03:43.760 align:start position:0%
+point we would end up predicting as the
+ 
+
+00:03:43.760 --> 00:03:46.090 align:start position:0%
+point we would end up predicting as the
+positive<00:03:44.240><c> class</c><00:03:44.390><c> because</c><00:03:44.990><c> the</c><00:03:45.200><c> output</c><00:03:45.560><c> values</c>
+
+00:03:46.090 --> 00:03:46.100 align:start position:0%
+positive class because the output values
+ 
+
+00:03:46.100 --> 00:03:48.820 align:start position:0%
+positive class because the output values
+is<00:03:46.280><c> greater</c><00:03:46.430><c> than</c><00:03:46.790><c> 0.5</c><00:03:47.570><c> on</c><00:03:47.960><c> the</c><00:03:48.020><c> vertical</c><00:03:48.380><c> axis</c>
+
+00:03:48.820 --> 00:03:48.830 align:start position:0%
+is greater than 0.5 on the vertical axis
+ 
+
+00:03:48.830 --> 00:03:51.340 align:start position:0%
+is greater than 0.5 on the vertical axis
+and<00:03:49.040><c> everything</c><00:03:49.940><c> to</c><00:03:50.510><c> the</c><00:03:50.540><c> left</c><00:03:50.930><c> of</c><00:03:51.140><c> that</c><00:03:51.290><c> point</c>
+
+00:03:51.340 --> 00:03:51.350 align:start position:0%
+and everything to the left of that point
+ 
+
+00:03:51.350 --> 00:03:54.190 align:start position:0%
+and everything to the left of that point
+we<00:03:52.130><c> will</c><00:03:52.310><c> end</c><00:03:52.460><c> up</c><00:03:52.610><c> predicting</c><00:03:52.880><c> as</c><00:03:53.330><c> a</c><00:03:53.660><c> negative</c>
+
+00:03:54.190 --> 00:03:54.200 align:start position:0%
+we will end up predicting as a negative
+ 
+
+00:03:54.200 --> 00:03:57.490 align:start position:0%
+we will end up predicting as a negative
+value<00:03:54.380><c> in</c><00:03:55.090><c> this</c><00:03:56.090><c> particular</c><00:03:56.510><c> example</c><00:03:57.080><c> it</c>
+
+00:03:57.490 --> 00:03:57.500 align:start position:0%
+value in this particular example it
+ 
+
+00:03:57.500 --> 00:03:59.800 align:start position:0%
+value in this particular example it
+looks<00:03:57.710><c> like</c><00:03:58.160><c> linear</c><00:03:58.520><c> regression</c><00:03:59.030><c> is</c><00:03:59.210><c> actually</c>
+
+00:03:59.800 --> 00:03:59.810 align:start position:0%
+looks like linear regression is actually
+ 
+
+00:03:59.810 --> 00:04:02.020 align:start position:0%
+looks like linear regression is actually
+doing<00:04:00.080><c> something</c><00:04:00.350><c> reasonable</c><00:04:01.190><c> even</c><00:04:01.850><c> though</c>
+
+00:04:02.020 --> 00:04:02.030 align:start position:0%
+doing something reasonable even though
+ 
+
+00:04:02.030 --> 00:04:04.120 align:start position:0%
+doing something reasonable even though
+this<00:04:02.330><c> is</c><00:04:02.540><c> a</c><00:04:02.750><c> classification</c><00:04:03.350><c> task</c><00:04:03.890><c> we're</c>
+
+00:04:04.120 --> 00:04:04.130 align:start position:0%
+this is a classification task we're
+ 
+
+00:04:04.130 --> 00:04:06.220 align:start position:0%
+this is a classification task we're
+interested<00:04:04.610><c> in</c><00:04:04.730><c> but</c><00:04:05.510><c> now</c><00:04:05.630><c> let's</c><00:04:05.900><c> try</c><00:04:06.200><c> changing</c>
+
+00:04:06.220 --> 00:04:06.230 align:start position:0%
+interested in but now let's try changing
+ 
+
+00:04:06.230 --> 00:04:09.340 align:start position:0%
+interested in but now let's try changing
+the<00:04:06.830><c> problem</c><00:04:07.100><c> a</c><00:04:07.370><c> bit</c><00:04:07.550><c> let</c><00:04:08.210><c> me</c><00:04:08.330><c> extend</c><00:04:08.750><c> out</c><00:04:08.990><c> the</c>
+
+00:04:09.340 --> 00:04:09.350 align:start position:0%
+the problem a bit let me extend out the
+ 
+
+00:04:09.350 --> 00:04:11.650 align:start position:0%
+the problem a bit let me extend out the
+horizontal<00:04:09.710><c> axis</c><00:04:10.460><c> a</c><00:04:10.490><c> little</c><00:04:10.910><c> bit</c><00:04:11.060><c> and</c><00:04:11.420><c> let's</c>
+
+00:04:11.650 --> 00:04:11.660 align:start position:0%
+horizontal axis a little bit and let's
+ 
+
+00:04:11.660 --> 00:04:13.510 align:start position:0%
+horizontal axis a little bit and let's
+think<00:04:11.810><c> we</c><00:04:11.960><c> got</c><00:04:12.140><c> one</c><00:04:12.410><c> more</c><00:04:12.620><c> training</c><00:04:13.010><c> example</c>
+
+00:04:13.510 --> 00:04:13.520 align:start position:0%
+think we got one more training example
+ 
+
+00:04:13.520 --> 00:04:17.080 align:start position:0%
+think we got one more training example
+way<00:04:14.240><c> out</c><00:04:14.420><c> there</c><00:04:14.690><c> on</c><00:04:14.900><c> the</c><00:04:15.020><c> right</c><00:04:15.880><c> notice</c><00:04:16.880><c> that</c>
+
+00:04:17.080 --> 00:04:17.090 align:start position:0%
+way out there on the right notice that
+ 
+
+00:04:17.090 --> 00:04:19.000 align:start position:0%
+way out there on the right notice that
+that<00:04:17.330><c> additional</c><00:04:17.660><c> training</c><00:04:18.230><c> example</c><00:04:18.710><c> this</c>
+
+00:04:19.000 --> 00:04:19.010 align:start position:0%
+that additional training example this
+ 
+
+00:04:19.010 --> 00:04:20.680 align:start position:0%
+that additional training example this
+one<00:04:19.220><c> out</c><00:04:19.340><c> here</c><00:04:19.640><c> it</c><00:04:20.000><c> doesn't</c><00:04:20.359><c> actually</c><00:04:20.510><c> change</c>
+
+00:04:20.680 --> 00:04:20.690 align:start position:0%
+one out here it doesn't actually change
+ 
+
+00:04:20.690 --> 00:04:22.690 align:start position:0%
+one out here it doesn't actually change
+anything<00:04:21.380><c> right</c><00:04:21.560><c> this</c><00:04:21.770><c> is</c><00:04:21.890><c> you</c><00:04:22.100><c> know</c><00:04:22.190><c> looking</c>
+
+00:04:22.690 --> 00:04:22.700 align:start position:0%
+anything right this is you know looking
+ 
+
+00:04:22.700 --> 00:04:24.940 align:start position:0%
+anything right this is you know looking
+at<00:04:22.790><c> the</c><00:04:22.880><c> training</c><00:04:23.090><c> set</c><00:04:23.390><c> is</c><00:04:23.419><c> pretty</c><00:04:23.870><c> clear</c><00:04:24.470><c> what</c>
+
+00:04:24.940 --> 00:04:24.950 align:start position:0%
+at the training set is pretty clear what
+ 
+
+00:04:24.950 --> 00:04:25.850 align:start position:0%
+at the training set is pretty clear what
+a<00:04:24.979><c> good</c><00:04:25.190><c> hypothesis</c>
+
+00:04:25.850 --> 00:04:25.860 align:start position:0%
+a good hypothesis
+ 
+
+00:04:25.860 --> 00:04:28.040 align:start position:0%
+a good hypothesis
+instead<00:04:26.520><c> well</c><00:04:27.030><c> everything</c><00:04:27.479><c> to</c><00:04:27.599><c> the</c><00:04:27.689><c> right</c><00:04:27.870><c> of</c>
+
+00:04:28.040 --> 00:04:28.050 align:start position:0%
+instead well everything to the right of
+ 
+
+00:04:28.050 --> 00:04:29.510 align:start position:0%
+instead well everything to the right of
+somewhere<00:04:28.319><c> around</c><00:04:28.379><c> here</c><00:04:28.860><c> to</c><00:04:29.099><c> the</c><00:04:29.189><c> right</c><00:04:29.340><c> of</c>
+
+00:04:29.510 --> 00:04:29.520 align:start position:0%
+somewhere around here to the right of
+ 
+
+00:04:29.520 --> 00:04:30.980 align:start position:0%
+somewhere around here to the right of
+this<00:04:29.639><c> we</c><00:04:29.849><c> should</c><00:04:30.030><c> predict</c><00:04:30.300><c> this</c><00:04:30.389><c> positive</c><00:04:30.840><c> and</c>
+
+00:04:30.980 --> 00:04:30.990 align:start position:0%
+this we should predict this positive and
+ 
+
+00:04:30.990 --> 00:04:31.820 align:start position:0%
+this we should predict this positive and
+everything<00:04:31.319><c> to</c><00:04:31.439><c> the</c><00:04:31.530><c> left</c>
+
+00:04:31.820 --> 00:04:31.830 align:start position:0%
+everything to the left
+ 
+
+00:04:31.830 --> 00:04:33.619 align:start position:0%
+everything to the left
+we<00:04:32.099><c> should</c><00:04:32.280><c> probably</c><00:04:32.460><c> predict</c><00:04:33.060><c> this</c><00:04:33.150><c> negative</c>
+
+00:04:33.619 --> 00:04:33.629 align:start position:0%
+we should probably predict this negative
+ 
+
+00:04:33.629 --> 00:04:35.719 align:start position:0%
+we should probably predict this negative
+because<00:04:34.080><c> from</c><00:04:34.650><c> this</c><00:04:34.889><c> training</c><00:04:35.129><c> set</c><00:04:35.400><c> it</c><00:04:35.580><c> looks</c>
+
+00:04:35.719 --> 00:04:35.729 align:start position:0%
+because from this training set it looks
+ 
+
+00:04:35.729 --> 00:04:38.089 align:start position:0%
+because from this training set it looks
+like<00:04:35.909><c> all</c><00:04:36.120><c> the</c><00:04:36.270><c> tumors</c><00:04:36.689><c> larger</c><00:04:37.229><c> than</c><00:04:37.530><c> you</c><00:04:37.979><c> know</c>
+
+00:04:38.089 --> 00:04:38.099 align:start position:0%
+like all the tumors larger than you know
+ 
+
+00:04:38.099 --> 00:04:40.219 align:start position:0%
+like all the tumors larger than you know
+a<00:04:38.129><c> certain</c><00:04:38.370><c> value</c><00:04:38.669><c> around</c><00:04:39.060><c> here</c><00:04:39.449><c> on</c><00:04:39.659><c> malignant</c>
+
+00:04:40.219 --> 00:04:40.229 align:start position:0%
+a certain value around here on malignant
+ 
+
+00:04:40.229 --> 00:04:42.469 align:start position:0%
+a certain value around here on malignant
+and<00:04:40.500><c> all</c><00:04:40.979><c> the</c><00:04:41.189><c> tumors</c><00:04:41.550><c> smaller</c><00:04:41.789><c> than</c><00:04:42.030><c> that</c><00:04:42.180><c> are</c>
+
+00:04:42.469 --> 00:04:42.479 align:start position:0%
+and all the tumors smaller than that are
+ 
+
+00:04:42.479 --> 00:04:44.600 align:start position:0%
+and all the tumors smaller than that are
+not<00:04:43.020><c> malignant</c><00:04:43.439><c> at</c><00:04:43.830><c> least</c><00:04:44.069><c> for</c><00:04:44.219><c> this</c><00:04:44.340><c> training</c>
+
+00:04:44.600 --> 00:04:44.610 align:start position:0%
+not malignant at least for this training
+ 
+
+00:04:44.610 --> 00:04:47.869 align:start position:0%
+not malignant at least for this training
+set<00:04:44.879><c> but</c><00:04:46.009><c> once</c><00:04:47.009><c> we've</c><00:04:47.189><c> added</c><00:04:47.400><c> that</c><00:04:47.819><c> extra</c>
+
+00:04:47.869 --> 00:04:47.879 align:start position:0%
+set but once we've added that extra
+ 
+
+00:04:47.879 --> 00:04:50.689 align:start position:0%
+set but once we've added that extra
+example<00:04:48.719><c> out</c><00:04:48.840><c> here</c><00:04:48.870><c> if</c><00:04:49.409><c> you</c><00:04:49.889><c> now</c><00:04:50.069><c> run</c><00:04:50.099><c> linear</c>
+
+00:04:50.689 --> 00:04:50.699 align:start position:0%
+example out here if you now run linear
+ 
+
+00:04:50.699 --> 00:04:52.969 align:start position:0%
+example out here if you now run linear
+regression<00:04:51.240><c> you</c><00:04:51.689><c> instead</c><00:04:52.199><c> get</c><00:04:52.590><c> a</c><00:04:52.620><c> straight</c>
+
+00:04:52.969 --> 00:04:52.979 align:start position:0%
+regression you instead get a straight
+ 
+
+00:04:52.979 --> 00:04:55.010 align:start position:0%
+regression you instead get a straight
+line<00:04:53.099><c> fit</c><00:04:53.400><c> to</c><00:04:53.550><c> the</c><00:04:53.639><c> data</c><00:04:53.669><c> that</c><00:04:54.539><c> might</c><00:04:54.780><c> maybe</c>
+
+00:04:55.010 --> 00:04:55.020 align:start position:0%
+line fit to the data that might maybe
+ 
+
+00:04:55.020 --> 00:04:59.300 align:start position:0%
+line fit to the data that might maybe
+look<00:04:55.259><c> like</c><00:04:55.469><c> this</c><00:04:55.800><c> and</c><00:04:57.020><c> if</c><00:04:58.020><c> you</c><00:04:58.169><c> now</c><00:04:58.409><c> threshold</c>
+
+00:04:59.300 --> 00:04:59.310 align:start position:0%
+look like this and if you now threshold
+ 
+
+00:04:59.310 --> 00:05:03.950 align:start position:0%
+look like this and if you now threshold
+this<00:04:59.599><c> hypothesis</c><00:05:00.599><c> at</c><00:05:00.870><c> 0.5</c><00:05:01.500><c> you</c><00:05:02.180><c> end</c><00:05:03.180><c> up</c><00:05:03.389><c> with</c><00:05:03.659><c> a</c>
+
+00:05:03.950 --> 00:05:03.960 align:start position:0%
+this hypothesis at 0.5 you end up with a
+ 
+
+00:05:03.960 --> 00:05:06.619 align:start position:0%
+this hypothesis at 0.5 you end up with a
+threshold<00:05:04.500><c> that's</c><00:05:05.250><c> around</c><00:05:05.460><c> here</c><00:05:05.909><c> so</c><00:05:06.419><c> that</c>
+
+00:05:06.619 --> 00:05:06.629 align:start position:0%
+threshold that's around here so that
+ 
+
+00:05:06.629 --> 00:05:08.029 align:start position:0%
+threshold that's around here so that
+everything<00:05:07.050><c> to</c><00:05:07.199><c> the</c><00:05:07.289><c> right</c><00:05:07.319><c> of</c><00:05:07.710><c> this</c><00:05:07.889><c> point</c>
+
+00:05:08.029 --> 00:05:08.039 align:start position:0%
+everything to the right of this point
+ 
+
+00:05:08.039 --> 00:05:09.709 align:start position:0%
+everything to the right of this point
+you<00:05:08.430><c> predict</c><00:05:08.789><c> as</c><00:05:08.939><c> positive</c><00:05:09.419><c> and</c><00:05:09.629><c> everything</c>
+
+00:05:09.709 --> 00:05:09.719 align:start position:0%
+you predict as positive and everything
+ 
+
+00:05:09.719 --> 00:05:11.540 align:start position:0%
+you predict as positive and everything
+to<00:05:10.050><c> the</c><00:05:10.080><c> left</c><00:05:10.349><c> at</c><00:05:10.560><c> that</c><00:05:10.680><c> point</c><00:05:10.740><c> you</c><00:05:11.129><c> predict</c><00:05:11.430><c> as</c>
+
+00:05:11.540 --> 00:05:11.550 align:start position:0%
+to the left at that point you predict as
+ 
+
+00:05:11.550 --> 00:05:16.279 align:start position:0%
+to the left at that point you predict as
+negative<00:05:12.000><c> and</c><00:05:14.029><c> this</c><00:05:15.029><c> seems</c><00:05:15.360><c> a</c><00:05:15.629><c> pretty</c><00:05:15.990><c> bad</c>
+
+00:05:16.279 --> 00:05:16.289 align:start position:0%
+negative and this seems a pretty bad
+ 
+
+00:05:16.289 --> 00:05:18.320 align:start position:0%
+negative and this seems a pretty bad
+thing<00:05:16.319><c> for</c><00:05:16.979><c> linear</c><00:05:17.279><c> regression</c><00:05:17.310><c> to</c><00:05:17.909><c> have</c><00:05:18.060><c> done</c>
+
+00:05:18.320 --> 00:05:18.330 align:start position:0%
+thing for linear regression to have done
+ 
+
+00:05:18.330 --> 00:05:19.790 align:start position:0%
+thing for linear regression to have done
+right<00:05:18.659><c> because</c><00:05:18.900><c> you</c><00:05:19.379><c> know</c><00:05:19.409><c> these</c><00:05:19.740><c> are</c>
+
+00:05:19.790 --> 00:05:19.800 align:start position:0%
+right because you know these are
+ 
+
+00:05:19.800 --> 00:05:21.830 align:start position:0%
+right because you know these are
+positive<00:05:20.550><c> examples</c><00:05:20.610><c> these</c><00:05:21.330><c> are</c><00:05:21.389><c> negative</c>
+
+00:05:21.830 --> 00:05:21.840 align:start position:0%
+positive examples these are negative
+ 
+
+00:05:21.840 --> 00:05:24.559 align:start position:0%
+positive examples these are negative
+examples<00:05:22.560><c> it's</c><00:05:23.159><c> pretty</c><00:05:23.490><c> clear</c><00:05:24.000><c> which</c><00:05:24.300><c> really</c>
+
+00:05:24.559 --> 00:05:24.569 align:start position:0%
+examples it's pretty clear which really
+ 
+
+00:05:24.569 --> 00:05:26.480 align:start position:0%
+examples it's pretty clear which really
+should<00:05:24.840><c> be</c><00:05:24.870><c> separating</c><00:05:25.680><c> the</c><00:05:25.860><c> two</c><00:05:26.009><c> classes</c>
+
+00:05:26.480 --> 00:05:26.490 align:start position:0%
+should be separating the two classes
+ 
+
+00:05:26.490 --> 00:05:28.820 align:start position:0%
+should be separating the two classes
+somewhere<00:05:26.909><c> around</c><00:05:27.000><c> there</c><00:05:27.479><c> but</c><00:05:28.169><c> somehow</c><00:05:28.469><c> by</c>
+
+00:05:28.820 --> 00:05:28.830 align:start position:0%
+somewhere around there but somehow by
+ 
+
+00:05:28.830 --> 00:05:30.800 align:start position:0%
+somewhere around there but somehow by
+adding<00:05:29.279><c> one</c><00:05:29.490><c> example</c><00:05:29.819><c> way</c><00:05:30.210><c> out</c><00:05:30.360><c> here</c><00:05:30.569><c> to</c><00:05:30.690><c> the</c>
+
+00:05:30.800 --> 00:05:30.810 align:start position:0%
+adding one example way out here to the
+ 
+
+00:05:30.810 --> 00:05:33.019 align:start position:0%
+adding one example way out here to the
+right<00:05:30.960><c> this</c><00:05:31.379><c> example</c><00:05:31.770><c> really</c><00:05:32.339><c> isn't</c><00:05:32.759><c> giving</c>
+
+00:05:33.019 --> 00:05:33.029 align:start position:0%
+right this example really isn't giving
+ 
+
+00:05:33.029 --> 00:05:34.879 align:start position:0%
+right this example really isn't giving
+us<00:05:33.150><c> any</c><00:05:33.360><c> new</c><00:05:33.569><c> information</c><00:05:33.810><c> I</c><00:05:34.319><c> mean</c><00:05:34.469><c> it</c><00:05:34.740><c> should</c>
+
+00:05:34.879 --> 00:05:34.889 align:start position:0%
+us any new information I mean it should
+ 
+
+00:05:34.889 --> 00:05:36.589 align:start position:0%
+us any new information I mean it should
+be<00:05:34.979><c> no</c><00:05:35.159><c> surprise</c><00:05:35.190><c> to</c><00:05:35.759><c> the</c><00:05:35.849><c> learning</c><00:05:36.150><c> algorithm</c>
+
+00:05:36.589 --> 00:05:36.599 align:start position:0%
+be no surprise to the learning algorithm
+ 
+
+00:05:36.599 --> 00:05:38.869 align:start position:0%
+be no surprise to the learning algorithm
+that<00:05:37.169><c> the</c><00:05:37.289><c> example</c><00:05:37.740><c> way</c><00:05:37.889><c> out</c><00:05:38.039><c> here</c><00:05:38.400><c> turns</c><00:05:38.759><c> out</c>
+
+00:05:38.869 --> 00:05:38.879 align:start position:0%
+that the example way out here turns out
+ 
+
+00:05:38.879 --> 00:05:39.740 align:start position:0%
+that the example way out here turns out
+to<00:05:38.940><c> be</c><00:05:39.150><c> malignant</c>
+
+00:05:39.740 --> 00:05:39.750 align:start position:0%
+to be malignant
+ 
+
+00:05:39.750 --> 00:05:41.899 align:start position:0%
+to be malignant
+but<00:05:40.379><c> somehow</c><00:05:40.589><c> add</c><00:05:40.919><c> in</c><00:05:41.099><c> that</c><00:05:41.219><c> example</c><00:05:41.610><c> out</c>
+
+00:05:41.899 --> 00:05:41.909 align:start position:0%
+but somehow add in that example out
+ 
+
+00:05:41.909 --> 00:05:44.990 align:start position:0%
+but somehow add in that example out
+there<00:05:42.210><c> cause</c><00:05:42.839><c> linear</c><00:05:43.469><c> regression</c><00:05:44.009><c> to</c><00:05:44.580><c> change</c>
+
+00:05:44.990 --> 00:05:45.000 align:start position:0%
+there cause linear regression to change
+ 
+
+00:05:45.000 --> 00:05:47.629 align:start position:0%
+there cause linear regression to change
+is<00:05:45.330><c> straight</c><00:05:45.659><c> line</c><00:05:45.839><c> fit</c><00:05:46.110><c> to</c><00:05:46.620><c> the</c><00:05:46.740><c> data</c><00:05:46.979><c> from</c>
+
+00:05:47.629 --> 00:05:47.639 align:start position:0%
+is straight line fit to the data from
+ 
+
+00:05:47.639 --> 00:05:49.939 align:start position:0%
+is straight line fit to the data from
+this<00:05:47.849><c> magenta</c><00:05:48.210><c> from</c><00:05:48.930><c> this</c><00:05:49.110><c> magenta</c><00:05:49.440><c> line</c><00:05:49.620><c> out</c>
+
+00:05:49.939 --> 00:05:49.949 align:start position:0%
+this magenta from this magenta line out
+ 
+
+00:05:49.949 --> 00:05:52.540 align:start position:0%
+this magenta from this magenta line out
+here<00:05:50.029><c> to</c><00:05:51.029><c> this</c><00:05:51.180><c> blue</c><00:05:51.449><c> line</c><00:05:51.659><c> over</c><00:05:51.990><c> here</c><00:05:52.020><c> and</c>
+
+00:05:52.540 --> 00:05:52.550 align:start position:0%
+here to this blue line over here and
+ 
+
+00:05:52.550 --> 00:05:56.110 align:start position:0%
+here to this blue line over here and
+caused<00:05:53.550><c> it</c><00:05:53.759><c> to</c><00:05:54.029><c> give</c><00:05:54.210><c> us</c><00:05:54.360><c> a</c><00:05:54.509><c> worse</c><00:05:54.719><c> hypothesis</c>
+
+00:05:56.110 --> 00:05:56.120 align:start position:0%
+caused it to give us a worse hypothesis
+ 
+
+00:05:56.120 --> 00:05:59.269 align:start position:0%
+caused it to give us a worse hypothesis
+so<00:05:57.120><c> applying</c><00:05:57.990><c> linear</c><00:05:58.500><c> regression</c><00:05:59.009><c> to</c><00:05:59.250><c> a</c>
+
+00:05:59.269 --> 00:05:59.279 align:start position:0%
+so applying linear regression to a
+ 
+
+00:05:59.279 --> 00:06:01.749 align:start position:0%
+so applying linear regression to a
+classification<00:05:59.849><c> problem</c><00:06:00.270><c> usually</c><00:06:01.229><c> isn't</c>
+
+00:06:01.749 --> 00:06:01.759 align:start position:0%
+classification problem usually isn't
+ 
+
+00:06:01.759 --> 00:06:05.029 align:start position:0%
+classification problem usually isn't
+often<00:06:02.759><c> isn't</c><00:06:02.939><c> a</c><00:06:03.210><c> great</c><00:06:03.419><c> idea</c><00:06:03.870><c> in</c><00:06:04.080><c> the</c><00:06:04.740><c> first</c>
+
+00:06:05.029 --> 00:06:05.039 align:start position:0%
+often isn't a great idea in the first
+ 
+
+00:06:05.039 --> 00:06:06.980 align:start position:0%
+often isn't a great idea in the first
+instance<00:06:05.550><c> in</c><00:06:05.789><c> the</c><00:06:05.879><c> first</c><00:06:05.909><c> example</c><00:06:06.599><c> before</c><00:06:06.810><c> I</c>
+
+00:06:06.980 --> 00:06:06.990 align:start position:0%
+instance in the first example before I
+ 
+
+00:06:06.990 --> 00:06:09.260 align:start position:0%
+instance in the first example before I
+added<00:06:07.409><c> this</c><00:06:07.560><c> extra</c><00:06:07.740><c> extra</c><00:06:08.520><c> training</c><00:06:08.759><c> example</c>
+
+00:06:09.260 --> 00:06:09.270 align:start position:0%
+added this extra extra training example
+ 
+
+00:06:09.270 --> 00:06:11.869 align:start position:0%
+added this extra extra training example
+previously<00:06:10.020><c> linear</c><00:06:10.949><c> regression</c><00:06:11.400><c> was</c><00:06:11.610><c> just</c>
+
+00:06:11.869 --> 00:06:11.879 align:start position:0%
+previously linear regression was just
+ 
+
+00:06:11.879 --> 00:06:14.659 align:start position:0%
+previously linear regression was just
+getting<00:06:12.180><c> lucky</c><00:06:12.360><c> and</c><00:06:12.870><c> it</c><00:06:13.289><c> got</c><00:06:13.589><c> us</c><00:06:13.800><c> a</c><00:06:13.979><c> hypothesis</c>
+
+00:06:14.659 --> 00:06:14.669 align:start position:0%
+getting lucky and it got us a hypothesis
+ 
+
+00:06:14.669 --> 00:06:16.100 align:start position:0%
+getting lucky and it got us a hypothesis
+that<00:06:14.699><c> you</c><00:06:15.120><c> know</c><00:06:15.240><c> worked</c><00:06:15.449><c> well</c><00:06:15.750><c> for</c><00:06:16.020><c> that</c>
+
+00:06:16.100 --> 00:06:16.110 align:start position:0%
+that you know worked well for that
+ 
+
+00:06:16.110 --> 00:06:19.850 align:start position:0%
+that you know worked well for that
+particular<00:06:16.289><c> example</c><00:06:17.150><c> but</c><00:06:18.150><c> usually</c><00:06:19.139><c> applying</c>
+
+00:06:19.850 --> 00:06:19.860 align:start position:0%
+particular example but usually applying
+ 
+
+00:06:19.860 --> 00:06:22.040 align:start position:0%
+particular example but usually applying
+linear<00:06:20.069><c> regression</c><00:06:20.669><c> to</c><00:06:20.939><c> a</c><00:06:20.969><c> data</c><00:06:21.210><c> set</c><00:06:21.479><c> you</c><00:06:21.930><c> know</c>
+
+00:06:22.040 --> 00:06:22.050 align:start position:0%
+linear regression to a data set you know
+ 
+
+00:06:22.050 --> 00:06:24.140 align:start position:0%
+linear regression to a data set you know
+you<00:06:22.139><c> might</c><00:06:22.409><c> get</c><00:06:22.589><c> lucky</c><00:06:22.650><c> but</c><00:06:23.219><c> often</c><00:06:23.639><c> it</c><00:06:23.789><c> isn't</c><00:06:23.939><c> a</c>
+
+00:06:24.140 --> 00:06:24.150 align:start position:0%
+you might get lucky but often it isn't a
+ 
+
+00:06:24.150 --> 00:06:26.269 align:start position:0%
+you might get lucky but often it isn't a
+good<00:06:24.270><c> idea</c><00:06:24.419><c> so</c><00:06:24.990><c> I</c><00:06:25.229><c> wouldn't</c><00:06:25.589><c> use</c><00:06:25.710><c> linear</c>
+
+00:06:26.269 --> 00:06:26.279 align:start position:0%
+good idea so I wouldn't use linear
+ 
+
+00:06:26.279 --> 00:06:28.869 align:start position:0%
+good idea so I wouldn't use linear
+regression<00:06:26.759><c> for</c><00:06:27.300><c> classification</c><00:06:27.439><c> problems</c>
+
+00:06:28.869 --> 00:06:28.879 align:start position:0%
+regression for classification problems
+ 
+
+00:06:28.879 --> 00:06:32.059 align:start position:0%
+regression for classification problems
+here's<00:06:29.879><c> one</c><00:06:30.150><c> other</c><00:06:30.180><c> funny</c><00:06:30.750><c> thing</c><00:06:31.050><c> about</c><00:06:31.259><c> what</c>
+
+00:06:32.059 --> 00:06:32.069 align:start position:0%
+here's one other funny thing about what
+ 
+
+00:06:32.069 --> 00:06:33.980 align:start position:0%
+here's one other funny thing about what
+would<00:06:32.219><c> happen</c><00:06:32.610><c> if</c><00:06:32.849><c> we</c><00:06:33.060><c> were</c><00:06:33.240><c> to</c><00:06:33.300><c> use</c><00:06:33.689><c> linear</c>
+
+00:06:33.980 --> 00:06:33.990 align:start position:0%
+would happen if we were to use linear
+ 
+
+00:06:33.990 --> 00:06:35.310 align:start position:0%
+would happen if we were to use linear
+regression<00:06:34.589><c> for</c>
+
+00:06:35.310 --> 00:06:35.320 align:start position:0%
+regression for
+ 
+
+00:06:35.320 --> 00:06:38.400 align:start position:0%
+regression for
+problem<00:06:35.920><c> for</c><00:06:36.850><c> classification</c><00:06:37.240><c> we</c><00:06:37.840><c> know</c><00:06:38.080><c> that</c>
+
+00:06:38.400 --> 00:06:38.410 align:start position:0%
+problem for classification we know that
+ 
+
+00:06:38.410 --> 00:06:41.850 align:start position:0%
+problem for classification we know that
+Y<00:06:38.620><c> is</c><00:06:38.650><c> either</c><00:06:38.980><c> 0</c><00:06:39.430><c> or</c><00:06:39.490><c> 1</c><00:06:39.720><c> but</c><00:06:40.720><c> if</c><00:06:41.050><c> you</c><00:06:41.320><c> are</c><00:06:41.470><c> using</c>
+
+00:06:41.850 --> 00:06:41.860 align:start position:0%
+Y is either 0 or 1 but if you are using
+ 
+
+00:06:41.860 --> 00:06:42.690 align:start position:0%
+Y is either 0 or 1 but if you are using
+linear<00:06:42.070><c> regression</c>
+
+00:06:42.690 --> 00:06:42.700 align:start position:0%
+linear regression
+ 
+
+00:06:42.700 --> 00:06:45.210 align:start position:0%
+linear regression
+while<00:06:42.970><c> the</c><00:06:43.090><c> hypothesis</c><00:06:43.840><c> can</c><00:06:44.380><c> output</c><00:06:44.740><c> values</c>
+
+00:06:45.210 --> 00:06:45.220 align:start position:0%
+while the hypothesis can output values
+ 
+
+00:06:45.220 --> 00:06:47.340 align:start position:0%
+while the hypothesis can output values
+that<00:06:45.400><c> are</c><00:06:45.520><c> much</c><00:06:45.730><c> larger</c><00:06:45.940><c> than</c><00:06:46.150><c> 1</c><00:06:46.450><c> or</c><00:06:46.630><c> less</c><00:06:46.690><c> than</c>
+
+00:06:47.340 --> 00:06:47.350 align:start position:0%
+that are much larger than 1 or less than
+ 
+
+00:06:47.350 --> 00:06:50.100 align:start position:0%
+that are much larger than 1 or less than
+0<00:06:47.920><c> even</c><00:06:48.580><c> if</c><00:06:48.730><c> all</c><00:06:48.940><c> of</c><00:06:49.150><c> your</c><00:06:49.240><c> training</c><00:06:49.480><c> examples</c>
+
+00:06:50.100 --> 00:06:50.110 align:start position:0%
+0 even if all of your training examples
+ 
+
+00:06:50.110 --> 00:06:54.570 align:start position:0%
+0 even if all of your training examples
+have<00:06:50.590><c> labels</c><00:06:51.070><c> y</c><00:06:51.340><c> equals</c><00:06:51.880><c> 0</c><00:06:52.210><c> 1</c><00:06:52.510><c> and</c><00:06:53.280><c> it</c><00:06:54.280><c> seems</c>
+
+00:06:54.570 --> 00:06:54.580 align:start position:0%
+have labels y equals 0 1 and it seems
+ 
+
+00:06:54.580 --> 00:06:56.970 align:start position:0%
+have labels y equals 0 1 and it seems
+kind<00:06:54.910><c> of</c><00:06:54.970><c> strange</c><00:06:55.120><c> that</c><00:06:55.720><c> even</c><00:06:56.500><c> though</c><00:06:56.680><c> we</c><00:06:56.950><c> know</c>
+
+00:06:56.970 --> 00:06:56.980 align:start position:0%
+kind of strange that even though we know
+ 
+
+00:06:56.980 --> 00:06:59.430 align:start position:0%
+kind of strange that even though we know
+that<00:06:57.250><c> the</c><00:06:57.640><c> labels</c><00:06:58.120><c> should</c><00:06:58.390><c> be</c><00:06:58.510><c> 0</c><00:06:58.840><c> 1</c><00:06:59.140><c> it</c><00:06:59.320><c> seems</c>
+
+00:06:59.430 --> 00:06:59.440 align:start position:0%
+that the labels should be 0 1 it seems
+ 
+
+00:06:59.440 --> 00:07:01.710 align:start position:0%
+that the labels should be 0 1 it seems
+kind<00:06:59.710><c> of</c><00:06:59.770><c> strange</c><00:06:59.950><c> if</c><00:07:00.460><c> the</c><00:07:01.030><c> algorithm</c><00:07:01.540><c> can</c>
+
+00:07:01.710 --> 00:07:01.720 align:start position:0%
+kind of strange if the algorithm can
+ 
+
+00:07:01.720 --> 00:07:04.110 align:start position:0%
+kind of strange if the algorithm can
+output<00:07:02.080><c> values</c><00:07:02.470><c> much</c><00:07:02.740><c> larger</c><00:07:03.160><c> than</c><00:07:03.280><c> 1</c><00:07:03.490><c> or</c><00:07:03.670><c> much</c>
+
+00:07:04.110 --> 00:07:04.120 align:start position:0%
+output values much larger than 1 or much
+ 
+
+00:07:04.120 --> 00:07:08.649 align:start position:0%
+output values much larger than 1 or much
+smaller<00:07:04.630><c> than</c><00:07:04.870><c> 0</c>
+
+00:07:08.649 --> 00:07:08.659 align:start position:0%
+ 
+ 
+
+00:07:08.659 --> 00:07:11.719 align:start position:0%
+ 
+so<00:07:09.659><c> what</c><00:07:10.079><c> we'll</c><00:07:10.229><c> do</c><00:07:10.469><c> in</c><00:07:10.739><c> the</c><00:07:11.039><c> next</c><00:07:11.189><c> few</c><00:07:11.549><c> videos</c>
+
+00:07:11.719 --> 00:07:11.729 align:start position:0%
+so what we'll do in the next few videos
+ 
+
+00:07:11.729 --> 00:07:14.199 align:start position:0%
+so what we'll do in the next few videos
+is<00:07:12.269><c> develop</c><00:07:12.869><c> an</c><00:07:12.989><c> algorithm</c><00:07:13.319><c> called</c><00:07:14.009><c> logistic</c>
+
+00:07:14.199 --> 00:07:14.209 align:start position:0%
+is develop an algorithm called logistic
+ 
+
+00:07:14.209 --> 00:07:17.149 align:start position:0%
+is develop an algorithm called logistic
+regression<00:07:15.209><c> which</c><00:07:15.749><c> has</c><00:07:15.959><c> the</c><00:07:16.109><c> property</c><00:07:16.349><c> that</c>
+
+00:07:17.149 --> 00:07:17.159 align:start position:0%
+regression which has the property that
+ 
+
+00:07:17.159 --> 00:07:19.699 align:start position:0%
+regression which has the property that
+the<00:07:17.459><c> output</c><00:07:17.999><c> the</c><00:07:18.479><c> predictions</c><00:07:18.629><c> of</c><00:07:19.289><c> logistic</c>
+
+00:07:19.699 --> 00:07:19.709 align:start position:0%
+the output the predictions of logistic
+ 
+
+00:07:19.709 --> 00:07:21.649 align:start position:0%
+the output the predictions of logistic
+regression<00:07:20.159><c> are</c><00:07:20.339><c> always</c><00:07:20.759><c> between</c><00:07:21.029><c> zero</c><00:07:21.629><c> and</c>
+
+00:07:21.649 --> 00:07:21.659 align:start position:0%
+regression are always between zero and
+ 
+
+00:07:21.659 --> 00:07:23.659 align:start position:0%
+regression are always between zero and
+one<00:07:21.929><c> and</c><00:07:22.169><c> doesn't</c><00:07:22.649><c> become</c><00:07:22.919><c> bigger</c><00:07:23.279><c> than</c><00:07:23.459><c> one</c>
+
+00:07:23.659 --> 00:07:23.669 align:start position:0%
+one and doesn't become bigger than one
+ 
+
+00:07:23.669 --> 00:07:26.809 align:start position:0%
+one and doesn't become bigger than one
+or<00:07:23.699><c> become</c><00:07:24.209><c> less</c><00:07:24.419><c> than</c><00:07:24.479><c> zero</c><00:07:25.049><c> and</c><00:07:25.519><c> by</c><00:07:26.519><c> the</c><00:07:26.579><c> way</c>
+
+00:07:26.809 --> 00:07:26.819 align:start position:0%
+or become less than zero and by the way
+ 
+
+00:07:26.819 --> 00:07:29.749 align:start position:0%
+or become less than zero and by the way
+logistic<00:07:27.659><c> regression</c><00:07:28.199><c> is</c><00:07:28.409><c> and</c><00:07:29.159><c> we</c><00:07:29.339><c> will</c><00:07:29.519><c> use</c>
+
+00:07:29.749 --> 00:07:29.759 align:start position:0%
+logistic regression is and we will use
+ 
+
+00:07:29.759 --> 00:07:33.019 align:start position:0%
+logistic regression is and we will use
+it<00:07:29.939><c> as</c><00:07:30.119><c> a</c><00:07:30.509><c> classification</c><00:07:31.019><c> algorithm</c><00:07:31.649><c> is</c><00:07:32.069><c> some</c>
+
+00:07:33.019 --> 00:07:33.029 align:start position:0%
+it as a classification algorithm is some
+ 
+
+00:07:33.029 --> 00:07:36.169 align:start position:0%
+it as a classification algorithm is some
+may<00:07:33.479><c> be</c><00:07:33.539><c> sometimes</c><00:07:34.349><c> confusing</c><00:07:34.949><c> that</c><00:07:35.279><c> the</c><00:07:35.909><c> term</c>
+
+00:07:36.169 --> 00:07:36.179 align:start position:0%
+may be sometimes confusing that the term
+ 
+
+00:07:36.179 --> 00:07:38.419 align:start position:0%
+may be sometimes confusing that the term
+regression<00:07:36.479><c> appears</c><00:07:37.409><c> in</c><00:07:37.619><c> this</c><00:07:37.769><c> name</c><00:07:37.979><c> even</c>
+
+00:07:38.419 --> 00:07:38.429 align:start position:0%
+regression appears in this name even
+ 
+
+00:07:38.429 --> 00:07:40.579 align:start position:0%
+regression appears in this name even
+though<00:07:38.459><c> logistic</c><00:07:39.389><c> regression</c><00:07:39.869><c> is</c><00:07:40.079><c> actually</c><00:07:40.319><c> a</c>
+
+00:07:40.579 --> 00:07:40.589 align:start position:0%
+though logistic regression is actually a
+ 
+
+00:07:40.589 --> 00:07:42.679 align:start position:0%
+though logistic regression is actually a
+classification<00:07:40.979><c> algorithm</c><00:07:41.579><c> but</c><00:07:42.269><c> that's</c><00:07:42.449><c> just</c>
+
+00:07:42.679 --> 00:07:42.689 align:start position:0%
+classification algorithm but that's just
+ 
+
+00:07:42.689 --> 00:07:44.299 align:start position:0%
+classification algorithm but that's just
+the<00:07:42.839><c> name</c><00:07:43.019><c> it</c><00:07:43.139><c> was</c><00:07:43.289><c> given</c><00:07:43.649><c> for</c><00:07:43.679><c> historical</c>
+
+00:07:44.299 --> 00:07:44.309 align:start position:0%
+the name it was given for historical
+ 
+
+00:07:44.309 --> 00:07:46.309 align:start position:0%
+the name it was given for historical
+reasons<00:07:44.489><c> so</c><00:07:44.999><c> don't</c><00:07:45.539><c> be</c><00:07:45.629><c> confused</c><00:07:45.929><c> by</c><00:07:46.139><c> that</c>
+
+00:07:46.309 --> 00:07:46.319 align:start position:0%
+reasons so don't be confused by that
+ 
+
+00:07:46.319 --> 00:07:48.319 align:start position:0%
+reasons so don't be confused by that
+logistic<00:07:47.099><c> regression</c><00:07:47.579><c> is</c><00:07:47.759><c> actually</c><00:07:48.029><c> a</c>
+
+00:07:48.319 --> 00:07:48.329 align:start position:0%
+logistic regression is actually a
+ 
+
+00:07:48.329 --> 00:07:50.659 align:start position:0%
+logistic regression is actually a
+classification<00:07:48.899><c> algorithm</c><00:07:49.469><c> that</c><00:07:50.189><c> we</c><00:07:50.369><c> apply</c>
+
+00:07:50.659 --> 00:07:50.669 align:start position:0%
+classification algorithm that we apply
+ 
+
+00:07:50.669 --> 00:07:53.479 align:start position:0%
+classification algorithm that we apply
+to<00:07:50.699><c> settings</c><00:07:51.359><c> where</c><00:07:51.659><c> the</c><00:07:52.139><c> label</c><00:07:52.499><c> Y</c><00:07:52.679><c> is</c><00:07:53.009><c> the</c>
+
+00:07:53.479 --> 00:07:53.489 align:start position:0%
+to settings where the label Y is the
+ 
+
+00:07:53.489 --> 00:07:56.659 align:start position:0%
+to settings where the label Y is the
+speed<00:07:53.759><c> value</c><00:07:53.909><c> when</c><00:07:54.809><c> is</c><00:07:54.929><c> either</c><00:07:55.109><c> 0</c><00:07:55.529><c> 1</c><00:07:55.669><c> so</c>
+
+00:07:56.659 --> 00:07:56.669 align:start position:0%
+speed value when is either 0 1 so
+ 
+
+00:07:56.669 --> 00:07:59.479 align:start position:0%
+speed value when is either 0 1 so
+hopefully<00:07:57.299><c> you</c><00:07:57.479><c> now</c><00:07:57.629><c> know</c><00:07:57.659><c> why</c><00:07:58.379><c> if</c><00:07:59.159><c> you</c><00:07:59.309><c> have</c><00:07:59.339><c> a</c>
+
+00:07:59.479 --> 00:07:59.489 align:start position:0%
+hopefully you now know why if you have a
+ 
+
+00:07:59.489 --> 00:08:01.699 align:start position:0%
+hopefully you now know why if you have a
+classification<00:07:59.999><c> problem</c><00:08:00.419><c> using</c><00:08:01.169><c> linear</c>
+
+00:08:01.699 --> 00:08:01.709 align:start position:0%
+classification problem using linear
+ 
+
+00:08:01.709 --> 00:08:04.129 align:start position:0%
+classification problem using linear
+regression<00:08:01.739><c> isn't</c><00:08:02.519><c> a</c><00:08:02.549><c> good</c><00:08:02.669><c> idea</c><00:08:02.789><c> in</c><00:08:03.269><c> the</c><00:08:03.899><c> next</c>
+
+00:08:04.129 --> 00:08:04.139 align:start position:0%
+regression isn't a good idea in the next
+ 
+
+00:08:04.139 --> 00:08:05.719 align:start position:0%
+regression isn't a good idea in the next
+video<00:08:04.409><c> we'll</c><00:08:04.709><c> start</c><00:08:04.979><c> working</c><00:08:05.249><c> out</c><00:08:05.549><c> the</c>
+
+00:08:05.719 --> 00:08:05.729 align:start position:0%
+video we'll start working out the
+ 
+
+00:08:05.729 --> 00:08:07.669 align:start position:0%
+video we'll start working out the
+details<00:08:06.149><c> of</c><00:08:06.449><c> the</c><00:08:06.689><c> logistic</c><00:08:07.229><c> regression</c>
+
+00:08:07.669 --> 00:08:07.679 align:start position:0%
+details of the logistic regression
+ 
+
+00:08:07.679 --> 00:08:09.919 align:start position:0%
+details of the logistic regression
+algorithm
+

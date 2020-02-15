@@ -1,0 +1,1624 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.000 align:start position:0%
+ 
+in<00:00:00.210><c> this</c><00:00:00.450><c> next</c><00:00:00.810><c> set</c><00:00:01.050><c> of</c><00:00:01.079><c> videos</c><00:00:01.530><c> I'd</c><00:00:01.829><c> like</c><00:00:01.860><c> to</c>
+
+00:00:02.000 --> 00:00:02.010 align:start position:0%
+in this next set of videos I'd like to
+ 
+
+00:00:02.010 --> 00:00:04.849 align:start position:0%
+in this next set of videos I'd like to
+tell<00:00:02.220><c> you</c><00:00:02.460><c> about</c><00:00:02.720><c> recommender</c><00:00:03.720><c> systems</c><00:00:04.170><c> there</c>
+
+00:00:04.849 --> 00:00:04.859 align:start position:0%
+tell you about recommender systems there
+ 
+
+00:00:04.859 --> 00:00:06.800 align:start position:0%
+tell you about recommender systems there
+are<00:00:04.950><c> two</c><00:00:05.100><c> reasons</c><00:00:05.339><c> I</c><00:00:05.700><c> had</c><00:00:05.850><c> two</c><00:00:06.060><c> motivations</c>
+
+00:00:06.800 --> 00:00:06.810 align:start position:0%
+are two reasons I had two motivations
+ 
+
+00:00:06.810 --> 00:00:08.089 align:start position:0%
+are two reasons I had two motivations
+but<00:00:07.109><c> why</c><00:00:07.319><c> I</c><00:00:07.350><c> wanted</c><00:00:07.799><c> to</c><00:00:07.859><c> talk</c><00:00:08.069><c> about</c>
+
+00:00:08.089 --> 00:00:08.099 align:start position:0%
+but why I wanted to talk about
+ 
+
+00:00:08.099 --> 00:00:10.459 align:start position:0%
+but why I wanted to talk about
+recommender<00:00:08.910><c> systems</c><00:00:09.300><c> the</c><00:00:09.750><c> first</c><00:00:10.019><c> is</c><00:00:10.290><c> just</c>
+
+00:00:10.459 --> 00:00:10.469 align:start position:0%
+recommender systems the first is just
+ 
+
+00:00:10.469 --> 00:00:12.440 align:start position:0%
+recommender systems the first is just
+that<00:00:10.740><c> there's</c><00:00:10.980><c> an</c><00:00:11.099><c> important</c><00:00:11.610><c> application</c><00:00:11.759><c> of</c>
+
+00:00:12.440 --> 00:00:12.450 align:start position:0%
+that there's an important application of
+ 
+
+00:00:12.450 --> 00:00:14.620 align:start position:0%
+that there's an important application of
+machine<00:00:12.809><c> learning</c><00:00:13.070><c> over</c><00:00:14.070><c> the</c><00:00:14.160><c> last</c><00:00:14.309><c> few</c><00:00:14.519><c> years</c>
+
+00:00:14.620 --> 00:00:14.630 align:start position:0%
+machine learning over the last few years
+ 
+
+00:00:14.630 --> 00:00:16.580 align:start position:0%
+machine learning over the last few years
+occasionally<00:00:15.630><c> I</c><00:00:15.660><c> visit</c><00:00:16.170><c> different</c>
+
+00:00:16.580 --> 00:00:16.590 align:start position:0%
+occasionally I visit different
+ 
+
+00:00:16.590 --> 00:00:18.740 align:start position:0%
+occasionally I visit different
+technology<00:00:17.520><c> companies</c><00:00:18.000><c> here</c><00:00:18.300><c> in</c><00:00:18.330><c> Silicon</c>
+
+00:00:18.740 --> 00:00:18.750 align:start position:0%
+technology companies here in Silicon
+ 
+
+00:00:18.750 --> 00:00:20.240 align:start position:0%
+technology companies here in Silicon
+Valley<00:00:18.779><c> and</c><00:00:19.140><c> I</c><00:00:19.350><c> often</c><00:00:19.500><c> talk</c><00:00:19.710><c> to</c><00:00:19.949><c> people</c>
+
+00:00:20.240 --> 00:00:20.250 align:start position:0%
+Valley and I often talk to people
+ 
+
+00:00:20.250 --> 00:00:21.980 align:start position:0%
+Valley and I often talk to people
+working<00:00:20.640><c> on</c><00:00:20.880><c> machine</c><00:00:21.150><c> learning</c><00:00:21.180><c> applications</c>
+
+00:00:21.980 --> 00:00:21.990 align:start position:0%
+working on machine learning applications
+ 
+
+00:00:21.990 --> 00:00:23.900 align:start position:0%
+working on machine learning applications
+there<00:00:22.140><c> and</c><00:00:22.619><c> so</c><00:00:22.740><c> the</c><00:00:22.800><c> most</c><00:00:22.980><c> people</c><00:00:23.340><c> what</c><00:00:23.789><c> are</c>
+
+00:00:23.900 --> 00:00:23.910 align:start position:0%
+there and so the most people what are
+ 
+
+00:00:23.910 --> 00:00:25.550 align:start position:0%
+there and so the most people what are
+your<00:00:24.060><c> most</c><00:00:24.180><c> important</c><00:00:24.779><c> applications</c><00:00:25.380><c> of</c>
+
+00:00:25.550 --> 00:00:25.560 align:start position:0%
+your most important applications of
+ 
+
+00:00:25.560 --> 00:00:27.410 align:start position:0%
+your most important applications of
+machine<00:00:25.650><c> learning</c><00:00:25.949><c> or</c><00:00:26.400><c> one</c><00:00:26.970><c> of</c><00:00:27.090><c> the</c><00:00:27.180><c> machine</c>
+
+00:00:27.410 --> 00:00:27.420 align:start position:0%
+machine learning or one of the machine
+ 
+
+00:00:27.420 --> 00:00:28.849 align:start position:0%
+machine learning or one of the machine
+learning<00:00:27.539><c> applications</c><00:00:28.289><c> that</c><00:00:28.529><c> you</c><00:00:28.650><c> would</c>
+
+00:00:28.849 --> 00:00:28.859 align:start position:0%
+learning applications that you would
+ 
+
+00:00:28.859 --> 00:00:30.650 align:start position:0%
+learning applications that you would
+most<00:00:29.070><c> like</c><00:00:29.279><c> to</c><00:00:29.310><c> get</c><00:00:29.699><c> an</c><00:00:29.939><c> improvement</c><00:00:30.330><c> in</c><00:00:30.599><c> the</c>
+
+00:00:30.650 --> 00:00:30.660 align:start position:0%
+most like to get an improvement in the
+ 
+
+00:00:30.660 --> 00:00:32.630 align:start position:0%
+most like to get an improvement in the
+performance<00:00:30.750><c> of</c><00:00:31.260><c> and</c><00:00:31.590><c> one</c><00:00:32.250><c> of</c><00:00:32.369><c> the</c><00:00:32.460><c> most</c>
+
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+performance of and one of the most
+ 
+
+00:00:32.640 --> 00:00:34.729 align:start position:0%
+performance of and one of the most
+frequent<00:00:33.090><c> answer</c><00:00:33.210><c> I</c><00:00:33.390><c> heard</c><00:00:33.660><c> was</c><00:00:34.050><c> that</c><00:00:34.079><c> there</c>
+
+00:00:34.729 --> 00:00:34.739 align:start position:0%
+frequent answer I heard was that there
+ 
+
+00:00:34.739 --> 00:00:36.380 align:start position:0%
+frequent answer I heard was that there
+are<00:00:34.800><c> many</c><00:00:34.950><c> groups</c><00:00:35.160><c> up</c><00:00:35.430><c> in</c><00:00:35.640><c> Silicon</c><00:00:35.969><c> Valley</c><00:00:36.000><c> now</c>
+
+00:00:36.380 --> 00:00:36.390 align:start position:0%
+are many groups up in Silicon Valley now
+ 
+
+00:00:36.390 --> 00:00:38.360 align:start position:0%
+are many groups up in Silicon Valley now
+trying<00:00:37.050><c> to</c><00:00:37.170><c> build</c><00:00:37.380><c> better</c><00:00:37.559><c> recommender</c>
+
+00:00:38.360 --> 00:00:38.370 align:start position:0%
+trying to build better recommender
+ 
+
+00:00:38.370 --> 00:00:41.420 align:start position:0%
+trying to build better recommender
+systems<00:00:38.790><c> so</c><00:00:39.690><c> if</c><00:00:40.050><c> you</c><00:00:40.230><c> think</c><00:00:40.440><c> about</c><00:00:40.590><c> what</c><00:00:41.070><c> of</c>
+
+00:00:41.420 --> 00:00:41.430 align:start position:0%
+systems so if you think about what of
+ 
+
+00:00:41.430 --> 00:00:44.000 align:start position:0%
+systems so if you think about what of
+the<00:00:41.850><c> website</c><00:00:42.270><c> of</c><00:00:42.540><c> the</c><00:00:42.660><c> Amazon</c><00:00:43.230><c> or</c><00:00:43.530><c> what</c>
+
+00:00:44.000 --> 00:00:44.010 align:start position:0%
+the website of the Amazon or what
+ 
+
+00:00:44.010 --> 00:00:46.430 align:start position:0%
+the website of the Amazon or what
+Netflix<00:00:44.280><c> or</c><00:00:44.760><c> what's</c><00:00:45.329><c> eBay</c><00:00:45.750><c> or</c><00:00:45.989><c> what's</c><00:00:46.230><c> up</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+Netflix or what's eBay or what's up
+ 
+
+00:00:46.440 --> 00:00:49.100 align:start position:0%
+Netflix or what's eBay or what's up
+iTunes<00:00:46.950><c> genius</c><00:00:47.700><c> made</c><00:00:47.969><c> by</c><00:00:48.090><c> Apple</c><00:00:48.450><c> this</c><00:00:48.660><c> there</c>
+
+00:00:49.100 --> 00:00:49.110 align:start position:0%
+iTunes genius made by Apple this there
+ 
+
+00:00:49.110 --> 00:00:51.529 align:start position:0%
+iTunes genius made by Apple this there
+are<00:00:49.200><c> many</c><00:00:49.350><c> websites</c><00:00:49.739><c> or</c><00:00:50.160><c> systems</c><00:00:50.579><c> that</c><00:00:50.760><c> try</c><00:00:51.480><c> to</c>
+
+00:00:51.529 --> 00:00:51.539 align:start position:0%
+are many websites or systems that try to
+ 
+
+00:00:51.539 --> 00:00:53.689 align:start position:0%
+are many websites or systems that try to
+recommend<00:00:52.050><c> new</c><00:00:52.410><c> promised</c><00:00:52.949><c> views</c><00:00:53.219><c> so</c><00:00:53.399><c> Amazon</c>
+
+00:00:53.689 --> 00:00:53.699 align:start position:0%
+recommend new promised views so Amazon
+ 
+
+00:00:53.699 --> 00:00:55.700 align:start position:0%
+recommend new promised views so Amazon
+recommends<00:00:54.210><c> the</c><00:00:54.329><c> books</c><00:00:54.570><c> to</c><00:00:54.750><c> you</c><00:00:54.930><c> Netflix</c><00:00:55.530><c> try</c>
+
+00:00:55.700 --> 00:00:55.710 align:start position:0%
+recommends the books to you Netflix try
+ 
+
+00:00:55.710 --> 00:00:57.439 align:start position:0%
+recommends the books to you Netflix try
+to<00:00:55.770><c> recommend</c><00:00:56.129><c> movies</c><00:00:56.699><c> through</c><00:00:56.940><c> and</c><00:00:57.120><c> so</c><00:00:57.270><c> on</c>
+
+00:00:57.439 --> 00:00:57.449 align:start position:0%
+to recommend movies through and so on
+ 
+
+00:00:57.449 --> 00:00:59.990 align:start position:0%
+to recommend movies through and so on
+and<00:00:57.719><c> these</c><00:00:58.710><c> sorts</c><00:00:59.010><c> of</c><00:00:59.070><c> recommender</c><00:00:59.609><c> systems</c>
+
+00:00:59.990 --> 00:01:00.000 align:start position:0%
+and these sorts of recommender systems
+ 
+
+00:01:00.000 --> 00:01:01.819 align:start position:0%
+and these sorts of recommender systems
+that<00:01:00.300><c> look</c><00:01:00.480><c> at</c><00:01:00.690><c> what</c><00:01:00.719><c> books</c><00:01:01.440><c> you</c><00:01:01.590><c> may</c><00:01:01.680><c> have</c>
+
+00:01:01.819 --> 00:01:01.829 align:start position:0%
+that look at what books you may have
+ 
+
+00:01:01.829 --> 00:01:03.500 align:start position:0%
+that look at what books you may have
+purchased<00:01:02.280><c> in</c><00:01:02.370><c> the</c><00:01:02.399><c> past</c><00:01:02.699><c> or</c><00:01:03.000><c> what</c><00:01:03.149><c> movies</c><00:01:03.329><c> you</c>
+
+00:01:03.500 --> 00:01:03.510 align:start position:0%
+purchased in the past or what movies you
+ 
+
+00:01:03.510 --> 00:01:05.329 align:start position:0%
+purchased in the past or what movies you
+rated<00:01:04.019><c> in</c><00:01:04.140><c> the</c><00:01:04.229><c> past</c><00:01:04.439><c> but</c><00:01:04.949><c> these</c><00:01:05.100><c> sorts</c><00:01:05.309><c> of</c>
+
+00:01:05.329 --> 00:01:05.339 align:start position:0%
+rated in the past but these sorts of
+ 
+
+00:01:05.339 --> 00:01:07.810 align:start position:0%
+rated in the past but these sorts of
+systems<00:01:05.519><c> that</c><00:01:06.000><c> are</c><00:01:06.180><c> responsible</c><00:01:06.990><c> for</c><00:01:07.170><c> today</c><00:01:07.770><c> a</c>
+
+00:01:07.810 --> 00:01:07.820 align:start position:0%
+systems that are responsible for today a
+ 
+
+00:01:07.820 --> 00:01:10.609 align:start position:0%
+systems that are responsible for today a
+substantial<00:01:08.820><c> fraction</c><00:01:09.000><c> of</c><00:01:09.510><c> Amazon's</c><00:01:10.110><c> revenue</c>
+
+00:01:10.609 --> 00:01:10.619 align:start position:0%
+substantial fraction of Amazon's revenue
+ 
+
+00:01:10.619 --> 00:01:12.620 align:start position:0%
+substantial fraction of Amazon's revenue
+and<00:01:10.830><c> for</c><00:01:11.610><c> computing</c><00:01:11.970><c> Netflix</c><00:01:12.390><c> the</c>
+
+00:01:12.620 --> 00:01:12.630 align:start position:0%
+and for computing Netflix the
+ 
+
+00:01:12.630 --> 00:01:14.750 align:start position:0%
+and for computing Netflix the
+recommendations<00:01:13.500><c> that</c><00:01:13.770><c> they</c><00:01:14.280><c> make</c><00:01:14.490><c> to</c><00:01:14.520><c> the</c>
+
+00:01:14.750 --> 00:01:14.760 align:start position:0%
+recommendations that they make to the
+ 
+
+00:01:14.760 --> 00:01:16.370 align:start position:0%
+recommendations that they make to the
+users<00:01:15.150><c> is</c><00:01:15.360><c> also</c><00:01:15.720><c> responsible</c><00:01:16.290><c> for</c>
+
+00:01:16.370 --> 00:01:16.380 align:start position:0%
+users is also responsible for
+ 
+
+00:01:16.380 --> 00:01:18.410 align:start position:0%
+users is also responsible for
+substantial<00:01:17.130><c> fraction</c><00:01:17.250><c> of</c><00:01:17.580><c> the</c><00:01:18.060><c> movies</c>
+
+00:01:18.410 --> 00:01:18.420 align:start position:0%
+substantial fraction of the movies
+ 
+
+00:01:18.420 --> 00:01:20.870 align:start position:0%
+substantial fraction of the movies
+watched<00:01:18.750><c> by</c><00:01:18.960><c> the</c><00:01:19.020><c> users</c><00:01:19.530><c> and</c><00:01:19.740><c> so</c><00:01:20.580><c> an</c>
+
+00:01:20.870 --> 00:01:20.880 align:start position:0%
+watched by the users and so an
+ 
+
+00:01:20.880 --> 00:01:22.640 align:start position:0%
+watched by the users and so an
+improvement<00:01:21.270><c> in</c><00:01:21.689><c> the</c><00:01:21.780><c> performance</c><00:01:21.900><c> of</c><00:01:22.500><c> a</c>
+
+00:01:22.640 --> 00:01:22.650 align:start position:0%
+improvement in the performance of a
+ 
+
+00:01:22.650 --> 00:01:24.520 align:start position:0%
+improvement in the performance of a
+recommender<00:01:23.250><c> system</c><00:01:23.640><c> can</c><00:01:24.240><c> have</c><00:01:24.360><c> a</c>
+
+00:01:24.520 --> 00:01:24.530 align:start position:0%
+recommender system can have a
+ 
+
+00:01:24.530 --> 00:01:27.499 align:start position:0%
+recommender system can have a
+substantial<00:01:25.530><c> and</c><00:01:25.850><c> immediate</c><00:01:26.850><c> impact</c><00:01:27.270><c> on</c><00:01:27.450><c> the</c>
+
+00:01:27.499 --> 00:01:27.509 align:start position:0%
+substantial and immediate impact on the
+ 
+
+00:01:27.509 --> 00:01:30.460 align:start position:0%
+substantial and immediate impact on the
+bottom<00:01:27.780><c> line</c><00:01:27.990><c> of</c><00:01:28.380><c> many</c><00:01:28.590><c> of</c><00:01:28.710><c> these</c><00:01:28.799><c> companies</c><00:01:29.070><c> o</c>
+
+00:01:30.460 --> 00:01:30.470 align:start position:0%
+bottom line of many of these companies o
+ 
+
+00:01:30.470 --> 00:01:32.749 align:start position:0%
+bottom line of many of these companies o
+recommender<00:01:31.470><c> systems</c><00:01:31.860><c> is</c><00:01:32.040><c> kind</c><00:01:32.310><c> of</c><00:01:32.400><c> a</c><00:01:32.460><c> funny</c>
+
+00:01:32.749 --> 00:01:32.759 align:start position:0%
+recommender systems is kind of a funny
+ 
+
+00:01:32.759 --> 00:01:35.240 align:start position:0%
+recommender systems is kind of a funny
+problem<00:01:33.390><c> within</c><00:01:33.840><c> academic</c><00:01:34.500><c> machine</c><00:01:34.860><c> learning</c>
+
+00:01:35.240 --> 00:01:35.250 align:start position:0%
+problem within academic machine learning
+ 
+
+00:01:35.250 --> 00:01:36.620 align:start position:0%
+problem within academic machine learning
+so<00:01:35.520><c> that</c><00:01:35.670><c> you</c><00:01:35.759><c> could</c><00:01:35.909><c> go</c><00:01:36.030><c> to</c><00:01:36.090><c> an</c><00:01:36.420><c> academic</c>
+
+00:01:36.620 --> 00:01:36.630 align:start position:0%
+so that you could go to an academic
+ 
+
+00:01:36.630 --> 00:01:39.140 align:start position:0%
+so that you could go to an academic
+elearning<00:01:37.500><c> conference</c><00:01:38.009><c> the</c><00:01:38.520><c> problem</c><00:01:39.030><c> of</c>
+
+00:01:39.140 --> 00:01:39.150 align:start position:0%
+elearning conference the problem of
+ 
+
+00:01:39.150 --> 00:01:40.580 align:start position:0%
+elearning conference the problem of
+recommender<00:01:39.570><c> systems</c><00:01:39.930><c> actually</c><00:01:40.290><c> receives</c>
+
+00:01:40.580 --> 00:01:40.590 align:start position:0%
+recommender systems actually receives
+ 
+
+00:01:40.590 --> 00:01:42.499 align:start position:0%
+recommender systems actually receives
+you<00:01:40.770><c> know</c><00:01:40.829><c> relatively</c><00:01:41.340><c> little</c><00:01:41.850><c> attention</c><00:01:41.939><c> or</c>
+
+00:01:42.499 --> 00:01:42.509 align:start position:0%
+you know relatively little attention or
+ 
+
+00:01:42.509 --> 00:01:44.870 align:start position:0%
+you know relatively little attention or
+releases<00:01:42.899><c> of</c><00:01:43.049><c> a</c><00:01:43.170><c> smallish</c><00:01:43.920><c> fraction</c><00:01:44.490><c> of</c><00:01:44.700><c> what</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+releases of a smallish fraction of what
+ 
+
+00:01:44.880 --> 00:01:47.600 align:start position:0%
+releases of a smallish fraction of what
+goes<00:01:45.090><c> on</c><00:01:45.299><c> within</c><00:01:46.079><c> academia</c><00:01:46.590><c> but</c><00:01:47.250><c> if</c><00:01:47.369><c> you</c><00:01:47.430><c> look</c>
+
+00:01:47.600 --> 00:01:47.610 align:start position:0%
+goes on within academia but if you look
+ 
+
+00:01:47.610 --> 00:01:49.160 align:start position:0%
+goes on within academia but if you look
+at<00:01:47.759><c> what's</c><00:01:47.970><c> happening</c><00:01:48.329><c> many</c><00:01:48.570><c> technology</c>
+
+00:01:49.160 --> 00:01:49.170 align:start position:0%
+at what's happening many technology
+ 
+
+00:01:49.170 --> 00:01:51.139 align:start position:0%
+at what's happening many technology
+companies<00:01:49.250><c> the</c><00:01:50.250><c> ability</c><00:01:50.340><c> to</c><00:01:50.700><c> build</c><00:01:50.970><c> these</c>
+
+00:01:51.139 --> 00:01:51.149 align:start position:0%
+companies the ability to build these
+ 
+
+00:01:51.149 --> 00:01:53.179 align:start position:0%
+companies the ability to build these
+systems<00:01:51.329><c> seems</c><00:01:52.049><c> to</c><00:01:52.229><c> be</c><00:01:52.290><c> a</c><00:01:52.320><c> high</c><00:01:52.560><c> priority</c><00:01:52.590><c> for</c>
+
+00:01:53.179 --> 00:01:53.189 align:start position:0%
+systems seems to be a high priority for
+ 
+
+00:01:53.189 --> 00:01:55.100 align:start position:0%
+systems seems to be a high priority for
+many<00:01:53.490><c> companies</c><00:01:53.700><c> and</c><00:01:54.119><c> that's</c><00:01:54.689><c> one</c><00:01:54.930><c> of</c><00:01:54.960><c> the</c>
+
+00:01:55.100 --> 00:01:55.110 align:start position:0%
+many companies and that's one of the
+ 
+
+00:01:55.110 --> 00:01:56.630 align:start position:0%
+many companies and that's one of the
+reasons<00:01:55.439><c> why</c><00:01:55.619><c> I</c><00:01:55.649><c> want</c><00:01:55.890><c> to</c><00:01:55.950><c> talk</c><00:01:56.100><c> about</c><00:01:56.250><c> it</c><00:01:56.549><c> in</c>
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+reasons why I want to talk about it in
+ 
+
+00:01:56.640 --> 00:01:59.719 align:start position:0%
+reasons why I want to talk about it in
+response<00:01:57.409><c> the</c><00:01:58.409><c> second</c><00:01:58.829><c> reason</c><00:01:58.979><c> that</c><00:01:59.340><c> I</c><00:01:59.520><c> want</c>
+
+00:01:59.719 --> 00:01:59.729 align:start position:0%
+response the second reason that I want
+ 
+
+00:01:59.729 --> 00:02:01.310 align:start position:0%
+response the second reason that I want
+to<00:01:59.820><c> talk</c><00:01:59.969><c> about</c><00:02:00.119><c> recommender</c><00:02:00.630><c> systems</c><00:02:01.079><c> is</c>
+
+00:02:01.310 --> 00:02:01.320 align:start position:0%
+to talk about recommender systems is
+ 
+
+00:02:01.320 --> 00:02:04.069 align:start position:0%
+to talk about recommender systems is
+that<00:02:01.350><c> as</c><00:02:01.770><c> we</c><00:02:02.399><c> approach</c><00:02:02.579><c> the</c><00:02:03.030><c> last</c><00:02:03.060><c> few</c><00:02:03.600><c> sets</c><00:02:03.960><c> of</c>
+
+00:02:04.069 --> 00:02:04.079 align:start position:0%
+that as we approach the last few sets of
+ 
+
+00:02:04.079 --> 00:02:06.260 align:start position:0%
+that as we approach the last few sets of
+videos<00:02:04.439><c> of</c><00:02:04.619><c> this</c><00:02:04.710><c> class</c><00:02:05.009><c> I</c><00:02:05.219><c> wanted</c><00:02:05.549><c> to</c><00:02:05.759><c> talk</c>
+
+00:02:06.260 --> 00:02:06.270 align:start position:0%
+videos of this class I wanted to talk
+ 
+
+00:02:06.270 --> 00:02:08.540 align:start position:0%
+videos of this class I wanted to talk
+about<00:02:06.450><c> a</c><00:02:06.600><c> few</c><00:02:06.990><c> of</c><00:02:07.020><c> the</c><00:02:07.259><c> big</c><00:02:07.710><c> ideas</c><00:02:08.129><c> in</c><00:02:08.310><c> machine</c>
+
+00:02:08.540 --> 00:02:08.550 align:start position:0%
+about a few of the big ideas in machine
+ 
+
+00:02:08.550 --> 00:02:09.029 align:start position:0%
+about a few of the big ideas in machine
+learning
+
+00:02:09.029 --> 00:02:09.039 align:start position:0%
+learning
+ 
+
+00:02:09.039 --> 00:02:11.490 align:start position:0%
+learning
+share<00:02:09.310><c> view</c><00:02:09.579><c> also</c><00:02:09.849><c> the</c><00:02:10.329><c> big</c><00:02:10.569><c> ideas</c><00:02:11.110><c> in</c><00:02:11.230><c> machine</c>
+
+00:02:11.490 --> 00:02:11.500 align:start position:0%
+share view also the big ideas in machine
+ 
+
+00:02:11.500 --> 00:02:14.280 align:start position:0%
+share view also the big ideas in machine
+learning<00:02:11.650><c> and</c><00:02:12.480><c> we've</c><00:02:13.480><c> already</c><00:02:13.659><c> seen</c><00:02:14.049><c> in</c><00:02:14.200><c> this</c>
+
+00:02:14.280 --> 00:02:14.290 align:start position:0%
+learning and we've already seen in this
+ 
+
+00:02:14.290 --> 00:02:16.589 align:start position:0%
+learning and we've already seen in this
+class<00:02:14.469><c> that</c><00:02:14.670><c> features</c><00:02:15.670><c> are</c><00:02:15.909><c> important</c><00:02:16.510><c> for</c>
+
+00:02:16.589 --> 00:02:16.599 align:start position:0%
+class that features are important for
+ 
+
+00:02:16.599 --> 00:02:18.449 align:start position:0%
+class that features are important for
+machine<00:02:16.900><c> learning</c><00:02:16.930><c> the</c><00:02:17.560><c> features</c><00:02:18.010><c> you</c><00:02:18.159><c> choose</c>
+
+00:02:18.449 --> 00:02:18.459 align:start position:0%
+machine learning the features you choose
+ 
+
+00:02:18.459 --> 00:02:21.089 align:start position:0%
+machine learning the features you choose
+will<00:02:18.819><c> have</c><00:02:19.000><c> a</c><00:02:19.239><c> big</c><00:02:19.540><c> effect</c><00:02:20.290><c> on</c><00:02:20.769><c> the</c>
+
+00:02:21.089 --> 00:02:21.099 align:start position:0%
+will have a big effect on the
+ 
+
+00:02:21.099 --> 00:02:22.619 align:start position:0%
+will have a big effect on the
+performance<00:02:21.310><c> of</c><00:02:21.790><c> your</c><00:02:21.849><c> learning</c><00:02:22.209><c> algorithm</c>
+
+00:02:22.619 --> 00:02:22.629 align:start position:0%
+performance of your learning algorithm
+ 
+
+00:02:22.629 --> 00:02:24.959 align:start position:0%
+performance of your learning algorithm
+so<00:02:23.439><c> this</c><00:02:23.739><c> is</c><00:02:23.859><c> Big</c><00:02:24.040><c> Idea</c><00:02:24.340><c> machine</c><00:02:24.609><c> learning</c>
+
+00:02:24.959 --> 00:02:24.969 align:start position:0%
+so this is Big Idea machine learning
+ 
+
+00:02:24.969 --> 00:02:26.880 align:start position:0%
+so this is Big Idea machine learning
+which<00:02:25.180><c> is</c><00:02:25.209><c> that</c><00:02:25.510><c> for</c><00:02:26.019><c> some</c><00:02:26.260><c> problems</c>
+
+00:02:26.880 --> 00:02:26.890 align:start position:0%
+which is that for some problems
+ 
+
+00:02:26.890 --> 00:02:28.740 align:start position:0%
+which is that for some problems
+maybe<00:02:27.640><c> not</c><00:02:27.819><c> all</c><00:02:27.849><c> problems</c><00:02:28.180><c> with</c><00:02:28.510><c> some</c>
+
+00:02:28.740 --> 00:02:28.750 align:start position:0%
+maybe not all problems with some
+ 
+
+00:02:28.750 --> 00:02:31.589 align:start position:0%
+maybe not all problems with some
+problems<00:02:29.290><c> there</c><00:02:29.829><c> are</c><00:02:30.069><c> algorithms</c><00:02:30.370><c> that</c><00:02:30.760><c> can</c>
+
+00:02:31.589 --> 00:02:31.599 align:start position:0%
+problems there are algorithms that can
+ 
+
+00:02:31.599 --> 00:02:34.289 align:start position:0%
+problems there are algorithms that can
+try<00:02:31.870><c> to</c><00:02:32.040><c> automatically</c><00:02:33.040><c> learn</c><00:02:33.400><c> a</c><00:02:33.760><c> good</c><00:02:34.060><c> set</c><00:02:34.269><c> of</c>
+
+00:02:34.289 --> 00:02:34.299 align:start position:0%
+try to automatically learn a good set of
+ 
+
+00:02:34.299 --> 00:02:36.119 align:start position:0%
+try to automatically learn a good set of
+features<00:02:34.569><c> for</c><00:02:34.930><c> you</c><00:02:35.139><c> so</c><00:02:35.349><c> rather</c><00:02:35.560><c> than</c><00:02:35.829><c> trying</c>
+
+00:02:36.119 --> 00:02:36.129 align:start position:0%
+features for you so rather than trying
+ 
+
+00:02:36.129 --> 00:02:37.920 align:start position:0%
+features for you so rather than trying
+to<00:02:36.189><c> hand</c><00:02:36.700><c> design</c><00:02:37.060><c> your</c><00:02:37.329><c> hand</c><00:02:37.540><c> code</c><00:02:37.780><c> the</c>
+
+00:02:37.920 --> 00:02:37.930 align:start position:0%
+to hand design your hand code the
+ 
+
+00:02:37.930 --> 00:02:39.479 align:start position:0%
+to hand design your hand code the
+features<00:02:38.260><c> which</c><00:02:38.469><c> is</c><00:02:38.590><c> mostly</c><00:02:38.829><c> what</c><00:02:38.920><c> them</c><00:02:39.129><c> do</c><00:02:39.250><c> so</c>
+
+00:02:39.479 --> 00:02:39.489 align:start position:0%
+features which is mostly what them do so
+ 
+
+00:02:39.489 --> 00:02:41.699 align:start position:0%
+features which is mostly what them do so
+far<00:02:39.700><c> there</c><00:02:40.209><c> are</c><00:02:40.239><c> a</c><00:02:40.329><c> few</c><00:02:40.480><c> settings</c><00:02:40.750><c> where</c><00:02:41.260><c> you</c>
+
+00:02:41.699 --> 00:02:41.709 align:start position:0%
+far there are a few settings where you
+ 
+
+00:02:41.709 --> 00:02:42.990 align:start position:0%
+far there are a few settings where you
+might<00:02:41.980><c> be</c><00:02:42.099><c> able</c><00:02:42.159><c> to</c><00:02:42.280><c> have</c><00:02:42.400><c> an</c><00:02:42.489><c> algorithm</c><00:02:42.730><c> just</c>
+
+00:02:42.990 --> 00:02:43.000 align:start position:0%
+might be able to have an algorithm just
+ 
+
+00:02:43.000 --> 00:02:45.089 align:start position:0%
+might be able to have an algorithm just
+learn<00:02:43.269><c> what</c><00:02:43.569><c> features</c><00:02:43.930><c> and</c><00:02:44.109><c> use</c><00:02:44.290><c> and</c><00:02:44.530><c> the</c>
+
+00:02:45.089 --> 00:02:45.099 align:start position:0%
+learn what features and use and the
+ 
+
+00:02:45.099 --> 00:02:46.710 align:start position:0%
+learn what features and use and the
+recommender<00:02:45.639><c> systems</c><00:02:46.000><c> is</c><00:02:46.150><c> just</c><00:02:46.359><c> one</c><00:02:46.569><c> example</c>
+
+00:02:46.710 --> 00:02:46.720 align:start position:0%
+recommender systems is just one example
+ 
+
+00:02:46.720 --> 00:02:48.240 align:start position:0%
+recommender systems is just one example
+that<00:02:47.139><c> sort</c><00:02:47.500><c> of</c><00:02:47.560><c> setting</c><00:02:47.889><c> there</c><00:02:48.069><c> are</c><00:02:48.129><c> many</c>
+
+00:02:48.240 --> 00:02:48.250 align:start position:0%
+that sort of setting there are many
+ 
+
+00:02:48.250 --> 00:02:50.429 align:start position:0%
+that sort of setting there are many
+others<00:02:48.549><c> but</c><00:02:48.579><c> in</c><00:02:49.329><c> going</c><00:02:49.659><c> through</c><00:02:49.750><c> recommender</c>
+
+00:02:50.429 --> 00:02:50.439 align:start position:0%
+others but in going through recommender
+ 
+
+00:02:50.439 --> 00:02:53.250 align:start position:0%
+others but in going through recommender
+systems<00:02:50.829><c> will</c><00:02:51.099><c> be</c><00:02:51.220><c> able</c><00:02:51.549><c> to</c><00:02:51.790><c> go</c><00:02:52.780><c> a</c><00:02:52.810><c> little</c><00:02:53.049><c> bit</c>
+
+00:02:53.250 --> 00:02:53.260 align:start position:0%
+systems will be able to go a little bit
+ 
+
+00:02:53.260 --> 00:02:54.990 align:start position:0%
+systems will be able to go a little bit
+into<00:02:53.470><c> this</c><00:02:53.680><c> idea</c><00:02:54.129><c> of</c><00:02:54.189><c> learning</c><00:02:54.730><c> the</c><00:02:54.849><c> features</c>
+
+00:02:54.990 --> 00:02:55.000 align:start position:0%
+into this idea of learning the features
+ 
+
+00:02:55.000 --> 00:02:57.330 align:start position:0%
+into this idea of learning the features
+and<00:02:55.540><c> you'll</c><00:02:56.200><c> be</c><00:02:56.349><c> able</c><00:02:56.470><c> to</c><00:02:56.560><c> see</c><00:02:56.739><c> at</c><00:02:56.919><c> least</c><00:02:56.950><c> one</c>
+
+00:02:57.330 --> 00:02:57.340 align:start position:0%
+and you'll be able to see at least one
+ 
+
+00:02:57.340 --> 00:02:59.520 align:start position:0%
+and you'll be able to see at least one
+example<00:02:57.489><c> of</c><00:02:58.000><c> this</c><00:02:58.480><c> I</c><00:02:58.689><c> think</c><00:02:58.720><c> big</c><00:02:59.109><c> idea</c><00:02:59.439><c> in</c>
+
+00:02:59.520 --> 00:02:59.530 align:start position:0%
+example of this I think big idea in
+ 
+
+00:02:59.530 --> 00:03:01.949 align:start position:0%
+example of this I think big idea in
+machine<00:02:59.769><c> learning</c><00:03:00.069><c> as</c><00:03:00.159><c> well</c><00:03:00.450><c> so</c><00:03:01.450><c> without</c>
+
+00:03:01.949 --> 00:03:01.959 align:start position:0%
+machine learning as well so without
+ 
+
+00:03:01.959 --> 00:03:04.379 align:start position:0%
+machine learning as well so without
+further<00:03:02.169><c> ado</c><00:03:02.530><c> let's</c><00:03:02.980><c> get</c><00:03:03.129><c> started</c><00:03:03.370><c> and</c><00:03:03.849><c> talk</c>
+
+00:03:04.379 --> 00:03:04.389 align:start position:0%
+further ado let's get started and talk
+ 
+
+00:03:04.389 --> 00:03:05.759 align:start position:0%
+further ado let's get started and talk
+about<00:03:04.569><c> the</c><00:03:04.870><c> recommender</c><00:03:05.409><c> system</c><00:03:05.739><c> problem</c>
+
+00:03:05.759 --> 00:03:05.769 align:start position:0%
+about the recommender system problem
+ 
+
+00:03:05.769 --> 00:03:09.750 align:start position:0%
+about the recommender system problem
+formulation<00:03:06.760><c> as</c><00:03:07.500><c> my</c><00:03:08.500><c> running</c><00:03:08.919><c> example</c><00:03:09.519><c> I'm</c>
+
+00:03:09.750 --> 00:03:09.760 align:start position:0%
+formulation as my running example I'm
+ 
+
+00:03:09.760 --> 00:03:12.149 align:start position:0%
+formulation as my running example I'm
+going<00:03:10.090><c> to</c><00:03:10.209><c> use</c><00:03:10.450><c> the</c><00:03:11.079><c> modem</c><00:03:11.530><c> problem</c><00:03:12.010><c> of</c>
+
+00:03:12.149 --> 00:03:12.159 align:start position:0%
+going to use the modem problem of
+ 
+
+00:03:12.159 --> 00:03:14.699 align:start position:0%
+going to use the modem problem of
+predicting<00:03:12.760><c> movie</c><00:03:13.180><c> ratings</c><00:03:13.659><c> so</c><00:03:14.319><c> here's</c><00:03:14.620><c> a</c>
+
+00:03:14.699 --> 00:03:14.709 align:start position:0%
+predicting movie ratings so here's a
+ 
+
+00:03:14.709 --> 00:03:17.280 align:start position:0%
+predicting movie ratings so here's a
+problem<00:03:14.859><c> imagine</c><00:03:15.639><c> that</c><00:03:15.970><c> you're</c><00:03:16.419><c> a</c><00:03:16.449><c> website</c><00:03:17.109><c> or</c>
+
+00:03:17.280 --> 00:03:17.290 align:start position:0%
+problem imagine that you're a website or
+ 
+
+00:03:17.290 --> 00:03:20.009 align:start position:0%
+problem imagine that you're a website or
+a<00:03:17.319><c> company</c><00:03:17.709><c> that</c><00:03:18.340><c> sells</c><00:03:19.180><c> or</c><00:03:19.449><c> rent</c><00:03:19.690><c> some</c><00:03:19.900><c> movies</c>
+
+00:03:20.009 --> 00:03:20.019 align:start position:0%
+a company that sells or rent some movies
+ 
+
+00:03:20.019 --> 00:03:21.809 align:start position:0%
+a company that sells or rent some movies
+or<00:03:20.500><c> what</c><00:03:20.590><c> have</c><00:03:20.739><c> you</c><00:03:20.769><c> and</c><00:03:21.099><c> so</c><00:03:21.190><c> you</c><00:03:21.489><c> know</c><00:03:21.579><c> Amazon</c>
+
+00:03:21.809 --> 00:03:21.819 align:start position:0%
+or what have you and so you know Amazon
+ 
+
+00:03:21.819 --> 00:03:24.899 align:start position:0%
+or what have you and so you know Amazon
+and<00:03:22.359><c> Netflix</c><00:03:22.449><c> and</c><00:03:23.049><c> I</c><00:03:23.470><c> think</c><00:03:23.919><c> iTunes</c><00:03:24.370><c> are</c><00:03:24.639><c> all</c>
+
+00:03:24.899 --> 00:03:24.909 align:start position:0%
+and Netflix and I think iTunes are all
+ 
+
+00:03:24.909 --> 00:03:27.569 align:start position:0%
+and Netflix and I think iTunes are all
+examples<00:03:25.239><c> of</c><00:03:25.629><c> company</c><00:03:25.989><c> I</c><00:03:26.079><c> do</c><00:03:26.260><c> our</c><00:03:26.889><c> examples</c><00:03:27.459><c> of</c>
+
+00:03:27.569 --> 00:03:27.579 align:start position:0%
+examples of company I do our examples of
+ 
+
+00:03:27.579 --> 00:03:30.210 align:start position:0%
+examples of company I do our examples of
+companies<00:03:27.729><c> that</c><00:03:28.030><c> do</c><00:03:28.180><c> this</c><00:03:28.209><c> and</c><00:03:28.949><c> let's</c><00:03:29.949><c> say</c><00:03:30.159><c> you</c>
+
+00:03:30.210 --> 00:03:30.220 align:start position:0%
+companies that do this and let's say you
+ 
+
+00:03:30.220 --> 00:03:32.939 align:start position:0%
+companies that do this and let's say you
+let<00:03:30.639><c> your</c><00:03:31.090><c> users</c><00:03:31.389><c> rate</c><00:03:32.079><c> different</c><00:03:32.620><c> movies</c>
+
+00:03:32.939 --> 00:03:32.949 align:start position:0%
+let your users rate different movies
+ 
+
+00:03:32.949 --> 00:03:35.969 align:start position:0%
+let your users rate different movies
+using<00:03:33.849><c> a</c><00:03:33.940><c> one</c><00:03:34.150><c> to</c><00:03:34.329><c> five</c><00:03:34.510><c> star</c><00:03:34.840><c> rating</c><00:03:35.290><c> so</c><00:03:35.530><c> using</c>
+
+00:03:35.969 --> 00:03:35.979 align:start position:0%
+using a one to five star rating so using
+ 
+
+00:03:35.979 --> 00:03:38.129 align:start position:0%
+using a one to five star rating so using
+rate<00:03:36.129><c> you</c><00:03:36.310><c> know</c><00:03:36.400><c> something</c><00:03:36.760><c> one</c><00:03:37.060><c> two</c><00:03:37.419><c> three</c>
+
+00:03:38.129 --> 00:03:38.139 align:start position:0%
+rate you know something one two three
+ 
+
+00:03:38.139 --> 00:03:41.399 align:start position:0%
+rate you know something one two three
+four<00:03:38.530><c> or</c><00:03:38.799><c> five</c><00:03:39.040><c> stars</c><00:03:39.400><c> in</c><00:03:40.299><c> order</c><00:03:40.780><c> to</c><00:03:41.109><c> make</c><00:03:41.290><c> this</c>
+
+00:03:41.399 --> 00:03:41.409 align:start position:0%
+four or five stars in order to make this
+ 
+
+00:03:41.409 --> 00:03:43.319 align:start position:0%
+four or five stars in order to make this
+example<00:03:41.949><c> just</c><00:03:42.280><c> a</c><00:03:42.340><c> little</c><00:03:42.609><c> bit</c><00:03:42.729><c> nicer</c><00:03:43.120><c> I'm</c>
+
+00:03:43.319 --> 00:03:43.329 align:start position:0%
+example just a little bit nicer I'm
+ 
+
+00:03:43.329 --> 00:03:46.860 align:start position:0%
+example just a little bit nicer I'm
+going<00:03:43.599><c> to</c><00:03:43.780><c> allow</c><00:03:44.440><c> the</c><00:03:44.500><c> 0</c><00:03:45.069><c> to</c><00:03:46.000><c> 5</c><00:03:46.209><c> stars</c><00:03:46.510><c> as</c><00:03:46.720><c> well</c>
+
+00:03:46.860 --> 00:03:46.870 align:start position:0%
+going to allow the 0 to 5 stars as well
+ 
+
+00:03:46.870 --> 00:03:48.539 align:start position:0%
+going to allow the 0 to 5 stars as well
+because<00:03:47.530><c> that</c><00:03:47.680><c> just</c><00:03:47.829><c> makes</c><00:03:48.010><c> some</c><00:03:48.250><c> of</c><00:03:48.340><c> the</c><00:03:48.400><c> math</c>
+
+00:03:48.539 --> 00:03:48.549 align:start position:0%
+because that just makes some of the math
+ 
+
+00:03:48.549 --> 00:03:50.189 align:start position:0%
+because that just makes some of the math
+come<00:03:48.819><c> out</c><00:03:48.940><c> nicer</c><00:03:49.329><c> although</c><00:03:49.569><c> most</c><00:03:49.780><c> of</c><00:03:49.870><c> most</c><00:03:50.079><c> of</c>
+
+00:03:50.189 --> 00:03:50.199 align:start position:0%
+come out nicer although most of most of
+ 
+
+00:03:50.199 --> 00:03:51.750 align:start position:0%
+come out nicer although most of most of
+these<00:03:50.290><c> websites</c><00:03:50.500><c> use</c><00:03:50.949><c> it</c><00:03:51.099><c> one</c><00:03:51.250><c> to</c><00:03:51.400><c> five</c><00:03:51.579><c> stars</c>
+
+00:03:51.750 --> 00:03:51.760 align:start position:0%
+these websites use it one to five stars
+ 
+
+00:03:51.760 --> 00:03:56.099 align:start position:0%
+these websites use it one to five stars
+view<00:03:52.180><c> so</c><00:03:53.079><c> here</c><00:03:53.439><c> I</c><00:03:53.470><c> have</c><00:03:53.769><c> five</c><00:03:54.010><c> movies</c><00:03:54.430><c> no</c><00:03:55.299><c> love</c>
+
+00:03:56.099 --> 00:03:56.109 align:start position:0%
+view so here I have five movies no love
+ 
+
+00:03:56.109 --> 00:03:58.080 align:start position:0%
+view so here I have five movies no love
+the<00:03:56.229><c> last</c><00:03:56.409><c> romance</c><00:03:57.129><c> forever</c><00:03:57.310><c> a</c><00:03:57.549><c> few</c><00:03:57.819><c> puppies</c>
+
+00:03:58.080 --> 00:03:58.090 align:start position:0%
+the last romance forever a few puppies
+ 
+
+00:03:58.090 --> 00:04:01.379 align:start position:0%
+the last romance forever a few puppies
+of<00:03:58.180><c> love</c><00:03:59.280><c> nonstop</c><00:04:00.280><c> consciousness</c><00:04:00.939><c> sources</c>
+
+00:04:01.379 --> 00:04:01.389 align:start position:0%
+of love nonstop consciousness sources
+ 
+
+00:04:01.389 --> 00:04:04.530 align:start position:0%
+of love nonstop consciousness sources
+the<00:04:01.479><c> karate</c><00:04:01.780><c> and</c><00:04:02.280><c> we</c><00:04:03.280><c> have</c><00:04:03.400><c> four</c><00:04:03.819><c> users</c><00:04:04.239><c> which</c>
+
+00:04:04.530 --> 00:04:04.540 align:start position:0%
+the karate and we have four users which
+ 
+
+00:04:04.540 --> 00:04:06.659 align:start position:0%
+the karate and we have four users which
+calling<00:04:05.409><c> your</c><00:04:05.709><c> Alice</c><00:04:05.979><c> Bob</c><00:04:06.159><c> Carol</c><00:04:06.189><c> and</c><00:04:06.549><c> Dave</c>
+
+00:04:06.659 --> 00:04:06.669 align:start position:0%
+calling your Alice Bob Carol and Dave
+ 
+
+00:04:06.669 --> 00:04:08.969 align:start position:0%
+calling your Alice Bob Carol and Dave
+with<00:04:07.120><c> the</c><00:04:07.209><c> initials</c><00:04:07.599><c> ap</c><00:04:07.930><c> C</c><00:04:08.109><c> and</c><00:04:08.229><c> D</c><00:04:08.349><c> call</c><00:04:08.799><c> them</c>
+
+00:04:08.969 --> 00:04:08.979 align:start position:0%
+with the initials ap C and D call them
+ 
+
+00:04:08.979 --> 00:04:11.219 align:start position:0%
+with the initials ap C and D call them
+users<00:04:09.340><c> one</c><00:04:09.519><c> two</c><00:04:09.669><c> three</c><00:04:09.909><c> and</c><00:04:10.030><c> four</c><00:04:10.239><c> so</c><00:04:10.989><c> let's</c>
+
+00:04:11.219 --> 00:04:11.229 align:start position:0%
+users one two three and four so let's
+ 
+
+00:04:11.229 --> 00:04:13.080 align:start position:0%
+users one two three and four so let's
+say<00:04:11.379><c> Alice</c><00:04:11.769><c> really</c><00:04:12.099><c> likes</c><00:04:12.400><c> love</c><00:04:12.790><c> at</c><00:04:12.970><c> last</c>
+
+00:04:13.080 --> 00:04:13.090 align:start position:0%
+say Alice really likes love at last
+ 
+
+00:04:13.090 --> 00:04:15.179 align:start position:0%
+say Alice really likes love at last
+embrace<00:04:13.389><c> that</c><00:04:13.689><c> five</c><00:04:13.959><c> stars</c><00:04:14.290><c> really</c><00:04:14.979><c> likes</c>
+
+00:04:15.179 --> 00:04:15.189 align:start position:0%
+embrace that five stars really likes
+ 
+
+00:04:15.189 --> 00:04:18.240 align:start position:0%
+embrace that five stars really likes
+romance<00:04:16.000><c> forever</c><00:04:16.180><c> grace</c><00:04:16.750><c> at</c><00:04:16.930><c> five</c><00:04:17.139><c> stars</c><00:04:17.440><c> she</c>
+
+00:04:18.240 --> 00:04:18.250 align:start position:0%
+romance forever grace at five stars she
+ 
+
+00:04:18.250 --> 00:04:19.979 align:start position:0%
+romance forever grace at five stars she
+did<00:04:18.430><c> not</c><00:04:18.579><c> watch</c><00:04:18.789><c> two</c><00:04:19.029><c> puppies</c><00:04:19.389><c> a</c><00:04:19.419><c> lot</c><00:04:19.659><c> but</c><00:04:19.840><c> did</c>
+
+00:04:19.979 --> 00:04:19.989 align:start position:0%
+did not watch two puppies a lot but did
+ 
+
+00:04:19.989 --> 00:04:21.340 align:start position:0%
+did not watch two puppies a lot but did
+not<00:04:20.109><c> rate</c><00:04:20.349><c> it</c><00:04:20.529><c> so</c><00:04:20.799><c> we</c><00:04:20.979><c> don't</c>
+
+00:04:21.340 --> 00:04:21.350 align:start position:0%
+not rate it so we don't
+ 
+
+00:04:21.350 --> 00:04:24.280 align:start position:0%
+not rate it so we don't
+arranging<00:04:21.800><c> for</c><00:04:22.250><c> that</c><00:04:22.400><c> and</c><00:04:22.870><c> Alice</c><00:04:23.870><c> really</c><00:04:24.140><c> did</c>
+
+00:04:24.280 --> 00:04:24.290 align:start position:0%
+arranging for that and Alice really did
+ 
+
+00:04:24.290 --> 00:04:26.890 align:start position:0%
+arranging for that and Alice really did
+not<00:04:24.470><c> like</c><00:04:24.770><c> non-stop</c><00:04:25.310><c> car</c><00:04:25.700><c> chases</c><00:04:26.180><c> all</c><00:04:26.420><c> sources</c>
+
+00:04:26.890 --> 00:04:26.900 align:start position:0%
+not like non-stop car chases all sources
+ 
+
+00:04:26.900 --> 00:04:30.700 align:start position:0%
+not like non-stop car chases all sources
+karate<00:04:27.440><c> and</c><00:04:28.390><c> different</c><00:04:29.390><c> user</c><00:04:29.510><c> Bob</c><00:04:29.900><c> use</c><00:04:30.380><c> the</c><00:04:30.500><c> to</c>
+
+00:04:30.700 --> 00:04:30.710 align:start position:0%
+karate and different user Bob use the to
+ 
+
+00:04:30.710 --> 00:04:33.010 align:start position:0%
+karate and different user Bob use the to
+maybe<00:04:31.340><c> raise</c><00:04:31.520><c> the</c><00:04:31.700><c> different</c><00:04:32.030><c> sets</c><00:04:32.600><c> maybe</c><00:04:32.810><c> he</c>
+
+00:04:33.010 --> 00:04:33.020 align:start position:0%
+maybe raise the different sets maybe he
+ 
+
+00:04:33.020 --> 00:04:35.050 align:start position:0%
+maybe raise the different sets maybe he
+likes<00:04:33.230><c> love</c><00:04:33.470><c> it</c><00:04:33.590><c> laws</c><00:04:33.770><c> did</c><00:04:34.490><c> not</c><00:04:34.520><c> to</c><00:04:34.880><c> watch</c>
+
+00:04:35.050 --> 00:04:35.060 align:start position:0%
+likes love it laws did not to watch
+ 
+
+00:04:35.060 --> 00:04:41.020 align:start position:0%
+likes love it laws did not to watch
+romance<00:04:35.480><c> forever</c><00:04:35.660><c> just</c><00:04:36.260><c> as</c><00:04:36.470><c> 18400</c><00:04:38.530><c> and</c><00:04:40.030><c> maybe</c>
+
+00:04:41.020 --> 00:04:41.030 align:start position:0%
+romance forever just as 18400 and maybe
+ 
+
+00:04:41.030 --> 00:04:44.260 align:start position:0%
+romance forever just as 18400 and maybe
+a<00:04:41.150><c> third</c><00:04:41.420><c> user</c><00:04:41.720><c> raise</c><00:04:42.410><c> the</c><00:04:42.650><c> zero</c><00:04:43.190><c> did</c><00:04:44.060><c> not</c>
+
+00:04:44.260 --> 00:04:44.270 align:start position:0%
+a third user raise the zero did not
+ 
+
+00:04:44.270 --> 00:04:47.290 align:start position:0%
+a third user raise the zero did not
+watch<00:04:44.480><c> that</c><00:04:44.800><c> 1:05</c><00:04:45.800><c> founder</c><00:04:46.340><c> and</c><00:04:46.610><c> you</c><00:04:47.210><c> know</c>
+
+00:04:47.290 --> 00:04:47.300 align:start position:0%
+watch that 1:05 founder and you know
+ 
+
+00:04:47.300 --> 00:04:50.220 align:start position:0%
+watch that 1:05 founder and you know
+let's<00:04:47.480><c> just</c><00:04:47.510><c> learn</c><00:04:47.810><c> some</c><00:04:48.020><c> of</c><00:04:48.050><c> the</c><00:04:48.200><c> numbers</c>
+
+00:04:50.220 --> 00:04:50.230 align:start position:0%
+let's just learn some of the numbers
+ 
+
+00:04:50.230 --> 00:04:54.250 align:start position:0%
+let's just learn some of the numbers
+okay<00:04:51.230><c> and</c><00:04:51.650><c> so</c><00:04:52.520><c> just</c><00:04:52.850><c> to</c><00:04:53.090><c> introduce</c><00:04:53.600><c> a</c><00:04:53.990><c> bit</c><00:04:54.140><c> of</c>
+
+00:04:54.250 --> 00:04:54.260 align:start position:0%
+okay and so just to introduce a bit of
+ 
+
+00:04:54.260 --> 00:04:56.140 align:start position:0%
+okay and so just to introduce a bit of
+notation<00:04:54.620><c> this</c><00:04:55.010><c> notation</c><00:04:55.400><c> be</c><00:04:55.820><c> using</c>
+
+00:04:56.140 --> 00:04:56.150 align:start position:0%
+notation this notation be using
+ 
+
+00:04:56.150 --> 00:04:58.840 align:start position:0%
+notation this notation be using
+throughout<00:04:56.390><c> I'm</c><00:04:57.140><c> going</c><00:04:57.410><c> to</c><00:04:57.530><c> use</c><00:04:57.740><c> nu</c><00:04:58.340><c> to</c><00:04:58.700><c> denote</c>
+
+00:04:58.840 --> 00:04:58.850 align:start position:0%
+throughout I'm going to use nu to denote
+ 
+
+00:04:58.850 --> 00:05:00.910 align:start position:0%
+throughout I'm going to use nu to denote
+the<00:04:59.210><c> number</c><00:04:59.240><c> of</c><00:04:59.570><c> users</c><00:04:59.660><c> so</c><00:05:00.410><c> in</c><00:05:00.650><c> this</c><00:05:00.740><c> example</c>
+
+00:05:00.910 --> 00:05:00.920 align:start position:0%
+the number of users so in this example
+ 
+
+00:05:00.920 --> 00:05:04.030 align:start position:0%
+the number of users so in this example
+and<00:05:01.550><c> you</c><00:05:02.030><c> will</c><00:05:02.180><c> be</c><00:05:02.300><c> equal</c><00:05:02.660><c> to</c><00:05:02.840><c> four</c><00:05:03.260><c> so</c><00:05:03.500><c> the</c><00:05:03.860><c> new</c>
+
+00:05:04.030 --> 00:05:04.040 align:start position:0%
+and you will be equal to four so the new
+ 
+
+00:05:04.040 --> 00:05:07.780 align:start position:0%
+and you will be equal to four so the new
+subscript<00:05:04.550><c> stands</c><00:05:04.730><c> for</c><00:05:04.910><c> users</c><00:05:05.270><c> and</c><00:05:06.490><c> nm</c><00:05:07.490><c> I'm</c>
+
+00:05:07.780 --> 00:05:07.790 align:start position:0%
+subscript stands for users and nm I'm
+ 
+
+00:05:07.790 --> 00:05:09.070 align:start position:0%
+subscript stands for users and nm I'm
+going<00:05:07.970><c> to</c><00:05:08.060><c> use</c><00:05:08.210><c> to</c><00:05:08.360><c> denote</c><00:05:08.630><c> the</c><00:05:08.780><c> number</c><00:05:08.810><c> of</c>
+
+00:05:09.070 --> 00:05:09.080 align:start position:0%
+going to use to denote the number of
+ 
+
+00:05:09.080 --> 00:05:11.980 align:start position:0%
+going to use to denote the number of
+movies<00:05:09.170><c> so</c><00:05:09.470><c> here</c><00:05:09.890><c> I</c><00:05:09.920><c> have</c><00:05:10.340><c> five</c><00:05:11.060><c> movies</c><00:05:11.510><c> so</c><00:05:11.780><c> in</c>
+
+00:05:11.980 --> 00:05:11.990 align:start position:0%
+movies so here I have five movies so in
+ 
+
+00:05:11.990 --> 00:05:13.990 align:start position:0%
+movies so here I have five movies so in
+M<00:05:12.230><c> equals</c><00:05:12.710><c> five</c><00:05:13.010><c> and</c><00:05:13.310><c> you</c><00:05:13.580><c> know</c><00:05:13.670><c> for</c><00:05:13.880><c> this</c>
+
+00:05:13.990 --> 00:05:14.000 align:start position:0%
+M equals five and you know for this
+ 
+
+00:05:14.000 --> 00:05:17.530 align:start position:0%
+M equals five and you know for this
+example<00:05:14.300><c> um</c><00:05:14.660><c> I</c><00:05:15.320><c> have</c><00:05:15.590><c> for</c><00:05:16.130><c> this</c><00:05:16.220><c> example</c><00:05:16.730><c> have</c>
+
+00:05:17.530 --> 00:05:17.540 align:start position:0%
+example um I have for this example have
+ 
+
+00:05:17.540 --> 00:05:20.680 align:start position:0%
+example um I have for this example have
+loosely<00:05:18.050><c> three</c><00:05:18.830><c> maybe</c><00:05:19.730><c> romantic</c><00:05:20.420><c> romantic</c>
+
+00:05:20.680 --> 00:05:20.690 align:start position:0%
+loosely three maybe romantic romantic
+ 
+
+00:05:20.690 --> 00:05:24.520 align:start position:0%
+loosely three maybe romantic romantic
+comedy<00:05:21.350><c> movies</c><00:05:21.740><c> and</c><00:05:22.330><c> three</c><00:05:23.330><c> two</c><00:05:23.840><c> action</c>
+
+00:05:24.520 --> 00:05:24.530 align:start position:0%
+comedy movies and three two action
+ 
+
+00:05:24.530 --> 00:05:26.470 align:start position:0%
+comedy movies and three two action
+movies<00:05:24.950><c> and</c><00:05:25.310><c> you</c><00:05:25.640><c> know</c><00:05:25.670><c> if</c><00:05:25.940><c> you</c><00:05:26.180><c> look</c><00:05:26.300><c> at</c><00:05:26.420><c> a</c>
+
+00:05:26.470 --> 00:05:26.480 align:start position:0%
+movies and you know if you look at a
+ 
+
+00:05:26.480 --> 00:05:28.450 align:start position:0%
+movies and you know if you look at a
+small<00:05:26.690><c> example</c><00:05:26.720><c> it</c><00:05:27.500><c> looks</c><00:05:27.770><c> like</c><00:05:27.920><c> Alice</c><00:05:28.280><c> and</c>
+
+00:05:28.450 --> 00:05:28.460 align:start position:0%
+small example it looks like Alice and
+ 
+
+00:05:28.460 --> 00:05:31.620 align:start position:0%
+small example it looks like Alice and
+Bob<00:05:28.670><c> are</c><00:05:29.000><c> giving</c><00:05:29.900><c> high</c><00:05:30.200><c> ratings</c><00:05:30.740><c> to</c><00:05:31.160><c> these</c>
+
+00:05:31.620 --> 00:05:31.630 align:start position:0%
+Bob are giving high ratings to these
+ 
+
+00:05:31.630 --> 00:05:34.210 align:start position:0%
+Bob are giving high ratings to these
+romantic<00:05:32.630><c> comedies</c><00:05:33.110><c> or</c><00:05:33.440><c> movies</c><00:05:33.950><c> about</c><00:05:34.070><c> love</c>
+
+00:05:34.210 --> 00:05:34.220 align:start position:0%
+romantic comedies or movies about love
+ 
+
+00:05:34.220 --> 00:05:36.700 align:start position:0%
+romantic comedies or movies about love
+and<00:05:34.610><c> giving</c><00:05:34.850><c> very</c><00:05:35.060><c> low</c><00:05:35.300><c> ratings</c><00:05:35.750><c> about</c><00:05:36.530><c> the</c>
+
+00:05:36.700 --> 00:05:36.710 align:start position:0%
+and giving very low ratings about the
+ 
+
+00:05:36.710 --> 00:05:39.040 align:start position:0%
+and giving very low ratings about the
+action<00:05:37.070><c> movies</c><00:05:37.430><c> and</c><00:05:37.610><c> for</c><00:05:38.150><c> Karen</c><00:05:38.540><c> Davis</c><00:05:38.930><c> the</c>
+
+00:05:39.040 --> 00:05:39.050 align:start position:0%
+action movies and for Karen Davis the
+ 
+
+00:05:39.050 --> 00:05:40.960 align:start position:0%
+action movies and for Karen Davis the
+opposite<00:05:39.440><c> right</c><00:05:39.650><c> Carol</c><00:05:40.040><c> or</c><00:05:40.130><c> Dave</c><00:05:40.340><c> uses</c><00:05:40.820><c> three</c>
+
+00:05:40.960 --> 00:05:40.970 align:start position:0%
+opposite right Carol or Dave uses three
+ 
+
+00:05:40.970 --> 00:05:42.940 align:start position:0%
+opposite right Carol or Dave uses three
+info<00:05:41.300><c> really</c><00:05:41.900><c> like</c><00:05:42.080><c> the</c><00:05:42.230><c> action</c><00:05:42.560><c> movies</c><00:05:42.920><c> and</c>
+
+00:05:42.940 --> 00:05:42.950 align:start position:0%
+info really like the action movies and
+ 
+
+00:05:42.950 --> 00:05:45.640 align:start position:0%
+info really like the action movies and
+during<00:05:43.400><c> high</c><00:05:43.610><c> ratings</c><00:05:44.060><c> but</c><00:05:44.630><c> don't</c><00:05:45.170><c> like</c><00:05:45.410><c> the</c>
+
+00:05:45.640 --> 00:05:45.650 align:start position:0%
+during high ratings but don't like the
+ 
+
+00:05:45.650 --> 00:05:49.650 align:start position:0%
+during high ratings but don't like the
+romance<00:05:46.520><c> and</c><00:05:46.790><c> love</c><00:05:46.880><c> type</c><00:05:47.300><c> movies</c><00:05:47.690><c> as</c><00:05:48.350><c> much</c>
+
+00:05:49.650 --> 00:05:49.660 align:start position:0%
+romance and love type movies as much
+ 
+
+00:05:49.660 --> 00:05:52.120 align:start position:0%
+romance and love type movies as much
+specifically<00:05:50.660><c> in</c><00:05:50.930><c> the</c><00:05:51.230><c> recommender</c><00:05:51.770><c> system</c>
+
+00:05:52.120 --> 00:05:52.130 align:start position:0%
+specifically in the recommender system
+ 
+
+00:05:52.130 --> 00:05:54.400 align:start position:0%
+specifically in the recommender system
+problem<00:05:52.160><c> we</c><00:05:53.090><c> are</c><00:05:53.120><c> given</c><00:05:53.360><c> the</c><00:05:53.660><c> following</c><00:05:54.050><c> data</c>
+
+00:05:54.400 --> 00:05:54.410 align:start position:0%
+problem we are given the following data
+ 
+
+00:05:54.410 --> 00:05:56.680 align:start position:0%
+problem we are given the following data
+or<00:05:54.860><c> data</c><00:05:55.130><c> comprises</c><00:05:56.120><c> following</c><00:05:56.480><c> we</c><00:05:56.600><c> have</c>
+
+00:05:56.680 --> 00:05:56.690 align:start position:0%
+or data comprises following we have
+ 
+
+00:05:56.690 --> 00:06:00.010 align:start position:0%
+or data comprises following we have
+these<00:05:56.840><c> values</c><00:05:57.080><c> are</c><00:05:57.500><c> IJ</c><00:05:58.130><c> and</c><00:05:58.400><c> RR</c><00:05:59.210><c> j</c><00:05:59.360><c> is</c><00:05:59.420><c> 1</c><00:05:59.750><c> if</c>
+
+00:06:00.010 --> 00:06:00.020 align:start position:0%
+these values are IJ and RR j is 1 if
+ 
+
+00:06:00.020 --> 00:06:02.560 align:start position:0%
+these values are IJ and RR j is 1 if
+user<00:06:00.290><c> J</c><00:06:00.620><c> has</c><00:06:00.650><c> rated</c><00:06:00.830><c> movie</c><00:06:01.460><c> I</c><00:06:01.610><c> so</c><00:06:02.090><c> I</c><00:06:02.120><c> use</c><00:06:02.390><c> this</c>
+
+00:06:02.560 --> 00:06:02.570 align:start position:0%
+user J has rated movie I so I use this
+ 
+
+00:06:02.570 --> 00:06:04.930 align:start position:0%
+user J has rated movie I so I use this
+rate<00:06:02.870><c> only</c><00:06:03.080><c> some</c><00:06:03.410><c> of</c><00:06:03.470><c> the</c><00:06:03.560><c> movies</c><00:06:03.920><c> and</c><00:06:04.220><c> so</c><00:06:04.400><c> you</c>
+
+00:06:04.930 --> 00:06:04.940 align:start position:0%
+rate only some of the movies and so you
+ 
+
+00:06:04.940 --> 00:06:06.700 align:start position:0%
+rate only some of the movies and so you
+know<00:06:05.060><c> has</c><00:06:05.450><c> we</c><00:06:05.840><c> don't</c><00:06:06.020><c> have</c><00:06:06.200><c> ratings</c><00:06:06.530><c> with</c>
+
+00:06:06.700 --> 00:06:06.710 align:start position:0%
+know has we don't have ratings with
+ 
+
+00:06:06.710 --> 00:06:10.000 align:start position:0%
+know has we don't have ratings with
+those<00:06:06.860><c> movies</c><00:06:07.220><c> and</c><00:06:07.510><c> whenever</c><00:06:08.510><c> R</c><00:06:09.050><c> IJ</c><00:06:09.620><c> is</c><00:06:09.860><c> equal</c>
+
+00:06:10.000 --> 00:06:10.010 align:start position:0%
+those movies and whenever R IJ is equal
+ 
+
+00:06:10.010 --> 00:06:12.520 align:start position:0%
+those movies and whenever R IJ is equal
+to<00:06:10.280><c> 1</c><00:06:10.490><c> whenever</c><00:06:10.790><c> user</c><00:06:11.480><c> J</c><00:06:11.780><c> has</c><00:06:11.810><c> rated</c><00:06:11.990><c> movie</c><00:06:12.500><c> I</c>
+
+00:06:12.520 --> 00:06:12.530 align:start position:0%
+to 1 whenever user J has rated movie I
+ 
+
+00:06:12.530 --> 00:06:14.440 align:start position:0%
+to 1 whenever user J has rated movie I
+we<00:06:13.130><c> also</c><00:06:13.310><c> get</c><00:06:13.880><c> the</c><00:06:14.060><c> num</c>
+
+00:06:14.440 --> 00:06:14.450 align:start position:0%
+we also get the num
+ 
+
+00:06:14.450 --> 00:06:16.480 align:start position:0%
+we also get the num
+get<00:06:14.570><c> this</c><00:06:14.750><c> number</c><00:06:15.110><c> of</c><00:06:15.230><c> yr</c><00:06:15.680><c> J</c><00:06:15.950><c> which</c><00:06:16.220><c> is</c><00:06:16.400><c> the</c>
+
+00:06:16.480 --> 00:06:16.490 align:start position:0%
+get this number of yr J which is the
+ 
+
+00:06:16.490 --> 00:06:19.120 align:start position:0%
+get this number of yr J which is the
+rating<00:06:16.910><c> given</c><00:06:17.390><c> by</c><00:06:17.660><c> user</c><00:06:17.960><c> J</c><00:06:18.200><c> to</c><00:06:18.260><c> movie</c><00:06:18.620><c> R</c><00:06:18.740><c> and</c><00:06:18.950><c> so</c>
+
+00:06:19.120 --> 00:06:19.130 align:start position:0%
+rating given by user J to movie R and so
+ 
+
+00:06:19.130 --> 00:06:22.360 align:start position:0%
+rating given by user J to movie R and so
+y<00:06:19.730><c> IJ</c><00:06:20.210><c> will</c><00:06:20.390><c> be</c><00:06:20.510><c> a</c><00:06:20.540><c> number</c><00:06:20.810><c> you</c><00:06:21.320><c> know</c><00:06:21.440><c> from</c><00:06:21.710><c> 0</c><00:06:22.130><c> up</c>
+
+00:06:22.360 --> 00:06:22.370 align:start position:0%
+y IJ will be a number you know from 0 up
+ 
+
+00:06:22.370 --> 00:06:25.660 align:start position:0%
+y IJ will be a number you know from 0 up
+to<00:06:22.880><c> five</c><00:06:23.300><c> depending</c><00:06:23.810><c> on</c><00:06:24.050><c> the</c><00:06:24.110><c> star</c><00:06:24.350><c> rating</c><00:06:25.190><c> 0</c>
+
+00:06:25.660 --> 00:06:25.670 align:start position:0%
+to five depending on the star rating 0
+ 
+
+00:06:25.670 --> 00:06:28.270 align:start position:0%
+to five depending on the star rating 0
+to<00:06:25.760><c> 5</c><00:06:26.090><c> stars</c><00:06:26.480><c> that</c><00:06:26.810><c> the</c><00:06:26.990><c> user</c><00:06:27.230><c> gave</c><00:06:27.860><c> that</c><00:06:28.100><c> but</c>
+
+00:06:28.270 --> 00:06:28.280 align:start position:0%
+to 5 stars that the user gave that but
+ 
+
+00:06:28.280 --> 00:06:29.390 align:start position:0%
+to 5 stars that the user gave that but
+the<00:06:28.400><c> Ruby</c>
+
+00:06:29.390 --> 00:06:29.400 align:start position:0%
+the Ruby
+ 
+
+00:06:29.400 --> 00:06:32.370 align:start position:0%
+the Ruby
+so<00:06:30.400><c> the</c><00:06:30.729><c> recommender</c><00:06:31.330><c> system</c><00:06:31.720><c> problem</c><00:06:31.750><c> is</c>
+
+00:06:32.370 --> 00:06:32.380 align:start position:0%
+so the recommender system problem is
+ 
+
+00:06:32.380 --> 00:06:35.370 align:start position:0%
+so the recommender system problem is
+given<00:06:33.310><c> this</c><00:06:33.490><c> data</c><00:06:33.789><c> set</c><00:06:34.090><c> that</c><00:06:34.360><c> has</c><00:06:34.539><c> given</c><00:06:35.169><c> these</c>
+
+00:06:35.370 --> 00:06:35.380 align:start position:0%
+given this data set that has given these
+ 
+
+00:06:35.380 --> 00:06:38.700 align:start position:0%
+given this data set that has given these
+them<00:06:35.650><c> are</c><00:06:35.860><c> our</c><00:06:36.160><c> GS</c><00:06:36.430><c> and</c><00:06:36.699><c> the</c><00:06:36.729><c> y</c><00:06:36.940><c> I</c><00:06:36.970><c> J's</c><00:06:37.509><c> to</c><00:06:38.349><c> look</c>
+
+00:06:38.700 --> 00:06:38.710 align:start position:0%
+them are our GS and the y I J's to look
+ 
+
+00:06:38.710 --> 00:06:40.920 align:start position:0%
+them are our GS and the y I J's to look
+through<00:06:39.130><c> your</c><00:06:39.759><c> data</c><00:06:40.000><c> and</c><00:06:40.330><c> look</c><00:06:40.449><c> at</c><00:06:40.569><c> all</c><00:06:40.750><c> the</c>
+
+00:06:40.920 --> 00:06:40.930 align:start position:0%
+through your data and look at all the
+ 
+
+00:06:40.930 --> 00:06:43.260 align:start position:0%
+through your data and look at all the
+movie<00:06:41.229><c> ratings</c><00:06:41.620><c> not</c><00:06:41.860><c> missing</c><00:06:42.310><c> and</c><00:06:42.490><c> to</c><00:06:42.970><c> try</c><00:06:43.210><c> to</c>
+
+00:06:43.260 --> 00:06:43.270 align:start position:0%
+movie ratings not missing and to try to
+ 
+
+00:06:43.270 --> 00:06:45.330 align:start position:0%
+movie ratings not missing and to try to
+predict<00:06:43.750><c> what</c><00:06:44.020><c> these</c><00:06:44.530><c> values</c><00:06:44.770><c> of</c><00:06:45.250><c> the</c>
+
+00:06:45.330 --> 00:06:45.340 align:start position:0%
+predict what these values of the
+ 
+
+00:06:45.340 --> 00:06:48.029 align:start position:0%
+predict what these values of the
+question<00:06:45.699><c> mark</c><00:06:45.940><c> should</c><00:06:46.180><c> be</c><00:06:46.620><c> in</c><00:06:47.620><c> this</c><00:06:47.740><c> specific</c>
+
+00:06:48.029 --> 00:06:48.039 align:start position:0%
+question mark should be in this specific
+ 
+
+00:06:48.039 --> 00:06:49.620 align:start position:0%
+question mark should be in this specific
+example<00:06:48.099><c> I</c><00:06:48.490><c> have</c><00:06:48.759><c> a</c><00:06:48.789><c> very</c><00:06:49.060><c> small</c><00:06:49.330><c> number</c><00:06:49.389><c> of</c>
+
+00:06:49.620 --> 00:06:49.630 align:start position:0%
+example I have a very small number of
+ 
+
+00:06:49.630 --> 00:06:51.420 align:start position:0%
+example I have a very small number of
+movies<00:06:50.139><c> in</c><00:06:50.319><c> a</c><00:06:50.380><c> very</c><00:06:50.560><c> small</c><00:06:50.830><c> number</c><00:06:50.979><c> of</c><00:06:51.099><c> users</c>
+
+00:06:51.420 --> 00:06:51.430 align:start position:0%
+movies in a very small number of users
+ 
+
+00:06:51.430 --> 00:06:52.980 align:start position:0%
+movies in a very small number of users
+and<00:06:51.460><c> so</c><00:06:51.759><c> most</c><00:06:52.000><c> users</c><00:06:52.389><c> have</c><00:06:52.539><c> rates</c><00:06:52.720><c> in</c><00:06:52.840><c> most</c>
+
+00:06:52.980 --> 00:06:52.990 align:start position:0%
+and so most users have rates in most
+ 
+
+00:06:52.990 --> 00:06:55.050 align:start position:0%
+and so most users have rates in most
+movies<00:06:53.139><c> but</c><00:06:53.590><c> in</c><00:06:53.740><c> the</c><00:06:53.830><c> realistic</c><00:06:54.039><c> setting</c><00:06:54.550><c> your</c>
+
+00:06:55.050 --> 00:06:55.060 align:start position:0%
+movies but in the realistic setting your
+ 
+
+00:06:55.060 --> 00:06:57.089 align:start position:0%
+movies but in the realistic setting your
+users<00:06:55.479><c> with</c><00:06:55.750><c> each</c><00:06:55.990><c> of</c><00:06:56.169><c> your</c><00:06:56.289><c> users</c><00:06:56.500><c> may</c><00:06:56.889><c> have</c>
+
+00:06:57.089 --> 00:06:57.099 align:start position:0%
+users with each of your users may have
+ 
+
+00:06:57.099 --> 00:06:58.830 align:start position:0%
+users with each of your users may have
+grade<00:06:57.280><c> to</c><00:06:57.430><c> only</c><00:06:57.699><c> a</c><00:06:57.729><c> minuscule</c><00:06:58.300><c> fraction</c><00:06:58.330><c> of</c>
+
+00:06:58.830 --> 00:06:58.840 align:start position:0%
+grade to only a minuscule fraction of
+ 
+
+00:06:58.840 --> 00:07:00.870 align:start position:0%
+grade to only a minuscule fraction of
+your<00:06:58.930><c> movies</c><00:06:59.319><c> but</c><00:06:59.919><c> look</c><00:07:00.069><c> in</c><00:07:00.190><c> this</c><00:07:00.310><c> data</c><00:07:00.520><c> you</c>
+
+00:07:00.870 --> 00:07:00.880 align:start position:0%
+your movies but look in this data you
+ 
+
+00:07:00.880 --> 00:07:02.400 align:start position:0%
+your movies but look in this data you
+have<00:07:01.000><c> Alice</c><00:07:01.300><c> and</c><00:07:01.449><c> Bob</c><00:07:01.630><c> both</c><00:07:01.930><c> like</c><00:07:02.199><c> the</c>
+
+00:07:02.400 --> 00:07:02.410 align:start position:0%
+have Alice and Bob both like the
+ 
+
+00:07:02.410 --> 00:07:04.469 align:start position:0%
+have Alice and Bob both like the
+romantic<00:07:03.039><c> movies</c><00:07:03.370><c> maybe</c><00:07:03.940><c> we</c><00:07:04.150><c> think</c><00:07:04.360><c> that</c>
+
+00:07:04.469 --> 00:07:04.479 align:start position:0%
+romantic movies maybe we think that
+ 
+
+00:07:04.479 --> 00:07:06.300 align:start position:0%
+romantic movies maybe we think that
+Alice<00:07:04.840><c> would</c><00:07:04.960><c> have</c><00:07:05.020><c> given</c><00:07:05.349><c> this</c><00:07:05.470><c> a</c><00:07:05.530><c> 5</c><00:07:05.889><c> maybe</c>
+
+00:07:06.300 --> 00:07:06.310 align:start position:0%
+Alice would have given this a 5 maybe
+ 
+
+00:07:06.310 --> 00:07:08.969 align:start position:0%
+Alice would have given this a 5 maybe
+with<00:07:06.639><c> involved</c><00:07:07.120><c> with</c><00:07:07.210><c> a</c><00:07:07.240><c> given</c><00:07:07.479><c> dessert</c><00:07:07.990><c> 4.5</c>
+
+00:07:08.969 --> 00:07:08.979 align:start position:0%
+with involved with a given dessert 4.5
+ 
+
+00:07:08.979 --> 00:07:10.920 align:start position:0%
+with involved with a given dessert 4.5
+or<00:07:09.009><c> some</c><00:07:09.310><c> high</c><00:07:09.490><c> value</c><00:07:09.539><c> whereas</c><00:07:10.539><c> we</c><00:07:10.690><c> think</c>
+
+00:07:10.920 --> 00:07:10.930 align:start position:0%
+or some high value whereas we think
+ 
+
+00:07:10.930 --> 00:07:12.450 align:start position:0%
+or some high value whereas we think
+maybe<00:07:11.080><c> caramel</c><00:07:11.680><c> David</c><00:07:12.070><c> and</c><00:07:12.190><c> during</c><00:07:12.370><c> these</c>
+
+00:07:12.450 --> 00:07:12.460 align:start position:0%
+maybe caramel David and during these
+ 
+
+00:07:12.460 --> 00:07:15.420 align:start position:0%
+maybe caramel David and during these
+very<00:07:12.759><c> low</c><00:07:13.000><c> ratings</c><00:07:13.449><c> and</c><00:07:13.690><c> Dave</c><00:07:14.380><c> well</c><00:07:14.710><c> if</c><00:07:14.949><c> Dave</c>
+
+00:07:15.420 --> 00:07:15.430 align:start position:0%
+very low ratings and Dave well if Dave
+ 
+
+00:07:15.430 --> 00:07:17.430 align:start position:0%
+very low ratings and Dave well if Dave
+really<00:07:15.849><c> likes</c><00:07:15.970><c> action</c><00:07:16.419><c> movies</c><00:07:16.630><c> maybe</c><00:07:17.199><c> he</c>
+
+00:07:17.430 --> 00:07:17.440 align:start position:0%
+really likes action movies maybe he
+ 
+
+00:07:17.440 --> 00:07:20.159 align:start position:0%
+really likes action movies maybe he
+would<00:07:17.590><c> have</c><00:07:17.620><c> given</c><00:07:18.000><c> Sorensen</c><00:07:19.000><c> courante</c><00:07:19.509><c> for</c>
+
+00:07:20.159 --> 00:07:20.169 align:start position:0%
+would have given Sorensen courante for
+ 
+
+00:07:20.169 --> 00:07:22.140 align:start position:0%
+would have given Sorensen courante for
+rating<00:07:20.560><c> or</c><00:07:20.650><c> mediafire</c><00:07:21.099><c> rating</c><00:07:21.520><c> okay</c><00:07:21.820><c> and</c><00:07:22.000><c> so</c>
+
+00:07:22.140 --> 00:07:22.150 align:start position:0%
+rating or mediafire rating okay and so
+ 
+
+00:07:22.150 --> 00:07:24.960 align:start position:0%
+rating or mediafire rating okay and so
+the<00:07:22.690><c> job</c><00:07:23.380><c> in</c><00:07:23.650><c> developing</c><00:07:24.220><c> a</c><00:07:24.460><c> recommender</c>
+
+00:07:24.960 --> 00:07:24.970 align:start position:0%
+the job in developing a recommender
+ 
+
+00:07:24.970 --> 00:07:28.350 align:start position:0%
+the job in developing a recommender
+system<00:07:25.330><c> is</c><00:07:25.479><c> to</c><00:07:26.139><c> come</c><00:07:26.710><c> up</c><00:07:26.860><c> with</c><00:07:27.009><c> a</c><00:07:27.360><c> learning</c>
+
+00:07:28.350 --> 00:07:28.360 align:start position:0%
+system is to come up with a learning
+ 
+
+00:07:28.360 --> 00:07:30.570 align:start position:0%
+system is to come up with a learning
+algorithm<00:07:28.630><c> that</c><00:07:28.990><c> can</c><00:07:29.470><c> automatically</c><00:07:30.099><c> fill</c><00:07:30.550><c> in</c>
+
+00:07:30.570 --> 00:07:30.580 align:start position:0%
+algorithm that can automatically fill in
+ 
+
+00:07:30.580 --> 00:07:33.390 align:start position:0%
+algorithm that can automatically fill in
+these<00:07:31.060><c> missing</c><00:07:31.509><c> values</c><00:07:31.900><c> for</c><00:07:32.110><c> us</c><00:07:32.259><c> so</c><00:07:32.949><c> that</c><00:07:33.159><c> we</c>
+
+00:07:33.390 --> 00:07:33.400 align:start position:0%
+these missing values for us so that we
+ 
+
+00:07:33.400 --> 00:07:35.490 align:start position:0%
+these missing values for us so that we
+can<00:07:33.610><c> look</c><00:07:33.849><c> at</c><00:07:34.060><c> say</c><00:07:34.389><c> the</c><00:07:34.419><c> movies</c><00:07:34.900><c> that</c><00:07:35.199><c> the</c><00:07:35.320><c> user</c>
+
+00:07:35.490 --> 00:07:35.500 align:start position:0%
+can look at say the movies that the user
+ 
+
+00:07:35.500 --> 00:07:38.399 align:start position:0%
+can look at say the movies that the user
+has<00:07:35.830><c> not</c><00:07:35.860><c> yet</c><00:07:36.250><c> watched</c><00:07:36.580><c> and</c><00:07:36.880><c> recommend</c><00:07:37.870><c> new</c>
+
+00:07:38.399 --> 00:07:38.409 align:start position:0%
+has not yet watched and recommend new
+ 
+
+00:07:38.409 --> 00:07:40.080 align:start position:0%
+has not yet watched and recommend new
+movies<00:07:38.770><c> to</c><00:07:38.949><c> that</c><00:07:39.070><c> use</c><00:07:39.280><c> it</c><00:07:39.490><c> to</c><00:07:39.610><c> watch</c><00:07:39.789><c> you</c><00:07:39.970><c> try</c>
+
+00:07:40.080 --> 00:07:40.090 align:start position:0%
+movies to that use it to watch you try
+ 
+
+00:07:40.090 --> 00:07:41.370 align:start position:0%
+movies to that use it to watch you try
+to<00:07:40.180><c> predict</c><00:07:40.509><c> what</c><00:07:40.780><c> else</c><00:07:41.110><c> might</c><00:07:41.349><c> be</c>
+
+00:07:41.370 --> 00:07:41.380 align:start position:0%
+to predict what else might be
+ 
+
+00:07:41.380 --> 00:07:44.530 align:start position:0%
+to predict what else might be
+interesting<00:07:42.009><c> to</c><00:07:42.280><c> a</c><00:07:42.310><c> user</c>
+
+00:07:44.530 --> 00:07:44.540 align:start position:0%
+interesting to a user
+ 
+
+00:07:44.540 --> 00:07:47.140 align:start position:0%
+interesting to a user
+so<00:07:45.410><c> that's</c><00:07:45.800><c> the</c><00:07:45.980><c> formalism</c><00:07:46.460><c> of</c><00:07:46.700><c> the</c>
+
+00:07:47.140 --> 00:07:47.150 align:start position:0%
+so that's the formalism of the
+ 
+
+00:07:47.150 --> 00:07:49.900 align:start position:0%
+so that's the formalism of the
+recommender<00:07:47.870><c> system</c><00:07:48.380><c> problem</c><00:07:48.410><c> in</c><00:07:49.070><c> the</c><00:07:49.640><c> next</c>
+
+00:07:49.900 --> 00:07:49.910 align:start position:0%
+recommender system problem in the next
+ 
+
+00:07:49.910 --> 00:07:51.820 align:start position:0%
+recommender system problem in the next
+video<00:07:50.210><c> we'll</c><00:07:50.450><c> start</c><00:07:50.480><c> to</c><00:07:50.810><c> develop</c><00:07:51.380><c> a</c><00:07:51.530><c> learning</c>
+
+00:07:51.820 --> 00:07:51.830 align:start position:0%
+video we'll start to develop a learning
+ 
+
+00:07:51.830 --> 00:07:55.480 align:start position:0%
+video we'll start to develop a learning
+algorithm<00:07:52.280><c> to</c><00:07:52.760><c> address</c><00:07:53.180><c> this</c><00:07:53.300><c> problem</c>
+

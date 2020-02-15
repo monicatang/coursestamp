@@ -1,0 +1,2256 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.750 align:start position:0%
+ 
+in<00:00:00.060><c> the</c><00:00:00.630><c> previous</c><00:00:01.110><c> video</c><00:00:01.439><c> we</c><00:00:02.190><c> talked</c><00:00:02.460><c> about</c>
+
+00:00:02.750 --> 00:00:02.760 align:start position:0%
+in the previous video we talked about
+ 
+
+00:00:02.760 --> 00:00:05.809 align:start position:0%
+in the previous video we talked about
+evaluation<00:00:03.090><c> metrics</c><00:00:04.020><c> in</c><00:00:04.799><c> this</c><00:00:05.130><c> video</c><00:00:05.520><c> I'd</c>
+
+00:00:05.809 --> 00:00:05.819 align:start position:0%
+evaluation metrics in this video I'd
+ 
+
+00:00:05.819 --> 00:00:07.820 align:start position:0%
+evaluation metrics in this video I'd
+like<00:00:06.000><c> to</c><00:00:06.150><c> switch</c><00:00:06.299><c> tracks</c><00:00:06.779><c> a</c><00:00:06.930><c> bit</c><00:00:07.109><c> and</c><00:00:07.379><c> touch</c><00:00:07.649><c> on</c>
+
+00:00:07.820 --> 00:00:07.830 align:start position:0%
+like to switch tracks a bit and touch on
+ 
+
+00:00:07.830 --> 00:00:10.160 align:start position:0%
+like to switch tracks a bit and touch on
+another<00:00:08.280><c> important</c><00:00:08.910><c> aspect</c><00:00:09.059><c> the</c><00:00:09.750><c> machine</c>
+
+00:00:10.160 --> 00:00:10.170 align:start position:0%
+another important aspect the machine
+ 
+
+00:00:10.170 --> 00:00:12.140 align:start position:0%
+another important aspect the machine
+learning<00:00:10.320><c> system</c><00:00:11.010><c> design</c><00:00:11.370><c> wolf</c><00:00:11.610><c> which</c><00:00:11.969><c> will</c>
+
+00:00:12.140 --> 00:00:12.150 align:start position:0%
+learning system design wolf which will
+ 
+
+00:00:12.150 --> 00:00:14.990 align:start position:0%
+learning system design wolf which will
+often<00:00:12.269><c> come</c><00:00:12.599><c> up</c><00:00:12.660><c> which</c><00:00:13.440><c> is</c><00:00:13.590><c> the</c><00:00:13.620><c> issue</c><00:00:13.740><c> of</c><00:00:14.429><c> how</c>
+
+00:00:14.990 --> 00:00:15.000 align:start position:0%
+often come up which is the issue of how
+ 
+
+00:00:15.000 --> 00:00:17.870 align:start position:0%
+often come up which is the issue of how
+much<00:00:15.030><c> data</c><00:00:15.450><c> to</c><00:00:15.660><c> train</c><00:00:16.049><c> on</c><00:00:16.199><c> now</c><00:00:17.190><c> in</c><00:00:17.580><c> some</c>
+
+00:00:17.870 --> 00:00:17.880 align:start position:0%
+much data to train on now in some
+ 
+
+00:00:17.880 --> 00:00:20.269 align:start position:0%
+much data to train on now in some
+earlier<00:00:18.240><c> videos</c><00:00:18.390><c> I</c><00:00:18.930><c> had</c><00:00:19.140><c> cautioned</c><00:00:19.410><c> against</c>
+
+00:00:20.269 --> 00:00:20.279 align:start position:0%
+earlier videos I had cautioned against
+ 
+
+00:00:20.279 --> 00:00:22.220 align:start position:0%
+earlier videos I had cautioned against
+blindly<00:00:20.640><c> going</c><00:00:21.000><c> out</c><00:00:21.210><c> and</c><00:00:21.510><c> just</c><00:00:21.660><c> spending</c><00:00:21.990><c> lots</c>
+
+00:00:22.220 --> 00:00:22.230 align:start position:0%
+blindly going out and just spending lots
+ 
+
+00:00:22.230 --> 00:00:24.470 align:start position:0%
+blindly going out and just spending lots
+of<00:00:22.350><c> time</c><00:00:22.410><c> collecting</c><00:00:22.830><c> lots</c><00:00:23.250><c> of</c><00:00:23.400><c> data</c><00:00:23.480><c> because</c>
+
+00:00:24.470 --> 00:00:24.480 align:start position:0%
+of time collecting lots of data because
+ 
+
+00:00:24.480 --> 00:00:26.029 align:start position:0%
+of time collecting lots of data because
+there's<00:00:24.720><c> only</c><00:00:24.930><c> some</c><00:00:25.260><c> times</c><00:00:25.470><c> that</c><00:00:25.769><c> that</c><00:00:25.920><c> were</c>
+
+00:00:26.029 --> 00:00:26.039 align:start position:0%
+there's only some times that that were
+ 
+
+00:00:26.039 --> 00:00:28.310 align:start position:0%
+there's only some times that that were
+actually<00:00:26.430><c> called</c><00:00:26.660><c> but</c><00:00:27.660><c> it</c><00:00:27.779><c> turns</c><00:00:27.990><c> out</c><00:00:28.140><c> that</c>
+
+00:00:28.310 --> 00:00:28.320 align:start position:0%
+actually called but it turns out that
+ 
+
+00:00:28.320 --> 00:00:30.859 align:start position:0%
+actually called but it turns out that
+under<00:00:28.830><c> certain</c><00:00:29.099><c> conditions</c><00:00:29.849><c> and</c><00:00:30.449><c> I'll</c><00:00:30.570><c> say</c><00:00:30.810><c> in</c>
+
+00:00:30.859 --> 00:00:30.869 align:start position:0%
+under certain conditions and I'll say in
+ 
+
+00:00:30.869 --> 00:00:32.479 align:start position:0%
+under certain conditions and I'll say in
+this<00:00:31.080><c> video</c><00:00:31.439><c> what</c><00:00:31.590><c> those</c><00:00:31.740><c> conditions</c><00:00:32.009><c> are</c>
+
+00:00:32.479 --> 00:00:32.489 align:start position:0%
+this video what those conditions are
+ 
+
+00:00:32.489 --> 00:00:35.900 align:start position:0%
+this video what those conditions are
+getting<00:00:33.390><c> a</c><00:00:33.690><c> lot</c><00:00:33.899><c> of</c><00:00:34.050><c> data</c><00:00:34.230><c> and</c><00:00:34.860><c> training</c><00:00:35.219><c> on</c><00:00:35.610><c> a</c>
+
+00:00:35.900 --> 00:00:35.910 align:start position:0%
+getting a lot of data and training on a
+ 
+
+00:00:35.910 --> 00:00:38.060 align:start position:0%
+getting a lot of data and training on a
+certain<00:00:36.390><c> type</c><00:00:36.570><c> of</c><00:00:36.600><c> learning</c><00:00:37.050><c> algorithm</c><00:00:37.530><c> can</c>
+
+00:00:38.060 --> 00:00:38.070 align:start position:0%
+certain type of learning algorithm can
+ 
+
+00:00:38.070 --> 00:00:39.709 align:start position:0%
+certain type of learning algorithm can
+be<00:00:38.100><c> a</c><00:00:38.219><c> very</c><00:00:38.489><c> effective</c><00:00:38.820><c> way</c><00:00:39.030><c> to</c><00:00:39.210><c> get</c><00:00:39.660><c> a</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+be a very effective way to get a
+ 
+
+00:00:39.719 --> 00:00:41.209 align:start position:0%
+be a very effective way to get a
+learning<00:00:40.110><c> algorithm</c><00:00:40.350><c> to</c><00:00:40.559><c> give</c><00:00:40.770><c> very</c><00:00:41.129><c> good</c>
+
+00:00:41.209 --> 00:00:41.219 align:start position:0%
+learning algorithm to give very good
+ 
+
+00:00:41.219 --> 00:00:44.600 align:start position:0%
+learning algorithm to give very good
+performance<00:00:41.700><c> and</c><00:00:42.200><c> this</c><00:00:43.200><c> arises</c><00:00:43.920><c> often</c><00:00:44.340><c> enough</c>
+
+00:00:44.600 --> 00:00:44.610 align:start position:0%
+performance and this arises often enough
+ 
+
+00:00:44.610 --> 00:00:46.580 align:start position:0%
+performance and this arises often enough
+that<00:00:44.640><c> those</c><00:00:45.149><c> conditions</c><00:00:45.420><c> hold</c><00:00:45.930><c> true</c><00:00:46.260><c> for</c><00:00:46.289><c> your</c>
+
+00:00:46.580 --> 00:00:46.590 align:start position:0%
+that those conditions hold true for your
+ 
+
+00:00:46.590 --> 00:00:48.860 align:start position:0%
+that those conditions hold true for your
+problem<00:00:47.070><c> and</c><00:00:47.250><c> if</c><00:00:47.969><c> you're</c><00:00:48.120><c> able</c><00:00:48.239><c> to</c><00:00:48.420><c> get</c><00:00:48.570><c> a</c><00:00:48.629><c> lot</c>
+
+00:00:48.860 --> 00:00:48.870 align:start position:0%
+problem and if you're able to get a lot
+ 
+
+00:00:48.870 --> 00:00:51.049 align:start position:0%
+problem and if you're able to get a lot
+of<00:00:49.020><c> data</c><00:00:49.170><c> this</c><00:00:49.829><c> could</c><00:00:50.070><c> be</c><00:00:50.219><c> a</c><00:00:50.250><c> very</c><00:00:50.610><c> good</c><00:00:50.820><c> way</c><00:00:51.030><c> to</c>
+
+00:00:51.049 --> 00:00:51.059 align:start position:0%
+of data this could be a very good way to
+ 
+
+00:00:51.059 --> 00:00:52.939 align:start position:0%
+of data this could be a very good way to
+get<00:00:51.510><c> a</c><00:00:51.570><c> very</c><00:00:51.840><c> high</c><00:00:51.960><c> performance</c><00:00:52.620><c> learning</c>
+
+00:00:52.939 --> 00:00:52.949 align:start position:0%
+get a very high performance learning
+ 
+
+00:00:52.949 --> 00:00:56.060 align:start position:0%
+get a very high performance learning
+algorithm<00:00:53.219><c> so</c><00:00:54.210><c> in</c><00:00:54.539><c> this</c><00:00:54.750><c> video</c><00:00:54.930><c> let's</c><00:00:55.530><c> talk</c>
+
+00:00:56.060 --> 00:00:56.070 align:start position:0%
+algorithm so in this video let's talk
+ 
+
+00:00:56.070 --> 00:00:59.869 align:start position:0%
+algorithm so in this video let's talk
+more<00:00:56.309><c> about</c><00:00:56.370><c> that</c><00:00:58.129><c> let</c><00:00:59.129><c> me</c><00:00:59.250><c> start</c><00:00:59.579><c> with</c><00:00:59.699><c> a</c>
+
+00:00:59.869 --> 00:00:59.879 align:start position:0%
+more about that let me start with a
+ 
+
+00:00:59.879 --> 00:01:02.540 align:start position:0%
+more about that let me start with a
+story<00:01:00.289><c> many</c><00:01:01.289><c> many</c><00:01:01.530><c> years</c><00:01:01.829><c> ago</c><00:01:01.980><c> two</c>
+
+00:01:02.540 --> 00:01:02.550 align:start position:0%
+story many many years ago two
+ 
+
+00:01:02.550 --> 00:01:04.759 align:start position:0%
+story many many years ago two
+researchers<00:01:03.030><c> that</c><00:01:03.510><c> i</c><00:01:03.660><c> know</c><00:01:03.719><c> michelle</c><00:01:04.320><c> banko</c>
+
+00:01:04.759 --> 00:01:04.769 align:start position:0%
+researchers that i know michelle banko
+ 
+
+00:01:04.769 --> 00:01:07.399 align:start position:0%
+researchers that i know michelle banko
+and<00:01:05.339><c> eric</c><00:01:05.790><c> bro</c><00:01:06.090><c> ran</c><00:01:06.689><c> the</c><00:01:06.960><c> following</c>
+
+00:01:07.399 --> 00:01:07.409 align:start position:0%
+and eric bro ran the following
+ 
+
+00:01:07.409 --> 00:01:10.640 align:start position:0%
+and eric bro ran the following
+fascinating<00:01:08.130><c> study</c><00:01:08.960><c> they</c><00:01:09.960><c> were</c><00:01:10.020><c> interested</c>
+
+00:01:10.640 --> 00:01:10.650 align:start position:0%
+fascinating study they were interested
+ 
+
+00:01:10.650 --> 00:01:12.289 align:start position:0%
+fascinating study they were interested
+of<00:01:10.860><c> studying</c><00:01:11.250><c> the</c><00:01:11.430><c> effect</c><00:01:11.760><c> of</c><00:01:11.939><c> using</c>
+
+00:01:12.289 --> 00:01:12.299 align:start position:0%
+of studying the effect of using
+ 
+
+00:01:12.299 --> 00:01:14.480 align:start position:0%
+of studying the effect of using
+different<00:01:12.810><c> learning</c><00:01:12.960><c> algorithms</c><00:01:13.590><c> versus</c>
+
+00:01:14.480 --> 00:01:14.490 align:start position:0%
+different learning algorithms versus
+ 
+
+00:01:14.490 --> 00:01:16.580 align:start position:0%
+different learning algorithms versus
+trying<00:01:15.210><c> them</c><00:01:15.390><c> out</c><00:01:15.509><c> on</c><00:01:15.840><c> different</c><00:01:16.140><c> training</c>
+
+00:01:16.580 --> 00:01:16.590 align:start position:0%
+trying them out on different training
+ 
+
+00:01:16.590 --> 00:01:19.580 align:start position:0%
+trying them out on different training
+set<00:01:16.979><c> sciences</c><00:01:17.630><c> they</c><00:01:18.630><c> were</c><00:01:18.689><c> considering</c><00:01:19.409><c> the</c>
+
+00:01:19.580 --> 00:01:19.590 align:start position:0%
+set sciences they were considering the
+ 
+
+00:01:19.590 --> 00:01:21.050 align:start position:0%
+set sciences they were considering the
+problem<00:01:20.070><c> of</c><00:01:20.100><c> classifying</c><00:01:20.310><c> between</c>
+
+00:01:21.050 --> 00:01:21.060 align:start position:0%
+problem of classifying between
+ 
+
+00:01:21.060 --> 00:01:23.660 align:start position:0%
+problem of classifying between
+confusable<00:01:21.299><c> words</c><00:01:22.110><c> so</c><00:01:22.710><c> for</c><00:01:22.920><c> example</c><00:01:23.369><c> in</c><00:01:23.580><c> the</c>
+
+00:01:23.660 --> 00:01:23.670 align:start position:0%
+confusable words so for example in the
+ 
+
+00:01:23.670 --> 00:01:25.910 align:start position:0%
+confusable words so for example in the
+sentence<00:01:24.090><c> for</c><00:01:24.600><c> breakfast</c><00:01:24.990><c> I</c><00:01:25.110><c> ate</c><00:01:25.380><c> should</c><00:01:25.830><c> it</c>
+
+00:01:25.910 --> 00:01:25.920 align:start position:0%
+sentence for breakfast I ate should it
+ 
+
+00:01:25.920 --> 00:01:28.910 align:start position:0%
+sentence for breakfast I ate should it
+be<00:01:26.040><c> tea</c><00:01:26.310><c> OTW</c><00:01:27.030><c> or</c><00:01:27.659><c> tea</c><00:01:27.990><c> or</c><00:01:28.170><c> well</c><00:01:28.680><c> for</c><00:01:28.829><c> this</c>
+
+00:01:28.910 --> 00:01:28.920 align:start position:0%
+be tea OTW or tea or well for this
+ 
+
+00:01:28.920 --> 00:01:33.649 align:start position:0%
+be tea OTW or tea or well for this
+example<00:01:29.250><c> for</c><00:01:29.460><c> breakfast</c><00:01:30.030><c> I</c><00:01:30.180><c> ate</c><00:01:30.680><c> TW</c><00:01:31.700><c> o28</c><00:01:32.729><c> so</c>
+
+00:01:33.649 --> 00:01:33.659 align:start position:0%
+example for breakfast I ate TW o28 so
+ 
+
+00:01:33.659 --> 00:01:36.080 align:start position:0%
+example for breakfast I ate TW o28 so
+this<00:01:34.229><c> is</c><00:01:34.380><c> one</c><00:01:34.530><c> example</c><00:01:34.650><c> of</c><00:01:35.130><c> said</c><00:01:35.970><c> that</c>
+
+00:01:36.080 --> 00:01:36.090 align:start position:0%
+this is one example of said that
+ 
+
+00:01:36.090 --> 00:01:37.819 align:start position:0%
+this is one example of said that
+confusable<00:01:36.570><c> words</c><00:01:36.630><c> and</c><00:01:37.170><c> that's</c><00:01:37.350><c> a</c><00:01:37.470><c> different</c>
+
+00:01:37.819 --> 00:01:37.829 align:start position:0%
+confusable words and that's a different
+ 
+
+00:01:37.829 --> 00:01:39.980 align:start position:0%
+confusable words and that's a different
+set<00:01:38.070><c> and</c><00:01:38.250><c> so</c><00:01:38.460><c> they</c><00:01:38.579><c> took</c><00:01:38.759><c> machine</c><00:01:39.659><c> learning</c>
+
+00:01:39.980 --> 00:01:39.990 align:start position:0%
+set and so they took machine learning
+ 
+
+00:01:39.990 --> 00:01:41.390 align:start position:0%
+set and so they took machine learning
+problems<00:01:40.350><c> like</c><00:01:40.530><c> these</c><00:01:40.650><c> sort</c><00:01:40.890><c> of</c><00:01:40.950><c> supervised</c>
+
+00:01:41.390 --> 00:01:41.400 align:start position:0%
+problems like these sort of supervised
+ 
+
+00:01:41.400 --> 00:01:43.310 align:start position:0%
+problems like these sort of supervised
+learning<00:01:41.460><c> problems</c><00:01:42.299><c> to</c><00:01:42.509><c> try</c><00:01:42.689><c> to</c><00:01:42.780><c> categorize</c>
+
+00:01:43.310 --> 00:01:43.320 align:start position:0%
+learning problems to try to categorize
+ 
+
+00:01:43.320 --> 00:01:46.069 align:start position:0%
+learning problems to try to categorize
+what<00:01:43.770><c> is</c><00:01:44.280><c> the</c><00:01:44.430><c> appropriate</c><00:01:44.790><c> word</c><00:01:45.180><c> to</c><00:01:45.210><c> go</c><00:01:45.630><c> into</c>
+
+00:01:46.069 --> 00:01:46.079 align:start position:0%
+what is the appropriate word to go into
+ 
+
+00:01:46.079 --> 00:01:48.139 align:start position:0%
+what is the appropriate word to go into
+a<00:01:46.110><c> certain</c><00:01:46.380><c> position</c><00:01:47.130><c> in</c><00:01:47.340><c> an</c><00:01:47.820><c> English</c>
+
+00:01:48.139 --> 00:01:48.149 align:start position:0%
+a certain position in an English
+ 
+
+00:01:48.149 --> 00:01:52.069 align:start position:0%
+a certain position in an English
+sentence<00:01:50.149><c> they</c><00:01:51.149><c> took</c><00:01:51.360><c> a</c><00:01:51.420><c> few</c><00:01:51.689><c> different</c>
+
+00:01:52.069 --> 00:01:52.079 align:start position:0%
+sentence they took a few different
+ 
+
+00:01:52.079 --> 00:01:53.690 align:start position:0%
+sentence they took a few different
+learning<00:01:52.229><c> algorithms</c><00:01:52.860><c> which</c><00:01:53.009><c> were</c><00:01:53.250><c> you</c><00:01:53.549><c> know</c>
+
+00:01:53.690 --> 00:01:53.700 align:start position:0%
+learning algorithms which were you know
+ 
+
+00:01:53.700 --> 00:01:55.880 align:start position:0%
+learning algorithms which were you know
+sort<00:01:53.909><c> of</c><00:01:54.090><c> considered</c><00:01:54.840><c> state-of-the-art</c><00:01:55.200><c> back</c>
+
+00:01:55.880 --> 00:01:55.890 align:start position:0%
+sort of considered state-of-the-art back
+ 
+
+00:01:55.890 --> 00:01:57.590 align:start position:0%
+sort of considered state-of-the-art back
+in<00:01:56.070><c> the</c><00:01:56.189><c> day</c><00:01:56.340><c> when</c><00:01:56.640><c> they</c><00:01:56.729><c> ran</c><00:01:56.909><c> this</c><00:01:57.119><c> study</c><00:01:57.299><c> in</c>
+
+00:01:57.590 --> 00:01:57.600 align:start position:0%
+in the day when they ran this study in
+ 
+
+00:01:57.600 --> 00:02:00.770 align:start position:0%
+in the day when they ran this study in
+2001<00:01:58.259><c> so</c><00:01:58.500><c> they</c><00:01:58.710><c> took</c><00:01:58.890><c> a</c><00:01:59.119><c> variance</c><00:02:00.119><c> roughly</c><00:02:00.750><c> a</c>
+
+00:02:00.770 --> 00:02:00.780 align:start position:0%
+2001 so they took a variance roughly a
+ 
+
+00:02:00.780 --> 00:02:03.080 align:start position:0%
+2001 so they took a variance roughly a
+variant<00:02:01.320><c> on</c><00:02:01.649><c> logistic</c><00:02:02.310><c> regression</c><00:02:02.759><c> in</c><00:02:02.850><c> color</c>
+
+00:02:03.080 --> 00:02:03.090 align:start position:0%
+variant on logistic regression in color
+ 
+
+00:02:03.090 --> 00:02:05.359 align:start position:0%
+variant on logistic regression in color
+perception<00:02:03.560><c> they</c><00:02:04.560><c> also</c><00:02:04.680><c> took</c><00:02:04.860><c> some</c><00:02:05.130><c> of</c><00:02:05.250><c> their</c>
+
+00:02:05.359 --> 00:02:05.369 align:start position:0%
+perception they also took some of their
+ 
+
+00:02:05.369 --> 00:02:07.459 align:start position:0%
+perception they also took some of their
+elements<00:02:05.820><c> that</c><00:02:05.969><c> word</c><00:02:06.689><c> say</c><00:02:06.960><c> they</c><00:02:07.110><c> got</c><00:02:07.229><c> back</c>
+
+00:02:07.459 --> 00:02:07.469 align:start position:0%
+elements that word say they got back
+ 
+
+00:02:07.469 --> 00:02:09.229 align:start position:0%
+elements that word say they got back
+then<00:02:07.680><c> but</c><00:02:07.920><c> are</c><00:02:08.069><c> someone</c><00:02:08.550><c> that's</c><00:02:08.759><c> to</c><00:02:08.879><c> use</c><00:02:09.000><c> now</c>
+
+00:02:09.229 --> 00:02:09.239 align:start position:0%
+then but are someone that's to use now
+ 
+
+00:02:09.239 --> 00:02:12.260 align:start position:0%
+then but are someone that's to use now
+so<00:02:09.629><c> that</c><00:02:10.140><c> whenever</c><00:02:10.679><c> I'm</c><00:02:11.280><c> also</c><00:02:11.580><c> very</c><00:02:11.879><c> similar</c>
+
+00:02:12.260 --> 00:02:12.270 align:start position:0%
+so that whenever I'm also very similar
+ 
+
+00:02:12.270 --> 00:02:14.330 align:start position:0%
+so that whenever I'm also very similar
+to<00:02:12.720><c> logistic</c><00:02:12.959><c> regression</c><00:02:13.650><c> but</c><00:02:13.830><c> different</c><00:02:14.280><c> in</c>
+
+00:02:14.330 --> 00:02:14.340 align:start position:0%
+to logistic regression but different in
+ 
+
+00:02:14.340 --> 00:02:18.410 align:start position:0%
+to logistic regression but different in
+some<00:02:14.550><c> ways</c><00:02:14.750><c> much</c><00:02:15.750><c> use</c><00:02:16.349><c> somewhat</c><00:02:17.160><c> less</c><00:02:17.370><c> you</c><00:02:18.060><c> use</c>
+
+00:02:18.410 --> 00:02:18.420 align:start position:0%
+some ways much use somewhat less you use
+ 
+
+00:02:18.420 --> 00:02:20.570 align:start position:0%
+some ways much use somewhat less you use
+not<00:02:18.629><c> too</c><00:02:18.959><c> much</c><00:02:19.170><c> right</c><00:02:19.379><c> now</c><00:02:19.410><c> took</c><00:02:20.340><c> what's</c>
+
+00:02:20.570 --> 00:02:20.580 align:start position:0%
+not too much right now took what's
+ 
+
+00:02:20.580 --> 00:02:22.040 align:start position:0%
+not too much right now took what's
+called<00:02:20.819><c> a</c><00:02:20.879><c> memory</c><00:02:21.060><c> based</c><00:02:21.390><c> learning</c><00:02:21.540><c> algorithm</c>
+
+00:02:22.040 --> 00:02:22.050 align:start position:0%
+called a memory based learning algorithm
+ 
+
+00:02:22.050 --> 00:02:24.800 align:start position:0%
+called a memory based learning algorithm
+we<00:02:22.170><c> can</c><00:02:22.349><c> use</c><00:02:22.560><c> somewhat</c><00:02:22.980><c> less</c><00:02:23.160><c> now</c><00:02:23.720><c> so</c><00:02:24.720><c> I'll</c>
+
+00:02:24.800 --> 00:02:24.810 align:start position:0%
+we can use somewhat less now so I'll
+ 
+
+00:02:24.810 --> 00:02:26.600 align:start position:0%
+we can use somewhat less now so I'll
+talk<00:02:25.020><c> a</c><00:02:25.080><c> little</c><00:02:25.230><c> bit</c><00:02:25.349><c> about</c><00:02:25.410><c> that</c><00:02:25.709><c> later</c><00:02:25.770><c> and</c>
+
+00:02:26.600 --> 00:02:26.610 align:start position:0%
+talk a little bit about that later and
+ 
+
+00:02:26.610 --> 00:02:28.339 align:start position:0%
+talk a little bit about that later and
+they<00:02:26.760><c> use</c><00:02:26.940><c> the</c><00:02:27.090><c> naive</c><00:02:27.450><c> Bayes</c><00:02:27.480><c> algorithm</c><00:02:28.140><c> which</c>
+
+00:02:28.339 --> 00:02:28.349 align:start position:0%
+they use the naive Bayes algorithm which
+ 
+
+00:02:28.349 --> 00:02:29.960 align:start position:0%
+they use the naive Bayes algorithm which
+which<00:02:28.739><c> is</c><00:02:28.890><c> something</c><00:02:29.129><c> to</c><00:02:29.400><c> actually</c><00:02:29.790><c> talk</c>
+
+00:02:29.960 --> 00:02:29.970 align:start position:0%
+which is something to actually talk
+ 
+
+00:02:29.970 --> 00:02:32.089 align:start position:0%
+which is something to actually talk
+about<00:02:30.000><c> in</c><00:02:30.330><c> this</c><00:02:30.420><c> course</c><00:02:30.739><c> the</c><00:02:31.739><c> exact</c>
+
+00:02:32.089 --> 00:02:32.099 align:start position:0%
+about in this course the exact
+ 
+
+00:02:32.099 --> 00:02:33.740 align:start position:0%
+about in this course the exact
+algorithms<00:02:32.700><c> of</c><00:02:32.790><c> these</c><00:02:32.970><c> details</c><00:02:33.450><c> aren't</c>
+
+00:02:33.740 --> 00:02:33.750 align:start position:0%
+algorithms of these details aren't
+ 
+
+00:02:33.750 --> 00:02:35.059 align:start position:0%
+algorithms of these details aren't
+different<00:02:34.170><c> aren't</c><00:02:34.349><c> important</c>
+
+00:02:35.059 --> 00:02:35.069 align:start position:0%
+different aren't important
+ 
+
+00:02:35.069 --> 00:02:36.320 align:start position:0%
+different aren't important
+think<00:02:35.220><c> of</c><00:02:35.340><c> this</c><00:02:35.489><c> less</c><00:02:35.700><c> you</c><00:02:35.879><c> know</c><00:02:35.970><c> just</c><00:02:36.150><c> picking</c>
+
+00:02:36.320 --> 00:02:36.330 align:start position:0%
+think of this less you know just picking
+ 
+
+00:02:36.330 --> 00:02:38.300 align:start position:0%
+think of this less you know just picking
+four<00:02:36.720><c> different</c><00:02:37.110><c> classification</c><00:02:37.769><c> algorithms</c>
+
+00:02:38.300 --> 00:02:38.310 align:start position:0%
+four different classification algorithms
+ 
+
+00:02:38.310 --> 00:02:40.610 align:start position:0%
+four different classification algorithms
+and<00:02:39.209><c> then</c><00:02:39.420><c> really</c><00:02:39.690><c> the</c><00:02:39.810><c> exact</c><00:02:40.110><c> algorithms</c>
+
+00:02:40.610 --> 00:02:40.620 align:start position:0%
+and then really the exact algorithms
+ 
+
+00:02:40.620 --> 00:02:42.860 align:start position:0%
+and then really the exact algorithms
+aren't<00:02:40.800><c> important</c><00:02:41.370><c> but</c><00:02:41.610><c> what</c><00:02:42.269><c> they</c><00:02:42.360><c> did</c><00:02:42.599><c> was</c>
+
+00:02:42.860 --> 00:02:42.870 align:start position:0%
+aren't important but what they did was
+ 
+
+00:02:42.870 --> 00:02:44.750 align:start position:0%
+aren't important but what they did was
+they<00:02:43.110><c> varied</c><00:02:43.560><c> the</c><00:02:43.680><c> training</c><00:02:44.010><c> set</c><00:02:44.190><c> size</c><00:02:44.400><c> and</c>
+
+00:02:44.750 --> 00:02:44.760 align:start position:0%
+they varied the training set size and
+ 
+
+00:02:44.760 --> 00:02:46.610 align:start position:0%
+they varied the training set size and
+tried<00:02:45.030><c> out</c><00:02:45.180><c> these</c><00:02:45.330><c> learning</c><00:02:45.840><c> algorithms</c><00:02:46.319><c> on</c>
+
+00:02:46.610 --> 00:02:46.620 align:start position:0%
+tried out these learning algorithms on
+ 
+
+00:02:46.620 --> 00:02:48.199 align:start position:0%
+tried out these learning algorithms on
+the<00:02:46.739><c> range</c><00:02:46.950><c> of</c><00:02:47.129><c> training</c><00:02:47.310><c> set</c><00:02:47.580><c> sizes</c><00:02:47.790><c> and</c>
+
+00:02:48.199 --> 00:02:48.209 align:start position:0%
+the range of training set sizes and
+ 
+
+00:02:48.209 --> 00:02:50.900 align:start position:0%
+the range of training set sizes and
+that's<00:02:49.050><c> the</c><00:02:49.260><c> result</c><00:02:49.560><c> they</c><00:02:49.680><c> got</c><00:02:49.890><c> and</c><00:02:50.250><c> the</c>
+
+00:02:50.900 --> 00:02:50.910 align:start position:0%
+that's the result they got and the
+ 
+
+00:02:50.910 --> 00:02:53.089 align:start position:0%
+that's the result they got and the
+trends<00:02:51.209><c> are</c><00:02:51.330><c> very</c><00:02:51.420><c> clear</c><00:02:51.750><c> right</c><00:02:51.959><c> first</c><00:02:52.440><c> most</c>
+
+00:02:53.089 --> 00:02:53.099 align:start position:0%
+trends are very clear right first most
+ 
+
+00:02:53.099 --> 00:02:55.009 align:start position:0%
+trends are very clear right first most
+of<00:02:53.250><c> these</c><00:02:53.400><c> algorithms</c><00:02:53.730><c> to</c><00:02:54.120><c> give</c><00:02:54.300><c> remarkably</c>
+
+00:02:55.009 --> 00:02:55.019 align:start position:0%
+of these algorithms to give remarkably
+ 
+
+00:02:55.019 --> 00:02:57.800 align:start position:0%
+of these algorithms to give remarkably
+similar<00:02:55.410><c> performance</c><00:02:56.099><c> and</c><00:02:56.310><c> second</c><00:02:57.300><c> as</c><00:02:57.510><c> the</c>
+
+00:02:57.800 --> 00:02:57.810 align:start position:0%
+similar performance and second as the
+ 
+
+00:02:57.810 --> 00:02:59.869 align:start position:0%
+similar performance and second as the
+training<00:02:58.110><c> set</c><00:02:58.379><c> size</c><00:02:58.620><c> increases</c><00:02:58.670><c> on</c><00:02:59.670><c> the</c>
+
+00:02:59.869 --> 00:02:59.879 align:start position:0%
+training set size increases on the
+ 
+
+00:02:59.879 --> 00:03:02.059 align:start position:0%
+training set size increases on the
+horizontal<00:03:00.480><c> axis</c><00:03:00.930><c> is</c><00:03:01.230><c> the</c><00:03:01.260><c> training</c><00:03:01.680><c> set</c><00:03:01.860><c> size</c>
+
+00:03:02.059 --> 00:03:02.069 align:start position:0%
+horizontal axis is the training set size
+ 
+
+00:03:02.069 --> 00:03:05.059 align:start position:0%
+horizontal axis is the training set size
+in<00:03:02.400><c> millions</c><00:03:02.940><c> as</c><00:03:03.840><c> you</c><00:03:04.019><c> go</c><00:03:04.230><c> from</c><00:03:04.560><c> you</c><00:03:04.920><c> know</c><00:03:04.950><c> a</c>
+
+00:03:05.059 --> 00:03:05.069 align:start position:0%
+in millions as you go from you know a
+ 
+
+00:03:05.069 --> 00:03:08.240 align:start position:0%
+in millions as you go from you know a
+hundred<00:03:05.489><c> thousand</c><00:03:05.940><c> up</c><00:03:06.239><c> to</c><00:03:06.300><c> a</c><00:03:07.250><c> thousand</c>
+
+00:03:08.240 --> 00:03:08.250 align:start position:0%
+hundred thousand up to a thousand
+ 
+
+00:03:08.250 --> 00:03:10.369 align:start position:0%
+hundred thousand up to a thousand
+million<00:03:08.400><c> that</c><00:03:08.790><c> is</c><00:03:08.940><c> a</c><00:03:09.120><c> billion</c><00:03:09.390><c> training</c>
+
+00:03:10.369 --> 00:03:10.379 align:start position:0%
+million that is a billion training
+ 
+
+00:03:10.379 --> 00:03:11.869 align:start position:0%
+million that is a billion training
+examples<00:03:10.860><c> the</c><00:03:11.129><c> performance</c><00:03:11.700><c> of</c><00:03:11.790><c> the</c>
+
+00:03:11.869 --> 00:03:11.879 align:start position:0%
+examples the performance of the
+ 
+
+00:03:11.879 --> 00:03:14.570 align:start position:0%
+examples the performance of the
+algorithms<00:03:12.420><c> all</c><00:03:12.720><c> pretty</c><00:03:13.500><c> much</c><00:03:13.680><c> monotonically</c>
+
+00:03:14.570 --> 00:03:14.580 align:start position:0%
+algorithms all pretty much monotonically
+ 
+
+00:03:14.580 --> 00:03:16.970 align:start position:0%
+algorithms all pretty much monotonically
+increase<00:03:15.150><c> and</c><00:03:16.019><c> the</c><00:03:16.170><c> fact</c><00:03:16.409><c> if</c><00:03:16.650><c> you</c><00:03:16.739><c> pick</c><00:03:16.890><c> any</c>
+
+00:03:16.970 --> 00:03:16.980 align:start position:0%
+increase and the fact if you pick any
+ 
+
+00:03:16.980 --> 00:03:20.300 align:start position:0%
+increase and the fact if you pick any
+algorithm<00:03:17.659><c> maybe</c><00:03:18.659><c> pick</c><00:03:19.200><c> a</c><00:03:19.230><c> core</c><00:03:19.590><c> inferior</c>
+
+00:03:20.300 --> 00:03:20.310 align:start position:0%
+algorithm maybe pick a core inferior
+ 
+
+00:03:20.310 --> 00:03:22.550 align:start position:0%
+algorithm maybe pick a core inferior
+algorithm<00:03:20.640><c> but</c><00:03:21.450><c> if</c><00:03:21.629><c> you</c><00:03:21.750><c> give</c><00:03:21.930><c> that</c><00:03:22.200><c> quote</c>
+
+00:03:22.550 --> 00:03:22.560 align:start position:0%
+algorithm but if you give that quote
+ 
+
+00:03:22.560 --> 00:03:25.729 align:start position:0%
+algorithm but if you give that quote
+inferior<00:03:23.220><c> algorithm</c><00:03:23.519><c> more</c><00:03:23.909><c> data</c><00:03:24.349><c> then</c><00:03:25.349><c> it</c>
+
+00:03:25.729 --> 00:03:25.739 align:start position:0%
+inferior algorithm more data then it
+ 
+
+00:03:25.739 --> 00:03:27.830 align:start position:0%
+inferior algorithm more data then it
+from<00:03:26.400><c> these</c><00:03:26.580><c> examples</c><00:03:27.150><c> it</c><00:03:27.360><c> looks</c><00:03:27.540><c> like</c><00:03:27.720><c> there</c>
+
+00:03:27.830 --> 00:03:27.840 align:start position:0%
+from these examples it looks like there
+ 
+
+00:03:27.840 --> 00:03:29.660 align:start position:0%
+from these examples it looks like there
+will<00:03:27.959><c> most</c><00:03:28.200><c> likely</c><00:03:28.379><c> beat</c><00:03:28.890><c> even</c><00:03:29.280><c> equal</c>
+
+00:03:29.660 --> 00:03:29.670 align:start position:0%
+will most likely beat even equal
+ 
+
+00:03:29.670 --> 00:03:32.809 align:start position:0%
+will most likely beat even equal
+superior<00:03:30.330><c> algorithm</c><00:03:31.370><c> so</c><00:03:32.370><c> since</c><00:03:32.700><c> this</c>
+
+00:03:32.809 --> 00:03:32.819 align:start position:0%
+superior algorithm so since this
+ 
+
+00:03:32.819 --> 00:03:34.759 align:start position:0%
+superior algorithm so since this
+original<00:03:33.000><c> study</c><00:03:33.450><c> which</c><00:03:33.900><c> is</c><00:03:34.049><c> very</c><00:03:34.260><c> influential</c>
+
+00:03:34.759 --> 00:03:34.769 align:start position:0%
+original study which is very influential
+ 
+
+00:03:34.769 --> 00:03:37.699 align:start position:0%
+original study which is very influential
+there's<00:03:35.700><c> been</c><00:03:36.030><c> a</c><00:03:36.060><c> range</c><00:03:36.690><c> of</c><00:03:37.110><c> many</c><00:03:37.440><c> different</c>
+
+00:03:37.699 --> 00:03:37.709 align:start position:0%
+there's been a range of many different
+ 
+
+00:03:37.709 --> 00:03:39.710 align:start position:0%
+there's been a range of many different
+studies<00:03:38.069><c> showing</c><00:03:38.610><c> similar</c><00:03:38.970><c> results</c><00:03:39.540><c> that</c>
+
+00:03:39.710 --> 00:03:39.720 align:start position:0%
+studies showing similar results that
+ 
+
+00:03:39.720 --> 00:03:40.970 align:start position:0%
+studies showing similar results that
+show<00:03:39.930><c> that</c><00:03:40.140><c> many</c><00:03:40.530><c> different</c><00:03:40.890><c> learning</c>
+
+00:03:40.970 --> 00:03:40.980 align:start position:0%
+show that many different learning
+ 
+
+00:03:40.980 --> 00:03:43.130 align:start position:0%
+show that many different learning
+algorithms<00:03:41.400><c> you</c><00:03:42.120><c> know</c><00:03:42.239><c> tend</c><00:03:42.599><c> to</c><00:03:42.780><c> can</c>
+
+00:03:43.130 --> 00:03:43.140 align:start position:0%
+algorithms you know tend to can
+ 
+
+00:03:43.140 --> 00:03:45.020 align:start position:0%
+algorithms you know tend to can
+sometimes<00:03:43.620><c> depending</c><00:03:44.099><c> on</c><00:03:44.190><c> details</c><00:03:44.580><c> can</c><00:03:44.879><c> do</c>
+
+00:03:45.020 --> 00:03:45.030 align:start position:0%
+sometimes depending on details can do
+ 
+
+00:03:45.030 --> 00:03:47.809 align:start position:0%
+sometimes depending on details can do
+pretty<00:03:45.420><c> similar</c><00:03:46.049><c> ranges</c><00:03:46.500><c> of</c><00:03:46.620><c> performance</c><00:03:47.159><c> but</c>
+
+00:03:47.809 --> 00:03:47.819 align:start position:0%
+pretty similar ranges of performance but
+ 
+
+00:03:47.819 --> 00:03:49.970 align:start position:0%
+pretty similar ranges of performance but
+what<00:03:48.330><c> can</c><00:03:48.480><c> really</c><00:03:48.780><c> drive</c><00:03:49.019><c> performance</c><00:03:49.620><c> is</c><00:03:49.830><c> if</c>
+
+00:03:49.970 --> 00:03:49.980 align:start position:0%
+what can really drive performance is if
+ 
+
+00:03:49.980 --> 00:03:51.670 align:start position:0%
+what can really drive performance is if
+you<00:03:50.040><c> can</c><00:03:50.159><c> give</c><00:03:50.310><c> the</c><00:03:50.430><c> algorithm</c>
+
+00:03:51.670 --> 00:03:51.680 align:start position:0%
+you can give the algorithm
+ 
+
+00:03:51.680 --> 00:03:55.179 align:start position:0%
+you can give the algorithm
+data<00:03:52.129><c> and</c><00:03:52.730><c> this</c><00:03:53.450><c> is</c><00:03:53.659><c> results</c><00:03:54.470><c> like</c><00:03:54.500><c> these</c><00:03:54.799><c> has</c>
+
+00:03:55.179 --> 00:03:55.189 align:start position:0%
+data and this is results like these has
+ 
+
+00:03:55.189 --> 00:03:56.890 align:start position:0%
+data and this is results like these has
+lets<00:03:55.430><c> us</c><00:03:55.640><c> say</c><00:03:55.879><c> in</c><00:03:55.939><c> in</c><00:03:56.180><c> machine</c><00:03:56.480><c> learning</c><00:03:56.599><c> that</c>
+
+00:03:56.890 --> 00:03:56.900 align:start position:0%
+lets us say in in machine learning that
+ 
+
+00:03:56.900 --> 00:03:59.289 align:start position:0%
+lets us say in in machine learning that
+often<00:03:57.530><c> the</c><00:03:57.620><c> machine</c><00:03:57.920><c> learning</c><00:03:58.069><c> is</c><00:03:58.819><c> not</c><00:03:59.090><c> who</c>
+
+00:03:59.289 --> 00:03:59.299 align:start position:0%
+often the machine learning is not who
+ 
+
+00:03:59.299 --> 00:04:01.390 align:start position:0%
+often the machine learning is not who
+has<00:03:59.510><c> the</c><00:03:59.659><c> best</c><00:03:59.810><c> algorithm</c><00:04:00.319><c> that</c><00:04:00.409><c> wins</c><00:04:00.680><c> is</c><00:04:01.129><c> who</c>
+
+00:04:01.390 --> 00:04:01.400 align:start position:0%
+has the best algorithm that wins is who
+ 
+
+00:04:01.400 --> 00:04:04.809 align:start position:0%
+has the best algorithm that wins is who
+has<00:04:01.640><c> the</c><00:04:01.670><c> most</c><00:04:02.000><c> data</c><00:04:02.470><c> so</c><00:04:03.470><c> when</c><00:04:04.069><c> it's</c><00:04:04.250><c> just</c><00:04:04.459><c> true</c>
+
+00:04:04.809 --> 00:04:04.819 align:start position:0%
+has the most data so when it's just true
+ 
+
+00:04:04.819 --> 00:04:06.940 align:start position:0%
+has the most data so when it's just true
+and<00:04:05.150><c> when</c><00:04:05.599><c> is</c><00:04:05.750><c> this</c><00:04:05.870><c> not</c><00:04:06.170><c> true</c><00:04:06.500><c> because</c><00:04:06.709><c> we</c>
+
+00:04:06.940 --> 00:04:06.950 align:start position:0%
+and when is this not true because we
+ 
+
+00:04:06.950 --> 00:04:08.920 align:start position:0%
+and when is this not true because we
+have<00:04:07.280><c> a</c><00:04:07.489><c> learning</c><00:04:07.879><c> algorithm</c><00:04:08.150><c> for</c><00:04:08.599><c> which</c><00:04:08.750><c> this</c>
+
+00:04:08.920 --> 00:04:08.930 align:start position:0%
+have a learning algorithm for which this
+ 
+
+00:04:08.930 --> 00:04:11.830 align:start position:0%
+have a learning algorithm for which this
+is<00:04:08.989><c> true</c><00:04:09.170><c> then</c><00:04:09.799><c> getting</c><00:04:10.609><c> a</c><00:04:10.700><c> lot</c><00:04:10.879><c> of</c><00:04:11.030><c> data</c><00:04:11.180><c> is</c>
+
+00:04:11.830 --> 00:04:11.840 align:start position:0%
+is true then getting a lot of data is
+ 
+
+00:04:11.840 --> 00:04:14.259 align:start position:0%
+is true then getting a lot of data is
+often<00:04:12.230><c> maybe</c><00:04:12.829><c> the</c><00:04:13.010><c> best</c><00:04:13.220><c> way</c><00:04:13.459><c> to</c><00:04:13.489><c> ensure</c><00:04:14.000><c> that</c>
+
+00:04:14.259 --> 00:04:14.269 align:start position:0%
+often maybe the best way to ensure that
+ 
+
+00:04:14.269 --> 00:04:16.180 align:start position:0%
+often maybe the best way to ensure that
+we<00:04:14.510><c> have</c><00:04:14.750><c> an</c><00:04:14.870><c> algorithm</c><00:04:15.140><c> who</c><00:04:15.739><c> have</c><00:04:15.859><c> very</c><00:04:16.100><c> high</c>
+
+00:04:16.180 --> 00:04:16.190 align:start position:0%
+we have an algorithm who have very high
+ 
+
+00:04:16.190 --> 00:04:17.680 align:start position:0%
+we have an algorithm who have very high
+performance<00:04:16.940><c> rather</c><00:04:17.239><c> than</c><00:04:17.509><c> you</c><00:04:17.660><c> know</c>
+
+00:04:17.680 --> 00:04:17.690 align:start position:0%
+performance rather than you know
+ 
+
+00:04:17.690 --> 00:04:20.050 align:start position:0%
+performance rather than you know
+debating<00:04:18.289><c> worrying</c><00:04:18.709><c> about</c><00:04:18.829><c> exactly</c><00:04:19.400><c> which</c><00:04:19.759><c> of</c>
+
+00:04:20.050 --> 00:04:20.060 align:start position:0%
+debating worrying about exactly which of
+ 
+
+00:04:20.060 --> 00:04:22.629 align:start position:0%
+debating worrying about exactly which of
+these<00:04:20.209><c> albums</c><00:04:20.630><c> to</c><00:04:20.810><c> use</c><00:04:21.049><c> let's</c><00:04:21.919><c> try</c><00:04:22.190><c> to</c><00:04:22.250><c> learn</c><00:04:22.610><c> a</c>
+
+00:04:22.629 --> 00:04:22.639 align:start position:0%
+these albums to use let's try to learn a
+ 
+
+00:04:22.639 --> 00:04:25.600 align:start position:0%
+these albums to use let's try to learn a
+set<00:04:23.360><c> of</c><00:04:23.479><c> assumptions</c><00:04:23.810><c> under</c><00:04:24.470><c> which</c><00:04:24.500><c> having</c><00:04:25.460><c> a</c>
+
+00:04:25.600 --> 00:04:25.610 align:start position:0%
+set of assumptions under which having a
+ 
+
+00:04:25.610 --> 00:04:28.120 align:start position:0%
+set of assumptions under which having a
+massive<00:04:25.880><c> training</c><00:04:26.360><c> set</c><00:04:26.479><c> we</c><00:04:27.260><c> think</c><00:04:27.560><c> will</c><00:04:27.800><c> be</c>
+
+00:04:28.120 --> 00:04:28.130 align:start position:0%
+massive training set we think will be
+ 
+
+00:04:28.130 --> 00:04:31.420 align:start position:0%
+massive training set we think will be
+able<00:04:28.280><c> to</c><00:04:28.370><c> help</c><00:04:28.960><c> let's</c><00:04:29.960><c> assume</c><00:04:30.320><c> that</c><00:04:30.650><c> in</c><00:04:31.250><c> a</c>
+
+00:04:31.420 --> 00:04:31.430 align:start position:0%
+able to help let's assume that in a
+ 
+
+00:04:31.430 --> 00:04:33.879 align:start position:0%
+able to help let's assume that in a
+machine<00:04:31.729><c> learning</c><00:04:31.850><c> problem</c><00:04:32.169><c> the</c><00:04:33.169><c> features</c><00:04:33.620><c> X</c>
+
+00:04:33.879 --> 00:04:33.889 align:start position:0%
+machine learning problem the features X
+ 
+
+00:04:33.889 --> 00:04:36.730 align:start position:0%
+machine learning problem the features X
+have<00:04:34.400><c> sufficient</c><00:04:35.120><c> information</c><00:04:35.500><c> with</c><00:04:36.500><c> which</c>
+
+00:04:36.730 --> 00:04:36.740 align:start position:0%
+have sufficient information with which
+ 
+
+00:04:36.740 --> 00:04:40.570 align:start position:0%
+have sufficient information with which
+we<00:04:36.949><c> can</c><00:04:37.220><c> use</c><00:04:37.580><c> to</c><00:04:37.880><c> predict</c><00:04:38.240><c> Y</c><00:04:38.539><c> accurately</c><00:04:39.580><c> for</c>
+
+00:04:40.570 --> 00:04:40.580 align:start position:0%
+we can use to predict Y accurately for
+ 
+
+00:04:40.580 --> 00:04:42.790 align:start position:0%
+we can use to predict Y accurately for
+example<00:04:41.030><c> if</c><00:04:41.330><c> we</c><00:04:41.510><c> take</c><00:04:41.539><c> the</c><00:04:41.960><c> confusable</c><00:04:42.710><c> words</c>
+
+00:04:42.790 --> 00:04:42.800 align:start position:0%
+example if we take the confusable words
+ 
+
+00:04:42.800 --> 00:04:44.589 align:start position:0%
+example if we take the confusable words
+problem<00:04:43.550><c> that</c><00:04:43.940><c> we</c><00:04:44.000><c> had</c><00:04:44.210><c> in</c><00:04:44.360><c> the</c><00:04:44.449><c> previous</c>
+
+00:04:44.589 --> 00:04:44.599 align:start position:0%
+problem that we had in the previous
+ 
+
+00:04:44.599 --> 00:04:47.469 align:start position:0%
+problem that we had in the previous
+slide<00:04:44.919><c> let's</c><00:04:45.919><c> say</c><00:04:46.099><c> that</c><00:04:46.280><c> features</c><00:04:46.910><c> X</c><00:04:47.150><c> capture</c>
+
+00:04:47.469 --> 00:04:47.479 align:start position:0%
+slide let's say that features X capture
+ 
+
+00:04:47.479 --> 00:04:50.439 align:start position:0%
+slide let's say that features X capture
+what<00:04:48.320><c> are</c><00:04:48.440><c> the</c><00:04:48.560><c> surrounding</c><00:04:49.130><c> words</c><00:04:49.449><c> around</c>
+
+00:04:50.439 --> 00:04:50.449 align:start position:0%
+what are the surrounding words around
+ 
+
+00:04:50.449 --> 00:04:51.610 align:start position:0%
+what are the surrounding words around
+the<00:04:50.570><c> blank</c><00:04:50.840><c> that</c><00:04:50.990><c> we're</c><00:04:51.139><c> trying</c><00:04:51.289><c> to</c><00:04:51.410><c> fill</c><00:04:51.590><c> in</c>
+
+00:04:51.610 --> 00:04:51.620 align:start position:0%
+the blank that we're trying to fill in
+ 
+
+00:04:51.620 --> 00:04:53.980 align:start position:0%
+the blank that we're trying to fill in
+so<00:04:51.979><c> the</c><00:04:52.220><c> features</c><00:04:52.550><c> capture</c><00:04:53.000><c> that</c><00:04:53.630><c> we</c><00:04:53.750><c> want</c><00:04:53.960><c> to</c>
+
+00:04:53.980 --> 00:04:53.990 align:start position:0%
+so the features capture that we want to
+ 
+
+00:04:53.990 --> 00:04:55.629 align:start position:0%
+so the features capture that we want to
+have<00:04:54.139><c> with</c><00:04:54.410><c> sentence</c><00:04:54.889><c> for</c><00:04:55.070><c> breakfast</c><00:04:55.460><c> I</c><00:04:55.610><c> ate</c>
+
+00:04:55.629 --> 00:04:55.639 align:start position:0%
+have with sentence for breakfast I ate
+ 
+
+00:04:55.639 --> 00:04:58.420 align:start position:0%
+have with sentence for breakfast I ate
+black<00:04:56.180><c> eggs</c><00:04:56.599><c> then</c><00:04:57.500><c> you</c><00:04:57.830><c> know</c><00:04:57.889><c> that's</c><00:04:58.099><c> pretty</c>
+
+00:04:58.420 --> 00:04:58.430 align:start position:0%
+black eggs then you know that's pretty
+ 
+
+00:04:58.430 --> 00:05:00.339 align:start position:0%
+black eggs then you know that's pretty
+much<00:04:58.550><c> enough</c><00:04:58.820><c> information</c><00:04:59.210><c> to</c><00:04:59.570><c> tell</c><00:04:59.750><c> me</c><00:05:00.139><c> that</c>
+
+00:05:00.339 --> 00:05:00.349 align:start position:0%
+much enough information to tell me that
+ 
+
+00:05:00.349 --> 00:05:02.710 align:start position:0%
+much enough information to tell me that
+the<00:05:00.740><c> word</c><00:05:00.949><c> that</c><00:05:01.130><c> one</c><00:05:01.280><c> in</c><00:05:01.460><c> the</c><00:05:01.520><c> middle</c><00:05:01.610><c> is</c><00:05:01.970><c> T</c><00:05:02.300><c> wo</c>
+
+00:05:02.710 --> 00:05:02.720 align:start position:0%
+the word that one in the middle is T wo
+ 
+
+00:05:02.720 --> 00:05:05.740 align:start position:0%
+the word that one in the middle is T wo
+and<00:05:03.110><c> that</c><00:05:03.830><c> is</c><00:05:03.979><c> nothing</c><00:05:04.160><c> worth</c><00:05:04.460><c> tio</c><00:05:04.789><c> and</c><00:05:05.240><c> it's</c>
+
+00:05:05.740 --> 00:05:05.750 align:start position:0%
+and that is nothing worth tio and it's
+ 
+
+00:05:05.750 --> 00:05:08.779 align:start position:0%
+and that is nothing worth tio and it's
+not<00:05:05.900><c> the</c><00:05:06.080><c> word</c><00:05:06.260><c> tio</c>
+
+00:05:08.779 --> 00:05:08.789 align:start position:0%
+not the word tio
+ 
+
+00:05:08.789 --> 00:05:11.639 align:start position:0%
+not the word tio
+so<00:05:09.789><c> the</c><00:05:09.939><c> features</c><00:05:10.360><c> capture</c><00:05:11.020><c> you</c><00:05:11.199><c> know</c><00:05:11.259><c> one</c><00:05:11.529><c> of</c>
+
+00:05:11.639 --> 00:05:11.649 align:start position:0%
+so the features capture you know one of
+ 
+
+00:05:11.649 --> 00:05:13.679 align:start position:0%
+so the features capture you know one of
+these<00:05:11.770><c> surrounding</c><00:05:12.129><c> words</c><00:05:12.580><c> then</c><00:05:12.939><c> that</c><00:05:13.419><c> gives</c>
+
+00:05:13.679 --> 00:05:13.689 align:start position:0%
+these surrounding words then that gives
+ 
+
+00:05:13.689 --> 00:05:15.629 align:start position:0%
+these surrounding words then that gives
+me<00:05:13.839><c> enough</c><00:05:14.139><c> information</c><00:05:14.259><c> to</c><00:05:15.039><c> pretty</c>
+
+00:05:15.629 --> 00:05:15.639 align:start position:0%
+me enough information to pretty
+ 
+
+00:05:15.639 --> 00:05:17.939 align:start position:0%
+me enough information to pretty
+unambiguously<00:05:16.479><c> decide</c><00:05:17.020><c> what</c><00:05:17.649><c> is</c><00:05:17.770><c> the</c><00:05:17.800><c> label</c>
+
+00:05:17.939 --> 00:05:17.949 align:start position:0%
+unambiguously decide what is the label
+ 
+
+00:05:17.949 --> 00:05:20.399 align:start position:0%
+unambiguously decide what is the label
+why<00:05:18.550><c> or</c><00:05:18.939><c> in</c><00:05:19.330><c> other</c><00:05:19.479><c> words</c><00:05:19.689><c> what</c><00:05:19.960><c> is</c><00:05:20.050><c> the</c><00:05:20.080><c> word</c>
+
+00:05:20.399 --> 00:05:20.409 align:start position:0%
+why or in other words what is the word
+ 
+
+00:05:20.409 --> 00:05:22.559 align:start position:0%
+why or in other words what is the word
+that<00:05:20.619><c> I</c><00:05:20.919><c> should</c><00:05:21.159><c> be</c><00:05:21.249><c> using</c><00:05:21.610><c> to</c><00:05:21.819><c> fill</c><00:05:22.059><c> in</c><00:05:22.210><c> that</c>
+
+00:05:22.559 --> 00:05:22.569 align:start position:0%
+that I should be using to fill in that
+ 
+
+00:05:22.569 --> 00:05:24.179 align:start position:0%
+that I should be using to fill in that
+blank<00:05:22.629><c> out</c><00:05:23.229><c> of</c><00:05:23.499><c> this</c><00:05:23.680><c> set</c><00:05:23.889><c> of</c><00:05:24.129><c> three</c>
+
+00:05:24.179 --> 00:05:24.189 align:start position:0%
+blank out of this set of three
+ 
+
+00:05:24.189 --> 00:05:28.230 align:start position:0%
+blank out of this set of three
+confusable<00:05:24.759><c> words</c><00:05:26.309><c> so</c><00:05:27.309><c> that's</c><00:05:27.490><c> an</c><00:05:27.669><c> example</c><00:05:27.759><c> of</c>
+
+00:05:28.230 --> 00:05:28.240 align:start position:0%
+confusable words so that's an example of
+ 
+
+00:05:28.240 --> 00:05:29.909 align:start position:0%
+confusable words so that's an example of
+where<00:05:28.449><c> the</c><00:05:28.569><c> features</c><00:05:28.899><c> X</c><00:05:29.110><c> have</c><00:05:29.349><c> sufficient</c>
+
+00:05:29.909 --> 00:05:29.919 align:start position:0%
+where the features X have sufficient
+ 
+
+00:05:29.919 --> 00:05:32.909 align:start position:0%
+where the features X have sufficient
+information<00:05:30.069><c> to</c><00:05:30.430><c> predict</c><00:05:30.849><c> Y</c><00:05:31.469><c> for</c><00:05:32.469><c> a</c><00:05:32.529><c> counter</c>
+
+00:05:32.909 --> 00:05:32.919 align:start position:0%
+information to predict Y for a counter
+ 
+
+00:05:32.919 --> 00:05:35.909 align:start position:0%
+information to predict Y for a counter
+example<00:05:34.110><c> consider</c><00:05:35.110><c> the</c><00:05:35.289><c> problem</c><00:05:35.529><c> of</c>
+
+00:05:35.909 --> 00:05:35.919 align:start position:0%
+example consider the problem of
+ 
+
+00:05:35.919 --> 00:05:38.219 align:start position:0%
+example consider the problem of
+predicting<00:05:36.189><c> the</c><00:05:36.610><c> price</c><00:05:36.849><c> of</c><00:05:37.029><c> a</c><00:05:37.119><c> house</c><00:05:37.300><c> from</c>
+
+00:05:38.219 --> 00:05:38.229 align:start position:0%
+predicting the price of a house from
+ 
+
+00:05:38.229 --> 00:05:40.260 align:start position:0%
+predicting the price of a house from
+only<00:05:38.680><c> the</c><00:05:38.860><c> size</c><00:05:39.129><c> of</c><00:05:39.339><c> the</c><00:05:39.430><c> house</c><00:05:39.610><c> and</c><00:05:39.939><c> from</c><00:05:40.119><c> no</c>
+
+00:05:40.260 --> 00:05:40.270 align:start position:0%
+only the size of the house and from no
+ 
+
+00:05:40.270 --> 00:05:43.920 align:start position:0%
+only the size of the house and from no
+other<00:05:40.479><c> features</c><00:05:41.339><c> so</c><00:05:42.339><c> if</c><00:05:42.909><c> you</c><00:05:42.999><c> imagine</c><00:05:43.539><c> I</c><00:05:43.659><c> tell</c>
+
+00:05:43.920 --> 00:05:43.930 align:start position:0%
+other features so if you imagine I tell
+ 
+
+00:05:43.930 --> 00:05:46.260 align:start position:0%
+other features so if you imagine I tell
+you<00:05:44.080><c> that</c><00:05:44.349><c> houses</c><00:05:45.159><c> you</c><00:05:45.459><c> know</c><00:05:45.490><c> five</c><00:05:45.939><c> hundred</c>
+
+00:05:46.260 --> 00:05:46.270 align:start position:0%
+you that houses you know five hundred
+ 
+
+00:05:46.270 --> 00:05:47.850 align:start position:0%
+you that houses you know five hundred
+square<00:05:46.360><c> feet</c><00:05:46.689><c> but</c><00:05:47.050><c> I</c><00:05:47.110><c> don't</c><00:05:47.349><c> give</c><00:05:47.529><c> you</c><00:05:47.559><c> any</c>
+
+00:05:47.850 --> 00:05:47.860 align:start position:0%
+square feet but I don't give you any
+ 
+
+00:05:47.860 --> 00:05:49.649 align:start position:0%
+square feet but I don't give you any
+other<00:05:48.069><c> features</c><00:05:48.490><c> I</c><00:05:48.639><c> don't</c><00:05:48.879><c> tell</c><00:05:49.119><c> you</c><00:05:49.270><c> if</c><00:05:49.509><c> the</c>
+
+00:05:49.649 --> 00:05:49.659 align:start position:0%
+other features I don't tell you if the
+ 
+
+00:05:49.659 --> 00:05:52.019 align:start position:0%
+other features I don't tell you if the
+house<00:05:49.869><c> is</c><00:05:50.439><c> in</c><00:05:50.740><c> an</c><00:05:50.860><c> expensive</c><00:05:51.430><c> part</c><00:05:51.759><c> of</c><00:05:51.909><c> the</c>
+
+00:05:52.019 --> 00:05:52.029 align:start position:0%
+house is in an expensive part of the
+ 
+
+00:05:52.029 --> 00:05:54.209 align:start position:0%
+house is in an expensive part of the
+city<00:05:52.059><c> or</c><00:05:52.569><c> if</c><00:05:52.809><c> I</c><00:05:52.899><c> don't</c><00:05:53.139><c> tell</c><00:05:53.379><c> you</c><00:05:53.409><c> if</c><00:05:53.860><c> the</c><00:05:53.979><c> house</c>
+
+00:05:54.209 --> 00:05:54.219 align:start position:0%
+city or if I don't tell you if the house
+ 
+
+00:05:54.219 --> 00:05:57.179 align:start position:0%
+city or if I don't tell you if the house
+the<00:05:54.999><c> number</c><00:05:55.149><c> of</c><00:05:55.300><c> rooms</c><00:05:55.419><c> in</c><00:05:55.839><c> the</c><00:05:55.930><c> house</c><00:05:56.169><c> or</c><00:05:56.680><c> how</c>
+
+00:05:57.179 --> 00:05:57.189 align:start position:0%
+the number of rooms in the house or how
+ 
+
+00:05:57.189 --> 00:05:59.429 align:start position:0%
+the number of rooms in the house or how
+nice<00:05:57.459><c> the</c><00:05:57.669><c> furnish</c><00:05:58.149><c> the</c><00:05:58.449><c> house</c><00:05:58.629><c> is</c><00:05:58.899><c> or</c><00:05:59.289><c> whether</c>
+
+00:05:59.429 --> 00:05:59.439 align:start position:0%
+nice the furnish the house is or whether
+ 
+
+00:05:59.439 --> 00:06:01.589 align:start position:0%
+nice the furnish the house is or whether
+the<00:05:59.649><c> house</c><00:05:59.830><c> is</c><00:06:00.069><c> new</c><00:06:00.279><c> or</c><00:06:00.430><c> old</c><00:06:00.639><c> if</c><00:06:01.149><c> I</c><00:06:01.270><c> don't</c><00:06:01.419><c> tell</c>
+
+00:06:01.589 --> 00:06:01.599 align:start position:0%
+the house is new or old if I don't tell
+ 
+
+00:06:01.599 --> 00:06:03.209 align:start position:0%
+the house is new or old if I don't tell
+you<00:06:01.719><c> anything</c><00:06:02.169><c> other</c><00:06:02.319><c> than</c><00:06:02.649><c> that</c><00:06:02.860><c> this</c><00:06:03.009><c> is</c><00:06:03.069><c> a</c>
+
+00:06:03.209 --> 00:06:03.219 align:start position:0%
+you anything other than that this is a
+ 
+
+00:06:03.219 --> 00:06:05.189 align:start position:0%
+you anything other than that this is a
+five<00:06:03.520><c> hundred</c><00:06:03.639><c> square</c><00:06:03.909><c> foot</c><00:06:04.209><c> house</c><00:06:04.449><c> well</c>
+
+00:06:05.189 --> 00:06:05.199 align:start position:0%
+five hundred square foot house well
+ 
+
+00:06:05.199 --> 00:06:06.929 align:start position:0%
+five hundred square foot house well
+there<00:06:05.589><c> are</c><00:06:05.680><c> so</c><00:06:05.919><c> many</c><00:06:06.039><c> other</c><00:06:06.339><c> factors</c><00:06:06.459><c> that</c>
+
+00:06:06.929 --> 00:06:06.939 align:start position:0%
+there are so many other factors that
+ 
+
+00:06:06.939 --> 00:06:08.939 align:start position:0%
+there are so many other factors that
+will<00:06:07.300><c> affect</c><00:06:07.449><c> the</c><00:06:07.839><c> price</c><00:06:08.110><c> of</c><00:06:08.139><c> a</c><00:06:08.379><c> house</c><00:06:08.589><c> other</c>
+
+00:06:08.939 --> 00:06:08.949 align:start position:0%
+will affect the price of a house other
+ 
+
+00:06:08.949 --> 00:06:11.309 align:start position:0%
+will affect the price of a house other
+than<00:06:09.219><c> just</c><00:06:09.520><c> the</c><00:06:09.969><c> size</c><00:06:10.240><c> of</c><00:06:10.419><c> the</c><00:06:10.509><c> holes</c><00:06:10.689><c> that</c><00:06:10.990><c> if</c>
+
+00:06:11.309 --> 00:06:11.319 align:start position:0%
+than just the size of the holes that if
+ 
+
+00:06:11.319 --> 00:06:13.110 align:start position:0%
+than just the size of the holes that if
+all<00:06:11.469><c> you</c><00:06:11.589><c> know</c><00:06:11.709><c> the</c><00:06:11.919><c> size</c><00:06:12.099><c> is</c><00:06:12.430><c> actually</c><00:06:13.029><c> very</c>
+
+00:06:13.110 --> 00:06:13.120 align:start position:0%
+all you know the size is actually very
+ 
+
+00:06:13.120 --> 00:06:14.429 align:start position:0%
+all you know the size is actually very
+difficult<00:06:13.449><c> to</c><00:06:13.779><c> predict</c><00:06:14.110><c> the</c><00:06:14.229><c> price</c>
+
+00:06:14.429 --> 00:06:14.439 align:start position:0%
+difficult to predict the price
+ 
+
+00:06:14.439 --> 00:06:17.309 align:start position:0%
+difficult to predict the price
+accurately<00:06:15.360><c> so</c><00:06:16.360><c> that</c><00:06:16.389><c> would</c><00:06:16.659><c> be</c><00:06:16.779><c> a</c><00:06:16.809><c> counter</c>
+
+00:06:17.309 --> 00:06:17.319 align:start position:0%
+accurately so that would be a counter
+ 
+
+00:06:17.319 --> 00:06:19.079 align:start position:0%
+accurately so that would be a counter
+example<00:06:17.860><c> to</c><00:06:17.889><c> this</c><00:06:18.219><c> assumption</c><00:06:18.759><c> that</c><00:06:18.789><c> the</c>
+
+00:06:19.079 --> 00:06:19.089 align:start position:0%
+example to this assumption that the
+ 
+
+00:06:19.089 --> 00:06:21.389 align:start position:0%
+example to this assumption that the
+features<00:06:19.180><c> have</c><00:06:19.749><c> sufficient</c><00:06:20.349><c> information</c><00:06:20.469><c> to</c>
+
+00:06:21.389 --> 00:06:21.399 align:start position:0%
+features have sufficient information to
+ 
+
+00:06:21.399 --> 00:06:23.219 align:start position:0%
+features have sufficient information to
+predict<00:06:21.729><c> the</c><00:06:21.849><c> price</c><00:06:22.059><c> to</c><00:06:22.479><c> the</c><00:06:22.509><c> design</c><00:06:22.930><c> level</c>
+
+00:06:23.219 --> 00:06:23.229 align:start position:0%
+predict the price to the design level
+ 
+
+00:06:23.229 --> 00:06:24.899 align:start position:0%
+predict the price to the design level
+accuracy<00:06:23.529><c> meaning</c><00:06:23.979><c> the</c><00:06:24.219><c> way</c><00:06:24.370><c> I</c><00:06:24.399><c> think</c><00:06:24.610><c> about</c>
+
+00:06:24.899 --> 00:06:24.909 align:start position:0%
+accuracy meaning the way I think about
+ 
+
+00:06:24.909 --> 00:06:27.269 align:start position:0%
+accuracy meaning the way I think about
+testing<00:06:25.360><c> this</c><00:06:25.719><c> assumption</c><00:06:26.289><c> one</c><00:06:26.559><c> way</c><00:06:26.709><c> I</c><00:06:26.740><c> often</c>
+
+00:06:27.269 --> 00:06:27.279 align:start position:0%
+testing this assumption one way I often
+ 
+
+00:06:27.279 --> 00:06:29.570 align:start position:0%
+testing this assumption one way I often
+think<00:06:27.399><c> about</c><00:06:27.550><c> it</c><00:06:27.969><c> is</c><00:06:28.180><c> I</c><00:06:28.419><c> often</c><00:06:28.809><c> ask</c><00:06:28.959><c> myself</c>
+
+00:06:29.570 --> 00:06:29.580 align:start position:0%
+think about it is I often ask myself
+ 
+
+00:06:29.580 --> 00:06:32.489 align:start position:0%
+think about it is I often ask myself
+given<00:06:30.580><c> the</c><00:06:30.789><c> input</c><00:06:31.209><c> features</c><00:06:31.419><c> X</c><00:06:31.839><c> or</c><00:06:32.139><c> given</c><00:06:32.469><c> the</c>
+
+00:06:32.489 --> 00:06:32.499 align:start position:0%
+given the input features X or given the
+ 
+
+00:06:32.499 --> 00:06:34.170 align:start position:0%
+given the input features X or given the
+features<00:06:32.800><c> given</c><00:06:33.399><c> the</c><00:06:33.459><c> same</c><00:06:33.639><c> information</c>
+
+00:06:34.170 --> 00:06:34.180 align:start position:0%
+features given the same information
+ 
+
+00:06:34.180 --> 00:06:36.869 align:start position:0%
+features given the same information
+available<00:06:34.870><c> to</c><00:06:35.110><c> a</c><00:06:35.169><c> learning</c><00:06:35.379><c> algorithm</c><00:06:35.800><c> if</c><00:06:36.639><c> we</c>
+
+00:06:36.869 --> 00:06:36.879 align:start position:0%
+available to a learning algorithm if we
+ 
+
+00:06:36.879 --> 00:06:38.639 align:start position:0%
+available to a learning algorithm if we
+were<00:06:37.029><c> to</c><00:06:37.180><c> go</c><00:06:37.330><c> to</c><00:06:37.360><c> a</c><00:06:37.569><c> human</c><00:06:37.990><c> expert</c><00:06:38.409><c> in</c><00:06:38.529><c> this</c>
+
+00:06:38.639 --> 00:06:38.649 align:start position:0%
+were to go to a human expert in this
+ 
+
+00:06:38.649 --> 00:06:41.429 align:start position:0%
+were to go to a human expert in this
+domain<00:06:39.069><c> can</c><00:06:39.789><c> a</c><00:06:39.819><c> human</c><00:06:40.300><c> experts</c><00:06:40.449><c> accurately</c>
+
+00:06:41.429 --> 00:06:41.439 align:start position:0%
+domain can a human experts accurately
+ 
+
+00:06:41.439 --> 00:06:43.589 align:start position:0%
+domain can a human experts accurately
+Orkin<00:06:41.889><c> human</c><00:06:42.189><c> experiment</c><00:06:43.059><c> ly</c><00:06:43.149><c> predict</c><00:06:43.479><c> the</c>
+
+00:06:43.589 --> 00:06:43.599 align:start position:0%
+Orkin human experiment ly predict the
+ 
+
+00:06:43.599 --> 00:06:46.739 align:start position:0%
+Orkin human experiment ly predict the
+value<00:06:43.930><c> of</c><00:06:43.959><c> y</c><00:06:44.399><c> for</c><00:06:45.399><c> this</c><00:06:45.550><c> first</c><00:06:45.789><c> example</c><00:06:45.909><c> if</c><00:06:46.629><c> we</c>
+
+00:06:46.739 --> 00:06:46.749 align:start position:0%
+value of y for this first example if we
+ 
+
+00:06:46.749 --> 00:06:49.409 align:start position:0%
+value of y for this first example if we
+go<00:06:46.779><c> to</c><00:06:46.959><c> you</c><00:06:47.529><c> know</c><00:06:47.559><c> an</c><00:06:47.919><c> expert</c><00:06:48.279><c> human</c><00:06:48.849><c> English</c>
+
+00:06:49.409 --> 00:06:49.419 align:start position:0%
+go to you know an expert human English
+ 
+
+00:06:49.419 --> 00:06:51.420 align:start position:0%
+go to you know an expert human English
+speaker<00:06:49.749><c> that</c><00:06:50.080><c> you</c><00:06:50.110><c> go</c><00:06:50.409><c> to</c><00:06:50.469><c> some</c><00:06:51.219><c> of</c><00:06:51.309><c> them</c>
+
+00:06:51.420 --> 00:06:51.430 align:start position:0%
+speaker that you go to some of them
+ 
+
+00:06:51.430 --> 00:06:54.359 align:start position:0%
+speaker that you go to some of them
+speak<00:06:51.610><c> English</c><00:06:51.819><c> well</c><00:06:52.240><c> right</c><00:06:52.919><c> then</c><00:06:53.919><c> the</c><00:06:54.039><c> human</c>
+
+00:06:54.359 --> 00:06:54.369 align:start position:0%
+speak English well right then the human
+ 
+
+00:06:54.369 --> 00:06:56.999 align:start position:0%
+speak English well right then the human
+experts<00:06:55.089><c> in</c><00:06:55.240><c> English</c><00:06:55.629><c> just</c><00:06:56.139><c> really</c><00:06:56.649><c> most</c>
+
+00:06:56.999 --> 00:06:57.009 align:start position:0%
+experts in English just really most
+ 
+
+00:06:57.009 --> 00:06:59.339 align:start position:0%
+experts in English just really most
+people<00:06:57.309><c> like</c><00:06:57.430><c> you</c><00:06:57.580><c> and</c><00:06:57.729><c> me</c><00:06:58.169><c> would</c><00:06:59.169><c> probably</c>
+
+00:06:59.339 --> 00:06:59.349 align:start position:0%
+people like you and me would probably
+ 
+
+00:06:59.349 --> 00:07:01.709 align:start position:0%
+people like you and me would probably
+would<00:07:00.309><c> probably</c><00:07:00.819><c> be</c><00:07:00.969><c> able</c><00:07:01.059><c> to</c><00:07:01.209><c> predict</c><00:07:01.569><c> what</c>
+
+00:07:01.709 --> 00:07:01.719 align:start position:0%
+would probably be able to predict what
+ 
+
+00:07:01.719 --> 00:07:03.959 align:start position:0%
+would probably be able to predict what
+words<00:07:01.990><c> should</c><00:07:02.319><c> go</c><00:07:02.439><c> in</c><00:07:02.589><c> here</c><00:07:02.860><c> so</c><00:07:03.099><c> a</c><00:07:03.369><c> good</c>
+
+00:07:03.959 --> 00:07:03.969 align:start position:0%
+words should go in here so a good
+ 
+
+00:07:03.969 --> 00:07:06.029 align:start position:0%
+words should go in here so a good
+English<00:07:04.149><c> speaker</c><00:07:04.419><c> can</c><00:07:05.080><c> predict</c><00:07:05.379><c> as</c><00:07:05.529><c> well</c><00:07:05.740><c> and</c>
+
+00:07:06.029 --> 00:07:06.039 align:start position:0%
+English speaker can predict as well and
+ 
+
+00:07:06.039 --> 00:07:07.829 align:start position:0%
+English speaker can predict as well and
+so<00:07:06.159><c> this</c><00:07:06.339><c> gives</c><00:07:06.580><c> me</c><00:07:06.669><c> confidence</c><00:07:06.969><c> that</c><00:07:07.629><c> X</c>
+
+00:07:07.829 --> 00:07:07.839 align:start position:0%
+so this gives me confidence that X
+ 
+
+00:07:07.839 --> 00:07:10.589 align:start position:0%
+so this gives me confidence that X
+allows<00:07:08.139><c> us</c><00:07:08.379><c> predict</c><00:07:08.709><c> Y</c><00:07:08.919><c> accurately</c><00:07:09.509><c> but</c><00:07:10.509><c> in</c>
+
+00:07:10.589 --> 00:07:10.599 align:start position:0%
+allows us predict Y accurately but in
+ 
+
+00:07:10.599 --> 00:07:13.139 align:start position:0%
+allows us predict Y accurately but in
+contrast<00:07:11.110><c> if</c><00:07:11.319><c> we</c><00:07:11.349><c> would</c><00:07:11.619><c> go</c><00:07:11.769><c> to</c><00:07:11.830><c> an</c><00:07:12.219><c> expert</c><00:07:12.909><c> in</c>
+
+00:07:13.139 --> 00:07:13.149 align:start position:0%
+contrast if we would go to an expert in
+ 
+
+00:07:13.149 --> 00:07:14.969 align:start position:0%
+contrast if we would go to an expert in
+human<00:07:13.360><c> prices</c><00:07:13.990><c> like</c><00:07:14.199><c> maybe</c><00:07:14.439><c> an</c><00:07:14.649><c> expert</c>
+
+00:07:14.969 --> 00:07:14.979 align:start position:0%
+human prices like maybe an expert
+ 
+
+00:07:14.979 --> 00:07:17.730 align:start position:0%
+human prices like maybe an expert
+realtor<00:07:15.610><c> right</c><00:07:15.849><c> someone</c><00:07:16.180><c> who</c><00:07:16.539><c> sells</c><00:07:17.229><c> houses</c>
+
+00:07:17.730 --> 00:07:17.740 align:start position:0%
+realtor right someone who sells houses
+ 
+
+00:07:17.740 --> 00:07:19.589 align:start position:0%
+realtor right someone who sells houses
+for<00:07:17.889><c> a</c><00:07:17.919><c> living</c><00:07:17.979><c> if</c><00:07:18.550><c> I</c><00:07:18.879><c> just</c><00:07:19.089><c> tell</c><00:07:19.300><c> them</c><00:07:19.449><c> the</c>
+
+00:07:19.589 --> 00:07:19.599 align:start position:0%
+for a living if I just tell them the
+ 
+
+00:07:19.599 --> 00:07:20.590 align:start position:0%
+for a living if I just tell them the
+size<00:07:19.810><c> of</c><00:07:19.990><c> a</c><00:07:20.079><c> house</c>
+
+00:07:20.590 --> 00:07:20.600 align:start position:0%
+size of a house
+ 
+
+00:07:20.600 --> 00:07:22.720 align:start position:0%
+size of a house
+tell<00:07:20.780><c> them</c><00:07:20.900><c> what</c><00:07:21.050><c> is</c><00:07:21.170><c> what</c><00:07:21.650><c> the</c><00:07:21.770><c> price</c><00:07:22.130><c> is</c><00:07:22.160><c> well</c>
+
+00:07:22.720 --> 00:07:22.730 align:start position:0%
+tell them what is what the price is well
+ 
+
+00:07:22.730 --> 00:07:25.420 align:start position:0%
+tell them what is what the price is well
+even<00:07:23.180><c> an</c><00:07:23.330><c> expert</c><00:07:23.690><c> in</c><00:07:23.840><c> pricing</c><00:07:24.110><c> or</c><00:07:25.100><c> selling</c>
+
+00:07:25.420 --> 00:07:25.430 align:start position:0%
+even an expert in pricing or selling
+ 
+
+00:07:25.430 --> 00:07:27.460 align:start position:0%
+even an expert in pricing or selling
+houses<00:07:25.820><c> wouldn't</c><00:07:26.570><c> be</c><00:07:26.660><c> able</c><00:07:26.840><c> to</c><00:07:26.930><c> tell</c><00:07:27.170><c> me</c><00:07:27.350><c> and</c>
+
+00:07:27.460 --> 00:07:27.470 align:start position:0%
+houses wouldn't be able to tell me and
+ 
+
+00:07:27.470 --> 00:07:29.620 align:start position:0%
+houses wouldn't be able to tell me and
+so<00:07:27.590><c> there's</c><00:07:27.830><c> a</c><00:07:27.920><c> sign</c><00:07:28.160><c> that</c><00:07:28.520><c> for</c><00:07:29.240><c> the</c><00:07:29.300><c> housing</c>
+
+00:07:29.620 --> 00:07:29.630 align:start position:0%
+so there's a sign that for the housing
+ 
+
+00:07:29.630 --> 00:07:32.230 align:start position:0%
+so there's a sign that for the housing
+price<00:07:29.870><c> example</c><00:07:30.560><c> knowing</c><00:07:31.490><c> only</c><00:07:31.760><c> the</c><00:07:31.940><c> size</c>
+
+00:07:32.230 --> 00:07:32.240 align:start position:0%
+price example knowing only the size
+ 
+
+00:07:32.240 --> 00:07:34.810 align:start position:0%
+price example knowing only the size
+doesn't<00:07:33.170><c> give</c><00:07:33.470><c> me</c><00:07:33.620><c> enough</c><00:07:33.860><c> information</c><00:07:34.310><c> to</c>
+
+00:07:34.810 --> 00:07:34.820 align:start position:0%
+doesn't give me enough information to
+ 
+
+00:07:34.820 --> 00:07:38.140 align:start position:0%
+doesn't give me enough information to
+predict<00:07:35.360><c> the</c><00:07:36.050><c> price</c><00:07:36.470><c> of</c><00:07:36.620><c> the</c><00:07:36.710><c> house</c><00:07:36.890><c> so</c><00:07:37.880><c> let's</c>
+
+00:07:38.140 --> 00:07:38.150 align:start position:0%
+predict the price of the house so let's
+ 
+
+00:07:38.150 --> 00:07:42.310 align:start position:0%
+predict the price of the house so let's
+say<00:07:38.690><c> this</c><00:07:39.380><c> assumption</c><00:07:39.920><c> holds</c><00:07:40.390><c> let's</c><00:07:41.390><c> see</c><00:07:41.960><c> then</c>
+
+00:07:42.310 --> 00:07:42.320 align:start position:0%
+say this assumption holds let's see then
+ 
+
+00:07:42.320 --> 00:07:44.500 align:start position:0%
+say this assumption holds let's see then
+when<00:07:42.620><c> having</c><00:07:43.010><c> a</c><00:07:43.190><c> lot</c><00:07:43.430><c> of</c><00:07:43.580><c> data</c><00:07:43.790><c> it</c><00:07:44.150><c> could</c><00:07:44.270><c> help</c>
+
+00:07:44.500 --> 00:07:44.510 align:start position:0%
+when having a lot of data it could help
+ 
+
+00:07:44.510 --> 00:07:46.660 align:start position:0%
+when having a lot of data it could help
+suppose<00:07:45.410><c> the</c><00:07:45.590><c> features</c><00:07:46.010><c> have</c><00:07:46.310><c> enough</c>
+
+00:07:46.660 --> 00:07:46.670 align:start position:0%
+suppose the features have enough
+ 
+
+00:07:46.670 --> 00:07:48.610 align:start position:0%
+suppose the features have enough
+information<00:07:46.970><c> to</c><00:07:47.360><c> predict</c><00:07:47.900><c> the</c><00:07:48.020><c> value</c><00:07:48.350><c> of</c><00:07:48.380><c> my</c>
+
+00:07:48.610 --> 00:07:48.620 align:start position:0%
+information to predict the value of my
+ 
+
+00:07:48.620 --> 00:07:50.950 align:start position:0%
+information to predict the value of my
+and<00:07:48.980><c> let's</c><00:07:49.760><c> suppose</c><00:07:49.910><c> we</c><00:07:50.450><c> use</c><00:07:50.480><c> a</c><00:07:50.930><c> learning</c>
+
+00:07:50.950 --> 00:07:50.960 align:start position:0%
+and let's suppose we use a learning
+ 
+
+00:07:50.960 --> 00:07:53.290 align:start position:0%
+and let's suppose we use a learning
+algorithm<00:07:51.860><c> with</c><00:07:52.340><c> a</c><00:07:52.370><c> large</c><00:07:52.730><c> number</c><00:07:53.120><c> of</c>
+
+00:07:53.290 --> 00:07:53.300 align:start position:0%
+algorithm with a large number of
+ 
+
+00:07:53.300 --> 00:07:55.750 align:start position:0%
+algorithm with a large number of
+parameters<00:07:53.690><c> so</c><00:07:54.590><c> maybe</c><00:07:54.830><c> logistic</c><00:07:55.340><c> regression</c>
+
+00:07:55.750 --> 00:07:55.760 align:start position:0%
+parameters so maybe logistic regression
+ 
+
+00:07:55.760 --> 00:07:57.820 align:start position:0%
+parameters so maybe logistic regression
+or<00:07:55.970><c> linear</c><00:07:56.270><c> regression</c><00:07:56.750><c> with</c><00:07:57.200><c> a</c><00:07:57.230><c> large</c><00:07:57.530><c> number</c>
+
+00:07:57.820 --> 00:07:57.830 align:start position:0%
+or linear regression with a large number
+ 
+
+00:07:57.830 --> 00:07:59.410 align:start position:0%
+or linear regression with a large number
+of<00:07:57.860><c> features</c><00:07:58.040><c> or</c><00:07:58.730><c> one</c><00:07:58.970><c> thing</c><00:07:59.120><c> that</c><00:07:59.300><c> I</c>
+
+00:07:59.410 --> 00:07:59.420 align:start position:0%
+of features or one thing that I
+ 
+
+00:07:59.420 --> 00:08:00.820 align:start position:0%
+of features or one thing that I
+sometimes<00:07:59.720><c> do</c><00:08:00.080><c> one</c><00:08:00.380><c> thing</c><00:08:00.500><c> that</c><00:08:00.680><c> often</c>
+
+00:08:00.820 --> 00:08:00.830 align:start position:0%
+sometimes do one thing that often
+ 
+
+00:08:00.830 --> 00:08:02.860 align:start position:0%
+sometimes do one thing that often
+directly<00:08:01.520><c> is</c><00:08:01.670><c> used</c><00:08:01.970><c> a</c><00:08:02.060><c> neural</c><00:08:02.300><c> network</c><00:08:02.450><c> with</c>
+
+00:08:02.860 --> 00:08:02.870 align:start position:0%
+directly is used a neural network with
+ 
+
+00:08:02.870 --> 00:08:05.050 align:start position:0%
+directly is used a neural network with
+many<00:08:03.020><c> hidden</c><00:08:03.290><c> units</c><00:08:03.410><c> there'll</c><00:08:04.100><c> be</c><00:08:04.190><c> another</c>
+
+00:08:05.050 --> 00:08:05.060 align:start position:0%
+many hidden units there'll be another
+ 
+
+00:08:05.060 --> 00:08:07.120 align:start position:0%
+many hidden units there'll be another
+learning<00:08:05.510><c> algorithm</c><00:08:05.990><c> with</c><00:08:06.710><c> a</c><00:08:06.740><c> lot</c><00:08:07.010><c> of</c>
+
+00:08:07.120 --> 00:08:07.130 align:start position:0%
+learning algorithm with a lot of
+ 
+
+00:08:07.130 --> 00:08:10.300 align:start position:0%
+learning algorithm with a lot of
+parameters<00:08:07.630><c> so</c><00:08:08.630><c> these</c><00:08:08.930><c> are</c><00:08:09.170><c> all</c><00:08:09.320><c> powerful</c>
+
+00:08:10.300 --> 00:08:10.310 align:start position:0%
+parameters so these are all powerful
+ 
+
+00:08:10.310 --> 00:08:11.770 align:start position:0%
+parameters so these are all powerful
+learning<00:08:10.430><c> algorithms</c><00:08:11.150><c> with</c><00:08:11.390><c> a</c><00:08:11.420><c> lot</c><00:08:11.750><c> of</c>
+
+00:08:11.770 --> 00:08:11.780 align:start position:0%
+learning algorithms with a lot of
+ 
+
+00:08:11.780 --> 00:08:14.380 align:start position:0%
+learning algorithms with a lot of
+parameters<00:08:12.100><c> that</c><00:08:13.100><c> can</c><00:08:13.280><c> fit</c><00:08:13.610><c> very</c><00:08:13.850><c> complex</c>
+
+00:08:14.380 --> 00:08:14.390 align:start position:0%
+parameters that can fit very complex
+ 
+
+00:08:14.390 --> 00:08:18.640 align:start position:0%
+parameters that can fit very complex
+functions<00:08:15.340><c> so</c><00:08:16.340><c> I'm</c><00:08:17.090><c> gonna</c><00:08:17.240><c> call</c><00:08:17.540><c> these</c><00:08:17.690><c> we're</c>
+
+00:08:18.640 --> 00:08:18.650 align:start position:0%
+functions so I'm gonna call these we're
+ 
+
+00:08:18.650 --> 00:08:20.530 align:start position:0%
+functions so I'm gonna call these we're
+going<00:08:18.830><c> to</c><00:08:18.980><c> think</c><00:08:19.310><c> of</c><00:08:19.460><c> these</c><00:08:19.610><c> as</c><00:08:19.670><c> low</c><00:08:20.240><c> bias</c>
+
+00:08:20.530 --> 00:08:20.540 align:start position:0%
+going to think of these as low bias
+ 
+
+00:08:20.540 --> 00:08:22.690 align:start position:0%
+going to think of these as low bias
+algorithms<00:08:21.410><c> because</c><00:08:21.920><c> you</c><00:08:22.100><c> know</c><00:08:22.160><c> they</c><00:08:22.310><c> can</c><00:08:22.490><c> fit</c>
+
+00:08:22.690 --> 00:08:22.700 align:start position:0%
+algorithms because you know they can fit
+ 
+
+00:08:22.700 --> 00:08:26.740 align:start position:0%
+algorithms because you know they can fit
+very<00:08:22.970><c> complex</c><00:08:23.270><c> functions</c><00:08:23.600><c> and</c><00:08:25.480><c> because</c><00:08:26.480><c> we</c>
+
+00:08:26.740 --> 00:08:26.750 align:start position:0%
+very complex functions and because we
+ 
+
+00:08:26.750 --> 00:08:29.350 align:start position:0%
+very complex functions and because we
+have<00:08:26.990><c> a</c><00:08:27.230><c> very</c><00:08:27.620><c> powerful</c><00:08:28.340><c> learning</c><00:08:28.760><c> algorithm</c>
+
+00:08:29.350 --> 00:08:29.360 align:start position:0%
+have a very powerful learning algorithm
+ 
+
+00:08:29.360 --> 00:08:31.140 align:start position:0%
+have a very powerful learning algorithm
+that<00:08:29.390><c> can</c><00:08:29.690><c> fit</c><00:08:29.870><c> very</c><00:08:30.110><c> complex</c><00:08:30.350><c> functions</c>
+
+00:08:31.140 --> 00:08:31.150 align:start position:0%
+that can fit very complex functions
+ 
+
+00:08:31.150 --> 00:08:35.529 align:start position:0%
+that can fit very complex functions
+chances<00:08:32.150><c> are</c><00:08:32.349><c> if</c><00:08:33.349><c> we</c><00:08:34.030><c> run</c><00:08:35.030><c> these</c><00:08:35.180><c> algorithms</c>
+
+00:08:35.529 --> 00:08:35.539 align:start position:0%
+chances are if we run these algorithms
+ 
+
+00:08:35.539 --> 00:08:38.320 align:start position:0%
+chances are if we run these algorithms
+on<00:08:35.960><c> the</c><00:08:36.080><c> data</c><00:08:36.260><c> set</c><00:08:36.560><c> it</c><00:08:37.160><c> will</c><00:08:37.430><c> be</c><00:08:37.550><c> able</c><00:08:37.669><c> to</c><00:08:38.090><c> fit</c>
+
+00:08:38.320 --> 00:08:38.330 align:start position:0%
+on the data set it will be able to fit
+ 
+
+00:08:38.330 --> 00:08:41.140 align:start position:0%
+on the data set it will be able to fit
+the<00:08:38.599><c> training</c><00:08:39.050><c> set</c><00:08:39.260><c> well</c><00:08:39.620><c> and</c><00:08:39.979><c> so</c><00:08:40.880><c> hopefully</c>
+
+00:08:41.140 --> 00:08:41.150 align:start position:0%
+the training set well and so hopefully
+ 
+
+00:08:41.150 --> 00:08:44.680 align:start position:0%
+the training set well and so hopefully
+the<00:08:41.479><c> training</c><00:08:42.320><c> error</c><00:08:42.890><c> will</c><00:08:43.010><c> be</c><00:08:43.190><c> small</c><00:08:43.690><c> now</c>
+
+00:08:44.680 --> 00:08:44.690 align:start position:0%
+the training error will be small now
+ 
+
+00:08:44.690 --> 00:08:46.840 align:start position:0%
+the training error will be small now
+let's<00:08:45.230><c> say</c><00:08:45.410><c> we</c><00:08:45.530><c> use</c><00:08:45.770><c> a</c><00:08:46.040><c> massive</c><00:08:46.070><c> massive</c>
+
+00:08:46.840 --> 00:08:46.850 align:start position:0%
+let's say we use a massive massive
+ 
+
+00:08:46.850 --> 00:08:49.720 align:start position:0%
+let's say we use a massive massive
+training<00:08:47.330><c> set</c><00:08:47.450><c> in</c><00:08:47.900><c> that</c><00:08:48.830><c> case</c><00:08:49.130><c> and</c><00:08:49.490><c> we</c><00:08:49.580><c> have</c><00:08:49.610><c> a</c>
+
+00:08:49.720 --> 00:08:49.730 align:start position:0%
+training set in that case and we have a
+ 
+
+00:08:49.730 --> 00:08:52.300 align:start position:0%
+training set in that case and we have a
+huge<00:08:50.150><c> training</c><00:08:50.600><c> set</c><00:08:50.810><c> then</c><00:08:51.110><c> hopefully</c><00:08:52.070><c> even</c>
+
+00:08:52.300 --> 00:08:52.310 align:start position:0%
+huge training set then hopefully even
+ 
+
+00:08:52.310 --> 00:08:53.740 align:start position:0%
+huge training set then hopefully even
+though<00:08:52.610><c> we</c><00:08:52.760><c> have</c><00:08:52.850><c> a</c><00:08:52.880><c> lot</c><00:08:53.060><c> of</c><00:08:53.090><c> parameters</c><00:08:53.330><c> but</c>
+
+00:08:53.740 --> 00:08:53.750 align:start position:0%
+though we have a lot of parameters but
+ 
+
+00:08:53.750 --> 00:08:56.290 align:start position:0%
+though we have a lot of parameters but
+if<00:08:54.140><c> the</c><00:08:54.230><c> training</c><00:08:54.560><c> set</c><00:08:54.770><c> is</c><00:08:54.980><c> sort</c><00:08:55.250><c> of</c><00:08:55.310><c> even</c><00:08:56.090><c> much</c>
+
+00:08:56.290 --> 00:08:56.300 align:start position:0%
+if the training set is sort of even much
+ 
+
+00:08:56.300 --> 00:08:58.090 align:start position:0%
+if the training set is sort of even much
+larger<00:08:56.570><c> than</c><00:08:57.050><c> the</c><00:08:57.170><c> number</c><00:08:57.290><c> of</c><00:08:57.470><c> parameters</c>
+
+00:08:58.090 --> 00:08:58.100 align:start position:0%
+larger than the number of parameters
+ 
+
+00:08:58.100 --> 00:09:00.370 align:start position:0%
+larger than the number of parameters
+then<00:08:58.880><c> hopefully</c><00:08:59.450><c> these</c><00:08:59.600><c> algorithms</c><00:09:00.140><c> will</c><00:09:00.260><c> be</c>
+
+00:09:00.370 --> 00:09:00.380 align:start position:0%
+then hopefully these algorithms will be
+ 
+
+00:09:00.380 --> 00:09:03.190 align:start position:0%
+then hopefully these algorithms will be
+unlikely<00:09:01.040><c> to</c><00:09:01.190><c> overfit</c><00:09:01.750><c> right</c><00:09:02.750><c> because</c><00:09:03.050><c> we</c>
+
+00:09:03.190 --> 00:09:03.200 align:start position:0%
+unlikely to overfit right because we
+ 
+
+00:09:03.200 --> 00:09:05.830 align:start position:0%
+unlikely to overfit right because we
+have<00:09:03.290><c> such</c><00:09:03.590><c> a</c><00:09:03.620><c> massive</c><00:09:04.130><c> training</c><00:09:04.400><c> set</c><00:09:04.550><c> and</c><00:09:04.940><c> by</c>
+
+00:09:05.830 --> 00:09:05.840 align:start position:0%
+have such a massive training set and by
+ 
+
+00:09:05.840 --> 00:09:08.620 align:start position:0%
+have such a massive training set and by
+unlikely<00:09:06.560><c> to</c><00:09:06.680><c> overfit</c><00:09:06.880><c> what</c><00:09:07.880><c> that</c><00:09:08.060><c> means</c><00:09:08.330><c> is</c>
+
+00:09:08.620 --> 00:09:08.630 align:start position:0%
+unlikely to overfit what that means is
+ 
+
+00:09:08.630 --> 00:09:10.630 align:start position:0%
+unlikely to overfit what that means is
+that<00:09:08.660><c> the</c><00:09:08.930><c> training</c><00:09:09.230><c> error</c><00:09:09.500><c> will</c><00:09:09.890><c> hopefully</c>
+
+00:09:10.630 --> 00:09:10.640 align:start position:0%
+that the training error will hopefully
+ 
+
+00:09:10.640 --> 00:09:14.530 align:start position:0%
+that the training error will hopefully
+be<00:09:11.060><c> close</c><00:09:11.710><c> to</c><00:09:12.710><c> the</c><00:09:12.860><c> test</c><00:09:13.130><c> error</c><00:09:13.540><c> finally</c>
+
+00:09:14.530 --> 00:09:14.540 align:start position:0%
+be close to the test error finally
+ 
+
+00:09:14.540 --> 00:09:16.600 align:start position:0%
+be close to the test error finally
+putting<00:09:14.870><c> these</c><00:09:15.110><c> two</c><00:09:15.350><c> together</c><00:09:15.500><c> if</c><00:09:16.340><c> the</c>
+
+00:09:16.600 --> 00:09:16.610 align:start position:0%
+putting these two together if the
+ 
+
+00:09:16.610 --> 00:09:19.030 align:start position:0%
+putting these two together if the
+training<00:09:17.030><c> set</c><00:09:17.240><c> error</c><00:09:17.270><c> is</c><00:09:17.660><c> small</c><00:09:17.990><c> and</c><00:09:18.260><c> the</c><00:09:18.830><c> test</c>
+
+00:09:19.030 --> 00:09:19.040 align:start position:0%
+training set error is small and the test
+ 
+
+00:09:19.040 --> 00:09:21.610 align:start position:0%
+training set error is small and the test
+set<00:09:19.220><c> error</c><00:09:19.400><c> is</c><00:09:19.760><c> close</c><00:09:20.120><c> to</c><00:09:20.420><c> the</c><00:09:20.570><c> training</c><00:09:21.440><c> error</c>
+
+00:09:21.610 --> 00:09:21.620 align:start position:0%
+set error is close to the training error
+ 
+
+00:09:21.620 --> 00:09:24.640 align:start position:0%
+set error is close to the training error
+what<00:09:22.460><c> these</c><00:09:22.640><c> two</c><00:09:22.910><c> together</c><00:09:23.090><c> imply</c><00:09:23.900><c> is</c><00:09:24.260><c> that</c>
+
+00:09:24.640 --> 00:09:24.650 align:start position:0%
+what these two together imply is that
+ 
+
+00:09:24.650 --> 00:09:27.079 align:start position:0%
+what these two together imply is that
+hopefully<00:09:25.430><c> the</c><00:09:26.030><c> test</c><00:09:26.300><c> set</c>
+
+00:09:27.079 --> 00:09:27.089 align:start position:0%
+hopefully the test set
+ 
+
+00:09:27.089 --> 00:09:32.900 align:start position:0%
+hopefully the test set
+we'll<00:09:27.899><c> also</c><00:09:28.110><c> be</c><00:09:28.320><c> small</c><00:09:31.430><c> another</c><00:09:32.430><c> way</c><00:09:32.610><c> to</c><00:09:32.670><c> think</c>
+
+00:09:32.900 --> 00:09:32.910 align:start position:0%
+we'll also be small another way to think
+ 
+
+00:09:32.910 --> 00:09:35.810 align:start position:0%
+we'll also be small another way to think
+about<00:09:33.060><c> this</c><00:09:33.420><c> is</c><00:09:33.779><c> that</c><00:09:34.139><c> in</c><00:09:34.740><c> order</c><00:09:35.040><c> to</c><00:09:35.279><c> have</c><00:09:35.610><c> high</c>
+
+00:09:35.810 --> 00:09:35.820 align:start position:0%
+about this is that in order to have high
+ 
+
+00:09:35.820 --> 00:09:38.030 align:start position:0%
+about this is that in order to have high
+performance<00:09:36.060><c> learning</c><00:09:36.720><c> algorithm</c><00:09:36.990><c> we</c><00:09:37.620><c> wanted</c>
+
+00:09:38.030 --> 00:09:38.040 align:start position:0%
+performance learning algorithm we wanted
+ 
+
+00:09:38.040 --> 00:09:40.189 align:start position:0%
+performance learning algorithm we wanted
+not<00:09:38.310><c> to</c><00:09:38.519><c> have</c><00:09:38.699><c> high</c><00:09:39.000><c> buyers</c><00:09:39.269><c> and</c><00:09:39.630><c> not</c><00:09:39.899><c> to</c><00:09:40.050><c> have</c>
+
+00:09:40.189 --> 00:09:40.199 align:start position:0%
+not to have high buyers and not to have
+ 
+
+00:09:40.199 --> 00:09:43.310 align:start position:0%
+not to have high buyers and not to have
+high<00:09:40.470><c> variance</c><00:09:41.209><c> so</c><00:09:42.209><c> the</c><00:09:42.360><c> bias</c><00:09:42.570><c> problem</c><00:09:43.139><c> we're</c>
+
+00:09:43.310 --> 00:09:43.320 align:start position:0%
+high variance so the bias problem we're
+ 
+
+00:09:43.320 --> 00:09:45.019 align:start position:0%
+high variance so the bias problem we're
+going<00:09:43.440><c> to</c><00:09:43.500><c> address</c><00:09:44.040><c> by</c><00:09:44.220><c> making</c><00:09:44.550><c> sure</c><00:09:44.730><c> we</c><00:09:44.940><c> have</c>
+
+00:09:45.019 --> 00:09:45.029 align:start position:0%
+going to address by making sure we have
+ 
+
+00:09:45.029 --> 00:09:46.129 align:start position:0%
+going to address by making sure we have
+a<00:09:45.060><c> learning</c><00:09:45.420><c> algorithm</c><00:09:45.690><c> with</c><00:09:45.930><c> many</c>
+
+00:09:46.129 --> 00:09:46.139 align:start position:0%
+a learning algorithm with many
+ 
+
+00:09:46.139 --> 00:09:48.650 align:start position:0%
+a learning algorithm with many
+parameters<00:09:46.380><c> and</c><00:09:47.040><c> so</c><00:09:47.699><c> that</c><00:09:47.880><c> gives</c><00:09:48.120><c> us</c><00:09:48.269><c> a</c><00:09:48.329><c> little</c>
+
+00:09:48.650 --> 00:09:48.660 align:start position:0%
+parameters and so that gives us a little
+ 
+
+00:09:48.660 --> 00:09:51.920 align:start position:0%
+parameters and so that gives us a little
+bias<00:09:48.839><c> algorithm</c><00:09:49.410><c> and</c><00:09:50.029><c> by</c><00:09:51.029><c> using</c><00:09:51.269><c> a</c><00:09:51.540><c> very</c><00:09:51.570><c> large</c>
+
+00:09:51.920 --> 00:09:51.930 align:start position:0%
+bias algorithm and by using a very large
+ 
+
+00:09:51.930 --> 00:09:54.199 align:start position:0%
+bias algorithm and by using a very large
+training<00:09:52.079><c> set</c><00:09:52.649><c> this</c><00:09:53.190><c> ensures</c><00:09:53.610><c> that</c><00:09:53.760><c> we</c><00:09:54.000><c> don't</c>
+
+00:09:54.199 --> 00:09:54.209 align:start position:0%
+training set this ensures that we don't
+ 
+
+00:09:54.209 --> 00:09:56.000 align:start position:0%
+training set this ensures that we don't
+have<00:09:54.360><c> a</c><00:09:54.389><c> variance</c><00:09:54.899><c> problem</c><00:09:55.380><c> either</c><00:09:55.560><c> and</c><00:09:55.829><c> so</c>
+
+00:09:56.000 --> 00:09:56.010 align:start position:0%
+have a variance problem either and so
+ 
+
+00:09:56.010 --> 00:09:57.889 align:start position:0%
+have a variance problem either and so
+hopefully<00:09:56.519><c> our</c><00:09:56.940><c> algorithm</c><00:09:57.329><c> will</c><00:09:57.360><c> have</c><00:09:57.540><c> low</c>
+
+00:09:57.889 --> 00:09:57.899 align:start position:0%
+hopefully our algorithm will have low
+ 
+
+00:09:57.899 --> 00:10:00.170 align:start position:0%
+hopefully our algorithm will have low
+variance<00:09:58.410><c> and</c><00:09:58.680><c> so</c><00:09:59.310><c> it's</c><00:09:59.490><c> by</c><00:09:59.579><c> putting</c><00:09:59.970><c> these</c>
+
+00:10:00.170 --> 00:10:00.180 align:start position:0%
+variance and so it's by putting these
+ 
+
+00:10:00.180 --> 00:10:02.660 align:start position:0%
+variance and so it's by putting these
+two<00:10:00.510><c> together</c><00:10:01.079><c> that</c><00:10:01.980><c> we</c><00:10:02.130><c> end</c><00:10:02.310><c> up</c><00:10:02.459><c> with</c><00:10:02.610><c> a</c>
+
+00:10:02.660 --> 00:10:02.670 align:start position:0%
+two together that we end up with a
+ 
+
+00:10:02.670 --> 00:10:05.300 align:start position:0%
+two together that we end up with a
+little<00:10:02.940><c> bias</c><00:10:03.149><c> and</c><00:10:03.540><c> a</c><00:10:03.870><c> low</c><00:10:04.050><c> variance</c><00:10:04.560><c> learning</c>
+
+00:10:05.300 --> 00:10:05.310 align:start position:0%
+little bias and a low variance learning
+ 
+
+00:10:05.310 --> 00:10:08.480 align:start position:0%
+little bias and a low variance learning
+algorithm<00:10:05.790><c> and</c><00:10:06.110><c> this</c><00:10:07.110><c> allows</c><00:10:07.440><c> us</c><00:10:07.470><c> to</c><00:10:08.070><c> do</c><00:10:08.250><c> well</c>
+
+00:10:08.480 --> 00:10:08.490 align:start position:0%
+algorithm and this allows us to do well
+ 
+
+00:10:08.490 --> 00:10:11.420 align:start position:0%
+algorithm and this allows us to do well
+on<00:10:08.820><c> the</c><00:10:09.089><c> test</c><00:10:09.120><c> set</c><00:10:09.480><c> and</c><00:10:09.920><c> fundamentally</c><00:10:10.920><c> it</c><00:10:11.250><c> is</c>
+
+00:10:11.420 --> 00:10:11.430 align:start position:0%
+on the test set and fundamentally it is
+ 
+
+00:10:11.430 --> 00:10:14.540 align:start position:0%
+on the test set and fundamentally it is
+the<00:10:11.790><c> key</c><00:10:12.089><c> ingredients</c><00:10:12.930><c> of</c><00:10:13.170><c> assuming</c><00:10:13.829><c> that</c><00:10:13.889><c> the</c>
+
+00:10:14.540 --> 00:10:14.550 align:start position:0%
+the key ingredients of assuming that the
+ 
+
+00:10:14.550 --> 00:10:16.850 align:start position:0%
+the key ingredients of assuming that the
+features<00:10:14.730><c> have</c><00:10:15.089><c> enough</c><00:10:15.389><c> information</c><00:10:15.690><c> and</c><00:10:16.529><c> we</c>
+
+00:10:16.850 --> 00:10:16.860 align:start position:0%
+features have enough information and we
+ 
+
+00:10:16.860 --> 00:10:18.560 align:start position:0%
+features have enough information and we
+have<00:10:17.070><c> a</c><00:10:17.100><c> rich</c><00:10:17.399><c> class</c><00:10:17.670><c> of</c><00:10:17.850><c> functions</c><00:10:18.269><c> that's</c>
+
+00:10:18.560 --> 00:10:18.570 align:start position:0%
+have a rich class of functions that's
+ 
+
+00:10:18.570 --> 00:10:21.199 align:start position:0%
+have a rich class of functions that's
+why<00:10:18.779><c> guarantees</c><00:10:19.320><c> low</c><00:10:19.529><c> bias</c><00:10:19.769><c> and</c><00:10:20.190><c> then</c><00:10:21.029><c> it's</c>
+
+00:10:21.199 --> 00:10:21.209 align:start position:0%
+why guarantees low bias and then it's
+ 
+
+00:10:21.209 --> 00:10:22.970 align:start position:0%
+why guarantees low bias and then it's
+having<00:10:21.540><c> a</c><00:10:21.630><c> massive</c><00:10:21.870><c> training</c><00:10:22.410><c> set</c><00:10:22.709><c> that</c>
+
+00:10:22.970 --> 00:10:22.980 align:start position:0%
+having a massive training set that
+ 
+
+00:10:22.980 --> 00:10:26.530 align:start position:0%
+having a massive training set that
+that's<00:10:23.430><c> what</c><00:10:23.639><c> guarantees</c><00:10:24.149><c> no</c><00:10:24.420><c> variance</c>
+
+00:10:26.530 --> 00:10:26.540 align:start position:0%
+that's what guarantees no variance
+ 
+
+00:10:26.540 --> 00:10:29.380 align:start position:0%
+that's what guarantees no variance
+so<00:10:27.410><c> this</c><00:10:27.800><c> gives</c><00:10:28.070><c> us</c><00:10:28.220><c> a</c><00:10:28.430><c> set</c><00:10:28.670><c> of</c><00:10:28.820><c> conditions</c>
+
+00:10:29.380 --> 00:10:29.390 align:start position:0%
+so this gives us a set of conditions
+ 
+
+00:10:29.390 --> 00:10:31.210 align:start position:0%
+so this gives us a set of conditions
+wrong<00:10:29.780><c> hopefully</c><00:10:30.110><c> some</c><00:10:30.290><c> understanding</c><00:10:31.070><c> of</c>
+
+00:10:31.210 --> 00:10:31.220 align:start position:0%
+wrong hopefully some understanding of
+ 
+
+00:10:31.220 --> 00:10:34.000 align:start position:0%
+wrong hopefully some understanding of
+what's<00:10:31.820><c> the</c><00:10:31.940><c> sort</c><00:10:32.150><c> of</c><00:10:32.240><c> problem</c><00:10:32.320><c> where</c><00:10:33.320><c> if</c><00:10:33.770><c> you</c>
+
+00:10:34.000 --> 00:10:34.010 align:start position:0%
+what's the sort of problem where if you
+ 
+
+00:10:34.010 --> 00:10:35.830 align:start position:0%
+what's the sort of problem where if you
+have<00:10:34.280><c> a</c><00:10:34.310><c> lot</c><00:10:34.520><c> of</c><00:10:34.640><c> data</c><00:10:34.790><c> and</c><00:10:35.300><c> you</c><00:10:35.480><c> train</c><00:10:35.810><c> a</c>
+
+00:10:35.830 --> 00:10:35.840 align:start position:0%
+have a lot of data and you train a
+ 
+
+00:10:35.840 --> 00:10:37.660 align:start position:0%
+have a lot of data and you train a
+learning<00:10:36.410><c> algorithm</c><00:10:36.710><c> with</c><00:10:37.160><c> a</c><00:10:37.190><c> moment</c>
+
+00:10:37.660 --> 00:10:37.670 align:start position:0%
+learning algorithm with a moment
+ 
+
+00:10:37.670 --> 00:10:39.700 align:start position:0%
+learning algorithm with a moment
+parameters<00:10:38.240><c> that</c><00:10:38.870><c> might</c><00:10:39.110><c> be</c><00:10:39.260><c> a</c><00:10:39.290><c> good</c><00:10:39.530><c> way</c><00:10:39.680><c> to</c>
+
+00:10:39.700 --> 00:10:39.710 align:start position:0%
+parameters that might be a good way to
+ 
+
+00:10:39.710 --> 00:10:41.380 align:start position:0%
+parameters that might be a good way to
+give<00:10:40.070><c> a</c><00:10:40.310><c> high</c><00:10:40.520><c> performance</c><00:10:41.150><c> learning</c>
+
+00:10:41.380 --> 00:10:41.390 align:start position:0%
+give a high performance learning
+ 
+
+00:10:41.390 --> 00:10:43.360 align:start position:0%
+give a high performance learning
+algorithm<00:10:41.870><c> and</c><00:10:42.320><c> really</c><00:10:42.890><c> I</c><00:10:42.950><c> think</c><00:10:43.070><c> the</c><00:10:43.340><c> key</c>
+
+00:10:43.360 --> 00:10:43.370 align:start position:0%
+algorithm and really I think the key
+ 
+
+00:10:43.370 --> 00:10:46.030 align:start position:0%
+algorithm and really I think the key
+test<00:10:43.850><c> that</c><00:10:44.120><c> I</c><00:10:44.210><c> often</c><00:10:44.510><c> ask</c><00:10:44.660><c> myself</c><00:10:44.840><c> are</c><00:10:45.230><c> first</c>
+
+00:10:46.030 --> 00:10:46.040 align:start position:0%
+test that I often ask myself are first
+ 
+
+00:10:46.040 --> 00:10:48.040 align:start position:0%
+test that I often ask myself are first
+can<00:10:46.550><c> a</c><00:10:46.580><c> human</c><00:10:46.940><c> expert</c><00:10:47.330><c> look</c><00:10:47.540><c> at</c><00:10:47.660><c> the</c><00:10:47.720><c> features</c>
+
+00:10:48.040 --> 00:10:48.050 align:start position:0%
+can a human expert look at the features
+ 
+
+00:10:48.050 --> 00:10:50.020 align:start position:0%
+can a human expert look at the features
+X<00:10:48.260><c> and</c><00:10:48.590><c> confidently</c><00:10:49.130><c> predict</c><00:10:49.520><c> the</c><00:10:49.610><c> value</c><00:10:49.910><c> of</c><00:10:49.940><c> y</c>
+
+00:10:50.020 --> 00:10:50.030 align:start position:0%
+X and confidently predict the value of y
+ 
+
+00:10:50.030 --> 00:10:52.420 align:start position:0%
+X and confidently predict the value of y
+because<00:10:50.450><c> there's</c><00:10:50.840><c> sort</c><00:10:51.020><c> of</c><00:10:51.080><c> a</c><00:10:51.430><c> certification</c>
+
+00:10:52.420 --> 00:10:52.430 align:start position:0%
+because there's sort of a certification
+ 
+
+00:10:52.430 --> 00:10:54.550 align:start position:0%
+because there's sort of a certification
+that<00:10:52.970><c> y</c><00:10:53.210><c> can</c><00:10:53.600><c> indeed</c><00:10:53.900><c> be</c><00:10:54.080><c> predicted</c>
+
+00:10:54.550 --> 00:10:54.560 align:start position:0%
+that y can indeed be predicted
+ 
+
+00:10:54.560 --> 00:10:56.490 align:start position:0%
+that y can indeed be predicted
+accurately<00:10:54.770><c> from</c><00:10:55.250><c> the</c><00:10:55.400><c> features</c><00:10:55.730><c> X</c><00:10:55.880><c> and</c>
+
+00:10:56.490 --> 00:10:56.500 align:start position:0%
+accurately from the features X and
+ 
+
+00:10:56.500 --> 00:10:58.690 align:start position:0%
+accurately from the features X and
+second<00:10:57.500><c> can</c><00:10:57.740><c> we</c><00:10:57.770><c> actually</c><00:10:58.040><c> get</c><00:10:58.310><c> a</c><00:10:58.370><c> large</c>
+
+00:10:58.690 --> 00:10:58.700 align:start position:0%
+second can we actually get a large
+ 
+
+00:10:58.700 --> 00:11:00.520 align:start position:0%
+second can we actually get a large
+training<00:10:59.060><c> set</c><00:10:59.360><c> and</c><00:10:59.600><c> train</c><00:11:00.110><c> the</c><00:11:00.230><c> learning</c>
+
+00:11:00.520 --> 00:11:00.530 align:start position:0%
+training set and train the learning
+ 
+
+00:11:00.530 --> 00:11:02.740 align:start position:0%
+training set and train the learning
+algorithm<00:11:01.040><c> for</c><00:11:01.310><c> long</c><00:11:01.460><c> time</c><00:11:01.820><c> selection</c><00:11:02.270><c> sets</c>
+
+00:11:02.740 --> 00:11:02.750 align:start position:0%
+algorithm for long time selection sets
+ 
+
+00:11:02.750 --> 00:11:05.890 align:start position:0%
+algorithm for long time selection sets
+and<00:11:02.960><c> if</c><00:11:03.860><c> you</c><00:11:04.010><c> can</c><00:11:04.220><c> do</c><00:11:04.400><c> both</c><00:11:04.580><c> then</c><00:11:05.060><c> that</c><00:11:05.510><c> will</c>
+
+00:11:05.890 --> 00:11:05.900 align:start position:0%
+and if you can do both then that will
+ 
+
+00:11:05.900 --> 00:11:07.930 align:start position:0%
+and if you can do both then that will
+often<00:11:06.080><c> give</c><00:11:06.470><c> you</c><00:11:06.650><c> a</c><00:11:06.680><c> very</c><00:11:07.010><c> high</c><00:11:07.280><c> performance</c>
+
+00:11:07.930 --> 00:11:07.940 align:start position:0%
+often give you a very high performance
+ 
+
+00:11:07.940 --> 00:11:10.720 align:start position:0%
+often give you a very high performance
+learning<00:11:08.390><c> how</c>
+

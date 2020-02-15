@@ -1,18 +1,22 @@
 from flask import flash, Flask, render_template, request, redirect
 from forms import QueryForm
 from flask_wtf.csrf import CSRFProtect
-import os
-import sys
-from phrase_occurances import find_occurances
+import os, sys, houndify
+import speech_recognition as sr
+from phrase_occurrences import find_occurrences
 
 app = Flask(__name__)
-app.config.from_object(__name__)
+app.config.from_pyfile('config.py', silent=True)
 csrf = CSRFProtect(app)
 
 search_string = ''
 
 SECRET_KEY = 'go bears'
 app.config['SECRET_KEY'] = SECRET_KEY
+client_id = app.config['HOUNDIFY_ID']
+client_key = app.config['HOUNDIFY_KEY']
+user_id = app.config['HOUNDIFY_USR']
+client = houndify.StreamingHoundClient(client_id, client_key, user_id, sampleRate=8000)
 
 @app.route('/', methods=('GET', 'POST'))
 def home():
@@ -24,23 +28,27 @@ def home():
 
 @app.route('/<search_term>', methods=('GET', 'POST'))
 def results(search_term):
-    data = find_occurances(search_term, "andrew_ng.json")
+    data = find_occurances(search_term, "examples/andrew_ng/andrew_ng.json")
     search = QueryForm(request.form)
     if request.method == 'POST':
         search_string = request.form['query']
         return redirect('/'+search_string)
     return render_template('index.html', form=search, name=search_term, data=data, showViewer=len(data)>0)
 
-# @app.route('/background_process_test')
-# def background_process_test():
-#     print ("Hello")
-#     return ("nothing")
-
-# @app.route('/background_process_test2')
-# def background_process_test2():
-#     print ("Goodbye")
-#     print(search_string)
-#     return ("nothing")
+@app.route("/listen", methods=['POST'])
+def listen():
+    search = QueryForm(request.form)
+    if request.method == 'POST':
+        rec = sr.Recognizer()
+        with sr.Microphone() as source:
+            rec.adjust_for_ambient_noise(source)
+            app.logger.info("I'm listening...")
+            audio = rec.listen(source, phrase_time_limit=5)
+        search_string = rec.recognize_houndify(audio, client_id, client_key)
+        if search_string:
+            data = find_occurrences(search_string, "examples/andrew_ng/andrew_ng.json")
+            return render_template('index.html', form=search, name=search_string, data=data)
+    return render_template('index.html', form=search)
 
 if __name__ == "__main__":
     app.run(debug=True)

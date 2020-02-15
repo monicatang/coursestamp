@@ -20,9 +20,20 @@ client = houndify.StreamingHoundClient(client_id, client_key, user_id, sampleRat
 def home():
     search = QueryForm(request.form)
     if request.method == 'POST':
-        search_string = request.form['query']
-        data = find_occurrences(search_string, "examples/andrew_ng/andrew_ng.json")
-        return render_template('index.html', form=search, name=search_string, data=data)
+        if request.form['search'] == 'text':
+            search_string = request.form['query']
+            data = find_occurrences(search_string, "examples/andrew_ng/andrew_ng.json")
+            return render_template('index.html', form=search, name=search_string, data=data)
+        else:
+            rec = sr.Recognizer()
+            with sr.Microphone() as source:
+                rec.adjust_for_ambient_noise(source)
+                app.logger.info("I'm listening...")
+                audio = rec.listen(source, phrase_time_limit=5)
+            search_string = rec.recognize_houndify(audio, client_id, client_key)
+            if search_string:
+                data = find_occurrences(search_string, "examples/andrew_ng/andrew_ng.json")
+                return render_template('index.html', form=search, name=search_string, data=data)
     return render_template('index.html', form=search)
 
 @app.route("/listen", methods=['POST'])

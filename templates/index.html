@@ -9,18 +9,18 @@
     <div class="container">
       <center>
         <img style="width:400px; padding-top:100px; padding-bottom:20px" src="{{url_for('static', filename='logo.png')}}" align="middle" />
-        <form  action="" method="post" role="form">
-          {{ form.hidden_tag() }}
-          <div class="form-group">
-            <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
-          </div>                        
-          <button type="submit" class="btn btn-success">Submit</button>
-        </form>
+          <form action="" method="post" role="form">
+            {{ form.hidden_tag() }}
+            <div class="input-group">
+                <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
+                <div class="input-group-append">
+                  <button class="btn btn-outline-secondary" type="submit" name="search" value="voice">Submit</button>
+                  <button type="submit" class="btn btn-success" name="search" value="voice">Voice Query</button>
+                </div>
+            </div>
+          </form>
         <br>
-        <form action="/listen" method="post">
-          {{ form.hidden_tag() }}
-          <button type="submit" class="btn btn-success">Voice Query</button>
-        </form>
+        
         <h3 style="padding:32px" class="title">{{ name }}</h3>
         {% for item in data %}
             <p> {{ item }} </p>

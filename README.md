@@ -1,4 +1,5 @@
 # coursestamp
+<http://coursestamp.com/>
 > time to learn
 
 ## Motivation

@@ -27,9 +27,9 @@
             {{ form.hidden_tag() }}
             <div class="input-group">
                 {% if dropdown == true %}
-                <select id="profs" name="profs">
+                <select class= "custom-select" id="profs" name="profs">
                   {% for o in option_list %}
-                    <option value= "{{o}}" SELECTED>{{o}}</option>
+                    <option value= "{{o[1]}}" SELECTED>{{o[0]}}</option>
                   {% endfor %}
                 </select>
                 <button class="btn btn-outline-secondary" type="submit" name="search" value="text"><i class="fas fa-search"></i></button>

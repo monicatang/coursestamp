@@ -28,6 +28,7 @@ def home():
         return redirect('/'+prof_name)
     opt_list = [x[0] for x in os.walk('examples')]
     opt_list = [i.replace('examples/', '') for i in opt_list if 'raw_subtitles' not in i]
+    opt_list = [(i.replace('_', ' ').title(), i) for i in opt_list]
     return render_template('index.html', form=select, option_list=opt_list[1:], dropdown = True, search_menu = False)
 
 @app.route('/<prof_name>', methods=('GET', 'POST'))

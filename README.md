@@ -15,6 +15,12 @@ When reviewing course material, students often want to revisit problem areas, ga
         - With emphasized keywords and keyphrases
     - Ability to click on each excerpt to skip to the correct timestamp in the embedded YouTube video
 
+### Local Installation
+- Clone the repository into your local machine
+- Download dependencies listed in `requirements.txt` and in the `Dockerfile` (`Dockerfile` mainly for `pyaudio` support)
+- Run `python main.py` (or `python3 main.py`)
+- Then the website should be hosted on `http://localhost:5000/`
+
 ### Google Cloud
 The app is deployed on Google Cloud through a custom domain: `http://coursestamp.com/`. It is relatively lightweight and is able to be quickly updated with more lecture offerings. We used Dockerfiles to manage dependencies.
 ### Houndify

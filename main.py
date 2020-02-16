@@ -21,13 +21,17 @@ client = houndify.StreamingHoundClient(client_id, client_key, user_id, sampleRat
 
 @app.route('/', methods=('GET', 'POST'))
 def home():
+    print("hello")
     select = QueryForm(request.form)
     if request.method == 'POST':
         prof_name = request.form['profs']
         return redirect('/'+prof_name)
     opt_list = [x[0] for x in os.walk('examples')]
+    print(opt_list)
+    opt_list = [i.replace('examples\\', '') for i in opt_list if 'raw_subtitles' not in i]
     opt_list = [i.replace('examples/', '') for i in opt_list if 'raw_subtitles' not in i]
     opt_list = [(i.replace('_', ' ').title(), i) for i in opt_list]
+    print(opt_list)
     return render_template('index.html', form=select, option_list=opt_list[1:], dropdown = True, search_menu = False)
 
 @app.route('/<prof_name>', methods=('GET', 'POST'))

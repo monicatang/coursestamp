@@ -24,17 +24,18 @@ def find_occurrences(phrase, filename):
       video_data = data[video_title]
       timestamps = list(video_data.keys())
       for index in range(len(timestamps)):
-          if phrase in video_data[timestamps[index]]:
+          if phrase.lower() in video_data[timestamps[index]].lower():
             timestamp = timestamps[index] if index == 0 else timestamps[index - 1]
             titles.append(title)
             urls.append(youtube + youtube_id + "?start=" + timestamp)
             context = ""
+            phraseIdx = video_data[timestamps[index]].lower().find(phrase.lower())
             if(index==0):
-              term_idxes.append(video_data[timestamps[index]].find(phrase))
+              term_idxes.append(phraseIdx)
               context+=video_data[timestamps[index]]
               context+=video_data[timestamps[index+1]]
             else:
-              term_idxes.append(len(video_data[timestamps[index-1]])+video_data[timestamps[index]].find(phrase))
+              term_idxes.append(len(video_data[timestamps[index-1]])+phraseIdx)
               context+=video_data[timestamps[index-1]]
               context+=video_data[timestamps[index]]
               if(index!=len(timestamps)-1):

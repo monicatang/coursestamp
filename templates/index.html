@@ -3,11 +3,15 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script type=text/javascript>
       function setYTClip(item) {
-          var id = $(item).attr("id");
-          $("iframe").attr("src", id);
+        var id = $(item).attr("id");
+        $("iframe").attr("src", id);
       }
       function backToMain() {
         $(location).attr('href', '/')
+      }
+      function showFeedback() {
+        $("#search-group").hide("slow")
+        $(".spinner").removeClass('hidden')
       }
   </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.js" integrity="sha256-2JRzNxMJiS0aHOJjG+liqsEOuBb6++9cY4dSOyiijX4=" crossorigin="anonymous"></script>
@@ -21,16 +25,23 @@
     <div class="container">
       <center>
         <img id="logo" src="{{url_for('static', filename='logo.png')}}" align="middle" onclick="backToMain()"/>
+        <div id="search-group">
           <form action="" method="post" role="form">
             {{ form.hidden_tag() }}
             <div class="input-group">
                 <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
                 <div class="input-group-append">
                   <button class="btn btn-outline-secondary" type="submit" name="search" value="text"><i class="fas fa-search"></i></button>
-                  <button type="submit" class="btn btn-outline-secondary" name="search" value="voice"><i class="fas fa-microphone"></i></button>
+                  <button type="submit" class="btn btn-outline-secondary" name="search" value="voice" onclick="showFeedback()"><i class="fas fa-microphone"></i></button>
                 </div>
             </div>
           </form>
+        </div>
+        <div class="spinner hidden">
+          <div class="bounce1"></div>
+          <div class="bounce2"></div>
+          <div class="bounce3"></div>
+        </div>
         {% if showViewer == true %}
         <iframe width="66%" height="500px" src="{{urls[0]}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         

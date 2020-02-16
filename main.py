@@ -24,7 +24,6 @@ def home():
     select = QueryForm(request.form)
     if request.method == 'POST':
         prof_name = request.form['profs']
-        #prof_name = "josh_hug"
         return redirect('/'+prof_name)
     opt_list = [x[0] for x in os.walk('examples')]
     opt_list = [i.replace('examples/', '') for i in opt_list if 'raw_subtitles' not in i]
@@ -37,7 +36,9 @@ def pick_prof(prof_name):
     if request.method == 'POST':
         search_string = request.form['query']
         return redirect('/'+prof_name+'/'+search_string)
-    return render_template('index.html', form=search, dropdown = False, search_menu = True)
+    f = open("examples/"+prof_name+"/"+prof_name+".txt", "r")
+    course_name = f.read()
+    return render_template('index.html', form=search, dropdown = False, search_menu = True, course_name=course_name)
 
 @app.route('/<prof_name>/<search_term>', methods=('GET', 'POST'))
 def results(prof_name, search_term):

@@ -2,4 +2,4 @@ Flask
 flask_wtf
 gunicorn
 speechrecognition
-pyaudio
+pipwin

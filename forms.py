@@ -1,8 +1,9 @@
 from flask_wtf import FlaskForm
-from wtforms import TextField, SubmitField
+from wtforms import TextField, SubmitField, SelectField
 
 class QueryForm(FlaskForm):
     """Query form."""
     query = TextField('Query')
     submit = SubmitField('Search')
     test = SubmitField('Test')
+    profs = SelectField('Profs', choices=[('josh_hug', 'Josh Hug'), ('catherine_drennan', 'Catherine Drennan'), ('andrew_ng', 'Andrew Ng')])

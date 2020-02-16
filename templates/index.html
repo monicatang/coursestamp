@@ -28,12 +28,23 @@
         <div id="search-group">
           <form action="" method="post" role="form">
             {{ form.hidden_tag() }}
+            <p visible={{search_menu}} style="float:left">{{ course_name }} - {{prof_name}}</p>
             <div class="input-group">
+                {% if dropdown == true %}
+                <select class= "custom-select" id="profs" name="profs">
+                  {% for o in option_list %}
+                    <option value= "{{o[1]}}" SELECTED>{{o[0]}}</option>
+                  {% endfor %}
+                </select>
+                <button class="btn btn-outline-secondary" type="submit" name="search" value="text"><i class="fas fa-search"></i></button>
+                {% endif %}
+                {% if search_menu == true %}
                 <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
                 <div class="input-group-append">
                   <button class="btn btn-outline-secondary" type="submit" name="search" value="text"><i class="fas fa-search"></i></button>
                   <button type="submit" class="btn btn-outline-secondary" name="search" value="voice" onclick="showFeedback()"><i class="fas fa-microphone"></i></button>
                 </div>
+                {% endif %}
             </div>
           </form>
         </div>
@@ -53,7 +64,7 @@
               <div class="excerpt-box">
               <span>{{ titleContexts[loop.index0] }}</span>
               </div>
-              <p style="cursor:pointer;" id="{{url}}" onclick="setYTClip(this)"> {{ leftContexts[loop.index0] }}<b>{{ name }}</b> {{ rightContexts[loop.index0] }} </p>
+              <p style="cursor:pointer;" id="{{url}}" onclick="setYTClip(this)"> {{ leftContexts[loop.index0] }}<b>{{ name }}</b>{{ rightContexts[loop.index0] }} </p>
               </div>
           {% endfor %}
         </div>

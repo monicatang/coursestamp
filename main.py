@@ -41,8 +41,9 @@ def pick_prof(prof_name):
         search_string = request.form['query']
         return redirect('/'+prof_name+'/'+search_string)
     f = open("examples/"+prof_name+"/"+prof_name+".txt", "r")
+    prof_name = prof_name.replace("_", " ").title()
     course_name = f.read()
-    return render_template('index.html', form=search, dropdown = False, search_menu = True, course_name=course_name)
+    return render_template('index.html', form=search, dropdown = False, search_menu = True, course_name=course_name, prof_name=prof_name)
 
 @app.route('/<prof_name>/<search_term>', methods=('GET', 'POST'))
 def results(prof_name, search_term):

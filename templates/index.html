@@ -25,6 +25,7 @@
         <img id="logo" src="{{url_for('static', filename='logo.png')}}" align="middle" onclick="backToMain()"/>
           <form action="" method="post" role="form">
             {{ form.hidden_tag() }}
+            <p visible={{search_menu}} style="float:left">{{ course_name }} - {{prof_name}}</p>
             <div class="input-group">
                 {% if dropdown == true %}
                 <select class= "custom-select" id="profs" name="profs">
@@ -35,8 +36,6 @@
                 <button class="btn btn-outline-secondary" type="submit" name="search" value="text"><i class="fas fa-search"></i></button>
                 {% endif %}
                 {% if search_menu == true %}
-                <p>{{ course_name }} </p>
-
                 <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
                 <div class="input-group-append">
                   <button class="btn btn-outline-secondary" type="submit" name="search" value="text"><i class="fas fa-search"></i></button>

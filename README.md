@@ -25,9 +25,12 @@ Flask, jQuery, CSS, HTML, Python, Docker, Google Cloud, Houndify API, youtube-dl
 In the following demos, we search for the phrase `machine learning` in Andrew Ng's free lectures on machine learning on the YouTube channel "Artificial Intelligence - All in One".
 
 By voice query:
-![](demo/voice_search_demo.mp4)
+
+<img src="demo/voice_search_gif.gif" width="600">
+
 By text search:
-![](demo/text_search_demo.mp4)
+
+<img src="demo/text_search_gif.gif" width="600">
 
 ## Data Processing
 The core of the app relies on multiple layers of retrieving and processing input data. Much of this work can be done in advance, resulting in the storage of lightweight JSON files that can represent infromation for an entire course. It utilizes multiple utilities such as `regex` and `youtube-dl` to pattern match and collect relevant data.

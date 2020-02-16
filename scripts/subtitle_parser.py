@@ -19,7 +19,7 @@ def parse():
     lecture_obj = lecture_matcher.match(filename)
     lecture_code = lecture_obj.group(1)
     file_dict = {}
-    with open(filename) as file:
+    with open(filename, encoding="utf8") as file:
       last_time = None
       found_subtitle = False
       for line in file:

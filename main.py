@@ -11,7 +11,7 @@ app.config.from_pyfile('config.py', silent=True)
 csrf = CSRFProtect(app)
 
 search_string = ''
-
+RESULT_LIMIT = 100
 SECRET_KEY = 'go bears'
 app.config['SECRET_KEY'] = SECRET_KEY
 client_id = app.config['HOUNDIFY_ID']
@@ -60,16 +60,16 @@ def results(prof_name, search_term):
         search_string = request.form['query']
         return redirect('/'+prof_name+'/'+search_string)
     return render_template('index.html', form=search, 
-        name=search_term, urls=urls, leftContexts=leftContexts, 
+        name=search_term, urls=urls[:RESULT_LIMIT], leftContexts=leftContexts,
         rightContexts=rightContexts, titleContexts=titleContexts, showViewer=len(urls)>0, dropdown = False, search_menu = True)
-
+  
 def listen():
     search = QueryForm(request.form)
     rec = sr.Recognizer()
     with sr.Microphone() as source:
         rec.adjust_for_ambient_noise(source)
         app.logger.info("I'm listening...")
-        audio = rec.listen(source, phrase_time_limit=5)
+        audio = rec.listen(source, phrase_time_limit=3)
     search_string = rec.recognize_houndify(audio, client_id, client_key)
     return search_string
 

@@ -19,7 +19,7 @@ The app is deployed on Google Cloud through a custom domain: `http://coursestamp
 ### Houndify
 The app uses Houndify's speech to text recognition engine to interpret speech recorded via `pyaudio`'s speech recognizer. This feature allows for efficient voice queries for users with disabilities and for greater convenience.
 ### Technologies Used
-Flask, jQuery, CSS, HTML, Python, Docker, Google Cloud, Houndify API, youtube-dl
+Flask, jQuery, CSS, HTML, Python, Docker, Google Cloud, Houndify API, youtube-dl, Bootstrap
 ## Demo
 
 In the following demos, we search for the phrase `machine learning` in Andrew Ng's free lectures on machine learning on the YouTube channel "Artificial Intelligence - All in One".

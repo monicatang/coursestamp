@@ -6,4 +6,4 @@ class QueryForm(FlaskForm):
     query = TextField('Query')
     submit = SubmitField('Search')
     test = SubmitField('Test')
-    profs = SelectField('Profs')
+    profs = SelectField('Profs', choices=[('josh_hug', 'Josh Hug'), ('catherine_drennan', 'Catherine Drennan'), ('andrew_ng', 'Andrew Ng')])

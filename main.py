@@ -38,7 +38,8 @@ def pick_prof(prof_name):
             search_string = listen()
         else:
             search_string = request.form['query']
-        search_string = '/' + search_string
+        if search_string != "":
+            search_string = '/' + search_string
         return redirect('/'+prof_name+search_string)
     f = open("examples/"+prof_name+"/"+prof_name+".txt", "r")
     prof_name = prof_name.replace("_", " ").title()
@@ -57,11 +58,19 @@ def results(prof_name, search_term):
         titleContexts.append(titles[idx])
     search = QueryForm(request.form)
     if request.method == 'POST':
-        search_string = request.form['query']
-        return redirect('/'+prof_name+'/'+search_string)
+        if request.form['search'] == "voice":
+            search_string = listen()
+        else:
+            search_string = request.form['query']
+        if search_string != "":
+            search_string = '/' + search_string
+        return redirect('/'+prof_name+search_string)
+    f = open("examples/"+prof_name+"/"+prof_name+".txt", "r")
+    prof_name = prof_name.replace("_", " ").title()
+    course_name = f.read()
     return render_template('index.html', form=search, 
         name=search_term, urls=urls[:RESULT_LIMIT], leftContexts=leftContexts,
-        rightContexts=rightContexts, titleContexts=titleContexts, showViewer=len(urls)>0, dropdown = False, search_menu = True)
+        rightContexts=rightContexts, titleContexts=titleContexts, showViewer=len(urls)>0, dropdown = False, search_menu = True, course_name=course_name, prof_name=prof_name)
   
 def listen():
     search = QueryForm(request.form)

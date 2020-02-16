@@ -28,7 +28,9 @@
         <div id="search-group">
           <form action="" method="post" role="form">
             {{ form.hidden_tag() }}
+            {% if dropdown == false %}
             <p visible={{search_menu}} style="float:left">{{ course_name }} - {{prof_name}}</p>
+            {% endif %}
             <div class="input-group">
                 {% if dropdown == true %}
                 <select class= "custom-select" id="profs" name="profs">

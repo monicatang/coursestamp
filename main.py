@@ -38,7 +38,10 @@ def home():
 def pick_prof(prof_name):
     search = QueryForm(request.form)
     if request.method == 'POST':
-        search_string = request.form['query']
+        if request.form['search'] == "voice":
+            search_string = listen()
+        else:
+            search_string = request.form['query']
         return redirect('/'+prof_name+'/'+search_string)
     f = open("examples/"+prof_name+"/"+prof_name+".txt", "r")
     prof_name = prof_name.replace("_", " ").title()

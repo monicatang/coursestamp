@@ -27,8 +27,9 @@ def home():
     opt_list = [x[0] for x in os.walk('examples')]
     opt_list = [i.replace('examples\\', '') for i in opt_list if 'raw_subtitles' not in i]
     opt_list = [i.replace('examples/', '') for i in opt_list if 'raw_subtitles' not in i]
-    opt_list = [(i.replace('_', ' ').title(), i) for i in opt_list]
-    return render_template('index.html', form=select, option_list=opt_list[1:], dropdown = True, search_menu = False)
+    opt_list = [(i.replace('_', ' ').title(), i) for i in opt_list][1:]
+    opt_list = [(open("examples/"+i[1]+"/"+i[1]+".txt", "r").read()+" - "+i[0], i[1]) for i in opt_list]
+    return render_template('index.html', form=select, option_list=opt_list, dropdown = True, search_menu = False)
 
 @app.route('/<prof_name>', methods=('GET', 'POST'))
 def pick_prof(prof_name):

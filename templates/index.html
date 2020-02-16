@@ -26,11 +26,23 @@
           <form action="" method="post" role="form">
             {{ form.hidden_tag() }}
             <div class="input-group">
+                {% if dropdown == true %}
+                <select class= "custom-select" id="profs" name="profs">
+                  {% for o in option_list %}
+                    <option value= "{{o[1]}}" SELECTED>{{o[0]}}</option>
+                  {% endfor %}
+                </select>
+                <button class="btn btn-outline-secondary" type="submit" name="search" value="text"><i class="fas fa-search"></i></button>
+                {% endif %}
+                {% if search_menu == true %}
+                <p>{{ course_name }} </p>
+
                 <input type="text" class="form-control" id="query" name="query" placeholder="Search for a keyword or keyphrase">
                 <div class="input-group-append">
                   <button class="btn btn-outline-secondary" type="submit" name="search" value="text"><i class="fas fa-search"></i></button>
                   <button type="submit" class="btn btn-outline-secondary" name="search" value="voice"><i class="fas fa-microphone"></i></button>
                 </div>
+                {% endif %}
             </div>
           </form>
         {% if showViewer == true %}
